@@ -9,7 +9,8 @@ pageCollectionLimit = 1000
 sleep_time = 1  # in seconds
 seedUrl = "https://en.wikipedia.org/wiki/Sustainable_energy"
 prefix = "https://en.wikipedia.org"
-depthLimit = 3
+mainPage = "https://en.wikipedia.org/wiki/Main_Page"
+depthLimit = 2
 currentLevel = 1
 pagesAtCurrentDepth = [seedUrl]
 pagesAtNextDepth = []
@@ -33,8 +34,10 @@ def extract_new_links(page):
         href = tag.get("href")
         if href is not None and ":" not in href and "#" not in href and "/wiki" in href:
             final_url = prefix + href
-            pagesAtNextDepth.append(final_url)
-
+            if final_url != mainPage:
+                print "the final downloaded pages are" + final_url
+                pagesAtNextDepth.append(final_url)
+    print len(pagesAtNextDepth)
     return pagesAtNextDepth
 
 
@@ -64,11 +67,11 @@ def crawlPagesInToBeCrawled(list_of_pages):
 
 def startCrawling():
     while currentLevel <= depthLimit:
-        print "current level is " + str(currentLevel)
+        #print "current level is " + str(currentLevel)
         if crawledPages.__sizeof__() <= pageCollectionLimit:
-            print "crawledPages size is " + str(crawledPages.__sizeof__())
+            #print "crawledPages size is " + str(crawledPages.__sizeof__())
             for url in pagesAtCurrentDepth:
-                print "url is " + url
+                #print "url is " + url
                 pagesAtCurrentDepth.remove(url)
                 if url not in crawledPages:
                     toBeCrawledPages.append(url)
@@ -79,6 +82,7 @@ def startCrawling():
 
 
 def main():
+
     startCrawling()
     return
 
