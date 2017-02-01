@@ -84,7 +84,6 @@ def check_redirected_url(full_url):
 
 def startCrawling():
     while currentLevel <= depthLimit:
-        print len(toBeCrawledPages)
         temp = []
         for element in toBeCrawledPages:
             temp.append(element)
