@@ -10,6 +10,7 @@ sinks = OrderedDict
 graph2 = "graph2" #the existing file for Wt2g links
 experiment = "experiment"
 input_file = experiment
+d = 0.85 #teleportation factor
 
 #function to load data into the dictionaries
 def load_data_in_dictionaries():
@@ -41,7 +42,31 @@ def load_data_in_dictionaries():
                 key2 = value
                 out_link_values.append(key)
                 out_links[key2] = out_link_values
+    print "outlinks are ..."
     print out_links
+
+    #populate sinks
+    sinks = []
+    for key in in_links.keys():
+        if (out_links.get(key) is None):
+            sinks.append(key)
+    print "sinks are ..."
+    print sinks
+
+    #populate all pages
+    all_pages = []
+    for key_in in in_links.keys():
+        if(key_in not in all_pages):
+            all_pages.append(key_in)
+    for key_out in out_links.keys():
+        if(key_out not in all_pages):
+            all_pages.append(key_out)
+
+
+
+
+
+
 
 
 
