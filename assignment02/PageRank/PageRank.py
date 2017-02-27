@@ -70,42 +70,48 @@ def load_data_in_dictionaries(graph):
 
 def find_page_rank(graph):
     load_data_in_dictionaries(graph)
-    page_rank = []
+    page_rank = OrderedDict()
+    new_page_rank = OrderedDict()
     P = all_pages
     N = len(all_pages)
     for page in P:
         page_rank[page] = 1/N
-
-    while (page_rank_converged(page_rank) is not True):
+    pr_score = page_rank_converged(page_rank.values())
+    while pr_score >= 1:
         sink_page_rank = 0
         for sink in sinks:
-            sink_page_rank += page_rank[sink]
+            sink_page_rank += page_rank.get(sink)
+            #total sink page rank
         for page in all_pages:
+            new_page_rank[page] = (1-d)/N
+            new_page_rank[page] += d * sink_page_rank
+            for in_link in in_links.get(page):
+                new_page_rank[page] += d * page_rank.get(in_link)/out_links.get(in_link)
+            for old_page in all_pages:
+                page_rank[old_page] = new_page_rank[old_page]
+        return pr_score
+
+def page_rank_converged(page_ranks):
+    entropy = calculate_entropy(page_ranks)
+    print "entropy is... "
+    print entropy
+    perplexity = 2 ^ entropy
+    return perplexity
 
 
-
-
-def page_rank_converged(page_rank):
-    entropy = calculate_entropy(page_rank)
-    perplexity = 2^entropy
-    if (perplexity < 1):
-        return True
-    else:
-        return False
-
-total = 0
-def calculate_entropy(page_rank):
-    for rank in page_rank:
-        total =+ rank*(math.log(rank, 2))
-    entropy_value = 0-total
+def calculate_entropy(page_ranks):
+    total = 0
+    for rank in page_ranks:
+        total += rank * 1
+    entropy_value = 0 - total
     return entropy_value
 
 
 
 def main():
     graph = input_file
-    find_page_rank(graph)
-
+    pr_score = find_page_rank(graph)
+    print "page rank score is " + str(pr_score)
 main()
 
 
