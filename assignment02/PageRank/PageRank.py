@@ -4,6 +4,7 @@
 #populate pages in files if not done already
 from collections import OrderedDict
 import math
+#global variables
 all_pages = []
 in_links = OrderedDict()
 out_links = OrderedDict()
@@ -18,6 +19,8 @@ d = 0.85 #teleportation factor
 
 #function to load data into the dictionaries
 def load_data_in_dictionaries(graph):
+    print "entered the load function"
+    global all_pages
     file = open(graph, 'r')
     lines = file.readlines()
 
@@ -28,41 +31,44 @@ def load_data_in_dictionaries(graph):
         key = data[0]
         data.remove(key)
         in_link_values = []
-        for id in data:
-            in_link_values.append(id)
+        for i in data:
+            in_link_values.append(i)
         in_links[key] = in_link_values
     print " the inlinks are...."
-    print in_links
+    # print in_links
 
     #populating outlinks
-    for key in in_links.keys():
-        for value in in_links.get(key):
-            key2 = 0
+    print "calculating the outlinks"
+    for key in in_links:
+        for value in in_links[key]:
             out_link_values = []
-            if value in out_links.keys():
-                out_links.get(value).append(key)
+            if value in out_links:
+                out_links[value].append(key)
             else:
                 key2 = value
                 out_link_values.append(key)
                 out_links[key2] = out_link_values
     print "outlinks are ..."
-    print out_links
+    # print out_links
 
     #populate sinks
-    for key in in_links.keys():
+    print "calculating the sinks"
+    for key in in_links:
         if (out_links.get(key) is None):
             sinks.append(key)
     print "sinks are ..."
-    print sinks
+    # print sinks
 
     #populate all pages
-    for key_in in in_links.keys():
-        if(key_in not in all_pages):
+    print "calculating the all pages"
+    for key_in in in_links:
             all_pages.append(key_in)
-    for key_out in out_links.keys():
-        if(key_out not in all_pages):
+    for key_out in out_links:
             all_pages.append(key_out)
-    print all_pages
+
+    all_pages = set(all_pages)
+    # print all_pages
+    return 0
 
 # //	P	is	the	set	of	all	pages;	|P|	=	N
 # //	S	is	the	set	of	sink	nodes,	i.e.,	pages	that	have	no	out	links
@@ -74,18 +80,17 @@ def load_data_in_dictionaries(graph):
 def find_page_rank(graph):
     global old_perplexity
     global new_perplexity
-    load_data_in_dictionaries(graph)
     page_rank = OrderedDict()
     new_page_rank = OrderedDict()
     P = all_pages
     N = len(all_pages)
     change = 0.0
     count = 0
+
     for page in P:
         page_rank[page] = 1.0/N
 
     while(change >= 1.0 and change is not 0.0) or count < 4:
-
         sink_page_rank = 0.0
         for sink in sinks:
             sink_page_rank += page_rank[sink]
@@ -112,13 +117,11 @@ def find_page_rank(graph):
 
 def page_rank_converged(old_perplexity, new_perplexity):
     change = new_perplexity - old_perplexity
+    print "perplexity change is " + str(change)
     return change
 
 def calculate_perplexity(page_ranks):
-    print page_ranks
     entropy = calculate_entropy(page_ranks)
-    print "entropy is... "
-    print entropy
     perplexity = 2.0**entropy
     return perplexity
 
@@ -134,10 +137,8 @@ def calculate_entropy(page_ranks):
 
 def main():
     graph = input_file
+    load_data_in_dictionaries(graph)
     pr_score = find_page_rank(graph)
     print "page rank score is " + str(pr_score)
 main()
-
-
-
 # page rank
