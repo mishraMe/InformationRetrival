@@ -8,6 +8,8 @@ all_pages = []
 in_links = OrderedDict()
 out_links = OrderedDict()
 sinks = []
+old_perplexity = 0.0
+new_perplexity = 0.0
 graph2 = "graph2" #the existing file for Wt2g links
 experiment = "experiment"
 input_file = experiment
@@ -69,29 +71,47 @@ def load_data_in_dictionaries(graph):
 
 
 def find_page_rank(graph):
+    global old_perplexity
+    global new_perplexity
     load_data_in_dictionaries(graph)
     page_rank = OrderedDict()
     new_page_rank = OrderedDict()
     P = all_pages
     N = len(all_pages)
+    count = 0
     for page in P:
         page_rank[page] = 1/N
     pr_score = page_rank_converged(page_rank.values())
-    while pr_score >= 1:
+    while pr_score >= 1 or count < 4:
+        count += 1
         sink_page_rank = 0
         for sink in sinks:
             sink_page_rank += page_rank.get(sink)
             #total sink page rank
         for page in all_pages:
             new_page_rank[page] = (1-d)/N
-            new_page_rank[page] += d * sink_page_rank
+            print "new page rank before update is " + str(new_page_rank.get(page))
+            temp = new_page_rank[page] + d * sink_page_rank
+            page_rank[page] = temp
+            print "new page rank is " + str(new_page_rank.get(page))
             for in_link in in_links.get(page):
-                new_page_rank[page] += d * page_rank.get(in_link)/out_links.get(in_link)
+                length_out_links = len(out_links.get(in_link))
+                print "length of out links is " + str(length_out_links)
+                temp2 = new_page_rank[page] + d * page_rank.get(in_link)/length_out_links
+                new_page_rank[page] = temp2
             for old_page in all_pages:
-                page_rank[old_page] = new_page_rank[old_page]
-        return pr_score
+                page_rank[old_page] = new_page_rank.get(old_page)
+        old_perplexity = new_perplexity
+    return pr_score
 
 def page_rank_converged(page_ranks):
+    global new_perplexity
+    global old_perplexity
+    new_perplexity = calculate_perplexity(page_ranks)
+    change = new_perplexity - old_perplexity
+    return change
+
+def calculate_perplexity(page_ranks):
     entropy = calculate_entropy(page_ranks)
     print "entropy is... "
     print entropy
@@ -101,9 +121,10 @@ def page_rank_converged(page_ranks):
 
 def calculate_entropy(page_ranks):
     total = 0
+    entropy_value = 0
     for rank in page_ranks:
-        total += rank * 1
-    entropy_value = 0 - total
+        total += rank * (math.log(rank)/math.log(2))
+        entropy_value = 0 - total
     return entropy_value
 
 
