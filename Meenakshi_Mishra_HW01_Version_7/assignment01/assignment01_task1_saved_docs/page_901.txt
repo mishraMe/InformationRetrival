@@ -1,0 +1,362 @@
+url : https://en.wikipedia.org/wiki/Cost-effectiveness_analysis
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Cost-effectiveness analysis - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Cost-effectiveness_analysis","wgTitle":"Cost-effectiveness analysis","wgCurRevisionId":762300292,"wgRevisionId":762300292,"wgArticleId":265128,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Costs","Health economics","Health informatics","Healthcare quality","Decision analysis"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Cost-effectiveness_analysis","wgRelevantArticleId":265128,"wgRequestId":"WIvQQgpAMFEAABd815UAAAJS","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q1754768","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.9"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Cost-effectiveness_analysis"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Cost-effectiveness_analysis&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Cost-effectiveness_analysis&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Cost-effectiveness_analysis"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Cost-effectiveness_analysis rootpage-Cost-effectiveness_analysis skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Cost-effectiveness analysis</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><p><b>Cost-effectiveness analysis</b> (<b>CEA</b>) is a form of <a href="/wiki/Economic" class="mw-redirect" title="Economic">economic</a> <a href="/wiki/Financial_analysis" title="Financial analysis">analysis</a> that compares the relative costs and outcomes (effects) of different courses of action. Cost-effectiveness analysis is distinct from <a href="/wiki/Cost%E2%80%93benefit_analysis" title="Cost–benefit analysis">cost–benefit analysis</a>, which assigns a monetary value to the measure of effect.<sup id="cite_ref-CEAvCBA_1-0" class="reference"><a href="#cite_note-CEAvCBA-1">[1]</a></sup> Cost-effectiveness analysis is often used in the field of health services, where it may be inappropriate to <a href="/wiki/Monetize" class="mw-redirect" title="Monetize">monetize</a> health effect. Typically the CEA is expressed in terms of a ratio where the denominator is a gain in health from a measure (years of life, premature births averted, sight-years gained) and the numerator is the cost associated with the health gain.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> The most commonly used outcome measure is <a href="/wiki/Quality-adjusted_life_year" title="Quality-adjusted life year">quality-adjusted life years</a> (QALY).<sup id="cite_ref-CEAvCBA_1-1" class="reference"><a href="#cite_note-CEAvCBA-1">[1]</a></sup></p>
+<p><a href="/wiki/Cost-utility_analysis" class="mw-redirect" title="Cost-utility analysis">Cost-utility analysis</a> is similar to cost-effectiveness analysis. Cost-effectiveness analyses are often visualized on a plane consisting of <a href="/wiki/Quadrant_(plane_geometry)" title="Quadrant (plane geometry)">four-quadrants</a>, the cost represented on the <i>x</i>–axis and the effectiveness on the <i>y</i>– axis.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Cost-effectiveness analysis focuses on maximising the average level of an outcome, <a href="/wiki/Distributional_cost-effectiveness_analysis" title="Distributional cost-effectiveness analysis">distributional cost-effectiveness analysis</a> extends the core methods of CEA to incorporate concerns for the distribution of outcomes as well as their average level and make trade-offs between equity and efficiency, these more sophisticated methods are of particular interest when analysing interventions to tackle <a href="/wiki/Health_inequality" class="mw-redirect" title="Health inequality">health inequality</a>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Applications"><span class="tocnumber">1</span> <span class="toctext">Applications</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#In_pharmacoeconomics"><span class="tocnumber">1.1</span> <span class="toctext">In pharmacoeconomics</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#In_energy_efficiency_investments"><span class="tocnumber">1.2</span> <span class="toctext">In energy efficiency investments</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">2</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#External_links"><span class="tocnumber">4</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Applications">Applications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cost-effectiveness_analysis&amp;action=edit&amp;section=1" title="Edit section: Applications">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The concept of cost effectiveness is applied to the planning and management of many types of organized activity. It is widely used in many aspects of life. In the acquisition of military <a href="/wiki/Tank" title="Tank">tanks</a>, for example, competing designs are compared not only for purchase price, but also for such factors as their operating <a href="/wiki/Radius" title="Radius">radius</a>, top speed, <a href="/wiki/Rate_of_fire" title="Rate of fire">rate of fire</a>, armor protection, and caliber and armor <a href="/wiki/Penetration_(weapons)" class="mw-redirect" title="Penetration (weapons)">penetration</a> of their guns. If a tank's performance in these areas is equal or even slightly inferior to its competitor, but substantially less expensive and easier to produce, military planners may select it as more cost effective than the competitor.</p>
+<p>Conversely, if the difference in price is near zero, but the more costly competitor would convey an enormous battlefield advantage through special ammunition, <a href="/wiki/Radar" title="Radar">radar</a> <a href="/wiki/Fire-control_system" title="Fire-control system">fire control</a> and <a href="/wiki/Laser" title="Laser">laser</a> <a href="/wiki/Range_finding" class="mw-redirect" title="Range finding">range finding</a>, enabling it to destroy enemy tanks accurately at extreme ranges, military planners may choose it instead—based on the same cost effectiveness principle.</p>
+<h3><span class="mw-headline" id="In_pharmacoeconomics">In pharmacoeconomics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cost-effectiveness_analysis&amp;action=edit&amp;section=2" title="Edit section: In pharmacoeconomics">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In the context of <a href="/wiki/Pharmacoeconomics" title="Pharmacoeconomics">pharmacoeconomics</a>, the cost-effectiveness of a therapeutic or preventive intervention is the ratio of the cost of the intervention to a relevant measure of its effect. Cost refers to the resource expended for the intervention, usually measured in monetary terms such as <a href="/wiki/Dollar" title="Dollar">dollars</a> or <a href="/wiki/Pound_sterling" title="Pound sterling">pounds</a>. The measure of effects depends on the intervention being considered. Examples include the number of people cured of a disease, the mm Hg reduction in diastolic <a href="/wiki/Blood_pressure" title="Blood pressure">blood pressure</a> and the number of symptom-free days experienced by a patient. The selection of the appropriate effect measure should be based on clinical judgment in the context of the intervention being considered.</p>
+<p>A special case of CEA is <a href="/wiki/Cost%E2%80%93utility_analysis" title="Cost–utility analysis">cost–utility analysis</a>, where the effects are measured in terms of years of full health lived, using a measure such as <a href="/wiki/Quality-adjusted_life_year" title="Quality-adjusted life year">quality-adjusted life years</a> or <a href="/wiki/Disability-adjusted_life_year" title="Disability-adjusted life year">disability-adjusted life years</a>. Cost-effectiveness is typically expressed as an <a href="/wiki/Incremental_cost-effectiveness_ratio" title="Incremental cost-effectiveness ratio">incremental cost-effectiveness ratio</a> (ICER), the ratio of change in costs to the change in effects. A complete compilation of cost-utility analyses in the peer reviewed medical literature is available from the <a href="/wiki/Cost-Effectiveness_Analysis_Registry" title="Cost-Effectiveness Analysis Registry">Cost-Effectiveness Analysis Registry</a> website.</p>
+<p>A 1995 study of the cost-effectiveness of over 500 life-saving medical interventions found that the median cost per intervention was $42,000 per life-year saved.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> A 2006 systematic review found that industry-funded studies often concluded with cost effective ratios below $20,000 per QALY and low quality studies and those conducted outside the US and EU were less likely to be below this threshold. While the two conclusions of this article may indicate that industry-funded ICER measures are lower methodological quality than those published by non-industry sources, there is also a possibility that, due to the nature of retrospective or other non-public work, publication bias may exist rather than methodology biases. There may be incentive for an organization not to develop or publish an analysis that does not demonstrate the value of their product. Additionally, peer reviewed journal articles should have a strong and defendable methodology, as that is the expectation of the peer-review process.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></p>
+<h3><span class="mw-headline" id="In_energy_efficiency_investments">In energy efficiency investments</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cost-effectiveness_analysis&amp;action=edit&amp;section=3" title="Edit section: In energy efficiency investments">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>CEA has been applied to energy efficiency investments in buildings to calculate the value of energy saved in $/kWh. The energy in such a calculation is virtual in the sense that it was never consumed but rather saved due to some energy efficiency investment being made. Such savings are sometimes called <i><a href="/wiki/Negawatt" class="mw-redirect" title="Negawatt">negawatts</a></i>. The benefit of the CEA approach in energy systems is that it avoids the need to guess future energy prices for the purposes of the calculation, thus removing the major source of uncertainty in the appraisal of energy efficiency investments.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cost-effectiveness_analysis&amp;action=edit&amp;section=4" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Cost%E2%80%93benefit_analysis" title="Cost–benefit analysis">Cost–benefit analysis</a></li>
+<li><a href="/wiki/Cost_overrun" title="Cost overrun">Cost overrun</a></li>
+<li><a href="/wiki/Efficiency" title="Efficiency">Efficiency</a></li>
+<li><a href="/wiki/National_Institute_for_Health_and_Care_Excellence" title="National Institute for Health and Care Excellence">National Institute for Health and Care Excellence</a></li>
+<li><a href="/wiki/Distributional_cost-effectiveness_analysis" title="Distributional cost-effectiveness analysis">Distributional cost-effectiveness analysis</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cost-effectiveness_analysis&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-CEAvCBA-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-CEAvCBA_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-CEAvCBA_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Bleichrodt H, Quiggin J (December 1999). "Life-cycle preferences over consumption and health: when is cost-effectiveness analysis equivalent to cost-benefit analysis?". <i>J Health Econ</i>. <b>18</b> (6): 681–708. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2FS0167-6296%2899%2900014-4">10.1016/S0167-6296(99)00014-4</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/10847930">10847930</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACost-effectiveness+analysis&amp;rft.atitle=Life-cycle+preferences+over+consumption+and+health%3A+when+is+cost-effectiveness+analysis+equivalent+to+cost-benefit+analysis%3F&amp;rft.aufirst=H&amp;rft.aulast=Bleichrodt&amp;rft.au=Quiggin%2C+J&amp;rft.date=1999-12&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2FS0167-6296%2899%2900014-4&amp;rft_id=info%3Apmid%2F10847930&amp;rft.issue=6&amp;rft.jtitle=J+Health+Econ&amp;rft.pages=681-708&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=18" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation book">Gold MR; et al. <i>Cost-effectiveness in health and medicine</i>. p.&#160;xviii.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACost-effectiveness+analysis&amp;rft.au=Gold+MR&amp;rft.btitle=Cost-effectiveness+in+health+and+medicine&amp;rft.genre=book&amp;rft.pages=xviii&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation journal">Black, William (1990). "A Graphical Representation of Cost-Effectiveness.". <i>Med Decis Making</i>. <b>10</b> (3): 212–214. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1177%2F0272989x9001000308">10.1177/0272989x9001000308</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACost-effectiveness+analysis&amp;rft.atitle=A+Graphical+Representation+of+Cost-Effectiveness.&amp;rft.aufirst=William&amp;rft.aulast=Black&amp;rft.date=1990&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1177%2F0272989x9001000308&amp;rft.issue=3&amp;rft.jtitle=Med+Decis+Making&amp;rft.pages=212-214&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=10" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation journal">Asaria, M; Griffin, S; Cookson, R (January 2016). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC4853814">"Distributional Cost-Effectiveness Analysis: A Tutorial."</a>. <i>Medical decision making&#160;: an international journal of the Society for Medical Decision Making</i>. <b>36</b> (1): 8–19. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1177%2F0272989x15583266">10.1177/0272989x15583266</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<span class="plainlinks"><a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC4853814">4853814</a><span style="margin-left:0.1em"><img alt="Freely accessible" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" title="Freely accessible" width="9" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" data-file-width="512" data-file-height="813" /></span></span>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/25908564">25908564</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACost-effectiveness+analysis&amp;rft.atitle=Distributional+Cost-Effectiveness+Analysis%3A+A+Tutorial.&amp;rft.au=Cookson%2C+R&amp;rft.aufirst=M&amp;rft.au=Griffin%2C+S&amp;rft.aulast=Asaria&amp;rft.date=2016-01&amp;rft.genre=article&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC4853814&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC4853814&amp;rft_id=info%3Adoi%2F10.1177%2F0272989x15583266&amp;rft_id=info%3Apmid%2F25908564&amp;rft.issue=1&amp;rft.jtitle=Medical+decision+making+%3A+an+international+journal+of+the+Society+for+Medical+Decision+Making&amp;rft.pages=8-19&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=36" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation journal">Asaria, M; Griffin, S; Cookson, R; Whyte, S; Tappenden, P (June 2015). "Distributional cost-effectiveness analysis of health care programmes--a methodological case study of the UK Bowel Cancer Screening Programme.". <i>Health economics</i>. <b>24</b> (6): 742–54. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1002%2Fhec.3058">10.1002/hec.3058</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/24798212">24798212</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACost-effectiveness+analysis&amp;rft.atitle=Distributional+cost-effectiveness+analysis+of+health+care+programmes--a+methodological+case+study+of+the+UK+Bowel+Cancer+Screening+Programme.&amp;rft.au=Cookson%2C+R&amp;rft.aufirst=M&amp;rft.au=Griffin%2C+S&amp;rft.aulast=Asaria&amp;rft.au=Tappenden%2C+P&amp;rft.au=Whyte%2C+S&amp;rft.date=2015-06&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1002%2Fhec.3058&amp;rft_id=info%3Apmid%2F24798212&amp;rft.issue=6&amp;rft.jtitle=Health+economics&amp;rft.pages=742-54&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=24" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation journal">Tengs TO, Adams ME, Pliskin JS, et al. (June 1995). "Five-hundred life-saving interventions and their cost-effectiveness". <i>Risk Anal</i>. <b>15</b> (3): 369–90. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1111%2Fj.1539-6924.1995.tb00330.x">10.1111/j.1539-6924.1995.tb00330.x</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/7604170">7604170</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACost-effectiveness+analysis&amp;rft.atitle=Five-hundred+life-saving+interventions+and+their+cost-effectiveness&amp;rft.au=Adams%2C+ME&amp;rft.aufirst=TO&amp;rft.aulast=Tengs&amp;rft.au=Pliskin%2C+JS&amp;rft.date=1995-06&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1111%2Fj.1539-6924.1995.tb00330.x&amp;rft_id=info%3Apmid%2F7604170&amp;rft.issue=3&amp;rft.jtitle=Risk+Anal.&amp;rft.pages=369-90&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=15" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation journal">Bell CM, Urbach DR, Ray JG, et al. (March 2006). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC1410902">"Bias in published cost effectiveness studies: systematic review."</a>. <i>BMJ</i>. <b>332</b> (7543): 699–703. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1136%2Fbmj.38737.607558.80">10.1136/bmj.38737.607558.80</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<span class="plainlinks"><a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC1410902">1410902</a><span style="margin-left:0.1em"><img alt="Freely accessible" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" title="Freely accessible" width="9" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" data-file-width="512" data-file-height="813" /></span></span>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/16495332">16495332</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACost-effectiveness+analysis&amp;rft.atitle=Bias+in+published+cost+effectiveness+studies%3A+systematic+review.&amp;rft.aufirst=CM&amp;rft.aulast=Bell&amp;rft.au=Ray%2C+JG&amp;rft.au=Urbach%2C+DR&amp;rft.date=2006-03&amp;rft.genre=article&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC1410902&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC1410902&amp;rft_id=info%3Adoi%2F10.1136%2Fbmj.38737.607558.80&amp;rft_id=info%3Apmid%2F16495332&amp;rft.issue=7543&amp;rft.jtitle=BMJ&amp;rft.pages=699-703&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=332" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Pekka Tuominen, Francesco Reda, Waled Dawoud, Bahaa Elboshy, Ghada Elshafei, Abdelazim Negm: <a rel="nofollow" class="external text" href="http://doi.org/10.1016/S2212-5671(15)00195-1">Economic Appraisal of Energy Efficiency in Buildings Using Cost-effectiveness Assessment</a>. Procedia Economics and Finance, Volume 21, 2015, Pages 422–430.</span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cost-effectiveness_analysis&amp;action=edit&amp;section=6" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/1/hi/health/4420584.stm">Why some drugs are not worth it</a> BBC report</li>
+<li><a rel="nofollow" class="external text" href="http://www.who.int/choice/en/">World Health Organization - CHOICE Choosing Interventions that are Cost Effective</a></li>
+<li><a rel="nofollow" class="external text" href="http://ispor.co.googlepages.com">ISPOR-CO, The Colombian Chapter of The International Society for Pharmacoeconomics and Outcomes Research</a></li>
+<li><a rel="nofollow" class="external text" href="https://iceaaonline.org">International Cost Estimating and Analysis Association</a></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Health_care_quality" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Health_care_quality" title="Template:Health care quality"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Health_care_quality" title="Template talk:Health care quality"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Health_care_quality&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Health_care_quality" style="font-size:114%"><a href="/wiki/Health_care_quality" title="Health care quality">Health care quality</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Concepts of quality</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Evidence-based_medicine" title="Evidence-based medicine">Evidence-based medicine</a></li>
+<li><a href="/wiki/Medical_guideline" title="Medical guideline">Medical guideline</a></li>
+<li><a href="/wiki/Medical_consensus" title="Medical consensus">Medical consensus</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Health care evaluations</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Clinical_audit" title="Clinical audit">Clinical audit</a></li>
+<li><a href="/wiki/Health_care_ratings" title="Health care ratings">Health care ratings</a></li>
+<li><a href="/wiki/Health_impact_assessment" title="Health impact assessment">Health impact assessment</a></li>
+<li><a href="/wiki/Health_services_research" title="Health services research">Health services research</a></li>
+<li><a href="/wiki/Routine_health_outcomes_measurement" title="Routine health outcomes measurement">Routine health outcomes measurement</a></li>
+<li><a href="/wiki/Independent_medical_review" title="Independent medical review">Independent medical review</a></li>
+<li><a href="/wiki/Clinical_peer_review" title="Clinical peer review">Clinical peer review</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Accreditation</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Hospital_accreditation" title="Hospital accreditation">Hospital accreditation</a></li>
+<li><a href="/wiki/International_healthcare_accreditation" title="International healthcare accreditation">International healthcare accreditation</a></li>
+<li><a href="/wiki/List_of_international_healthcare_accreditation_organizations" title="List of international healthcare accreditation organizations">List of international healthcare accreditation organizations</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Costs and benefits</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Cost_per_procedure" title="Cost per procedure">Cost per procedure</a></li>
+<li><strong class="selflink">Cost-effectiveness analysis</strong></li>
+<li><a href="/wiki/Cost-minimization_analysis" title="Cost-minimization analysis">Cost-minimization analysis</a></li>
+<li><a href="/wiki/Incremental_cost-effectiveness_ratio" title="Incremental cost-effectiveness ratio">Incremental cost-effectiveness ratio</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Tools</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Incremental_cost-effectiveness_ratio" title="Incremental cost-effectiveness ratio">Incremental cost-effectiveness ratio</a></li>
+<li><a href="/wiki/Clinical_Quality_Management_System" class="mw-redirect" title="Clinical Quality Management System">Clinical Quality Management System</a></li>
+<li><a href="/wiki/Quality-adjusted_life_year" title="Quality-adjusted life year">Quality-adjusted life year</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1287
+Cached time: 20170127225637
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.100 seconds
+Real time usage: 0.124 seconds
+Preprocessor visited node count: 485/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 23968/2097152 bytes
+Template argument size: 9/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 0/500
+Lua time usage: 0.051/10.000 seconds
+Lua memory usage: 2.73 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   98.400      1 -total
+ 86.96%   85.572      1 Template:Reflist
+ 67.21%   66.132      6 Template:Cite_journal
+ 11.42%   11.237      1 Template:Health_care_quality
+ 10.06%    9.897      1 Template:Navbox
+  4.88%    4.801      1 Template:Cite_book
+  1.41%    1.391      1 Template:Research_help
+  1.04%    1.021      1 Template:Column-count
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:265128-0!*!0!!en!4!* and timestamp 20170127225637 and revision id 762300292
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Cost-effectiveness_analysis&amp;oldid=762300292">https://en.wikipedia.org/w/index.php?title=Cost-effectiveness_analysis&amp;oldid=762300292</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Costs" title="Category:Costs">Costs</a></li><li><a href="/wiki/Category:Health_economics" title="Category:Health economics">Health economics</a></li><li><a href="/wiki/Category:Health_informatics" title="Category:Health informatics">Health informatics</a></li><li><a href="/wiki/Category:Healthcare_quality" title="Category:Healthcare quality">Healthcare quality</a></li><li><a href="/wiki/Category:Decision_analysis" title="Category:Decision analysis">Decision analysis</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Cost-effectiveness+analysis" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Cost-effectiveness+analysis" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Cost-effectiveness_analysis"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Cost-effectiveness_analysis"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Cost-effectiveness_analysis" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Cost-effectiveness_analysis&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Cost-effectiveness_analysis&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Cost-effectiveness_analysis" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Cost-effectiveness_analysis" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Cost-effectiveness_analysis&amp;oldid=762300292" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Cost-effectiveness_analysis&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q1754768" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Cost-effectiveness_analysis&amp;id=762300292" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Cost-effectiveness+analysis">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Cost-effectiveness+analysis&amp;returnto=Cost-effectiveness+analysis&amp;oldid=762300292&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Cost-effectiveness_analysis&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%AA%D8%AD%D9%84%D9%8A%D9%84_%D9%81%D8%B9%D8%A7%D9%84%D9%8A%D8%A9_%D8%A7%D9%84%D8%AA%D9%83%D9%84%D9%81%D8%A9" title="تحليل فعالية التكلفة – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/An%C3%A0lisi_de_cost-efectivitat" title="Anàlisi de cost-efectivitat – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Kosten-Wirksamkeits-Analyse" title="Kosten-Wirksamkeits-Analyse – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Kulut%C3%B5hususe_anal%C3%BC%C3%BCs" title="Kulutõhususe analüüs – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%91%CE%BD%CE%AC%CE%BB%CF%85%CF%83%CE%B7_%CE%BA%CF%8C%CF%83%CF%84%CE%BF%CF%85%CF%82-%CE%B1%CF%80%CE%BF%CF%84%CE%B5%CE%BB%CE%B5%CF%83%CE%BC%CE%B1%CF%84%CE%B9%CE%BA%CF%8C%CF%84%CE%B7%CF%84%CE%B1%CF%82" title="Ανάλυση κόστους-αποτελεσματικότητας – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/An%C3%A1lisis_de_costo-efectividad" title="Análisis de costo-efectividad – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Analiza_koszt%C3%B3w-efektywno%C5%9Bci" title="Analiza kosztów-efektywności – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Kostnads-effekt-analys" title="Kostnads-effekt-analys – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q1754768#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 27 January 2017, at 22:56.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Cost-effectiveness_analysis&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.100","walltime":"0.124","ppvisitednodes":{"value":485,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":23968,"limit":2097152},"templateargumentsize":{"value":9,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%   98.400      1 -total"," 86.96%   85.572      1 Template:Reflist"," 67.21%   66.132      6 Template:Cite_journal"," 11.42%   11.237      1 Template:Health_care_quality"," 10.06%    9.897      1 Template:Navbox","  4.88%    4.801      1 Template:Cite_book","  1.41%    1.391      1 Template:Research_help","  1.04%    1.021      1 Template:Column-count"]},"scribunto":{"limitreport-timeusage":{"value":"0.051","limit":"10.000"},"limitreport-memusage":{"value":2864560,"limit":52428800}},"cachereport":{"origin":"mw1287","timestamp":"20170127225637","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":53,"wgHostname":"mw1246"});});</script>
+	</body>
+</html>

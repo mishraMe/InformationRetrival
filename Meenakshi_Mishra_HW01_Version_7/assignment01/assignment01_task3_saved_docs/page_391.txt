@@ -1,0 +1,1274 @@
+url : https://en.wikipedia.org/wiki/Plasmonic_solar_cell
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Plasmonic solar cell - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Plasmonic_solar_cell","wgTitle":"Plasmonic solar cell","wgCurRevisionId":758168633,"wgRevisionId":758168633,"wgArticleId":25451813,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing expert attention with no reason or talk parameter","Articles needing unspecified expert attention","Articles needing expert attention from December 2014","All articles needing expert attention","All articles with unsourced statements","Articles with unsourced statements from March 2016","Solar cells"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Plasmonic_solar_cell","wgRelevantArticleId":25451813,"wgRequestId":"WJIK3QpAIDYAAHGXQQsAAAAL","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q7201988","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","ext.math.scripts","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.9"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Plasmonic_solar_cell"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Plasmonic_solar_cell&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Plasmonic_solar_cell&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Plasmonic_solar_cell"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Plasmonic_solar_cell rootpage-Plasmonic_solar_cell skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Plasmonic solar cell</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><table class="plainlinks metadata ambox ambox-content" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" data-file-width="40" data-file-height="40" /></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article <b>needs attention from an expert on the subject</b>. <span class="hide-when-compact">Please add a <i>reason</i> or a <i>talk</i> parameter to this template to explain the issue with the article. Consider <a href="/wiki/Template:Expert_needed" title="Template:Expert needed">associating this request</a> with a <a href="/wiki/Wikipedia:WikiProject" title="Wikipedia:WikiProject">WikiProject</a>.</span> <small><i>(December 2014)</i></small></span></td>
+</tr>
+</table>
+<p>A <b>Plasmonic solar cell</b> is a type of <a href="/wiki/Thin_film_solar_cell" class="mw-redirect" title="Thin film solar cell">thin film solar cell</a> that converts light into electricity with the assistance of <a href="/wiki/Plasmon" title="Plasmon">plasmons</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> They are typically less than 2 μm thick and theoretically could be as thin as 100&#160;nm.<sup id="cite_ref-:0_2-0" class="reference"><a href="#cite_note-:0-2">[2]</a></sup> They can use <a href="/wiki/Substrate_(materials_science)" class="mw-redirect" title="Substrate (materials science)">substrates</a> which are cheaper than <a href="/wiki/Silicon" title="Silicon">silicon</a>, such as <a href="/wiki/Glass" title="Glass">glass</a>, <a href="/wiki/Plastic" title="Plastic">plastic</a> or <a href="/wiki/Steel" title="Steel">steel</a>. One of the challenges for thin film solar cells is that they do not absorb as much light as thicker solar cells made with materials with the same <a href="/wiki/Absorption_coefficient" class="mw-redirect" title="Absorption coefficient">absorption coefficient</a>. Methods for light trapping are important for thin film solar cells.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Plasmonic cells improve absorption by scattering light using metal <a href="/wiki/Nanoparticle" title="Nanoparticle">nano-particles</a> excited at their <a href="/wiki/Surface_plasmon_resonance" title="Surface plasmon resonance">surface plasmon resonance</a>.<sup id="cite_ref-Catchpole_4-0" class="reference"><a href="#cite_note-Catchpole-4">[4]</a></sup> Incoming light at the plasmon resonance frequency induces electron oscillations at the surface of the nanoparticles. The oscillation electrons can then be captured by a conductive layer producing an electrical current. The voltage produced is dependent on the bandgap of the conductive layer and the potential of the electrolyte in contact with the nanoparticles. There is still considerable research necessary to enable the technology to reach its full potential and commercialization of plasmonic enhanced solar cells.<sup id="cite_ref-:0_2-1" class="reference"><a href="#cite_note-:0-2">[2]</a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Devices"><span class="tocnumber">1.1</span> <span class="toctext">Devices</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#Design"><span class="tocnumber">2</span> <span class="toctext">Design</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Nanoparticle_cells"><span class="tocnumber">2.1</span> <span class="toctext">Nanoparticle cells</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Metal_film_cells"><span class="tocnumber">2.2</span> <span class="toctext">Metal film cells</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Principles"><span class="tocnumber">3</span> <span class="toctext">Principles</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#General"><span class="tocnumber">3.1</span> <span class="toctext">General</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Nano-particles"><span class="tocnumber">3.2</span> <span class="toctext">Nano-particles</span></a>
+<ul>
+<li class="toclevel-3 tocsection-9"><a href="#Scattering_and_Absorption"><span class="tocnumber">3.2.1</span> <span class="toctext">Scattering and Absorption</span></a></li>
+<li class="toclevel-3 tocsection-10"><a href="#Wavelength_dependence"><span class="tocnumber">3.2.2</span> <span class="toctext">Wavelength dependence</span></a></li>
+<li class="toclevel-3 tocsection-11"><a href="#Light_trapping"><span class="tocnumber">3.2.3</span> <span class="toctext">Light trapping</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-12"><a href="#Metal_film"><span class="tocnumber">3.3</span> <span class="toctext">Metal film</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-13"><a href="#Materials"><span class="tocnumber">4</span> <span class="toctext">Materials</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#Applications"><span class="tocnumber">5</span> <span class="toctext">Applications</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#Recent_advancements"><span class="tocnumber">6</span> <span class="toctext">Recent advancements</span></a>
+<ul>
+<li class="toclevel-2 tocsection-16"><a href="#Choice_of_plasmonic_metal_nano-particles"><span class="tocnumber">6.1</span> <span class="toctext">Choice of plasmonic metal nano-particles</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#Light_trapping_2"><span class="tocnumber">6.2</span> <span class="toctext">Light trapping</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#Absorption"><span class="tocnumber">6.3</span> <span class="toctext">Absorption</span></a></li>
+<li class="toclevel-2 tocsection-19"><a href="#Third_generation"><span class="tocnumber">6.4</span> <span class="toctext">Third generation</span></a>
+<ul>
+<li class="toclevel-3 tocsection-20"><a href="#Multiple_energy_levels"><span class="tocnumber">6.4.1</span> <span class="toctext">Multiple energy levels</span></a></li>
+<li class="toclevel-3 tocsection-21"><a href="#Hot_carrier_cells"><span class="tocnumber">6.4.2</span> <span class="toctext">Hot carrier cells</span></a></li>
+<li class="toclevel-3 tocsection-22"><a href="#Plasmonic-electrical_solar_cells"><span class="tocnumber">6.4.3</span> <span class="toctext">Plasmonic-electrical solar cells</span></a></li>
+<li class="toclevel-3 tocsection-23"><a href="#Ultra-thin_plasmonic_wafer_solar_cells"><span class="tocnumber">6.4.4</span> <span class="toctext">Ultra-thin plasmonic wafer solar cells</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-24"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Plasmonic_solar_cell&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Devices">Devices</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Plasmonic_solar_cell&amp;action=edit&amp;section=2" title="Edit section: Devices">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>There are currently three different generations of SCs. The first generation (those in the market today) are made with crystalline <a href="/wiki/Semiconductor_wafer" class="mw-redirect" title="Semiconductor wafer">semiconductor wafers</a>, typically silicon. These are the SCs everybody thinks of when they hear "Solar Cell".<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (March 2016)">citation needed</span></a></i>]</sup></p>
+<p>Current SCs trap light by creating <a href="/wiki/Pyramid" title="Pyramid">pyramids</a> on the surface which have dimensions bigger than most thin film SCs. Making the surface of the substrate rough (typically by growing SnO<sub>2</sub> or ZnO on surface) with dimensions on the order of the incoming <a href="/wiki/Wavelength" title="Wavelength">wavelengths</a> and depositing the SC on top has been explored. This method increases the <a href="/wiki/Photocurrent" title="Photocurrent">photocurrent</a>, but the thin film SC would then have poor material quality. <sup id="cite_ref-Muller_5-0" class="reference"><a href="#cite_note-Muller-5">[5]</a></sup></p>
+<p>The second generation SCs are based on <a href="/wiki/Thin_film" title="Thin film">thin film</a> technologies such as those presented here. These SCs focus on lowering the amount of material used as well as increasing the energy production. Third generation SCs are currently being researched. They focus on reducing the cost of the second generation SCs. <sup id="cite_ref-Conibeer_6-0" class="reference"><a href="#cite_note-Conibeer-6">[6]</a></sup> The third generation SCs are discussed in more detail under recent advancement.</p>
+<h2><span class="mw-headline" id="Design">Design</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Plasmonic_solar_cell&amp;action=edit&amp;section=3" title="Edit section: Design">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The design for a PSC varies depending on the method being used to trap and scatter light across the surface and through the material.</p>
+<h3><span class="mw-headline" id="Nanoparticle_cells">Nanoparticle cells</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Plasmonic_solar_cell&amp;action=edit&amp;section=4" title="Edit section: Nanoparticle cells">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:PSC_using_Metal_Nanoparticles.png" class="image"><img alt="A plasmonic solar cell utilizing metal nanoparticles to distribute light and enhance absorption." src="//upload.wikimedia.org/wikipedia/en/thumb/4/4f/PSC_using_Metal_Nanoparticles.png/220px-PSC_using_Metal_Nanoparticles.png" width="220" height="158" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4f/PSC_using_Metal_Nanoparticles.png/330px-PSC_using_Metal_Nanoparticles.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4f/PSC_using_Metal_Nanoparticles.png/440px-PSC_using_Metal_Nanoparticles.png 2x" data-file-width="614" data-file-height="440" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:PSC_using_Metal_Nanoparticles.png" class="internal" title="Enlarge"></a></div>
+PSC using metal nano-particles.</div>
+</div>
+</div>
+<p>A common design is to deposit metal nano-particles on the top surface of the thin film SC. When light hits these metal nano-particles at their surface plasmon resonance, the light is scattered in many different directions. This allows light to travel along the SC and bounce between the substrate and the nano-particles enabling the SC to absorb more light. <sup id="cite_ref-Tanabe_7-0" class="reference"><a href="#cite_note-Tanabe-7">[7]</a></sup> The concentrated near field intensity induced by localized surface plasmon of the metal nanoparticles will promote the optical absorption of semiconductors. Recently, the plasmonic asymmetric modes of nano particles have found to favor the broadband optical absorption and promote the electrical properties of solar cells.<sup id="cite_ref-Volume_12.2C_Issue_37.2C_pages_5200.E2.80.935207.2C_.2C_2016_8-0" class="reference"><a href="#cite_note-Volume_12.2C_Issue_37.2C_pages_5200.E2.80.935207.2C_.2C_2016-8">[8]</a></sup> The simutaneously plasmon-optical and plasmon-electrical effects of nanoparticles reveal a promising feature of nanoparticle plasmon.</p>
+<h3><span class="mw-headline" id="Metal_film_cells">Metal film cells</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Plasmonic_solar_cell&amp;action=edit&amp;section=5" title="Edit section: Metal film cells">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Other methods utilizing surface plasmons for harvesting solar energy are available. One other type of structure is to have a thin film of silicon and a thin layer of metal deposited on the lower surface. The light will travel through the silicon and generate surface plasmons on the interface of the silicon and metal. This generates electric fields inside of the silicon since electric fields do not travel very far into metals. If the <a href="/wiki/Electric_field" title="Electric field">electric field</a> is strong enough, electrons can be moved and collected to produce a photocurrent. The thin film of metal in this design must have nanometer sized grooves which act as <a href="/wiki/Waveguide" title="Waveguide">waveguides</a> for the incoming light in order to excite as many photons in the silicon thin film as possible. <sup id="cite_ref-Ferry_9-0" class="reference"><a href="#cite_note-Ferry-9">[9]</a></sup></p>
+<h2><span class="mw-headline" id="Principles">Principles</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Plasmonic_solar_cell&amp;action=edit&amp;section=6" title="Edit section: Principles">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="General">General</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Plasmonic_solar_cell&amp;action=edit&amp;section=7" title="Edit section: General">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Thin_vs_Thick_SC.png" class="image"><img alt="Light effects on thin and thick solar cells." src="//upload.wikimedia.org/wikipedia/en/thumb/a/ab/Thin_vs_Thick_SC.png/220px-Thin_vs_Thick_SC.png" width="220" height="151" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ab/Thin_vs_Thick_SC.png/330px-Thin_vs_Thick_SC.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ab/Thin_vs_Thick_SC.png/440px-Thin_vs_Thick_SC.png 2x" data-file-width="914" data-file-height="627" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Thin_vs_Thick_SC.png" class="internal" title="Enlarge"></a></div>
+Thin film SC (left) and Typical SC (right).</div>
+</div>
+</div>
+<p>When a photon is excited in the substrate of a SC, an electron and hole are separated. Once the electrons and holes are separated, they will want to recombine since they are of opposite charge. If the electrons can be collected prior to this happening they can be used as a current for an external circuit. Designing the thickness of a solar cell is always a trade-off between minimizing this recombination (thinner layers) and absorbing more photons (thicker layer).<sup id="cite_ref-Tanabe_7-1" class="reference"><a href="#cite_note-Tanabe-7">[7]</a></sup></p>
+<h3><span class="mw-headline" id="Nano-particles">Nano-particles</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Plasmonic_solar_cell&amp;action=edit&amp;section=8" title="Edit section: Nano-particles">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="Scattering_and_Absorption">Scattering and Absorption</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Plasmonic_solar_cell&amp;action=edit&amp;section=9" title="Edit section: Scattering and Absorption">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>The basic principles for the functioning of plasmonic solar cells include scattering and absorption of light due to the deposition of metal nano-particles. Silicon does not absorb light very well. For this reason, more light needs to be scattered across the surface in order to increase the absorption. It has been found that metal nano-particles help to scatter the incoming light across the surface of the silicon substrate. The equations that govern the scattering and absorption of light can be shown as:</p>
+<ul>
+<li><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>C</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>s</mi>
+            <mi>c</mi>
+            <mi>a</mi>
+            <mi>t</mi>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mn>1</mn>
+            <mrow>
+              <mn>6</mn>
+              <mi>&#x03C0;<!-- π --></mi>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <msup>
+          <mrow>
+            <mo>(</mo>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mfrac>
+                <mrow>
+                  <mn>2</mn>
+                  <mi>&#x03C0;<!-- π --></mi>
+                </mrow>
+                <mi>&#x03BB;<!-- λ --></mi>
+              </mfrac>
+            </mrow>
+            <mo>)</mo>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>4</mn>
+          </mrow>
+        </msup>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo stretchy="false">|</mo>
+        </mrow>
+        <mi>&#x03B1;<!-- α --></mi>
+        <msup>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo stretchy="false">|</mo>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msup>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle C_{scat}={\frac {1}{6\pi }}\left({\frac {2\pi }{\lambda }}\right)^{4}|\alpha |^{2}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9c2e9744d3aca7a11bcbec2824a22ce223b236bc" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.505ex; width:23.07ex; height:6.676ex;" alt="C_{{scat}}={\frac  {1}{6\pi }}\left({\frac  {2\pi }{\lambda }}\right)^{4}|\alpha |^{2}" /></span></li>
+</ul>
+<p>This shows the scattering of light for particles which have diameters below the wavelength of light.</p>
+<ul>
+<li><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>C</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>a</mi>
+            <mi>b</mi>
+            <mi>s</mi>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mn>2</mn>
+              <mi>&#x03C0;<!-- π --></mi>
+            </mrow>
+            <mi>&#x03BB;<!-- λ --></mi>
+          </mfrac>
+        </mrow>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mtext>Im</mtext>
+        </mrow>
+        <mo stretchy="false">[</mo>
+        <mi>&#x03B1;<!-- α --></mi>
+        <mo stretchy="false">]</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle C_{abs}={\frac {2\pi }{\lambda }}{\text{Im}}[\alpha ]}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a69d9da0969957f585f701b8550388a103702ea2" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.005ex; width:16.342ex; height:5.343ex;" alt="{\displaystyle C_{abs}={\frac {2\pi }{\lambda }}{\text{Im}}[\alpha ]}" /></span></li>
+</ul>
+<p>This shows the absorption for a point dipole model.</p>
+<ul>
+<li><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>&#x03B1;<!-- α --></mi>
+        <mo>=</mo>
+        <mn>3</mn>
+        <mi>V</mi>
+        <mrow>
+          <mo>[</mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mfrac>
+              <mrow>
+                <msub>
+                  <mi>&#x03F5;<!-- ϵ --></mi>
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mi>p</mi>
+                  </mrow>
+                </msub>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mo>/</mo>
+                </mrow>
+                <msub>
+                  <mi>&#x03F5;<!-- ϵ --></mi>
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mi>m</mi>
+                  </mrow>
+                </msub>
+                <mo>&#x2212;<!-- − --></mo>
+                <mn>1</mn>
+              </mrow>
+              <mrow>
+                <msub>
+                  <mi>&#x03F5;<!-- ϵ --></mi>
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mi>p</mi>
+                  </mrow>
+                </msub>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mo>/</mo>
+                </mrow>
+                <msub>
+                  <mi>&#x03F5;<!-- ϵ --></mi>
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mi>m</mi>
+                  </mrow>
+                </msub>
+                <mo>+</mo>
+                <mn>2</mn>
+              </mrow>
+            </mfrac>
+          </mrow>
+          <mo>]</mo>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \alpha =3V\left[{\frac {\epsilon _{p}/\epsilon _{m}-1}{\epsilon _{p}/\epsilon _{m}+2}}\right]}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/70ef6bf06476d79a26e139882a3f733eabdfdff4" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.671ex; width:21.132ex; height:6.509ex;" alt="\alpha =3V\left[{\frac  {\epsilon _{p}/\epsilon _{m}-1}{\epsilon _{p}/\epsilon _{m}+2}}\right]" /></span></li>
+</ul>
+<p>This is the polarizability of the particle. V is the particle volume. <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>&#x03F5;<!-- ϵ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>p</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \epsilon _{p}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/93e86fb164047c6cbad49260f8a329035b66c3c8" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:2.021ex; height:2.343ex;" alt="\epsilon_p" /></span> is the dielectric function of the particle. <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>&#x03F5;<!-- ϵ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>m</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \epsilon _{m}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/acd3a15e19c6c4fcae9137cc850a5e1705c6576f" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:2.637ex; height:2.009ex;" alt="\epsilon _{m}" /></span> is the <a href="/wiki/Dielectric_function" class="mw-redirect" title="Dielectric function">dielectric function</a> of the embedding medium. When <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>&#x03F5;<!-- ϵ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>p</mi>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <mo>&#x2212;<!-- − --></mo>
+        <mn>2</mn>
+        <msub>
+          <mi>&#x03F5;<!-- ϵ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>m</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \epsilon _{p}=-2\epsilon _{m}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2b40f9b25734b132c49377ecb4669e5957bc0e2e" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:10.759ex; height:2.843ex;" alt="\epsilon _{p}=-2\epsilon _{m}" /></span> the <a href="/wiki/Polarizability" title="Polarizability">polarizability</a> of the particle becomes large. This polarizability value is known as the surface plasmon resonance. The dielectric function for metals with low absorption can be defined as:</p>
+<ul>
+<li><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>&#x03F5;<!-- ϵ --></mi>
+        <mo>=</mo>
+        <mn>1</mn>
+        <mo>&#x2212;<!-- − --></mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <msubsup>
+              <mi>&#x03C9;<!-- ω --></mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi>p</mi>
+              </mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mn>2</mn>
+              </mrow>
+            </msubsup>
+            <mrow>
+              <msup>
+                <mi>&#x03C9;<!-- ω --></mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mn>2</mn>
+                </mrow>
+              </msup>
+              <mo>+</mo>
+              <mi>i</mi>
+              <mi>&#x03B3;<!-- γ --></mi>
+              <mi>&#x03C9;<!-- ω --></mi>
+            </mrow>
+          </mfrac>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \epsilon =1-{\frac {\omega _{p}^{2}}{\omega ^{2}+i\gamma \omega }}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8d94f134361db3a7b960dba690ddea93d4d8ace3" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.671ex; width:17.834ex; height:6.676ex;" alt="\epsilon =1-{\frac  {\omega _{p}^{2}}{\omega ^{2}+i\gamma \omega }}" /></span></li>
+</ul>
+<p>In the previous equation, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>&#x03C9;<!-- ω --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>p</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \omega _{p}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/03e5bac876eaf90d1ef45de136723aa1c2838b32" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:2.523ex; height:2.343ex;" alt="\omega _{p}" /></span> is the bulk plasma frequency. This is defined as:</p>
+<ul>
+<li><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msubsup>
+          <mi>&#x03C9;<!-- ω --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>p</mi>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msubsup>
+        <mo>=</mo>
+        <mi>N</mi>
+        <msup>
+          <mi>e</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msup>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo>/</mo>
+        </mrow>
+        <mi>m</mi>
+        <msub>
+          <mi>&#x03F5;<!-- ϵ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>0</mn>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \omega _{p}^{2}=Ne^{2}/m\epsilon _{0}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d3007dd133232d08be02b2c1c97670a6ae176960" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:15.101ex; height:3.343ex;" alt="\omega _{p}^{2}=Ne^{2}/m\epsilon _{0}" /></span></li>
+</ul>
+<p>N is the density of free electrons, e is the <a href="/wiki/Electrical_resistivity_and_conductivity" title="Electrical resistivity and conductivity">electronic charge</a> and m is the <a href="/wiki/Effective_mass_(solid-state_physics)" title="Effective mass (solid-state physics)">effective mass</a> of an electron. <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>&#x03F5;<!-- ϵ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>0</mn>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \epsilon _{0}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d2cae6289b0fe626d1f9472a3416ac73e87bc5a3" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:2.016ex; height:2.009ex;" alt="\epsilon _{0}" /></span> is the dielectric constant of free space. The equation for the surface plasmon resonance in free space can therefore be represented by:</p>
+<ul>
+<li><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>&#x03B1;<!-- α --></mi>
+        <mo>=</mo>
+        <mn>3</mn>
+        <mi>V</mi>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <msubsup>
+              <mi>&#x03C9;<!-- ω --></mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi>p</mi>
+              </mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mn>2</mn>
+              </mrow>
+            </msubsup>
+            <mrow>
+              <msubsup>
+                <mi>&#x03C9;<!-- ω --></mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi>p</mi>
+                </mrow>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mn>2</mn>
+                </mrow>
+              </msubsup>
+              <mo>&#x2212;<!-- − --></mo>
+              <mn>3</mn>
+              <msup>
+                <mi>&#x03C9;<!-- ω --></mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mn>2</mn>
+                </mrow>
+              </msup>
+              <mo>&#x2212;<!-- − --></mo>
+              <mi>i</mi>
+              <mi>&#x03B3;<!-- γ --></mi>
+              <mi>&#x03C9;<!-- ω --></mi>
+            </mrow>
+          </mfrac>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \alpha =3V{\frac {\omega _{p}^{2}}{\omega _{p}^{2}-3\omega ^{2}-i\gamma \omega }}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/810c0c074b154b37fc7568937a4a9690aa7ee6ee" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -3.005ex; width:23.871ex; height:7.009ex;" alt="\alpha =3V{\frac  {\omega _{p}^{2}}{\omega _{p}^{2}-3\omega ^{2}-i\gamma \omega }}" /></span></li>
+</ul>
+<p>Many of the plasmonic solar cells use nano-particles to enhance the scattering of light. These nano-particles take the shape of spheres, and therefore the surface plasmon resonance frequency for spheres is desirable. By solving the previous <a href="/wiki/Equation" title="Equation">equations</a>, the surface plasmon resonance frequency for a sphere in free space can be shown as:</p>
+<ul>
+<li><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>&#x03C9;<!-- ω --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>s</mi>
+            <mi>p</mi>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <msqrt>
+            <mn>3</mn>
+          </msqrt>
+        </mrow>
+        <msub>
+          <mi>&#x03C9;<!-- ω --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>p</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \omega _{sp}={\sqrt {3}}\omega _{p}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/880a422ac2868231b9fdf60d47ae031f95911e40" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:12.052ex; height:3.343ex;" alt="\omega _{{sp}}={\sqrt  {3}}\omega _{p}" /></span></li>
+</ul>
+<p>As an example, at the surface plasmon resonance for a silver nanoparticle, the scattering cross-section is about 10x the cross-section of the nanoparticle. The goal of the nano-particles is to trap light on the surface of the SC. The absorption of light is not important for the nanoparticle, rather, it is important for the SC. One would think that if the nanoparticle is increased in size, then the scattering cross-section becomes larger. This is true, however, when compared with the size of the nanoparticle, the ratio (<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>C</mi>
+        <msub>
+          <mi>S</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>s</mi>
+            <mi>c</mi>
+            <mi>a</mi>
+            <mi>t</mi>
+          </mrow>
+        </msub>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo>/</mo>
+        </mrow>
+        <mi>C</mi>
+        <msub>
+          <mi>S</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>p</mi>
+            <mi>a</mi>
+            <mi>r</mi>
+            <mi>t</mi>
+            <mi>i</mi>
+            <mi>c</mi>
+            <mi>l</mi>
+            <mi>e</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle CS_{scat}/CS_{particle}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c62e58e9de7a4ad0bf4f79c8706f1af3406346cf" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:16.664ex; height:3.009ex;" alt="{\displaystyle CS_{scat}/CS_{particle}}" /></span>) is reduced. Particles with a large scattering cross section tend to have a broader plasmon resonance range.</p>
+<h4><span class="mw-headline" id="Wavelength_dependence">Wavelength dependence</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Plasmonic_solar_cell&amp;action=edit&amp;section=10" title="Edit section: Wavelength dependence">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Surface plasmon resonance mainly depends on the density of free electrons in the particle. The order of densities of electrons for different metals is shown below along with the type of light which corresponds to the resonance.</p>
+<ul>
+<li><a href="/wiki/Aluminum" class="mw-redirect" title="Aluminum">Aluminum</a> - Ultra-violet</li>
+<li><a href="/wiki/Silver" title="Silver">Silver</a> - Ultra-violet</li>
+<li><a href="/wiki/Gold" title="Gold">Gold</a> - Visible</li>
+<li><a href="/wiki/Copper" title="Copper">Copper</a> - Visible</li>
+</ul>
+<p>If the dielectric constant for the embedding medium is varied, the <a href="/wiki/Resonant_frequency" class="mw-redirect" title="Resonant frequency">resonant frequency</a> can be shifted. Higher indexes of refraction will lead to a longer wavelength frequency.</p>
+<h4><span class="mw-headline" id="Light_trapping">Light trapping</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Plasmonic_solar_cell&amp;action=edit&amp;section=11" title="Edit section: Light trapping">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>The metal nano-particles are deposited at a distance from the substrate in order to trap the light between the substrate and the particles. The particles are embedded in a material on top of the substrate. The material is typically a <a href="/wiki/Dielectric" title="Dielectric">dielectric</a>, such as silicon or <a href="/wiki/Silicon_nitride" title="Silicon nitride">silicon nitride</a>. When performing experiment and simulations on the amount of light scattered into the substrate due to the distance between the particle and substrate, air is used as the embedding material as a reference. It has been found that the amount of light radiated into the substrate decreases with distance from the substrate. This means that nano-particles on the surface are desirable for radiating light into the substrate, but if there is no distance between the particle and substrate, then the light is not trapped and more light escapes.</p>
+<p>The surface plasmons are the excitations of the conduction electrons at the interface of metal and the dielectric. Metallic nano-particles can be used to couple and trap freely propagating plane waves into the semiconductor thin film layer. Light can be folded into the absorbing layer to increase the absorption. The localized surface plasmons in metal nano-particles and the surface plasmon polaritons at the interface of metal and semiconductor are of interest in the current research. In recent reported papers, the shape and size of the metal nano-particles are key factors to determine the incoupling efficiency. The smaller particles have larger incoupling efficiency due to the enhanced near-field coupling. However, very small particles suffer from large ohmic losses. <sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></p>
+<p>Recently, the plasmonic asymmetric modes of nano particles have found to favor the broadband optical absorption and promote the electrical properties of solar cells. The simutaneously plasmon-optical and plasmon-electrical effects of nanoparticles reveal a promising feature of nanoparticle plasmon.<sup id="cite_ref-Volume_12.2C_Issue_37.2C_pages_5200.E2.80.935207.2C_.2C_2016_8-1" class="reference"><a href="#cite_note-Volume_12.2C_Issue_37.2C_pages_5200.E2.80.935207.2C_.2C_2016-8">[8]</a></sup></p>
+<h3><span class="mw-headline" id="Metal_film">Metal film</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Plasmonic_solar_cell&amp;action=edit&amp;section=12" title="Edit section: Metal film">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>As light is incident upon the surface of the metal film, it excites surface plasmons. The surface plasmon frequency is specific for the material, but through the use of <a href="/wiki/Grating" title="Grating">gratings</a> on the surface of the film, different frequencies can be obtained. The surface plasmons are also preserved through the use of waveguides as they make the surface plasmons easier to travel on the surface and the losses due to resistance and radiation are minimized. The electric field generated by the surface plasmons influences the electrons to travel toward the collecting substrate. <sup id="cite_ref-Huag_11-0" class="reference"><a href="#cite_note-Huag-11">[11]</a></sup></p>
+<h2><span class="mw-headline" id="Materials">Materials</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Plasmonic_solar_cell&amp;action=edit&amp;section=13" title="Edit section: Materials">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable" border="1">
+<tr>
+<th>First Generation</th>
+<th>Second Generation</th>
+<th>Third Generation</th>
+</tr>
+<tr>
+<td>Single-crystal silicon</td>
+<td>CuInSe2</td>
+<td>Gallium Indium Phosphide</td>
+</tr>
+<tr>
+<td>Multicrystalline silicon</td>
+<td>amorphous silicon</td>
+<td>Gallium Indium Arsenide</td>
+</tr>
+<tr>
+<td>Polycrystalline silicon</td>
+<td>thin film crystalline Si</td>
+<td>Germanium</td>
+</tr>
+</table>
+<p><sup id="cite_ref-Conibeer_6-1" class="reference"><a href="#cite_note-Conibeer-6">[6]</a></sup><sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup></p>
+<h2><span class="mw-headline" id="Applications">Applications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Plasmonic_solar_cell&amp;action=edit&amp;section=14" title="Edit section: Applications">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The applications for plasmonic solar cells are endless. The need for cheaper and more efficient solar cells is huge. In order for solar cells to be considered cost effective, they need to provide energy for a smaller price than that of traditional power sources such as <a href="/wiki/Coal" title="Coal">coal</a> and <a href="/wiki/Gasoline" title="Gasoline">gasoline</a>. The movement toward a more green world has helped to spark research in the area of plasmonic solar cells. Currently, solar cells cannot exceed efficiencies of about 30% (First Generation). With new technologies (Third Generation), efficiencies of up to 40-60% can be expected. With a reduction of materials through the use of thin film technology (Second Generation), prices can be driven lower.</p>
+<p>Certain applications for plasmonic solar cells would be for <a href="/wiki/Space_exploration" title="Space exploration">space exploration</a> vehicles. A main contribution for this would be the reduced weight of the solar cells. An external fuel source would also not be needed if enough power could be generated from the solar cells. This would drastically help to reduce the weight as well.</p>
+<p>Solar cells have a great potential to help rural <a href="/wiki/Electrification" title="Electrification">electrification</a>. An estimated two million villages near the equator have limited access to electricity and fossil fuels and that approximately 25%<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup> of people in the world do not have access to electricity. When the cost of extending <a href="/wiki/Power_grid" class="mw-redirect" title="Power grid">power grids</a>, running rural electricity and using diesel generators is compared with the cost of solar cells, many times the solar cells win. If the efficiency and cost of the current solar cell technology is decreased even further, then many rural communities and villages around the world could obtain electricity when current methods are out of the question. Specific applications for rural communities would be water pumping systems, residential electric supply and street lights. A particularly interesting application would be for health systems in countries where motorized vehicles are not overly abundant. Solar cells could be used to provide the power to refrigerate <a href="/wiki/Medication" class="mw-redirect" title="Medication">medications</a> in coolers during transport.</p>
+<p>Solar cells could also provide power to <a href="/wiki/Lighthouse" title="Lighthouse">lighthouses</a>, <a href="/wiki/Buoy" title="Buoy">buoys</a>, or even <a href="/wiki/Battleship" title="Battleship">battleships</a> out in the ocean. Industrial companies could use them to power <a href="/wiki/Telecommunications" class="mw-redirect" title="Telecommunications">telecommunications</a> systems or monitoring and control systems along pipelines or other system.<sup id="cite_ref-web_14-0" class="reference"><a href="#cite_note-web-14">[14]</a></sup></p>
+<p>If the solar cells could be produced on a large scale and be cost effective then entire <a href="/wiki/Power_station" title="Power station">power stations</a> could be built in order to provide power to the electrical grids. With a reduction in size, they could be implemented on both commercial and residential buildings with a much smaller footprint. They might not even seem like an <a href="/wiki/Eyesore" title="Eyesore">eyesore</a>. <sup id="cite_ref-web_14-1" class="reference"><a href="#cite_note-web-14">[14]</a></sup></p>
+<p>Other areas are in hybrid systems. The solar cells could help to power high consumption devices such as <a href="/wiki/Automobile" class="mw-redirect" title="Automobile">automobiles</a> in order to reduce the amount of fossil fuels used and to help improve the environmental conditions of the earth.</p>
+<p>In consumer electronics devices, solar cells could be used to replace batteries for low power electronics. This would save everyone a lot of money and it would also help to reduce the amount of waste going into <a href="/wiki/Landfill" title="Landfill">landfills</a>.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup></p>
+<h2><span class="mw-headline" id="Recent_advancements">Recent advancements</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Plasmonic_solar_cell&amp;action=edit&amp;section=15" title="Edit section: Recent advancements">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Choice_of_plasmonic_metal_nano-particles">Choice of plasmonic metal nano-particles</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Plasmonic_solar_cell&amp;action=edit&amp;section=16" title="Edit section: Choice of plasmonic metal nano-particles">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Proper choice of plasmatic metal nano-particles is crucial for the maximum light absorption in the active layer. Front surface located nano-particles Ag and Au are the most widely used materials due to their surface plasmon resonances located in the visible range and therefore interact more strongly with the peak solar intensity. However, such noble metal nano-particles always introduce reduced light coupling into Si at the short wavelengths below the surface plasmon resonance due to the detrimental Fano effect, i.e. the destructive interference between the scattered and unscattered light. Moreover, the noble metal nano-particles are impractical to implement for large-scale solar cell manufacture due to their high cost and scarcity in the earth's crust. Recently, Zhang et al. have demonstrated the low cost and earth abundant materials Al nano-particles to be able to outperform the widely used Ag and Au nano-particles. Al nano-particles, with their surface plasmon resonances located in the UV region below the desired solar spectrum edge at 300&#160;nm, can avoid the reduction and introduce extra enhancement in the shorter wavelength range.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup><sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup></p>
+<h3><span class="mw-headline" id="Light_trapping_2">Light trapping</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Plasmonic_solar_cell&amp;action=edit&amp;section=17" title="Edit section: Light trapping">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>As discussed earlier, being able to concentrate and scatter light across the surface of the plasmonic solar cell will help to increase efficiencies. Recently, research at <a href="/wiki/Sandia_National_Laboratories" title="Sandia National Laboratories">Sandia National Laboratories</a> has discovered a photonic waveguide which collects light at a certain wavelength and traps it within the structure. This new structure can contain 95% of the light that enters it compared to 30% for other traditional waveguides. It can also direct the light within one wavelength which is ten times greater than traditional waveguides. The wavelength this device captures can be selected by changing the structure of the lattice which comprises the structure. If this structure is used to trap light and keep it in the structure until the solar cell can absorb it, the efficiency of the solar cell could be increased dramatically.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup></p>
+<h3><span class="mw-headline" id="Absorption">Absorption</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Plasmonic_solar_cell&amp;action=edit&amp;section=18" title="Edit section: Absorption">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Another recent advancement in plasmonic solar cells is using other methods to aid in the absorption of light. One way being researched is the use of metal wires on top of the substrate to scatter the light. This would help by utilizing a larger area of the surface of the solar cell for light scattering and absorption. The danger in using lines instead of dots would be creating a reflective layer which would reject light from the system. This is very undesirable for solar cells. This would be very similar to the thin metal film approach, but it also utilizes the scattering effect of the nano-particles. <sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup></p>
+<h3><span class="mw-headline" id="Third_generation">Third generation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Plasmonic_solar_cell&amp;action=edit&amp;section=19" title="Edit section: Third generation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The goal of third generation solar cells is to increase the efficiency using second generation solar cells (thin film) and using materials that are found abundantly on earth. This has also been a goal of the thin film solar cells. With the use of common and safe materials, third generation solar cells should be able to be manufactured in mass quantities further reducing the costs. The initial costs would be high in order to produce the manufacturing processes, but after that they should be cheap. The way third generation solar cells will be able to improve efficiency is to absorb a wider range of frequencies. The current thin film technology has been limited to one frequency due to the use of single band gap devices.<sup id="cite_ref-Conibeer_6-2" class="reference"><a href="#cite_note-Conibeer-6">[6]</a></sup></p>
+<h4><span class="mw-headline" id="Multiple_energy_levels">Multiple energy levels</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Plasmonic_solar_cell&amp;action=edit&amp;section=20" title="Edit section: Multiple energy levels">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>The idea for multiple energy level solar cells is to basically stack thin film solar cells on top of each other. Each thin film solar cell would have a different band gap which means that if part of the solar spectrum was not absorbed by the first cell then the one just below would be able to absorb part of the spectrum. These can be stacked and an optimal band gap can be used for each cell in order to produce the maximum amount of power. Options for how each cell is connected are available, such as serial or parallel. The serial connection is desired because the output of the solar cell would just be two leads.</p>
+<p>The lattice structure in each of the thin film cells needs to be the same. If it is not then there will be losses. The processes used for depositing the layers are complex. They include Molecular Beam Epitaxy and Metal Organic Vapour Phase Epitaxy. The current efficiency record is made with this process but doesn't have exact matching lattice constants. The losses due to this are not as effective because the differences in lattices allows for more optimal band gap material for the first two cells. This type of cell is expected to be able to be 50% efficient.</p>
+<p>Lower quality materials that use cheaper deposition processes are being researched as well. These devices are not as efficient, but the price, size and power combined allow them to be just as cost effective. Since the processes are simpler and the materials are more readily available, the mass production of these devices is more economical.</p>
+<h4><span class="mw-headline" id="Hot_carrier_cells">Hot carrier cells</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Plasmonic_solar_cell&amp;action=edit&amp;section=21" title="Edit section: Hot carrier cells">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>A problem with solar cells is that the high energy photons that hit the surface are converted to heat. This is a loss for the cell because the incoming photons are not converted into usable energy. The idea behind the hot carrier cell is to utilize some of that incoming energy which is converted to heat. If the electrons and holes can be collected while hot, a higher voltage can be obtained from the cell. The problem with doing this is that the contacts which collect the electrons and holes will cool the material. Thus far, keeping the contacts from cooling the cell has been theoretical. Another way of improving the efficiency of the solar cell using the heat generated is to have a cell which allows lower energy photons to excite electron and hole pairs. This requires a small bandgap. Using a selective contact, the lower energy electrons and holes can be collected while allowing the higher energy ones to continue moving through the cell. The selective contacts are made using a double barrier resonant tunneling structure. The carriers are cooled which they scatter with phonons. If a material with a large bandgap of phonons then the carriers will carry more of the heat to the contact and it won't be lost in the lattice structure. One material which has a large bandgap of phonons is indium nitride. The hot carrier cells are in their infancy but are beginning to move toward the experimental stage.</p>
+<h4><span class="mw-headline" id="Plasmonic-electrical_solar_cells">Plasmonic-electrical solar cells</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Plasmonic_solar_cell&amp;action=edit&amp;section=22" title="Edit section: Plasmonic-electrical solar cells">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Having unique features of tunable resonances and unprecedented near-field enhancement, <a href="/wiki/Plasmon" title="Plasmon">plasmon</a> is an enabling technique for light management. Recently, performances of <a href="/wiki/Thin-film_solar_cells" class="mw-redirect" title="Thin-film solar cells">thin-film solar cells</a> have been pronouncedly improved by introducing metallic nanostructures. The improvements are mainly attributed to the plasmonic-optical effects for manipulating light propagation, absorption, and scattering. The plasmonic-optical effects could: (1) boost optical absorption of active materials; (2) spatially redistribute light absorption at the active layer due to the localized near-field enhancement around metallic nanostructures. Except for the plasmonic-optical effects, the effects of plasmonically modified <a href="/wiki/Genetic_recombination" title="Genetic recombination">recombination</a>, transport and collection of photocarriers (electrons and holes), hereafter named plasmonic-electrical effects, have been proposed by Sha, etal.<sup id="cite_ref-Plasmonic_Electrical_1_20-0" class="reference"><a href="#cite_note-Plasmonic_Electrical_1-20">[20]</a></sup><sup id="cite_ref-Plasmonic_Electrical_2_21-0" class="reference"><a href="#cite_note-Plasmonic_Electrical_2-21">[21]</a></sup> For boosting device performance, they conceived a general design rule, tailored to arbitrary electron to hole mobility ratio, to decide the transport paths of photocarriers.<sup id="cite_ref-Plasmonic_Electrical_2_21-1" class="reference"><a href="#cite_note-Plasmonic_Electrical_2-21">[21]</a></sup> The design rule suggests that electron to hole transport length ratio should be balanced with electron to hole mobility ratio. In other words, the transport time of electrons and holes (from initial generation sites to corresponding electrodes) should be the same. The general design rule can be realized by spatially redistributing light absorption at the active layer of devices (with the plasmonic-electrical effect). They also demonstrated the breaking of <a href="/wiki/Space_charge" title="Space charge">space charge</a> limit in plasmonic-electrical organic solar cell.<sup id="cite_ref-Plasmonic_Electrical_1_20-1" class="reference"><a href="#cite_note-Plasmonic_Electrical_1-20">[20]</a></sup> Recently, the plasmonic asymmetric modes of nano particles have found to favor the broadband optical absorption and promote the electrical properties of solar cells. The simutaneously plasmon-optical and plasmon-electrical effects of nanoparticles reveal a promising feature of nanoparticle plasmon.<sup id="cite_ref-Volume_12.2C_Issue_37.2C_pages_5200.E2.80.935207.2C_.2C_2016_8-2" class="reference"><a href="#cite_note-Volume_12.2C_Issue_37.2C_pages_5200.E2.80.935207.2C_.2C_2016-8">[8]</a></sup><sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup></p>
+<h4><span class="mw-headline" id="Ultra-thin_plasmonic_wafer_solar_cells">Ultra-thin plasmonic wafer solar cells</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Plasmonic_solar_cell&amp;action=edit&amp;section=23" title="Edit section: Ultra-thin plasmonic wafer solar cells">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Reducing the silicon wafer thickness at a minimized efficiency loss represents a mainstream trend in increasing the cost-effectiveness of wafer-based solar cells. Recently, Zhang et al. have demonstrated that, using the advanced light trapping strategy with a properly designed nano-particle architecture, the wafer thickness can be dramatically reduced to only around 1/10 of the current thickness (180&#160;µm) without any solar cell efficiency loss at 18.2%. Nano-particle integrated ultra-thin solar cells with only 3% of the current wafer thickness can potentially achieve 15.3% efficiency combining the absorption enhancement with the benefit of thinner wafer induced open circuit voltage increase. This represents a 97% material saving with only 15% relative efficiency loss. These results demonstrate the feasibility and prospect of achieving high-efficiency ultra-thin silicon wafer cells with plasmonic light trapping.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup></p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Plasmonic_solar_cell&amp;action=edit&amp;section=24" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a href="/wiki/File:Wind-turbine-icon.svg" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/28px-Wind-turbine-icon.svg.png" width="28" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/42px-Wind-turbine-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/56px-Wind-turbine-icon.svg.png 2x" data-file-width="128" data-file-height="128" /></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Renewable_energy" title="Portal:Renewable energy">Renewable energy portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a href="/wiki/File:Crystal_energy.svg" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/29px-Crystal_energy.svg.png" width="29" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/44px-Crystal_energy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/59px-Crystal_energy.svg.png 2x" data-file-width="130" data-file-height="124" /></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Energy" title="Portal:Energy">Energy portal</a></span></li>
+</ul>
+</div>
+<div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation book">Gwamuri, J.; Güney, D. Ö.; Pearce, J. M. (2013-01-01). Tiwari, Atul; Boukherroub, Rabah; Sharon, heshwar, eds. <a rel="nofollow" class="external text" href="http://onlinelibrary.wiley.com/doi/10.1002/9781118845721.ch10/summary"><i>Advances in Plasmonic Light Trapping in Thin-Film Solar Photovoltaic Devices</i></a>. John Wiley &amp; Sons, Inc. pp.&#160;241–269. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1002%2F9781118845721.ch10">10.1002/9781118845721.ch10</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9781118845721" title="Special:BookSources/9781118845721">9781118845721</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APlasmonic+solar+cell&amp;rft.aufirst=J.&amp;rft.au=G%C3%BCney%2C+D.+%C3%96.&amp;rft.aulast=Gwamuri&amp;rft.au=Pearce%2C+J.+M.&amp;rft.btitle=Advances+in+Plasmonic+Light+Trapping+in+Thin-Film+Solar+Photovoltaic+Devices&amp;rft.date=2013-01-01&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fonlinelibrary.wiley.com%2Fdoi%2F10.1002%2F9781118845721.ch10%2Fsummary&amp;rft_id=info%3Adoi%2F10.1002%2F9781118845721.ch10&amp;rft.isbn=9781118845721&amp;rft.pages=241-269&amp;rft.pub=John+Wiley+%26+Sons%2C+Inc.&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-:0-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-:0_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:0_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Atwater, Harry A.; Polman, Albert (March 2010). <a rel="nofollow" class="external text" href="http://www.nature.com/doifinder/10.1038/nmat2629">"Plasmonics for improved photovoltaic devices"</a>. <i>Nature Materials</i>. <b>9</b> (3): 205–213. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2010NatMa...9..205A">2010NatMa...9..205A</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1038%2Fnmat2629">10.1038/nmat2629</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/20168344">20168344</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APlasmonic+solar+cell&amp;rft.atitle=Plasmonics+for+improved+photovoltaic+devices&amp;rft.aufirst=Harry+A.&amp;rft.aulast=Atwater&amp;rft.au=Polman%2C+Albert&amp;rft.date=2010-03&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.nature.com%2Fdoifinder%2F10.1038%2Fnmat2629&amp;rft_id=info%3Abibcode%2F2010NatMa...9..205A&amp;rft_id=info%3Adoi%2F10.1038%2Fnmat2629&amp;rft_id=info%3Apmid%2F20168344&amp;rft.issue=3&amp;rft.jtitle=Nature+Materials&amp;rft.pages=205-213&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=9" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation journal">Müller, Joachim; Rech, Bernd; Springer, Jiri; Vanecek, Milan (2004-12-01). <a rel="nofollow" class="external text" href="http://www.sciencedirect.com/science/article/pii/S0038092X04000647">"TCO and light trapping in silicon thin film solar cells"</a>. <i>Solar Energy</i>. Thin Film PV. <b>77</b> (6): 917–930. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2004SoEn...77..917M">2004SoEn...77..917M</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2Fj.solener.2004.03.015">10.1016/j.solener.2004.03.015</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APlasmonic+solar+cell&amp;rft.atitle=TCO+and+light+trapping+in+silicon+thin+film+solar+cells&amp;rft.aufirst=Joachim&amp;rft.aulast=M%C3%BCller&amp;rft.au=Rech%2C+Bernd&amp;rft.au=Springer%2C+Jiri&amp;rft.au=Vanecek%2C+Milan&amp;rft.date=2004-12-01&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS0038092X04000647&amp;rft_id=info%3Abibcode%2F2004SoEn...77..917M&amp;rft_id=info%3Adoi%2F10.1016%2Fj.solener.2004.03.015&amp;rft.issue=6&amp;rft.jtitle=Solar+Energy&amp;rft.pages=917-930&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=77" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Catchpole-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-Catchpole_4-0">^</a></b></span> <span class="reference-text">K. R. Catchpole and A. Polman, "Plasmonic solar cells," Opt. Express 16, 21793-21800 (2008) <a rel="nofollow" class="external free" href="http://www.opticsinfobase.org/oe/abstract.cfm?URI=oe-16-26-21793">http://www.opticsinfobase.org/oe/abstract.cfm?URI=oe-16-26-21793</a></span></li>
+<li id="cite_note-Muller-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-Muller_5-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Müller, Joachim; Rech, Bernd; Springer, Jiri; Vanecek, Milan (2004). "TCO and light trapping in silicon thin film solar cells". <i>Solar Energy</i>. <b>77</b> (6): 917–930. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2004SoEn...77..917M">2004SoEn...77..917M</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2Fj.solener.2004.03.015">10.1016/j.solener.2004.03.015</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APlasmonic+solar+cell&amp;rft.atitle=TCO+and+light+trapping+in+silicon+thin+film+solar+cells&amp;rft.aufirst=Joachim&amp;rft.aulast=M%C3%BCller&amp;rft.au=Rech%2C+Bernd&amp;rft.au=Springer%2C+Jiri&amp;rft.au=Vanecek%2C+Milan&amp;rft.date=2004&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F2004SoEn...77..917M&amp;rft_id=info%3Adoi%2F10.1016%2Fj.solener.2004.03.015&amp;rft.issue=6&amp;rft.jtitle=Solar+Energy&amp;rft.pages=917-930&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=77" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Conibeer-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-Conibeer_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Conibeer_6-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Conibeer_6-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">Gavin Conibeer, Third generation photovoltaics, Proc. SPIE Vol. 7411, 74110D (Aug. 20, 2009)</span></li>
+<li id="cite_note-Tanabe-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-Tanabe_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Tanabe_7-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Tanabe, K. (2009). "A Review of Ultrahigh Efficiency III-V Semiconductor Compound Solar Cells: Multijunction Tandem, Lower Dimensional, Photonic Up/Down Conversion and Plasmonic Nanometallic Structures". <i>Energies</i>. <b>2</b> (3): 504–530. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.3390%2Fen20300504">10.3390/en20300504</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APlasmonic+solar+cell&amp;rft.atitle=A+Review+of+Ultrahigh+Efficiency+III-V+Semiconductor+Compound+Solar+Cells%3A+Multijunction+Tandem%2C+Lower+Dimensional%2C+Photonic+Up%2FDown+Conversion+and+Plasmonic+Nanometallic+Structures&amp;rft.aufirst=K.&amp;rft.aulast=Tanabe&amp;rft.date=2009&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.3390%2Fen20300504&amp;rft.issue=3&amp;rft.jtitle=Energies&amp;rft.pages=504-530&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=2" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Volume_12.2C_Issue_37.2C_pages_5200.E2.80.935207.2C_.2C_2016-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-Volume_12.2C_Issue_37.2C_pages_5200.E2.80.935207.2C_.2C_2016_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Volume_12.2C_Issue_37.2C_pages_5200.E2.80.935207.2C_.2C_2016_8-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Volume_12.2C_Issue_37.2C_pages_5200.E2.80.935207.2C_.2C_2016_8-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Ren, Xingang etl. (2016). <a rel="nofollow" class="external text" href="http://onlinelibrary.wiley.com/wol1/doi/10.1002/smll.201601949/abstract">"High Efficiency Organic Solar Cells Achieved by the Simultaneous Plasmon-Optical and Plasmon-Electrical Effects from Plasmonic Asymmetric Modes of Gold Nanostars"</a>. <i>Small</i>. <b>12</b> (37): 5200–5207. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1002%2Fsmll.201601949">10.1002/smll.201601949</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APlasmonic+solar+cell&amp;rft.atitle=High+Efficiency+Organic+Solar+Cells+Achieved+by+the+Simultaneous+Plasmon-Optical+and+Plasmon-Electrical+Effects+from+Plasmonic+Asymmetric+Modes+of+Gold+Nanostars&amp;rft.aufirst=Xingang+etl.&amp;rft.aulast=Ren&amp;rft.date=2016&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fonlinelibrary.wiley.com%2Fwol1%2Fdoi%2F10.1002%2Fsmll.201601949%2Fabstract&amp;rft_id=info%3Adoi%2F10.1002%2Fsmll.201601949&amp;rft.issue=37&amp;rft.jtitle=Small&amp;rft.pages=5200-5207&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=12" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Ferry-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-Ferry_9-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Ferry, Vivian E.; Sweatlock, Luke A.; Pacifici, Domenico; Atwater, Harry A. (2008). "Plasmonic Nanostructure Design for Efficient Light Coupling into Solar Cells". <i>Nano Letters</i>. <b>8</b> (12): 4391–4397. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2008NanoL...8.4391F">2008NanoL...8.4391F</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1021%2Fnl8022548">10.1021/nl8022548</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/19367883">19367883</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APlasmonic+solar+cell&amp;rft.atitle=Plasmonic+Nanostructure+Design+for+Efficient+Light+Coupling+into+Solar+Cells&amp;rft.au=Atwater%2C+Harry+A.&amp;rft.aufirst=Vivian+E.&amp;rft.aulast=Ferry&amp;rft.au=Pacifici%2C+Domenico&amp;rft.au=Sweatlock%2C+Luke+A.&amp;rft.date=2008&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F2008NanoL...8.4391F&amp;rft_id=info%3Adoi%2F10.1021%2Fnl8022548&amp;rft_id=info%3Apmid%2F19367883&amp;rft.issue=12&amp;rft.jtitle=Nano+Letters&amp;rft.pages=4391-4397&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=8" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation journal">Atwater, Harry; A. Polman (19 February 2010). "Plasmonics for improved photovoltaic devices". <i>Nature Materials</i>. <b>9</b> (3): 205–13. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2010NatMa...9..205A">2010NatMa...9..205A</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1038%2Fnmat2629">10.1038/nmat2629</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/20168344">20168344</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APlasmonic+solar+cell&amp;rft.atitle=Plasmonics+for+improved+photovoltaic+devices&amp;rft.au=A.+Polman&amp;rft.aufirst=Harry&amp;rft.aulast=Atwater&amp;rft.date=2010-02-19&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F2010NatMa...9..205A&amp;rft_id=info%3Adoi%2F10.1038%2Fnmat2629&amp;rft_id=info%3Apmid%2F20168344&amp;rft.issue=3&amp;rft.jtitle=Nature+Materials&amp;rft.pages=205-13&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=9" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Huag-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-Huag_11-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Haug, F.-J.; SöDerström, T.; Cubero, O.; Terrazzoni-Daudrix, V.; Ballif, C. (2008). "Plasmonic absorption in textured silver back reflectors of thin film solar cells". <i>Journal of Applied Physics</i>. <b>104</b> (6): 064509. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2008JAP...104f4509H">2008JAP...104f4509H</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1063%2F1.2981194">10.1063/1.2981194</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APlasmonic+solar+cell&amp;rft.atitle=Plasmonic+absorption+in+textured+silver+back+reflectors+of+thin+film+solar+cells&amp;rft.au=Ballif%2C+C.&amp;rft.au=Cubero%2C+O.&amp;rft.aufirst=F.-J.&amp;rft.aulast=Haug&amp;rft.au=S%C3%B6Derstr%C3%B6m%2C+T.&amp;rft.au=Terrazzoni-Daudrix%2C+V.&amp;rft.date=2008&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F2008JAP...104f4509H&amp;rft_id=info%3Adoi%2F10.1063%2F1.2981194&amp;rft.issue=6&amp;rft.jtitle=Journal+of+Applied+Physics&amp;rft.pages=064509&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=104" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www1.eere.energy.gov/solar/solar_cell_materials.html">http://www1.eere.energy.gov/solar/solar_cell_materials.html</a></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.globalissues.org/article/26/poverty-facts-and-stats">http://www.globalissues.org/article/26/poverty-facts-and-stats</a></span></li>
+<li id="cite_note-web-14"><span class="mw-cite-backlink">^ <a href="#cite_ref-web_14-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-web_14-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.soton.ac.uk/~solar/intro/appso.htm">http://www.soton.ac.uk/~solar/intro/appso.htm</a></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://blog.coolerplanet.com/2009/01/23/the-4-basic-types-of-solar-cell-applications/">http://blog.coolerplanet.com/2009/01/23/the-4-basic-types-of-solar-cell-applications/</a></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation journal">Yinan, Zhang; et al. (2012). "Low cost and high performance Al nanoparticles for broadband light trapping in Si wafer solar cells". <i>Applied Physics Letters</i>. <b>100</b> (12): 151101. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2012ApPhL.100b1101N">2012ApPhL.100b1101N</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1063%2F1.3675451">10.1063/1.3675451</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APlasmonic+solar+cell&amp;rft.atitle=Low+cost+and+high+performance+Al+nanoparticles+for+broadband+light+trapping+in+Si+wafer+solar+cells&amp;rft.aufirst=Zhang&amp;rft.aulast=Yinan&amp;rft.date=2012&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F2012ApPhL.100b1101N&amp;rft_id=info%3Adoi%2F10.1063%2F1.3675451&amp;rft.issue=12&amp;rft.jtitle=Applied+Physics+Letters&amp;rft.pages=151101&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=100" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation journal">Yinan, Zhang; et al. (2013). "Improved multicrystalline Si solar cells by light trapping from Al nanoparticle enhanced antireflection coating". <i>Opt. Mater. Express</i>. <b>3</b> (4): 489.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APlasmonic+solar+cell&amp;rft.atitle=Improved+multicrystalline+Si+solar+cells+by+light+trapping+from+Al+nanoparticle+enhanced+antireflection+coating&amp;rft.aufirst=Zhang&amp;rft.aulast=Yinan&amp;rft.date=2013&amp;rft.genre=article&amp;rft.issue=4&amp;rft.jtitle=Opt.+Mater.+Express&amp;rft.pages=489&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=3" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.sandia.gov/media/photonic.htm">http://www.sandia.gov/media/photonic.htm</a></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation journal">Pala, Ragip A.; White, Justin; Barnard, Edward; Liu, John; Brongersma, Mark L. (2009). "Design of Plasmonic Thin-Film Solar Cells with Broadband Absorption Enhancements". <i>Advanced Materials</i>. <b>21</b> (34): 3504–3509. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1002%2Fadma.200900331">10.1002/adma.200900331</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APlasmonic+solar+cell&amp;rft.atitle=Design+of+Plasmonic+Thin-Film+Solar+Cells+with+Broadband+Absorption+Enhancements&amp;rft.au=Barnard%2C+Edward&amp;rft.au=Brongersma%2C+Mark+L.&amp;rft.aufirst=Ragip+A.&amp;rft.aulast=Pala&amp;rft.au=Liu%2C+John&amp;rft.au=White%2C+Justin&amp;rft.date=2009&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1002%2Fadma.200900331&amp;rft.issue=34&amp;rft.jtitle=Advanced+Materials&amp;rft.pages=3504-3509&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=21" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Plasmonic_Electrical_1-20"><span class="mw-cite-backlink">^ <a href="#cite_ref-Plasmonic_Electrical_1_20-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Plasmonic_Electrical_1_20-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Sha, Wei E. I.; Li, Xuanhua; Choy, Wallace C. H. (2014). "Breaking the Space Charge Limit in Organic Solar Cells by a Novel Plasmonic-Electrical Concept". <i>Scientific Reports</i>. <b>4</b>: 6236. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2014NatSR...4E6236S">2014NatSR...4E6236S</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1038%2Fsrep06236">10.1038/srep06236</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APlasmonic+solar+cell&amp;rft.atitle=Breaking+the+Space+Charge+Limit+in+Organic+Solar+Cells+by+a+Novel+Plasmonic-Electrical+Concept&amp;rft.au=Choy%2C+Wallace+C.+H.&amp;rft.aufirst=Wei+E.+I.&amp;rft.aulast=Sha&amp;rft.au=Li%2C+Xuanhua&amp;rft.date=2014&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F2014NatSR...4E6236S&amp;rft_id=info%3Adoi%2F10.1038%2Fsrep06236&amp;rft.jtitle=Scientific+Reports&amp;rft.pages=6236&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=4" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Plasmonic_Electrical_2-21"><span class="mw-cite-backlink">^ <a href="#cite_ref-Plasmonic_Electrical_2_21-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Plasmonic_Electrical_2_21-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Sha, Wei E. I.; Zhu, Hugh L.; Chen, Luzhou; Chew, Weng Cho; Choy, Wallace C. H. (2015). "A General Design Rule to Manipulate Photocarrier Transport Path in Solar Cells and Its Realization by the Plasmonic-Electrical Effect". <i>Scientific Reports</i>. <b>5</b>: 8525. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2015NatSR...5E8525S">2015NatSR...5E8525S</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1038%2Fsrep08525">10.1038/srep08525</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APlasmonic+solar+cell&amp;rft.atitle=A+General+Design+Rule+to+Manipulate+Photocarrier+Transport+Path+in+Solar+Cells+and+Its+Realization+by+the+Plasmonic-Electrical+Effect&amp;rft.au=Chen%2C+Luzhou&amp;rft.au=Chew%2C+Weng+Cho&amp;rft.au=Choy%2C+Wallace+C.+H.&amp;rft.aufirst=Wei+E.+I.&amp;rft.aulast=Sha&amp;rft.au=Zhu%2C+Hugh+L.&amp;rft.date=2015&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F2015NatSR...5E8525S&amp;rft_id=info%3Adoi%2F10.1038%2Fsrep08525&amp;rft.jtitle=Scientific+Reports&amp;rft.pages=8525&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=5" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation journal">Choy, W. C. H.; Ren, X. (2016-01-01). <a rel="nofollow" class="external text" href="http://ieeexplore.ieee.org/document/7119560/">"Plasmon-Electrical Effects on Organic Solar Cells by Incorporation of Metal Nanostructures"</a>. <i>IEEE Journal of Selected Topics in Quantum Electronics</i>. <b>22</b> (1): 1–9. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1109%2FJSTQE.2015.2442679">10.1109/JSTQE.2015.2442679</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/1077-260X">1077-260X</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APlasmonic+solar+cell&amp;rft.atitle=Plasmon-Electrical+Effects+on+Organic+Solar+Cells+by+Incorporation+of+Metal+Nanostructures&amp;rft.aufirst=W.+C.+H.&amp;rft.aulast=Choy&amp;rft.au=Ren%2C+X.&amp;rft.date=2016-01-01&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fieeexplore.ieee.org%2Fdocument%2F7119560%2F&amp;rft_id=info%3Adoi%2F10.1109%2FJSTQE.2015.2442679&amp;rft.issn=1077-260X&amp;rft.issue=1&amp;rft.jtitle=IEEE+Journal+of+Selected+Topics+in+Quantum+Electronics&amp;rft.pages=1-9&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=22" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation journal">Yinan, Zhang; et al. (2014). "Towards ultra-thin plasmonic silicon wafer solar cells with minimized efficiency loss". <i>Scientific Reports</i>. <b>4</b>: 4939. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2014NatSR...4E4939Z">2014NatSR...4E4939Z</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1038%2Fsrep04939">10.1038/srep04939</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APlasmonic+solar+cell&amp;rft.atitle=Towards+ultra-thin+plasmonic+silicon+wafer+solar+cells+with+minimized+efficiency+loss&amp;rft.aufirst=Zhang&amp;rft.aulast=Yinan&amp;rft.date=2014&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F2014NatSR...4E4939Z&amp;rft_id=info%3Adoi%2F10.1038%2Fsrep04939&amp;rft.jtitle=Scientific+Reports&amp;rft.pages=4939&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=4" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Photovoltaics" style="padding:3px">
+<table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Photovoltaics" title="Template:Photovoltaics"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Photovoltaics" title="Template talk:Photovoltaics"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Photovoltaics&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Photovoltaics" style="font-size:114%"><a href="/wiki/Photovoltaics" title="Photovoltaics">Photovoltaics</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;">Concepts</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Technology</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Photovoltaics" title="Photovoltaics">Photovoltaics</a></li>
+<li><a href="/wiki/Photoelectric_effect" title="Photoelectric effect">Photoelectric effect</a></li>
+<li><a href="/wiki/Solar_insolation" class="mw-redirect" title="Solar insolation">Solar insolation</a></li>
+<li><a href="/wiki/Solar_constant" title="Solar constant">Solar constant</a></li>
+<li><a href="/wiki/Solar_cell_efficiency" title="Solar cell efficiency">Solar cell efficiency</a></li>
+<li><a href="/wiki/Nominal_power_(photovoltaic)" title="Nominal power (photovoltaic)">Nominal power (Watt-peak)</a></li>
+<li><a href="/wiki/Thin_film_solar_cell" class="mw-redirect" title="Thin film solar cell">Thin film solar cell</a></li>
+<li><a href="/wiki/Multijunction_photovoltaic_cell" class="mw-redirect" title="Multijunction photovoltaic cell">Multijunction photovoltaic cell</a></li>
+<li><a href="/wiki/Third_generation_photovoltaic_cell" class="mw-redirect" title="Third generation photovoltaic cell">Third generation photovoltaic cell</a></li>
+<li><a href="/wiki/Solar_cell_research" title="Solar cell research">Solar cell research</a></li>
+<li><a href="/wiki/Quantum_efficiency_of_a_solar_cell" class="mw-redirect" title="Quantum efficiency of a solar cell">Quantum efficiency of a solar cell</a></li>
+<li><a href="/wiki/Thermophotovoltaic" title="Thermophotovoltaic">Thermophotovoltaic</a></li>
+<li><a href="/wiki/Thermodynamic_efficiency_limit" title="Thermodynamic efficiency limit">Thermodynamic efficiency limit</a></li>
+<li><a href="/wiki/Sun-free_photovoltaics" title="Sun-free photovoltaics">Sun-free photovoltaics</a></li>
+<li><a href="/wiki/Polarizing_organic_photovoltaics" title="Polarizing organic photovoltaics">Polarizing organic photovoltaics</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Materials</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/List_of_semiconductor_materials" title="List of semiconductor materials">List of semiconductor materials</a></li>
+<li><a href="/wiki/Crystalline_silicon" title="Crystalline silicon">Crystalline silicon (c-Si)</a></li>
+<li><a href="/wiki/Polycrystalline_silicon" title="Polycrystalline silicon">Polycrystalline silicon (multi-Si)</a></li>
+<li><a href="/wiki/Monocrystalline_silicon" title="Monocrystalline silicon">Monocrystalline silicon (mono-Si)</a></li>
+<li><a href="/wiki/Cadmium_telluride" title="Cadmium telluride">Cadmium telluride</a></li>
+<li><a href="/wiki/Copper_indium_gallium_selenide" title="Copper indium gallium selenide">Copper indium gallium selenide</a></li>
+<li><a href="/wiki/Amorphous_silicon" title="Amorphous silicon">Amorphous silicon (a-Si)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">History</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Growth_of_photovoltaics" title="Growth of photovoltaics">Growth of photovoltaics</a></li>
+<li><a href="/wiki/Timeline_of_solar_cells" title="Timeline of solar cells">Timeline of solar cells</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+<td class="navbox-image" rowspan="9" style="width:0%;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:4inch_poly_solar_cell.jpg" class="image"><img alt="4inch poly solar cell.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/4inch_poly_solar_cell.jpg/150px-4inch_poly_solar_cell.jpg" width="150" height="113" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/4inch_poly_solar_cell.jpg/225px-4inch_poly_solar_cell.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fd/4inch_poly_solar_cell.jpg/300px-4inch_poly_solar_cell.jpg 2x" data-file-width="2272" data-file-height="1704" /></a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;"><a href="/wiki/Photovoltaic_system" title="Photovoltaic system">Photovoltaic system</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;"><a href="/wiki/Solar_cell" title="Solar cell">Solar cells</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Polymer_solar_cell" title="Polymer solar cell">Polymer solar cell</a></li>
+<li><a href="/wiki/Nanocrystal_solar_cell" title="Nanocrystal solar cell">Nanocrystal solar cell</a></li>
+<li><a href="/wiki/Organic_solar_cell" title="Organic solar cell">Organic solar cell</a></li>
+<li><a href="/wiki/Quantum_dot_solar_cell" title="Quantum dot solar cell">Quantum dot solar cell</a></li>
+<li><a href="/wiki/Hybrid_solar_cell" title="Hybrid solar cell">Hybrid solar cell</a></li>
+<li><strong class="selflink">Plasmonic solar cell</strong></li>
+<li><a href="/wiki/Carbon_nanotubes_in_photovoltaics" title="Carbon nanotubes in photovoltaics">Carbon nanotubes in photovoltaics</a></li>
+<li><a href="/wiki/Dye-sensitized_solar_cell" title="Dye-sensitized solar cell">Dye-sensitized solar cell</a></li>
+<li><a href="/wiki/Cadmium_telluride_photovoltaics" title="Cadmium telluride photovoltaics">Cadmium telluride photovoltaics</a></li>
+<li><a href="/wiki/Copper_indium_gallium_selenide_solar_cells" title="Copper indium gallium selenide solar cells">Copper indium gallium selenide solar cells</a></li>
+<li><a href="/wiki/Printed_solar_panel" class="mw-redirect" title="Printed solar panel">Printed solar panel</a></li>
+<li><a href="/wiki/Perovskite_solar_cell" title="Perovskite solar cell">Perovskite solar cell</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">System components</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Solar_panel" title="Solar panel">Solar panel</a></li>
+<li><a href="/wiki/Balance_of_system" title="Balance of system">Balance of system</a></li>
+<li><a href="/wiki/Solar_charge_controller" class="mw-redirect" title="Solar charge controller">Solar charge controller</a></li>
+<li><a href="/wiki/Solar_inverter" title="Solar inverter">Solar inverter</a></li>
+<li><a href="/wiki/Solar_micro-inverter" title="Solar micro-inverter">Solar micro-inverter</a></li>
+<li><a href="/wiki/Solar_cable" title="Solar cable">Solar cable</a></li>
+<li><a href="/wiki/Photovoltaic_mounting_system" title="Photovoltaic mounting system">Photovoltaic mounting system</a></li>
+<li><a href="/wiki/Maximum_power_point_tracker" class="mw-redirect" title="Maximum power point tracker">Maximum power point tracker</a></li>
+<li><a href="/wiki/Solar_tracker" title="Solar tracker">Solar tracker</a></li>
+<li><a href="/wiki/Solar_shingles" class="mw-redirect" title="Solar shingles">Solar shingles</a></li>
+<li><a href="/wiki/Solar_mirror#Photovoltaic_augmentation" title="Solar mirror">Solar mirror</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">System concepts</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Perturb_and_observe_method" class="mw-redirect" title="Perturb and observe method">Perturb and observe method</a></li>
+<li><a href="/wiki/Incremental_conductance_method" class="mw-redirect" title="Incremental conductance method">Incremental conductance method</a></li>
+<li><a href="/wiki/Constant_voltage_method" class="mw-redirect" title="Constant voltage method">Constant voltage method</a></li>
+<li><a href="/wiki/Fill_factor_(solar_cell)" class="mw-redirect" title="Fill factor (solar cell)">Fill factor</a></li>
+<li><a href="/wiki/Concentrated_photovoltaics" class="mw-redirect" title="Concentrated photovoltaics">Concentrated photovoltaics</a></li>
+<li><a href="/wiki/Photovoltaic_thermal_hybrid_solar_collector" title="Photovoltaic thermal hybrid solar collector">Photovoltaic thermal hybrid solar collector</a></li>
+<li><a href="/wiki/Space-based_solar_power" title="Space-based solar power">Space-based solar power</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;">Applications</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Appliances</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Solar-powered_refrigerator" title="Solar-powered refrigerator">Solar-powered refrigerator</a></li>
+<li><a href="/wiki/Solar_air_conditioning#Photovoltaic_.28PV.29_solar_cooling" title="Solar air conditioning">Solar air conditioning</a></li>
+<li><a href="/wiki/Solar_lamp" title="Solar lamp">Solar lamp</a></li>
+<li><a href="/wiki/Solar_charger" title="Solar charger">Solar charger</a></li>
+<li><a href="/wiki/Solar_backpack" title="Solar backpack">Solar backpack</a></li>
+<li><a href="/wiki/Solar_tree" title="Solar tree">Solar tree</a></li>
+<li><a href="/wiki/Solar-powered_pump" title="Solar-powered pump">Solar-powered pump</a></li>
+<li><a href="/wiki/Solar-powered_watch" title="Solar-powered watch">Solar-powered watch</a></li>
+<li><a href="/wiki/Solar_Tuki" title="Solar Tuki">Solar Tuki</a></li>
+<li><a href="/wiki/Photovoltaic_keyboard" title="Photovoltaic keyboard">Photovoltaic keyboard</a></li>
+<li><a href="/wiki/Solar_road_stud" title="Solar road stud">Solar road stud</a></li>
+<li><a href="/wiki/Solar_cell_phone_charger" title="Solar cell phone charger">Solar cell phone charger</a></li>
+<li><a href="/wiki/Solar_notebook" title="Solar notebook">Solar notebook</a></li>
+<li><a href="/wiki/Solar-powered_calculator" title="Solar-powered calculator">Solar-powered calculator</a></li>
+<li><a href="/wiki/Solar-powered_fountain" title="Solar-powered fountain">Solar-powered fountain</a></li>
+<li><a href="/wiki/Solar-powered_radio" title="Solar-powered radio">Solar-powered radio</a></li>
+<li><a href="/wiki/Solar-powered_flashlight" title="Solar-powered flashlight">Solar-powered flashlight</a></li>
+<li><a href="/wiki/Solar-powered_fan" title="Solar-powered fan">Solar-powered fan</a></li>
+<li><a href="/wiki/Solar_street_light" title="Solar street light">Solar street light</a></li>
+<li><a href="/wiki/Solar_traffic_light" title="Solar traffic light">Solar traffic light</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Land transport</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Solar_vehicle" title="Solar vehicle">Solar vehicle</a></li>
+<li><a href="/wiki/Solar_car" title="Solar car">Solar car</a></li>
+<li><a href="/wiki/Solar_roadway" class="mw-redirect" title="Solar roadway">Solar roadway</a></li>
+<li><a href="/wiki/Solar_golf_cart" title="Solar golf cart">Solar golf cart</a></li>
+<li><a href="/wiki/The_Quiet_Achiever" title="The Quiet Achiever">The Quiet Achiever</a></li>
+<li><a href="/wiki/Sunmobile" title="Sunmobile">Sunmobile</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Air transport</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Electric_aircraft" title="Electric aircraft">Electric aircraft</a></li>
+<li><a href="/wiki/Mauro_Solar_Riser" title="Mauro Solar Riser">Mauro Solar Riser</a></li>
+<li><a href="/wiki/Solar_panels_on_spacecraft" title="Solar panels on spacecraft">Solar panels on spacecraft</a></li>
+<li><a href="/wiki/Solar-Powered_Aircraft_Developments_Solar_One" title="Solar-Powered Aircraft Developments Solar One">Solar-Powered Aircraft Developments Solar One</a></li>
+<li><a href="/wiki/Gossamer_Penguin" class="mw-redirect" title="Gossamer Penguin">Gossamer Penguin</a></li>
+<li><a href="/wiki/Qinetiq_Zephyr" title="Qinetiq Zephyr">Qinetiq Zephyr</a></li>
+<li><a href="/wiki/Solar_Challenger" class="mw-redirect" title="Solar Challenger">Solar Challenger</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Water transport</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Electric_boat#Types" title="Electric boat">Solar boat</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Solar vehicle racing</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Solar_car_racing" title="Solar car racing">Solar car racing</a></li>
+<li><a href="/wiki/List_of_solar_car_teams" title="List of solar car teams">List of solar car teams</a></li>
+<li><a href="/wiki/Solar_challenge_(disambiguation)" class="mw-redirect mw-disambig" title="Solar challenge (disambiguation)">Solar challenges</a></li>
+<li><a href="/wiki/World_Solar_Challenge" title="World Solar Challenge">World Solar Challenge</a></li>
+<li><a href="/wiki/American_Solar_Challenge" title="American Solar Challenge">American Solar Challenge</a></li>
+<li><a href="/wiki/Formula_Sun_Grand_Prix" title="Formula Sun Grand Prix">Formula Sun Grand Prix</a></li>
+<li><a href="/wiki/Solar_Cup" title="Solar Cup">Solar Cup</a></li>
+<li><a href="/wiki/Frisian_Solar_Challenge" title="Frisian Solar Challenge">Frisian Solar Challenge</a></li>
+<li><a href="/wiki/Solar_Splash" title="Solar Splash">Solar Splash</a></li>
+<li><a href="/wiki/South_African_Solar_Challenge" title="South African Solar Challenge">South African Solar Challenge</a></li>
+<li><a href="/wiki/Tour_de_Sol" title="Tour de Sol">Tour de Sol</a></li>
+<li><a href="/wiki/Hunt-Winston_School_Solar_Car_Challenge" class="mw-redirect" title="Hunt-Winston School Solar Car Challenge">Hunt-Winston School Solar Car Challenge</a></li>
+<li><a href="/wiki/Victorian_Model_Solar_Vehicle_Challenge" title="Victorian Model Solar Vehicle Challenge">Victorian Model Solar Vehicle Challenge</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;"><a href="/wiki/Photovoltaic_power_station" title="Photovoltaic power station">Generation systems</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;"><a href="/wiki/Photovoltaic_power_station" title="Photovoltaic power station">PV power station</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Grid-connected_photovoltaic_power_system" title="Grid-connected photovoltaic power system">Grid-connected photovoltaic power system</a></li>
+<li><a href="/wiki/List_of_photovoltaic_power_stations" title="List of photovoltaic power stations">List of photovoltaic power stations</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Individual projects</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Alamosa_photovoltaic_power_plant" title="Alamosa photovoltaic power plant">Alamosa photovoltaic power plant</a></li>
+<li><a href="/wiki/Beneixama_photovoltaic_power_plant" title="Beneixama photovoltaic power plant">Beneixama photovoltaic power plant</a></li>
+<li><a href="/wiki/Blythe_Photovoltaic_Power_Plant" title="Blythe Photovoltaic Power Plant">Blythe Photovoltaic Power Plant</a></li>
+<li><a href="/wiki/Copper_Mountain_Solar_Facility" title="Copper Mountain Solar Facility">Copper Mountain Solar Facility</a></li>
+<li><a href="/wiki/Darro_Solar_Park" title="Darro Solar Park">Darro Solar Park</a></li>
+<li><a href="/wiki/Erlasee_Solar_Park" title="Erlasee Solar Park">Erlasee Solar Park</a></li>
+<li><a href="/wiki/Huanghe_Hydropower_Golmud_Solar_Park" title="Huanghe Hydropower Golmud Solar Park">Golmud Solar Park</a></li>
+<li><a href="/wiki/Gottelborn_Solar_Park" class="mw-redirect" title="Gottelborn Solar Park">Gottelborn Solar Park</a></li>
+<li><a href="/wiki/Guadarranque_solar_power_plant" class="mw-redirect" title="Guadarranque solar power plant">Guadarranque solar power plant</a></li>
+<li><a href="/wiki/K%C3%B6then_Solar_Park" title="Köthen Solar Park">Köthen Solar Park</a></li>
+<li><a href="/wiki/Moura_Photovoltaic_Power_Station" title="Moura Photovoltaic Power Station">Moura Photovoltaic Power Station</a></li>
+<li><a href="/wiki/Olmedilla_Photovoltaic_Park" title="Olmedilla Photovoltaic Park">Olmedilla Photovoltaic Park</a></li>
+<li><a href="/wiki/Pocking_Solar_Park" title="Pocking Solar Park">Pocking Solar Park</a></li>
+<li><a href="/wiki/Puertollano_Photovoltaic_Park" title="Puertollano Photovoltaic Park">Puertollano Photovoltaic Park</a></li>
+<li><a href="/wiki/Topaz_Solar_Farm" title="Topaz Solar Farm">Topaz Solar Farm</a></li>
+<li><a href="/wiki/Wyandot_Solar_Facility" title="Wyandot Solar Facility">Wyandot Solar Facility</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Building-mounted</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Rooftop_photovoltaic_power_station" title="Rooftop photovoltaic power station">Rooftop photovoltaic power station</a></li>
+<li><a href="/wiki/Building-integrated_photovoltaics" title="Building-integrated photovoltaics">Building-integrated photovoltaics</a></li>
+<li><a href="/wiki/Solar_Ark" title="Solar Ark">Solar Ark</a></li>
+<li><a href="/wiki/Solar_Umbrella_house" title="Solar Umbrella house">Solar Umbrella house</a></li>
+<li><a href="/wiki/Strasskirchen_Solar_Park" title="Strasskirchen Solar Park">Strasskirchen Solar Park</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;"><a href="/wiki/Solar_power_by_country" title="Solar power by country">By country</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Solar_power_in_Australia" title="Solar power in Australia">Australia</a></li>
+<li><a href="/wiki/Solar_power_in_Belgium" title="Solar power in Belgium">Belgium</a></li>
+<li><a href="/wiki/Solar_power_in_Bulgaria" title="Solar power in Bulgaria">Bulgaria</a></li>
+<li><a href="/wiki/Solar_power_in_Canada" title="Solar power in Canada">Canada</a></li>
+<li><a href="/wiki/Solar_power_in_Chile" title="Solar power in Chile">Chile</a></li>
+<li><a href="/wiki/Solar_power_in_China" title="Solar power in China">China</a></li>
+<li><a href="/wiki/Solar_power_in_the_Czech_Republic" title="Solar power in the Czech Republic">Czech Republic</a></li>
+<li><a href="/wiki/Solar_power_in_France" title="Solar power in France">France</a></li>
+<li><a href="/wiki/Solar_power_in_Germany" title="Solar power in Germany">Germany</a></li>
+<li><a href="/wiki/Solar_power_in_Greece" title="Solar power in Greece">Greece</a></li>
+<li><a href="/wiki/Solar_power_in_India" title="Solar power in India">India</a></li>
+<li><a href="/wiki/Solar_power_in_Italy" title="Solar power in Italy">Italy</a></li>
+<li><a href="/wiki/Solar_power_in_Japan" title="Solar power in Japan">Japan</a></li>
+<li><a href="/wiki/Solar_power_in_the_Netherlands" title="Solar power in the Netherlands">Netherlands</a></li>
+<li><a href="/wiki/Solar_power_in_Romania" title="Solar power in Romania">Romania</a></li>
+<li><a href="/wiki/Solar_power_in_South_Africa" title="Solar power in South Africa">South Africa</a></li>
+<li><a href="/wiki/Solar_power_in_Spain" title="Solar power in Spain">Spain</a></li>
+<li><a href="/wiki/Solar_power_in_Switzerland" title="Solar power in Switzerland">Switzerland</a></li>
+<li><a href="/wiki/Solar_power_in_Thailand" title="Solar power in Thailand">Thailand</a></li>
+<li><a href="/wiki/Solar_power_in_the_United_Kingdom" title="Solar power in the United Kingdom">United Kingdom</a></li>
+<li><a href="/wiki/Solar_power_in_the_United_States" title="Solar power in the United States">USA</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;"><a href="/wiki/List_of_photovoltaics_companies" title="List of photovoltaics companies">PV companies</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">By country</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/List_of_countries_by_photovoltaics_production" class="mw-redirect" title="List of countries by photovoltaics production">List of countries by photovoltaics production</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Individual producers</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/First_Solar" title="First Solar">First Solar</a></li>
+<li><a href="/wiki/Hanwha_Solarone" class="mw-redirect" title="Hanwha Solarone">Hanwha Solarone</a></li>
+<li><a href="/wiki/JA_Solar" class="mw-redirect" title="JA Solar">JA Solar</a></li>
+<li><a href="/wiki/Motech_Solar" title="Motech Solar">Motech Solar</a></li>
+<li><a href="/wiki/Renewable_Energy_Corporation" title="Renewable Energy Corporation">REC</a></li>
+<li><a href="/wiki/Q-Cells" title="Q-Cells">Q-Cells</a></li>
+<li><a href="/wiki/Sharp_Solar" title="Sharp Solar">Sharp</a></li>
+<li><a href="/wiki/Solar_Frontier" title="Solar Frontier">Solar Frontier</a></li>
+<li><a href="/wiki/Solyndra" title="Solyndra">Solyndra</a></li>
+<li><a href="/wiki/SUNGEN_International_Limited" title="SUNGEN International Limited">Sungen Solar</a></li>
+<li><a href="/wiki/Sunpower" class="mw-redirect" title="Sunpower">Sunpower</a></li>
+<li><a href="/wiki/Suntech" class="mw-redirect" title="Suntech">Suntech</a></li>
+<li><a href="/wiki/Trina_Solar" title="Trina Solar">Trina Solar</a></li>
+<li><a href="/wiki/Yingli_Solar" class="mw-redirect" title="Yingli Solar">Yingli Solar</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3">
+<div>
+<ul>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <b><a href="/wiki/Category:Photovoltaics" title="Category:Photovoltaics">Category</a></b></li>
+<li><img alt="Commons page" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" title="Commons page" width="12" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /> <a href="https://commons.wikimedia.org/wiki/Category:Photovoltaics" class="extiw" title="commons:Category:Photovoltaics"><b>Commons</b></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1184
+Cached time: 20170201162045
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.280 seconds
+Real time usage: 0.566 seconds
+Preprocessor visited node count: 1648/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 105937/2097152 bytes
+Template argument size: 492/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 2/500
+Lua time usage: 0.115/10.000 seconds
+Lua memory usage: 4.52 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  238.612      1 -total
+ 49.35%  117.757      1 Template:Reflist
+ 25.41%   60.638     15 Template:Cite_journal
+ 18.79%   44.836      1 Template:Expert_needed
+ 15.20%   36.258      6 Template:Navbox
+ 12.48%   29.778      1 Template:Cite_book
+ 12.16%   29.010      1 Template:Photovoltaics
+ 11.30%   26.963      1 Template:Ambox
+  8.30%   19.814      1 Template:Citation_needed
+  7.45%   17.783      1 Template:Fix
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:25451813-0!*!0!!en!4!*!math=5 and timestamp 20170201162045 and revision id 758168633
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Plasmonic_solar_cell&amp;oldid=758168633">https://en.wikipedia.org/w/index.php?title=Plasmonic_solar_cell&amp;oldid=758168633</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Solar_cells" title="Category:Solar cells">Solar cells</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_needing_expert_attention_with_no_reason_or_talk_parameter" title="Category:Articles needing expert attention with no reason or talk parameter">Articles needing expert attention with no reason or talk parameter</a></li><li><a href="/wiki/Category:Articles_needing_unspecified_expert_attention" title="Category:Articles needing unspecified expert attention">Articles needing unspecified expert attention</a></li><li><a href="/wiki/Category:Articles_needing_expert_attention_from_December_2014" title="Category:Articles needing expert attention from December 2014">Articles needing expert attention from December 2014</a></li><li><a href="/wiki/Category:All_articles_needing_expert_attention" title="Category:All articles needing expert attention">All articles needing expert attention</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_March_2016" title="Category:Articles with unsourced statements from March 2016">Articles with unsourced statements from March 2016</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Plasmonic+solar+cell" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Plasmonic+solar+cell" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Plasmonic_solar_cell"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Plasmonic_solar_cell"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Plasmonic_solar_cell" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Plasmonic_solar_cell&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Plasmonic_solar_cell&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Plasmonic_solar_cell" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Plasmonic_solar_cell" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Plasmonic_solar_cell&amp;oldid=758168633" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Plasmonic_solar_cell&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q7201988" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Plasmonic_solar_cell&amp;id=758168633" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Plasmonic+solar+cell">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Plasmonic+solar+cell&amp;returnto=Plasmonic+solar+cell&amp;oldid=758168633&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Plasmonic_solar_cell&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/C%C3%A9lula_solar_plasm%C3%B3nica" title="Célula solar plasmónica – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Plazmonik_G%C3%BCne%C5%9F_Pili" title="Plazmonik Güneş Pili – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q7201988#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 3 January 2017, at 21:38.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Plasmonic_solar_cell&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.280","walltime":"0.566","ppvisitednodes":{"value":1648,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":105937,"limit":2097152},"templateargumentsize":{"value":492,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  238.612      1 -total"," 49.35%  117.757      1 Template:Reflist"," 25.41%   60.638     15 Template:Cite_journal"," 18.79%   44.836      1 Template:Expert_needed"," 15.20%   36.258      6 Template:Navbox"," 12.48%   29.778      1 Template:Cite_book"," 12.16%   29.010      1 Template:Photovoltaics"," 11.30%   26.963      1 Template:Ambox","  8.30%   19.814      1 Template:Citation_needed","  7.45%   17.783      1 Template:Fix"]},"scribunto":{"limitreport-timeusage":{"value":"0.115","limit":"10.000"},"limitreport-memusage":{"value":4738531,"limit":52428800}},"cachereport":{"origin":"mw1184","timestamp":"20170201162045","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":655,"wgHostname":"mw1184"});});</script>
+	</body>
+</html>

@@ -1,0 +1,1558 @@
+url : https://en.wikipedia.org/wiki/Regenerative_braking
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Regenerative brake - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Regenerative_brake","wgTitle":"Regenerative brake","wgCurRevisionId":754615251,"wgRevisionId":754615251,"wgArticleId":305992,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 Norwegian-language sources (no)","Webarchive template wayback links","CS1 errors: external links","Articles with German-language external links","Use dmy dates from September 2012","Wikipedia articles needing clarification from January 2012","All articles with failed verification","Articles with failed verification from December 2016","All articles with unsourced statements","Articles with unsourced statements from December 2016","Articles with unsourced statements from May 2009","Articles with unsourced statements from July 2011","Dynamic braking","Electric vehicle technologies","Energy recovery","Railway brakes"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Regenerative_brake","wgRelevantArticleId":305992,"wgRequestId":"WJET9ApAIDAAAGX8Y-AAAAAC","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Regenerative_braking","wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgInternalRedirectTargetUrl":"/wiki/Regenerative_brake","wgWikibaseItemId":"Q580078","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.action.view.redirect","ext.cite.a11y","ext.math.scripts","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.9"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Regenerative_brake"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Regenerative_brake&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Regenerative_brake&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Regenerative_brake"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Regenerative_brake rootpage-Regenerative_brake skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Regenerative brake</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"><span class="mw-redirectedfrom">  (Redirected from <a href="/w/index.php?title=Regenerative_braking&amp;redirect=no" class="mw-redirect" title="Regenerative braking">Regenerative braking</a>)</span></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Skoda_03_T_roof.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/94/Skoda_03_T_roof.jpg/220px-Skoda_03_T_roof.jpg" width="220" height="293" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/94/Skoda_03_T_roof.jpg/330px-Skoda_03_T_roof.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/94/Skoda_03_T_roof.jpg/440px-Skoda_03_T_roof.jpg 2x" data-file-width="1728" data-file-height="2304" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Skoda_03_T_roof.jpg" class="internal" title="Enlarge"></a></div>
+Mechanism for regenerative brake on the roof of a <a href="/wiki/%C5%A0koda_Astra" class="mw-redirect" title="Škoda Astra">Škoda Astra</a> tram</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:S_stock_northwood.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/40/S_stock_northwood.JPG/220px-S_stock_northwood.JPG" width="220" height="147" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/40/S_stock_northwood.JPG/330px-S_stock_northwood.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/40/S_stock_northwood.JPG/440px-S_stock_northwood.JPG 2x" data-file-width="3888" data-file-height="2592" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:S_stock_northwood.JPG" class="internal" title="Enlarge"></a></div>
+The <a href="/wiki/S_Stock" class="mw-redirect" title="S Stock">S7/8 Stock</a> on the <a href="/wiki/London_Underground" title="London Underground">London Underground</a> can return 20% of its energy usage to the network</div>
+</div>
+</div>
+<p>A <b>regenerative brake</b> is an <a href="/wiki/Energy_recovery" title="Energy recovery">energy recovery</a> mechanism which slows a vehicle or object by converting its <a href="/wiki/Kinetic_energy" title="Kinetic energy">kinetic energy</a> into a form which can be either used immediately or stored until needed. This contrasts with conventional braking systems, where the excess kinetic energy is converted to unwanted and wasted heat by friction in the <a href="/wiki/Brakes" class="mw-redirect" title="Brakes">brakes</a>. In addition to improving the overall efficiency of the vehicle, regeneration can greatly extend the life of the braking system as its parts do not wear as quickly.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#General"><span class="tocnumber">1</span> <span class="toctext">General</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Practical_regenerative_braking"><span class="tocnumber">1.1</span> <span class="toctext">Practical regenerative braking</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#Conversion_to_electric_energy:_the_motor_as_a_generator"><span class="tocnumber">2</span> <span class="toctext">Conversion to electric energy: the motor as a generator</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Electric_railway_vehicle_operation"><span class="tocnumber">2.1</span> <span class="toctext">Electric railway vehicle operation</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Comparison_of_dynamic_and_regenerative_brakes"><span class="tocnumber">2.2</span> <span class="toctext">Comparison of dynamic and regenerative brakes</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Conversion_to_mechanical_energy"><span class="tocnumber">3</span> <span class="toctext">Conversion to mechanical energy</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Kinetic_energy_recovery_systems"><span class="tocnumber">3.1</span> <span class="toctext">Kinetic energy recovery systems</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Use_in_motor_sport"><span class="tocnumber">4</span> <span class="toctext">Use in motor sport</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#History"><span class="tocnumber">4.1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#FIA"><span class="tocnumber">4.2</span> <span class="toctext">FIA</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Autopart_makers"><span class="tocnumber">4.3</span> <span class="toctext">Autopart makers</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Carmakers"><span class="tocnumber">4.4</span> <span class="toctext">Carmakers</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Motorcycles"><span class="tocnumber">4.5</span> <span class="toctext">Motorcycles</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Bicycles"><span class="tocnumber">4.6</span> <span class="toctext">Bicycles</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Races"><span class="tocnumber">4.7</span> <span class="toctext">Races</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-16"><a href="#Thermodynamics"><span class="tocnumber">5</span> <span class="toctext">Thermodynamics</span></a>
+<ul>
+<li class="toclevel-2 tocsection-17"><a href="#KERS_Flywheel"><span class="tocnumber">5.1</span> <span class="toctext">KERS Flywheel</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#Regenerative_brakes"><span class="tocnumber">5.2</span> <span class="toctext">Regenerative brakes</span></a></li>
+<li class="toclevel-2 tocsection-19"><a href="#Cars"><span class="tocnumber">5.3</span> <span class="toctext">Cars</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-20"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-21"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="General">General</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Regenerative_brake&amp;action=edit&amp;section=1" title="Edit section: General">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The most common form of regenerative brake involves an <a href="/wiki/Electric_motor" title="Electric motor">electric motor</a> as an electric generator. In electric <a href="/wiki/Rail_transport" title="Rail transport">railways</a> the electricity generated is fed back into the <a href="/wiki/Railway_electrification_system" title="Railway electrification system">supply system</a>. In <a href="/wiki/Battery_electric_vehicle" title="Battery electric vehicle">battery electric</a> and <a href="/wiki/Hybrid_vehicle" title="Hybrid vehicle">hybrid electric</a> vehicles, the energy is stored chemically in a <a href="/wiki/Battery_(electricity)" title="Battery (electricity)">battery</a>, electrically in a bank of <a href="/wiki/Capacitor" title="Capacitor">capacitors</a>, or mechanically in a rotating <a href="/wiki/Flywheel_energy_storage" title="Flywheel energy storage">flywheel</a>. <a href="/wiki/Hydraulic_hybrid" class="mw-redirect" title="Hydraulic hybrid">Hydraulic hybrid</a> vehicles use hydraulic motors to store energy in the form of <a href="/wiki/Compressed_air_energy_storage" title="Compressed air energy storage">compressed air</a>.</p>
+<h3><span class="mw-headline" id="Practical_regenerative_braking">Practical regenerative braking</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Regenerative_brake&amp;action=edit&amp;section=2" title="Edit section: Practical regenerative braking">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Regenerative braking is not by itself sufficient as the sole means of safely bringing a vehicle to a standstill, or slowing it as required so it must be used in conjunction with another braking system such as <a href="/wiki/Friction" title="Friction">friction</a>-based braking.</p>
+<ul>
+<li>The regenerative braking effect drops off at lower speeds, and cannot bring a vehicle to a complete halt reasonably quickly.</li>
+<li>A regenerative brake does not immobilise a stationary vehicle; <a href="/wiki/Parking_brake" title="Parking brake">physical locking</a> is required, for example to prevent vehicles from rolling down hills.</li>
+<li>Many road vehicles with regenerative braking do not have drive motors on all wheels (as in a <a href="/wiki/Two-wheel_drive" title="Two-wheel drive">two-wheel drive</a> car); regenerative braking is normally only applicable to wheels with motors. For safety, the ability to brake all wheels is required.</li>
+<li>The regenerative braking effect available is limited, and insufficient in many cases, particularly in emergency situations.</li>
+<li>The friction brake is a necessary back-up in the event of failure of the regenerative brake.</li>
+</ul>
+<p>Regenerative and friction braking must both be used, creating the need to control them to produce the required total braking. The GM <a href="/wiki/General_Motors_EV1" title="General Motors EV1">EV-1</a> was the first commercial car to do this. In 1997 and 1998 engineers Abraham Farag and Loren Majersik were issued two patents for this <i><a href="/wiki/Brake-by-wire" title="Brake-by-wire">brake-by-wire</a></i> technology.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></p>
+<p>Early applications commonly suffered from a serious safety hazard: in many early electric vehicles with regenerative braking, the same controller positions were used to apply power and to apply the regenerative brake, with the functions being swapped by a separate manual switch. This led to a number of serious accidents when drivers accidentally accelerated when intending to brake, such as the <a href="/wiki/Runaway_train" title="Runaway train">runaway train</a> accident in <a href="/wiki/W%C3%A4denswil,_Switzerland" class="mw-redirect" title="Wädenswil, Switzerland">Wädenswil, Switzerland</a> in 1948, which killed twenty-one people.</p>
+<h2><span class="mw-headline" id="Conversion_to_electric_energy:_the_motor_as_a_generator">Conversion to electric energy: the motor as a generator</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Regenerative_brake&amp;action=edit&amp;section=3" title="Edit section: Conversion to electric energy: the motor as a generator">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Tesla_Model_S_P85%2B_60_kW_Regenerative_Braking_(cropped).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Tesla_Model_S_P85%2B_60_kW_Regenerative_Braking_%28cropped%29.jpg/220px-Tesla_Model_S_P85%2B_60_kW_Regenerative_Braking_%28cropped%29.jpg" width="220" height="192" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Tesla_Model_S_P85%2B_60_kW_Regenerative_Braking_%28cropped%29.jpg/330px-Tesla_Model_S_P85%2B_60_kW_Regenerative_Braking_%28cropped%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/5/5c/Tesla_Model_S_P85%2B_60_kW_Regenerative_Braking_%28cropped%29.jpg 2x" data-file-width="357" data-file-height="311" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Tesla_Model_S_P85%2B_60_kW_Regenerative_Braking_(cropped).jpg" class="internal" title="Enlarge"></a></div>
+A Tesla Model S P85+ using regenerative braking power in excess of 60 kW. During regenerative braking the power indicator is green</div>
+</div>
+</div>
+<p><a href="/wiki/Electric_motor" title="Electric motor">Electric motors</a>, when used in reverse function as <a href="/wiki/Electrical_generator" class="mw-redirect" title="Electrical generator">generators</a>, convert mechanical energy into electrical energy. Vehicles propelled by electric motors use them as generators when using regenerative braking, braking by transferring mechanical energy from the wheels to an electrical load.</p>
+<p>Early examples of this system were the <a href="/wiki/Front-wheel_drive" title="Front-wheel drive">front-wheel drive</a> conversions of horse-drawn <a href="/wiki/Cabriolet_(carriage)" title="Cabriolet (carriage)">cabs</a> by <a href="/wiki/Louis_Antoine_Krieger" class="mw-redirect" title="Louis Antoine Krieger">Louis Antoine Krieger</a> in Paris in the 1890s. The Krieger electric <a href="/wiki/Landaulet" title="Landaulet">landaulet</a> had a drive motor in each front wheel with a second set of parallel windings (<a href="/wiki/Bifilar_coil" title="Bifilar coil">bifilar coil</a>) for regenerative braking.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> In England, the Raworth system of "regenerative control" was introduced by tramway operators in the early 1900s, since it offered them economic and operational benefits as explained by A. Raworth of Leeds in some detail.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-Jno_6-0" class="reference"><a href="#cite_note-Jno-6">[6]</a></sup> These included tramway systems at Devonport (1903), <a href="/wiki/Rawtenstall_Corporation_Tramways" title="Rawtenstall Corporation Tramways">Rawtenstall</a>, Birmingham, Crystal Palace-Croydon (1906), and many others. Slowing the speed of the cars or keeping it in control on descending gradients, the motors worked as generators and braked the vehicles. The tram cars also had wheel brakes and track slipper brakes which could stop the tram should the electric braking systems fail. In several cases the tram car motors were shunt wound instead of series wound, and the systems on the Crystal Palace line utilized series-parallel controllers.<sup class="noprint Inline-Template" style="margin-left:0.1em; white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Please_clarify" title="Wikipedia:Please clarify"><span title="The text near this tag may need clarification or removal of jargon. (January 2012)">clarification needed</span></a></i>]</sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> Following a serious accident at Rawtenstall, an embargo was placed on this form of traction in 1911; the regenerative braking system was reintroduced 20 years later.<sup id="cite_ref-Jno_6-1" class="reference"><a href="#cite_note-Jno-6">[6]</a></sup></p>
+<p>Regenerative braking has been in extensive use on railways for many decades. The Baku-Tbilisi-Batumi railway (<a href="/wiki/Transcaucasus_Railway" title="Transcaucasus Railway">Transcaucasus Railway</a> or Georgian railway) started utilizing regenerative braking in the early 1930s. This was especially effective on the steep and dangerous <a href="/wiki/Surami_Pass" title="Surami Pass">Surami Pass</a>.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> In Scandinavia the Kiruna to Narvik electrified railway carries iron ore on the steeply-graded route from the mines in <a href="/wiki/Kiruna" title="Kiruna">Kiruna</a>, in the north of Sweden, down to the port of <a href="/wiki/Narvik" title="Narvik">Narvik</a> in Norway to this day. The rail cars are full of thousands of tons of <a href="/wiki/Iron_ore" title="Iron ore">iron ore</a> on the way down to Narvik, and these trains generate large amounts of electricity by regenerative braking, with a maximum recuperative braking force of 750&#160;<a href="/wiki/Newton_(force)" class="mw-redirect" title="Newton (force)">kN</a>. From <a href="/wiki/Riksgr%C3%A4nsen" title="Riksgränsen">Riksgränsen</a> on the national border to the Port of Narvik, the trains<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> use only a fifth of the power they regenerate.<sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability"><span title="The material near this tag failed verification of its source citation(s). (December 2016)">not in citation given</span></a></i>]</sup> The regenerated energy is sufficient to power the empty trains back up to the national border.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup><sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability"><span title="The material near this tag failed verification of its source citation(s). (December 2016)">not in citation given</span></a></i>]</sup> Any excess energy from the railway is pumped into the power grid to supply homes and businesses in the region, and the railway is a net generator of electricity.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (December 2016)">citation needed</span></a></i>]</sup></p>
+<p>Electric cars used regenerative braking since the earliest experiments, but this was often a complex affair where the driver had to flip switches between various operational modes in order to use it. The <a href="/wiki/Baker_Motor_Vehicle" title="Baker Motor Vehicle">Baker Electric Runabout</a> and the <a href="/wiki/Owen_Magnetic" title="Owen Magnetic">Owen Magnetic</a> were early examples, which used many switches and modes controlled by an expensive "black box" or "drum switch" as part of their electrical system.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup><sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> These, like the Krieger design, could only practically be used on downhill portions of a trip, and had to be manually engaged.</p>
+<p>Improvements in electronics allowed this process to be fully automated, starting with 1967's <a href="/wiki/AMC_Amitron" title="AMC Amitron">AMC Amitron</a> experimental electric car. Designed by Gulton Industries<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup> the motor controller automatically began battery charging when the brake pedal was applied. Many modern hybrid and electric vehicles use this technique to extend the range of the battery pack, especially those using an AC drive train (most earlier designs used DC power).</p>
+<h3><span class="mw-headline" id="Electric_railway_vehicle_operation">Electric railway vehicle operation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Regenerative_brake&amp;action=edit&amp;section=4" title="Edit section: Electric railway vehicle operation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In 1886 the Sprague Electric Railway &amp; Motor Company, founded by <a href="/wiki/Frank_J._Sprague" title="Frank J. Sprague">Frank J. Sprague</a>, introduced two important inventions: a constant-speed, non-sparking motor with fixed brushes, and regenerative braking.</p>
+<p>During braking, the <a href="/wiki/Traction_motor" title="Traction motor">traction motor</a> connections are altered to turn them into electrical generators. The motor fields are connected across the main traction generator (MG) and the motor armatures are connected across the load. The MG now excites the motor fields. The rolling locomotive or multiple unit wheels turn the motor armatures, and the motors act as generators, either sending the generated current through onboard resistors (<a href="/wiki/Dynamic_braking" class="mw-redirect" title="Dynamic braking">dynamic braking</a>) or back into the supply (regenerative braking). Compared to electro-pneumatic friction brakes, braking with the traction motors can be regulated faster improving the performance of <a href="/wiki/Wheel_slide_protection" title="Wheel slide protection">wheel slide protection</a>.</p>
+<p>For a given direction of travel, current flow through the motor armatures during braking will be opposite to that during motoring. Therefore, the motor exerts <a href="/wiki/Torque" title="Torque">torque</a> in a direction that is opposite from the rolling direction.</p>
+<p>Braking effort is proportional to the product of the magnetic strength of the field windings, multiplied by that of the armature windings.</p>
+<p>Savings of 17%, and less wear on friction braking components, are claimed for <a href="/wiki/Virgin_Trains" title="Virgin Trains">Virgin Trains</a> <a href="/wiki/British_Rail_Class_390" title="British Rail Class 390">Pendolinos</a>.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup> The <a href="/wiki/Delhi_Metro" title="Delhi Metro">Delhi Metro</a> reduced the amount of <a href="/wiki/Carbon_dioxide" title="Carbon dioxide">carbon dioxide</a> (<span class="chemf nowrap">CO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><br />
+2</span></span>) released into the atmosphere by around 90,000 tons by regenerating 112,500 megawatt hours of electricity through the use of regenerative braking systems between 2004 and 2007. It was expected that the Delhi Metro would reduce its emissions by over 100,000 tons of <span class="chemf nowrap">CO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><br />
+2</span></span> per year once its phase II was complete, through the use of regenerative braking.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup></p>
+<p>Electricity generated by regenerative braking may be fed back into the traction power supply; either offset against other electrical demand on the network at that instant, used for <a href="/wiki/Head_end_power" class="mw-redirect" title="Head end power">head end power</a> loads, or stored in <a href="/wiki/Kinetic_Traction_Systems" title="Kinetic Traction Systems">lineside storage systems</a> for later use.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup></p>
+<p>A form of what can be described as regenerative braking is used on some parts of the <a href="/wiki/London_Underground" title="London Underground">London Underground</a>, achieved by having small slopes leading up and down from stations. The train is slowed by the climb, and then leaves down a slope, so kinetic energy is converted to <a href="/wiki/Gravitational_potential" title="Gravitational potential">gravitational potential energy</a> in the station.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup> This is normally found on the deep tunnel sections of the network and not generally above ground or on the <a href="/wiki/Tunnel#Cut-and-cover" title="Tunnel">cut and cover</a> sections of the Metropolitan and District Lines.</p>
+<h3><span class="mw-headline" id="Comparison_of_dynamic_and_regenerative_brakes">Comparison of dynamic and regenerative brakes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Regenerative_brake&amp;action=edit&amp;section=5" title="Edit section: Comparison of dynamic and regenerative brakes">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:NSLocoNo.5348.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/NSLocoNo.5348.jpg/220px-NSLocoNo.5348.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/NSLocoNo.5348.jpg/330px-NSLocoNo.5348.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cf/NSLocoNo.5348.jpg/440px-NSLocoNo.5348.jpg 2x" data-file-width="1024" data-file-height="768" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:NSLocoNo.5348.jpg" class="internal" title="Enlarge"></a></div>
+The box extending sideways from the roof directly over the word "operation" allows air to freely flow through the resistors of the dynamic brakes on this diesel-electric locomotive.</div>
+</div>
+</div>
+<p>What are described as dynamic brakes ("<a href="/wiki/Dynamic_braking" class="mw-redirect" title="Dynamic braking">rheostatic brakes</a>" in the UK) on electric traction systems, unlike regenerative brakes, dissipate electric energy as heat rather than using it, by passing the current through large banks of variable <a href="/wiki/Resistor" title="Resistor">resistors</a>. Vehicles that use dynamic brakes include <a href="/wiki/Forklift_truck" class="mw-redirect" title="Forklift truck">forklift trucks</a>, <a href="/wiki/Diesel-electric_transmission" title="Diesel-electric transmission">diesel-electric</a> <a href="/wiki/Locomotive" title="Locomotive">locomotives</a>, and <a href="/wiki/Tram" title="Tram">trams</a>. This heat can be used to warm the vehicle interior, or dissipated externally by large <a href="/wiki/Radiator" title="Radiator">radiator</a>-like cowls to house the resistor banks.</p>
+<p>General Electric's experimental 1936 <a href="/wiki/GE_steam_turbine_locomotives" title="GE steam turbine locomotives">steam turbine locos</a> featured true regeneration. These two locomotives ran the steam water over the resistor packs, as opposed to air cooling used in most dynamic brakes. This energy displaced the oil normally burned to keep the water hot, and thereby recovered energy that could be used to accelerate again.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup></p>
+<p>The main disadvantage of regenerative brakes when compared with dynamic brakes is the need to closely match the generated current with the supply characteristics and increased maintenance cost of the lines. With DC supplies, this requires that the voltage be closely controlled. The AC power supply and frequency converter pioneer Miro Zoric and his first AC power electronics have also enabled this to be possible with AC supplies. The supply frequency must also be matched (this mainly applies to locomotives where an AC supply is <a href="/wiki/Rectifier" title="Rectifier">rectified</a> for DC motors).</p>
+<p>In areas where there is a constant need for power unrelated to moving the vehicle, such as electric train heat or <a href="/wiki/Air_conditioning" title="Air conditioning">air conditioning</a>, this load requirement can be utilized as a sink for the recovered energy via modern <a href="/wiki/Variable-frequency_drive" title="Variable-frequency drive">AC traction systems</a>. This method has become popular with North American passenger railroads where <a href="/wiki/Head_end_power" class="mw-redirect" title="Head end power">head end power</a> loads are typically in the area of 500&#160;kW year round. Using HEP loads in this way has prompted recent electric locomotive designs such as the <a href="/wiki/ALP-46" title="ALP-46">ALP-46</a> and <a href="/wiki/ACS-64" class="mw-redirect" title="ACS-64">ACS-64</a> to eliminate the use of dynamic brake resistor grids and also eliminates any need for any external power infrastructure to accommodate power recovery allowing self-powered vehicles to employ regenerative braking as well.</p>
+<p>A small number of <a href="/wiki/Steep_grade_railway" title="Steep grade railway">steep grade railways</a> have used <a href="/wiki/Three-phase" title="Three-phase">3-phase</a> power supplies and <a href="/wiki/Induction_motor" title="Induction motor">induction motors</a>. This results in a near constant speed for all trains, as the motors rotate with the supply frequency both when driving and braking.</p>
+<h2><span class="mw-headline" id="Conversion_to_mechanical_energy">Conversion to mechanical energy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Regenerative_brake&amp;action=edit&amp;section=6" title="Edit section: Conversion to mechanical energy">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Kinetic_energy_recovery_systems">Kinetic energy recovery systems</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Regenerative_brake&amp;action=edit&amp;section=7" title="Edit section: Kinetic energy recovery systems">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote">Main article: <a href="/wiki/Kinetic_energy_recovery_system" title="Kinetic energy recovery system">Kinetic energy recovery system</a></div>
+<p>Kinetic energy recovery systems (KERS) were used for the motor sport <a href="/wiki/Formula_One" title="Formula One">Formula One</a>'s <a href="/wiki/2009_Formula_One_season" title="2009 Formula One season">2009 season</a>, and are under development for road vehicles. KERS was abandoned for the 2010 Formula One season, but re-introduced for the 2011 season. By 2013, all teams were using KERS with Marussia starting use for the 2013 season.<sup id="cite_ref-3teams_19-0" class="reference"><a href="#cite_note-3teams-19">[19]</a></sup> One of the main reasons that not all cars used KERS immediately is because it raises the car's center of gravity, and reduces the amount of <a href="/wiki/Ballast_weight" title="Ballast weight">ballast</a> that is available to balance the car so that it is more predictable when turning.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup> FIA rules also limit the exploitation of the system. The concept of transferring the vehicle’s kinetic energy using <a href="/wiki/Flywheel_energy_storage" title="Flywheel energy storage">flywheel energy storage</a> was postulated by physicist <a href="/wiki/Richard_Feynman" title="Richard Feynman">Richard Feynman</a> in the 1950s<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (May 2009)">citation needed</span></a></i>]</sup> and is exemplified in such systems as the <a href="/wiki/Zytek" class="mw-redirect" title="Zytek">Zytek</a>, Flybrid,<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup> Torotrak<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup><sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup> and Xtrac used in F1. <a href="/wiki/Differential_(mechanical_device)" title="Differential (mechanical device)">Differential</a> based systems also exist such as the Cambridge Passenger/Commercial Vehicle Kinetic Energy Recovery System (CPC-KERS).<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup></p>
+<p>Xtrac and Flybrid are both licensees of Torotrak's technologies, which employ a small and sophisticated ancillary gearbox incorporating a <a href="/wiki/Continuously_variable_transmission" title="Continuously variable transmission">continuously variable transmission</a> (CVT). The CPC-KERS is similar as it also forms part of the driveline assembly. However, the whole mechanism including the flywheel sits entirely in the vehicle’s hub (looking like a drum brake). In the CPC-KERS, a differential replaces the CVT and transfers torque between the <a href="/wiki/Flywheel" title="Flywheel">flywheel</a>, drive wheel and road wheel.</p>
+<h2><span class="mw-headline" id="Use_in_motor_sport">Use in motor sport</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Regenerative_brake&amp;action=edit&amp;section=8" title="Edit section: Use in motor sport">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Regenerative_brake&amp;action=edit&amp;section=9" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Flybrid_Systems_Kinetic_Energy_Recovery_System.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Flybrid_Systems_Kinetic_Energy_Recovery_System.jpg/220px-Flybrid_Systems_Kinetic_Energy_Recovery_System.jpg" width="220" height="164" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Flybrid_Systems_Kinetic_Energy_Recovery_System.jpg/330px-Flybrid_Systems_Kinetic_Energy_Recovery_System.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Flybrid_Systems_Kinetic_Energy_Recovery_System.jpg/440px-Flybrid_Systems_Kinetic_Energy_Recovery_System.jpg 2x" data-file-width="1540" data-file-height="1150" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Flybrid_Systems_Kinetic_Energy_Recovery_System.jpg" class="internal" title="Enlarge"></a></div>
+A Flybrid Systems kinetic energy recovery system</div>
+</div>
+</div>
+<p>The first of these systems to be revealed was the Flybrid. This system weighs 24&#160;kg and has an energy capacity of 400 kJ after allowing for internal losses. A maximum power boost of 60&#160;kW (81.6 PS, 80.4 HP) for 6.67 seconds is available. The 240&#160;mm diameter flywheel weighs 5.0&#160;kg and revolves at up to 64,500 rpm. Maximum torque is 18&#160;Nm (13.3 ftlbs). The system occupies a volume of 13 litres.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (July 2011)">citation needed</span></a></i>]</sup></p>
+<p>Two minor incidents have been reported during testing of KERS systems in <a href="/wiki/2008_Formula_One_season" title="2008 Formula One season">2008</a>. The first occurred when the <a href="/wiki/Red_Bull_Racing" title="Red Bull Racing">Red Bull Racing</a> team tested their KERS battery for the first time in July: it malfunctioned and caused a fire scare that led to the team's factory being evacuated.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup> The second was less than a week later when a <a href="/wiki/BMW_in_Formula_One" title="BMW in Formula One">BMW Sauber</a> mechanic was given an electric shock when he touched <a href="/wiki/Christian_Klien" title="Christian Klien">Christian Klien</a>'s KERS-equipped car during a test at the <a href="/wiki/Circuito_de_Jerez" title="Circuito de Jerez">Jerez</a> circuit.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup></p>
+<h3><span class="mw-headline" id="FIA">FIA</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Regenerative_brake&amp;action=edit&amp;section=10" title="Edit section: FIA">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:KERS_flywheel.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e4/KERS_flywheel.jpg/220px-KERS_flywheel.jpg" width="220" height="236" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e4/KERS_flywheel.jpg/330px-KERS_flywheel.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e4/KERS_flywheel.jpg/440px-KERS_flywheel.jpg 2x" data-file-width="3000" data-file-height="3223" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:KERS_flywheel.jpg" class="internal" title="Enlarge"></a></div>
+A KERS flywheel</div>
+</div>
+</div>
+<p><a href="/wiki/Formula_One" title="Formula One">Formula One</a> have stated that they support responsible solutions to the world's environmental challenges,<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[27]</a></sup> and the <a href="/wiki/F%C3%A9d%C3%A9ration_Internationale_de_l%27Automobile" title="Fédération Internationale de l'Automobile">FIA</a> allowed the use of 81&#160;hp (60&#160;kW; 82&#160;PS) KERS in the regulations for the <a href="/wiki/2009_Formula_One_season" title="2009 Formula One season">2009 Formula One season</a>.<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[28]</a></sup> Teams began testing systems in 2008: energy can either be stored as mechanical energy (as in a <a href="/wiki/Flywheel" title="Flywheel">flywheel</a>) or as electrical energy (as in a battery or <a href="/wiki/Supercapacitor" title="Supercapacitor">supercapacitor</a>).<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">[29]</a></sup></p>
+<p>With the introduction of KERS in the 2009 season, four teams used it at some point in the season: <a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>, <a href="/wiki/Renault_F1" class="mw-redirect" title="Renault F1">Renault</a>, <a href="/wiki/BMW_in_Formula_One" title="BMW in Formula One">BMW</a>, and <a href="/wiki/McLaren" title="McLaren">McLaren</a>. During the season, Renault and BMW stopped using the system. <a href="/wiki/McLaren" title="McLaren">Vodafone McLaren Mercedes</a> became the first team to win a F1 GP using a KERS equipped car when <a href="/wiki/Lewis_Hamilton" title="Lewis Hamilton">Lewis Hamilton</a> won the Hungarian Grand Prix on 26 July 2009. Their second KERS equipped car finished fifth. At the following race, Lewis Hamilton became the first driver to take pole position with a KERS car, his team mate, <a href="/wiki/Heikki_Kovalainen" title="Heikki Kovalainen">Heikki Kovalainen</a> qualifying second. This was also the first instance of an all KERS front row. On 30 August 2009, <a href="/wiki/Kimi_R%C3%A4ikk%C3%B6nen" title="Kimi Räikkönen">Kimi Räikkönen</a> won the Belgian Grand Prix with his KERS equipped Ferrari. It was the first time that KERS contributed directly to a race victory, with second placed <a href="/wiki/Giancarlo_Fisichella" title="Giancarlo Fisichella">Giancarlo Fisichella</a> claiming "Actually, I was quicker than Kimi. He only took me because of KERS at the beginning".<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">[30]</a></sup></p>
+<p>Although KERS was still legal in F1 in the 2010 season, all the teams had agreed not to use it.<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">[31]</a></sup> New rules for the 2011 F1 season which raised the minimum weight limit of the car and driver by 20&#160;kg to 640&#160;kg,<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">[32]</a></sup> along with the FOTA teams agreeing to the use of KERS devices once more, meant that KERS returned for the 2011 season.<sup id="cite_ref-33" class="reference"><a href="#cite_note-33">[33]</a></sup> This is still optional as it was in the 2009 season; in the 2011 season 3 teams elected not to use it.<sup id="cite_ref-3teams_19-1" class="reference"><a href="#cite_note-3teams-19">[19]</a></sup> For the 2012 season, only Marussia and HRT raced without KERS, and by 2013, with the withdrawal of HRT, all 11 teams on the grid were running KERS.</p>
+<p>For the 2014 season, the power output of the MGU-K (The replacement of the KERS and part of the ERS system that also includes a <a href="/wiki/Turbocharger" title="Turbocharger">turbocharger</a> <a href="/wiki/Waste_heat_recovery_unit" title="Waste heat recovery unit">waste heat recovery</a> system) increased from 60&#160;kW to 120&#160;kW and it is allowed to recover 2 <a href="/wiki/Mega-" title="Mega-">mega-</a><a href="/wiki/Joules" class="mw-redirect" title="Joules">joules</a> per lap. This was to balance the sport's move from 2.4 litre V8 engines to 1.6 litre V6 engines.<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">[34]</a></sup> The fail-safe settings of the <a href="/wiki/Brake-by-wire" title="Brake-by-wire">brake-by-wire</a> system that now supplements KERS came under examination as a contributing factor in the crash of <a href="/wiki/Jules_Bianchi#FIA_Accident_Panel_findings" title="Jules Bianchi">Jules Bianchi</a> at the 2014 Japanese Grand Prix.</p>
+<h3><span class="mw-headline" id="Autopart_makers">Autopart makers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Regenerative_brake&amp;action=edit&amp;section=11" title="Edit section: Autopart makers">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Robert_Bosch_GmbH" title="Robert Bosch GmbH">Bosch</a> Motorsport Service is developing a KERS for use in motor racing. These electricity storage systems for hybrid and engine functions include a <a href="/wiki/Lithium-ion_battery" title="Lithium-ion battery">lithium-ion battery</a> with scalable capacity or a <a href="/wiki/Flywheel" title="Flywheel">flywheel</a>, a four to eight kilogram <a href="/wiki/Electric_motor" title="Electric motor">electric motor</a> (with a maximum power level of 60&#160;kW or 80&#160;hp), as well as the KERS controller for power and battery management. Bosch also offers a range of electric hybrid systems for commercial and light-duty applications.<sup id="cite_ref-35" class="reference"><a href="#cite_note-35">[35]</a></sup></p>
+<h3><span class="mw-headline" id="Carmakers">Carmakers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Regenerative_brake&amp;action=edit&amp;section=12" title="Edit section: Carmakers">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Automakers including <a href="/wiki/Honda" title="Honda">Honda</a> have been testing KERS systems.<sup id="cite_ref-36" class="reference"><a href="#cite_note-36">[36]</a></sup> At the <a href="/wiki/2008_1000_km_of_Silverstone" title="2008 1000 km of Silverstone">2008 1,000&#160;km of Silverstone</a>, Peugeot Sport unveiled the <a href="/wiki/Peugeot_908_HDi_FAP" title="Peugeot 908 HDi FAP">Peugeot 908 HY</a>, a <a href="/wiki/Hybrid_electric_vehicle" title="Hybrid electric vehicle">hybrid electric</a> variant of the diesel 908, with KERS. Peugeot planned to campaign the car in the <a href="/wiki/2009_Le_Mans_Series_season" class="mw-redirect" title="2009 Le Mans Series season">2009 Le Mans Series season</a>, although it was not capable of scoring championship points.<sup id="cite_ref-908HY_37-0" class="reference"><a href="#cite_note-908HY-37">[37]</a></sup> Peugeot plans also a compressed air regenerative braking powertrain called Hybrid Air.<sup id="cite_ref-38" class="reference"><a href="#cite_note-38">[38]</a></sup><sup id="cite_ref-39" class="reference"><a href="#cite_note-39">[39]</a></sup></p>
+<p><a href="/wiki/McLaren" title="McLaren">Vodafone McLaren Mercedes</a> began testing of their KERS in September 2008 at the Jerez test track in preparation for the 2009 F1 season, although at that time it was not yet known if they would be operating an electrical or mechanical system.<sup id="cite_ref-40" class="reference"><a href="#cite_note-40">[40]</a></sup> In November 2008 it was announced that <a href="/wiki/Freescale_Semiconductor" title="Freescale Semiconductor">Freescale Semiconductor</a> would collaborate with <a href="/wiki/McLaren_Electronic_Systems" class="mw-redirect" title="McLaren Electronic Systems">McLaren Electronic Systems</a> to further develop its KERS for <a href="/wiki/McLaren_(racing)" class="mw-redirect" title="McLaren (racing)">McLaren</a>'s Formula One car from 2010 onwards. Both parties believed this collaboration would improve McLaren's KERS system and help the system filter down to road car technology.<sup id="cite_ref-41" class="reference"><a href="#cite_note-41">[41]</a></sup></p>
+<p><a href="/wiki/Toyota" title="Toyota">Toyota</a> has used a <a href="/wiki/Electric_double-layer_capacitor" title="Electric double-layer capacitor">supercapacitor</a> for regeneration on <a href="/wiki/Toyota_Supra" title="Toyota Supra">Supra</a> HV-R hybrid race car that won the 24 Hours of Tokachi race in July 2007.<sup id="cite_ref-42" class="reference"><a href="#cite_note-42">[42]</a></sup></p>
+<p>BMW has used regenerative braking on their E90 3 Series as well as in current models like F25 5 Series under the EfficientDynamics moniker.<sup id="cite_ref-43" class="reference"><a href="#cite_note-43">[43]</a></sup> Volkswagen have regenerative braking technologies under the <a href="/wiki/BlueMotion" title="BlueMotion">BlueMotion</a> brand in such models as the MK7 Golf and MK7 Golf Estate / Wagon models, other VW group brands like SEAT, Skoda and Audi.<sup id="cite_ref-44" class="reference"><a href="#cite_note-44">[44]</a></sup></p>
+<h3><span class="mw-headline" id="Motorcycles">Motorcycles</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Regenerative_brake&amp;action=edit&amp;section=13" title="Edit section: Motorcycles">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/KTM" title="KTM">KTM</a> racing boss <a href="/wiki/Harald_Bartol" title="Harald Bartol">Harald Bartol</a> has revealed that the factory raced with a secret kinetic energy recovery system (KERS) fitted to <a href="/wiki/Tomoyoshi_Koyama" title="Tomoyoshi Koyama">Tommy Koyama</a>'s motorcycle during the 2008 season-ending 125cc <a href="/wiki/Valencian_Community_motorcycle_Grand_Prix" title="Valencian Community motorcycle Grand Prix">Valencian Grand Prix</a>. This was against the rules, so they were banned from doing it afterwards.<sup id="cite_ref-45" class="reference"><a href="#cite_note-45">[45]</a></sup></p>
+<h3><span class="mw-headline" id="Bicycles">Bicycles</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Regenerative_brake&amp;action=edit&amp;section=14" title="Edit section: Bicycles">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Regenerative braking is also possible on a non-electric bicycle. The <a href="/wiki/EPA" class="mw-redirect" title="EPA">EPA</a>, working with students from the University of Michigan, developed the hydraulic Regenerative Brake Launch Assist (RBLA).<sup id="cite_ref-46" class="reference"><a href="#cite_note-46">[46]</a></sup> It is naturally available on electric bicycles with direct-drive <a href="/wiki/Hub_motor" class="mw-redirect" title="Hub motor">hub motors</a>.</p>
+<h3><span class="mw-headline" id="Races">Races</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Regenerative_brake&amp;action=edit&amp;section=15" title="Edit section: Races">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Automobile_Club_de_l%27Ouest" title="Automobile Club de l'Ouest">Automobile Club de l'Ouest</a>, the organizer behind the annual <a href="/wiki/24_Hours_of_Le_Mans" title="24 Hours of Le Mans">24 Hours of Le Mans</a> event and the <a href="/wiki/Le_Mans_Series" class="mw-redirect" title="Le Mans Series">Le Mans Series</a> is currently "studying specific rules for <a href="/wiki/Le_Mans_Prototype" title="Le Mans Prototype">LMP1</a> that will be equipped with a kinetic energy recovery system."<sup id="cite_ref-47" class="reference"><a href="#cite_note-47">[47]</a></sup> Peugeot was the first manufacturer to unveil a fully functioning LMP1 car in the form of the 908 HY at the 2008 Autosport 1000&#160;km race at Silverstone.<sup id="cite_ref-48" class="reference"><a href="#cite_note-48">[48]</a></sup></p>
+<h2><span class="mw-headline" id="Thermodynamics">Thermodynamics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Regenerative_brake&amp;action=edit&amp;section=16" title="Edit section: Thermodynamics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="KERS_Flywheel">KERS Flywheel</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Regenerative_brake&amp;action=edit&amp;section=17" title="Edit section: KERS Flywheel">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The energy of a flywheel can be described by this general energy equation, assuming the flywheel is the system:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>E</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>i</mi>
+            <mi>n</mi>
+          </mrow>
+        </msub>
+        <mo>&#x2212;<!-- − --></mo>
+        <msub>
+          <mi>E</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>o</mi>
+            <mi>u</mi>
+            <mi>t</mi>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <mi mathvariant="normal">&#x0394;<!-- Δ --></mi>
+        <msub>
+          <mi>E</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>s</mi>
+            <mi>y</mi>
+            <mi>s</mi>
+            <mi>t</mi>
+            <mi>e</mi>
+            <mi>m</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle E_{in}-E_{out}=\Delta E_{system}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/36c32111541db07de2f9ea9d16dfcac08002584e" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:22.908ex; height:3.009ex;" alt=" E_{in}-E_{out}= \Delta E_{system}" /></span></dd>
+</dl>
+<p>Where:</p>
+<dl>
+<dd>
+<ul>
+<li><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>E</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>i</mi>
+            <mi>n</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle E_{in}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e944580e13712985862ec5c45edd0772266b20fb" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:3.526ex; height:2.509ex;" alt="E_{in}" /></span> is the energy into the flywheel.</li>
+<li><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>E</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>o</mi>
+            <mi>u</mi>
+            <mi>t</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle E_{out}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/02abdfff821382998119ef19182027b026971a79" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:4.311ex; height:2.509ex;" alt="E_{out}" /></span> is the energy out of the flywheel.</li>
+<li><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi mathvariant="normal">&#x0394;<!-- Δ --></mi>
+        <msub>
+          <mi>E</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>s</mi>
+            <mi>y</mi>
+            <mi>s</mi>
+            <mi>t</mi>
+            <mi>e</mi>
+            <mi>m</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \Delta E_{system}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7ca2a814fb878aa97f27eba007baaf71e6530536" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:9.11ex; height:3.009ex;" alt="\Delta E_{system}" /></span> is the change in energy of the flywheel.</li>
+</ul>
+</dd>
+</dl>
+<p>An assumption is made that during braking there is no change in the potential energy, enthalpy of the flywheel, pressure or volume of the flywheel, so only kinetic energy will be considered. As the car is braking, no energy is dispersed by the flywheel, and the only energy into the flywheel is the initial kinetic energy of the car. The equation can be simplified to:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mi>m</mi>
+              <msup>
+                <mi>v</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mn>2</mn>
+                </mrow>
+              </msup>
+            </mrow>
+            <mn>2</mn>
+          </mfrac>
+        </mrow>
+        <mo>=</mo>
+        <mi mathvariant="normal">&#x0394;<!-- Δ --></mi>
+        <msub>
+          <mi>E</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>f</mi>
+            <mi>l</mi>
+            <mi>y</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\frac {mv^{2}}{2}}=\Delta E_{fly}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8072c6da8c9fefe801f28b0b5d5a9700b4486e2b" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.838ex; width:14.333ex; height:5.676ex;" alt="\frac{mv^2} {2} = \Delta E_{fly}" /></span></dd>
+</dl>
+<p>Where:</p>
+<dl>
+<dd>
+<ul>
+<li><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>m</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle m}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0a07d98bb302f3856cbabc47b2b9016692e3f7bc" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:2.051ex; height:1.676ex;" alt="m" /></span> is the mass of the car.</li>
+<li><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>v</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle v}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e07b00e7fc0847fbd16391c778d65bc25c452597" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.138ex; height:1.676ex;" alt="v" /></span> is the initial velocity of the car just before braking.</li>
+</ul>
+</dd>
+</dl>
+<p>The flywheel collects a percentage of the initial kinetic energy of the car, and this percentage can be represented by <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>&#x03B7;<!-- η --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>f</mi>
+            <mi>l</mi>
+            <mi>y</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \eta _{fly}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b7a04bda917b0f631300e71efffe20d4d4e6bf65" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:3.632ex; height:2.343ex;" alt="\eta_{fly}" /></span>. The flywheel stores the energy as rotational kinetic energy. Because the energy is kept as kinetic energy and not transformed into another type of energy this process is efficient. The flywheel can only store so much energy, however, and this is limited by its maximum amount of rotational kinetic energy. This is determined based upon the inertia of the flywheel and its angular velocity. As the car sits idle, little rotational kinetic energy is lost over time so the initial amount of energy in the flywheel can be assumed to equal the final amount of energy distributed by the flywheel. The amount of kinetic energy distributed by the flywheel is therefore:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>K</mi>
+        <msub>
+          <mi>E</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>f</mi>
+            <mi>l</mi>
+            <mi>y</mi>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <msub>
+                <mi>&#x03B7;<!-- η --></mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi>f</mi>
+                  <mi>l</mi>
+                  <mi>y</mi>
+                </mrow>
+              </msub>
+              <mi>m</mi>
+              <msup>
+                <mi>v</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mn>2</mn>
+                </mrow>
+              </msup>
+            </mrow>
+            <mn>2</mn>
+          </mfrac>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle KE_{fly}={\frac {\eta _{fly}mv^{2}}{2}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/43956c8dfe8f3f5a0d5c85366cfa8a093e7601f3" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.838ex; width:18.095ex; height:6.009ex;" alt="KE_{fly}=\frac{\eta_{fly} mv^2} {2} " /></span></dd>
+</dl>
+<h3><span class="mw-headline" id="Regenerative_brakes">Regenerative brakes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Regenerative_brake&amp;action=edit&amp;section=18" title="Edit section: Regenerative brakes">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Regenerative braking has a similar energy equation to the equation for the mechanical flywheel. Regenerative braking is a two-step process involving the motor/generator and the battery. The initial kinetic energy is transformed into electrical energy by the generator and is then converted into chemical energy by the battery. This process is less efficient than the flywheel. The efficiency of the generator can be represented by:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>&#x03B7;<!-- η --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>g</mi>
+            <mi>e</mi>
+            <mi>n</mi>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <msub>
+              <mi>W</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi>o</mi>
+                <mi>u</mi>
+                <mi>t</mi>
+              </mrow>
+            </msub>
+            <msub>
+              <mi>W</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi>i</mi>
+                <mi>n</mi>
+              </mrow>
+            </msub>
+          </mfrac>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \eta _{gen}={\frac {W_{out}}{W_{in}}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2f192a9ce1209c45f244104140b26629cc73a20a" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.338ex; width:12.697ex; height:5.843ex;" alt=" \eta_{gen}=\frac{W_{out}}{W_{in}}" /></span></dd>
+</dl>
+<p>Where:</p>
+<dl>
+<dd>
+<ul>
+<li><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>W</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>i</mi>
+            <mi>n</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle W_{in}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8536dfcf0c76b87884d1a6e1e798e40c8c8916f7" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:4.005ex; height:2.509ex;" alt="W_{in}" /></span> is the work into the generator.</li>
+<li><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>W</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>o</mi>
+            <mi>u</mi>
+            <mi>t</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle W_{out}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0b268f9b2a16d3e3e32de585eb140111f92f71fc" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:4.79ex; height:2.509ex;" alt="W_{out}" /></span> is the work produced by the generator.</li>
+</ul>
+</dd>
+</dl>
+<p>The only work into the generator is the initial kinetic energy of the car and the only work produced by the generator is the electrical energy. Rearranging this equation to solve for the power produced by the generator gives this equation:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>P</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>g</mi>
+            <mi>e</mi>
+            <mi>n</mi>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <msub>
+                <mi>&#x03B7;<!-- η --></mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi>g</mi>
+                  <mi>e</mi>
+                  <mi>n</mi>
+                </mrow>
+              </msub>
+              <mi>m</mi>
+              <msup>
+                <mi>v</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mn>2</mn>
+                </mrow>
+              </msup>
+            </mrow>
+            <mrow>
+              <mn>2</mn>
+              <mi mathvariant="normal">&#x0394;<!-- Δ --></mi>
+              <mi>t</mi>
+            </mrow>
+          </mfrac>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle P_{gen}={\frac {\eta _{gen}mv^{2}}{2\Delta t}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/14698bd364e807013a6e56ff58828510fcdb7c61" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.005ex; width:16.456ex; height:6.176ex;" alt="P_{gen}= \frac{\eta_{gen} mv^2}{2 \Delta t} " /></span></dd>
+</dl>
+<p>Where:</p>
+<dl>
+<dd>
+<ul>
+<li><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi mathvariant="normal">&#x0394;<!-- Δ --></mi>
+        <mi>t</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \Delta t}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8c28867ecd34e2caed12cf38feadf6a81a7ee542" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:2.796ex; height:2.343ex;" alt="\Delta t" /></span> is the amount of time the car brakes.</li>
+<li><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>m</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle m}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0a07d98bb302f3856cbabc47b2b9016692e3f7bc" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:2.051ex; height:1.676ex;" alt="m" /></span> is the mass of the car.</li>
+<li><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>v</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle v}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e07b00e7fc0847fbd16391c778d65bc25c452597" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.138ex; height:1.676ex;" alt="v" /></span> is the initial velocity of the car just before braking.</li>
+</ul>
+</dd>
+</dl>
+<p>The efficiency of the battery can be described as:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>&#x03B7;<!-- η --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>b</mi>
+            <mi>a</mi>
+            <mi>t</mi>
+            <mi>t</mi>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <msub>
+              <mi>P</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi>o</mi>
+                <mi>u</mi>
+                <mi>t</mi>
+              </mrow>
+            </msub>
+            <msub>
+              <mi>P</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi>i</mi>
+                <mi>n</mi>
+              </mrow>
+            </msub>
+          </mfrac>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \eta _{batt}={\frac {P_{out}}{P_{in}}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5fec6fcb9189bfed11624488a873c8ea93b2bb9b" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.338ex; width:12.224ex; height:5.843ex;" alt=" \eta_{batt}=\frac{P_{out}} {P_{in}} " /></span></dd>
+</dl>
+<p>Where:</p>
+<dl>
+<dd>
+<ul>
+<li><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>P</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>i</mi>
+            <mi>n</mi>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <msub>
+          <mi>P</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>g</mi>
+            <mi>e</mi>
+            <mi>n</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle P_{in}=P_{gen}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/07c27f5395042b1e8e25cd01a6a82a1ee941913e" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:10.711ex; height:2.843ex;" alt="P_{in}=P_{gen}" /></span></li>
+<li><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>P</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>o</mi>
+            <mi>u</mi>
+            <mi>t</mi>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <msub>
+              <mi>W</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi>o</mi>
+                <mi>u</mi>
+                <mi>t</mi>
+              </mrow>
+            </msub>
+            <mrow>
+              <mi mathvariant="normal">&#x0394;<!-- Δ --></mi>
+              <mi>t</mi>
+            </mrow>
+          </mfrac>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle P_{out}={\frac {W_{out}}{\Delta t}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6b29b83ab4a42b247179215dac06b21cb6d83ce2" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.005ex; width:12.823ex; height:5.509ex;" alt="P_{out}=\frac{W_{out}}{\Delta t}" /></span></li>
+</ul>
+</dd>
+</dl>
+<p>The work out of the battery represents the amount of energy produced by the regenerative brakes. This can be represented by:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>W</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>o</mi>
+            <mi>u</mi>
+            <mi>t</mi>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <msub>
+                <mi>&#x03B7;<!-- η --></mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi>b</mi>
+                  <mi>a</mi>
+                  <mi>t</mi>
+                  <mi>t</mi>
+                </mrow>
+              </msub>
+              <msub>
+                <mi>&#x03B7;<!-- η --></mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi>g</mi>
+                  <mi>e</mi>
+                  <mi>n</mi>
+                </mrow>
+              </msub>
+              <mi>m</mi>
+              <msup>
+                <mi>v</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mn>2</mn>
+                </mrow>
+              </msup>
+            </mrow>
+            <mn>2</mn>
+          </mfrac>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle W_{out}={\frac {\eta _{batt}\eta _{gen}mv^{2}}{2}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a834e7e142bbfc7a31a129c745a5d45106c91010" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.838ex; width:21.137ex; height:6.009ex;" alt="W_{{out}}={\frac  {\eta _{{batt}}\eta _{{gen}}mv^{2}}{2}}" /></span></dd>
+</dl>
+<h3><span class="mw-headline" id="Cars">Cars</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Regenerative_brake&amp;action=edit&amp;section=19" title="Edit section: Cars">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:402px;"><a href="/wiki/File:Energy_flows_in_car.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Energy_flows_in_car.svg/400px-Energy_flows_in_car.svg.png" width="400" height="432" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Energy_flows_in_car.svg/600px-Energy_flows_in_car.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/05/Energy_flows_in_car.svg/800px-Energy_flows_in_car.svg.png 2x" data-file-width="630" data-file-height="680" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Energy_flows_in_car.svg" class="internal" title="Enlarge"></a></div>
+Energy efficiency of cars in towns and on motorways according to the <a href="/wiki/United_States_Department_of_Energy" title="United States Department of Energy">DoE</a>).</div>
+</div>
+</div>
+<p>In the case of internal combustion engines, the sketch of the <a href="/wiki/United_States_Department_of_Energy" title="United States Department of Energy">DoE</a> shows that average car efficiency amounts to less than 20%. We can see for ourselves that braking in proportion to the useful mechanic energy amounts to 6/13 i.e. 46% in towns, and 5/20 i.e. 25% on motorways.</p>
+<p>As regards electric cars, the <a href="/wiki/United_States_Department_of_Energy" title="United States Department of Energy">DoE</a> explains that the efficiency between the electric motor and the wheels amounts to 60% <sup id="cite_ref-49" class="reference"><a href="#cite_note-49">[49]</a></sup> (however for the overall conversion see <a href="/wiki/Embodied_energy#Embodied_energy_in_the_energy_field" title="Embodied energy">Embodied energy#Embodied energy in the energy field</a>).</p>
+<p>Let us consider the electric motor efficiency <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>&#x03B7;<!-- η --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>e</mi>
+            <mi>n</mi>
+            <mi>g</mi>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <mn>0.6</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \eta _{eng}=0.6}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/57fdf1b231da6c238a5f09bb50320ee908b929e4" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:10.074ex; height:2.843ex;" alt="{\displaystyle \eta _{eng}=0.6}" /></span><sup id="cite_ref-50" class="reference"><a href="#cite_note-50">[Note 1]</a></sup> and the braking proportion in towns <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>p</mi>
+        <mo>=</mo>
+        <mn>0.46</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle p=0.46}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ae948faa0d7386ce79b24f6633a844d31a5f8602" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; margin-left: -0.079ex; width:8.544ex; height:2.509ex;" alt="{\displaystyle p=0.46}" /></span> and on motorways <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>p</mi>
+        <mo>=</mo>
+        <mn>0.1</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle p=0.1}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5ca20e78cf98c25969afdf51fbe95eaae9f24bc9" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; margin-left: -0.079ex; width:7.371ex; height:2.509ex;" alt="{\displaystyle p=0.1}" /></span>.</p>
+<p>Let us introduce <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>&#x03B7;<!-- η --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>r</mi>
+            <mi>e</mi>
+            <mi>c</mi>
+            <mi>u</mi>
+            <mi>p</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \eta _{recup}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e2ce9f2f8a6472eaf93e6a95aef337541adf8c2b" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:5.422ex; height:2.343ex;" alt="{\displaystyle \eta _{recup}}" /></span> which is the recuperated proportion of braking energy. Theoretically, it can reach up to 80%.<sup id="cite_ref-51" class="reference"><a href="#cite_note-51">[Note 2]</a></sup> Thus <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>&#x03B7;<!-- η --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>r</mi>
+            <mi>e</mi>
+            <mi>c</mi>
+            <mi>u</mi>
+            <mi>p</mi>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <mn>0.8</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \eta _{recup}=0.8}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0b3c01c08b0c0ccf0dce60ef31c3776ef97e4166" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:11.534ex; height:2.843ex;" alt="{\displaystyle \eta _{recup}=0.8}" /></span> in the best case.</p>
+<p>Under these circumstances, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>E</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle E}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4232c9de2ee3eec0a9c0a19b15ab92daa6223f9b" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.786ex; height:2.176ex;" alt="E" /></span> being the energy flux arriving at the electric engine, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>B</mi>
+        <mi>r</mi>
+        <mi>a</mi>
+        <mi>k</mi>
+        <mi>i</mi>
+        <mi>n</mi>
+        <mi>g</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle Braking}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6963746aca3421ac13d0f878b90583bb2f5336ad" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:8.64ex; height:2.509ex;" alt="{\displaystyle Braking}" /></span> the energy flux lost while braking and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>R</mi>
+        <mi>e</mi>
+        <mi>c</mi>
+        <mi>u</mi>
+        <mi>p</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle Recup}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/bda4215072d9a6a639ec787b6bfd47690afdee0b" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:6.406ex; height:2.509ex;" alt="{\displaystyle Recup}" /></span> the recuperated energy flux, an equilibrium is reached according to the equations<br /></p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>B</mi>
+        <mi>r</mi>
+        <mi>a</mi>
+        <mi>k</mi>
+        <mi>i</mi>
+        <mi>n</mi>
+        <mi>g</mi>
+        <mo>=</mo>
+        <mo stretchy="false">(</mo>
+        <mi>E</mi>
+        <mo>+</mo>
+        <mi>R</mi>
+        <mi>e</mi>
+        <mi>c</mi>
+        <mi>u</mi>
+        <mi>p</mi>
+        <mo stretchy="false">)</mo>
+        <mo>&#x22C5;<!-- ⋅ --></mo>
+        <msub>
+          <mi>&#x03B7;<!-- η --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>e</mi>
+            <mi>n</mi>
+            <mi>g</mi>
+          </mrow>
+        </msub>
+        <mo>&#x22C5;<!-- ⋅ --></mo>
+        <mi>p</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle Braking=(E+Recup)\cdot \eta _{eng}\cdot p}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/fe2dc479dfb67b09130181810a63b58d732a26c7" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:33.143ex; height:3.009ex;" alt="{\displaystyle Braking=(E+Recup)\cdot \eta _{eng}\cdot p}" /></span> and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>R</mi>
+        <mi>e</mi>
+        <mi>c</mi>
+        <mi>u</mi>
+        <mi>p</mi>
+        <mo>=</mo>
+        <msub>
+          <mi>&#x03B7;<!-- η --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>r</mi>
+            <mi>e</mi>
+            <mi>c</mi>
+            <mi>u</mi>
+            <mi>p</mi>
+          </mrow>
+        </msub>
+        <mo>&#x22C5;<!-- ⋅ --></mo>
+        <mi>B</mi>
+        <mi>r</mi>
+        <mi>a</mi>
+        <mi>k</mi>
+        <mi>i</mi>
+        <mi>n</mi>
+        <mi>g</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle Recup=\eta _{recup}\cdot Braking}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0f763a004def7cae3c44aa7db79e8e869982c350" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:25.266ex; height:2.843ex;" alt="{\displaystyle Recup=\eta _{recup}\cdot Braking}" /></span></p>
+<p>thus <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>B</mi>
+        <mi>r</mi>
+        <mi>a</mi>
+        <mi>k</mi>
+        <mi>i</mi>
+        <mi>n</mi>
+        <mi>g</mi>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mi>E</mi>
+              <mo>&#x22C5;<!-- ⋅ --></mo>
+              <msub>
+                <mi>&#x03B7;<!-- η --></mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi>e</mi>
+                  <mi>n</mi>
+                  <mi>g</mi>
+                </mrow>
+              </msub>
+              <mo>&#x22C5;<!-- ⋅ --></mo>
+              <mi>p</mi>
+            </mrow>
+            <mrow>
+              <mn>1</mn>
+              <mo>&#x2212;<!-- − --></mo>
+              <msub>
+                <mi>&#x03B7;<!-- η --></mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi>e</mi>
+                  <mi>n</mi>
+                  <mi>g</mi>
+                </mrow>
+              </msub>
+              <mo>&#x22C5;<!-- ⋅ --></mo>
+              <mi>p</mi>
+              <mo>&#x22C5;<!-- ⋅ --></mo>
+              <msub>
+                <mi>&#x03B7;<!-- η --></mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi>r</mi>
+                  <mi>e</mi>
+                  <mi>c</mi>
+                  <mi>u</mi>
+                  <mi>p</mi>
+                </mrow>
+              </msub>
+            </mrow>
+          </mfrac>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle Braking={\frac {E\cdot \eta _{eng}\cdot p}{1-\eta _{eng}\cdot p\cdot \eta _{recup}}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f932186d064525b7fb731cf63ef4fb94f9398a88" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.505ex; width:30.552ex; height:6.343ex;" alt="{\displaystyle Braking={\frac {E\cdot \eta _{eng}\cdot p}{1-\eta _{eng}\cdot p\cdot \eta _{recup}}}}" /></span></p>
+<p>It is as though the old energy flux <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>E</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle E}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4232c9de2ee3eec0a9c0a19b15ab92daa6223f9b" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.786ex; height:2.176ex;" alt="E" /></span> was replaced by a new one <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>E</mi>
+        <mo>&#x22C5;<!-- ⋅ --></mo>
+        <mo stretchy="false">(</mo>
+        <mn>1</mn>
+        <mo>&#x2212;<!-- − --></mo>
+        <msub>
+          <mi>&#x03B7;<!-- η --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>e</mi>
+            <mi>n</mi>
+            <mi>g</mi>
+          </mrow>
+        </msub>
+        <mo>&#x22C5;<!-- ⋅ --></mo>
+        <mi>p</mi>
+        <mo>&#x22C5;<!-- ⋅ --></mo>
+        <msub>
+          <mi>&#x03B7;<!-- η --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>r</mi>
+            <mi>e</mi>
+            <mi>c</mi>
+            <mi>u</mi>
+            <mi>p</mi>
+          </mrow>
+        </msub>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle E\cdot (1-\eta _{eng}\cdot p\cdot \eta _{recup})}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0397c5292dd1244123b6f5bdde15b2a33c3f0a8b" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:23.272ex; height:3.009ex;" alt="{\displaystyle E\cdot (1-\eta _{eng}\cdot p\cdot \eta _{recup})}" /></span></p>
+<p>The expected gain amounts to <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>&#x03B7;<!-- η --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>e</mi>
+            <mi>n</mi>
+            <mi>g</mi>
+          </mrow>
+        </msub>
+        <mo>&#x22C5;<!-- ⋅ --></mo>
+        <mi>p</mi>
+        <mo>&#x22C5;<!-- ⋅ --></mo>
+        <msub>
+          <mi>&#x03B7;<!-- η --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>r</mi>
+            <mi>e</mi>
+            <mi>c</mi>
+            <mi>u</mi>
+            <mi>p</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \eta _{eng}\cdot p\cdot \eta _{recup}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/76452447b33c367b79863a8ca07e8d9644ad96e1" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:13.943ex; height:2.343ex;" alt="{\displaystyle \eta _{eng}\cdot p\cdot \eta _{recup}}" /></span></p>
+<p>The higher the recuparation efficiency, the higher the recuperation.</p>
+<p>The higher the efficiency between the electric motor and the wheels, the higher the recuperation.</p>
+<p>The higher the braking proportion, the higher the recuperation.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Regenerative_brake&amp;action=edit&amp;section=20" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="div-col columns column-count column-count-3" style="-moz-column-count: 3; -webkit-column-count: 3; column-count: 3;">
+<ul>
+<li><a href="/wiki/Brake_(railway)" class="mw-redirect" title="Brake (railway)">Brake (railway)</a></li>
+<li><a href="/wiki/Electromagnetic_brake" title="Electromagnetic brake">Electromagnetic brake</a></li>
+<li><a href="/wiki/Regenerative_(design)" class="mw-redirect" title="Regenerative (design)">Regenerative (design)</a></li>
+<li><a href="/wiki/Regenerative_shock_absorber" title="Regenerative shock absorber">Regenerative shock absorber</a></li>
+<li><a href="/wiki/Hybrid_Synergy_Drive" title="Hybrid Synergy Drive">Hybrid Synergy Drive</a></li>
+<li><a href="/wiki/Ram_air_turbine" title="Ram air turbine">Ram air turbine</a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Regenerative_brake&amp;action=edit&amp;section=21" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">GM patent <a rel="nofollow" class="external text" href="http://www.google.com/patents?id=VzshAAAAEBAJ&amp;dq=5775467">5775467</a> – <i>Floating electromagnetic brake system- Erik Knuth, Abraham Farag, Loren Majersik, William Borchers</i>.</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">GM patent <a rel="nofollow" class="external text" href="http://www.google.com/patents?id=_A0kAAAAEBAJ&amp;dq=5603217">5603217</a> – <i>Compliant master cylinder- Loren Majersik, Abraham Farag</i>.</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web">Dave (16 March 2009). <a rel="nofollow" class="external text" href="http://www.shorpy.com/node/5734%23comment-58487">"Horseless Carriage: 1906"</a>. Shorpy<span class="reference-accessdate">. Retrieved <span class="nowrap">14 August</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARegenerative+brake&amp;rft.au=Dave&amp;rft.btitle=Horseless+Carriage%3A+1906&amp;rft.date=2009-03-16&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.shorpy.com%2Fnode%2F5734%2523comment-58487&amp;rft.pub=Shorpy&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation journal">Raworth, Alfred (7 February 1907). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=wP5DAAAAYAAJ&amp;pg=PA374&amp;dq=proceedings+institute+electrical+engineers+1907+vol+38">"Regenerative control of electric tramcars and locomotives"</a>. <i>Proceedings of the Institution of Electrical Engineers 1906–1907</i>. <b>38</b>: 374–398<span class="reference-accessdate">. Retrieved <span class="nowrap">11 March</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARegenerative+brake&amp;rft.atitle=Regenerative+control+of+electric+tramcars+and+locomotives&amp;rft.aufirst=Alfred&amp;rft.aulast=Raworth&amp;rft.date=1907-02-07&amp;rft.genre=article&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DwP5DAAAAYAAJ%26pg%3DPA374%26dq%3Dproceedings%2Binstitute%2Belectrical%2Bengineers%2B1907%2Bvol%2B38&amp;rft.jtitle=Proceedings+of+the+Institution+of+Electrical+Engineers+1906%931907&amp;rft.pages=374-398&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=38" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation book"><a rel="nofollow" class="external text" href="https://books.google.com/books?id=ki4SAAAAIAAJ&amp;pg=PA68&amp;lpg=PA68&amp;dq=%22raworth+system%22"><i>Discussion on the 'Regenerative braking of electric vehicles' (Hellmund) Pittsburg, PA</i></a>. <i>Transactions of the American Institute of Electrical Engineers</i>. <b>36</b>. 1917. p.&#160;68<span class="reference-accessdate">. Retrieved <span class="nowrap">11 March</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARegenerative+brake&amp;rft.btitle=Discussion+on+the+%27Regenerative+braking+of+electric+vehicles%27+%28Hellmund%29+Pittsburg%2C+PA&amp;rft.date=1917&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3Dki4SAAAAIAAJ%26pg%3DPA68%26lpg%3DPA68%26dq%3D%2522raworth%2Bsystem%2522&amp;rft.pages=68&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Jno-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-Jno_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Jno_6-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Jno, Struan; Robertson, T.; Markham, John D. (2007). <i>The Regenerative Braking Story</i>. Scottish Tramway &amp; Transport Society.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARegenerative+brake&amp;rft.aufirst=Struan&amp;rft.aulast=Jno&amp;rft.au=Markham%2C+John+D.&amp;rft.au=Robertson%2C+T.&amp;rft.btitle=The+Regenerative+Braking+Story&amp;rft.date=2007&amp;rft.genre=book&amp;rft.pub=Scottish+Tramway+%26+Transport+Society&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation book"><a rel="nofollow" class="external text" href="https://books.google.com/books?id=fjApAAAAYAAJ&amp;pg=PA20&amp;lpg=PA20&amp;dq=%22raworth+system%22"><i>Transport World The Tramway and Railway World</i></a>. <b>XX</b>. Carriers Publishing. July–December 1906. p.&#160;20<span class="reference-accessdate">. Retrieved <span class="nowrap">11 March</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARegenerative+brake&amp;rft.btitle=Transport+World+The+Tramway+and+Railway+World&amp;rft.date=1906-07%2F1906-12&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DfjApAAAAYAAJ%26pg%3DPA20%26lpg%3DPA20%26dq%3D%2522raworth%2Bsystem%2522&amp;rft.pages=20&amp;rft.pub=Carriers+Publishing&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web">Bigpanzer (30 April 2006). <a rel="nofollow" class="external text" href="http://forum.axishistory.com/viewtopic.php?f=34&amp;t=91987&amp;start=645">"Susrami Type Locomotoive at Surami Pass"</a>. Shorpy<span class="reference-accessdate">. Retrieved <span class="nowrap">31 January</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARegenerative+brake&amp;rft.au=Bigpanzer&amp;rft.btitle=Susrami+Type+Locomotoive+at+Surami+Pass&amp;rft.date=2006-04-30&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fforum.axishistory.com%2Fviewtopic.php%3Ff%3D34%26t%3D91987%26start%3D645&amp;rft.pub=Shorpy&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://library.e.abb.com/public/b53e94802c75e541c125789a00290729/Railvolution02-11-Traction-transformer-Kiruna.pdf">Railvolution magazine, 2/11, Kiruna Locomotives, Part 1</a></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation news">Næss, Per (3 August 2007). "Evighetsmaskiner". <i><a href="/wiki/Fremover" title="Fremover">Fremover</a></i> (in Norwegian). p.&#160;28.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARegenerative+brake&amp;rft.atitle=Evighetsmaskiner&amp;rft.aufirst=Per&amp;rft.aulast=N%C3%A6ss&amp;rft.date=2007-08-03&amp;rft.genre=article&amp;rft.jtitle=Fremover&amp;rft.pages=28&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web">Hart, Lee A. (28 December 2013). <a rel="nofollow" class="external text" href="http://www.sunrise-ev.com/Controllers.htm">"EV Motor Controllers"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">4 May</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARegenerative+brake&amp;rft.aufirst=Lee+A.&amp;rft.aulast=Hart&amp;rft.btitle=EV+Motor+Controllers&amp;rft.date=2013-12-28&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.sunrise-ev.com%2FControllers.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web">Leno, Jay (1 May 2007). <a rel="nofollow" class="external text" href="http://www.popularmechanics.com/cars/jay-leno/vintage/4215940">"The 100-Year-Old Electric Car"</a>. Popular Mechanics<span class="reference-accessdate">. Retrieved <span class="nowrap">4 May</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARegenerative+brake&amp;rft.aufirst=Jay&amp;rft.aulast=Leno&amp;rft.btitle=The+100-Year-Old+Electric+Car&amp;rft.date=2007-05-01&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.popularmechanics.com%2Fcars%2Fjay-leno%2Fvintage%2F4215940&amp;rft.pub=Popular+Mechanics&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation book">Ayres, Robert U.; McKenna, Richard P. (1972). "The Electric Car". <a rel="nofollow" class="external text" href="https://books.google.com/books?id=AaBTAAAAMAAJ"><i>Alternatives to the internal combustion engine: impacts on environmental quality</i></a>. Johns Hopkins University Press. p.&#160;219. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-8018-1369-6" title="Special:BookSources/978-0-8018-1369-6">978-0-8018-1369-6</a><span class="reference-accessdate">. Retrieved <span class="nowrap">4 May</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARegenerative+brake&amp;rft.atitle=The+Electric+Car&amp;rft.aufirst=Robert+U.&amp;rft.aulast=Ayres&amp;rft.au=McKenna%2C+Richard+P.&amp;rft.btitle=Alternatives+to+the+internal+combustion+engine%3A+impacts+on+environmental+quality&amp;rft.date=1972&amp;rft.genre=bookitem&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DAaBTAAAAMAAJ&amp;rft.isbn=978-0-8018-1369-6&amp;rft.pages=219&amp;rft.pub=Johns+Hopkins+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.railwaygazette.com/news/single-view/view/regenerative-braking-boosts-green-credentials.html">"Regenerative braking boosts green credentials"</a>. Railway Gazette International. 2 July 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">11 March</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARegenerative+brake&amp;rft.btitle=Regenerative+braking+boosts+green+credentials&amp;rft.date=2007-07-02&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.railwaygazette.com%2Fnews%2Fsingle-view%2Fview%2Fregenerative-braking-boosts-green-credentials.html&amp;rft.pub=Railway+Gazette+International&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20090226201221/http://economictimes.indiatimes.com/Earth/Delhi-Metro-Cuts-90000-tons-of-CO2/articleshow/4176147.cms">"Delhi Metro prevents 90,000 tons of CO<sub>2</sub>"</a>. India Times. 23 February 2009. Archived from <a rel="nofollow" class="external text" href="http://economictimes.indiatimes.com/Earth/Delhi-Metro-Cuts-90000-tons-of-CO2/articleshow/4176147.cms">the original</a> on 26 February 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">14 August</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARegenerative+brake&amp;rft.atitle=Delhi+Metro+prevents+90%2C000+tons+of+CO%3Csub%3E2%3C%2Fsub%3E&amp;rft.date=2009-02-23&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Feconomictimes.indiatimes.com%2FEarth%2FDelhi-Metro-Cuts-90000-tons-of-CO2%2Farticleshow%2F4176147.cms&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.railwaygazette.com/nc/news/single-view/view/flywheel-firm-launches.html">"Flywheel firm launches"</a>. Railway Gazette. 20 January 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">11 March</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARegenerative+brake&amp;rft.btitle=Flywheel+firm+launches&amp;rft.date=2011-01-20&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.railwaygazette.com%2Fnc%2Fnews%2Fsingle-view%2Fview%2Fflywheel-firm-launches.html&amp;rft.pub=Railway+Gazette&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.londonreconnections.com/2011/milestones-reached-on-the-jubilee-and-victoria-lines/">"Milestones Reached on the Jubilee and Victoria Lines"</a>. London Reconnections. 2 August 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">11 March</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARegenerative+brake&amp;rft.btitle=Milestones+Reached+on+the+Jubilee+and+Victoria+Lines&amp;rft.date=2011-08-02&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.londonreconnections.com%2F2011%2Fmilestones-reached-on-the-jubilee-and-victoria-lines%2F&amp;rft.pub=London+Reconnections&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation book">Solomon, Brian (2014). <a rel="nofollow" class="external text" href="https://books.google.ca/books?id=sTRcBAAAQBAJ&amp;pg=PA59"><i>GE and EMD Locomotives</i></a>. Voyageur Press. pp.&#160;59–61.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARegenerative+brake&amp;rft.aufirst=Brian&amp;rft.aulast=Solomon&amp;rft.btitle=GE+and+EMD+Locomotives&amp;rft.date=2014&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fbooks.google.ca%2Fbooks%3Fid%3DsTRcBAAAQBAJ%26pg%3DPA59&amp;rft.pages=59-61&amp;rft.pub=Voyageur+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3teams-19"><span class="mw-cite-backlink">^ <a href="#cite_ref-3teams_19-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-3teams_19-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.autoevolution.com/news/team-lotus-virgin-hrt-f1-to-start-2011-without-kers-30389.html">"Team Lotus, Virgin, HRT F1 to Start 2011 Without KERS"</a>. Autoevolution. 28 January 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">1 June</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARegenerative+brake&amp;rft.btitle=Team+Lotus%2C+Virgin%2C+HRT+F1+to+Start+2011+Without+KERS&amp;rft.date=2011-01-28&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.autoevolution.com%2Fnews%2Fteam-lotus-virgin-hrt-f1-to-start-2011-without-kers-30389.html&amp;rft.pub=Autoevolution&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text">BBC TV commentary on German Grand Prix 2009</span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation web">Flybrid Systems LLP (10 September 2010). <a rel="nofollow" class="external text" href="http://www.flybridsystems.com/Technology.html">"Flybrid Systems"</a>. Flybrid Systems<span class="reference-accessdate">. Retrieved <span class="nowrap">17 September</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARegenerative+brake&amp;rft.au=Flybrid+Systems+LLP&amp;rft.btitle=Flybrid+Systems&amp;rft.date=2010-09-10&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.flybridsystems.com%2FTechnology.html&amp;rft.pub=Flybrid+Systems&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.torotrak.com/IVT/works/">Torotrak</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20081014225121/http://www.torotrak.com/IVT/works/">Archived</a> 14 October 2008 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.xtrac.com/pdfs/Torotrak_Xtrac_CVT.pdf">"Torotrak, Xtrac &amp; CVT pdf"</a> <span style="font-size:85%;">(PDF)</span><span class="reference-accessdate">. Retrieved <span class="nowrap">17 September</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARegenerative+brake&amp;rft.btitle=Torotrak%2C+Xtrac+%26+CVT+pdf&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.xtrac.com%2Fpdfs%2FTorotrak_Xtrac_CVT.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite class="citation web">BHR Technology. <a rel="nofollow" class="external text" href="http://www.bhr-technology.com/CPC-KERS.pps">"Cpc-Kers"</a>. Bhr-technology.com<span class="reference-accessdate">. Retrieved <span class="nowrap">17 September</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARegenerative+brake&amp;rft.au=BHR+Technology.&amp;rft.btitle=Cpc-Kers&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.bhr-technology.com%2FCPC-KERS.pps&amp;rft.pub=Bhr-technology.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.autosport.com/news/report.php/id/69199">"KERS failure caused Red Bull fire scare"</a>. autosport.com. 17 July 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">22 July</span> 2008</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARegenerative+brake&amp;rft.atitle=KERS+failure+caused+Red+Bull+fire+scare&amp;rft.date=2008-07-17&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.autosport.com%2Fnews%2Freport.php%2Fid%2F69199&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.autosport.com/news/report.php/id/69391">"BMW mechanic escapes KERS scare"</a>. autosport.com. 22 July 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">22 July</span> 2008</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARegenerative+brake&amp;rft.atitle=BMW+mechanic+escapes+KERS+scare&amp;rft.date=2008-07-22&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.autosport.com%2Fnews%2Freport.php%2Fid%2F69391&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.fia.com/en-GB/mediacentre/pressreleases/mobility/2008/Pages/f1_environment.aspx">"Teams Comment on F1's Environmental Future"</a>. FIA. 8 October 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">14 January</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARegenerative+brake&amp;rft.btitle=Teams+Comment+on+F1%27s+Environmental+Future&amp;rft.date=2008-10-08&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.fia.com%2Fen-GB%2Fmediacentre%2Fpressreleases%2Fmobility%2F2008%2FPages%2Ff1_environment.aspx&amp;rft.pub=FIA&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.fia.com/resources/documents/1151088479__2009_F1_TECHNICAL_REGULATIONS.pdf">"2009 Formula One Technical Regulations"</a> <span style="font-size:85%;">(PDF)</span>. FIA. 22 December 2006<span class="reference-accessdate">. Retrieved <span class="nowrap">22 December</span> 2006</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARegenerative+brake&amp;rft.btitle=2009+Formula+One+Technical+Regulations&amp;rft.date=2006-12-22&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.fia.com%2Fresources%2Fdocuments%2F1151088479__2009_F1_TECHNICAL_REGULATIONS.pdf&amp;rft.pub=FIA&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><cite class="citation web">FIA management (22 December 2006). <a rel="nofollow" class="external text" href="http://www.fia.com/resources/documents/1151088479__2009_F1_TECHNICAL_REGULATIONS.pdf">"2009 FORMULA ONE TECHNICAL REGULATIONS"</a> <span style="font-size:85%;">(PDF)</span>. FIA<span class="reference-accessdate">. Retrieved <span class="nowrap">8 July</span> 2008</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARegenerative+brake&amp;rft.au=FIA+management&amp;rft.btitle=2009+FORMULA+ONE+TECHNICAL+REGULATIONS&amp;rft.date=2006-12-22&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.fia.com%2Fresources%2Fdocuments%2F1151088479__2009_F1_TECHNICAL_REGULATIONS.pdf&amp;rft.pub=FIA&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><cite class="citation news">Whyatt, Chris (30 August 2009). <a rel="nofollow" class="external text" href="http://news.bbc.co.uk/sport1/hi/motorsport/formula_one/8229449.stm">"Raikkonen wins exciting Spa duel"</a>. BBC<span class="reference-accessdate">. Retrieved <span class="nowrap">30 August</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARegenerative+brake&amp;rft.atitle=Raikkonen+wins+exciting+Spa+duel&amp;rft.aufirst=Chris&amp;rft.aulast=Whyatt&amp;rft.date=2009-08-30&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2Fsport1%2Fhi%2Fmotorsport%2Fformula_one%2F8229449.stm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.formula1.com/inside_f1/understanding_the_sport/8763.html">"Formula 1 - The Official F1 Website"</a>. Formula1.com<span class="reference-accessdate">. Retrieved <span class="nowrap">14 August</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARegenerative+brake&amp;rft.btitle=Formula+1+-+The+Official+F1+Website&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.formula1.com%2Finside_f1%2Funderstanding_the_sport%2F8763.html&amp;rft.pub=Formula1.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.formula1.com/news/headlines/2010/12/11603.html">"http://www.formula1.com/news/headlines/2010/12/11603.html"</a>. formula1.com<span class="reference-accessdate">. Retrieved <span class="nowrap">4 December</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARegenerative+brake&amp;rft.btitle=http%3A%2F%2Fwww.formula1.com%2Fnews%2Fheadlines%2F2010%2F12%2F11603.html&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.formula1.com%2Fnews%2Fheadlines%2F2010%2F12%2F11603.html&amp;rft.pub=formula1.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span> <span style="font-size:100%" class="error citation-comment">External link in <code style="color:inherit; border:inherit; padding:inherit;">|title=</code> (<a href="/wiki/Help:CS1_errors#param_has_ext_link" title="Help:CS1 errors">help</a>)</span></span></li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><cite class="citation news">Benson, Andrew (23 June 2010). <a rel="nofollow" class="external text" href="http://news.bbc.co.uk/sport2/hi/motorsport/formula_one/8756430.stm">"Changes made to F1l"</a>. BBC<span class="reference-accessdate">. Retrieved <span class="nowrap">23 June</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARegenerative+brake&amp;rft.atitle=Changes+made+to+F1l&amp;rft.aufirst=Andrew&amp;rft.aulast=Benson&amp;rft.date=2010-06-23&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2Fsport2%2Fhi%2Fmotorsport%2Fformula_one%2F8756430.stm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/sport1/hi/formula_one/13878359.stm">"Formula 1 delays introduction of 'green' engines until 2014"</a>. bbc.co.uk. 29 June 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">27 June</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARegenerative+brake&amp;rft.atitle=Formula+1+delays+introduction+of+%98green%99+engines+until+2014&amp;rft.date=2011-06-29&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2Fsport1%2Fhi%2Fformula_one%2F13878359.stm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.greencarcongress.com/2008/11/bosch-developin.html">"Bosch Developing Modular KERS Systems for Range of Motorsport Applications"</a>. Green Car Congress. 18 November 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">27 April</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARegenerative+brake&amp;rft.btitle=Bosch+Developing+Modular+KERS+Systems+for+Range+of+Motorsport+Applications&amp;rft.date=2008-11-18&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.greencarcongress.com%2F2008%2F11%2Fbosch-developin.html&amp;rft.pub=Green+Car+Congress&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-36">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.carmondo.de/blog/2008/07/03/honda-und-bmw-mit-formel-1-hybriden/">http://www.carmondo.de/blog/2008/07/03/honda-und-bmw-mit-formel-1-hybriden/</a> <span class="languageicon" style="font-size:0.95em; font-weight:bold; color:#555;">(German)</span></span></li>
+<li id="cite_note-908HY-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-908HY_37-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.racecar-engineering.com/news/people/273697/peugeot-reveal-hybrid-racer-for-2009.html">"Peugeot Sport Hybrid"</a>. Racecar Engineering. 13 September 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">13 September</span> 2008</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARegenerative+brake&amp;rft.btitle=Peugeot+Sport+Hybrid&amp;rft.date=2008-09-13&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.racecar-engineering.com%2Fnews%2Fpeople%2F273697%2Fpeugeot-reveal-hybrid-racer-for-2009.html&amp;rft.pub=Racecar+Engineering&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-38">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.psa-peugeot-citroen.com/en/featured-content/automotive-innovation/hybrid-air-engine-full-hybrid-gasoline">"Hybrid Air, an innovative full hybrid gasoline system"</a>. PSA-Peugeot-Citroen<span class="reference-accessdate">. Retrieved <span class="nowrap">4 May</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARegenerative+brake&amp;rft.btitle=Hybrid+Air%2C+an+innovative+full+hybrid+gasoline+system&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.psa-peugeot-citroen.com%2Fen%2Ffeatured-content%2Fautomotive-innovation%2Fhybrid-air-engine-full-hybrid-gasoline&amp;rft.pub=PSA-Peugeot-Citroen&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-39">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.popsci.com/article/cars/car-runs-air">"The Car That Runs On Air"</a>. Popular Science. 25 February 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">4 May</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARegenerative+brake&amp;rft.btitle=The+Car+That+Runs+On+Air&amp;rft.date=2014-02-25&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.popsci.com%2Farticle%2Fcars%2Fcar-runs-air&amp;rft.pub=Popular+Science&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-40"><span class="mw-cite-backlink"><b><a href="#cite_ref-40">^</a></b></span> <span class="reference-text"><cite class="citation web">Lawrence Butcher (18 September 2008). <a rel="nofollow" class="external text" href="http://www.racecar-engineering.com/news/people/274178/mclaren-on-track-with-kers.html">"F1 KERS; McLaren on track with KERS | People"</a>. Racecar Engineering<span class="reference-accessdate">. Retrieved <span class="nowrap">14 August</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARegenerative+brake&amp;rft.au=Lawrence+Butcher&amp;rft.btitle=F1+KERS%3B+McLaren+on+track+with+KERS+%26%23124%3B+People&amp;rft.date=2008-09-18&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.racecar-engineering.com%2Fnews%2Fpeople%2F274178%2Fmclaren-on-track-with-kers.html&amp;rft.pub=Racecar+Engineering&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-41"><span class="mw-cite-backlink"><b><a href="#cite_ref-41">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.autosport.com/news/report.php/id/72085">McLaren to work with Freescale on KERS</a> 12 November 2008</span></li>
+<li id="cite_note-42"><span class="mw-cite-backlink"><b><a href="#cite_ref-42">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.greencarcongress.com/2007/07/toyota-hybrid-r.html">"Toyota Hybrid Race Car Wins Tokachi 24-Hour Race; In-Wheel Motors and Supercapacitors"</a>. Green Car Congress. 17 July 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">17 September</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARegenerative+brake&amp;rft.btitle=Toyota+Hybrid+Race+Car+Wins+Tokachi+24-Hour+Race%3B+In-Wheel+Motors+and+Supercapacitors&amp;rft.date=2007-07-17&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.greencarcongress.com%2F2007%2F07%2Ftoyota-hybrid-r.html&amp;rft.pub=Green+Car+Congress&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-43"><span class="mw-cite-backlink"><b><a href="#cite_ref-43">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.bmw.com/com/en/insights/technology/efficient_dynamics/phase_2/technologies/brake_energy_regeneration.html">"BMW EfficientDynamics&#160;: Brake Energy Regeneration"</a>. <i>www.bmw.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-01-03</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARegenerative+brake&amp;rft.atitle=BMW+EfficientDynamics+%3A+Brake+Energy+Regeneration&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.bmw.com%2Fcom%2Fen%2Finsights%2Ftechnology%2Fefficient_dynamics%2Fphase_2%2Ftechnologies%2Fbrake_energy_regeneration.html&amp;rft.jtitle=www.bmw.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-44"><span class="mw-cite-backlink"><b><a href="#cite_ref-44">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.volkswagen.com.au/en/technology_and_service/technical-glossary/bluemotion-technologies.html">"BlueMotion Technology &lt; Technical glossary &lt; Volkswagen Technology &amp; Service | VW Australia"</a>. <i>www.volkswagen.com.au</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-01-03</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARegenerative+brake&amp;rft.atitle=BlueMotion+Technology+%3C+Technical+glossary+%3C+Volkswagen+Technology+%26+Service+%7C+VW+Australia&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.volkswagen.com.au%2Fen%2Ftechnology_and_service%2Ftechnical-glossary%2Fbluemotion-technologies.html&amp;rft.jtitle=www.volkswagen.com.au&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-45"><span class="mw-cite-backlink"><b><a href="#cite_ref-45">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.crash.net/MotoGP/News/142605/1/ktm_beats_f1_with_secret_kers_debut.html">"KTM beats F1 with secret KERS debut! | MotoGP News | February 2009"</a>. Crash.Net. 4 February 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">14 August</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARegenerative+brake&amp;rft.btitle=KTM+beats+F1+with+secret+KERS+debut%21+%26%23124%3B+MotoGP+News+%26%23124%3B+February+2009&amp;rft.date=2009-02-04&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.crash.net%2FMotoGP%2FNews%2F142605%2F1%2Fktm_beats_f1_with_secret_kers_debut.html&amp;rft.pub=Crash.Net&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-46"><span class="mw-cite-backlink"><b><a href="#cite_ref-46">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.epa.gov/otaq/technology/research/research-hhb.htm">"Hydraulic Hybrid Bicycle Research"</a>. <a href="/wiki/United_States_Environmental_Protection_Agency" title="United States Environmental Protection Agency">EPA</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARegenerative+brake&amp;rft.btitle=Hydraulic+Hybrid+Bicycle+Research&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.epa.gov%2Fotaq%2Ftechnology%2Fresearch%2Fresearch-hhb.htm&amp;rft.pub=EPA&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-47"><span class="mw-cite-backlink"><b><a href="#cite_ref-47">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://web.archive.org/web/20080625190107/http://www.lemans.org/sport/sport/reglements/ressources/auto_2008/cdc_reglement_lmp_fr_gb_2008.pdf">"ACO Technical Regulations 2008 for Prototype "LM"P1 and "LM"P2 classes, page 3"</a> <span style="font-size:85%;">(PDF)</span>. Automobile Club de l'Ouest (ACO). 20 December 2007. Archived from <a rel="nofollow" class="external text" href="http://www.lemans.org/sport/sport/reglements/ressources/auto_2008/cdc_reglement_lmp_fr_gb_2008.pdf">the original</a> <span style="font-size:85%;">(PDF)</span> on 25 June 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">20 January</span> 2008</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARegenerative+brake&amp;rft.btitle=ACO+Technical+Regulations+2008+for+Prototype+%22LM%22P1+and+%22LM%22P2+classes%2C+page+3&amp;rft.date=2007-12-20&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.lemans.org%2Fsport%2Fsport%2Freglements%2Fressources%2Fauto_2008%2Fcdc_reglement_lmp_fr_gb_2008.pdf&amp;rft.pub=Automobile+Club+de+l%27Ouest+%28ACO%29&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-48"><span class="mw-cite-backlink"><b><a href="#cite_ref-48">^</a></b></span> <span class="reference-text"><cite class="citation web">Sam Collins (13 September 2008). <a rel="nofollow" class="external text" href="http://www.racecar-engineering.com/news/people/273697/peugeot-reveal-hybrid-racer-for-2009.html">"Peugeot Sport Hybrid | People"</a>. Racecar Engineering<span class="reference-accessdate">. Retrieved <span class="nowrap">14 August</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARegenerative+brake&amp;rft.au=Sam+Collins&amp;rft.btitle=Peugeot+Sport+Hybrid+%26%23124%3B+People&amp;rft.date=2008-09-13&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.racecar-engineering.com%2Fnews%2Fpeople%2F273697%2Fpeugeot-reveal-hybrid-racer-for-2009.html&amp;rft.pub=Racecar+Engineering&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-49"><span class="mw-cite-backlink"><b><a href="#cite_ref-49">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.fueleconomy.gov/feg/evtech.shtml">fuel economy</a> website fueleconomy.gov</span></li>
+</ol>
+</div>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-50"><span class="mw-cite-backlink"><b><a href="#cite_ref-50">^</a></b></span> <span class="reference-text">The electric motor, <a href="/wiki/Power_electronics" title="Power electronics">power electronics</a> as well as the battery are supposed to show an efficiency which is equal to 90%, whereas the efficiency of power train is supposed to be equal to 80&#160;%. In this case, the overal efficiency would amount to 58.3&#160;%, which is very close to the value of 60% given by the <a href="/wiki/United_States_Department_of_Energy" title="United States Department of Energy">DoE</a>.</span></li>
+<li id="cite_note-51"><span class="mw-cite-backlink"><b><a href="#cite_ref-51">^</a></b></span> <span class="reference-text">The electric motor, and <a href="/wiki/Power_electronics" title="Power electronics">power electronics</a> are supposed to show an efficiency which is equal to 90%, leading to an efficiency of 81&#160;%. For recuperating such an amount, the car must know precisely when braking energy has to be recuperated, which is impossible. The recuperated amount will be lower, except maybe during braking cycles, which are known.</span></li>
+</ol>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Powertrain" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Powertrain" title="Template:Powertrain"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Powertrain" title="Template talk:Powertrain"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Powertrain&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Powertrain" style="font-size:114%"><a href="/wiki/Powertrain" title="Powertrain">Powertrain</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div><i>Part of the <a href="/wiki/Automobile" class="mw-redirect" title="Automobile">Automobile</a> series</i></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Automotive_engine" title="Automotive engine">Automotive engine</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Petrol_engine" title="Petrol engine">Petrol engine</a></li>
+<li><a href="/wiki/Diesel_engine" title="Diesel engine">Diesel engine</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Transmission_(mechanics)" title="Transmission (mechanics)">Transmission</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Automatic_transmission" title="Automatic transmission">Automatic transmission</a></li>
+<li><a href="/wiki/Clutch" title="Clutch">Clutch</a></li>
+<li><a href="/wiki/Continuously_variable_transmission" title="Continuously variable transmission">Continuously variable transmission</a></li>
+<li><a href="/wiki/Differential_(mechanical_device)" title="Differential (mechanical device)">Differential</a></li>
+<li><a href="/wiki/Direct-shift_gearbox" title="Direct-shift gearbox">Direct-shift gearbox</a></li>
+<li><a href="/wiki/Drive_shaft" title="Drive shaft">Drive shaft</a></li>
+<li><a href="/wiki/Dual-clutch_transmission" title="Dual-clutch transmission">Dual-clutch transmission</a></li>
+<li><a href="/wiki/Electrohydraulic_manual_transmission" title="Electrohydraulic manual transmission">Electrohydraulic manual transmission</a></li>
+<li><a href="/wiki/Electrorheological_clutch" title="Electrorheological clutch">Electrorheological clutch</a></li>
+<li><a href="/wiki/Epicyclic_gearing" title="Epicyclic gearing">Epicyclic gearing</a></li>
+<li><a href="/wiki/Fluid_coupling" title="Fluid coupling">Fluid coupling</a></li>
+<li><a href="/wiki/Friction_drive" title="Friction drive">Friction drive</a></li>
+<li><a href="/wiki/Gear_stick" title="Gear stick">Gear stick</a></li>
+<li><a href="/wiki/Giubo" title="Giubo">Giubo</a></li>
+<li><a href="/wiki/Limited-slip_differential" title="Limited-slip differential">Limited-slip differential</a></li>
+<li><a href="/wiki/Locking_differential" title="Locking differential">Locking differential</a></li>
+<li><a href="/wiki/Manual_transmission" title="Manual transmission">Manual transmission</a></li>
+<li><a href="/wiki/Manumatic" title="Manumatic">Manumatic</a></li>
+<li><a href="/wiki/Parking_pawl" title="Parking pawl">Parking pawl</a></li>
+<li><a href="/wiki/Park_by_wire" title="Park by wire">Park by wire</a></li>
+<li><a href="/wiki/Preselector_gearbox" title="Preselector gearbox">Preselector gearbox</a></li>
+<li><a href="/wiki/Semi-automatic_transmission" title="Semi-automatic transmission">Semi-automatic transmission</a></li>
+<li><a href="/wiki/Shift_by_wire" title="Shift by wire">Shift by wire</a></li>
+<li><a href="/wiki/Torque_converter" title="Torque converter">Torque converter</a></li>
+<li><a href="/wiki/Transaxle" title="Transaxle">Transaxle</a></li>
+<li><a href="/wiki/Transmission_control_unit" title="Transmission control unit">Transmission control unit</a></li>
+<li><a href="/wiki/Universal_joint" title="Universal joint">Universal joint</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Wheels and Tires</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Wheel_hub_assembly" title="Wheel hub assembly">Wheel hub assembly</a></li>
+<li><a href="/wiki/Wheel" title="Wheel">Wheel</a>
+<ul>
+<li><a href="/wiki/Rim_(wheel)" title="Rim (wheel)">Rim</a></li>
+<li><a href="/wiki/Alloy_wheel" title="Alloy wheel">Alloy wheel</a></li>
+<li><a href="/wiki/Hubcap" title="Hubcap">Hubcap</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Tire" title="Tire">Tire</a>
+<ul>
+<li><a href="/wiki/Tubeless_tire" title="Tubeless tire">Tubeless</a></li>
+<li><a href="/wiki/Radial_tire" title="Radial tire">Radial</a></li>
+<li><a href="/wiki/Rain_tire" class="mw-redirect" title="Rain tire">Rain</a></li>
+<li><a href="/wiki/Snow_tire" title="Snow tire">Snow</a></li>
+<li><a href="/wiki/Racing_slick" title="Racing slick">Racing slick</a></li>
+<li><a href="/wiki/Off-road_tire" title="Off-road tire">Off-road</a></li>
+<li><a href="/wiki/Run-flat_tire" title="Run-flat tire">Run-flat</a></li>
+<li><a href="/wiki/Spare_tire" title="Spare tire">Spare</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Hybrid</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Electric_motor" title="Electric motor">Electric motor</a></li>
+<li><a href="/wiki/Hybrid_vehicle_drivetrain" title="Hybrid vehicle drivetrain">Hybrid vehicle drivetrain</a></li>
+<li><a href="/wiki/Electric_generator" title="Electric generator">Electric generator</a></li>
+<li><a href="/wiki/Alternator" title="Alternator">Alternator</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow hlist" colspan="2" style="font-weight:bold;">
+<div>
+<ul>
+<li><img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" title="Portal" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28" /> <a href="/wiki/Portal:Cars" title="Portal:Cars">Portal</a></li>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <a href="/wiki/Category:Automobiles" title="Category:Automobiles">Category</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Railway_brakes" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Railway_brakes" title="Template:Railway brakes"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Railway_brakes" title="Template talk:Railway brakes"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Railway_brakes&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Railway_brakes" style="font-size:114%"><a href="/wiki/Railway_brake" title="Railway brake">Railway brakes</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Types</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Counter-pressure_brake" title="Counter-pressure brake">Counter-pressure brake</a></li>
+<li><a href="/wiki/Countersteam_brake" title="Countersteam brake">Countersteam brake</a></li>
+<li><a href="/wiki/Dynamic_braking_(locomotive)" title="Dynamic braking (locomotive)">Dynamic brake</a></li>
+<li><a href="/wiki/Eddy_current_brake" title="Eddy current brake">Eddy current brake</a></li>
+<li><a href="/wiki/Electromagnetic_brake" title="Electromagnetic brake">Electromagnetic brake</a></li>
+<li><a href="/wiki/Exhaust_brake" title="Exhaust brake">Exhaust brake</a></li>
+<li><a href="/wiki/Heberlein_brake" title="Heberlein brake">Heberlein brake</a></li>
+<li><a href="/wiki/Railroad_hand_brake" class="mw-redirect" title="Railroad hand brake">Hand brake</a></li>
+<li><a href="/wiki/Kunze-Knorr_brake" title="Kunze-Knorr brake">Kunze-Knorr brake</a></li>
+<li><a href="/wiki/Railway_air_brake" title="Railway air brake">Railway air brake</a></li>
+<li><a href="/wiki/Railway_disc_brake" class="mw-redirect" title="Railway disc brake">Railway disc brake</a></li>
+<li><strong class="selflink">Regenerative brake</strong></li>
+<li><a href="/wiki/Steam_brake" title="Steam brake">Steam brake</a></li>
+<li><a href="/wiki/Track_brake" title="Track brake">Track brake</a></li>
+<li><a href="/wiki/Vacuum_brake" title="Vacuum brake">Vacuum brake</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Manufacturers</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Faiveley_Transport" title="Faiveley Transport">Faiveley Transport</a></li>
+<li><a href="/wiki/Knorr-Bremse" title="Knorr-Bremse">Knorr-Bremse</a> (<a href="/wiki/New_York_Air_Brake" title="New York Air Brake">New York Air Brake</a>)</li>
+<li><a href="/wiki/Westinghouse_Air_Brake_Company" title="Westinghouse Air Brake Company">Westinghouse Air Brake Company</a></li>
+<li><a href="/wiki/Westinghouse_Brake_and_Signal_Company_Ltd" title="Westinghouse Brake and Signal Company Ltd">Westinghouse Brake and Signal Company Ltd</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Other aspects</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Brake_van" title="Brake van">Brake van</a></li>
+<li><a href="/wiki/Brake_tender" class="mw-redirect" title="Brake tender">Diesel brake tender</a></li>
+<li><a href="/wiki/Diesel_locomotive#Dynamic_braking" title="Diesel locomotive">Diesel electric locomotive dynamic braking</a></li>
+<li><a href="/wiki/Electronically_controlled_pneumatic_brakes" title="Electronically controlled pneumatic brakes">Electronically controlled pneumatic brakes</a></li>
+<li><a href="/wiki/Electro-pneumatic_brake_system_on_British_railway_trains" title="Electro-pneumatic brake system on British railway trains">Electro-pneumatic brake system on British railway trains</a></li>
+<li><a href="/wiki/Emergency_brake_(train)" title="Emergency brake (train)">Emergency brake (train)</a></li>
+<li><a href="/wiki/Retarder_(railroad)" title="Retarder (railroad)">Retarder</a></li>
+<li><a href="/wiki/Dowty_retarders" class="mw-redirect" title="Dowty retarders">Dowty retarders</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Related topics</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Air_brake_(road_vehicle)" title="Air brake (road vehicle)">Air brake</a></li>
+<li><a href="/wiki/Bicycle_brake" title="Bicycle brake">Bicycle brake</a></li>
+<li><a href="/wiki/Brake" title="Brake">Brake</a></li>
+<li><a href="/wiki/Dead_man%27s_switch" title="Dead man's switch">Dead man's switch</a></li>
+<li><a href="/wiki/Drum_brake" title="Drum brake">Drum brake</a></li>
+<li><a href="/wiki/Engine_braking" title="Engine braking">Engine braking</a></li>
+<li><a href="/wiki/Hydraulic_brake" title="Hydraulic brake">Hydraulic brake</a></li>
+<li><a href="/wiki/Pneumatics" title="Pneumatics">Pneumatics</a></li>
+<li><a href="/wiki/Railroad_Safety_Appliance_Act" title="Railroad Safety Appliance Act">Railroad Safety Appliance Act <small>(United States)</small></a></li>
+<li><a href="/wiki/Vehicle_brake" class="mw-redirect" title="Vehicle brake">Vehicle brake</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1178
+Cached time: 20170128093540
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.616 seconds
+Real time usage: 0.756 seconds
+Preprocessor visited node count: 3302/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 100432/2097152 bytes
+Template argument size: 3490/2097152 bytes
+Highest expansion depth: 14/40
+Expensive parser function count: 7/500
+Lua time usage: 0.310/10.000 seconds
+Lua memory usage: 7.64 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  581.874      1 -total
+ 49.47%  287.835      2 Template:Reflist
+ 25.29%  147.160     28 Template:Cite_web
+ 12.67%   73.744      5 Template:Fix
+ 11.18%   65.071      6 Template:Delink
+  8.69%   50.547      1 Template:Clarify
+  8.22%   47.812      1 Template:Fix-span
+  7.84%   45.642     11 Template:Category_handler
+  6.29%   36.601      2 Template:Failed_verification
+  5.99%   34.861      2 Template:Convert
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:305992-0!*!0!!en!4!*!math=5 and timestamp 20170128093539 and revision id 754615251
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Regenerative_brake&amp;oldid=754615251">https://en.wikipedia.org/w/index.php?title=Regenerative_brake&amp;oldid=754615251</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Dynamic_braking" title="Category:Dynamic braking">Dynamic braking</a></li><li><a href="/wiki/Category:Electric_vehicle_technologies" title="Category:Electric vehicle technologies">Electric vehicle technologies</a></li><li><a href="/wiki/Category:Energy_recovery" title="Category:Energy recovery">Energy recovery</a></li><li><a href="/wiki/Category:Railway_brakes" title="Category:Railway brakes">Railway brakes</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_Norwegian-language_sources_(no)" title="Category:CS1 Norwegian-language sources (no)">CS1 Norwegian-language sources (no)</a></li><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:CS1_errors:_external_links" title="Category:CS1 errors: external links">CS1 errors: external links</a></li><li><a href="/wiki/Category:Articles_with_German-language_external_links" title="Category:Articles with German-language external links">Articles with German-language external links</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_September_2012" title="Category:Use dmy dates from September 2012">Use dmy dates from September 2012</a></li><li><a href="/wiki/Category:Wikipedia_articles_needing_clarification_from_January_2012" title="Category:Wikipedia articles needing clarification from January 2012">Wikipedia articles needing clarification from January 2012</a></li><li><a href="/wiki/Category:All_articles_with_failed_verification" title="Category:All articles with failed verification">All articles with failed verification</a></li><li><a href="/wiki/Category:Articles_with_failed_verification_from_December_2016" title="Category:Articles with failed verification from December 2016">Articles with failed verification from December 2016</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_December_2016" title="Category:Articles with unsourced statements from December 2016">Articles with unsourced statements from December 2016</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_May_2009" title="Category:Articles with unsourced statements from May 2009">Articles with unsourced statements from May 2009</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_July_2011" title="Category:Articles with unsourced statements from July 2011">Articles with unsourced statements from July 2011</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Regenerative+brake" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Regenerative+brake" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Regenerative_brake"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Regenerative_brake"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Regenerative_brake" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Regenerative_brake&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Regenerative_brake&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Regenerative_brake" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Regenerative_brake" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Regenerative_brake&amp;oldid=754615251" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Regenerative_brake&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q580078" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Regenerative_brake&amp;id=754615251" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Regenerative+brake">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Regenerative+brake&amp;returnto=Regenerative+brake&amp;oldid=754615251&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Regenerative_brake&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/Heropwekkingremme" title="Heropwekkingremme – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Fre_regeneratiu" title="Fre regeneratiu – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Rekuperace" title="Rekuperace – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-cy"><a href="https://cy.wikipedia.org/wiki/Brecio_atgynhyrchiol" title="Brecio atgynhyrchiol – Welsh" lang="cy" hreflang="cy" class="interlanguage-link-target">Cymraeg</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Nutzbremse" title="Nutzbremse – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Rekuperatiivpidurdus" title="Rekuperatiivpidurdus – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Freno_regenerativo" title="Freno regenerativo – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Freinage_r%C3%A9g%C3%A9n%C3%A9ratif" title="Freinage régénératif – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%ED%9A%8C%EC%83%9D_%EC%A0%9C%EB%8F%99" title="회생 제동 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Regenerativno_ko%C4%8Denje" title="Regenerativno kočenje – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Freno_rigenerativo" title="Freno rigenerativo – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Energia-visszat%C3%A1pl%C3%A1l%C3%A1s" title="Energia-visszatáplálás – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Recuperatief_remmen" title="Recuperatief remmen – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E5%9B%9E%E7%94%9F%E3%83%96%E3%83%AC%E3%83%BC%E3%82%AD" title="回生ブレーキ – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Regenerativ_bremsing" title="Regenerativ bremsing – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk bokmål</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Hamowanie_rekuperacyjne" title="Hamowanie rekuperacyjne – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Frenagem_regenerativa" title="Frenagem regenerativa – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Fr%C3%A2nare_regenerativ%C4%83" title="Frânare regenerativă – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D0%BA%D1%83%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D0%B5_%D1%82%D0%BE%D1%80%D0%BC%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5" title="Рекуперативное торможение – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Rekuper%C3%A1cia_(dopravn%C3%BD_prostriedok)" title="Rekuperácia (dopravný prostriedok) – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Regenerativno_zaviranje" title="Regenerativno zaviranje – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Regenerativ_bromsning" title="Regenerativ bromsning – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tk"><a href="https://tk.wikipedia.org/wiki/Pe%C3%BDdaly_tormoz" title="Peýdaly tormoz – Turkmen" lang="tk" hreflang="tk" class="interlanguage-link-target">Türkmençe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%A0%D0%B5%D0%BA%D1%83%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%B5_%D0%B3%D0%B0%D0%BB%D1%8C%D0%BC%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F" title="Рекуперативне гальмування – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%86%8D%E7%94%9F%E5%88%B6%E5%8B%95" title="再生制動 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q580078#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 13 December 2016, at 16:22.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Regenerative_brake&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.616","walltime":"0.756","ppvisitednodes":{"value":3302,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":100432,"limit":2097152},"templateargumentsize":{"value":3490,"limit":2097152},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":7,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  581.874      1 -total"," 49.47%  287.835      2 Template:Reflist"," 25.29%  147.160     28 Template:Cite_web"," 12.67%   73.744      5 Template:Fix"," 11.18%   65.071      6 Template:Delink","  8.69%   50.547      1 Template:Clarify","  8.22%   47.812      1 Template:Fix-span","  7.84%   45.642     11 Template:Category_handler","  6.29%   36.601      2 Template:Failed_verification","  5.99%   34.861      2 Template:Convert"]},"scribunto":{"limitreport-timeusage":{"value":"0.310","limit":"10.000"},"limitreport-memusage":{"value":8009288,"limit":52428800}},"cachereport":{"origin":"mw1178","timestamp":"20170128093540","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":69,"wgHostname":"mw1178"});});</script>
+	</body>
+</html>

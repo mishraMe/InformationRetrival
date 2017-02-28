@@ -1,0 +1,591 @@
+url : https://en.wikipedia.org/wiki/Power-system_protection
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Power-system protection - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Power-system_protection","wgTitle":"Power-system protection","wgCurRevisionId":763075636,"wgRevisionId":763075636,"wgArticleId":4242000,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with unsourced statements","Articles with unsourced statements from July 2016","Power engineering"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Power-system_protection","wgRelevantArticleId":4242000,"wgRequestId":"WJFu8QpAIDUAAFtYI2wAAABI","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q1756067","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.9"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Power-system_protection"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Power-system_protection&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Power-system_protection&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Power-system_protection"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Power-system_protection rootpage-Power-system_protection skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Power-system protection</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><p><b>Power-system protection</b> is a branch of electrical <a href="/wiki/Power_engineering" title="Power engineering">power engineering</a> that deals with the protection of electrical power systems from <a href="/wiki/Fault_(power_engineering)" title="Fault (power engineering)">faults</a> through the isolation of faulted parts from the rest of the <a href="/wiki/Grid_(electricity)" class="mw-redirect" title="Grid (electricity)">electrical network</a>. The objective of a protection scheme is to keep the power system stable by isolating only the components that are under fault, whilst leaving as much of the network as possible still in operation. Thus, protection schemes must apply with very <a href="https://en.wiktionary.org/wiki/pragmatic" class="extiw" title="wikt:pragmatic">pragmatic</a> and pessimistic approach to clearing system faults. The devices that are used to protect the power systems from faults are called <b>protection devices</b>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Components"><span class="tocnumber">1</span> <span class="toctext">Components</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Protective_device"><span class="tocnumber">2</span> <span class="toctext">Protective device</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Types_of_protection"><span class="tocnumber">3</span> <span class="toctext">Types of protection</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#High-voltage_transmission_network"><span class="tocnumber">3.1</span> <span class="toctext">High-voltage transmission network</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Generator_sets"><span class="tocnumber">3.2</span> <span class="toctext">Generator sets</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Overload_and_back-up_for_distance_.28overcurrent.29"><span class="tocnumber">3.3</span> <span class="toctext">Overload and back-up for distance (overcurrent)</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Earth_fault_.28.22ground_fault.22_in_the_United_States.29"><span class="tocnumber">3.4</span> <span class="toctext">Earth fault ("ground fault" in the United States)</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Distance_.28impedance_relay.29"><span class="tocnumber">3.5</span> <span class="toctext">Distance (impedance relay)</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Back-up"><span class="tocnumber">3.6</span> <span class="toctext">Back-up</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Low-voltage_networks"><span class="tocnumber">3.7</span> <span class="toctext">Low-voltage networks</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#Coordination"><span class="tocnumber">4</span> <span class="toctext">Coordination</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Disturbance-monitoring_equipment"><span class="tocnumber">5</span> <span class="toctext">Disturbance-monitoring equipment</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Performance_measures"><span class="tocnumber">6</span> <span class="toctext">Performance measures</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#See_also"><span class="tocnumber">7</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#Notes"><span class="tocnumber">8</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#References"><span class="tocnumber">9</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Components">Components</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Power-system_protection&amp;action=edit&amp;section=1" title="Edit section: Components">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Protection systems usually comprise five components:</p>
+<ul>
+<li><a href="/wiki/Transformer#Current_Transformers" title="Transformer">Current</a> and <a href="/wiki/Transformer#Voltage_Transformers" title="Transformer">voltage transformers</a> to step down the high voltages and currents of the electrical power system to convenient levels for the relays to deal with</li>
+<li><a href="/wiki/Protective_relay" title="Protective relay">Protective relays</a> to sense the fault and initiate a trip, or disconnection, order;</li>
+<li><a href="/wiki/Circuit_breaker" title="Circuit breaker">Circuit breakers</a> to open/close the system based on relay and autorecloser commands;</li>
+<li><a href="/wiki/Battery_(electricity)" title="Battery (electricity)">Batteries</a> to provide power in case of power disconnection in the system.</li>
+<li>Communication channels to allow analysis of current and voltage at remote terminals of a line and to allow remote tripping of equipment.</li>
+</ul>
+<p>For parts of a distribution system, <a href="/wiki/Fuse_(electrical)" title="Fuse (electrical)">fuses</a> are capable of both sensing and disconnecting <a href="/wiki/Electrical_faults" class="mw-redirect" title="Electrical faults">faults</a>.</p>
+<p>Failures may occur in each part, such as insulation failure, fallen or broken transmission lines, incorrect operation of circuit breakers, short circuits and open circuits. Protection devices are installed with the aims of protection of assets, and ensure continued supply of energy.</p>
+<p>Switchgear is a combination of electrical disconnect switches, fuses or circuit breakers used to control, protect and isolate electrical equipment. Switches are safe to open under normal load current, while protective devices are safe to open under fault current. <sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></p>
+<h2><span class="mw-headline" id="Protective_device">Protective device</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Power-system_protection&amp;action=edit&amp;section=2" title="Edit section: Protective device">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Protective_relay.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Protective_relay.jpg/220px-Protective_relay.jpg" width="220" height="293" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Protective_relay.jpg/330px-Protective_relay.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Protective_relay.jpg/440px-Protective_relay.jpg 2x" data-file-width="1087" data-file-height="1450" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Protective_relay.jpg" class="internal" title="Enlarge"></a></div>
+A digital (numeric) multifunction protective relay for distribution networks. A single such device can replace many single-function electromechanical relays, and provides self-testing and communication functions.</div>
+</div>
+</div>
+<ul>
+<li><a href="/wiki/Protective_relay" title="Protective relay">Protective relays</a> control the tripping of the circuit breakers surrounding the faulted part of the network</li>
+<li>Automatic operation, such as auto-re-closing or system restart</li>
+<li>Monitoring equipment which collects data on the system for post event analysis</li>
+</ul>
+<p>While the operating quality of these devices, and especially of protective relays, is always critical, different strategies are considered for protecting the different parts of the system. Very important equipment may have completely redundant and independent protective systems, while a minor branch distribution line may have very simple low-cost protection.</p>
+<p>There are three parts of protective devices:</p>
+<dl>
+<dd>
+<ul>
+<li><a href="/wiki/Instrument_transformer" title="Instrument transformer">Instrument transformer</a>: current or potential (CT or VT)</li>
+<li><a href="/wiki/Relay" title="Relay">Relay</a></li>
+<li><a href="/wiki/Circuit_breaker" title="Circuit breaker">Circuit breaker</a></li>
+</ul>
+</dd>
+</dl>
+<p>Advantages of protected devices with these three basic components include safety, economy, and accuracy.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></p>
+<dl>
+<dd>
+<ul>
+<li>Safety: Instrument transformers create electrical isolation from the power system, and thus establishing a safer environment for personnel working with the relays.</li>
+<li>Economy: Relays are able to be simpler, smaller, and cheaper given lower-level relay inputs.</li>
+<li>Accuracy: Power system voltages and currents are accurately reproduced by instrument transformers over large operating ranges.</li>
+</ul>
+</dd>
+</dl>
+<h2><span class="mw-headline" id="Types_of_protection">Types of protection</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Power-system_protection&amp;action=edit&amp;section=3" title="Edit section: Types of protection">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="High-voltage_transmission_network">High-voltage transmission network</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Power-system_protection&amp;action=edit&amp;section=4" title="Edit section: High-voltage transmission network">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Protection on the transmission and distribution serves two functions: Protection of plant and protection of the public (including employees). At a basic level, protection looks to disconnect equipment which experience an overload or a short to earth. Some items in substations such as transformers might require additional protection based on temperature or gas pressure, among others.</p>
+<h3><span class="mw-headline" id="Generator_sets">Generator sets</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Power-system_protection&amp;action=edit&amp;section=5" title="Edit section: Generator sets">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In a power plant, the protective relays are intended to prevent damage to <a href="/wiki/Alternator" title="Alternator">alternators</a> or to the <a href="/wiki/Transformer" title="Transformer">transformers</a> in case of abnormal conditions of operation, due to internal failures, as well as insulating failures or regulation malfunctions. Such failures are unusual, so the protective relays have to operate very rarely. If a protective relay fails to detect a fault, the resulting damage to the alternator or to the transformer might require costly equipment repairs or replacement, as well as income loss from the inability to produce and sell energy.</p>
+<h3><span class="mw-headline" id="Overload_and_back-up_for_distance_.28overcurrent.29">Overload and back-up for distance (overcurrent)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Power-system_protection&amp;action=edit&amp;section=6" title="Edit section: Overload and back-up for distance (overcurrent)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Overload protection requires a current transformer which simply measures the current in a circuit. There are two types of overload protection: instantaneous overcurrent and time overcurrent (TOC). Instantaneous overcurrent requires that the current exceeds a predetermined level for the circuit breaker to operate. TOC protection operates based on a current vs time curve. Based on this curve if the measured current exceeds a given level for the preset amount of time, the circuit breaker or fuse will operate.</p>
+<h3><span class="mw-headline" id="Earth_fault_.28.22ground_fault.22_in_the_United_States.29">Earth fault ("ground fault" in the United States)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Power-system_protection&amp;action=edit&amp;section=7" title="Edit section: Earth fault (&quot;ground fault&quot; in the United States)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Earth fault protection again requires current transformers and senses an imbalance in a three-phase circuit. Normally the three phase currents are in balance, i.e. roughly equal in magnitude. If one or two phases become connected to earth via a low impedance path, their magnitudes will increase dramatically, as will current imbalance. If this imbalance exceeds a pre-determined value, a circuit breaker should operate. Restricted earth fault protection is a type of earth fault protection which looks for earth fault between two sets current transformers<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> (hence restricted to that zone).</p>
+<h3><span class="mw-headline" id="Distance_.28impedance_relay.29">Distance (impedance relay)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Power-system_protection&amp;action=edit&amp;section=8" title="Edit section: Distance (impedance relay)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Distance protection detects both voltage and current. A fault on a circuit will generally create a sag in the voltage level. If the ratio of voltage to current measured at the relay terminals, which equates to an impedance, lands within a predetermined level the circuit breaker will operate. This is useful for reasonable length lines, lines longer than 10 miles, because its operating characteristics are based on the line characteristics. This means that when a fault appears on the line the impedance setting in the relay is compared to the apparent impedance of the line from the relay terminals to the fault. If the relay setting is determined to be below the apparent impedance it is determined that the fault is within the zone of protection. When the transmission line length is too short, less than 10 miles, distance protection becomes more difficult to coordinate. In these instances the best choice of protection is current differential protection<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="Your explanation here (July 2016)">citation needed</span></a></i>]</sup>.</p>
+<h3><span class="mw-headline" id="Back-up">Back-up</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Power-system_protection&amp;action=edit&amp;section=9" title="Edit section: Back-up">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The objective of protection is to remove only the affected portion of plant and nothing else. A circuit breaker or protection relay may fail to operate. In important systems, a failure of primary protection will usually result in the operation of back-up protection. Remote back-up protection will generally remove both the affected and unaffected items of plant to clear the fault. Local back-up protection will remove the affected items of the plant to clear the fault.</p>
+<h3><span class="mw-headline" id="Low-voltage_networks">Low-voltage networks</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Power-system_protection&amp;action=edit&amp;section=10" title="Edit section: Low-voltage networks">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The low-voltage network generally relies upon fuses or low-voltage circuit breakers to remove both overload and earth faults.</p>
+<h2><span class="mw-headline" id="Coordination">Coordination</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Power-system_protection&amp;action=edit&amp;section=11" title="Edit section: Coordination">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Protective device coordination is the process of determining the "best fit" timing of current interruption when abnormal electrical conditions occur. The goal is to minimize an outage to the greatest extent possible. Historically, protective device coordination was done on translucent log–log paper. Modern methods normally include detailed computer based analysis and reporting.</p>
+<p>Protection coordination is also handled through dividing the power system into protective zones. If a fault were to occur in a given zone, necessary actions will be executed to isolate that zone from the entire system. Zone definitions account for <a href="/wiki/Electric_generator" title="Electric generator">generators</a>, buses, <a href="/wiki/Transformer" title="Transformer">transformers</a>, <a href="/wiki/Transmission_line" title="Transmission line">transmission and distribution lines</a>, and <a href="/wiki/Electric_motor" title="Electric motor">motors</a>. Additionally, zones possess the following features: zones overlap, overlap regions denote circuit breakers, and all circuit breakers in a given zone with a fault will open in order to isolate the fault. Overlapped regions are created by two sets of instrument transformers and relays for each circuit breaker. They are designed for redundancy to eliminate unprotected areas; however, overlapped regions are devised to remain as small as possible such that when a fault occurs in an overlap region and the two zones which encompass the fault are isolated, the sector of the power system which is lost from service is still small despite two zones being isolated.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></p>
+<h2><span class="mw-headline" id="Disturbance-monitoring_equipment">Disturbance-monitoring equipment</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Power-system_protection&amp;action=edit&amp;section=12" title="Edit section: Disturbance-monitoring equipment">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Disturbance-monitoring equipment (DME) monitors and records system data pertaining to a <a href="/wiki/Fault_(power_engineering)" title="Fault (power engineering)">fault</a>. DME accomplish three main purposes:</p>
+<ol>
+<li>model validation,</li>
+<li>disturbance investigation, and</li>
+<li>assessment of system protection performance.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></li>
+</ol>
+<p>DME devices include:<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></p>
+<ul>
+<li>Sequence of event recorders, which record equipment response to the event</li>
+<li>Fault recorders, which record actual waveform data of the system primary voltages and currents.</li>
+<li>Dynamic disturbance recorders (DDRs), which record incidents that portray power system behavior during dynamic events such as low frequency (0.1&#160;Hz – 3&#160;Hz) oscillations and abnormal frequency or voltage excursions</li>
+</ul>
+<h2><span class="mw-headline" id="Performance_measures">Performance measures</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Power-system_protection&amp;action=edit&amp;section=13" title="Edit section: Performance measures">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Protection engineers define dependability as the tendency of the protection system to operate correctly for in-zone faults. They define security as the tendency not to operate for out-of-zone faults. Both dependability and security are reliability issues. Fault tree analysis is one tool with which a protection engineer can compare the relative reliability of proposed protection schemes. Quantifying protection reliability is important for making the best decisions on improving a protection system, managing dependability versus security tradeoffs, and getting the best results for the least money. A quantitative understanding is essential in the competitive utility industry. <sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></p>
+<p>Performance and design criteria for system-protection devices include reliability, selectivity, speed, cost, and simplicity.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></p>
+<ul>
+<li>Reliability: Devices must function consistently when fault conditions occur, regardless of possibly being idle for months or years. Without this reliability, systems may result in high costly damages.</li>
+<li>Selectivity: Devices must avoid unwarranted, false trips.</li>
+<li>Speed: Devices must function quickly to reduce equipment damage and fault duration, with only very precise intentional time delays.</li>
+<li>Economy: Devices must provide maximum protection at minimum cost.</li>
+<li>Simplicity: Devices must minimize protection circuitry and equipment.</li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Power-system_protection&amp;action=edit&amp;section=14" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Fault_current_limiter" title="Fault current limiter">Fault current limiter</a></li>
+<li><a href="/wiki/Network_analyzer_(AC_power)" title="Network analyzer (AC power)">Network analyzer (AC power)</a></li>
+<li><a href="/wiki/Prospective_short_circuit_current" title="Prospective short circuit current">Prospective short circuit current</a></li>
+</ul>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Power-system_protection&amp;action=edit&amp;section=15" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Alexandra Von Meier (2013). Electrical Engineer 137A: Electric Power Systems. Lecture 14:Introduction to Protection Systems, Slide 3.</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Alexandra Von Meier (2013). Electrical Engineer 137A: Electric Power Systems. Lecture 14:Introduction to Protection Systems, Slide 12.</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Glover J. D., Sarma M. S., Overbye T. J. (2010) Power System and Analysis 5th Edition. Cengage Learning. Pg 525.</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://myelectrical.com/notes/entryid/150/restricted-earth-fault-protection">"Restricted Earth Fault Protection"</a>. myElectrical.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2 July</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APower-system+protection&amp;rft.btitle=Restricted+Earth+Fault+Protection&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fmyelectrical.com%2Fnotes%2Fentryid%2F150%2Frestricted-earth-fault-protection&amp;rft.pub=myElectrical.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Glover J. D., Sarma M. S., Overbye T. J. (2010) Power System and Analysis 5th Edition. Cengage Learning. Pg 548-549.</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.nyiso.com/public/webdocs/documents/manuals/operations/System_Protection_Manual.pdf">"System Protection Manual"</a> <span style="font-size:85%;">(PDF)</span>. <a href="/wiki/New_York_energy_law" title="New York energy law">New York Independent System Operator</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2011-12-31</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APower-system+protection&amp;rft.btitle=System+Protection+Manual&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.nyiso.com%2Fpublic%2Fwebdocs%2Fdocuments%2Fmanuals%2Foperations%2FSystem_Protection_Manual.pdf&amp;rft.pub=New+York+Independent+System+Operator&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.nerc.com/files/Glossary_12Feb08.pdf">"Glossary of Terms Used in Reliability Standards"</a> <span style="font-size:85%;">(PDF)</span>. <a href="/wiki/North_American_Electric_Reliability_Corporation" title="North American Electric Reliability Corporation">North American Electric Reliability Corporation</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2011-12-31</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APower-system+protection&amp;rft.btitle=Glossary+of+Terms+Used+in+Reliability+Standards&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.nerc.com%2Ffiles%2FGlossary_12Feb08.pdf&amp;rft.pub=North+American+Electric+Reliability+Corporation&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">E. O. Schweitzer, J. J Kumm, M. S. Weber, and D. Hou, “Philosophies for Testing Protective Relays,” 20th Annual Western Protective Relay Conference, Spokane, WA. Oct. 19-21, 1993.</span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">J.J. Kumm. E.O. Schweitzer, and D. Hou, “Assessing the Effectiveness of Self-Tests and Other Monitoring Means in Protective Relays,” 21st Annual Western Protective Relay Conference, Spokane, WA. Oct. 18-20, 1994.</span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">Glover J. D., Sarma M. S., Overbye T. J. (2010) Power System and Analysis 5th Edition. Cengage Learning. Pg 526.</span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Power-system_protection&amp;action=edit&amp;section=16" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="refbegin" style="">
+<ul>
+<li><cite class="citation web">Mason, C. Russell. <a rel="nofollow" class="external text" href="http://www.geindustrial.com/pm/notes/artsci/artsci.pdf">"The Art and Science of Protective Relaying"</a> <span style="font-size:85%;">(PDF)</span>. <a href="/wiki/General_Electric" title="General Electric">General Electric</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2009-01-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APower-system+protection&amp;rft.aufirst=C.+Russell&amp;rft.aulast=Mason&amp;rft.btitle=The+Art+and+Science+of+Protective+Relaying&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.geindustrial.com%2Fpm%2Fnotes%2Fartsci%2Fartsci.pdf&amp;rft.pub=General+Electric&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20080113071902/http://www.usace.army.mil/publications/armytm/tm5-811-14/">"Coordinated Power Systems Protection"</a>. Army Corps of Engineers. 1991-02-25. Archived from <a rel="nofollow" class="external text" href="http://www.usace.army.mil/publications/armytm/tm5-811-14/">the original</a> on 2008-01-13<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-01-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APower-system+protection&amp;rft.btitle=Coordinated+Power+Systems+Protection&amp;rft.date=1991-02-25&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.usace.army.mil%2Fpublications%2Farmytm%2Ftm5-811-14%2F&amp;rft.pub=Army+Corps+of+Engineers&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.littelfuse.com/protection-relays/introduction/solving-electrical-problems.html">"How Do Protection Relays Work?"</a>. <a href="/wiki/Littelfuse" title="Littelfuse">Littelfuse</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2011-12-31</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APower-system+protection&amp;rft.btitle=How+Do+Protection+Relays+Work%3F&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.littelfuse.com%2Fprotection-relays%2Fintroduction%2Fsolving-electrical-problems.html&amp;rft.pub=Littelfuse&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.roseindia.net/technology/scada/what-is-SCADA.shtml">"What is SCADA?"</a>. Rose India Technologies<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-12-31</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APower-system+protection&amp;rft.btitle=What+is+SCADA%3F&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.roseindia.net%2Ftechnology%2Fscada%2Fwhat-is-SCADA.shtml&amp;rft.pub=Rose+India+Technologies&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.ece.uidaho.edu/ee/classes/ECE526S05/text/Ch1.PDF">"Introduction to Practical Power System Protection"</a> <span style="font-size:85%;">(PDF)</span>. <a href="/wiki/University_of_Idaho" title="University of Idaho">University of Idaho</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2011-12-31</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APower-system+protection&amp;rft.btitle=Introduction+to+Practical+Power+System+Protection&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.ece.uidaho.edu%2Fee%2Fclasses%2FECE526S05%2Ftext%2FCh1.PDF&amp;rft.pub=University+of+Idaho&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li>Abdelmoumene Abdelkader, and Hamid Bentarzi. "A review on protective relays' developments and trends." Journal of Energy in Southern Africa 25.2 (2014): 91-95. <a rel="nofollow" class="external free" href="http://www.scielo.org.za/pdf/jesa/v25n2/10.pdf">http://www.scielo.org.za/pdf/jesa/v25n2/10.pdf</a></li>
+<li><a rel="nofollow" class="external free" href="http://www.scielo.org.za/scielo.php?pid=S1021-447X2014000200010&amp;script=sci_arttext&amp;tlng=pt">http://www.scielo.org.za/scielo.php?pid=S1021-447X2014000200010&amp;script=sci_arttext&amp;tlng=pt</a></li>
+</ul>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Electricity_delivery" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Electricity_delivery" title="Template:Electricity delivery"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Electricity_delivery" title="Template talk:Electricity delivery"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Electricity_delivery&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Electricity_delivery" style="font-size:114%"><a href="/wiki/Electricity_delivery" title="Electricity delivery">Electricity delivery</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Concepts</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Availability_factor" title="Availability factor">Availability factor</a></li>
+<li><a href="/wiki/Automatic_generation_control" class="mw-redirect" title="Automatic generation control">Automatic generation control</a></li>
+<li><a href="/wiki/Base_load" title="Base load">Base load</a></li>
+<li><a href="/wiki/Black_start" title="Black start">Black start</a></li>
+<li><a href="/wiki/Capacity_factor" title="Capacity factor">Capacity factor</a></li>
+<li><a href="/wiki/Demand_factor" title="Demand factor">Demand factor</a></li>
+<li><a href="/wiki/Droop_speed_control" title="Droop speed control">Droop speed control</a></li>
+<li><a href="/wiki/Energy_demand_management" title="Energy demand management">Demand management</a></li>
+<li><a href="/wiki/Energy_returned_on_energy_invested" title="Energy returned on energy invested">EROEI</a></li>
+<li><a href="/wiki/Fault_(power_engineering)" title="Fault (power engineering)">Fault</a></li>
+<li><a href="/wiki/Grid_energy_storage" title="Grid energy storage">Grid storage</a></li>
+<li><a href="/wiki/Intermittent_energy_source" title="Intermittent energy source">Intermittency</a></li>
+<li><a href="/wiki/Load_factor_(electrical)" title="Load factor (electrical)">Load factor</a></li>
+<li><a href="/wiki/Load_following_power_plant" title="Load following power plant">Load following</a></li>
+<li><a href="/wiki/Nameplate_capacity" title="Nameplate capacity">Nameplate capacity</a></li>
+<li><a href="/wiki/Peak_demand" title="Peak demand">Peak demand</a></li>
+<li><a href="/wiki/Electric_power_quality" title="Electric power quality">Power quality</a></li>
+<li><a href="/wiki/Power-flow_study" title="Power-flow study">Power-flow study</a></li>
+<li><a href="/wiki/Repowering" title="Repowering">Repowering</a></li>
+<li><a href="/wiki/Variable_renewable_energy" title="Variable renewable energy">Variability</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Sources</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;width:7em;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Non-renewable_energy" class="mw-redirect" title="Non-renewable energy">Nonrenewable</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Coal" title="Coal">Coal</a></li>
+<li><a href="/wiki/Fossil_fuel_power_station" title="Fossil fuel power station">Fossil fuel power station</a></li>
+<li><a href="/wiki/Natural_gas" title="Natural gas">Natural gas</a></li>
+<li><a href="/wiki/Petroleum" title="Petroleum">Petroleum</a></li>
+<li><a href="/wiki/Nuclear_power" title="Nuclear power">Nuclear</a></li>
+<li><a href="/wiki/Oil_shale" title="Oil shale">Oil shale</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;width:7em;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Renewable_energy" title="Renewable energy">Renewable</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Biomass" title="Biomass">Biomass</a></li>
+<li><a href="/wiki/Biofuel" title="Biofuel">Biofuel</a></li>
+<li><a href="/wiki/Geothermal_power" title="Geothermal power">Geothermal</a></li>
+<li><a href="/wiki/Hydroelectricity" title="Hydroelectricity">Hydro</a></li>
+<li><a href="/wiki/Marine_energy" title="Marine energy">Marine</a>
+<ul>
+<li><a href="/wiki/Marine_current_power" title="Marine current power">Current</a></li>
+<li><a href="/wiki/Osmotic_power" title="Osmotic power">Osmotic</a></li>
+<li><a href="/wiki/Ocean_thermal_energy" class="mw-redirect" title="Ocean thermal energy">Thermal</a></li>
+<li><a href="/wiki/Tidal_power" title="Tidal power">Tidal</a></li>
+<li><a href="/wiki/Wave_power" title="Wave power">Wave</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Solar_power" title="Solar power">Solar</a></li>
+<li><a href="/wiki/Wind_power" title="Wind power">Wind</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Category:Power_station_technology" title="Category:Power station technology">Generation</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/AC_power" title="AC power">AC power</a></li>
+<li><a href="/wiki/Cogeneration" title="Cogeneration">Cogeneration</a></li>
+<li><a href="/wiki/Combined_cycle" title="Combined cycle">Combined cycle</a></li>
+<li><a href="/wiki/Cooling_tower" title="Cooling tower">Cooling tower</a></li>
+<li><a href="/wiki/Induction_generator" title="Induction generator">Induction generator</a></li>
+<li><a href="/wiki/Micro_combined_heat_and_power" title="Micro combined heat and power">Micro CHP</a></li>
+<li><a href="/wiki/Microgeneration" title="Microgeneration">Microgeneration</a></li>
+<li><a href="/wiki/Rankine_cycle" title="Rankine cycle">Rankine cycle</a></li>
+<li><a href="/wiki/Three-phase_electric_power" title="Three-phase electric power">Three-phase electric power</a></li>
+<li><a href="/wiki/Virtual_power_plant" title="Virtual power plant">Virtual power plant</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">
+<div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Electric_power_transmission" title="Electric power transmission">Transmission</a><br />
+and <a href="/wiki/Electric_power_distribution" title="Electric power distribution">distribution</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Power_outage" title="Power outage">Blackout</a> (<a href="/wiki/Rolling_blackout" title="Rolling blackout">Rolling blackout</a>)</li>
+<li><a href="/wiki/Brownout_(electricity)" title="Brownout (electricity)">Brownout</a></li>
+<li><a href="/wiki/Demand_response" title="Demand response">Demand response</a></li>
+<li><a href="/wiki/Distributed_generation" title="Distributed generation">Distributed generation</a></li>
+<li><a href="/wiki/Dynamic_demand_(electric_power)" title="Dynamic demand (electric power)">Dynamic demand</a></li>
+<li><a href="/wiki/Electric_power_distribution" title="Electric power distribution">Electric power distribution</a></li>
+<li><a href="/wiki/Electric_power_system" title="Electric power system">Electric power system</a></li>
+<li><a href="/wiki/Electric_power_transmission" title="Electric power transmission">Electric power transmission</a></li>
+<li><a href="/wiki/Electrical_grid" title="Electrical grid">Electrical grid</a></li>
+<li><a href="/wiki/High-voltage_direct_current" title="High-voltage direct current">High-voltage direct current</a></li>
+<li><a href="/wiki/Load_management" title="Load management">Load management</a></li>
+<li><a href="/wiki/Pumped-storage_hydroelectricity" title="Pumped-storage hydroelectricity">Pumped hydro</a></li>
+<li><a href="/wiki/Power_station" title="Power station">Power station</a></li>
+<li><a href="/wiki/Power_storage" class="mw-redirect" title="Power storage">Power storage</a></li>
+<li><a href="/wiki/Smart_grid" title="Smart grid">Smart grid</a></li>
+<li><a href="/wiki/Electrical_substation" title="Electrical substation">Substation</a></li>
+<li><a href="/wiki/Super_grid" title="Super grid">Super grid</a></li>
+<li><a href="/wiki/Transformer" title="Transformer">Transformer</a></li>
+<li><a href="/wiki/Transmission_system_operator" title="Transmission system operator">Transmission system operator</a> (TSO)</li>
+<li><a href="/wiki/Transmission_tower" title="Transmission tower">Transmission tower</a></li>
+<li><a href="/wiki/Utility_pole" title="Utility pole">Utility pole</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">
+<div style="padding:0.1em 0;line-height:1.2em;">Protective<br />
+devices</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Arc-fault_circuit_interrupter" title="Arc-fault circuit interrupter">Arc-fault circuit interrupter</a></li>
+<li><a href="/wiki/Earth_leakage_circuit_breaker" title="Earth leakage circuit breaker">Earth leakage circuit breaker</a></li>
+<li><a href="/wiki/Residual-current_device" title="Residual-current device">Residual-current device</a> (GFI)</li>
+<li><strong class="selflink">Power-system protection</strong></li>
+<li><a href="/wiki/Protective_relay" title="Protective relay">Protective relay</a></li>
+<li><a href="/wiki/Digital_protective_relay" title="Digital protective relay">Digital protective relay</a></li>
+<li><a href="/wiki/Sulfur_hexafluoride_circuit_breaker" title="Sulfur hexafluoride circuit breaker">Sulfur hexafluoride circuit breaker</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">
+<div style="padding:0.1em 0;line-height:1.2em;">Economics<br />
+and policies</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Carbon_offset" title="Carbon offset">Carbon offset</a></li>
+<li><a href="/wiki/Cost_of_electricity_by_source" title="Cost of electricity by source">Cost of electricity by source</a></li>
+<li><a href="/wiki/Ecotax" title="Ecotax">Ecotax</a></li>
+<li><a href="/wiki/Energy_subsidies" title="Energy subsidies">Energy subsidies</a></li>
+<li><a href="/wiki/Feed-in_tariff" title="Feed-in tariff">Feed-in tariff</a></li>
+<li><a href="/wiki/Fossil-fuel_phase-out" class="mw-redirect" title="Fossil-fuel phase-out">Fossil-fuel phase-out</a></li>
+<li><a href="/wiki/Net_metering" title="Net metering">Net metering</a></li>
+<li><a href="/wiki/Pigovian_tax" title="Pigovian tax">Pigovian tax</a></li>
+<li><a href="/wiki/Renewable_Energy_Certificates" class="mw-redirect" title="Renewable Energy Certificates">Renewable Energy Certificates</a></li>
+<li><a href="/wiki/Renewable_energy_payments" class="mw-redirect" title="Renewable energy payments">Renewable energy payments</a></li>
+<li><a href="/wiki/Renewable_energy_policy" class="mw-redirect" title="Renewable energy policy">Renewable energy policy</a></li>
+<li><a href="/wiki/Spark_spread" title="Spark spread">Spark spread</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<dl>
+<dt>Categories</dt>
+<dd><a href="/wiki/Category:Electric_power_distribution" title="Category:Electric power distribution">Electric power distribution</a></dd>
+<dd><a href="/wiki/Category:Electricity_economics" title="Category:Electricity economics">Electricity economics</a></dd>
+<dd><a href="/wiki/Category:Power_station_technology" title="Category:Power station technology">Power station technology</a></dd>
+<dt>Portals</dt>
+<dd><a href="/wiki/Portal:Energy" title="Portal:Energy">Energy</a></dd>
+<dd><a href="/wiki/Portal:Renewable_energy" title="Portal:Renewable energy">Renewable energy</a></dd>
+<dd><a href="/wiki/Portal:Sustainable_development" title="Portal:Sustainable development">Sustainable development</a></dd>
+</dl>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1252
+Cached time: 20170201051457
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.128 seconds
+Real time usage: 0.164 seconds
+Preprocessor visited node count: 1015/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 38028/2097152 bytes
+Template argument size: 1188/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 1/500
+Lua time usage: 0.053/10.000 seconds
+Lua memory usage: 3.06 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  122.801      1 -total
+ 38.71%   47.533      8 Template:Cite_web
+ 34.92%   42.882      1 Template:Citation_needed
+ 32.41%   39.798      1 Template:Reflist
+ 25.67%   31.526      1 Template:Fix
+ 17.38%   21.340      2 Template:Navbox
+ 15.56%   19.103      1 Template:Electricity_delivery
+ 15.17%   18.631      2 Template:Category_handler
+  8.74%   10.730      1 Template:Delink
+  6.70%    8.224      1 Template:Navbox_subgroup
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:4242000-0!*!0!!en!4!* and timestamp 20170201051457 and revision id 763075636
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Power-system_protection&amp;oldid=763075636">https://en.wikipedia.org/w/index.php?title=Power-system_protection&amp;oldid=763075636</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Power_engineering" title="Category:Power engineering">Power engineering</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_July_2016" title="Category:Articles with unsourced statements from July 2016">Articles with unsourced statements from July 2016</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Power-system+protection" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Power-system+protection" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Power-system_protection"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Power-system_protection"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Power-system_protection" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Power-system_protection&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Power-system_protection&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Power-system_protection" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Power-system_protection" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Power-system_protection&amp;oldid=763075636" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Power-system_protection&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q1756067" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Power-system_protection&amp;id=763075636" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Power-system+protection">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Power-system+protection&amp;returnto=Power-system+protection&amp;oldid=763075636&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Power-system_protection&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%87%D9%86%D8%AF%D8%B3%D8%A9_%D8%A7%D9%84%D9%88%D9%82%D8%A7%D9%8A%D8%A9_%D8%A7%D9%84%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A6%D9%8A%D8%A9" title="هندسة الوقاية الكهربائية – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Netzschutz" title="Netzschutz – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Protecciones_de_sistemas_de_potencia" title="Protecciones de sistemas de potencia – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Elektra_protektado" title="Elektra protektado – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%AD%D9%81%D8%A7%D8%B8%D8%AA_%D8%B3%DB%8C%D8%B3%D8%AA%D9%85_%D9%82%D8%AF%D8%B1%D8%AA" title="حفاظت سیستم قدرت – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Protection_des_r%C3%A9seaux_%C3%A9lectriques" title="Protection des réseaux électriques – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D5%8C%D5%A5%D5%AC%D5%A5%D5%A1%D5%B5%D5%AB%D5%B6_%D5%BA%D5%A1%D5%B7%D5%BF%D5%BA%D5%A1%D5%B6%D5%B8%D6%82%D5%A9%D5%B5%D5%B8%D6%82%D5%B6" title="Ռելեային պաշտպանություն – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%B6%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%BF_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A3%E0%A4%BE%E0%A4%B2%E0%A5%80_%E0%A4%95%E0%A4%BE_%E0%A4%B8%E0%A4%82%E0%A4%B0%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%A3" title="शक्ति प्रणाली का संरक्षण – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D0%A0%D0%B5%D0%BB%D0%B5%D0%BB%D1%96%D0%BA_%D2%9B%D0%BE%D1%80%D2%93%D0%B0%D0%BD%D1%8B%D1%81" title="Релелік қорғаныс – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D0%BB%D0%B5%D0%B9%D0%BD%D0%B0%D1%8F_%D0%B7%D0%B0%D1%89%D0%B8%D1%82%D0%B0_%D0%B8_%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0" title="Релейная защита и автоматика – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Power_system_protection" title="Power system protection – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%A0%D0%B5%D0%BB%D0%B5%D0%B9%D0%BD%D0%B8%D0%B9_%D0%B7%D0%B0%D1%85%D0%B8%D1%81%D1%82" title="Релейний захист – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q1756067#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 1 February 2017, at 05:14.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Power-system_protection&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.128","walltime":"0.164","ppvisitednodes":{"value":1015,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":38028,"limit":2097152},"templateargumentsize":{"value":1188,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  122.801      1 -total"," 38.71%   47.533      8 Template:Cite_web"," 34.92%   42.882      1 Template:Citation_needed"," 32.41%   39.798      1 Template:Reflist"," 25.67%   31.526      1 Template:Fix"," 17.38%   21.340      2 Template:Navbox"," 15.56%   19.103      1 Template:Electricity_delivery"," 15.17%   18.631      2 Template:Category_handler","  8.74%   10.730      1 Template:Delink","  6.70%    8.224      1 Template:Navbox_subgroup"]},"scribunto":{"limitreport-timeusage":{"value":"0.053","limit":"10.000"},"limitreport-memusage":{"value":3207630,"limit":52428800}},"cachereport":{"origin":"mw1252","timestamp":"20170201051457","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":71,"wgHostname":"mw1183"});});</script>
+	</body>
+</html>

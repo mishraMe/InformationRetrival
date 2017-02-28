@@ -1,0 +1,1092 @@
+url : https://en.wikipedia.org/wiki/Power-flow_study
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Power-flow study - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Power-flow_study","wgTitle":"Power-flow study","wgCurRevisionId":759801336,"wgRevisionId":759801336,"wgArticleId":670376,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Electrical engineering","Electric power","Power engineering"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Power-flow_study","wgRelevantArticleId":670376,"wgRequestId":"WIpRHQpAMFcAAB@SlzQAAAEW","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q556030","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","ext.math.scripts","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.8"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Power-flow_study"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Power-flow_study&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Power-flow_study&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Power-flow_study"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Power-flow_study rootpage-Power-flow_study skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Power-flow study</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><p>In <a href="/wiki/Power_engineering" title="Power engineering">power engineering</a>, the <b>power-flow study</b>, or <b>load-flow study</b>, is a <a href="/wiki/Numerical_analysis" title="Numerical analysis">numerical analysis</a> of the flow of electric power in an interconnected system. A power-flow study usually uses simplified notations such as a <a href="/wiki/One-line_diagram" title="One-line diagram">one-line diagram</a> and <a href="/wiki/Per-unit_system" title="Per-unit system">per-unit system</a>, and focuses on various aspects of <a href="/wiki/AC_power" title="AC power">AC power</a> parameters, such as voltages, voltage angles, real power and reactive power. It analyzes the power systems in normal steady-state operation.</p>
+<p>Power-flow or load-flow studies are important for planning future expansion of power systems as well as in determining the best operation of existing systems. The principal information obtained from the power-flow study is the magnitude and phase angle of the voltage at each <a href="/wiki/Busbar" title="Busbar">bus</a>, and the real and reactive power flowing in each line.</p>
+<p>Commercial power systems are usually too complex to allow for hand solution of the power flow. Special purpose <a href="/wiki/Network_analyzer_(AC_power)" title="Network analyzer (AC power)">network analyzers</a> were built between 1929 and the early 1960s to provide laboratory-scale physical models of power systems. Large-scale digital computers replaced the analog methods with numerical solutions.</p>
+<p>In addition to a power-flow study, computer programs perform related calculations such as <a href="/wiki/Short-circuit" class="mw-redirect" title="Short-circuit">short-circuit</a> fault analysis, stability studies (transient and steady-state), unit commitment and <a href="/wiki/Economic_dispatch" title="Economic dispatch">economic dispatch</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> In particular, some programs use <a href="/wiki/Linear_programming" title="Linear programming">linear programming</a> to find the <i>optimal power flow</i>, the conditions which give the lowest cost per <a href="/wiki/Kilowatt_hour" title="Kilowatt hour">kilowatt hour</a> delivered.</p>
+<p>A load flow study is especially valuable for a system with multiple load centers, such as a refinery complex. The power flow study is an analysis of the system’s capability to adequately supply the connected load. The total system losses, as well as individual line losses, also are tabulated. Transformer tap positions are selected to ensure the correct voltage at critical locations such as motor control centers. Performing a load flow study on an existing system provides insight and recommendations as to the system operation and optimization of control settings to obtain maximum capacity while minimizing the operating costs. The results of such an analysis are in terms of active power, reactive power, magnitude and phase angle. Furthermore, power-flow computations are crucial for <a href="/wiki/Unit_commitment_problem_in_electrical_power_production" title="Unit commitment problem in electrical power production">optimal operations of groups of generating units</a>.</p>
+<p>The <a href="/wiki/Open_Energy_Modelling_Initiative" title="Open Energy Modelling Initiative">Open Energy Modelling Initiative</a> promotes <a href="/wiki/Open_source" class="mw-redirect" title="Open source">open source</a> load-flow models and other types of energy system models.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Model"><span class="tocnumber">1</span> <span class="toctext">Model</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Power-flow_problem_formulation"><span class="tocnumber">2</span> <span class="toctext">Power-flow problem formulation</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Newton.E2.80.93Raphson_solution_method"><span class="tocnumber">3</span> <span class="toctext">Newton–Raphson solution method</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Other_power-flow_methods"><span class="tocnumber">4</span> <span class="toctext">Other power-flow methods</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Model">Model</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Power-flow_study&amp;action=edit&amp;section=1" title="Edit section: Model">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>An <b>alternating current power-flow model</b> is a model used in electrical engineering to analyze <a href="/wiki/Power_grids" class="mw-redirect" title="Power grids">power grids</a>. It provides a <a href="/wiki/Nonlinear#Nonlinear_systems" class="mw-redirect" title="Nonlinear">nonlinear system</a> which describes the energy flow through each transmission line. The problem is non-linear because the power flow into load impedances is a function of the square of the applied voltages. Due to nonlinearity, in many cases the analysis of large network via AC power-flow model is not feasible, and a linear (but less accurate) DC power-flow model is used instead.</p>
+<p>Usually analysis of a three-phase system is simplified by assuming balanced loading of all three phases. Steady-state operation is assumed, with no transient changes in power flow or voltage due to load or generation changes. The system frequency is also assumed to be constant. A further simplification is to use the <a href="/wiki/Per-unit_system" title="Per-unit system">per-unit system</a> to represent all voltages, power flows, and impedances, scaling the actual target system values to some convenient base. A system <a href="/wiki/One-line_diagram" title="One-line diagram">one-line diagram</a> is the basis to build a mathematical model of the generators, loads, buses, and transmission lines of the system, and their electrical impedances and ratings.</p>
+<h2><span class="mw-headline" id="Power-flow_problem_formulation">Power-flow problem formulation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Power-flow_study&amp;action=edit&amp;section=2" title="Edit section: Power-flow problem formulation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The goal of a power-flow study is to obtain complete voltages angle and magnitude information for each bus in a power system for specified load and generator real power and voltage conditions.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Once this information is known, real and reactive power flow on each branch as well as generator reactive power output can be analytically determined. Due to the nonlinear nature of this problem, numerical methods are employed to obtain a solution that is within an acceptable tolerance.</p>
+<p>The solution to the power-flow problem begins with identifying the known and unknown variables in the system. The known and unknown variables are dependent on the type of bus. A bus without any generators connected to it is called a Load Bus. With one exception, a bus with at least one generator connected to it is called a Generator Bus. The exception is one arbitrarily-selected bus that has a generator. This bus is referred to as the <a href="/wiki/Slack_bus" title="Slack bus">slack bus</a>.</p>
+<p>In the power-flow problem, it is assumed that the real power <i>P</i><sub><i>D</i></sub> and reactive power <i>Q</i><sub><i>D</i></sub> at each Load Bus are known. For this reason, Load Buses are also known as PQ Buses. For Generator Buses, it is assumed that the real power generated <i>P<sub>G</sub></i> and the voltage magnitude |<i>V</i>| is known. For the Slack Bus, it is assumed that the voltage magnitude |<i>V</i>| and voltage phase <i>Θ</i> are known. Therefore, for each Load Bus, both the voltage magnitude and angle are unknown and must be solved for; for each Generator Bus, the voltage angle must be solved for; there are no variables that must be solved for the Slack Bus. In a system with <i>N</i> buses and <i>R</i> generators, there are then <span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y mw-math-element" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mn>2</mn>
+        <mo stretchy="false">(</mo>
+        <mi>N</mi>
+        <mo>&#x2212;<!-- − --></mo>
+        <mn>1</mn>
+        <mo stretchy="false">)</mo>
+        <mo>&#x2212;<!-- − --></mo>
+        <mo stretchy="false">(</mo>
+        <mi>R</mi>
+        <mo>&#x2212;<!-- − --></mo>
+        <mn>1</mn>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle 2(N-1)-(R-1)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c80e583b3addac2363d0793f12d57adce4aac985" class="mwe-math-fallback-image-inline mw-math-element" aria-hidden="true" style="vertical-align: -0.838ex; width:19.58ex; height:2.843ex;" alt="2(N-1)-(R-1)" /></span> unknowns.</p>
+<p>In order to solve for the <span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y mw-math-element" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mn>2</mn>
+        <mo stretchy="false">(</mo>
+        <mi>N</mi>
+        <mo>&#x2212;<!-- − --></mo>
+        <mn>1</mn>
+        <mo stretchy="false">)</mo>
+        <mo>&#x2212;<!-- − --></mo>
+        <mo stretchy="false">(</mo>
+        <mi>R</mi>
+        <mo>&#x2212;<!-- − --></mo>
+        <mn>1</mn>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle 2(N-1)-(R-1)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c80e583b3addac2363d0793f12d57adce4aac985" class="mwe-math-fallback-image-inline mw-math-element" aria-hidden="true" style="vertical-align: -0.838ex; width:19.58ex; height:2.843ex;" alt="2(N-1)-(R-1)" /></span> unknowns, there must be <span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y mw-math-element" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mn>2</mn>
+        <mo stretchy="false">(</mo>
+        <mi>N</mi>
+        <mo>&#x2212;<!-- − --></mo>
+        <mn>1</mn>
+        <mo stretchy="false">)</mo>
+        <mo>&#x2212;<!-- − --></mo>
+        <mo stretchy="false">(</mo>
+        <mi>R</mi>
+        <mo>&#x2212;<!-- − --></mo>
+        <mn>1</mn>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle 2(N-1)-(R-1)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c80e583b3addac2363d0793f12d57adce4aac985" class="mwe-math-fallback-image-inline mw-math-element" aria-hidden="true" style="vertical-align: -0.838ex; width:19.58ex; height:2.843ex;" alt="2(N-1)-(R-1)" /></span> equations that do not introduce any new unknown variables. The possible equations to use are power balance equations, which can be written for real and reactive power for each bus. The real power balance equation is:</p>
+<dl>
+<dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y mw-math-element" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mn>0</mn>
+        <mo>=</mo>
+        <mo>&#x2212;<!-- − --></mo>
+        <msub>
+          <mi>P</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>i</mi>
+          </mrow>
+        </msub>
+        <mo>+</mo>
+        <munderover>
+          <mo>&#x2211;<!-- ∑ --></mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>k</mi>
+            <mo>=</mo>
+            <mn>1</mn>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>N</mi>
+          </mrow>
+        </munderover>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo stretchy="false">|</mo>
+        </mrow>
+        <msub>
+          <mi>V</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>i</mi>
+          </mrow>
+        </msub>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo stretchy="false">|</mo>
+        </mrow>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo stretchy="false">|</mo>
+        </mrow>
+        <msub>
+          <mi>V</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>k</mi>
+          </mrow>
+        </msub>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo stretchy="false">|</mo>
+        </mrow>
+        <mo stretchy="false">(</mo>
+        <msub>
+          <mi>G</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>i</mi>
+            <mi>k</mi>
+          </mrow>
+        </msub>
+        <mi>cos</mi>
+        <mo>&#x2061;<!-- ⁡ --></mo>
+        <msub>
+          <mi>&#x03B8;<!-- θ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>i</mi>
+            <mi>k</mi>
+          </mrow>
+        </msub>
+        <mo>+</mo>
+        <msub>
+          <mi>B</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>i</mi>
+            <mi>k</mi>
+          </mrow>
+        </msub>
+        <mi>sin</mi>
+        <mo>&#x2061;<!-- ⁡ --></mo>
+        <msub>
+          <mi>&#x03B8;<!-- θ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>i</mi>
+            <mi>k</mi>
+          </mrow>
+        </msub>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle 0=-P_{i}+\sum _{k=1}^{N}|V_{i}||V_{k}|(G_{ik}\cos \theta _{ik}+B_{ik}\sin \theta _{ik})}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/bf25811b25fbb2ae2656c6869a20f50d37b922c0" class="mwe-math-fallback-image-inline mw-math-element" aria-hidden="true" style="vertical-align: -3.171ex; width:47.033ex; height:7.509ex;" alt="0=-P_{{i}}+\sum _{{k=1}}^{N}|V_{i}||V_{k}|(G_{{ik}}\cos \theta _{{ik}}+B_{{ik}}\sin \theta _{{ik}})" /></span></dd>
+</dl>
+<p>where <span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y mw-math-element" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>P</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>i</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle P_{i}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3ba1396129f7be3c7f828a571b6649e6807d10d3" class="mwe-math-fallback-image-inline mw-math-element" aria-hidden="true" style="vertical-align: -0.671ex; width:2.31ex; height:2.509ex;" alt="P_{i}" /></span> is the net power injected at bus <i>i</i>, <span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y mw-math-element" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>G</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>i</mi>
+            <mi>k</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle G_{ik}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/03a436fb23d456fca8331befe32ab7751eba8f18" class="mwe-math-fallback-image-inline mw-math-element" aria-hidden="true" style="vertical-align: -0.671ex; width:3.508ex; height:2.509ex;" alt="G_{{ik}}" /></span> is the real part of the element in the <a href="/wiki/Ybus_matrix" class="mw-redirect" title="Ybus matrix">bus admittance matrix</a> Y<sub>BUS</sub> corresponding to the <i>i</i>th row and <i>k</i>th column, <span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y mw-math-element" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>B</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>i</mi>
+            <mi>k</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle B_{ik}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/525c994819e3c7e5e50a61587f8091caaf0266ef" class="mwe-math-fallback-image-inline mw-math-element" aria-hidden="true" style="vertical-align: -0.671ex; width:3.445ex; height:2.509ex;" alt="B_{{ik}}" /></span> is the imaginary part of the element in the Y<sub>BUS</sub> corresponding to the <i>i</i>th row and <i>k</i>th column and <span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y mw-math-element" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>&#x03B8;<!-- θ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>i</mi>
+            <mi>k</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \theta _{ik}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2967afb20f6b8fc3502bc7477223d286bd257d3f" class="mwe-math-fallback-image-inline mw-math-element" aria-hidden="true" style="vertical-align: -0.671ex; width:2.772ex; height:2.509ex;" alt="\theta _{{ik}}" /></span> is the difference in voltage angle between the <i>i</i>th and <i>k</i>th buses (<span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y mw-math-element" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>&#x03B8;<!-- θ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>i</mi>
+            <mi>k</mi>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <msub>
+          <mi>&#x03B4;<!-- δ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>i</mi>
+          </mrow>
+        </msub>
+        <mo>&#x2212;<!-- − --></mo>
+        <msub>
+          <mi>&#x03B4;<!-- δ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>k</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \theta _{ik}=\delta _{i}-\delta _{k}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/42f70ac8be976757ef43c768353213b96f28434d" class="mwe-math-fallback-image-inline mw-math-element" aria-hidden="true" style="vertical-align: -0.671ex; width:12.72ex; height:2.676ex;" alt="\theta _{{ik}}=\delta _{i}-\delta _{k}" /></span>). The reactive power balance equation is:</p>
+<dl>
+<dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y mw-math-element" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mn>0</mn>
+        <mo>=</mo>
+        <mo>&#x2212;<!-- − --></mo>
+        <msub>
+          <mi>Q</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>i</mi>
+          </mrow>
+        </msub>
+        <mo>+</mo>
+        <munderover>
+          <mo>&#x2211;<!-- ∑ --></mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>k</mi>
+            <mo>=</mo>
+            <mn>1</mn>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>N</mi>
+          </mrow>
+        </munderover>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo stretchy="false">|</mo>
+        </mrow>
+        <msub>
+          <mi>V</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>i</mi>
+          </mrow>
+        </msub>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo stretchy="false">|</mo>
+        </mrow>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo stretchy="false">|</mo>
+        </mrow>
+        <msub>
+          <mi>V</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>k</mi>
+          </mrow>
+        </msub>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo stretchy="false">|</mo>
+        </mrow>
+        <mo stretchy="false">(</mo>
+        <msub>
+          <mi>G</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>i</mi>
+            <mi>k</mi>
+          </mrow>
+        </msub>
+        <mi>sin</mi>
+        <mo>&#x2061;<!-- ⁡ --></mo>
+        <msub>
+          <mi>&#x03B8;<!-- θ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>i</mi>
+            <mi>k</mi>
+          </mrow>
+        </msub>
+        <mo>&#x2212;<!-- − --></mo>
+        <msub>
+          <mi>B</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>i</mi>
+            <mi>k</mi>
+          </mrow>
+        </msub>
+        <mi>cos</mi>
+        <mo>&#x2061;<!-- ⁡ --></mo>
+        <msub>
+          <mi>&#x03B8;<!-- θ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>i</mi>
+            <mi>k</mi>
+          </mrow>
+        </msub>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle 0=-Q_{i}+\sum _{k=1}^{N}|V_{i}||V_{k}|(G_{ik}\sin \theta _{ik}-B_{ik}\cos \theta _{ik})}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f58d6f3d068eeb291b3e6690810eaac7cbaf8020" class="mwe-math-fallback-image-inline mw-math-element" aria-hidden="true" style="vertical-align: -3.171ex; width:47.379ex; height:7.509ex;" alt="0=-Q_{{i}}+\sum _{{k=1}}^{N}|V_{i}||V_{k}|(G_{{ik}}\sin \theta _{{ik}}-B_{{ik}}\cos \theta _{{ik}})" /></span></dd>
+</dl>
+<p>where <span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y mw-math-element" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>Q</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>i</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle Q_{i}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b9f7193081d440425e522698e80817b5d558df03" class="mwe-math-fallback-image-inline mw-math-element" aria-hidden="true" style="vertical-align: -0.671ex; width:2.656ex; height:2.509ex;" alt="Q_{i}" /></span> is the net reactive power injected at bus <i>i</i>.</p>
+<p>Equations included are the real and reactive power balance equations for each Load Bus and the real power balance equation for each Generator Bus. Only the real power balance equation is written for a Generator Bus because the net reactive power injected is assumed to be unknown and therefore including the reactive power balance equation would result in an additional unknown variable. For similar reasons, there are no equations written for the Slack Bus.</p>
+<p>In many transmission systems, the voltage angles <span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y mw-math-element" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>&#x03B8;<!-- θ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>i</mi>
+            <mi>k</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \theta _{ik}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2967afb20f6b8fc3502bc7477223d286bd257d3f" class="mwe-math-fallback-image-inline mw-math-element" aria-hidden="true" style="vertical-align: -0.671ex; width:2.772ex; height:2.509ex;" alt="\theta _{{ik}}" /></span> are usually relatively small. There is thus a strong coupling between real power and voltage angle, and between reactive power and voltage magnitude, while the coupling between real power and voltage magnitude, as well as reactive power and voltage angle, is weak. As a result, real power is usually transmitted from the bus with higher voltage angle to the bus with lower voltage angle, and reactive power is usually transmitted from the bus with higher voltage magnitude to the bus with lower voltage magnitude. However, this approximation does not hold when the voltage angle is very large.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></p>
+<h2><span class="mw-headline" id="Newton.E2.80.93Raphson_solution_method">Newton–Raphson solution method</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Power-flow_study&amp;action=edit&amp;section=3" title="Edit section: Newton–Raphson solution method">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>There are several different methods of solving the resulting nonlinear system of equations. The most popular is known as the Newton–Raphson method. This method begins with initial guesses of all unknown variables (voltage magnitude and angles at Load Buses and voltage angles at Generator Buses). Next, a <a href="/wiki/Taylor_Series" class="mw-redirect" title="Taylor Series">Taylor Series</a> is written, with the higher order terms ignored, for each of the power balance equations included in the system of equations . The result is a linear system of equations that can be expressed as:</p>
+<dl>
+<dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y mw-math-element" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mrow>
+            <mo>[</mo>
+            <mtable rowspacing="4pt" columnspacing="1em">
+              <mtr>
+                <mtd>
+                  <mi mathvariant="normal">&#x0394;<!-- Δ --></mi>
+                  <mi>&#x03B8;<!-- θ --></mi>
+                </mtd>
+              </mtr>
+              <mtr>
+                <mtd>
+                  <mi mathvariant="normal">&#x0394;<!-- Δ --></mi>
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mo stretchy="false">|</mo>
+                  </mrow>
+                  <mi>V</mi>
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mo stretchy="false">|</mo>
+                  </mrow>
+                </mtd>
+              </mtr>
+            </mtable>
+            <mo>]</mo>
+          </mrow>
+        </mrow>
+        <mo>=</mo>
+        <mo>&#x2212;<!-- − --></mo>
+        <msup>
+          <mi>J</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo>&#x2212;<!-- − --></mo>
+            <mn>1</mn>
+          </mrow>
+        </msup>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mrow>
+            <mo>[</mo>
+            <mtable rowspacing="4pt" columnspacing="1em">
+              <mtr>
+                <mtd>
+                  <mi mathvariant="normal">&#x0394;<!-- Δ --></mi>
+                  <mi>P</mi>
+                </mtd>
+              </mtr>
+              <mtr>
+                <mtd>
+                  <mi mathvariant="normal">&#x0394;<!-- Δ --></mi>
+                  <mi>Q</mi>
+                </mtd>
+              </mtr>
+            </mtable>
+            <mo>]</mo>
+          </mrow>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\begin{bmatrix}\Delta \theta \\\Delta |V|\end{bmatrix}}=-J^{-1}{\begin{bmatrix}\Delta P\\\Delta Q\end{bmatrix}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/16f1c0a3aeff24692f80140af05b0fbd1a628772" class="mwe-math-fallback-image-inline mw-math-element" aria-hidden="true" style="vertical-align: -2.505ex; width:24.12ex; height:6.176ex;" alt="{\begin{bmatrix}\Delta \theta \\\Delta |V|\end{bmatrix}}=-J^{{-1}}{\begin{bmatrix}\Delta P\\\Delta Q\end{bmatrix}}" /></span></dd>
+</dl>
+<p>where <span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y mw-math-element" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi mathvariant="normal">&#x0394;<!-- Δ --></mi>
+        <mi>P</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \Delta P}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f6b96a223eb5eec6d7bee974542df2effaeff123" class="mwe-math-fallback-image-inline mw-math-element" aria-hidden="true" style="vertical-align: -0.338ex; width:3.702ex; height:2.343ex;" alt="\Delta P" /></span> and <span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y mw-math-element" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi mathvariant="normal">&#x0394;<!-- Δ --></mi>
+        <mi>Q</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \Delta Q}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/04f1b35d7435ced944ad7f40f992aae97c602695" class="mwe-math-fallback-image-inline mw-math-element" aria-hidden="true" style="vertical-align: -0.671ex; width:3.795ex; height:2.676ex;" alt="\Delta Q" /></span> are called the mismatch equations:</p>
+<dl>
+<dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y mw-math-element" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi mathvariant="normal">&#x0394;<!-- Δ --></mi>
+        <msub>
+          <mi>P</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>i</mi>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <mo>&#x2212;<!-- − --></mo>
+        <msub>
+          <mi>P</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>i</mi>
+          </mrow>
+        </msub>
+        <mo>+</mo>
+        <munderover>
+          <mo>&#x2211;<!-- ∑ --></mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>k</mi>
+            <mo>=</mo>
+            <mn>1</mn>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>N</mi>
+          </mrow>
+        </munderover>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo stretchy="false">|</mo>
+        </mrow>
+        <msub>
+          <mi>V</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>i</mi>
+          </mrow>
+        </msub>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo stretchy="false">|</mo>
+        </mrow>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo stretchy="false">|</mo>
+        </mrow>
+        <msub>
+          <mi>V</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>k</mi>
+          </mrow>
+        </msub>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo stretchy="false">|</mo>
+        </mrow>
+        <mo stretchy="false">(</mo>
+        <msub>
+          <mi>G</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>i</mi>
+            <mi>k</mi>
+          </mrow>
+        </msub>
+        <mi>cos</mi>
+        <mo>&#x2061;<!-- ⁡ --></mo>
+        <msub>
+          <mi>&#x03B8;<!-- θ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>i</mi>
+            <mi>k</mi>
+          </mrow>
+        </msub>
+        <mo>+</mo>
+        <msub>
+          <mi>B</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>i</mi>
+            <mi>k</mi>
+          </mrow>
+        </msub>
+        <mi>sin</mi>
+        <mo>&#x2061;<!-- ⁡ --></mo>
+        <msub>
+          <mi>&#x03B8;<!-- θ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>i</mi>
+            <mi>k</mi>
+          </mrow>
+        </msub>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \Delta P_{i}=-P_{i}+\sum _{k=1}^{N}|V_{i}||V_{k}|(G_{ik}\cos \theta _{ik}+B_{ik}\sin \theta _{ik})}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/25a5d179ed1db3f82f781348b3e77330d8487c8c" class="mwe-math-fallback-image-inline mw-math-element" aria-hidden="true" style="vertical-align: -3.171ex; width:50.117ex; height:7.509ex;" alt="\Delta P_{i}=-P_{i}+\sum _{{k=1}}^{N}|V_{i}||V_{k}|(G_{{ik}}\cos \theta _{{ik}}+B_{{ik}}\sin \theta _{{ik}})" /></span></dd>
+</dl>
+<p><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y mw-math-element" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi mathvariant="normal">&#x0394;<!-- Δ --></mi>
+        <msub>
+          <mi>Q</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>i</mi>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <mo>&#x2212;<!-- − --></mo>
+        <msub>
+          <mi>Q</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>i</mi>
+          </mrow>
+        </msub>
+        <mo>+</mo>
+        <munderover>
+          <mo>&#x2211;<!-- ∑ --></mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>k</mi>
+            <mo>=</mo>
+            <mn>1</mn>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>N</mi>
+          </mrow>
+        </munderover>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo stretchy="false">|</mo>
+        </mrow>
+        <msub>
+          <mi>V</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>i</mi>
+          </mrow>
+        </msub>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo stretchy="false">|</mo>
+        </mrow>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo stretchy="false">|</mo>
+        </mrow>
+        <msub>
+          <mi>V</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>k</mi>
+          </mrow>
+        </msub>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo stretchy="false">|</mo>
+        </mrow>
+        <mo stretchy="false">(</mo>
+        <msub>
+          <mi>G</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>i</mi>
+            <mi>k</mi>
+          </mrow>
+        </msub>
+        <mi>sin</mi>
+        <mo>&#x2061;<!-- ⁡ --></mo>
+        <msub>
+          <mi>&#x03B8;<!-- θ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>i</mi>
+            <mi>k</mi>
+          </mrow>
+        </msub>
+        <mo>&#x2212;<!-- − --></mo>
+        <msub>
+          <mi>B</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>i</mi>
+            <mi>k</mi>
+          </mrow>
+        </msub>
+        <mi>cos</mi>
+        <mo>&#x2061;<!-- ⁡ --></mo>
+        <msub>
+          <mi>&#x03B8;<!-- θ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>i</mi>
+            <mi>k</mi>
+          </mrow>
+        </msub>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \Delta Q_{i}=-Q_{i}+\sum _{k=1}^{N}|V_{i}||V_{k}|(G_{ik}\sin \theta _{ik}-B_{ik}\cos \theta _{ik})}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/be78f305713563fff03e2bec774b1fba3e847ea1" class="mwe-math-fallback-image-inline mw-math-element" aria-hidden="true" style="vertical-align: -3.171ex; width:50.809ex; height:7.509ex;" alt="\Delta Q_{{i}}=-Q_{{i}}+\sum _{{k=1}}^{N}|V_{i}||V_{k}|(G_{{ik}}\sin \theta _{{ik}}-B_{{ik}}\cos \theta _{{ik}})" /></span></p>
+<p>and <span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y mw-math-element" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>J</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle J}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/359e4f407b49910e02c27c2f52e87a36cd74c053" class="mwe-math-fallback-image-inline mw-math-element" aria-hidden="true" style="vertical-align: -0.338ex; width:1.482ex; height:2.176ex;" alt="J" /></span> is a matrix of partial derivatives known as a <a href="/wiki/Jacobian_matrix_and_determinant" title="Jacobian matrix and determinant">Jacobian</a>: <span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y mw-math-element" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>J</mi>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mrow>
+            <mo>[</mo>
+            <mtable rowspacing="4pt" columnspacing="1em">
+              <mtr>
+                <mtd>
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mstyle displaystyle="true" scriptlevel="0">
+                      <mfrac>
+                        <mrow>
+                          <mi mathvariant="normal">&#x2202;<!-- ∂ --></mi>
+                          <mi mathvariant="normal">&#x0394;<!-- Δ --></mi>
+                          <mi>P</mi>
+                        </mrow>
+                        <mrow>
+                          <mi mathvariant="normal">&#x2202;<!-- ∂ --></mi>
+                          <mi>&#x03B8;<!-- θ --></mi>
+                        </mrow>
+                      </mfrac>
+                    </mstyle>
+                  </mrow>
+                </mtd>
+                <mtd>
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mstyle displaystyle="true" scriptlevel="0">
+                      <mfrac>
+                        <mrow>
+                          <mi mathvariant="normal">&#x2202;<!-- ∂ --></mi>
+                          <mi mathvariant="normal">&#x0394;<!-- Δ --></mi>
+                          <mi>P</mi>
+                        </mrow>
+                        <mrow>
+                          <mi mathvariant="normal">&#x2202;<!-- ∂ --></mi>
+                          <mrow class="MJX-TeXAtom-ORD">
+                            <mo stretchy="false">|</mo>
+                          </mrow>
+                          <mi>V</mi>
+                          <mrow class="MJX-TeXAtom-ORD">
+                            <mo stretchy="false">|</mo>
+                          </mrow>
+                        </mrow>
+                      </mfrac>
+                    </mstyle>
+                  </mrow>
+                </mtd>
+              </mtr>
+              <mtr>
+                <mtd>
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mstyle displaystyle="true" scriptlevel="0">
+                      <mfrac>
+                        <mrow>
+                          <mi mathvariant="normal">&#x2202;<!-- ∂ --></mi>
+                          <mi mathvariant="normal">&#x0394;<!-- Δ --></mi>
+                          <mi>Q</mi>
+                        </mrow>
+                        <mrow>
+                          <mi mathvariant="normal">&#x2202;<!-- ∂ --></mi>
+                          <mi>&#x03B8;<!-- θ --></mi>
+                        </mrow>
+                      </mfrac>
+                    </mstyle>
+                  </mrow>
+                </mtd>
+                <mtd>
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mstyle displaystyle="true" scriptlevel="0">
+                      <mfrac>
+                        <mrow>
+                          <mi mathvariant="normal">&#x2202;<!-- ∂ --></mi>
+                          <mi mathvariant="normal">&#x0394;<!-- Δ --></mi>
+                          <mi>Q</mi>
+                        </mrow>
+                        <mrow>
+                          <mi mathvariant="normal">&#x2202;<!-- ∂ --></mi>
+                          <mrow class="MJX-TeXAtom-ORD">
+                            <mo stretchy="false">|</mo>
+                          </mrow>
+                          <mi>V</mi>
+                          <mrow class="MJX-TeXAtom-ORD">
+                            <mo stretchy="false">|</mo>
+                          </mrow>
+                        </mrow>
+                      </mfrac>
+                    </mstyle>
+                  </mrow>
+                </mtd>
+              </mtr>
+            </mtable>
+            <mo>]</mo>
+          </mrow>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle J={\begin{bmatrix}{\dfrac {\partial \Delta P}{\partial \theta }}&amp;{\dfrac {\partial \Delta P}{\partial |V|}}\\{\dfrac {\partial \Delta Q}{\partial \theta }}&amp;{\dfrac {\partial \Delta Q}{\partial |V|}}\end{bmatrix}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/039b91de9f2762353eef1b7b2e540594fb053525" class="mwe-math-fallback-image-inline mw-math-element" aria-hidden="true" style="vertical-align: -5.608ex; margin-bottom: -0.23ex; width:22.706ex; height:12.843ex;" alt="J={\begin{bmatrix}{\dfrac  {\partial \Delta P}{\partial \theta }}&amp;{\dfrac  {\partial \Delta P}{\partial |V|}}\\{\dfrac  {\partial \Delta Q}{\partial \theta }}&amp;{\dfrac  {\partial \Delta Q}{\partial |V|}}\end{bmatrix}}" /></span>.</p>
+<p>The linearized system of equations is solved to determine the next guess (<i>m</i> + 1) of voltage magnitude and angles based on:</p>
+<dl>
+<dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y mw-math-element" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msup>
+          <mi>&#x03B8;<!-- θ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>m</mi>
+            <mo>+</mo>
+            <mn>1</mn>
+          </mrow>
+        </msup>
+        <mo>=</mo>
+        <msup>
+          <mi>&#x03B8;<!-- θ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>m</mi>
+          </mrow>
+        </msup>
+        <mo>+</mo>
+        <mi mathvariant="normal">&#x0394;<!-- Δ --></mi>
+        <mi>&#x03B8;<!-- θ --></mi>
+        <mspace width="thinmathspace" />
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \theta ^{m+1}=\theta ^{m}+\Delta \theta \,}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/028ea298cdf4cfe397af3ecb0fa7715f3da3e218" class="mwe-math-fallback-image-inline mw-math-element" aria-hidden="true" style="vertical-align: -0.505ex; width:17.076ex; height:2.843ex;" alt="\theta ^{{m+1}}=\theta ^{m}+\Delta \theta \," /></span></dd>
+</dl>
+<dl>
+<dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y mw-math-element" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo stretchy="false">|</mo>
+        </mrow>
+        <mi>V</mi>
+        <msup>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo stretchy="false">|</mo>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>m</mi>
+            <mo>+</mo>
+            <mn>1</mn>
+          </mrow>
+        </msup>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo stretchy="false">|</mo>
+        </mrow>
+        <mi>V</mi>
+        <msup>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo stretchy="false">|</mo>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>m</mi>
+          </mrow>
+        </msup>
+        <mo>+</mo>
+        <mi mathvariant="normal">&#x0394;<!-- Δ --></mi>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo stretchy="false">|</mo>
+        </mrow>
+        <mi>V</mi>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo stretchy="false">|</mo>
+        </mrow>
+        <mspace width="thinmathspace" />
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle |V|^{m+1}=|V|^{m}+\Delta |V|\,}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/883229eaddecce67e65ac75ae73a22e384f77dc8" class="mwe-math-fallback-image-inline mw-math-element" aria-hidden="true" style="vertical-align: -0.838ex; width:23.11ex; height:3.343ex;" alt="|V|^{{m+1}}=|V|^{m}+\Delta |V|\," /></span></dd>
+</dl>
+<p>The process continues until a stopping condition is met. A common stopping condition is to terminate if the <a href="/wiki/Matrix_norm" title="Matrix norm">norm</a> of the mismatch equations is below a specified tolerance.</p>
+<p>A rough outline of solution of the power-flow problem is:</p>
+<ol>
+<li>Make an initial guess of all unknown voltage magnitudes and angles. It is common to use a "flat start" in which all voltage angles are set to zero and all voltage magnitudes are set to 1.0 p.u.</li>
+<li>Solve the power balance equations using the most recent voltage angle and magnitude values.</li>
+<li>Linearize the system around the most recent voltage angle and magnitude values</li>
+<li>Solve for the change in voltage angle and magnitude</li>
+<li>Update the voltage magnitude and angles</li>
+<li>Check the stopping conditions, if met then terminate, else go to step 2.</li>
+</ol>
+<h2><span class="mw-headline" id="Other_power-flow_methods">Other power-flow methods</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Power-flow_study&amp;action=edit&amp;section=4" title="Edit section: Other power-flow methods">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Gauss%E2%80%93Seidel_method" title="Gauss–Seidel method">Gauss–Seidel method</a>: This is the earliest devised method. It shows slower rates of convergence compared to other iterative methods, but it uses very little memory and does not need to solve a matrix system.</li>
+<li><a href="/w/index.php?title=Fast-decoupled-load-flow_method&amp;action=edit&amp;redlink=1" class="new" title="Fast-decoupled-load-flow method (page does not exist)">Fast-decoupled-load-flow method</a> is a variation on Newton-Raphson that exploits the approximate decoupling of active and reactive flows in well-behaved power networks, and additionally fixes the value of the <a href="/wiki/Jacobian_matrix_and_determinant" title="Jacobian matrix and determinant">Jacobian</a> during the iteration in order to avoid costly matrix decompositions. Also referred to as "fixed-slope, decoupled NR". Within the algorithm, the Jacobian matrix gets inverted only once, and there are three assumptions. Firstly, the conductance between the buses is zero. Secondly, the magnitude of the bus voltage is one per unit. Thirdly, the sine of phases between buses is zero. Fast decoupled load flow can return the answer within seconds whereas the Newton Raphson method takes much longer. This is useful for real-time management of power grids.</li>
+<li><a href="/wiki/Holomorphic_embedding_load_flow_method" title="Holomorphic embedding load flow method">Holomorphic embedding load flow method</a>: A recently developed method based on advanced techniques of complex analysis. It is direct and guarantees the calculation of the correct (operative) branch, out of the multiple solutions present in the power flow equations.</li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Power-flow_study&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation book">Low, S. H. (2013). "Convex relaxation of optimal power flow: A tutorial". <i>2013 IREP Symposium Bulk Power System Dynamics and Control - IX Optimization, Security and Control of the Emerging Power Grid</i>. pp.&#160;1–06. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1109%2FIREP.2013.6629391">10.1109/IREP.2013.6629391</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-4799-0199-9" title="Special:BookSources/978-1-4799-0199-9">978-1-4799-0199-9</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APower-flow+study&amp;rft.atitle=Convex+relaxation+of+optimal+power+flow%3A+A+tutorial&amp;rft.aufirst=S.+H.&amp;rft.aulast=Low&amp;rft.btitle=2013+IREP+Symposium+Bulk+Power+System+Dynamics+and+Control+-+IX+Optimization%2C+Security+and+Control+of+the+Emerging+Power+Grid&amp;rft.date=2013&amp;rft.genre=bookitem&amp;rft_id=info%3Adoi%2F10.1109%2FIREP.2013.6629391&amp;rft.isbn=978-1-4799-0199-9&amp;rft.pages=1-06&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation book">Grainger, J.; Stevenson, W. (1994). <i>Power System Analysis</i>. New York: McGraw–Hill. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-07-061293-5" title="Special:BookSources/0-07-061293-5">0-07-061293-5</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APower-flow+study&amp;rft.aufirst=J.&amp;rft.aulast=Grainger&amp;rft.au=Stevenson%2C+W.&amp;rft.btitle=Power+System+Analysis&amp;rft.date=1994&amp;rft.genre=book&amp;rft.isbn=0-07-061293-5&amp;rft.place=New+York&amp;rft.pub=McGraw%93Hill&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.eeh.ee.ethz.ch/uploads/tx_ethstudies/modelling_hs08_script_02.pdf">Andersson, G: Lectures on Modelling and Analysis of Electric Power Systems</a></span></li>
+</ol>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1224
+Cached time: 20170113063051
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.060 seconds
+Real time usage: 0.338 seconds
+Preprocessor visited node count: 265/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 3423/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 4/40
+Expensive parser function count: 0/500
+Lua time usage: 0.017/10.000 seconds
+Lua memory usage: 1.57 MB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   40.329      1 - Template:Reflist
+100.00%   40.329      1 - -total
+ 85.74%   34.578      2 - Template:Cite_book
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:670376-0!*!0!!en!*!*!math=5 and timestamp 20170113063051 and revision id 759801336
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Power-flow_study&amp;oldid=759801336">https://en.wikipedia.org/w/index.php?title=Power-flow_study&amp;oldid=759801336</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Electrical_engineering" title="Category:Electrical engineering">Electrical engineering</a></li><li><a href="/wiki/Category:Electric_power" title="Category:Electric power">Electric power</a></li><li><a href="/wiki/Category:Power_engineering" title="Category:Power engineering">Power engineering</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Power-flow+study" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Power-flow+study" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Power-flow_study"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Power-flow_study"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Power-flow_study" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Power-flow_study&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Power-flow_study&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Power-flow_study" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Power-flow_study" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Power-flow_study&amp;oldid=759801336" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Power-flow_study&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q556030" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Power-flow_study&amp;id=759801336" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Power-flow+study">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Power-flow+study&amp;returnto=Power-flow+study&amp;oldid=759801336&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Power-flow_study&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%AF%D8%B1%D8%A7%D8%B3%D8%A9_%D8%AA%D8%AF%D9%81%D9%82_%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9" title="دراسة تدفق الطاقة – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Lastflussberechnung" title="Lastflussberechnung – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Flujo_de_potencia" title="Flujo de potencia – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%BE%D8%AE%D8%B4_%D8%A8%D8%A7%D8%B1" title="پخش بار – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%B6%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%BF_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B5%E0%A4%BE%E0%A4%B9_%E0%A4%95%E0%A4%BE_%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%AF%E0%A4%A8" title="शक्ति प्रवाह का अध्ययन – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Load_flow" title="Load flow – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Load-flow-vergelijkingen" title="Load-flow-vergelijkingen – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Fluxo_de_carga" title="Fluxo de carga – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%D9%85%D8%B3%D8%A6%D9%84%DB%81_%D8%B7%D8%A7%D9%82%D8%AA_%DA%A9%D8%A7_%D8%A8%DB%81%D8%A7%D8%A4" title="مسئلہ طاقت کا بہاؤ – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q556030#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 13 January 2017, at 06:30.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Power-flow_study&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":49,"wgHostname":"mw1252"});});</script>
+	</body>
+</html>

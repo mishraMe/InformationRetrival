@@ -1,0 +1,932 @@
+url : https://en.wikipedia.org/wiki/Residual-current_device
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Residual-current device - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Residual-current_device","wgTitle":"Residual-current device","wgCurRevisionId":761389392,"wgRevisionId":761389392,"wgArticleId":530715,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages using ISBN magic links","All articles with unsourced statements","Articles with unsourced statements from April 2016","All Wikipedia articles needing clarification","Wikipedia articles needing clarification from September 2015","Articles needing additional references from February 2012","All articles needing additional references","Articles with unsourced statements from October 2009","Commons category with local link same as on Wikidata","Wikipedia articles with GND identifiers","Electrical wiring","Electrical engineering","Safety switches","Electrical safety"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Residual-current_device","wgRelevantArticleId":530715,"wgRequestId":"WJGLEgpAEKoAAG2ElgAAAAAQ","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q337716","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.math.styles":"ready","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.scripts%2Cstyles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.page.gallery.styles%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.9"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Residual-current_device"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Residual-current_device&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Residual-current_device&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Residual-current_device"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Residual-current_device rootpage-Residual-current_device skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Residual-current device</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div role="note" class="hatnote">"GFCI" redirects here. For the financial center ranking, see <a href="/wiki/Global_Financial_Centres_Index" title="Global Financial Centres Index">Global Financial Centres Index</a>.</div>
+<table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%">
+<tr>
+<td style="padding-top:0.4em;line-height:1.2em;background-color: wheat">Part of a series on</td>
+</tr>
+<tr>
+<th style="padding:0.2em 0.4em 0.2em;padding-top:0;font-size:145%;line-height:1.2em;background-color: wheat"><a href="/wiki/Electrical_wiring" title="Electrical wiring">Electrical wiring</a></th>
+</tr>
+<tr>
+<th style="padding:0.1em;background-color: wheat"><a href="/wiki/Electrical_code" title="Electrical code">Regulation of electrical installations</a></th>
+</tr>
+<tr>
+<td class="hlist" style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/BS_7671" title="BS 7671">BS 7671</a></li>
+<li><a href="/wiki/IEC_60364" title="IEC 60364">IEC 60364</a></li>
+<li><a href="/wiki/Canadian_Electrical_Code" title="Canadian Electrical Code">Canadian Electrical Code (CEC)</a></li>
+<li><a href="/wiki/National_Electrical_Code" title="National Electrical Code">National Electrical Code (NEC)</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background-color: wheat">Wiring methods</th>
+</tr>
+<tr>
+<td class="hlist" style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/Armored_cable" class="mw-redirect" title="Armored cable">Armored cable</a></li>
+<li><a href="/wiki/Cable_tray" title="Cable tray">Cable tray</a></li>
+<li><a href="/wiki/Electrical_conduit" title="Electrical conduit">Electrical conduit</a></li>
+<li><a href="/wiki/Knob-and-tube_wiring" title="Knob-and-tube wiring">Knob-and-tube wiring</a></li>
+<li><a href="/wiki/Multiway_switching" title="Multiway switching">Multiway switching</a></li>
+<li><a href="/wiki/Thermoplastic-sheathed_cable" title="Thermoplastic-sheathed cable">Thermoplastic-sheathed cable</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background-color: wheat"><a href="/wiki/Circuit_breaker" title="Circuit breaker">Circuit breakers</a> and devices</th>
+</tr>
+<tr>
+<td class="hlist" style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/Arc-fault_circuit_interrupter" title="Arc-fault circuit interrupter">AFCI</a></li>
+<li><a href="/wiki/Earth_leakage_circuit_breaker" title="Earth leakage circuit breaker">ELCB</a></li>
+<li><strong class="selflink">GFCI / RCD</strong></li>
+<li><a href="/wiki/AC_power_plugs_and_sockets" title="AC power plugs and sockets">Receptacles / Sockets</a></li>
+<li><a href="/wiki/Switch" title="Switch">Switch</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background-color: wheat"><a href="/wiki/Power_engineering" title="Power engineering">Power engineering</a></th>
+</tr>
+<tr>
+<td class="hlist" style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/Busbar" title="Busbar">Bus bar</a></li>
+<li><a href="/wiki/Distribution_board" title="Distribution board">Distribution board</a></li>
+<li><a href="/wiki/Digital_protective_relay" title="Digital protective relay">Digital protective relay</a></li>
+<li><a href="/wiki/Overhead_power_line" title="Overhead power line">Overhead power line</a></li>
+<li><a href="/wiki/Power-system_protection" title="Power-system protection">Power-system protection</a></li>
+<li><a href="/wiki/Protective_relay" title="Protective relay">Protective relay</a></li>
+<li><a href="/wiki/Switchgear" title="Switchgear">Switchgear</a></li>
+<li><a href="/wiki/Sulfur_hexafluoride_circuit_breaker" title="Sulfur hexafluoride circuit breaker">Sulfur hexafluoride circuit breaker</a></li>
+<li><a href="/wiki/Electric_switchboard" title="Electric switchboard">Switchboard</a></li>
+<li><a href="/wiki/Transformer" title="Transformer">Transformer</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background-color: wheat">Wiring by region or country</th>
+</tr>
+<tr>
+<td class="hlist" style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/Electrical_wiring_in_Hong_Kong" title="Electrical wiring in Hong Kong">Hong Kong</a></li>
+<li><a href="/wiki/Electrical_wiring_in_North_America" title="Electrical wiring in North America">North America</a></li>
+<li><a href="/wiki/Electrical_wiring_in_the_United_Kingdom" title="Electrical wiring in the United Kingdom">United Kingdom</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;font-size:115%">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Electrical_wiring_sidebar" title="Template:Electrical wiring sidebar"><abbr title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Electrical_wiring_sidebar" title="Template talk:Electrical wiring sidebar"><abbr title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Electrical_wiring_sidebar&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<p>A <b>residual-current device</b> (<b>RCD</b>), or <b>residual-current circuit breaker</b> (<b>RCCB</b>), is a device that instantly breaks an electric circuit to prevent serious harm from an ongoing electric shock. Injury may still occur in some cases, for example if a human falls after receiving a shock. In the <a href="/wiki/United_States" title="United States">United States</a> and <a href="/wiki/Canada" title="Canada">Canada</a>, the device is more commonly known as a <b>ground fault circuit interrupter</b> (<b>GFCI</b>), <b>ground fault interrupter</b> (<b>GFI</b>) or an <b>appliance leakage current interrupter</b> (<b>ALCI</b>). In the <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a>, these are better known by their initials <b>RCD</b>, and a combined RCD+MCB (<a href="/wiki/Circuit_breaker" title="Circuit breaker">miniature circuit breaker</a>) is known as a <b>RCBO</b> (<b>residual-current circuit breaker with overcurrent protection</b>). In <a href="/wiki/Australia" title="Australia">Australia</a>, they are sometimes known as <b>safety switches</b> or a <b>RCD</b>. An <a href="/wiki/Earth_leakage_circuit_breaker" title="Earth leakage circuit breaker">earth leakage circuit breaker</a> (ELCB) may be a residual-current device, although an older type of voltage-operated earth leakage circuit breaker also exists. In German-speaking countries the device is sometimes known as <b>FI</b> where the <b>F</b> stands for fault (Fehler) and <b>I</b> for the symbol that represents <a href="/wiki/Electric_current" title="Electric current">electric current</a>.</p>
+<p>These <a href="/wiki/Electrical_wiring" title="Electrical wiring">electrical wiring</a> devices are designed to quickly and automatically disconnect a circuit when it detects that the <a href="/wiki/Electric_current" title="Electric current">electric current</a> is not balanced between the energized (line) conductor(s) and the return (<a href="/wiki/Ground_and_neutral" title="Ground and neutral">neutral</a>) conductor. Under normal circumstances, these two wires are expected to carry matching currents, and any difference can indicate a <a href="/wiki/Short_circuit" title="Short circuit">short circuit</a> or other electrical anomaly is present, such as leakage. Leakage can indicate a shock hazard (or shock in progress) which is a potential danger to a person. Current leakage can result in harm or death due to electric shock, especially if the leaking electric current passes through the torso of a human. A current of around 30&#160;<a href="/wiki/Ampere" title="Ampere">mA</a> (0.030&#160;amperes) is potentially sufficient to cause <a href="/wiki/Cardiac_arrest" title="Cardiac arrest">cardiac arrest</a> or serious harm if it persists for more than a small fraction of a second. RCDs/RCCBs/GFIs/,and ALCI's are designed to disconnect the conducting wires quickly enough to prevent serious injury from such shocks. (This is commonly described as the RCD/RCCB being "tripped".)</p>
+<p>An RCD does not provide protection against unexpected or dangerously high current (called spikes or surges) <i>when current is flowing in the usual wires in the circuit</i>, therefore it cannot replace a <a href="/wiki/Fuse_(electrical)" title="Fuse (electrical)">fuse</a> or protect against overheating or fire risk due to <a href="/wiki/Overcurrent" title="Overcurrent">overcurrent</a> (overload) or <a href="/wiki/Short_circuit" title="Short circuit">short circuits</a> if the fault does not lead to current leakage. Therefore, RCDs are often used or integrated as a single product along with some kind of <a href="/wiki/Circuit_breaker" title="Circuit breaker">circuit breaker</a>, such as a fuse or miniature circuit breaker (MCB), which adds protection in the event of excessive current in the circuit (RCBO, "RCD w/ overcurrent protection"). RCDs also cannot detect the situation where a human accidentally touches both conductors at the same time, since the flow of current through an expected device, an unexpected route, or a human, are indistinguishable <i>if the current returns through the expected conductor</i>.</p>
+<p>RCDs are usually testable and resettable devices. Commonly they include a button that when pressed, safely creates a small leakage condition, and a switch that reconnects the conductors when a fault condition has been cleared. Depending upon their design, some RCDs disconnect both the energized and return conductors upon a fault, while others only disconnect the energized conductor and rely upon the return conductor being at <a href="/wiki/Ground_potential" class="mw-redirect" title="Ground potential">ground (earth) potential</a>. The former are commonly known as "<a href="/wiki/Double-pole" class="mw-redirect" title="Double-pole">double-pole</a>" designs; the latter as "<a href="/wiki/Single-pole" class="mw-redirect" title="Single-pole">single-pole</a>" designs. If the fault has left the return wire "<a href="/wiki/Floating_voltage" class="mw-redirect" title="Floating voltage">floating</a>" or not at its expected ground potential for any reason, then a single-pole RCD will leave this conductor still connected to the circuit when it detects the fault.</p>
+<ul class="gallery mw-gallery-traditional center">
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Residual_current_device_2pole.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Residual_current_device_2pole.jpg/77px-Residual_current_device_2pole.jpg" width="77" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Residual_current_device_2pole.jpg/115px-Residual_current_device_2pole.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Residual_current_device_2pole.jpg/154px-Residual_current_device_2pole.jpg 2x" data-file-width="1285" data-file-height="2002" /></a></div>
+</div>
+<div class="gallerytext">
+<p>A two-pole, or double-pole, residual-current device. The test button and connect/disconnect switch are colored blue. A fault will trigger the switch to its down (off) position, which in this device would disconnect both conductors.</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:37.5px auto;"><a href="/wiki/File:IEC_TS_60479-1_electric_shock_graph.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7f/IEC_TS_60479-1_electric_shock_graph.svg/120px-IEC_TS_60479-1_electric_shock_graph.svg.png" width="120" height="75" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7f/IEC_TS_60479-1_electric_shock_graph.svg/180px-IEC_TS_60479-1_electric_shock_graph.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7f/IEC_TS_60479-1_electric_shock_graph.svg/240px-IEC_TS_60479-1_electric_shock_graph.svg.png 2x" data-file-width="512" data-file-height="320" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Log-log graph of the effect of alternating current <i>I</i> of duration <i>T</i> passing from left hand to feet as defined in IEC publication 60479-1.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:22.5px auto;"><a href="/wiki/File:FISkizze.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cc/FISkizze.svg/120px-FISkizze.svg.png" width="120" height="105" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cc/FISkizze.svg/180px-FISkizze.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cc/FISkizze.svg/240px-FISkizze.svg.png 2x" data-file-width="504" data-file-height="441" /></a></div>
+</div>
+<div class="gallerytext">
+<p>1: Electromagnet with help electronics<br />
+2: Current transformer secondary winding<br />
+3: Transformer core<br />
+4: Test push-button<br />
+L: live conductor<br />
+N: neutral conductor</p>
+</div>
+</div>
+</li>
+</ul>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Purpose_and_operation"><span class="tocnumber">1</span> <span class="toctext">Purpose and operation</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Typical_design"><span class="tocnumber">2</span> <span class="toctext">Typical design</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#RCD_with_additional_overcurrent_protection_circuitry_.28RCBO_or_GFCI_breaker.29"><span class="tocnumber">2.1</span> <span class="toctext">RCD with additional overcurrent protection circuitry (RCBO or GFCI breaker)</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#RCD_with_additional_arc_fault_protection_circuitry"><span class="tocnumber">2.2</span> <span class="toctext">RCD with additional arc fault protection circuitry</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Common_features_and_variations"><span class="tocnumber">3</span> <span class="toctext">Common features and variations</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Differences_in_disconnection_actions"><span class="tocnumber">3.1</span> <span class="toctext">Differences in disconnection actions</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Number_of_poles_and_pole_terminology"><span class="tocnumber">3.2</span> <span class="toctext">Number of poles and pole terminology</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Sensitivity"><span class="tocnumber">3.3</span> <span class="toctext">Sensitivity</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Break_time_.28response_speed.29"><span class="tocnumber">3.4</span> <span class="toctext">Break time (response speed)</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Type.2C_or_mode_.28types_of_current_leakage_issue_detected.29"><span class="tocnumber">3.5</span> <span class="toctext">Type, or mode (types of current leakage issue detected)</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Surge_current_resistance"><span class="tocnumber">3.6</span> <span class="toctext">Surge current resistance</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#Testing_of_correct_operation"><span class="tocnumber">4</span> <span class="toctext">Testing of correct operation</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Limitations"><span class="tocnumber">5</span> <span class="toctext">Limitations</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#History_and_nomenclature"><span class="tocnumber">6</span> <span class="toctext">History and nomenclature</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#Regulation_and_adoption"><span class="tocnumber">7</span> <span class="toctext">Regulation and adoption</span></a>
+<ul>
+<li class="toclevel-2 tocsection-16"><a href="#Australia"><span class="tocnumber">7.1</span> <span class="toctext">Australia</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#Austria"><span class="tocnumber">7.2</span> <span class="toctext">Austria</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#Belgium"><span class="tocnumber">7.3</span> <span class="toctext">Belgium</span></a></li>
+<li class="toclevel-2 tocsection-19"><a href="#Brazil"><span class="tocnumber">7.4</span> <span class="toctext">Brazil</span></a></li>
+<li class="toclevel-2 tocsection-20"><a href="#Denmark"><span class="tocnumber">7.5</span> <span class="toctext">Denmark</span></a></li>
+<li class="toclevel-2 tocsection-21"><a href="#Germany"><span class="tocnumber">7.6</span> <span class="toctext">Germany</span></a></li>
+<li class="toclevel-2 tocsection-22"><a href="#Italy"><span class="tocnumber">7.7</span> <span class="toctext">Italy</span></a></li>
+<li class="toclevel-2 tocsection-23"><a href="#New_Zealand"><span class="tocnumber">7.8</span> <span class="toctext">New Zealand</span></a></li>
+<li class="toclevel-2 tocsection-24"><a href="#North_America"><span class="tocnumber">7.9</span> <span class="toctext">North America</span></a></li>
+<li class="toclevel-2 tocsection-25"><a href="#Norway"><span class="tocnumber">7.10</span> <span class="toctext">Norway</span></a></li>
+<li class="toclevel-2 tocsection-26"><a href="#South_Africa"><span class="tocnumber">7.11</span> <span class="toctext">South Africa</span></a></li>
+<li class="toclevel-2 tocsection-27"><a href="#Turkey"><span class="tocnumber">7.12</span> <span class="toctext">Turkey</span></a></li>
+<li class="toclevel-2 tocsection-28"><a href="#United_Kingdom"><span class="tocnumber">7.13</span> <span class="toctext">United Kingdom</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-29"><a href="#See_also"><span class="tocnumber">8</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-30"><a href="#References"><span class="tocnumber">9</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-31"><a href="#External_links"><span class="tocnumber">10</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Purpose_and_operation">Purpose and operation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Residual-current_device&amp;action=edit&amp;section=1" title="Edit section: Purpose and operation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>RCDs are designed to disconnect the circuit if there is a leakage current. By detecting small leakage currents (typically 5–30 mA) and disconnecting quickly enough (&lt;300 ms), they may prevent <a href="/wiki/Electrocution" title="Electrocution">electrocution</a>. They are an essential part of the automatic disconnection of supply (ADS), i.e. to switch off when a fault develops, rather than rely on human intervention, one of the essential tenets of modern electrical practice. There are also RCDs with intentionally slower responses and lower sensitivities, designed to protect equipment or avoid starting electrical fires, but not disconnect unnecessarily the equipment with greater leakage currents in normal operation. To prevent electrocution, RCDs should operate within 25–40 milliseconds with any leakage currents (through a person) of greater than 30 mA, before electric shock can drive the <a href="/wiki/Heart" title="Heart">heart</a> into <a href="/wiki/Ventricular_fibrillation" title="Ventricular fibrillation">ventricular fibrillation</a>, the most common cause of death through electric shock. By contrast, conventional circuit breakers or fuses only break the circuit when the <i>total</i> current is excessive (which may be thousands of times the leakage current an RCD responds to). A small leakage current, such as through a person, can be a very serious fault, but would probably not increase the total current enough for a fuse or circuit breaker to break the circuit, and certainly not do so fast enough to save a life.</p>
+<p>RCDs operate by measuring the current balance between two conductors using a differential <a href="/wiki/Current_transformer" title="Current transformer">current transformer</a>. This measures the difference between current flowing through the <a href="/wiki/Live_wire_(electricity)" class="mw-redirect" title="Live wire (electricity)">live conductor</a> and that returning through the <a href="/wiki/Neutral_wire" class="mw-redirect" title="Neutral wire">neutral conductor</a>. If these do not sum to zero, there is a leakage of current to somewhere else (to earth/ground or to another circuit), and the device will open its contacts. Operation does not require a fault current to return through the earth wire in the installation; the trip will operate just as well if the return path is through plumbing, contact with the ground or any other current path. Automatic disconnection and a measure of shock protection is therefore still provided even if the earth wiring of the installation is damaged or incomplete.</p>
+<p>Residual-current detection is complementary to over-current detection. Residual-current detection cannot provide protection for overload or short-circuit currents, except for the special case of a short circuit from live to ground (not live to neutral).</p>
+<p>For a RCD used with three-phase power, all three live conductors and the neutral (if fitted) must pass through the current transformer.</p>
+<h2><span class="mw-headline" id="Typical_design">Typical design</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Residual-current_device&amp;action=edit&amp;section=2" title="Edit section: Typical design">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:352px;"><a href="/wiki/File:ResidualCurrentCircuitBreak.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/a/a7/ResidualCurrentCircuitBreak.jpg" width="350" height="171" class="thumbimage" data-file-width="350" data-file-height="171" /></a>
+<div class="thumbcaption">Internal mechanism of RCD</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:302px;"><a href="/wiki/File:FI-offen.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/FI-offen.jpg/300px-FI-offen.jpg" width="300" height="183" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/FI-offen.jpg/450px-FI-offen.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0a/FI-offen.jpg/600px-FI-offen.jpg 2x" data-file-width="640" data-file-height="391" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:FI-offen.jpg" class="internal" title="Enlarge"></a></div>
+Opened 3-phase residual-current device</div>
+</div>
+</div>
+<p>The diagram depicts the internal mechanism of a residual-current device (RCD). The device is designed to be wired in-line in an appliance power cord. It is rated to carry a maximal current of 13 A and is designed to trip on a leakage current of 30 mA. This is an active RCD; that is, it latches electrically and therefore trips on power failure, a useful feature for equipment that could be dangerous on unexpected re-energisation. Some early RCDs were entirely electromechanical and relied on finely balanced sprung over-centre mechanisms driven directly from the current transformer. As these are hard to manufacture to the required accuracy and prone to drift in sensitivity both from pivot wear and lubricant dry-out, the electronically amplified type with a more robust solenoid part as illustrated are now dominant.</p>
+<p>The incoming supply and the neutral conductors are connected to the terminals at (1), and the outgoing load conductors are connected to the terminals at (2). The earth conductor (not shown) is connected through from supply to load uninterrupted. When the reset button (3) is pressed, the <a href="/wiki/Electrical_connector" title="Electrical connector">contacts</a> ((4) and another, hidden behind (5)) close, allowing current to pass. The <a href="/wiki/Solenoid" title="Solenoid">solenoid</a> (5) keeps the contacts closed when the reset button is released.</p>
+<p>The sense coil (6) is a <a href="/wiki/Test_probe#Current_probes" title="Test probe">differential current transformer</a> which surrounds (but is not electrically connected to) the live and neutral conductors. In normal operation, all the current down the live conductor returns up the neutral conductor. The currents in the two conductors are therefore equal and opposite and cancel each other out.</p>
+<p>Any fault to earth (for example caused by a person touching a live component in the attached appliance) causes some of the current to take a different return path, which means that there is an imbalance (difference) in the current in the two conductors (single-phase case), or, more generally, a nonzero sum of currents from among various conductors (for example, three phase conductors and one neutral conductor).</p>
+<p>This difference causes a current in the sense coil (6), which is picked up by the sense circuitry (7). The sense circuitry then removes power from the solenoid (5), and the contacts (4) are forced apart by a <a href="/wiki/Spring_(device)" title="Spring (device)">spring</a>, cutting off the electricity supply to the appliance.</p>
+<p>The device is designed so that the current is interrupted in milliseconds, greatly reducing the chances of a dangerous <a href="/wiki/Electric_shock" title="Electric shock">electric shock</a> being received.</p>
+<p>The test button (8) allows the correct operation of the device to be verified by passing a small current through the orange test wire (9). This simulates a fault by creating an imbalance in the sense coil. If the RCD does not trip when this button is pressed, then the device must be replaced.</p>
+<h3><span class="mw-headline" id="RCD_with_additional_overcurrent_protection_circuitry_.28RCBO_or_GFCI_breaker.29">RCD with additional overcurrent protection circuitry (RCBO or GFCI breaker)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Residual-current_device&amp;action=edit&amp;section=3" title="Edit section: RCD with additional overcurrent protection circuitry (RCBO or GFCI breaker)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Residual-current and overcurrent protection may be combined in one device for installation into the service panel; this device is known as a GFCI (ground fault circuit interrupter) breaker in the USA and Canada, and as an RCBO (residual-current circuit breaker with overload protection) in Europe. In the US, GFCI breakers are more expensive than GFCI outlets.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (April 2016)">citation needed</span></a></i>]</sup></p>
+<p>As well as requiring both line and neutral inputs and outputs (or, full 3-phase), many GFCI/RCBO devices require a functional earth (FE) connection. This serves to provide both EMC immunity and to reliably operate the device if the input-side neutral connection is lost but live and earth remain.</p>
+<p>For reasons of space, many devices, especially in DIN rail format, use flying leads rather than screw terminals, especially for the neutral input and FE connections. Additionally, because of the small form factor, the output cables of some models (Eaton/MEM) are used to form the primary winding of the RCD part, and the outgoing circuit cables must be led through a specially dimensioned terminal tunnel with the current transformer part around it. This can lead to incorrect failed trip results when testing with meter probes from the screw heads of the terminals, rather than from the final circuit wiring.</p>
+<p>Having one RCD feeding another is generally unnecessary, provided they have been wired properly. One exception is the case of a <a href="/wiki/Earthing_system#TT_network" title="Earthing system">TT earthing system</a>, where the <a href="/wiki/Earth_loop_impedance" class="mw-redirect" title="Earth loop impedance">earth loop impedance</a> may be high, meaning that a ground fault might not cause sufficient current to trip an ordinary circuit breaker or fuse. In this case a special 100 mA (or greater) trip current time-delayed RCD is installed, covering the whole installation, and then more sensitive RCDs should be installed downstream of it for sockets and other circuits that are considered high-risk.</p>
+<ul class="gallery mw-gallery-traditional center">
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Differential_residual_current_circuit_interrupter.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Differential_residual_current_circuit_interrupter.JPG/70px-Differential_residual_current_circuit_interrupter.JPG" width="70" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Differential_residual_current_circuit_interrupter.JPG/105px-Differential_residual_current_circuit_interrupter.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/70/Differential_residual_current_circuit_interrupter.JPG/140px-Differential_residual_current_circuit_interrupter.JPG 2x" data-file-width="1122" data-file-height="1925" /></a></div>
+</div>
+<div class="gallerytext">
+<p>CHINT's RCBO</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Schneider_Electric_A9D31620.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/66/Schneider_Electric_A9D31620.JPG/90px-Schneider_Electric_A9D31620.JPG" width="90" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/66/Schneider_Electric_A9D31620.JPG/135px-Schneider_Electric_A9D31620.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/66/Schneider_Electric_A9D31620.JPG/180px-Schneider_Electric_A9D31620.JPG 2x" data-file-width="2736" data-file-height="3648" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Schneider Electric</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:BHL-31.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/BHL-31.jpg/76px-BHL-31.jpg" width="76" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/BHL-31.jpg/114px-BHL-31.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/BHL-31.jpg/152px-BHL-31.jpg 2x" data-file-width="450" data-file-height="709" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Shihlin Electric</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:ABB_RCBO.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ABB_RCBO.jpg/90px-ABB_RCBO.jpg" width="90" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ABB_RCBO.jpg/135px-ABB_RCBO.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ABB_RCBO.jpg/180px-ABB_RCBO.jpg 2x" data-file-width="450" data-file-height="600" /></a></div>
+</div>
+<div class="gallerytext">
+<p>ABB</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Leviton_Dual_Function_AFCI_GFCI_Receptacle.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/Leviton_Dual_Function_AFCI_GFCI_Receptacle.jpg/80px-Leviton_Dual_Function_AFCI_GFCI_Receptacle.jpg" width="80" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/Leviton_Dual_Function_AFCI_GFCI_Receptacle.jpg/120px-Leviton_Dual_Function_AFCI_GFCI_Receptacle.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/10/Leviton_Dual_Function_AFCI_GFCI_Receptacle.jpg/160px-Leviton_Dual_Function_AFCI_GFCI_Receptacle.jpg 2x" data-file-width="2537" data-file-height="3800" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Typical US AFCI/GFCI</p>
+</div>
+</div>
+</li>
+</ul>
+<h3><span class="mw-headline" id="RCD_with_additional_arc_fault_protection_circuitry">RCD with additional arc fault protection circuitry</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Residual-current_device&amp;action=edit&amp;section=4" title="Edit section: RCD with additional arc fault protection circuitry">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In addition to Ground Fault Circuit Interrupters (GFCIs), <a href="/wiki/Arc-fault_circuit_interrupter" title="Arc-fault circuit interrupter">Arc-fault circuit interrupter</a> devices (AFCI) are equally important as they offer added protection from potentially hazardous arc-faults resulting from damage in branch circuit wiring as well as extensions to branches such as appliances and cord sets. By detecting hazardous arc-faults and responding by interrupting power, AFCIs helps reduce the likelihood of the home's electrical system being an ignition source of a fire. Dual Function AFCI/GFCI devices offer both electrical fire prevention and shock prevention in one device making them a solution for many rooms in the home, especially when replacing an existing standard receptacle or existing ungrounded receptacle.</p>
+<h2><span class="mw-headline" id="Common_features_and_variations">Common features and variations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Residual-current_device&amp;action=edit&amp;section=5" title="Edit section: Common features and variations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Differences_in_disconnection_actions">Differences in disconnection actions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Residual-current_device&amp;action=edit&amp;section=6" title="Edit section: Differences in disconnection actions">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Major differences exist regarding the manner in which an RCD will act to disconnect the power to a circuit or appliance.</p>
+<p>Two differing nomenclatures are in use to identify what is essentially the main feature viz. either 'Active' or 'Passive', and 'Latched' or 'non-Latching'.</p>
+<p>All RCDs have a latching feature. The latch becomes set when the device is armed - typically by moving a switch to the on position, or depressing a reset button. Once armed, the device permits power to flow until some electrical event occurs that causes the latch to become un-set. That trigger is normally intended to be the detection of a serious electrical irregularity, but un-latching can also occur by the disconnection of the power; such power-disconnection is not regarded as an irregular event, and includes such events as a user disconnecting the power intentionally or unintentionally, or a temporary power failure attributed to the electricity service provider.</p>
+<p>'Active' RCDs operate to un-latch themselves when <i>any</i> irregular power event occurs, and that includes any simple power-disconnection caused by any means whatsoever; no automatic re-connection operation follows the cessation of whatever caused the RCD to be triggered; the power to the circuit or appliance will remain disconnected until the RCD has been manually reset by the user.</p>
+<p>'Passive' RCDs operate to un-latch themselves solely when the power irregularity appears to be a serious electrical fault. However, except where the power has been disconnected by the RCD un-latching itself (or by the user manually triggering the device), the RCD will remain latched throughout any period when the power is not connected, and remain latched and ready to continue usage in its armed mode as soon as the power supply is restored.</p>
+<p>RCDs installed as fixed devices within a consumer power distribution unit are almost always of the passive variety, so that household appliances such as refrigerators and freezers will return to their regular mode of operation as soon as the power supply resumes normal operation.</p>
+<p>RCDs of a portable type are mostly of the active variety, and all trigger events will cause them to un-latch the settings - specifically to avoid power resumption when the power supply previously disconnected by the RCD itself is restored. This type of action is particularly desirable with appliances such as power tools and garden machinery that could become dangerous if they were re-activated without personal supervision. Such portable RCD types are generally active types of either a plug-top design intended to be hard-wired to an individual appliance, or as plug-in units to fit between an appliance plug and a wall-socket, or built-in to extension cables.</p>
+<p>However, it is possible to obtain a few types of passive latched devices for permanent attachment directly to an appliance power cord, or for incorporation into the power line of selected appliances - sometimes embodied within a manually-wired plug top form such as the British rectangular blade variety. There is a presumption that a passive RCD will have been fitted both solely and directly to appropriate equipment.</p>
+<p>A further variety of fitting for an RCD is by incorporation within a wall-socket, where a choice of either active or passive fittings are available - on the presumption that the user will be aware of the nature of the appliances to be so connected and will restrict the usage of such wall sockets accordingly.</p>
+<p>Passive RCDs tend to be made in the 30 milliamp + 40 millisecond rating (and higher within a CPDU for special purposes). The active varieties are often available in lower trip ratings (as low as 10 ma), and more choice of those lower ratings may be available; their trip timing is often 30 milliseconds. (All currents expressed here are at 250 volts). Lower ratings in RCDs are more prone to cause nuisance tripping for no necessarily obvious reason.</p>
+<h3><span class="mw-headline" id="Number_of_poles_and_pole_terminology">Number of poles and pole terminology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Residual-current_device&amp;action=edit&amp;section=7" title="Edit section: Number of poles and pole terminology">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The number of poles represents the number of conductors that are interrupted when a fault condition occurs. RCDs used on single-phase AC supplies (two current paths), such as domestic power, are usually one- or two-pole designs, also known as <a href="/wiki/Single-pole" class="mw-redirect" title="Single-pole">single-</a> and <a href="/wiki/Double-pole" class="mw-redirect" title="Double-pole">double-pole</a>. A single-pole RCD interrupts only the energized conductor, while a double-pole RCD interrupts both the energized and return conductors. (In a single-pole RCD, the return conductor is usually anticipated to be at <a href="/wiki/Ground_potential" class="mw-redirect" title="Ground potential">ground potential</a> at all times and therefore safe on its own, however see <i><a href="#Limitations">limitations</a></i> below).</p>
+<p>RCDs with three or more poles can be used on <a href="/wiki/Three-phase" title="Three-phase">three-phase</a> AC supplies (three current paths) or to disconnect an earth conductor as well, with four-pole RCDs used to interrupt three-phase + neutral supplies. Specially designed RCDs can also be used with both AC and DC power distribution systems.</p>
+<p>The following terms are sometimes used to describe the manner in which conductors are connected and disconnected by an RCD:</p>
+<dl>
+<dd>
+<ul>
+<li><b>Single-pole / SP / one-pole</b> - the RCD will disconnect the energized wire only.</li>
+<li><b>Double-pole / DP / two-pole</b> - the RCD will disconnect both the energized and return wires.</li>
+<li><b>1+N</b> and <b>1P+N</b> – non-standard terms used in the context of RCBOs, at times used differently by different manufacturers. Typically these terms <i>may</i> signify that the return (neutral) conductor is an isolating pole only, without a protective element (an unprotected but switched neutral), <i>or</i> that the RCBO provides a conducting path and connectors for the return (neutral) conductor but this path remains uninterrupted when a fault occurs (sometimes known as <b>"solid neutral"</b>),<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <i>or</i> that both conductors are disconnected for some faults (such as RCD detected leakage) but only one conductor is disconnected for other faults (such as overload).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></li>
+</ul>
+</dd>
+</dl>
+<h3><span class="mw-headline" id="Sensitivity">Sensitivity</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Residual-current_device&amp;action=edit&amp;section=8" title="Edit section: Sensitivity">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>RCD sensitivity is expressed as the rated residual operating current, noted <b>I<sub>Δn</sub></b>. Preferred values have been defined by the IEC, thus making it possible to divide RCDs into three groups according to their I<sub>Δn</sub> value:</p>
+<ul>
+<li>high sensitivity (<b>HS</b>): 6 – 10 – 30 mA (for direct-contact / life injury protection),</li>
+<li>medium sensitivity (<b>MS</b>): 100 – 300 – 500 – 1000 mA (for fire protection),</li>
+<li>low sensitivity (<b>LS</b>): 3 – 10 – 30 A (typically for protection of machine).</li>
+</ul>
+<p>Note that the nominal value of residual current indicated above is not an absolute value. More information is presented <a href="#Break_time">below</a>.</p>
+<h3><span class="mw-headline" id="Break_time_.28response_speed.29">Break time (response speed)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Residual-current_device&amp;action=edit&amp;section=9" title="Edit section: Break time (response speed)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>There are two groups of devices:</p>
+<ul>
+<li><i>G</i> (general use) for <i>instantaneous</i> RCDs (i.e., without a time delay);
+<ul>
+<li>minimal break time: immediate,</li>
+<li>must never trip at 0.5× I<sub>Δn</sub></li>
+<li>maximal break time: 200 ms for 1× I<sub>Δn</sub>, 150 ms for 2× I<sub>Δn</sub>, and 40 ms for 5× I<sub>Δn</sub>.</li>
+</ul>
+</li>
+<li><i>S</i> (selective) or <i>T</i> (time-delayed) for RCDs with a short time <i>delay</i> (typically used at the origin of an installation for fire protection to discriminate with<i>G</i>devices at the loads, and in circuits containing surge suppressors);
+<ul>
+<li>must never trip at 0.5× I<sub>Δn</sub></li>
+<li>minimal break time: 130 ms for 1× I<sub>Δn</sub>, 60 ms for 2× I<sub>Δn</sub>, and 50 ms for 5× I<sub>Δn</sub>,</li>
+<li>maximal break time: 500 ms for 1× I<sub>Δn</sub>, 200 ms for 2× I<sub>Δn</sub>, and 150 ms for 5× I<sub>Δn</sub>.</li>
+</ul>
+</li>
+</ul>
+<p>Programmable Earth fault Relays are available to allow tiered installations to minimise outage, e.g. 300mA, 300msec at origin, feeding several 100mA <i>S</i> type at each sub-board, and 30mA <i>G</i> type for each final circuit.</p>
+<h3><span class="mw-headline" id="Type.2C_or_mode_.28types_of_current_leakage_issue_detected.29">Type, or mode (types of current leakage issue detected)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Residual-current_device&amp;action=edit&amp;section=10" title="Edit section: Type, or mode (types of current leakage issue detected)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Standard IEC 60755 (General requirements for residual current operated protective devices) defines three types of RCD depending on the characteristics of the fault current.</p>
+<ul>
+<li>Type <b>AC</b>: RCD for which tripping is ensured
+<ul>
+<li>for residual sinusoidal alternating currents.</li>
+</ul>
+</li>
+<li>Type <b>A</b>: RCD for which tripping is ensured
+<ul>
+<li>as for type AC,</li>
+<li>for residual <a href="/wiki/Pulsating_direct_current" title="Pulsating direct current">pulsating direct currents</a>,</li>
+<li>for residual pulsating direct currents superimposed by a smooth direct current of 6&#160;mA, with or without phase-angle control, independent of the polarity.</li>
+</ul>
+</li>
+<li>Type <b>B</b>: RCD for which tripping is ensured
+<ul>
+<li>as for type A,</li>
+<li>for residual sinusoidal currents up to 1&#160;kHz,</li>
+<li>for residual sinusoidal currents superposed by a pure direct current,</li>
+<li>for pulsating direct currents superposed by a pure direct current,</li>
+<li>for residual currents that may result from rectifying circuits
+<ul>
+<li>three-pulse star connection or six-pulse bridge connection,</li>
+<li>two-pulse bridge connection line-to-line with or without phase-angle monitoring, independently of the polarity.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h3><span class="mw-headline" id="Surge_current_resistance">Surge current resistance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Residual-current_device&amp;action=edit&amp;section=11" title="Edit section: Surge current resistance">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The surge current refers to the peak current an RCD is designed to withstand using a test impulse of specified characteristics (an <span class="clarify-content" style="padding-left:0.1em; padding-right:0.1em; color:#595959; border:1px solid #DDD;">8/20 µs</span><sup class="noprint Inline-Template Template-Clarify" style="margin-left:0.1em; white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Please_clarify" title="Wikipedia:Please clarify"><span title="This passage needs to be better explained. (September 2015)">clarify</span></a></i>]</sup> impulse, named after the <a href="/wiki/Time_constant" title="Time constant">time constants</a> of the rise and fall of current).</p>
+<p>The IEC 61008 and IEC 61009 standards impose the use of a 0.5 µs of 100&#160;kHz damped oscillator wave (ring wave) to test the ability of residual-current protection devices to withstand operational discharges with a peak current equal to 200 A. With regard to atmospheric discharges, IEC 61008 and 61009 standards establish the <span class="clarify-content" style="padding-left:0.1em; padding-right:0.1em; color:#595959; border:1px solid #DDD;">8/20 µs</span><sup class="noprint Inline-Template Template-Clarify" style="margin-left:0.1em; white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Please_clarify" title="Wikipedia:Please clarify"><span title="This passage needs to be better explained. (September 2015)">clarify</span></a></i>]</sup> surge current test with 3 kA peak current but limit the requirement to RCDs classified as "selective".</p>
+<p><br />
+A ground fault circuit interrupter circuit breaker (GFCI breaker in USA and Canada) and residual-current breaker with overload (RCBO in Europe) are devices that combine the functions of a residual-current device with a <a href="/wiki/Circuit_breaker" title="Circuit breaker">circuit breaker</a>. They detect both supply imbalance and overload current.</p>
+<p>In Europe, RCDs can fit on the same <a href="/wiki/DIN_rail" title="DIN rail">DIN rail</a> as the MCBs, however the busbar arrangements in <a href="/wiki/Consumer_unit" title="Consumer unit">consumer units</a> and <a href="/wiki/Distribution_board" title="Distribution board">distribution boards</a> can make it awkward to use them in this way. If it is desired to protect an individual circuit, an RCBO (residual-current circuit breaker with overcurrent protection) can be used. This incorporates an RCD and a <a href="/wiki/Circuit_breaker#Low_voltage_European_circuit_breaker" title="Circuit breaker">miniature circuit breaker</a> in one device.</p>
+<p><a href="/wiki/Mains_power_plug" class="mw-redirect" title="Mains power plug">Electrical plugs</a> with incorporated RCD are sometimes installed on appliances that might be considered to pose a particular safety hazard, for example long extension leads, which might be used outdoors, or garden equipment or hair dryers, which may be used near a bath or sink. Occasionally an in-line RCD may be used to serve a similar function to one in a plug. By putting the RCD in the extension lead, protection is provided at whatever outlet is used even if the building has old wiring, such as knob and tube, or wiring that does not contain a grounding conductor.</p>
+<p>In North America, GFI receptacles can be used in cases where there is no grounding conductor, but they must be labeled as "ungrounded". An ungrounded GFI receptacle will trip using the built-in "test" button, but will not trip using a GFI test plug, because the plug tests by shorting a small current from line to the non-existent ground.</p>
+<p><a href="/wiki/Electrical_socket" class="mw-redirect" title="Electrical socket">Electrical sockets</a> with included RCDs are becoming common.</p>
+<h2><span class="mw-headline" id="Testing_of_correct_operation">Testing of correct operation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Residual-current_device&amp;action=edit&amp;section=12" title="Edit section: Testing of correct operation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>RCDs can be tested with built-in test button to confirm functionality on a regular basis. RCDs may not operate correctly if wired improperly, so they are generally tested by the installer to verify correct operation. Use of a <a href="/wiki/Solenoid_voltmeter" title="Solenoid voltmeter">solenoid voltmeter</a> from live to earth provides an external path and can test the wiring to the RCD. Such a test may be performed on installation of the device and at any "downstream" outlet.</p>
+<h2><span class="mw-headline" id="Limitations">Limitations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Residual-current_device&amp;action=edit&amp;section=13" title="Edit section: Limitations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A residual-current circuit breaker cannot remove all risk of electric shock or fire. In particular, an RCD alone will not detect overload conditions, phase-to-neutral short circuits or phase-to-phase short circuits (see <a href="/wiki/Three-phase_electric_power" title="Three-phase electric power">three-phase electric power</a>). Over-current protection (<a href="/wiki/Fuse_(electrical)" title="Fuse (electrical)">fuses</a> or <a href="/wiki/Circuit_breaker" title="Circuit breaker">circuit breakers</a>) must be provided. Circuit breakers that combine the functions of an RCD with overcurrent protection respond to both types of fault. These are known as RCBOs and are available in 2-, 3- and 4-pole configurations. RCBOs will typically have separate circuits for detecting current imbalance and for overload current but use a common interrupting mechanism.</p>
+<p>An RCD helps to protect against electric shock when current flows through a person from a phase (live / line / hot) to earth. It cannot protect against electric shock when current flows through a person from phase to neutral or from phase to phase, for example where a finger touches both live and neutral contacts in a light fitting; a device cannot differentiate between current flow through an intended load from flow through a person, though the RCD may still trip if the person is in contact with the ground (earth), as some current may still pass through the persons finger and body to earth.</p>
+<p>Whole installations on a single RCD, common in older installations in the UK, are prone to "nuisance" trips that can cause secondary safety problems with loss of lighting and defrosting of food. Frequently the trips are caused by deteriorating insulation on heater elements, such as water heaters and cooker elements or rings. Although regarded as a nuisance, the fault is with the deteriorated element and not the RCD: replacement of the offending element will resolve the problem, but replacing the RCD will not.</p>
+<p>In the case of RCDs that need a power supply, a dangerous condition can arise if the neutral wire is broken or switched off on the supply side of the RCD, while the corresponding live wire remains uninterrupted. The tripping circuit needs power to work and does not trip when the power supply fails. Connected equipment will not work without a neutral, but the RCD cannot protect people from contact with the energized wire. For this reason circuit breakers must be installed in a way that ensures that the neutral wire cannot be switched off unless the live wire is also switched off at the same time. Where there is a requirement for switching off the neutral wire, two-pole breakers (or four-pole for 3-phase) must be used. To provide some protection with an interrupted neutral, some RCDs and RCBOs are equipped with an auxiliary connection wire that must be connected to the earth busbar of the distribution board. This either enables the device to detect the missing neutral of the supply, causing the device to trip, or provides an alternative supply path for the tripping circuitry, enabling it to continue to function normally in the absence of the supply neutral.</p>
+<p>Related to this, a single-pole RCD/RCBO interrupts the energized conductor only, while a double-pole device interrupts both the energized and return conductors. Usually this is a standard and safe practice, since the return conductor is held at ground potential anyway. However, because of its design, a single-pole RCD will not isolate or disconnect all relevant wires in certain uncommon situations, for example where the return conductor is not being held, as expected, at ground potential, or where current leakage occurs between the return and earth conductors. In these cases, a double-pole RCD will offer protection, since the return conductor would also be disconnected.</p>
+<h2><span class="mw-headline" id="History_and_nomenclature">History and nomenclature</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Residual-current_device&amp;action=edit&amp;section=14" title="Edit section: History and nomenclature">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The world’s first high-sensitivity earth leakage protection system (i.e. a system capable of protecting people from the hazards of direct contact between a live conductor and earth), was a second-harmonic magnetic amplifier core-balance system, known as the magamp, developed in <a href="/wiki/South_Africa" title="South Africa">South Africa</a> by <a href="/w/index.php?title=Henri_Rubin&amp;action=edit&amp;redlink=1" class="new" title="Henri Rubin (page does not exist)">Henri Rubin</a>. Electrical hazards were of great concern in South African <a href="/wiki/Gold_mine" class="mw-redirect" title="Gold mine">gold mines</a>, and Rubin, an engineer at the company F.W.J. Electrical Industries, initially developed a cold-cathode system in 1955 which operated at 525 V and had a tripping sensitivity of 250 mA. Prior to this, core balance earth leakage protection systems operated at sensitivities of about 10 A.</p>
+<p>The cold cathode system was installed in a number of gold mines and worked reliably. However, Rubin began working on a completely novel system with greatly improved sensitivity, and by early 1956, he had produced a prototype second-harmonic magnetic amplifier-type core balance system (South African Patent No. 2268/56 and Australian Patent No. 218360). The prototype magamp was rated at 220 V, 60 A and had an internally adjustable tripping sensitivity of 12.5–17.5 mA. Very rapid tripping times were achieved through a novel design, and this combined with the high sensitivity was well within the safe current-time envelope for ventricular fibrillation determined by <a href="/wiki/Charles_Dalziel" title="Charles Dalziel">Charles Dalziel</a> of the <a href="/wiki/University_of_California,_Berkeley" title="University of California, Berkeley">University of California, Berkeley</a>, USA, who had estimated electrical shock hazards in humans. This system, with its associated circuit breaker, included overcurrent and short-circuit protection. In addition, the original prototype was able to trip at a lower sensitivity in the presence of an interrupted neutral, thus protecting against an important cause of electrical fire.</p>
+<p>Following the accidental electrocution of a woman in a domestic accident at the Stilfontein gold mining village near <a href="/wiki/Johannesburg" title="Johannesburg">Johannesburg</a>, a few hundred F.W.J. 20 mA magamp earth leakage protection units were installed in the homes of the mining village during 1957 and 1958. F.W.J. Electrical Industries, which later changed its name to FW Electrical Industries, continued to manufacture 20 mA single phase and three phase magamp units.</p>
+<p>At the time that he worked on the magamp, Rubin also considered using <a href="/wiki/Transistor" title="Transistor">transistors</a> in this application, but concluded that the early transistors then available were too unreliable. However, with the advent of improved transistors, the company that he worked for and other companies later produced transistorized versions of earth leakage protection.</p>
+<p>In 1961, Dalziel, working with Rucker Manufacturing Co., developed a transistorized device for earth leakage protection which became known as a Ground Fault Circuit Interrupter (GFCI), sometimes colloquially shortened to Ground Fault Interrupter (GFI). This name for high-sensitivity earth leakage protection is still in common use in the U.S.A.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></p>
+<p>In the early 1970s most North American GFCI devices were of the circuit breaker type. GFCIs built into the outlet receptacle became commonplace beginning in the 1980s. The circuit breaker type, installed into a <a href="/wiki/Electrical_distribution_panel" class="mw-redirect" title="Electrical distribution panel">distribution panel</a>, suffered from accidental trips mainly caused by poor or inconsistent insulation on the wiring. False trips were frequent when insulation problems were compounded by long circuit lengths. So much current leaked along the length of the conductors' insulation that the breaker might trip with the slightest increase of current imbalance. The migration to outlet receptacle based protection in North American installations reduced the accidental trips and provided obvious verification that wet areas were under <a href="/wiki/National_Electrical_Code" title="National Electrical Code">electrical code</a>-required protection. European installations continue to use primarily RCDs installed at the distribution board, which provides protection in case of damage to fixed wiring; In Europe socket-based RCDs are primarily used for retro-fitting.</p>
+<h2><span class="mw-headline" id="Regulation_and_adoption">Regulation and adoption</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Residual-current_device&amp;action=edit&amp;section=15" title="Edit section: Regulation and adoption">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This section <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Residual-current_device&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span> <small><i>(February 2012)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></span></td>
+</tr>
+</table>
+<p>Regulations differ widely from country to country. In most countries, not all circuits in a home are protected by RCDs. If a single RCD is installed for an entire electrical installation, any fault may cut all power to the premises.</p>
+<h3><span class="mw-headline" id="Australia">Australia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Residual-current_device&amp;action=edit&amp;section=16" title="Edit section: Australia">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In Australia and New Zealand, residual current devices have been mandatory on power circuits since 1991 and on light circuits since 2000.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> A minimum of two RCDs is required per domestic installation. All socket outlets and lighting circuits are to be distributed over circuit RCDs. A maximum of three subcircuits only, may be connected to a single RCD.</p>
+<h3><span class="mw-headline" id="Austria">Austria</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Residual-current_device&amp;action=edit&amp;section=17" title="Edit section: Austria">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Austria regulated residual current devices in the ÖVE E8001-1/A1:2013-11-01 norm (most recent revision). It has been required in private housing since 1980. The maximum activation time must not exceed 0.4 seconds. It needs to be installed on all circuits with power plugs with a maximum leakage current of 30 mA and a maximum rated current of 16 A.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></p>
+<p>Additional requirements are placed on circuits in wet areas, construction sites and commercial buildings.</p>
+<h3><span class="mw-headline" id="Belgium">Belgium</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Residual-current_device&amp;action=edit&amp;section=18" title="Edit section: Belgium">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Belgian domestic installations are required to be equipped with a 300 mA residual current device that protects all circuits. Furthermore, at least one 30 mA residual current device is required that protects all circuits in "wet rooms" (e.g. bathroom, kitchen) as well as circuits that power certain "wet" appliances (washing machine, tumble dryer, dishwasher). Electrical underfloor heating is required to be protected by a 100 mA RCD. These RCDs must be of type A.</p>
+<h3><span class="mw-headline" id="Brazil">Brazil</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Residual-current_device&amp;action=edit&amp;section=19" title="Edit section: Brazil">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Since NBR 5410 (1997) residual current devices and grounding are required for new construction or repair in wet areas, outdoor areas, interior outlets used for external appliances, or in areas where water is more probable like bathrooms and kitchens.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></p>
+<h3><span class="mw-headline" id="Denmark">Denmark</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Residual-current_device&amp;action=edit&amp;section=20" title="Edit section: Denmark">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Denmark requires 30 mA RCDs on all circuits that are rated for less than 20 A (circuits at greater rating are mostly used for distribution). RDCs became mandatory in 1975 for new buildings, and then for all buildings in 2008.</p>
+<h3><span class="mw-headline" id="Germany">Germany</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Residual-current_device&amp;action=edit&amp;section=21" title="Edit section: Germany">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Since 1 May 1984, RCDs are mandatory for all rooms with a bath tub or a shower. Since June 2007 Germany requires the use of RCDs with a trip current of no more than 30 mA on sockets rated up to 20 A which are for general use. (<a href="/wiki/DIN" class="mw-redirect" title="DIN">DIN</a> <a href="/wiki/Verband_der_Elektrotechnik,_Elektronik_und_Informationstechnik" title="Verband der Elektrotechnik, Elektronik und Informationstechnik">VDE</a> 0100-410 Nr. 411.3.3).</p>
+<h3><span class="mw-headline" id="Italy">Italy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Residual-current_device&amp;action=edit&amp;section=22" title="Edit section: Italy">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The Italian law (n. 46 March 1990) prescribes RCDs with no more than 30 mA residual current (informally called "salvavita" — life saver or differential circuit breaker for the mode of operation) for all domestic installations to protect all the lines. The law was recently updated to mandate at least two separate RCDs for separate domestic circuits. Magnetic and thermal protection has been compulsory since 1968.</p>
+<h3><span class="mw-headline" id="New_Zealand">New Zealand</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Residual-current_device&amp;action=edit&amp;section=23" title="Edit section: New Zealand">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>From January 2003, all new circuits originating at the switchboard supplying lighting or socket outlets (power points) in domestic buildings must have RCD protection. Residential facilities (such as boarding houses, hospitals, hotels and motels) will also require RCD protection for all new circuits originating at the switchboard supplying socket outlets. These RCDs will normally be located at the switchboard. They will provide protection for all electrical wiring and appliances plugged into the new circuits.<sup id="cite_ref-acc_12-0" class="reference"><a href="#cite_note-acc-12">[12]</a></sup></p>
+<h3><span class="mw-headline" id="North_America">North America</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Residual-current_device&amp;action=edit&amp;section=24" title="Edit section: North America">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:202px;"><a href="/wiki/File:NEMA_5-20RA_GFCI_Tamper_Resistant_Receptacle.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/NEMA_5-20RA_GFCI_Tamper_Resistant_Receptacle.jpg/200px-NEMA_5-20RA_GFCI_Tamper_Resistant_Receptacle.jpg" width="200" height="396" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/NEMA_5-20RA_GFCI_Tamper_Resistant_Receptacle.jpg/300px-NEMA_5-20RA_GFCI_Tamper_Resistant_Receptacle.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/22/NEMA_5-20RA_GFCI_Tamper_Resistant_Receptacle.jpg/400px-NEMA_5-20RA_GFCI_Tamper_Resistant_Receptacle.jpg 2x" data-file-width="579" data-file-height="1146" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:NEMA_5-20RA_GFCI_Tamper_Resistant_Receptacle.jpg" class="internal" title="Enlarge"></a></div>
+A Leviton GFCI "Decora" receptacle in a North American kitchen. Local electrical code requires tamper-resistant receptacles in homes, and requires a GFCI for receptacles within 1 metre of a sink. The T-slot indicates this device is rated 20 A and can take either a NEMA 5-15 or a NEMA 5-20 plug, though the latter type is rare on household appliances.</div>
+</div>
+</div>
+<p>In North America receptacles located in places where an easy path to ground exists—such as wet areas and rooms with uncovered concrete floors—must be protected by a GFCI. The US <i>National Electrical Code</i> has required devices in certain locations to be protected by GFCIs since the 1960s. Beginning with underwater swimming pool lights (1968) successive editions of the code have expanded the areas where GFCIs are required to include: construction sites (1974), bathrooms and outdoor areas (1975), garages (1978), areas near hot tubs or spas (1981), hotel bathrooms (1984), kitchen counter receptacles (1987), crawl spaces and unfinished basements (1990), near wet bar sinks (1993), near laundry sinks (2005)<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup> and in laundry rooms (2014).<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup></p>
+<p>GFCIs are commonly available as an integral part of a receptacle or a circuit breaker installed in the distribution panelboard. GFCI receptacles invariably have rectangular faces and accept so-called Decora face plates, and can be mixed with regular outlets or switches in a multi-gang box with standard cover plates. In both Canada and the US older two-wire, ungrounded <a href="/wiki/NEMA_connector#NEMA_1" title="NEMA connector">NEMA 1</a> receptacles may be replaced with <a href="/wiki/NEMA_connector#NEMA_5" title="NEMA connector">NEMA 5</a> receptacles protected by a GFCI (integral with the receptacle or with the corresponding circuit breaker) in lieu of rewiring the entire circuit with a grounding conductor. In such cases the receptacles must be labeled "no equipment ground" and "GFCI protected"; GFCI manufacturers typically provide tags for the appropriate installation description.</p>
+<p>GFCIs approved for protection against electric shock trip at 5&#160;mA within 25&#160;ms. A GFCI device which protects equipment (not people) is allowed to trip as high as 30&#160;mA of current; this is known as an <b>Equipment Protective Device (EPD)</b>. RCDs with trip currents as high as 500 mA are sometimes deployed in environments (such as computing centers) where a lower threshold would carry an unacceptable risk of accidental trips. These high-current RCDs serve for equipment and fire protection instead of protection against the risks of electrical shocks.</p>
+<p><span id="Equipment_Leakage_Circuit_Interrupter"></span> In the United States the <a href="/wiki/American_Boat_and_Yacht_Council" title="American Boat and Yacht Council">American Boat and Yacht Council</a> requires both GFCIs for outlets and Equipment Leakage Circuit Interrupters (ELCI) for the entire boat. The difference is GFCIs trip on 5 mA of current whereas ELCIs trip on 30 mA after up to 100 ms. The greater values are intended to provide protection while minimizing nuisance trips.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup></p>
+<h3><span class="mw-headline" id="Norway">Norway</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Residual-current_device&amp;action=edit&amp;section=25" title="Edit section: Norway">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In Norway, it has been required in all new homes since 2002, and on all new sockets since 2006. This applies to 32A sockets and below.</p>
+<p><br /></p>
+<h3><span class="mw-headline" id="South_Africa">South Africa</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Residual-current_device&amp;action=edit&amp;section=26" title="Edit section: South Africa">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>South Africa mandated the use of Earth Leakage Protection devices in residential environments (e.g. houses, flats, hotels, etc.) from October 1974, with regulations being refined in 1975 and 1976. <sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup> Devices need to be installed in new premises and when repairs are carried out. Protection is required for power outlets and lighting, with the exception of emergency lighting that should not be interrupted.</p>
+<h3><span class="mw-headline" id="Turkey">Turkey</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Residual-current_device&amp;action=edit&amp;section=27" title="Edit section: Turkey">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Turkey requires the use of RCDs with no more than 30 mA and 300 mA in all new homes since 2004. This rule was introduced in RG-16/06/2004-25494 .<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup></p>
+<h3><span class="mw-headline" id="United_Kingdom">United Kingdom</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Residual-current_device&amp;action=edit&amp;section=28" title="Edit section: United Kingdom">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The previous 16th Edition of the <a href="/wiki/Electrical_wiring_in_the_United_Kingdom" title="Electrical wiring in the United Kingdom">IEE Electrical Wiring Regulations</a> required use of RCDs for socket outlets that were liable to be used by outdoor appliances. Normal practice in domestic installations<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (October 2009)">citation needed</span></a></i>]</sup> was to use a single RCD to cover all the circuits requiring RCD protection (typically sockets and showers) but to have some circuits (typically lighting) not RCD protected. This was to avoid a potentially dangerous loss of lighting should the RCD trip. Protection arrangements for other circuits varied. To implement this arrangement it was common to install a <a href="/wiki/Consumer_unit" title="Consumer unit">consumer unit</a> incorporating an RCD in what is known as a split load configuration, where one group of circuit breakers is supplied direct from the main switch (or time delay RCD in the case of a <a href="/wiki/TT_earthing_system" class="mw-redirect" title="TT earthing system">TT earth</a>) and a second group of circuits is supplied via the RCD. This arrangement had the recognised problems that cumulative earth leakage currents from the normal operation of many items of equipment could cause spurious tripping of the RCD, and that tripping of the RCD would disconnect power from all the protected circuits.</p>
+<p>The current edition (17th) of the regulations requires that all socket outlets in most domestic installations have RCD protection, though there are exemptions. Cables buried in walls must also be RCD protected (again with some specific exemptions). {Refer to 17th Edition Amendment 1 effective from January 2012} Provision of RCD protection for circuits present in bathrooms and shower rooms reduces the requirement for supplementary bonding in those locations. Two RCDs may be used to cover the installation, with upstairs and downstairs lighting and power circuits spread across both RCDs. When one RCD trips, power is maintained to at least one lighting and power circuit. Other arrangements, such as the use of RCBOs, may be employed to meet the regulations. The new requirements for RCDs do not affect most existing installations unless they are rewired, the distribution board is changed, a new circuit is installed, or alterations are made such as additional socket outlets or new cables buried in walls.</p>
+<p>RCDs used for shock protection must be of the 'immediate' operation type (not time-delayed) and must have a residual current sensitivity of no greater than 30 mA.</p>
+<p>If it can be shown that spurious tripping would cause a greater problem than the risk of the electrical accident the RCD is supposed to prevent (examples might be a supply to a critical factory process, or to life support equipment), RCDs may be omitted, providing affected circuits are clearly labelled and the balance of risks considered, this may include the provision of alternative safety measures.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Residual-current_device&amp;action=edit&amp;section=29" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a href="/wiki/File:Crystal_energy.svg" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/29px-Crystal_energy.svg.png" width="29" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/44px-Crystal_energy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/59px-Crystal_energy.svg.png 2x" data-file-width="130" data-file-height="124" /></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Energy" title="Portal:Energy">Energy portal</a></span></li>
+</ul>
+</div>
+<ul>
+<li><a href="/wiki/Insulation_monitoring_device" title="Insulation monitoring device">Insulation monitoring device</a></li>
+<li><a href="/wiki/Domestic_AC_power_plugs_and_sockets" class="mw-redirect" title="Domestic AC power plugs and sockets">Domestic AC power plugs and sockets</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Residual-current_device&amp;action=edit&amp;section=30" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Weineng Wang, Zhiqiang Wang, Xiao Peng, <a rel="nofollow" class="external text" href="http://papersub.ivypub.org/Global/DownloadService.aspx?PARAMS=Sm91cm5hbElEXjM3OF5JRF4xNDAzOQ_0_0"><i>Effects of the Earth Current Frequency and Distortion on Residual Current Devices</i></a>, Scientific Journal of Control Engineering, Dec 2013, Vol. 3, Issue 6, p. 417–422.</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.voltimum.com.au/content/rcbo-2-pole-and-1pn">Explanation on voltimum.com.au, by specialist Ian Richardson</a>.</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://docs-asia.electrocomponents.com/webdocs/01e3/0900766b801e3b4d.pdf">http://docs-asia.electrocomponents.com/webdocs/01e3/0900766b801e3b4d.pdf</a> (states that there is "2 pole switching of phase [energized] and neutral [return]", but then only identifies the energized conductor as being protected against "overloads and short circuits").</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Charles F. Dalziel, Transistorized ground-fault interrupter reduces shock hazard, IEEE Spectrum, January 1970</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">The Professional Engineer, Official Journal of the Federation of Societies of Professional Engineers of South Africa, pp 67, Vol 6(2) 1977</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Earl W. Roberts, Overcurrents and Undercurrents – All about GFCIs: Electrical Safety Advances through Electronics, Mystic Publications, Mystic CT, 1996</span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Edward L. Owen, Power System Grounding Part II: RCD &amp; GFCI, IEEE Industry Applications Magazine, July/August 1996</span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Forging ahead: South Africa’s Pioneering Engineers, G R Bozzoli, Witwatersrand University Press, 1997</span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.saiglobal.com/PDFTemp/Previews/OSH/as/as3000/3000/N3000.pdf">SAA Wiring Rules AS/NZS 3000:2007, Including Amendments 1 &amp; 2</a>, SAI Global Limited</span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">ÖVE E8001-1/A1:2013-11-01</span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.schneider-electric.com.br/support/index?page=content&amp;country=BR&amp;lang=pt&amp;locale=pt_BR&amp;id=FA35821">"Quando o uso do DR é obrigatório"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2014-07-23</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AResidual-current+device&amp;rft.btitle=Quando+o+uso+do+DR+%C3%A9+obrigat%C3%B3rio&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.schneider-electric.com.br%2Fsupport%2Findex%3Fpage%3Dcontent%26country%3DBR%26lang%3Dpt%26locale%3Dpt_BR%26id%3DFA35821&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-acc-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-acc_12-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.acc.co.nz/PRD_EXT_CSMP/groups/external_ip/documents/publications_promotion/pi00311.pdf"><i>Residual current devices - ACC</i></a> by Ministry of Consumer Affairs’ Energy Safety Service (<i>ACC Website</i>, December 2002 <a href="/wiki/Special:BookSources/0478263228" class="internal mw-magiclink-isbn">ISBN 0-478-26322-8</a>)</span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.cpsc.gov/PageFiles/55380/099.pdf">"GFCIs Fact Sheet"</a> <span style="font-size:85%;">(PDF)</span>. US Consumer Product Safety Commission<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-06-28</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AResidual-current+device&amp;rft.btitle=GFCIs+Fact+Sheet&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.cpsc.gov%2FPageFiles%2F55380%2F099.pdf&amp;rft.pub=US+Consumer+Product+Safety+Commission&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.ieci.org/codes-and-standards/2014_nec_changes">"2014 NEC Changes"</a>. Independent Electrical Contractors<span class="reference-accessdate">. Retrieved <span class="nowrap">2016-07-04</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AResidual-current+device&amp;rft.btitle=2014+NEC+Changes&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.ieci.org%2Fcodes-and-standards%2F2014_nec_changes&amp;rft.pub=Independent+Electrical+Contractors&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web">Gropper; Criner (1 September 2010). <a rel="nofollow" class="external text" href="http://www.paneltronics.com/Atimo_s/news/ELCI_Sept2010.pdf">"Microsoft Word - ELCI White Paper September 1 2010.DOC"</a> <span style="font-size:85%;">(PDF)</span>. Paneltronics, Inc<span class="reference-accessdate">. Retrieved <span class="nowrap">16 March</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AResidual-current+device&amp;rft.au=Criner&amp;rft.au=Gropper&amp;rft.btitle=Microsoft+Word+-+ELCI+White+Paper+September+1+2010.DOC&amp;rft.date=2010-09-01&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.paneltronics.com%2FAtimo_s%2Fnews%2FELCI_Sept2010.pdf&amp;rft.pub=Paneltronics%2C+Inc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.ee.co.za/article/the-importance-of-installing-earth-leakage-units.html">The Importance of Installing Earth Leakage Units</a></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://www.mevzuat.gov.tr/MevzuatMetin/yonetmelik/7.5.10391.doc">[1]</a>, Procedure of Electrical Installation Projects</span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Residual-current_device&amp;action=edit&amp;section=31" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tr>
+<td class="mbox-image"><a href="/wiki/File:Commons-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Residual_current_devices" class="extiw" title="commons:Category:Residual current devices">Residual current devices</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.cpsc.gov/PageFiles/55380/099.pdf">GFCIs Fact Sheet (Consumer Product Safety Commission)</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.screlektroniks.com/testing-equipment-residual-current-circuit-breakers-rccb-rcbo-elmcb.html">Test of RCCB as per IEC 61008/61009 (Residual Current Device Testing)</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.electmadrid.es/blog/2016/05/why-rcd-is-tripping/">Why RCD is tripping?</a> - Explanation of nuisance tripping causes</li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Electricity_delivery" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Electricity_delivery" title="Template:Electricity delivery"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Electricity_delivery" title="Template talk:Electricity delivery"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Electricity_delivery&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Electricity_delivery" style="font-size:114%"><a href="/wiki/Electricity_delivery" title="Electricity delivery">Electricity delivery</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Concepts</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Availability_factor" title="Availability factor">Availability factor</a></li>
+<li><a href="/wiki/Automatic_generation_control" class="mw-redirect" title="Automatic generation control">Automatic generation control</a></li>
+<li><a href="/wiki/Base_load" title="Base load">Base load</a></li>
+<li><a href="/wiki/Black_start" title="Black start">Black start</a></li>
+<li><a href="/wiki/Capacity_factor" title="Capacity factor">Capacity factor</a></li>
+<li><a href="/wiki/Demand_factor" title="Demand factor">Demand factor</a></li>
+<li><a href="/wiki/Droop_speed_control" title="Droop speed control">Droop speed control</a></li>
+<li><a href="/wiki/Energy_demand_management" title="Energy demand management">Demand management</a></li>
+<li><a href="/wiki/Energy_returned_on_energy_invested" title="Energy returned on energy invested">EROEI</a></li>
+<li><a href="/wiki/Fault_(power_engineering)" title="Fault (power engineering)">Fault</a></li>
+<li><a href="/wiki/Grid_energy_storage" title="Grid energy storage">Grid storage</a></li>
+<li><a href="/wiki/Intermittent_energy_source" title="Intermittent energy source">Intermittency</a></li>
+<li><a href="/wiki/Load_factor_(electrical)" title="Load factor (electrical)">Load factor</a></li>
+<li><a href="/wiki/Load_following_power_plant" title="Load following power plant">Load following</a></li>
+<li><a href="/wiki/Nameplate_capacity" title="Nameplate capacity">Nameplate capacity</a></li>
+<li><a href="/wiki/Peak_demand" title="Peak demand">Peak demand</a></li>
+<li><a href="/wiki/Electric_power_quality" title="Electric power quality">Power quality</a></li>
+<li><a href="/wiki/Power-flow_study" title="Power-flow study">Power-flow study</a></li>
+<li><a href="/wiki/Repowering" title="Repowering">Repowering</a></li>
+<li><a href="/wiki/Variable_renewable_energy" title="Variable renewable energy">Variability</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Sources</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;width:7em;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Non-renewable_energy" class="mw-redirect" title="Non-renewable energy">Nonrenewable</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Coal" title="Coal">Coal</a></li>
+<li><a href="/wiki/Fossil_fuel_power_station" title="Fossil fuel power station">Fossil fuel power station</a></li>
+<li><a href="/wiki/Natural_gas" title="Natural gas">Natural gas</a></li>
+<li><a href="/wiki/Petroleum" title="Petroleum">Petroleum</a></li>
+<li><a href="/wiki/Nuclear_power" title="Nuclear power">Nuclear</a></li>
+<li><a href="/wiki/Oil_shale" title="Oil shale">Oil shale</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;width:7em;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Renewable_energy" title="Renewable energy">Renewable</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Biomass" title="Biomass">Biomass</a></li>
+<li><a href="/wiki/Biofuel" title="Biofuel">Biofuel</a></li>
+<li><a href="/wiki/Geothermal_power" title="Geothermal power">Geothermal</a></li>
+<li><a href="/wiki/Hydroelectricity" title="Hydroelectricity">Hydro</a></li>
+<li><a href="/wiki/Marine_energy" title="Marine energy">Marine</a>
+<ul>
+<li><a href="/wiki/Marine_current_power" title="Marine current power">Current</a></li>
+<li><a href="/wiki/Osmotic_power" title="Osmotic power">Osmotic</a></li>
+<li><a href="/wiki/Ocean_thermal_energy" class="mw-redirect" title="Ocean thermal energy">Thermal</a></li>
+<li><a href="/wiki/Tidal_power" title="Tidal power">Tidal</a></li>
+<li><a href="/wiki/Wave_power" title="Wave power">Wave</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Solar_power" title="Solar power">Solar</a></li>
+<li><a href="/wiki/Wind_power" title="Wind power">Wind</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Category:Power_station_technology" title="Category:Power station technology">Generation</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/AC_power" title="AC power">AC power</a></li>
+<li><a href="/wiki/Cogeneration" title="Cogeneration">Cogeneration</a></li>
+<li><a href="/wiki/Combined_cycle" title="Combined cycle">Combined cycle</a></li>
+<li><a href="/wiki/Cooling_tower" title="Cooling tower">Cooling tower</a></li>
+<li><a href="/wiki/Induction_generator" title="Induction generator">Induction generator</a></li>
+<li><a href="/wiki/Micro_combined_heat_and_power" title="Micro combined heat and power">Micro CHP</a></li>
+<li><a href="/wiki/Microgeneration" title="Microgeneration">Microgeneration</a></li>
+<li><a href="/wiki/Rankine_cycle" title="Rankine cycle">Rankine cycle</a></li>
+<li><a href="/wiki/Three-phase_electric_power" title="Three-phase electric power">Three-phase electric power</a></li>
+<li><a href="/wiki/Virtual_power_plant" title="Virtual power plant">Virtual power plant</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">
+<div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Electric_power_transmission" title="Electric power transmission">Transmission</a><br />
+and <a href="/wiki/Electric_power_distribution" title="Electric power distribution">distribution</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Power_outage" title="Power outage">Blackout</a> (<a href="/wiki/Rolling_blackout" title="Rolling blackout">Rolling blackout</a>)</li>
+<li><a href="/wiki/Brownout_(electricity)" title="Brownout (electricity)">Brownout</a></li>
+<li><a href="/wiki/Demand_response" title="Demand response">Demand response</a></li>
+<li><a href="/wiki/Distributed_generation" title="Distributed generation">Distributed generation</a></li>
+<li><a href="/wiki/Dynamic_demand_(electric_power)" title="Dynamic demand (electric power)">Dynamic demand</a></li>
+<li><a href="/wiki/Electric_power_distribution" title="Electric power distribution">Electric power distribution</a></li>
+<li><a href="/wiki/Electric_power_system" title="Electric power system">Electric power system</a></li>
+<li><a href="/wiki/Electric_power_transmission" title="Electric power transmission">Electric power transmission</a></li>
+<li><a href="/wiki/Electrical_grid" title="Electrical grid">Electrical grid</a></li>
+<li><a href="/wiki/High-voltage_direct_current" title="High-voltage direct current">High-voltage direct current</a></li>
+<li><a href="/wiki/Load_management" title="Load management">Load management</a></li>
+<li><a href="/wiki/Pumped-storage_hydroelectricity" title="Pumped-storage hydroelectricity">Pumped hydro</a></li>
+<li><a href="/wiki/Power_station" title="Power station">Power station</a></li>
+<li><a href="/wiki/Power_storage" class="mw-redirect" title="Power storage">Power storage</a></li>
+<li><a href="/wiki/Smart_grid" title="Smart grid">Smart grid</a></li>
+<li><a href="/wiki/Electrical_substation" title="Electrical substation">Substation</a></li>
+<li><a href="/wiki/Super_grid" title="Super grid">Super grid</a></li>
+<li><a href="/wiki/Transformer" title="Transformer">Transformer</a></li>
+<li><a href="/wiki/Transmission_system_operator" title="Transmission system operator">Transmission system operator</a> (TSO)</li>
+<li><a href="/wiki/Transmission_tower" title="Transmission tower">Transmission tower</a></li>
+<li><a href="/wiki/Utility_pole" title="Utility pole">Utility pole</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">
+<div style="padding:0.1em 0;line-height:1.2em;">Protective<br />
+devices</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Arc-fault_circuit_interrupter" title="Arc-fault circuit interrupter">Arc-fault circuit interrupter</a></li>
+<li><a href="/wiki/Earth_leakage_circuit_breaker" title="Earth leakage circuit breaker">Earth leakage circuit breaker</a></li>
+<li><strong class="selflink">Residual-current device</strong> (GFI)</li>
+<li><a href="/wiki/Power-system_protection" title="Power-system protection">Power-system protection</a></li>
+<li><a href="/wiki/Protective_relay" title="Protective relay">Protective relay</a></li>
+<li><a href="/wiki/Digital_protective_relay" title="Digital protective relay">Digital protective relay</a></li>
+<li><a href="/wiki/Sulfur_hexafluoride_circuit_breaker" title="Sulfur hexafluoride circuit breaker">Sulfur hexafluoride circuit breaker</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">
+<div style="padding:0.1em 0;line-height:1.2em;">Economics<br />
+and policies</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Carbon_offset" title="Carbon offset">Carbon offset</a></li>
+<li><a href="/wiki/Cost_of_electricity_by_source" title="Cost of electricity by source">Cost of electricity by source</a></li>
+<li><a href="/wiki/Ecotax" title="Ecotax">Ecotax</a></li>
+<li><a href="/wiki/Energy_subsidies" title="Energy subsidies">Energy subsidies</a></li>
+<li><a href="/wiki/Feed-in_tariff" title="Feed-in tariff">Feed-in tariff</a></li>
+<li><a href="/wiki/Fossil-fuel_phase-out" class="mw-redirect" title="Fossil-fuel phase-out">Fossil-fuel phase-out</a></li>
+<li><a href="/wiki/Net_metering" title="Net metering">Net metering</a></li>
+<li><a href="/wiki/Pigovian_tax" title="Pigovian tax">Pigovian tax</a></li>
+<li><a href="/wiki/Renewable_Energy_Certificates" class="mw-redirect" title="Renewable Energy Certificates">Renewable Energy Certificates</a></li>
+<li><a href="/wiki/Renewable_energy_payments" class="mw-redirect" title="Renewable energy payments">Renewable energy payments</a></li>
+<li><a href="/wiki/Renewable_energy_policy" class="mw-redirect" title="Renewable energy policy">Renewable energy policy</a></li>
+<li><a href="/wiki/Spark_spread" title="Spark spread">Spark spread</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<dl>
+<dt>Categories</dt>
+<dd><a href="/wiki/Category:Electric_power_distribution" title="Category:Electric power distribution">Electric power distribution</a></dd>
+<dd><a href="/wiki/Category:Electricity_economics" title="Category:Electricity economics">Electricity economics</a></dd>
+<dd><a href="/wiki/Category:Power_station_technology" title="Category:Power station technology">Power station technology</a></dd>
+<dt>Portals</dt>
+<dd><a href="/wiki/Portal:Energy" title="Portal:Energy">Energy</a></dd>
+<dd><a href="/wiki/Portal:Renewable_energy" title="Portal:Renewable energy">Renewable energy</a></dd>
+<dd><a href="/wiki/Portal:Sustainable_development" title="Portal:Sustainable development">Sustainable development</a></dd>
+</dl>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-label="Navbox" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span style="white-space:nowrap;"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/4197537-6">4197537-6</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1215
+Cached time: 20170201071531
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.248 seconds
+Real time usage: 0.339 seconds
+Preprocessor visited node count: 1846/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 59351/2097152 bytes
+Template argument size: 3310/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 5/500
+Lua time usage: 0.087/10.000 seconds
+Lua memory usage: 3.3 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  264.852      1 -total
+ 18.59%   49.248      1 Template:Reflist
+ 18.01%   47.693      2 Template:Citation_needed
+ 16.34%   43.265      2 Template:Fix
+ 13.51%   35.791      4 Template:Cite_web
+ 10.69%   28.306      8 Template:Category_handler
+ 10.31%   27.299      1 Template:Commons_category
+  9.17%   24.280      1 Template:Redirect
+  8.80%   23.299      2 Template:Navbox
+  7.56%   20.020      1 Template:Electricity_delivery
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:530715-0!*!0!!en!4!* and timestamp 20170201071530 and revision id 761389392
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Residual-current_device&amp;oldid=761389392">https://en.wikipedia.org/w/index.php?title=Residual-current_device&amp;oldid=761389392</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Electrical_wiring" title="Category:Electrical wiring">Electrical wiring</a></li><li><a href="/wiki/Category:Electrical_engineering" title="Category:Electrical engineering">Electrical engineering</a></li><li><a href="/wiki/Category:Safety_switches" title="Category:Safety switches">Safety switches</a></li><li><a href="/wiki/Category:Electrical_safety" title="Category:Electrical safety">Electrical safety</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Pages_using_ISBN_magic_links" title="Category:Pages using ISBN magic links">Pages using ISBN magic links</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_April_2016" title="Category:Articles with unsourced statements from April 2016">Articles with unsourced statements from April 2016</a></li><li><a href="/wiki/Category:All_Wikipedia_articles_needing_clarification" title="Category:All Wikipedia articles needing clarification">All Wikipedia articles needing clarification</a></li><li><a href="/wiki/Category:Wikipedia_articles_needing_clarification_from_September_2015" title="Category:Wikipedia articles needing clarification from September 2015">Wikipedia articles needing clarification from September 2015</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_February_2012" title="Category:Articles needing additional references from February 2012">Articles needing additional references from February 2012</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_October_2009" title="Category:Articles with unsourced statements from October 2009">Articles with unsourced statements from October 2009</a></li><li><a href="/wiki/Category:Commons_category_with_local_link_same_as_on_Wikidata" title="Category:Commons category with local link same as on Wikidata">Commons category with local link same as on Wikidata</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Residual-current+device" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Residual-current+device" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Residual-current_device"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Residual-current_device"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Residual-current_device" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Residual-current_device&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Residual-current_device&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Residual-current_device" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Residual-current_device" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Residual-current_device&amp;oldid=761389392" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Residual-current_device&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q337716" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Residual-current_device&amp;id=761389392" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Residual-current+device">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Residual-current+device&amp;returnto=Residual-current+device&amp;oldid=761389392&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Residual-current_device&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Residual_current_devices" hreflang="en">Wikimedia Commons</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%94%D0%B8%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%86%D0%B8%D0%B0%D0%BB%D0%BD%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%B2%D0%B0_%D0%B7%D0%B0%D1%89%D0%B8%D1%82%D0%B0" title="Диференциалнотокова защита – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Interruptor_diferencial" title="Interruptor diferencial – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Proudov%C3%BD_chr%C3%A1ni%C4%8D" title="Proudový chránič – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Fejlstr%C3%B8msafbryder" title="Fejlstrømsafbryder – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Fehlerstrom-Schutzschalter" title="Fehlerstrom-Schutzschalter – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Rikkevoolukaitsel%C3%BCliti" title="Rikkevoolukaitselüliti – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Interruptor_diferencial" title="Interruptor diferencial – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Etengailu_diferentzial" title="Etengailu diferentzial – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%DA%A9%D9%84%DB%8C%D8%AF_%D9%85%D8%AD%D8%A7%D9%81%D8%B8_%D8%AC%D8%A7%D9%86" title="کلید محافظ جان – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EB%88%84%EC%A0%84_%EC%B0%A8%EB%8B%A8%EA%B8%B0" title="누전 차단기 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%85%E0%A4%B5%E0%A4%B6%E0%A4%BF%E0%A4%B7%E0%A5%8D%E0%A4%9F_%E0%A4%A7%E0%A4%BE%E0%A4%B0%E0%A4%BE_%E0%A4%AF%E0%A5%81%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%BF" title="अवशिष्ट धारा युक्ति – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Interruttore_differenziale" title="Interruttore differenziale – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%9E%D7%9E%D7%A1%D7%A8_%D7%A4%D7%97%D7%AA" title="ממסר פחת – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-hu badge-Q17437798 badge-goodarticle" title="good article"><a href="https://hu.wikipedia.org/wiki/%C3%81ram-v%C3%A9d%C5%91kapcsol%C3%B3" title="Áram-védőkapcsoló – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Peranti_arus_baki" title="Peranti arus baki – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Aardlekschakelaar" title="Aardlekschakelaar – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E9%85%8D%E7%B7%9A%E7%94%A8%E9%81%AE%E6%96%AD%E5%99%A8" title="配線用遮断器 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Jordfeilbryter" title="Jordfeilbryter – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk bokmål</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Wy%C5%82%C4%85cznik_r%C3%B3%C5%BCnicowopr%C4%85dowy" title="Wyłącznik różnicowoprądowy – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Disjuntor_diferencial" title="Disjuntor diferencial – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A3%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE_%D0%B4%D0%B8%D1%84%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE_%D1%82%D0%BE%D0%BA%D0%B0" title="Устройство дифференциального тока – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/GFCI" title="GFCI – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Pr%C3%BAdov%C3%BD_chr%C3%A1ni%C4%8D" title="Prúdový chránič – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%97%D0%B0%D1%88%D1%82%D0%B8%D1%82%D0%BD%D0%B8_%D1%83%D1%80%D0%B5%D1%92%D0%B0%D1%98_%D0%B4%D0%B8%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%86%D0%B8%D1%98%D0%B0%D0%BB%D0%BD%D0%B5_%D1%81%D1%82%D1%80%D1%83%D1%98%D0%B5" title="Заштитни уређај диференцијалне струје – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Vikavirtasuojakytkin" title="Vikavirtasuojakytkin – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Jordfelsbrytare" title="Jordfelsbrytare – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Ka%C3%A7ak_ak%C4%B1m_r%C3%B6lesi" title="Kaçak akım rölesi – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9F%D1%80%D0%B8%D1%81%D1%82%D1%80%D1%96%D0%B9_%D0%B7%D0%B0%D1%85%D0%B8%D1%81%D0%BD%D0%BE%D0%B3%D0%BE_%D0%B2%D1%96%D0%B4%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%BD%D1%8F" title="Пристрій захисного відключення – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E6%8E%A5%E5%9C%B0%E6%BC%8F%E7%94%B5%E4%BF%9D%E6%8A%A4%E6%8F%92%E5%BA%A7" title="接地漏电保护插座 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q337716#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 22 January 2017, at 18:52.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Residual-current_device&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.248","walltime":"0.339","ppvisitednodes":{"value":1846,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":59351,"limit":2097152},"templateargumentsize":{"value":3310,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":5,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  264.852      1 -total"," 18.59%   49.248      1 Template:Reflist"," 18.01%   47.693      2 Template:Citation_needed"," 16.34%   43.265      2 Template:Fix"," 13.51%   35.791      4 Template:Cite_web"," 10.69%   28.306      8 Template:Category_handler"," 10.31%   27.299      1 Template:Commons_category","  9.17%   24.280      1 Template:Redirect","  8.80%   23.299      2 Template:Navbox","  7.56%   20.020      1 Template:Electricity_delivery"]},"scribunto":{"limitreport-timeusage":{"value":"0.087","limit":"10.000"},"limitreport-memusage":{"value":3460446,"limit":52428800}},"cachereport":{"origin":"mw1215","timestamp":"20170201071531","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":429,"wgHostname":"mw1215"});});</script>
+	</body>
+</html>

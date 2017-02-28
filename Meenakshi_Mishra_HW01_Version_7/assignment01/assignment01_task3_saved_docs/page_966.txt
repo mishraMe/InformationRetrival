@@ -1,0 +1,1096 @@
+url : https://en.wikipedia.org/wiki/Concentrating_photovoltaics
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Concentrator photovoltaics - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Concentrator_photovoltaics","wgTitle":"Concentrator photovoltaics","wgCurRevisionId":760978628,"wgRevisionId":760978628,"wgArticleId":28250168,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 errors: external links","CS1 maint: Uses authors parameter","Pages using ISBN magic links","All articles with unsourced statements","Articles with unsourced statements from August 2010","Articles with unsourced statements from June 2011","All articles lacking reliable references","Articles lacking reliable references from September 2015","Photovoltaics"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Concentrator_photovoltaics","wgRelevantArticleId":28250168,"wgRequestId":"WI5@IgpAIDkAACL2QNQAAABK","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Concentrating_photovoltaics","wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgInternalRedirectTargetUrl":"/wiki/Concentrator_photovoltaics","wgWikibaseItemId":"Q2065094","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.action.view.redirect","ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.9"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Concentrator_photovoltaics"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Concentrator_photovoltaics&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Concentrator_photovoltaics&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Concentrator_photovoltaics"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Concentrator_photovoltaics rootpage-Concentrator_photovoltaics skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Concentrator photovoltaics</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"><span class="mw-redirectedfrom">  (Redirected from <a href="/w/index.php?title=Concentrating_photovoltaics&amp;redirect=no" class="mw-redirect" title="Concentrating photovoltaics">Concentrating photovoltaics</a>)</span></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div role="note" class="hatnote">Not to be confused with <a href="/wiki/Concentrated_solar_power" title="Concentrated solar power">concentrated solar power</a>.</div>
+<div class="thumb tmulti tright">
+<div class="thumbinner" style="width:304px;max-width:304px">
+<div class="tsingle" style="margin:1px;width:302px;max-width:302px">
+<div class="thumbimage"><a href="/wiki/File:Amonix7700.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Amonix7700.jpg/300px-Amonix7700.jpg" width="300" height="200" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Amonix7700.jpg/450px-Amonix7700.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Amonix7700.jpg/600px-Amonix7700.jpg 2x" data-file-width="4272" data-file-height="2848" /></a></div>
+<div class="thumbcaption" style="clear:left">This <a href="/wiki/Amonix" title="Amonix">Amonix</a> system in Las Vegas, USA consists of thousands of small Fresnel lenses, each focusing sunlight to ~500X higher intensity onto a tiny, high-efficiency <a href="/wiki/Multi-junction_solar_cell" title="Multi-junction solar cell">multi-junction solar cell</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> A <a href="/wiki/Tesla_Roadster" title="Tesla Roadster">Tesla Roadster</a> is parked beneath for scale.</div>
+</div>
+<div class="tsingle" style="margin:1px;width:302px;max-width:302px">
+<div class="thumbimage"><a href="/wiki/File:3_MW_CPV_project_in_Golmud,_China.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/3_MW_CPV_project_in_Golmud%2C_China.jpg/300px-3_MW_CPV_project_in_Golmud%2C_China.jpg" width="300" height="200" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/3_MW_CPV_project_in_Golmud%2C_China.jpg/450px-3_MW_CPV_project_in_Golmud%2C_China.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/3_MW_CPV_project_in_Golmud%2C_China.jpg/600px-3_MW_CPV_project_in_Golmud%2C_China.jpg 2x" data-file-width="1154" data-file-height="768" /></a></div>
+<div class="thumbcaption" style="clear:left">Concentrator photovoltaics (CPV) modules on dual axis <a href="/wiki/Solar_tracker" title="Solar tracker">solar trackers</a> in <a href="/wiki/Golmud" title="Golmud">Golmud</a>, China</div>
+</div>
+</div>
+</div>
+<p><b>Concentrator photovoltaics</b> (<b>CPV</b>) (also known as Concentration Photovoltaics) is a <a href="/wiki/Photovoltaic" class="mw-redirect" title="Photovoltaic">photovoltaic</a> technology that generates electricity from sunlight. Contrary to conventional <a href="/wiki/Photovoltaic_system" title="Photovoltaic system">photovoltaic systems</a>, it uses <a href="/wiki/Lens_(optics)" title="Lens (optics)">lenses</a> and <a href="/wiki/Curved_mirror" title="Curved mirror">curved mirrors</a> to focus sunlight onto small, but highly efficient, <a href="/wiki/Multi-junction" class="mw-redirect" title="Multi-junction">multi-junction</a> (MJ) <a href="/wiki/Solar_cells" class="mw-redirect" title="Solar cells">solar cells</a>. In addition, CPV systems often use <a href="/wiki/Solar_tracker" title="Solar tracker">solar trackers</a> and sometimes a cooling system to further increase their efficiency.<sup id="cite_ref-IEA-roadmap-PV-2014_2-0" class="reference"><a href="#cite_note-IEA-roadmap-PV-2014-2">[2]</a></sup><sup class="reference" style="white-space:nowrap;">:30</sup> Ongoing research and development is rapidly improving their competitiveness in the utility-scale segment and in areas of high <a href="/wiki/Insolation" class="mw-redirect" title="Insolation">insolation</a>. This sort of solar technology can be thus used in smaller areas.</p>
+<p>Systems using <b>high-concentration photovoltaics</b> (<b>HCPV</b>) especially have the potential to become competitive in the near future. They possess the highest efficiency of all existing PV technologies, and a smaller photovoltaic array also reduces the <a href="/wiki/Balance_of_system" title="Balance of system">balance of system</a> costs. Currently, CPV is not used in the PV rooftop segment and is far less common than conventional PV systems. For regions with a high annual direct normal irradiance of 2000 <a href="/wiki/Kilowatt-hour" class="mw-redirect" title="Kilowatt-hour">kilowatt-hour</a> (kWh) per square meter or more, the <a href="/wiki/Levelized_cost_of_electricity" class="mw-redirect" title="Levelized cost of electricity">levelized cost of electricity</a> is in the range of $0.08–$0.15 per kWh and installation cost for a 10-megawatt CPV power plant was identified to lie between €1.40–€2.20 (~$1.50-$2.30) per <a href="/wiki/Watt-peak" class="mw-redirect" title="Watt-peak">watt-peak</a> (W<sub>p</sub>).<sup id="cite_ref-Current-status-FHI-NREL-2015_3-0" class="reference"><a href="#cite_note-Current-status-FHI-NREL-2015-3">[3]</a></sup><sup class="reference" style="white-space:nowrap;">:12</sup></p>
+<p>In 2016, cumulative CPV installations reached 350 <a href="/wiki/Megawatt" class="mw-redirect" title="Megawatt">megawatts</a> (MW), less than 0.2% of the global installed capacity of 230,000 MW.<sup id="cite_ref-IEA-roadmap-PV-2014_2-1" class="reference"><a href="#cite_note-IEA-roadmap-PV-2014-2">[2]</a></sup><sup class="reference" style="white-space:nowrap;">:10</sup><sup id="cite_ref-Current-status-FHI-NREL-2015_3-1" class="reference"><a href="#cite_note-Current-status-FHI-NREL-2015-3">[3]</a></sup><sup class="reference" style="white-space:nowrap;">:5</sup><sup id="cite_ref-iea-pvps-snapshot-1992-2013_4-0" class="reference"><a href="#cite_note-iea-pvps-snapshot-1992-2013-4">[4]</a></sup> <sup id="cite_ref-Fraunhofer-PR-2014_5-0" class="reference"><a href="#cite_note-Fraunhofer-PR-2014-5">[5]</a></sup><sup class="reference" style="white-space:nowrap;">:21</sup> Commercial HCPV systems reached instantaneous ("spot") efficiencies of up to 42% under standard test conditions (with concentration levels above 400) <sup id="cite_ref-Fraunhofer-PR-2014_5-1" class="reference"><a href="#cite_note-Fraunhofer-PR-2014-5">[5]</a></sup><sup class="reference" style="white-space:nowrap;">:26</sup> and the <a href="/wiki/International_Energy_Agency" title="International Energy Agency">International Energy Agency</a> sees potential to increase the efficiency of this technology to 50% by the mid-2020s.<sup id="cite_ref-IEA-roadmap-PV-2014_2-2" class="reference"><a href="#cite_note-IEA-roadmap-PV-2014-2">[2]</a></sup><sup class="reference" style="white-space:nowrap;">:28</sup> As of December 2014, the best lab cell efficiency for concentrator MJ-cells reached 46% (four or more junctions). Under outdoor, operating conditions, CPV module efficiencies have exceeded 33% ("one third of a sun").<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> System-level AC efficiencies are in the range of 25-28%. CPV installations are located in <a href="/wiki/Solar_power_in_China" title="Solar power in China">China</a>, the <a href="/wiki/Solar_power_in_the_United_States" title="Solar power in the United States">United States</a>, <a href="/wiki/Solar_power_in_South_Africa" title="Solar power in South Africa">South Africa</a>, <a href="/wiki/Solar_power_in_Italy" title="Solar power in Italy">Italy</a> and <a href="/wiki/Solar_power_in_Spain" title="Solar power in Spain">Spain</a>.<sup id="cite_ref-Current-status-FHI-NREL-2015_3-2" class="reference"><a href="#cite_note-Current-status-FHI-NREL-2015-3">[3]</a></sup><sup class="reference" style="white-space:nowrap;">:12</sup></p>
+<p>HCPV directly competes with <a href="/wiki/Concentrated_solar_power" title="Concentrated solar power">concentrated solar power</a> (CSP) as both technologies are suited best for areas with high direct normal irradiance, which are also known as the <a href="/wiki/Sun_Belt" title="Sun Belt">Sun Belt</a> region in the United States and the <a href="/wiki/Golden_Banana" title="Golden Banana">Golden Banana</a> in Southern Europe.<sup id="cite_ref-Fraunhofer-PR-2014_5-2" class="reference"><a href="#cite_note-Fraunhofer-PR-2014-5">[5]</a></sup><sup class="reference" style="white-space:nowrap;">:26</sup> CPV and CSP are often confused with one another, despite being intrinsically different technologies from the start: CPV uses the <a href="/wiki/Photovoltaic_effect" title="Photovoltaic effect">photovoltaic effect</a> to directly generate electricity from sunlight, while CSP – often called <i>concentrated solar thermal</i> – uses the heat from the sun's radiation in order to make steam to drive a turbine, that then produces electricity using a generator. Currently, CSP is <a href="/wiki/Concentrated_solar_power#Deployment_around_the_world" title="Concentrated solar power">more common</a> than CPV.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Challenges"><span class="tocnumber">2</span> <span class="toctext">Challenges</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Efficiency"><span class="tocnumber">3</span> <span class="toctext">Efficiency</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Types"><span class="tocnumber">4</span> <span class="toctext">Types</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Low_concentration_PV_.28LCPV.29"><span class="tocnumber">4.1</span> <span class="toctext">Low concentration PV (LCPV)</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Medium_concentration_PV"><span class="tocnumber">4.2</span> <span class="toctext">Medium concentration PV</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#High_concentration_photovoltaics_.28HCPV.29"><span class="tocnumber">4.3</span> <span class="toctext">High concentration photovoltaics (HCPV)</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Installations"><span class="tocnumber">5</span> <span class="toctext">Installations</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#List_of_large_CPV_systems"><span class="tocnumber">5.1</span> <span class="toctext">List of large CPV systems</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#Concentrated_photovoltaics_and_thermal"><span class="tocnumber">6</span> <span class="toctext">Concentrated photovoltaics and thermal</span></a>
+<ul>
+<li class="toclevel-2 tocsection-11"><a href="#Reliability_requirements"><span class="tocnumber">6.1</span> <span class="toctext">Reliability requirements</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Demonstration_projects"><span class="tocnumber">6.2</span> <span class="toctext">Demonstration projects</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-13"><a href="#See_also"><span class="tocnumber">7</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Concentrator_photovoltaics&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Research into concentrator photovoltaics has taken place since the 1970s. <a href="/wiki/Sandia_National_Laboratories" title="Sandia National Laboratories">Sandia National Laboratories</a> in Albuquerque, New Mexico was the site for most of the early work, with the first modern photovoltaic concentrating system produced there late in the decade. Their first system was a linear-trough concentrator system that used a point focus <a href="/wiki/Poly(methyl_methacrylate)" title="Poly(methyl methacrylate)">acrylic</a> <a href="/wiki/Fresnel_lens" title="Fresnel lens">Fresnel lens</a> focusing on water-cooled silicon cells and two axis tracking.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (August 2010)">citation needed</span></a></i>]</sup> Ramón Areces' system, also developed in the late 1970s, used hybrid silicone-glass Fresnel lenses, while cooling of silicon cells was achieved with a passive heat sink.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (August 2010)">citation needed</span></a></i>]</sup></p>
+<h2><span class="mw-headline" id="Challenges">Challenges</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Concentrator_photovoltaics&amp;action=edit&amp;section=2" title="Edit section: Challenges">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Modern CPV systems operate most efficiently in highly concentrated sunlight (i.e. concentration levels equivalent to hundreds of suns), as long as the solar cell is kept cool through the use of <a href="/wiki/Heat_sinks" class="mw-redirect" title="Heat sinks">heat sinks</a>. Diffuse light, which occurs in cloudy and overcast conditions, cannot be highly concentrated using conventional optical components only (i.e. macroscopic lenses and mirrors). Filtered light, which occurs in hazy or polluted conditions, has spectral variations which produce mismatches between the electrical currents generated within the series-connected junctions of spectrally "tuned" <a href="/wiki/Multi-junction_solar_cell" title="Multi-junction solar cell">multi-junction (MJ) photovoltaic cells</a>. These CPV features lead to rapid decreases in power output when atmospheric conditions are less than ideal.</p>
+<p>To produce equal or greater energy per rated watt than conventional PV systems, CPV systems must be located in areas that receive plentiful <a href="/wiki/Direct_insolation" title="Direct insolation">direct sunlight</a>. This is typically specified as average DNI greater than 5.5-6 kWh/m<sup>2</sup>/day or 2000kWh/m<sup>2</sup>/yr. Otherwise, evaluations of annualized DNI vs. GNI/GHI irradiance data have concluded that conventional PV should still perform better over time than presently available CPV technology in most regions of the world (see for example <sup id="cite_ref-CPVfeas_8-0" class="reference"><a href="#cite_note-CPVfeas-8">[8]</a></sup>).</p>
+<p>The design of macroscopic sunlight concentrators for CPV introduces a very specific optical design problem, with features that makes it different from any other optical design. It has to be efficient, suitable for mass production, capable of high concentration, insensitive to manufacturing and mounting inaccuracies, and capable of providing uniform illumination of the cell. All these reasons make <a href="/wiki/Nonimaging_optics" title="Nonimaging optics">nonimaging optics</a><sup id="cite_ref-IntroNio2e_9-0" class="reference"><a href="#cite_note-IntroNio2e-9">[9]</a></sup><sup id="cite_ref-NIO_10-0" class="reference"><a href="#cite_note-NIO-10">[10]</a></sup> the most suitable for CPV.</p>
+<table class="wikitable" style="font-size: 0.9em; max-width: 800px; margin: 16px auto 0 auto;">
+<tr>
+<th>CPV Strengths</th>
+<th>CPV Weaknesses</th>
+</tr>
+<tr>
+<td>High efficiencies under direct normal irradiance</td>
+<td>HCPV cannot utilize diffuse radiation. LCPV can only utilize a fraction of diffuse radiation.</td>
+</tr>
+<tr>
+<td>Low cost per watt of manufacturing capital</td>
+<td>Power output of MJ solar cells is more sensitive to shifts in radiation spectra caused by changing atmospheric conditions.</td>
+<td></td>
+</tr>
+<tr>
+<td>Low temperature coefficients</td>
+<td>Tracking with sufficient accuracy and reliability is required.</td>
+</tr>
+<tr>
+<td>No cooling water required for passively cooled systems</td>
+<td>May require frequent cleaning to mitigate soiling losses, depending on the site</td>
+</tr>
+<tr>
+<td>Additional use of waste heat possible for systems with active cooling possible (e.g.large mirror systems)</td>
+<td>Limited market – can only be used in regions with high DNI, cannot be easily installed on rooftops</td>
+</tr>
+<tr>
+<td>Modular – kW to GW scale</td>
+<td>Strong cost decrease of competing technologies for electricity production</td>
+</tr>
+<tr>
+<td>Increased and stable energy production throughout the day due to (two-axis) tracking</td>
+<td>Bankability and perception issues</td>
+</tr>
+<tr>
+<td>Low <a href="/wiki/Crystalline_silicon#Energy_payback_time" title="Crystalline silicon">energy payback time</a></td>
+<td>New generation technologies, without a history of production (thus increased risk)</td>
+</tr>
+<tr>
+<td>Potential double use of land e.g. for agriculture, low environmental impact</td>
+<td>Optical losses</td>
+</tr>
+<tr>
+<td>High potential for cost reduction</td>
+<td>Lack of technology standardization</td>
+</tr>
+<tr>
+<td>Opportunities for local manufacturing</td>
+<td>–</td>
+</tr>
+<tr>
+<td>Smaller cell sizes could prevent large fluctuations in module price due to variations in semiconductor prices</td>
+<td>–</td>
+</tr>
+<tr>
+<td>Greater potential for efficiency increase in the future compared to single-junction flat plate systems could lead to greater improvements in land area use, <a href="/wiki/Balance_of_system" title="Balance of system">BOS</a> costs, and BOP costs</td>
+<td>–</td>
+</tr>
+<tr>
+<th colspan="2" style="font-weight: normal; text-align: left; padding: 6px 0 4px 4px; font-size: 0.9em;"><i>Source:</i> Current Status of CPV report, January 2015.<sup id="cite_ref-Current-status-FHI-NREL-2015_3-3" class="reference"><a href="#cite_note-Current-status-FHI-NREL-2015-3">[3]</a></sup><sup class="reference" style="white-space:nowrap;">:8</sup> Table 2: Analysis of the strengths and weaknesses of CPV.</th>
+</tr>
+</table>
+<p>In late 2015, <a href="/wiki/ARPA-E" title="ARPA-E">ARPA-E</a> announced a first round of R&amp;D funding for the MOSAIC Program (Microscale Optimized Solar-cell Arrays with Integrated Concentration) to further combat the location and expense challenges of existing CPV technology. As stated in the program description: "MOSAIC projects are grouped into three categories: complete systems that cost effectively integrate micro-CPV for regions such as sunny areas of the U.S. southwest that have high Direct Normal Incident (DNI) solar radiation; complete systems that apply to regions, such as areas of the U.S. Northeast and Midwest, that have low DNI solar radiation or high diffuse solar radiation; and concepts that seek partial solutions to technology challenges."<sup id="cite_ref-MOSAIC_11-0" class="reference"><a href="#cite_note-MOSAIC-11">[11]</a></sup></p>
+<h2><span class="mw-headline" id="Efficiency">Efficiency</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Concentrator_photovoltaics&amp;action=edit&amp;section=3" title="Edit section: Efficiency">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote">Main article: <a href="/wiki/Solar_cell_efficiency" title="Solar cell efficiency">Solar cell efficiency</a></div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:322px;"><a href="/wiki/File:Best_Research-Cell_Efficiencies.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/35/Best_Research-Cell_Efficiencies.png/320px-Best_Research-Cell_Efficiencies.png" width="320" height="181" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/35/Best_Research-Cell_Efficiencies.png/480px-Best_Research-Cell_Efficiencies.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/35/Best_Research-Cell_Efficiencies.png/640px-Best_Research-Cell_Efficiencies.png 2x" data-file-width="2800" data-file-height="1581" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Best_Research-Cell_Efficiencies.png" class="internal" title="Enlarge"></a></div>
+Reported records of <a href="/wiki/Solar_cell_efficiency" title="Solar cell efficiency">solar cell efficiency</a> since 1975. As of December 2014, best lab cell efficiency reached 46% (for <span style="color: #7C317C;">⊡</span> <a href="/wiki/Multi-junction" class="mw-redirect" title="Multi-junction">multi-junction</a> concentrator, 4+ junctions).</div>
+</div>
+</div>
+<p>All CPV systems have a concentrating optic and a <a href="/wiki/Solar_cell" title="Solar cell">solar cell</a>. Generally, active <a href="/wiki/Solar_tracking" class="mw-redirect" title="Solar tracking">solar tracking</a> is necessary. Low-concentration systems often have a simple booster reflector, which can increase solar electric output by over 30% from that of non-concentrator PV systems.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup><sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup> Experimental results from such LCPV systems in Canada resulted in energy gains over 40% for prismatic glass and 45% for traditional crystalline silicon <a href="/wiki/Photovoltaics" title="Photovoltaics">PV</a> modules.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup></p>
+<p><a href="/wiki/Semiconductor" title="Semiconductor">Semiconductor</a> properties allow solar cells to operate more efficiently in concentrated light, as long as the cell <a href="/wiki/Junction_temperature" title="Junction temperature">Junction temperature</a> is kept cool by suitable <a href="/wiki/Heat_sink" title="Heat sink">heat sinks</a>. Efficiency of <a href="/wiki/Multi-junction_photovoltaic_cell" class="mw-redirect" title="Multi-junction photovoltaic cell">multi-junction photovoltaic cells</a> developed in research is upward of 44% today, with the potential to approach 50% in the coming years.<sup id="cite_ref-NREL-CPV_15-0" class="reference"><a href="#cite_note-NREL-CPV-15">[15]</a></sup></p>
+<p>Also crucial to the efficiency (and cost) of a CPV system is the concentrating optic since it collects and concentrates sunlight onto the solar cell. For a given concentration, <a href="/wiki/Nonimaging_optics" title="Nonimaging optics">nonimaging optics</a><sup id="cite_ref-IntroNio2e_9-1" class="reference"><a href="#cite_note-IntroNio2e-9">[9]</a></sup> combine the widest possible <a href="/wiki/Acceptance_angle_(solar_concentrator)" title="Acceptance angle (solar concentrator)">acceptance angles</a> with high efficiency and, therefore, are the most appropriate for use in solar concentration. For very low concentrations, the wide acceptance angles of nonimaging optics avoid the need for active solar tracking. For <a href="#Medium_concentration_CPV">medium</a> and <a href="#High_concentration_photovoltaics_.28HCPV.29">high</a> concentrations, a wide acceptance angle can be seen as a measure of how tolerant the optic is to imperfections in the whole system. It is vital to start with a wide acceptance angle since it must be able to accommodate tracking errors, movements of the system due to wind, imperfectly manufactured optics, imperfectly assembled components, finite stiffness of the supporting structure or its deformation due to aging, among other factors. All of these reduce the initial acceptance angle and, after they are all factored in, the system must still be able to capture the finite angular aperture of sunlight.</p>
+<h2><span class="mw-headline" id="Types"><span id="Types"></span> Types</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Concentrator_photovoltaics&amp;action=edit&amp;section=4" title="Edit section: Types">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>CPV systems are categorized according to the amount of their solar concentration, measured in "suns" (the square of the <a href="/wiki/Magnification" title="Magnification">magnification</a>).</p>
+<h3><span class="mw-headline" id="Low_concentration_PV_.28LCPV.29">Low concentration PV (LCPV)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Concentrator_photovoltaics&amp;action=edit&amp;section=5" title="Edit section: Low concentration PV (LCPV)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:LCPV_Lensing.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/LCPV_Lensing.jpg/220px-LCPV_Lensing.jpg" width="220" height="293" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/LCPV_Lensing.jpg/330px-LCPV_Lensing.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ce/LCPV_Lensing.jpg/440px-LCPV_Lensing.jpg 2x" data-file-width="2448" data-file-height="3264" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:LCPV_Lensing.jpg" class="internal" title="Enlarge"></a></div>
+An example of a Low Concentration PV Cell's surface, showing the glass <a href="/wiki/Lens_(optics)" title="Lens (optics)">lensing</a></div>
+</div>
+</div>
+<p>Low concentration PV are systems with a solar concentration of 2–100 suns.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup> For economic reasons, conventional or modified silicon solar cells are typically used, and, at these concentrations, the heat <a href="/wiki/Flux" title="Flux">flux</a> is low enough that the cells do not need to be actively cooled. There is now modeling and experimental evidence that standard solar modules do not need any modification, tracking or cooling if the concentration level is low and yet still have increased output of 35% or more.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup> The laws of optics dictate that a <a href="/wiki/Solar_panel" title="Solar panel">solar collector</a> with a low concentration ratio can have a high acceptance angle and thus in some instances does not require active solar tracking.</p>
+<h3><span class="mw-headline" id="Medium_concentration_PV">Medium concentration PV</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Concentrator_photovoltaics&amp;action=edit&amp;section=6" title="Edit section: Medium concentration PV">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>From concentrations of 100 to 300 suns, the CPV systems require two-axes solar tracking and cooling (whether passive or active), which makes them more complex.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:HCPV_Cell_from_Fotrousi_Electronics.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/40/HCPV_Cell_from_Fotrousi_Electronics.jpg/220px-HCPV_Cell_from_Fotrousi_Electronics.jpg" width="220" height="172" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/40/HCPV_Cell_from_Fotrousi_Electronics.jpg/330px-HCPV_Cell_from_Fotrousi_Electronics.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/40/HCPV_Cell_from_Fotrousi_Electronics.jpg/440px-HCPV_Cell_from_Fotrousi_Electronics.jpg 2x" data-file-width="567" data-file-height="444" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:HCPV_Cell_from_Fotrousi_Electronics.jpg" class="internal" title="Enlarge"></a></div>
+A 10×10 mm HCPV solar cell</div>
+</div>
+</div>
+<h3><span class="mw-headline" id="High_concentration_photovoltaics_.28HCPV.29">High concentration photovoltaics (HCPV)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Concentrator_photovoltaics&amp;action=edit&amp;section=7" title="Edit section: High concentration photovoltaics (HCPV)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>High concentration photovoltaics (HCPV) systems employ concentrating optics consisting of dish reflectors or fresnel lenses that concentrate sunlight to intensities of 1,000 suns or more.<sup id="cite_ref-NREL-CPV_15-1" class="reference"><a href="#cite_note-NREL-CPV-15">[15]</a></sup> The solar cells require high-capacity heat sinks to prevent thermal destruction and to manage temperature related electrical performance and life expectancy losses. To further exacerbate the concentrated cooling design, the heat sink must be passive, otherwise the power required for active cooling will reduce the overall <a href="/wiki/Solar_cell_efficiency" title="Solar cell efficiency">conversion efficiency</a> and economy. <a href="/wiki/Multi-junction_solar_cell" title="Multi-junction solar cell">Multi-junction solar cells</a> are currently favored over single junction cells, as they are more efficient and have a lower temperature coefficient (less loss in efficiency with an increase in temperature). The efficiency of both cell types rises with increased concentration; multi-junction efficiency rises faster.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (June 2011)">citation needed</span></a></i>]</sup> Multi-junction solar cells, originally designed for non-concentrating <a href="/wiki/Solar_panels_on_spacecraft" title="Solar panels on spacecraft">PV on space-based satellites</a>, have been re-designed due to the high-current density encountered with CPV (typically 8 A/cm<sup>2</sup> at 500 suns). Though the cost of multi-junction solar cells is roughly 100 times that of conventional silicon cells of the same area, the small cell area employed makes the relative costs of cells in each system comparable and the system economics favor the multi-junction cells. Multi-junction cell efficiency has now reached 44% in production cells.</p>
+<p>The 44% value given above is for a specific set of conditions known as "standard test conditions". These include a specific spectrum, an incident optical power of 850 W/m², and a cell temperature of 25&#160;°C. In a concentrating system, the cell will typically operate under conditions of variable spectrum, lower optical power, and higher temperature. The optics needed to concentrate the light have limited efficiency themselves, in the range of 75–90%. Taking these factors into account, a solar module incorporating a 44% multi-junction cell might deliver a DC efficiency around 36%. Under similar conditions, a crystalline silicon module would deliver an efficiency of less than 18%.</p>
+<p>When high concentration is needed (500–1000 times), as occurs in the case of high efficiency multi-junction solar cells, it is likely that it will be crucial for commercial success at the system level to achieve such concentration with a sufficient acceptance angle. This allows tolerance in mass production of all components, relaxes the module assembling and system installation, and decreasing the cost of structural elements. Since the main goal of CPV is to make solar energy inexpensive, there can be used only a few surfaces. Decreasing the number of elements and achieving high acceptance angle, can be relaxed optical and mechanical requirements, such as accuracy of the optical surfaces profiles, the module assembling, the installation, the supporting structure, etc. To this end, improvements in sunshape modelling at the system design stage may lead to higher system efficiencies.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup></p>
+<h2><span class="mw-headline" id="Installations">Installations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Concentrator_photovoltaics&amp;action=edit&amp;section=8" title="Edit section: Installations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Concentrator photovoltaics technology has established its presence in the solar industry over the last several years. The first CPV power plant that exceeded 1&#160;MW-level was commissioned in Spain in 2006. By the end of 2015, the number of CPV power plants around the world accounted for a total installed capacity of 350&#160;MW. Field data collected over the past six years is also starting to benchmark the prospects for long-term system reliability.</p>
+<p>The emerging CPV segment has comprised ~0.1% of the fast-growing utility market for PV installations over the past decade. Unfortunately, by the end of 2015, the near term outlook for CPV industry growth has faded with closure of all of the largest CPV manufacturing facilities: including those of Suncore, Soitec, Amonix, and Solfocus. Nevertheless, the growth outlook for the overall PV industry continues to appear strong.<sup id="cite_ref-Current-status-FHI-NREL-2015_3-4" class="reference"><a href="#cite_note-Current-status-FHI-NREL-2015-3">[3]</a></sup><sup id="cite_ref-Fraunhofer-PR-2014_5-3" class="reference"><a href="#cite_note-Fraunhofer-PR-2014-5">[5]</a></sup></p>
+<div class="thumb tmulti tnone center">
+<div class="thumbinner" style="width:823px;max-width:823px">
+<div class="tsingle" style="float:left;margin:1px;width:329px;max-width:329px">
+<div class="thumbimage"><a href="/wiki/File:Cumulative_CPV_Installations_in_MW_by_country_by_November_2014_plain.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Cumulative_CPV_Installations_in_MW_by_country_by_November_2014_plain.svg/327px-Cumulative_CPV_Installations_in_MW_by_country_by_November_2014_plain.svg.png" width="327" height="182" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Cumulative_CPV_Installations_in_MW_by_country_by_November_2014_plain.svg/491px-Cumulative_CPV_Installations_in_MW_by_country_by_November_2014_plain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Cumulative_CPV_Installations_in_MW_by_country_by_November_2014_plain.svg/654px-Cumulative_CPV_Installations_in_MW_by_country_by_November_2014_plain.svg.png 2x" data-file-width="1347" data-file-height="749" /></a></div>
+<div class="thumbcaption" style="clear:left">Cumulative CPV Installations in MW by country by November 2014<sup id="cite_ref-Current-status-FHI-NREL-2015_3-5" class="reference"><a href="#cite_note-Current-status-FHI-NREL-2015-3">[3]</a></sup><sup class="reference" style="white-space:nowrap;">:12</sup></div>
+</div>
+<div class="tsingle" style="float:left;margin:1px;width:244px;max-width:244px">
+<div class="thumbimage"><a href="/wiki/File:Yearly_Installed_CPV_Capacity_in_MW_from_2002_to_2015.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Yearly_Installed_CPV_Capacity_in_MW_from_2002_to_2015.svg/242px-Yearly_Installed_CPV_Capacity_in_MW_from_2002_to_2015.svg.png" width="242" height="182" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Yearly_Installed_CPV_Capacity_in_MW_from_2002_to_2015.svg/363px-Yearly_Installed_CPV_Capacity_in_MW_from_2002_to_2015.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Yearly_Installed_CPV_Capacity_in_MW_from_2002_to_2015.svg/484px-Yearly_Installed_CPV_Capacity_in_MW_from_2002_to_2015.svg.png 2x" data-file-width="992" data-file-height="744" /></a></div>
+<div class="thumbcaption" style="clear:left">Yearly Installed CPV Capacity in MW from 2002 to 2015.<sup id="cite_ref-Current-status-FHI-NREL-2015_3-6" class="reference"><a href="#cite_note-Current-status-FHI-NREL-2015-3">[3]</a></sup><sup id="cite_ref-Fraunhofer-PR-2014_5-4" class="reference"><a href="#cite_note-Fraunhofer-PR-2014-5">[5]</a></sup></div>
+</div>
+<div class="tsingle" style="float:left;margin:1px;width:244px;max-width:244px">
+<div class="thumbimage"><a href="/wiki/File:Yearly_Installed_PV_Capacity_in_GW_from_2002_to_2015.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Yearly_Installed_PV_Capacity_in_GW_from_2002_to_2015.svg/242px-Yearly_Installed_PV_Capacity_in_GW_from_2002_to_2015.svg.png" width="242" height="182" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Yearly_Installed_PV_Capacity_in_GW_from_2002_to_2015.svg/363px-Yearly_Installed_PV_Capacity_in_GW_from_2002_to_2015.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Yearly_Installed_PV_Capacity_in_GW_from_2002_to_2015.svg/484px-Yearly_Installed_PV_Capacity_in_GW_from_2002_to_2015.svg.png 2x" data-file-width="992" data-file-height="744" /></a></div>
+<div class="thumbcaption" style="clear:left">Yearly Installed PV Capacity in GW from 2002 to 2015.<sup id="cite_ref-Fraunhofer-PR-2014_5-5" class="reference"><a href="#cite_note-Fraunhofer-PR-2014-5">[5]</a></sup></div>
+</div>
+<div style="clear:left"></div>
+</div>
+</div>
+<h3><span class="mw-headline" id="List_of_large_CPV_systems">List of large CPV systems</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Concentrator_photovoltaics&amp;action=edit&amp;section=9" title="Edit section: List of large CPV systems">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The largest CPV power plant currently in operation is of 80&#160;MW<sub>p</sub> capacity located in Golmud, China, hosted by <a href="/wiki/Suncore_Photovoltaics" title="Suncore Photovoltaics">Suncore Photovoltaics</a>.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup></p>
+<table class="wikitable">
+<tr>
+<th>Power station</th>
+<th>Capacity (MW<sub>p</sub>)</th>
+<th>Location</th>
+<th>Vendor/Builder</th>
+<th>Ref</th>
+</tr>
+<tr>
+<td>Golmud 2</td>
+<td align="center">79.83</td>
+<td>in Golmud/Qinghai province/China</td>
+<td>Suncore</td>
+<td><sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup></td>
+</tr>
+<tr>
+<td>Golmud 1</td>
+<td align="center">57.96</td>
+<td>in Golmud/Qinghai province/China</td>
+<td>Suncore</td>
+<td><sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup></td>
+</tr>
+<tr>
+<td>Touwsrivier</td>
+<td align="center">44.19</td>
+<td>in Touwsrivier/Western Cape/South Africa</td>
+<td>Soitec</td>
+<td><sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup></td>
+</tr>
+<tr>
+<td>Alamosa Solar Project</td>
+<td align="center">35.28</td>
+<td>in Alamosa, Colorado/San Luis Valley/United States</td>
+<td>Amonix</td>
+<td><sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup></td>
+</tr>
+<tr>
+<th colspan="5" style="font-weight: normal; text-align: left; font-size: 0.85em; padding: 6px 0 4px 4px;">Source: <a rel="nofollow" class="external text" href="http://cpvconsortium.org">The CPV Consortium</a><sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup></th>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Concentrated_photovoltaics_and_thermal">Concentrated photovoltaics and thermal</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Concentrator_photovoltaics&amp;action=edit&amp;section=10" title="Edit section: Concentrated photovoltaics and thermal">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><b>Concentrator photovoltaics and thermal</b> (<b>CPVT</b>), also sometimes called <b>combined heat and power solar</b> (<b>CHAPS</b>) or hybrid thermal CPV, is a <a href="/wiki/Cogeneration" title="Cogeneration">cogeneration</a> or <a href="/wiki/Micro_CHP" class="mw-redirect" title="Micro CHP">micro cogeneration</a> technology used in the field of concentrator photovoltaics that produces usable heat and electricity within the same system. CPVT at high concentrations of over 100 suns (HCPVT) utilizes similar components as HCPV, including dual-axis tracking and <a href="/wiki/Multi-junction_photovoltaic_cell" class="mw-redirect" title="Multi-junction photovoltaic cell">multi-junction photovoltaic cells</a>. A fluid actively cools the integrated thermal–photovoltaic receiver, and simultaneously transports the collected heat.</p>
+<p>Typically, one or more receivers and a <a href="/wiki/Heat_exchanger" title="Heat exchanger">heat exchanger</a> operate within a closed thermal loop. To maintain efficient overall operation and avoid damage from <a href="/wiki/Thermal_runaway" title="Thermal runaway">thermal runaway</a>, the demand for heat from the secondary side of the exchanger must be consistently high. Under such optimal operating conditions, collection efficiencies exceeding 70% (up to ~35% electric, ~40% thermal for HCPVT) are anticipated. Net operating efficiencies may be substantially lower depending on how well a system is engineered to match the demands of the particular thermal application.</p>
+<p>The maximum temperature of CPVT systems is typically too low alone to power a boiler for additional steam-based cogeneration of electricity. Such systems may be economical to power lower temperature applications having a constant high heat demand. The heat may be employed in <a href="/wiki/District_heating" title="District heating">district heating</a>, <a href="/wiki/Water_heating" title="Water heating">water heating</a> and <a href="/wiki/Solar_cooling" class="mw-redirect" title="Solar cooling">air conditioning</a>, <a href="/wiki/Desalination" title="Desalination">desalination</a> or <a href="/wiki/Process_heat" class="mw-redirect" title="Process heat">process heat</a>. For applications having lower or intermittent heat demand, a system may be augmented with a switchable heat dump to the external environment in order to maintain reliable electrical output and safeguard cell life, despite the resulting reduction in net operating efficiency.</p>
+<p>HCPVT active cooling enables the use of much higher power thermal–photovoltaic receiver units, generating typically 1–100 kilowatts electric, as compared to HCPV systems that mostly rely upon passive cooling of single ~20W cells. Such high-power receivers utilize dense arrays of cells mounted on a high-efficiency <a href="/wiki/Heat_sink" title="Heat sink">heat sink</a>.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup> Minimizing the number of individual receiver units is a simplification that should ultimately yield improvement in the overall balance of system costs, manufacturability, maintainability/upgradeability, and reliability.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup><sup class="noprint Inline-Template noprint Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:NOTRS" class="mw-redirect" title="Wikipedia:NOTRS"><span title="(September 2015)">better&#160;source&#160;needed</span></a></i>]</sup></p>
+<div class="center">
+<div class="thumb tnone">
+<div class="thumbinner" style="width:322px;"><a href="/wiki/File:CFD_Photovoltaic_Free_Convection_Heat_Sink_Design.gif" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/d/dd/CFD_Photovoltaic_Free_Convection_Heat_Sink_Design.gif" width="320" height="256" class="thumbimage" data-file-width="320" data-file-height="256" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:CFD_Photovoltaic_Free_Convection_Heat_Sink_Design.gif" class="internal" title="Enlarge"></a></div>
+This 240 x 80&#160;mm 1,000 suns CPV heat sink design thermal animation, was created using high resolution <a href="/wiki/Computational_fluid_dynamics" title="Computational fluid dynamics">CFD</a> analysis, and shows temperature contoured heat sink surface and flow trajectories as predicted.</div>
+</div>
+</div>
+</div>
+<h3><span class="mw-headline" id="Reliability_requirements">Reliability requirements</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Concentrator_photovoltaics&amp;action=edit&amp;section=11" title="Edit section: Reliability requirements">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The maximum operating temperatures (T<sub>max cell</sub>) of CPVT systems are limited to less than approximately 100–125&#160;°C on account of the intrinsic reliability limitation of their multi-junction PV cells. This contrasts to <a href="/wiki/Concentrating_Solar_Power" class="mw-redirect" title="Concentrating Solar Power">CSP</a> and other <a href="/wiki/Cogeneration" title="Cogeneration">CHP</a> systems which may be designed to function at temperatures in excess of several hundred degrees. More specifically, the multi-junction photovoltaic cells are fabricated from a layering of thin-film <a href="/wiki/Template:III-V_compounds" title="Template:III-V compounds">III-V semiconductor materials</a> having intrinsic lifetimes during CPV operation that rapidly decrease with an <a href="/wiki/Arrhenius_equation" title="Arrhenius equation">Arrhenius</a>-type temperature dependence. The system receiver must therefore provide for highly efficient and uniform cell cooling, where an ideal receiver would provide T<sub>max coolant</sub> ~ T<sub>max cell</sub>. In addition to material and design limitations in receiver heat-transfer performance, numerous extrinsic factors, such as the frequent system thermal cycling, further reduce the practical T<sub>max coolant</sub> compatible with long system life to below about 80&#160;°C.</p>
+<p>The higher capital costs, lesser standardization, and added engineering &amp; operational complexities (in comparison to zero and low-concentration PV technologies) make demonstrations of system reliability and long-life performance critical challenges for the first generation of CPV and CPVT technologies. Performance certification testing standards (e.g. <a href="/wiki/International_Electrotechnical_Commission" title="International Electrotechnical Commission">IEC</a> 62108, <a href="/wiki/Underwriters_Labs" class="mw-redirect" title="Underwriters Labs">UL</a> 8703, <a href="/wiki/International_Electrotechnical_Commission" title="International Electrotechnical Commission">IEC</a> 62789, <a href="/wiki/International_Electrotechnical_Commission" title="International Electrotechnical Commission">IEC</a> 62670) include stress conditions that may be useful to uncover some predominantly infant and early life (&lt;1–2 year) <a href="/wiki/Failure_modes_of_electronics" class="mw-redirect" title="Failure modes of electronics">failure modes</a> at the system, module, and sub-component levels. However, such standardized tests – as typically performed on only a small sampling of units – are generally incapable to evaluate comprehensive long-term (10 to 25 or more years) lifetimes for each unique CPVT system design and application under its broader range of actual operating conditions. Long-life performance of these complex systems is therefore assessed in the field, and is improved through aggressive product development cycles which are guided by the results of <a href="/wiki/Accelerated_aging" title="Accelerated aging">accelerated component/system aging</a>, enhanced performance monitoring diagnostics, and <a href="/wiki/Failure_analysis" title="Failure analysis">failure analysis</a>. Significant growth in the deployment of CPV and CPVT can be anticipated once the long-term performance and reliability concerns are better addressed to build confidence in system bankability.<sup id="cite_ref-example_web_reference_27-0" class="reference"><a href="#cite_note-example_web_reference-27">[27]</a></sup></p>
+<h3><span class="mw-headline" id="Demonstration_projects">Demonstration projects</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Concentrator_photovoltaics&amp;action=edit&amp;section=12" title="Edit section: Demonstration projects">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The economics of a mature CPVT industry is anticipated to be competitive, despite the large recent cost reductions and gradual efficiency improvements for conventional silicon PV (which can be installed alongside conventional CSP to provide for similar electrical+thermal generation capabilities).<sup id="cite_ref-Current-status-FHI-NREL-2015_3-7" class="reference"><a href="#cite_note-Current-status-FHI-NREL-2015-3">[3]</a></sup> CPVT may currently be economical for niche markets having all of the following application characteristics:</p>
+<ul>
+<li>high solar direct normal incidence (DNI)</li>
+<li>tight space constraints for placement of a solar collector array</li>
+<li>high and constant demand for low-temperature (&lt;80&#160;°C) heat</li>
+<li>high cost of grid electricity</li>
+<li>access to backup sources of power or cost-efficient storage (electrical and thermal)</li>
+</ul>
+<p>Utilization of a <a href="/wiki/Power_purchase_agreement" title="Power purchase agreement">power purchase agreement</a> (PPA), government assistance programs, and innovative financing schemes are also helping potential manufacturers and users to mitigate the risks of early CPVT technology adoption.</p>
+<p>CPVT equipment offerings ranging from low (LCPVT) to high (HCPVT) concentration are now being deployed by several <a href="/wiki/Startup_company" title="Startup company">startup ventures</a>. As such, longer-term viability of the technical and/or business approach being pursued by any individual system provider is typically speculative. Notably, the <a href="/wiki/Minimum_viable_product" title="Minimum viable product">minimum viable products</a> of startups can vary widely in their attention to <a href="/wiki/Reliability_engineering" title="Reliability engineering">reliability engineering</a>. Nevertheless, the following incomplete compilation is offered to assist with the identification of some early industry trends.</p>
+<p>LCPVT systems at ~14x concentration using reflective trough concentrators, and receiver pipes clad with silicon cells having dense interconnects, have been assembled by Cogenra with a claimed 75% efficiency (~15-20% electric, 60% thermal).<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[28]</a></sup> Several such systems are in operation for more than 5 years as of 2015, and similar systems are being produced by Absolicon <sup id="cite_ref-29" class="reference"><a href="#cite_note-29">[29]</a></sup> and Idhelio <sup id="cite_ref-30" class="reference"><a href="#cite_note-30">[30]</a></sup> at 10x and 50x concentration, respectively.</p>
+<p>HCPVT offerings at over 700x concentration have more recently emerged, and may be classified into three power tiers. Third tier systems are distributed generators consisting of large arrays of ~20W single-cell receiver/collector units, similar to those previously pioneered by Amonix and SolFocus for HCPV. Second tier systems utilize localized dense-arrays of cells that produce 1-100&#160;kW of electrical power output per receiver/generator unit. First tier systems exceed 100&#160;kW of electrical output and are most aggressive in targeting the utility market.</p>
+<p>Several HCPVT system providers are listed in the following table. Nearly all are early demonstration systems which have been in service for under 5 years as of 2015. Collected thermal power is typically 1.5x-2x the rated electrical power.</p>
+<table class="wikitable" style="text-align: center; margin: 0.1em auto;">
+<tr>
+<th rowspan="2">Provider</th>
+<th rowspan="2">Country</th>
+<th rowspan="2">Concentrator Type</th>
+<th colspan="2">Unit&#160;Size&#160;in &#160;kW<sub>e</sub></th>
+<th rowspan="2">Ref</th>
+</tr>
+<tr>
+<th>Generator</th>
+<th>Receiver</th>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td><i>- Tier 1 -</i></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td align="left">Raygen</td>
+<td align="left">Australia</td>
+<td>Large <a href="/wiki/Heliostat" title="Heliostat">Heliostat</a> Array</td>
+<td>200</td>
+<td>200</td>
+<td><sup id="cite_ref-31" class="reference"><a href="#cite_note-31">[31]</a></sup></td>
+</tr>
+<tr>
+<td align="left">Sunfish</td>
+<td align="left">United Kingdom</td>
+<td>Large <a href="/wiki/Heliostat" title="Heliostat">Heliostat</a> Array</td>
+<td>na</td>
+<td>na</td>
+<td><sup id="cite_ref-32" class="reference"><a href="#cite_note-32">[32]</a></sup></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td><i>- Tier 2 -</i></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td align="left">Renovalia</td>
+<td align="left">Spain</td>
+<td>Large Dish</td>
+<td>3</td>
+<td>3</td>
+<td><sup id="cite_ref-33" class="reference"><a href="#cite_note-33">[33]</a></sup></td>
+</tr>
+<tr>
+<td align="left"><a href="/wiki/Zenith_Solar" title="Zenith Solar">Zenith Solar</a>/<a href="/wiki/Suncore_Photovoltaics" title="Suncore Photovoltaics">Suncore</a></td>
+<td align="left">Israel/China</td>
+<td>Large Dish</td>
+<td>4.5</td>
+<td>2.25</td>
+<td><sup id="cite_ref-34" class="reference"><a href="#cite_note-34">[34]</a></sup><sup id="cite_ref-35" class="reference"><a href="#cite_note-35">[35]</a></sup></td>
+</tr>
+<tr>
+<td align="left">Sun Oyster</td>
+<td align="left">Germany</td>
+<td>Large Trough + Lens</td>
+<td>4.7</td>
+<td>2.35</td>
+<td><sup id="cite_ref-36" class="reference"><a href="#cite_note-36">[36]</a></sup></td>
+</tr>
+<tr>
+<td align="left">Forbes Solar</td>
+<td align="left">India/Germany</td>
+<td>Large Dish</td>
+<td>7.5</td>
+<td>3.75</td>
+<td><sup id="cite_ref-37" class="reference"><a href="#cite_note-37">[37]</a></sup></td>
+</tr>
+<tr>
+<td align="left">Airlight Energy/dsolar</td>
+<td align="left">Switzerland</td>
+<td>Large Dish</td>
+<td>12</td>
+<td>12</td>
+<td><sup id="cite_ref-38" class="reference"><a href="#cite_note-38">[38]</a></sup><sup id="cite_ref-39" class="reference"><a href="#cite_note-39">[39]</a></sup><sup id="cite_ref-40" class="reference"><a href="#cite_note-40">[40]</a></sup></td>
+</tr>
+<tr>
+<td align="left">Southwest Solar</td>
+<td align="left">United States</td>
+<td>Large Dish</td>
+<td>20</td>
+<td>20</td>
+<td><sup id="cite_ref-41" class="reference"><a href="#cite_note-41">[41]</a></sup></td>
+</tr>
+<tr>
+<td align="left"><a href="/w/index.php?title=Silex_Systems&amp;action=edit&amp;redlink=1" class="new" title="Silex Systems (page does not exist)">Silex</a> <a href="/wiki/Solar_Systems_(company)" title="Solar Systems (company)">Solar Systems</a></td>
+<td align="left">Australia</td>
+<td>Large Dish</td>
+<td>35</td>
+<td>35</td>
+<td><sup id="cite_ref-42" class="reference"><a href="#cite_note-42">[42]</a></sup></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td><i>- Tier 3 -</i></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td align="left">Brightleaf</td>
+<td align="left">United States</td>
+<td>Small Dish Array</td>
+<td>4</td>
+<td>0.02</td>
+<td><sup id="cite_ref-43" class="reference"><a href="#cite_note-43">[43]</a></sup></td>
+</tr>
+<tr>
+<td align="left">Silex Power</td>
+<td align="left">Malta</td>
+<td>Small Dish Array</td>
+<td>16</td>
+<td>0.04</td>
+<td><sup id="cite_ref-44" class="reference"><a href="#cite_note-44">[44]</a></sup></td>
+</tr>
+<tr>
+<td align="left">Solergy</td>
+<td align="left">Italy/USA</td>
+<td>Small Lens Array</td>
+<td>20</td>
+<td>0.02</td>
+<td><sup id="cite_ref-45" class="reference"><a href="#cite_note-45">[45]</a></sup></td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Concentrator_photovoltaics&amp;action=edit&amp;section=13" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a href="/wiki/File:Wind-turbine-icon.svg" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/28px-Wind-turbine-icon.svg.png" width="28" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/42px-Wind-turbine-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/56px-Wind-turbine-icon.svg.png 2x" data-file-width="128" data-file-height="128" /></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Renewable_energy" title="Portal:Renewable energy">Renewable energy portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a href="/wiki/File:Crystal_energy.svg" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/29px-Crystal_energy.svg.png" width="29" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/44px-Crystal_energy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/59px-Crystal_energy.svg.png 2x" data-file-width="130" data-file-height="124" /></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Energy" title="Portal:Energy">Energy portal</a></span></li>
+</ul>
+</div>
+<ul>
+<li><a href="/wiki/Concentrated_solar_power" title="Concentrated solar power">Concentrated solar power</a> (CSP)</li>
+<li><a href="/wiki/Luminescent_solar_concentrator" title="Luminescent solar concentrator">Luminescent solar concentrator</a></li>
+<li><a href="/wiki/Photovoltaic_thermal_hybrid_solar_collector#PV.2FT_concentrator_.28CPVT.29" title="Photovoltaic thermal hybrid solar collector">Concentrated photovoltaic thermal hybrid solar collectors</a> (CPVT)</li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Concentrator_photovoltaics&amp;action=edit&amp;section=14" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">500x concentration ratio is claimed at <a rel="nofollow" class="external text" href="http://amonix.com/content/concentrator-optics">Amonix website</a>.</span></li>
+<li id="cite_note-IEA-roadmap-PV-2014-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-IEA-roadmap-PV-2014_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-IEA-roadmap-PV-2014_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-IEA-roadmap-PV-2014_2-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external free" href="http://www.iea.org">http://www.iea.org</a> (2014). <a rel="nofollow" class="external text" href="http://www.iea.org/publications/freepublications/publication/TechnologyRoadmapSolarPhotovoltaicEnergy_2014edition.pdf">"Technology Roadmap: Solar Photovoltaic Energy"</a> <span style="font-size:85%;">(PDF)</span>. IEA. <a rel="nofollow" class="external text" href="http://www.webcitation.org/6T92GIRhW?url=http://www.iea.org/publications/freepublications/publication/TechnologyRoadmapSolarPhotovoltaicEnergy_2014edition.pdf">Archived</a> <span style="font-size:85%;">(PDF)</span> from the original on 7 October 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">7 October</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConcentrator+photovoltaics&amp;rft.au=http%3A%2F%2Fwww.iea.org&amp;rft.btitle=Technology+Roadmap%3A+Solar+Photovoltaic+Energy&amp;rft.date=2014&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.iea.org%2Fpublications%2Ffreepublications%2Fpublication%2FTechnologyRoadmapSolarPhotovoltaicEnergy_2014edition.pdf&amp;rft.pub=IEA&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Current-status-FHI-NREL-2015-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-Current-status-FHI-NREL-2015_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Current-status-FHI-NREL-2015_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Current-status-FHI-NREL-2015_3-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Current-status-FHI-NREL-2015_3-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Current-status-FHI-NREL-2015_3-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-Current-status-FHI-NREL-2015_3-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-Current-status-FHI-NREL-2015_3-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-Current-status-FHI-NREL-2015_3-7"><sup><i><b>h</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Fraunhofer ISE and NREL (January 2015). <a rel="nofollow" class="external text" href="http://www.ise.fraunhofer.de/en/publications/veroeffentlichungen-pdf-dateien-en/studien-und-konzeptpapiere/current-status-of-concentrator-photovoltaic-cpv-technology.pdf">"Current Status of Concentrator Photovoltaic (CPV) Technology"</a> <span style="font-size:85%;">(PDF)</span>. <a rel="nofollow" class="external text" href="http://www.webcitation.org/6Y3NHM4y0?url=http://www.ise.fraunhofer.de/en/publications/veroeffentlichungen-pdf-dateien-en/studien-und-konzeptpapiere/current-status-of-concentrator-photovoltaic-cpv-technology.pdf">Archived</a> <span style="font-size:85%;">(PDF)</span> from the original on 25 April 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">25 April</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConcentrator+photovoltaics&amp;rft.au=Fraunhofer+ISE+and+NREL&amp;rft.btitle=Current+Status+of+Concentrator+Photovoltaic+%28CPV%29+Technology&amp;rft.date=2015-01&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.ise.fraunhofer.de%2Fen%2Fpublications%2Fveroeffentlichungen-pdf-dateien-en%2Fstudien-und-konzeptpapiere%2Fcurrent-status-of-concentrator-photovoltaic-cpv-technology.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-iea-pvps-snapshot-1992-2013-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-iea-pvps-snapshot-1992-2013_4-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.iea-pvps.org/fileadmin/dam/public/report/statistics/PVPS_report_-_A_Snapshot_of_Global_PV_-_1992-2013_-_final_3.pdf">"Snapshot of Global PV 1992-2013"</a> <span style="font-size:85%;">(PDF)</span>. <i><a rel="nofollow" class="external free" href="http://www.iea-pvps.org/">http://www.iea-pvps.org/</a></i>. International Energy Agency - Photovoltaic Power Systems Programme. 2014. <a rel="nofollow" class="external text" href="http://www.webcitation.org/6Obzux7nw?url=http://www.iea-pvps.org/fileadmin/dam/public/report/statistics/PVPS_report_-_A_Snapshot_of_Global_PV_-_1992-2013_-_final_3.pdf">Archived</a> <span style="font-size:85%;">(PDF)</span> from the original on 5 April 2014.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConcentrator+photovoltaics&amp;rft.atitle=Snapshot+of+Global+PV+1992-2013&amp;rft.date=2014&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.iea-pvps.org%2Ffileadmin%2Fdam%2Fpublic%2Freport%2Fstatistics%2FPVPS_report_-_A_Snapshot_of_Global_PV_-_1992-2013_-_final_3.pdf&amp;rft.jtitle=http%3A%2F%2Fwww.iea-pvps.org%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span> <span style="font-size:100%" class="error citation-comment">External link in <code style="color:inherit; border:inherit; padding:inherit;">|website=</code> (<a href="/wiki/Help:CS1_errors#param_has_ext_link" title="Help:CS1 errors">help</a>)</span></span></li>
+<li id="cite_note-Fraunhofer-PR-2014-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-Fraunhofer-PR-2014_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Fraunhofer-PR-2014_5-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Fraunhofer-PR-2014_5-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Fraunhofer-PR-2014_5-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Fraunhofer-PR-2014_5-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-Fraunhofer-PR-2014_5-5"><sup><i><b>f</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.ise.fraunhofer.de/en/downloads-englisch/pdf-files-englisch/photovoltaics-report-slides.pdf">"Photovoltaics Report"</a> <span style="font-size:85%;">(PDF)</span>. Fraunhofer ISE. 28 July 2014. <a rel="nofollow" class="external text" href="http://www.webcitation.org/6SFRTUaBS?url=http://www.ise.fraunhofer.de/en/downloads-englisch/pdf-files-englisch/photovoltaics-report-slides.pdf">Archived</a> <span style="font-size:85%;">(PDF)</span> from the original on 31 August 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">31 August</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConcentrator+photovoltaics&amp;rft.btitle=Photovoltaics+Report&amp;rft.date=2014-07-28&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.ise.fraunhofer.de%2Fen%2Fdownloads-englisch%2Fpdf-files-englisch%2Fphotovoltaics-report-slides.pdf&amp;rft.pub=Fraunhofer+ISE&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation journal">Kinsey, G. S.; Bagienski, W.; Nayak, A.; Liu, M.; Gordon, R.; Garboushian, V. (2013-04-01). <a rel="nofollow" class="external text" href="http://ieeexplore.ieee.org/document/6377225/">"Advancing Efficiency and Scale in CPV Arrays"</a>. <i>IEEE Journal of Photovoltaics</i>. <b>3</b> (2): 873–878. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1109%2FJPHOTOV.2012.2227992">10.1109/JPHOTOV.2012.2227992</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/2156-3381">2156-3381</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConcentrator+photovoltaics&amp;rft.atitle=Advancing+Efficiency+and+Scale+in+CPV+Arrays&amp;rft.au=Bagienski%2C+W.&amp;rft.aufirst=G.+S.&amp;rft.au=Garboushian%2C+V.&amp;rft.au=Gordon%2C+R.&amp;rft.aulast=Kinsey&amp;rft.au=Liu%2C+M.&amp;rft.au=Nayak%2C+A.&amp;rft.date=2013-04-01&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fieeexplore.ieee.org%2Fdocument%2F6377225%2F&amp;rft_id=info%3Adoi%2F10.1109%2FJPHOTOV.2012.2227992&amp;rft.issn=2156-3381&amp;rft.issue=2&amp;rft.jtitle=IEEE+Journal+of+Photovoltaics&amp;rft.pages=873-878&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=3" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">PV-insider.com <a rel="nofollow" class="external text" href="http://news.pv-insider.com/concentrated-pv/how-cpv-trumps-csp-high-dni-locations">How CPV trumps CSP in high DNI locations</a>, 14 February 2012</span></li>
+<li id="cite_note-CPVfeas-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-CPVfeas_8-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.tandfonline.com/doi/full/10.1080/23317000.2014.971982">"Feasibility of Concentrated Photovoltaic Systems (CPV) in Various United States Geographic Locations, Jin Ho Jo et.al., Energy Technology and Policy, 2014"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConcentrator+photovoltaics&amp;rft.btitle=Feasibility+of+Concentrated+Photovoltaic+Systems+%28CPV%29+in+Various+United+States+Geographic+Locations%2C+Jin+Ho+Jo+et.al.%2C+Energy+Technology+and+Policy%2C+2014&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.tandfonline.com%2Fdoi%2Ffull%2F10.1080%2F23317000.2014.971982&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-IntroNio2e-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-IntroNio2e_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-IntroNio2e_9-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Chaves, Julio (2015). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=e11ECgAAQBAJ"><i>Introduction to Nonimaging Optics, Second Edition</i></a>. <a href="/wiki/CRC_Press" title="CRC Press">CRC Press</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1482206739" title="Special:BookSources/978-1482206739">978-1482206739</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConcentrator+photovoltaics&amp;rft.aufirst=Julio&amp;rft.aulast=Chaves&amp;rft.btitle=Introduction+to+Nonimaging+Optics%2C+Second+Edition&amp;rft.date=2015&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3De11ECgAAQBAJ&amp;rft.isbn=978-1482206739&amp;rft.pub=CRC+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-NIO-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-NIO_10-0">^</a></b></span> <span class="reference-text">Roland Winston et al.,, <i>Nonimaging Optics</i>, Academic Press, 2004 <a href="/wiki/Special:BookSources/9780127597515" class="internal mw-magiclink-isbn">ISBN 978-0127597515</a></span></li>
+<li id="cite_note-MOSAIC-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-MOSAIC_11-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://arpa-e.energy.gov/sites/default/files/documents/files/MOSAIC_Project_Descriptions.pdf">"MOSAIC Project Descriptions"</a> <span style="font-size:85%;">(PDF)</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConcentrator+photovoltaics&amp;rft.btitle=MOSAIC+Project+Descriptions&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Farpa-e.energy.gov%2Fsites%2Fdefault%2Ffiles%2Fdocuments%2Ffiles%2FMOSAIC_Project_Descriptions.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">Rob Andrews, Nabeil Alazzam, and Joshua M. Pearce, “<a rel="nofollow" class="external text" href="http://mtu.academia.edu/JoshuaPearce/Papers/1850930/Model_of_Loss_Mechanisms_for_Low_Optical_Concentratioon_on_Solar_Photovoltaic_Arrays_with_Planar_Reflectors">Model of Loss Mechanisms for Low Optical Concentration on Solar Photovoltaic Arrays with Planar Reflectors</a>”, <i>40th American Solar Energy Society National Solar Conference Proceedings,</i> pp. 446-453 (2011).<a rel="nofollow" class="external text" href="http://mtu.academia.edu/JoshuaPearce/Papers/1850930/Model_of_Loss_Mechanisms_for_Low_Optical_Concentratioon_on_Solar_Photovoltaic_Arrays_with_Planar_Reflectors">free and open access</a>,</span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">Andrews, Rob W.; Pollard, Andrew; Pearce, Joshua M., "<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1109/PVSC.2013.6744136">Photovoltaic system performance enhancement with non-tracking planar concentrators: Experimental results and BDRF based modelling</a>," <i>Photovoltaic Specialists Conference (PVSC), 2013 IEEE 39th</i>, pp.0229,0234, 16–21 June 2013. doi: 10.1109/PVSC.2013.6744136</span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text">Andrews, R.W.; Pollard, A.; Pearce, J.M., "Photovoltaic System Performance Enhancement With Nontracking Planar Concentrators: Experimental Results and Bidirectional Reflectance Function (BDRF)-Based Modeling," <i>IEEE Journal of Photovoltaics</i> 5(6), pp.1626-1635 (2015). DOI: <a rel="nofollow" class="external text" href="http://dx.doi.org/10.1109/JPHOTOV.2015.2478064">10.1109/JPHOTOV.2015.2478064</a> <a rel="nofollow" class="external text" href="https://www.academia.edu/16836963/Photovoltaic_System_Performance_Enhancement_With_Non-Tracking_Planar_Concentrators_Experimental_Results_and_Bi-Directional_Reflectance_Function_BDRF_Based_Modelling">open access</a></span></li>
+<li id="cite_note-NREL-CPV-15"><span class="mw-cite-backlink">^ <a href="#cite_ref-NREL-CPV_15-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-NREL-CPV_15-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">S. Kurtz. <a rel="nofollow" class="external text" href="http://www.nrel.gov/docs/fy11osti/43208.pdf">"Opportunities and Challenges for Development of a Mature Concentrating Photovoltaic Power Industry"</a> <span style="font-size:85%;">(PDF)</span>. www.nrel.gov. p.&#160;5 (PDF: p. 8)<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-02-08</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConcentrator+photovoltaics&amp;rft.au=S.+Kurtz&amp;rft.btitle=Opportunities+and+Challenges+for+Development+of+a+Mature+Concentrating+Photovoltaic+Power+Industry&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.nrel.gov%2Fdocs%2Ffy11osti%2F43208.pdf&amp;rft.pages=5+%28PDF%3A+p.+8%29&amp;rft.pub=www.nrel.gov&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://cordis.europa.eu/technology-platforms/pdf/photovoltaics.pdf">A Strategic Research Agenda for Photovoltaic Solar Energy Technology</a> <i>Photovoltaic technology platform</i></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text">Andrews, Rob W.; Pollard, Andrew; Pearce, Joshua M., "<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1109/PVSC.2013.6744136">Photovoltaic system performance enhancement with non-tracking planar concentrators: Experimental results and BDRF based modelling</a>," Photovoltaic Specialists Conference (PVSC), 2013 IEEE 39th, pp.0229,0234, 16–21 June 2013. doi: 10.1109/PVSC.2013.6744136</span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation">Cole, IR, Betts, TR, Gottschalg, R (2012), "Solar profiles and spectral modeling for CPV simulations", <i>IEEE Journal of Photovoltaics</i>, <b>2</b> (1): 62–67, <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1109%2FJPHOTOV.2011.2177445">10.1109/JPHOTOV.2011.2177445</a>, <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/2156-3381">2156-3381</a></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConcentrator+photovoltaics&amp;rft.atitle=Solar+profiles+and+spectral+modeling+for+CPV+simulations&amp;rft.date=2012&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1109%2FJPHOTOV.2011.2177445&amp;rft.issn=2156-3381&amp;rft.issue=1&amp;rft.jtitle=IEEE+Journal+of+Photovoltaics&amp;rft.pages=62-67&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=2" class="Z3988"><span style="display:none;">&#160;</span></span> <span class="citation-comment" style="display:none; color:#33aa33">CS1 maint: Uses authors parameter (<a href="/wiki/Category:CS1_maint:_Uses_authors_parameter" title="Category:CS1 maint: Uses authors parameter">link</a>)</span></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text">Eric Wesoff, "Soitec, SunPower and Suncore: The Last CPV Vendors Standing <a rel="nofollow" class="external autonumber" href="http://www.greentechmedia.com/articles/read/Soitec-SunPower-and-Suncore-The-Last-CPV-Vendors-Standing">[1]</a>, 29 October 2014</span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://cpvconsortium.org/projects/21">http://cpvconsortium.org/projects/21</a></span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://cpvconsortium.org/projects/20">http://cpvconsortium.org/projects/20</a></span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://cpvconsortium.org/projects/26">http://cpvconsortium.org/projects/26</a></span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://cpvconsortium.org/projects/24">http://cpvconsortium.org/projects/24</a></span></li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://cpvconsortium.org/locations">http://cpvconsortium.org/locations</a></span></li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.azurspace.com/index.php/en/products/products-cpv/cpv-dense-array-module">"ADAM (Advanced Dense Array Module)"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConcentrator+photovoltaics&amp;rft.btitle=ADAM+%28Advanced+Dense+Array+Module%29&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.azurspace.com%2Findex.php%2Fen%2Fproducts%2Fproducts-cpv%2Fcpv-dense-array-module&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text">Igor Bazovsky, <i>Chapter 18: Reliability Design Considerations</i>. In: Reliability Theory and Practice, 1963 (reprinted 2004), Pages 176-185, <a href="/wiki/Special:BookSources/9780486438672" class="internal mw-magiclink-isbn">ISBN 978-0486438672</a></span></li>
+<li id="cite_note-example_web_reference-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-example_web_reference_27-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://energy.globaldata.com/media-center/press-releases/power-and-resources/global-concentrated-photovoltaic-cumulative-installations-to-achieve-more-than-1-gigawatt-capacity-by-2020-says-globaldata">Concentrated Photovoltaics Update 2014</a>, GlobalData Market Research Report</span></li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.cogenra.com/">"Cogenra, acquired by Sunpower 2016"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConcentrator+photovoltaics&amp;rft.btitle=Cogenra%2C+acquired+by+Sunpower+2016&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.cogenra.com%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.absolicon.com/">"Absolicon Solar"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConcentrator+photovoltaics&amp;rft.btitle=Absolicon+Solar&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.absolicon.com%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.idhelio.com/">"Idhelio"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConcentrator+photovoltaics&amp;rft.btitle=Idhelio&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.idhelio.com%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.raygen.com/technology.html">"RayGen"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConcentrator+photovoltaics&amp;rft.btitle=RayGen&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.raygen.com%2Ftechnology.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.sunfishsolar.com/our-technology/">"Sunfish Solar"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConcentrator+photovoltaics&amp;rft.btitle=Sunfish+Solar&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.sunfishsolar.com%2Four-technology%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://en.renovalia.com/cpv/">"Renovalia, ceased CPVT offerings 2015"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConcentrator+photovoltaics&amp;rft.btitle=Renovalia%2C+ceased+CPVT+offerings+2015&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fen.renovalia.com%2Fcpv%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.zenithsolar.com/content.aspx?id=290">"Zenith Solar Projects - Yavne"</a>. <i>zenithsolar.com</i>. 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">May 14,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConcentrator+photovoltaics&amp;rft.atitle=Zenith+Solar+Projects+-+Yavne&amp;rft.date=2011&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.zenithsolar.com%2Fcontent.aspx%3Fid%3D290&amp;rft.jtitle=zenithsolar.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.suncoreus.com/products/z10/">"Suncore"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConcentrator+photovoltaics&amp;rft.btitle=Suncore&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.suncoreus.com%2Fproducts%2Fz10%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-36">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.sunoyster.com">"Sun Oyster"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConcentrator+photovoltaics&amp;rft.btitle=Sun+Oyster&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.sunoyster.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-37">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.forbesmarshall.com/solar_cogeneration.aspx">"Forbes Solar"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConcentrator+photovoltaics&amp;rft.btitle=Forbes+Solar&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fwww.forbesmarshall.com%2Fsolar_cogeneration.aspx&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-38">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.airlightenergy.com/high-concentration-photovoltaic-thermal/">"Airlight Energy"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConcentrator+photovoltaics&amp;rft.btitle=Airlight+Energy&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.airlightenergy.com%2Fhigh-concentration-photovoltaic-thermal%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-39">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.research.ibm.com/labs/zurich/dsolar/">"dsolar"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConcentrator+photovoltaics&amp;rft.btitle=dsolar&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.research.ibm.com%2Flabs%2Fzurich%2Fdsolar%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-40"><span class="mw-cite-backlink"><b><a href="#cite_ref-40">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.ted.com/watch/ted-institute/ted-ibm/gianluca-ambrosetti-solving-the-energy-crisis-one-sunflower-at-a-time">"Gianluca Ambrosetti 2014 TED Talk"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConcentrator+photovoltaics&amp;rft.btitle=Gianluca+Ambrosetti+2014+TED+Talk&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.ted.com%2Fwatch%2Fted-institute%2Fted-ibm%2Fgianluca-ambrosetti-solving-the-energy-crisis-one-sunflower-at-a-time&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-41"><span class="mw-cite-backlink"><b><a href="#cite_ref-41">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.swsolarllc.com/">"Southwest Solar"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConcentrator+photovoltaics&amp;rft.btitle=Southwest+Solar&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.swsolarllc.com%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-42"><span class="mw-cite-backlink"><b><a href="#cite_ref-42">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20070321050607/http://www.solarsystems.com.au:80/">"Solar Systems, ceased operations 2015"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.solarsystems.com.au/">the original</a> on 2007-03-21.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConcentrator+photovoltaics&amp;rft.btitle=Solar+Systems%2C+ceased+operations+2015&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.solarsystems.com.au%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-43"><span class="mw-cite-backlink"><b><a href="#cite_ref-43">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.brightleafpower.com">"Brightleaf Power, entered bankruptcy 2016"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConcentrator+photovoltaics&amp;rft.btitle=Brightleaf+Power%2C+entered+bankruptcy+2016&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.brightleafpower.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-44"><span class="mw-cite-backlink"><b><a href="#cite_ref-44">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://silexpower.com/ssf-550-hcpv-arrays/">"Silex Power"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConcentrator+photovoltaics&amp;rft.btitle=Silex+Power&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fsilexpower.com%2Fssf-550-hcpv-arrays%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-45"><span class="mw-cite-backlink"><b><a href="#cite_ref-45">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.solergyinc.com/en/technology_18c9.html">"Solergy Cogen CPV"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConcentrator+photovoltaics&amp;rft.btitle=Solergy+Cogen+CPV&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.solergyinc.com%2Fen%2Ftechnology_18c9.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Concentrator_photovoltaics&amp;action=edit&amp;section=15" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="https://www.nrel.gov/analysis/sam/cost_data.html/">System Cost Data</a>, NREL</li>
+<li><a rel="nofollow" class="external text" href="http://www.solarnovus.com/index.php?option=com_content&amp;view=article&amp;id=3649:optical-design-striking-the-right-balance-in-cpv&amp;catid=38:application-tech-features&amp;Itemid=246">Optical Design: Striking the right balance in CPV</a> – Technical article on optical design for CPV by Adi Nayak of <a href="/wiki/Amonix" title="Amonix">Amonix</a> in Solar Novus Today.</li>
+<li><a rel="nofollow" class="external text" href="http://cpvconsortium.org/projects">CPV Consortium, List of CPV Projets</a></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Photovoltaics" style="padding:3px">
+<table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Photovoltaics" title="Template:Photovoltaics"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Photovoltaics" title="Template talk:Photovoltaics"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Photovoltaics&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Photovoltaics" style="font-size:114%"><a href="/wiki/Photovoltaics" title="Photovoltaics">Photovoltaics</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;">Concepts</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Technology</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Photovoltaics" title="Photovoltaics">Photovoltaics</a></li>
+<li><a href="/wiki/Photoelectric_effect" title="Photoelectric effect">Photoelectric effect</a></li>
+<li><a href="/wiki/Solar_insolation" class="mw-redirect" title="Solar insolation">Solar insolation</a></li>
+<li><a href="/wiki/Solar_constant" title="Solar constant">Solar constant</a></li>
+<li><a href="/wiki/Solar_cell_efficiency" title="Solar cell efficiency">Solar cell efficiency</a></li>
+<li><a href="/wiki/Nominal_power_(photovoltaic)" title="Nominal power (photovoltaic)">Nominal power (Watt-peak)</a></li>
+<li><a href="/wiki/Thin_film_solar_cell" class="mw-redirect" title="Thin film solar cell">Thin film solar cell</a></li>
+<li><a href="/wiki/Multijunction_photovoltaic_cell" class="mw-redirect" title="Multijunction photovoltaic cell">Multijunction photovoltaic cell</a></li>
+<li><a href="/wiki/Third_generation_photovoltaic_cell" class="mw-redirect" title="Third generation photovoltaic cell">Third generation photovoltaic cell</a></li>
+<li><a href="/wiki/Solar_cell_research" title="Solar cell research">Solar cell research</a></li>
+<li><a href="/wiki/Quantum_efficiency_of_a_solar_cell" class="mw-redirect" title="Quantum efficiency of a solar cell">Quantum efficiency of a solar cell</a></li>
+<li><a href="/wiki/Thermophotovoltaic" title="Thermophotovoltaic">Thermophotovoltaic</a></li>
+<li><a href="/wiki/Thermodynamic_efficiency_limit" title="Thermodynamic efficiency limit">Thermodynamic efficiency limit</a></li>
+<li><a href="/wiki/Sun-free_photovoltaics" title="Sun-free photovoltaics">Sun-free photovoltaics</a></li>
+<li><a href="/wiki/Polarizing_organic_photovoltaics" title="Polarizing organic photovoltaics">Polarizing organic photovoltaics</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Materials</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/List_of_semiconductor_materials" title="List of semiconductor materials">List of semiconductor materials</a></li>
+<li><a href="/wiki/Crystalline_silicon" title="Crystalline silicon">Crystalline silicon (c-Si)</a></li>
+<li><a href="/wiki/Polycrystalline_silicon" title="Polycrystalline silicon">Polycrystalline silicon (multi-Si)</a></li>
+<li><a href="/wiki/Monocrystalline_silicon" title="Monocrystalline silicon">Monocrystalline silicon (mono-Si)</a></li>
+<li><a href="/wiki/Cadmium_telluride" title="Cadmium telluride">Cadmium telluride</a></li>
+<li><a href="/wiki/Copper_indium_gallium_selenide" title="Copper indium gallium selenide">Copper indium gallium selenide</a></li>
+<li><a href="/wiki/Amorphous_silicon" title="Amorphous silicon">Amorphous silicon (a-Si)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">History</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Growth_of_photovoltaics" title="Growth of photovoltaics">Growth of photovoltaics</a></li>
+<li><a href="/wiki/Timeline_of_solar_cells" title="Timeline of solar cells">Timeline of solar cells</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+<td class="navbox-image" rowspan="9" style="width:0%;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:4inch_poly_solar_cell.jpg" class="image"><img alt="4inch poly solar cell.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/4inch_poly_solar_cell.jpg/150px-4inch_poly_solar_cell.jpg" width="150" height="113" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/4inch_poly_solar_cell.jpg/225px-4inch_poly_solar_cell.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fd/4inch_poly_solar_cell.jpg/300px-4inch_poly_solar_cell.jpg 2x" data-file-width="2272" data-file-height="1704" /></a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;"><a href="/wiki/Photovoltaic_system" title="Photovoltaic system">Photovoltaic system</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;"><a href="/wiki/Solar_cell" title="Solar cell">Solar cells</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Polymer_solar_cell" title="Polymer solar cell">Polymer solar cell</a></li>
+<li><a href="/wiki/Nanocrystal_solar_cell" title="Nanocrystal solar cell">Nanocrystal solar cell</a></li>
+<li><a href="/wiki/Organic_solar_cell" title="Organic solar cell">Organic solar cell</a></li>
+<li><a href="/wiki/Quantum_dot_solar_cell" title="Quantum dot solar cell">Quantum dot solar cell</a></li>
+<li><a href="/wiki/Hybrid_solar_cell" title="Hybrid solar cell">Hybrid solar cell</a></li>
+<li><a href="/wiki/Plasmonic_solar_cell" title="Plasmonic solar cell">Plasmonic solar cell</a></li>
+<li><a href="/wiki/Carbon_nanotubes_in_photovoltaics" title="Carbon nanotubes in photovoltaics">Carbon nanotubes in photovoltaics</a></li>
+<li><a href="/wiki/Dye-sensitized_solar_cell" title="Dye-sensitized solar cell">Dye-sensitized solar cell</a></li>
+<li><a href="/wiki/Cadmium_telluride_photovoltaics" title="Cadmium telluride photovoltaics">Cadmium telluride photovoltaics</a></li>
+<li><a href="/wiki/Copper_indium_gallium_selenide_solar_cells" title="Copper indium gallium selenide solar cells">Copper indium gallium selenide solar cells</a></li>
+<li><a href="/wiki/Printed_solar_panel" class="mw-redirect" title="Printed solar panel">Printed solar panel</a></li>
+<li><a href="/wiki/Perovskite_solar_cell" title="Perovskite solar cell">Perovskite solar cell</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">System components</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Solar_panel" title="Solar panel">Solar panel</a></li>
+<li><a href="/wiki/Balance_of_system" title="Balance of system">Balance of system</a></li>
+<li><a href="/wiki/Solar_charge_controller" class="mw-redirect" title="Solar charge controller">Solar charge controller</a></li>
+<li><a href="/wiki/Solar_inverter" title="Solar inverter">Solar inverter</a></li>
+<li><a href="/wiki/Solar_micro-inverter" title="Solar micro-inverter">Solar micro-inverter</a></li>
+<li><a href="/wiki/Solar_cable" title="Solar cable">Solar cable</a></li>
+<li><a href="/wiki/Photovoltaic_mounting_system" title="Photovoltaic mounting system">Photovoltaic mounting system</a></li>
+<li><a href="/wiki/Maximum_power_point_tracker" class="mw-redirect" title="Maximum power point tracker">Maximum power point tracker</a></li>
+<li><a href="/wiki/Solar_tracker" title="Solar tracker">Solar tracker</a></li>
+<li><a href="/wiki/Solar_shingles" class="mw-redirect" title="Solar shingles">Solar shingles</a></li>
+<li><a href="/wiki/Solar_mirror#Photovoltaic_augmentation" title="Solar mirror">Solar mirror</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">System concepts</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Perturb_and_observe_method" class="mw-redirect" title="Perturb and observe method">Perturb and observe method</a></li>
+<li><a href="/wiki/Incremental_conductance_method" class="mw-redirect" title="Incremental conductance method">Incremental conductance method</a></li>
+<li><a href="/wiki/Constant_voltage_method" class="mw-redirect" title="Constant voltage method">Constant voltage method</a></li>
+<li><a href="/wiki/Fill_factor_(solar_cell)" class="mw-redirect" title="Fill factor (solar cell)">Fill factor</a></li>
+<li><a href="/wiki/Concentrated_photovoltaics" class="mw-redirect" title="Concentrated photovoltaics">Concentrated photovoltaics</a></li>
+<li><a href="/wiki/Photovoltaic_thermal_hybrid_solar_collector" title="Photovoltaic thermal hybrid solar collector">Photovoltaic thermal hybrid solar collector</a></li>
+<li><a href="/wiki/Space-based_solar_power" title="Space-based solar power">Space-based solar power</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;">Applications</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Appliances</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Solar-powered_refrigerator" title="Solar-powered refrigerator">Solar-powered refrigerator</a></li>
+<li><a href="/wiki/Solar_air_conditioning#Photovoltaic_.28PV.29_solar_cooling" title="Solar air conditioning">Solar air conditioning</a></li>
+<li><a href="/wiki/Solar_lamp" title="Solar lamp">Solar lamp</a></li>
+<li><a href="/wiki/Solar_charger" title="Solar charger">Solar charger</a></li>
+<li><a href="/wiki/Solar_backpack" title="Solar backpack">Solar backpack</a></li>
+<li><a href="/wiki/Solar_tree" title="Solar tree">Solar tree</a></li>
+<li><a href="/wiki/Solar-powered_pump" title="Solar-powered pump">Solar-powered pump</a></li>
+<li><a href="/wiki/Solar-powered_watch" title="Solar-powered watch">Solar-powered watch</a></li>
+<li><a href="/wiki/Solar_Tuki" title="Solar Tuki">Solar Tuki</a></li>
+<li><a href="/wiki/Photovoltaic_keyboard" title="Photovoltaic keyboard">Photovoltaic keyboard</a></li>
+<li><a href="/wiki/Solar_road_stud" title="Solar road stud">Solar road stud</a></li>
+<li><a href="/wiki/Solar_cell_phone_charger" title="Solar cell phone charger">Solar cell phone charger</a></li>
+<li><a href="/wiki/Solar_notebook" title="Solar notebook">Solar notebook</a></li>
+<li><a href="/wiki/Solar-powered_calculator" title="Solar-powered calculator">Solar-powered calculator</a></li>
+<li><a href="/wiki/Solar-powered_fountain" title="Solar-powered fountain">Solar-powered fountain</a></li>
+<li><a href="/wiki/Solar-powered_radio" title="Solar-powered radio">Solar-powered radio</a></li>
+<li><a href="/wiki/Solar-powered_flashlight" title="Solar-powered flashlight">Solar-powered flashlight</a></li>
+<li><a href="/wiki/Solar-powered_fan" title="Solar-powered fan">Solar-powered fan</a></li>
+<li><a href="/wiki/Solar_street_light" title="Solar street light">Solar street light</a></li>
+<li><a href="/wiki/Solar_traffic_light" title="Solar traffic light">Solar traffic light</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Land transport</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Solar_vehicle" title="Solar vehicle">Solar vehicle</a></li>
+<li><a href="/wiki/Solar_car" title="Solar car">Solar car</a></li>
+<li><a href="/wiki/Solar_roadway" class="mw-redirect" title="Solar roadway">Solar roadway</a></li>
+<li><a href="/wiki/Solar_golf_cart" title="Solar golf cart">Solar golf cart</a></li>
+<li><a href="/wiki/The_Quiet_Achiever" title="The Quiet Achiever">The Quiet Achiever</a></li>
+<li><a href="/wiki/Sunmobile" title="Sunmobile">Sunmobile</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Air transport</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Electric_aircraft" title="Electric aircraft">Electric aircraft</a></li>
+<li><a href="/wiki/Mauro_Solar_Riser" title="Mauro Solar Riser">Mauro Solar Riser</a></li>
+<li><a href="/wiki/Solar_panels_on_spacecraft" title="Solar panels on spacecraft">Solar panels on spacecraft</a></li>
+<li><a href="/wiki/Solar-Powered_Aircraft_Developments_Solar_One" title="Solar-Powered Aircraft Developments Solar One">Solar-Powered Aircraft Developments Solar One</a></li>
+<li><a href="/wiki/Gossamer_Penguin" class="mw-redirect" title="Gossamer Penguin">Gossamer Penguin</a></li>
+<li><a href="/wiki/Qinetiq_Zephyr" title="Qinetiq Zephyr">Qinetiq Zephyr</a></li>
+<li><a href="/wiki/Solar_Challenger" class="mw-redirect" title="Solar Challenger">Solar Challenger</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Water transport</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Electric_boat#Types" title="Electric boat">Solar boat</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Solar vehicle racing</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Solar_car_racing" title="Solar car racing">Solar car racing</a></li>
+<li><a href="/wiki/List_of_solar_car_teams" title="List of solar car teams">List of solar car teams</a></li>
+<li><a href="/wiki/Solar_challenge_(disambiguation)" class="mw-redirect mw-disambig" title="Solar challenge (disambiguation)">Solar challenges</a></li>
+<li><a href="/wiki/World_Solar_Challenge" title="World Solar Challenge">World Solar Challenge</a></li>
+<li><a href="/wiki/American_Solar_Challenge" title="American Solar Challenge">American Solar Challenge</a></li>
+<li><a href="/wiki/Formula_Sun_Grand_Prix" title="Formula Sun Grand Prix">Formula Sun Grand Prix</a></li>
+<li><a href="/wiki/Solar_Cup" title="Solar Cup">Solar Cup</a></li>
+<li><a href="/wiki/Frisian_Solar_Challenge" title="Frisian Solar Challenge">Frisian Solar Challenge</a></li>
+<li><a href="/wiki/Solar_Splash" title="Solar Splash">Solar Splash</a></li>
+<li><a href="/wiki/South_African_Solar_Challenge" title="South African Solar Challenge">South African Solar Challenge</a></li>
+<li><a href="/wiki/Tour_de_Sol" title="Tour de Sol">Tour de Sol</a></li>
+<li><a href="/wiki/Hunt-Winston_School_Solar_Car_Challenge" class="mw-redirect" title="Hunt-Winston School Solar Car Challenge">Hunt-Winston School Solar Car Challenge</a></li>
+<li><a href="/wiki/Victorian_Model_Solar_Vehicle_Challenge" title="Victorian Model Solar Vehicle Challenge">Victorian Model Solar Vehicle Challenge</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;"><a href="/wiki/Photovoltaic_power_station" title="Photovoltaic power station">Generation systems</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;"><a href="/wiki/Photovoltaic_power_station" title="Photovoltaic power station">PV power station</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Grid-connected_photovoltaic_power_system" title="Grid-connected photovoltaic power system">Grid-connected photovoltaic power system</a></li>
+<li><a href="/wiki/List_of_photovoltaic_power_stations" title="List of photovoltaic power stations">List of photovoltaic power stations</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Individual projects</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Alamosa_photovoltaic_power_plant" title="Alamosa photovoltaic power plant">Alamosa photovoltaic power plant</a></li>
+<li><a href="/wiki/Beneixama_photovoltaic_power_plant" title="Beneixama photovoltaic power plant">Beneixama photovoltaic power plant</a></li>
+<li><a href="/wiki/Blythe_Photovoltaic_Power_Plant" title="Blythe Photovoltaic Power Plant">Blythe Photovoltaic Power Plant</a></li>
+<li><a href="/wiki/Copper_Mountain_Solar_Facility" title="Copper Mountain Solar Facility">Copper Mountain Solar Facility</a></li>
+<li><a href="/wiki/Darro_Solar_Park" title="Darro Solar Park">Darro Solar Park</a></li>
+<li><a href="/wiki/Erlasee_Solar_Park" title="Erlasee Solar Park">Erlasee Solar Park</a></li>
+<li><a href="/wiki/Huanghe_Hydropower_Golmud_Solar_Park" title="Huanghe Hydropower Golmud Solar Park">Golmud Solar Park</a></li>
+<li><a href="/wiki/Gottelborn_Solar_Park" class="mw-redirect" title="Gottelborn Solar Park">Gottelborn Solar Park</a></li>
+<li><a href="/wiki/Guadarranque_solar_power_plant" class="mw-redirect" title="Guadarranque solar power plant">Guadarranque solar power plant</a></li>
+<li><a href="/wiki/K%C3%B6then_Solar_Park" title="Köthen Solar Park">Köthen Solar Park</a></li>
+<li><a href="/wiki/Moura_Photovoltaic_Power_Station" title="Moura Photovoltaic Power Station">Moura Photovoltaic Power Station</a></li>
+<li><a href="/wiki/Olmedilla_Photovoltaic_Park" title="Olmedilla Photovoltaic Park">Olmedilla Photovoltaic Park</a></li>
+<li><a href="/wiki/Pocking_Solar_Park" title="Pocking Solar Park">Pocking Solar Park</a></li>
+<li><a href="/wiki/Puertollano_Photovoltaic_Park" title="Puertollano Photovoltaic Park">Puertollano Photovoltaic Park</a></li>
+<li><a href="/wiki/Topaz_Solar_Farm" title="Topaz Solar Farm">Topaz Solar Farm</a></li>
+<li><a href="/wiki/Wyandot_Solar_Facility" title="Wyandot Solar Facility">Wyandot Solar Facility</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Building-mounted</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Rooftop_photovoltaic_power_station" title="Rooftop photovoltaic power station">Rooftop photovoltaic power station</a></li>
+<li><a href="/wiki/Building-integrated_photovoltaics" title="Building-integrated photovoltaics">Building-integrated photovoltaics</a></li>
+<li><a href="/wiki/Solar_Ark" title="Solar Ark">Solar Ark</a></li>
+<li><a href="/wiki/Solar_Umbrella_house" title="Solar Umbrella house">Solar Umbrella house</a></li>
+<li><a href="/wiki/Strasskirchen_Solar_Park" title="Strasskirchen Solar Park">Strasskirchen Solar Park</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;"><a href="/wiki/Solar_power_by_country" title="Solar power by country">By country</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Solar_power_in_Australia" title="Solar power in Australia">Australia</a></li>
+<li><a href="/wiki/Solar_power_in_Belgium" title="Solar power in Belgium">Belgium</a></li>
+<li><a href="/wiki/Solar_power_in_Bulgaria" title="Solar power in Bulgaria">Bulgaria</a></li>
+<li><a href="/wiki/Solar_power_in_Canada" title="Solar power in Canada">Canada</a></li>
+<li><a href="/wiki/Solar_power_in_Chile" title="Solar power in Chile">Chile</a></li>
+<li><a href="/wiki/Solar_power_in_China" title="Solar power in China">China</a></li>
+<li><a href="/wiki/Solar_power_in_the_Czech_Republic" title="Solar power in the Czech Republic">Czech Republic</a></li>
+<li><a href="/wiki/Solar_power_in_France" title="Solar power in France">France</a></li>
+<li><a href="/wiki/Solar_power_in_Germany" title="Solar power in Germany">Germany</a></li>
+<li><a href="/wiki/Solar_power_in_Greece" title="Solar power in Greece">Greece</a></li>
+<li><a href="/wiki/Solar_power_in_India" title="Solar power in India">India</a></li>
+<li><a href="/wiki/Solar_power_in_Italy" title="Solar power in Italy">Italy</a></li>
+<li><a href="/wiki/Solar_power_in_Japan" title="Solar power in Japan">Japan</a></li>
+<li><a href="/wiki/Solar_power_in_the_Netherlands" title="Solar power in the Netherlands">Netherlands</a></li>
+<li><a href="/wiki/Solar_power_in_Romania" title="Solar power in Romania">Romania</a></li>
+<li><a href="/wiki/Solar_power_in_South_Africa" title="Solar power in South Africa">South Africa</a></li>
+<li><a href="/wiki/Solar_power_in_Spain" title="Solar power in Spain">Spain</a></li>
+<li><a href="/wiki/Solar_power_in_Switzerland" title="Solar power in Switzerland">Switzerland</a></li>
+<li><a href="/wiki/Solar_power_in_Thailand" title="Solar power in Thailand">Thailand</a></li>
+<li><a href="/wiki/Solar_power_in_the_United_Kingdom" title="Solar power in the United Kingdom">United Kingdom</a></li>
+<li><a href="/wiki/Solar_power_in_the_United_States" title="Solar power in the United States">USA</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;"><a href="/wiki/List_of_photovoltaics_companies" title="List of photovoltaics companies">PV companies</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">By country</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/List_of_countries_by_photovoltaics_production" class="mw-redirect" title="List of countries by photovoltaics production">List of countries by photovoltaics production</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Individual producers</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/First_Solar" title="First Solar">First Solar</a></li>
+<li><a href="/wiki/Hanwha_Solarone" class="mw-redirect" title="Hanwha Solarone">Hanwha Solarone</a></li>
+<li><a href="/wiki/JA_Solar" class="mw-redirect" title="JA Solar">JA Solar</a></li>
+<li><a href="/wiki/Motech_Solar" title="Motech Solar">Motech Solar</a></li>
+<li><a href="/wiki/Renewable_Energy_Corporation" title="Renewable Energy Corporation">REC</a></li>
+<li><a href="/wiki/Q-Cells" title="Q-Cells">Q-Cells</a></li>
+<li><a href="/wiki/Sharp_Solar" title="Sharp Solar">Sharp</a></li>
+<li><a href="/wiki/Solar_Frontier" title="Solar Frontier">Solar Frontier</a></li>
+<li><a href="/wiki/Solyndra" title="Solyndra">Solyndra</a></li>
+<li><a href="/wiki/SUNGEN_International_Limited" title="SUNGEN International Limited">Sungen Solar</a></li>
+<li><a href="/wiki/Sunpower" class="mw-redirect" title="Sunpower">Sunpower</a></li>
+<li><a href="/wiki/Suntech" class="mw-redirect" title="Suntech">Suntech</a></li>
+<li><a href="/wiki/Trina_Solar" title="Trina Solar">Trina Solar</a></li>
+<li><a href="/wiki/Yingli_Solar" class="mw-redirect" title="Yingli Solar">Yingli Solar</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3">
+<div>
+<ul>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <b><a href="/wiki/Category:Photovoltaics" title="Category:Photovoltaics">Category</a></b></li>
+<li><img alt="Commons page" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" title="Commons page" width="12" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /> <a href="https://commons.wikimedia.org/wiki/Category:Photovoltaics" class="extiw" title="commons:Category:Photovoltaics"><b>Commons</b></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1290
+Cached time: 20170120041426
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.376 seconds
+Real time usage: 0.447 seconds
+Preprocessor visited node count: 2415/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 120321/2097152 bytes
+Template argument size: 2099/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 3/500
+Lua time usage: 0.178/10.000 seconds
+Lua memory usage: 5.39 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  346.976      1 -total
+ 49.17%  170.596      1 Template:Reflist
+ 32.96%  114.363     26 Template:Cite_web
+ 17.98%   62.370      4 Template:Fix
+ 17.93%   62.203      3 Template:Citation_needed
+  9.97%   34.578      6 Template:Navbox
+  9.25%   32.098      7 Template:Category_handler
+  7.97%   27.655      1 Template:Photovoltaics
+  7.74%   26.861      4 Template:Delink
+  5.59%   19.411      1 Template:Distinguish
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:28250168-0!*!0!!en!4!* and timestamp 20170120041747 and revision id 760978628
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Concentrator_photovoltaics&amp;oldid=760978628">https://en.wikipedia.org/w/index.php?title=Concentrator_photovoltaics&amp;oldid=760978628</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Photovoltaics" title="Category:Photovoltaics">Photovoltaics</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_errors:_external_links" title="Category:CS1 errors: external links">CS1 errors: external links</a></li><li><a href="/wiki/Category:CS1_maint:_Uses_authors_parameter" title="Category:CS1 maint: Uses authors parameter">CS1 maint: Uses authors parameter</a></li><li><a href="/wiki/Category:Pages_using_ISBN_magic_links" title="Category:Pages using ISBN magic links">Pages using ISBN magic links</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_August_2010" title="Category:Articles with unsourced statements from August 2010">Articles with unsourced statements from August 2010</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_June_2011" title="Category:Articles with unsourced statements from June 2011">Articles with unsourced statements from June 2011</a></li><li><a href="/wiki/Category:All_articles_lacking_reliable_references" title="Category:All articles lacking reliable references">All articles lacking reliable references</a></li><li><a href="/wiki/Category:Articles_lacking_reliable_references_from_September_2015" title="Category:Articles lacking reliable references from September 2015">Articles lacking reliable references from September 2015</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Concentrator+photovoltaics" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Concentrator+photovoltaics" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Concentrator_photovoltaics"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Concentrator_photovoltaics"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Concentrator_photovoltaics" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Concentrator_photovoltaics&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Concentrator_photovoltaics&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Concentrator_photovoltaics" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Concentrator_photovoltaics" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Concentrator_photovoltaics&amp;oldid=760978628" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Concentrator_photovoltaics&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q2065094" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Concentrator_photovoltaics&amp;id=760978628" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Concentrator+photovoltaics">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Concentrator+photovoltaics&amp;returnto=Concentrator+photovoltaics&amp;oldid=760978628&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Concentrator_photovoltaics&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D1%86%D0%B5%D0%BD%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B8_%D1%84%D0%BE%D1%82%D0%BE%D0%B2%D0%BE%D0%BB%D1%82%D0%B0%D0%B8%D1%87%D0%BD%D0%B8_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B8" title="Концентраторни фотоволтаични системи – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Energ%C3%ADa_solar_fotovoltaica_de_concentraci%C3%B3n" title="Energía solar fotovoltaica de concentración – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Energia_solar_fotovoltaica_de_concentra%C3%A7%C3%A3o" title="Energia solar fotovoltaica de concentração – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Koncentrirana_fotovoltaika" title="Koncentrirana fotovoltaika – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q2065094#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 20 January 2017, at 04:17.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Concentrator_photovoltaics&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.376","walltime":"0.447","ppvisitednodes":{"value":2415,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":120321,"limit":2097152},"templateargumentsize":{"value":2099,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  346.976      1 -total"," 49.17%  170.596      1 Template:Reflist"," 32.96%  114.363     26 Template:Cite_web"," 17.98%   62.370      4 Template:Fix"," 17.93%   62.203      3 Template:Citation_needed","  9.97%   34.578      6 Template:Navbox","  9.25%   32.098      7 Template:Category_handler","  7.97%   27.655      1 Template:Photovoltaics","  7.74%   26.861      4 Template:Delink","  5.59%   19.411      1 Template:Distinguish"]},"scribunto":{"limitreport-timeusage":{"value":"0.178","limit":"10.000"},"limitreport-memusage":{"value":5655269,"limit":52428800}},"cachereport":{"origin":"mw1290","timestamp":"20170120041426","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":65,"wgHostname":"mw1187"});});</script>
+	</body>
+</html>

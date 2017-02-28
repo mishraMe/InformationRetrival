@@ -1,0 +1,744 @@
+url : https://en.wikipedia.org/wiki/Carbon_nanotubes_in_photovoltaics
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Carbon nanotubes in photovoltaics - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Carbon_nanotubes_in_photovoltaics","wgTitle":"Carbon nanotubes in photovoltaics","wgCurRevisionId":740573798,"wgRevisionId":740573798,"wgArticleId":17279558,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: Multiple names: authors list","Carbon nanotubes","Solar cells","Nanoelectronics","Thin-film cells","Photovoltaics"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Carbon_nanotubes_in_photovoltaics","wgRelevantArticleId":17279558,"wgRequestId":"WJBCbQpAEKoAABRuEK8AAAIL","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q5037980","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.9"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Carbon_nanotubes_in_photovoltaics"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Carbon_nanotubes_in_photovoltaics&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Carbon_nanotubes_in_photovoltaics&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Carbon_nanotubes_in_photovoltaics"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Carbon_nanotubes_in_photovoltaics rootpage-Carbon_nanotubes_in_photovoltaics skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Carbon nanotubes in photovoltaics</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><p>Organic photovoltaic devices (OPVs) are fabricated from <a href="/wiki/Thin_film" title="Thin film">thin films</a> of <a href="/wiki/Organic_semiconductor" title="Organic semiconductor">organic semiconductors</a>, such as <a href="/wiki/Polymers" class="mw-redirect" title="Polymers">polymers</a> and small-molecule compounds, and are typically on the order of 100&#160;<a href="/wiki/Nanometre" title="Nanometre">nm</a> thick. Because polymer based OPVs can be made using a coating process such as spin coating or inkjet printing, they are an attractive option for inexpensively covering large areas as well as flexible plastic surfaces. A promising low cost alternative to conventional <a href="/wiki/Solar_cells" class="mw-redirect" title="Solar cells">solar cells</a> made of <a href="/wiki/Crystalline_silicon" title="Crystalline silicon">crystalline silicon</a>, there is a large amount of research being dedicated throughout industry and academia towards developing OPVs and increasing their power conversion <a href="/wiki/Solar_cell_efficiency" title="Solar cell efficiency">efficiency</a>.<sup id="cite_ref-t5_1-0" class="reference"><a href="#cite_note-t5-1">[1]</a></sup><sup id="cite_ref-EES1_2-0" class="reference"><a href="#cite_note-EES1-2">[2]</a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Single_wall_carbon_nanotubes_as_light_harvesting_media"><span class="tocnumber">1</span> <span class="toctext">Single wall carbon nanotubes as light harvesting media</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Carbon_nanotube_composites_in_the_photoactive_layer"><span class="tocnumber">2</span> <span class="toctext">Carbon nanotube composites in the photoactive layer</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Carbon_nanotubes_as_a_transparent_electrode"><span class="tocnumber">3</span> <span class="toctext">Carbon nanotubes as a transparent electrode</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#CNTs_in_dye-sensitized_solar_cells"><span class="tocnumber">4</span> <span class="toctext">CNTs in dye-sensitized solar cells</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Single_wall_carbon_nanotubes_as_light_harvesting_media">Single wall carbon nanotubes as light harvesting media</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Carbon_nanotubes_in_photovoltaics&amp;action=edit&amp;section=1" title="Edit section: Single wall carbon nanotubes as light harvesting media">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Single wall <a href="/wiki/Carbon_nanotube" title="Carbon nanotube">carbon nanotubes</a> possess a wide range of direct bandgaps matching the <a href="/wiki/Solar_spectrum" class="mw-redirect" title="Solar spectrum">solar spectrum</a>, strong photoabsorption, from <a href="/wiki/Infrared" title="Infrared">infrared</a> to <a href="/wiki/Ultraviolet" title="Ultraviolet">ultraviolet</a>, and high carrier mobility and reduced carrier transport scattering, which make themselves ideal <a href="/wiki/Photovoltaic" class="mw-redirect" title="Photovoltaic">photovoltaic</a> material. <a href="/wiki/Photovoltaic_effect" title="Photovoltaic effect">Photovoltaic effect</a> can be achieved in ideal single wall carbon nanotube (SWNT) <a href="/wiki/Diode" title="Diode">diodes</a>. Individual SWNTs can form ideal p-n junction diodes.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> An ideal behavior is the theoretical limit of performance for any diode, a highly sought after goal in all electronic materials development. Under illumination, SWNT diodes show significant power conversion efficiencies owing to enhanced properties of an ideal diode.</p>
+<p>Recently, SWNTs were directly configured as energy conversion materials to fabricate thin-film solar cells, with nanotubes serving as both photogeneration sites and a charge carriers collecting/transport layer. The solar cells consist of a semitransparent thin film of nanotubes conformally coated on a n-type crystalline silicon substrate to create high-density p-n heterojunctions between nanotubes and n-Si to favor charge separation and extract electrons (through n-Si) and holes (through nanotubes). Initial tests have shown a power conversion efficiency of &gt;1%, proving that CNTs-on-Si is a potentially suitable configuration for making solar cells. For the first time, Zhongrui Li demonstrated that SOCl2 treatment of SWNT boosts the power conversion efficiency of SWNT/n-Si heterojunction solar cells by more than 60%.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Later on the acid doping approach is widely adopted in the later published CNT/Si works. Even higher efficiency can be achieved if acid liquid is kept inside the void space of nanotube network. Acid infiltration of nanotube networks significantly boosts the cell efficiency to 13.8%,as reported by Yi Jia,<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> by reducing the internal resistance that improves fill factor, and by forming photoelectrochemical units that enhance charge separation and transport. The wet acid induced problems can be avoided by using aligned CNT film. In aligned CNT film, the transport distance is shortened, and the exciton quenching rate is also reduced. Additionally aligned nanotube film has much smaller void space, and better contact with substrate. So, plus strong acid doping, using aligned single wall carbon nanotube film can further improve power conversion efficiency (a record-high power-conversion-efficiency of &gt;11% was achieved by Yeonwoong Jung).<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></p>
+<p>Zhongrui Li also made the first n-SWNT/p-Si photovoltaic device by tuning SWNTs from p-type to n-type through polyethylene imine functionalization.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></p>
+<h2><span class="mw-headline" id="Carbon_nanotube_composites_in_the_photoactive_layer">Carbon nanotube composites in the photoactive layer</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Carbon_nanotubes_in_photovoltaics&amp;action=edit&amp;section=2" title="Edit section: Carbon nanotube composites in the photoactive layer">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Combining the physical and chemical characteristics of <a href="/wiki/Conjugated_polymers" class="mw-redirect" title="Conjugated polymers">conjugated polymers</a> with the high conductivity along the tube axis of <a href="/wiki/Carbon_nanotubes" class="mw-redirect" title="Carbon nanotubes">carbon nanotubes</a> (CNTs) provides a great deal of incentive to disperse CNTs into the photoactive layer in order to obtain more efficient OPV devices. The interpenetrating bulk donor–acceptor heterojunction in these devices can achieve charge separation and collection because of the existence of a bicontinuous network. Along this network, electrons and holes can travel toward their respective contacts through the electron acceptor and the polymer hole donor. Photovoltaic efficiency enhancement is proposed to be due to the introduction of internal polymer/nanotube junctions within the polymer matrix. The high electric field at these junctions can split up the excitons, while the single-walled carbon nanotube (SWCNT) can act as a pathway for the electrons.<sup id="cite_ref-t6_8-0" class="reference"><a href="#cite_note-t6-8">[8]</a></sup></p>
+<p>The dispersion of CNTs in a solution of an electron donating conjugated polymer is perhaps the most common strategy to implement CNT materials into OPVs. Generally <a href="/wiki/Polythiophene" title="Polythiophene">poly(3-hexylthiophene)</a> (P3HT) or poly(3-octylthiophene) (P3OT) are used for this purpose. These blends are then spin coated onto a transparent conductive electrode with thicknesses that vary from 60 to 120&#160;nm. These conductive electrodes are usually glass covered with <a href="/wiki/Indium_tin_oxide" title="Indium tin oxide">indium tin oxide</a> (ITO) and a 40&#160;nm sublayer of <a href="/wiki/Poly(3,4-ethylenedioxythiophene)" title="Poly(3,4-ethylenedioxythiophene)">poly(3,4-ethylenedioxythiophene)</a> (PEDOT) and <a href="/wiki/Sodium_polystyrene_sulfonate" class="mw-redirect" title="Sodium polystyrene sulfonate">poly(styrenesulfonate)</a> (PSS). PEDOT and PSS help to smooth the ITO surface, decreasing the density of pinholes and stifling current leakage that occurs along shunting paths. Through thermal evaporation or sputter coating, a 20 to 70&#160;nm thick layer of aluminum and sometimes an intermediate layer of lithium fluoride are then applied onto the photoactive material. Multiple research investigations with both multi-walled carbon nanotubes (MWCNTs) and single-walled carbon nanotubes (SWCNTs) integrated into the photoactive material have been completed.<sup id="cite_ref-t8_9-0" class="reference"><a href="#cite_note-t8-9">[9]</a></sup><sup id="cite_ref-t5_1-1" class="reference"><a href="#cite_note-t5-1">[1]</a></sup><sup id="cite_ref-t6_8-1" class="reference"><a href="#cite_note-t6-8">[8]</a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup><sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup><sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup></p>
+<p>Enhancements of more than two orders of magnitude have been observed in the photocurrent from adding SWCNTs to the P3OT matrix.<sup id="cite_ref-t6_8-2" class="reference"><a href="#cite_note-t6-8">[8]</a></sup> Improvements were speculated to be due to charge separation at polymer–SWCNT connections and more efficient electron transport through the SWCNTs. However, a rather low power conversion efficiency of 0.04% under 100&#160;mW/cm<sup>2</sup> white illumination was observed for the device suggesting incomplete exciton dissociation at low CNT concentrations of 1.0% wt. Because the lengths of the SWCNTs were similar to the thickness of photovoltaic films, doping a higher percentage of SWCNTs into the polymer matrix was believed to cause short circuits. To supply additional dissociation sites, other researchers have physically blended functionalized MWCNTs into P3HT polymer to create a P3HT-MWCNT with fullerene C<sub>60</sub> double-layered device.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup> However, the power efficiency was still relatively low at 0.01% under 100&#160;mW/cm<sup>2</sup> white illumination. Weak exciton diffusion toward the donor–acceptor interface in the bilayer structure may have been the cause in addition to the fullerene C<sub>60</sub> layer possibly experiencing poor electron transport.</p>
+<p>More recently, a polymer photovoltaic device from C<sub>60</sub>-modified SWCNTs and P3HT has been fabricated.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup> Microwave irradiating a mixture of aqueous SWCNT solution and C<sub>60</sub> solution in <a href="/wiki/Toluene" title="Toluene">toluene</a> was the first step in making these polymer-SWCNT composites. Conjugated polymer P3HT was then added resulting in a power conversion efficiency of 0.57% under simulated solar irradiation (95&#160;mW/cm<sup>2</sup>). It was concluded that improved short circuit current density was a direct result of the addition of SWCNTs into the composite causing faster electron transport via the network of SWCNTs. It was also concluded that the morphology change led to an improved fill factor. Overall, the main result was improved power conversion efficiency with the addition of SWCNTs, compared to cells without SWCNTs; however, further optimization was thought to be possible.</p>
+<p>Additionally, it has been found that heating to the point beyond the glass transition temperature of either P3HT or P3OT after construction can be beneficial for manipulating the phase separation of the blend. This heating also affects the ordering of the polymeric chains because the polymers are microcrystalline systems and it improves <a href="/wiki/Charge_transfer_complex" class="mw-redirect" title="Charge transfer complex">charge transfer</a>, charge transport, and charge collection throughout the OPV device. The hole mobility and power efficiency of the polymer-CNT device also increased significantly as a result of this ordering.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup></p>
+<p>Emerging as another valuable approach for deposition, the use of <a href="/wiki/Tetraoctylammonium_bromide" title="Tetraoctylammonium bromide">tetraoctylammonium bromide</a> in <a href="/wiki/Tetrahydrofuran" title="Tetrahydrofuran">tetrahydrofuran</a> has also been the subject of investigation to assist in suspension by exposing SWCNTs to an electrophoretic field.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup> In fact, photoconversion efficiencies of 1.5% and 1.3% were achieved when SWCNTs were deposited in combination with light harvesting <a href="/wiki/Cadmium_sulfide" title="Cadmium sulfide">cadmium sulfide</a> (CdS) <a href="/wiki/Quantum_dot" title="Quantum dot">quantum dots</a> and <a href="/wiki/Porphyrins" class="mw-redirect" title="Porphyrins">porphyrins</a>, respectively.<sup id="cite_ref-t10_18-0" class="reference"><a href="#cite_note-t10-18">[18]</a></sup></p>
+<p>Among the best power conversions achieved to date using CNTs were obtained by depositing a SWCNT layer between the ITO and the PEDOT&#160;: PSS or between the PEDOT&#160;: PSS and the photoactive blend in a modified ITO/PEDOT&#160;: PSS/ P3HT&#160;: (6,6)-phenyl-C<sub>61</sub>-butyric acid methyl ester (PCBM)/Al solar cell. By dip-coating from a <a href="/wiki/Hydrophile" title="Hydrophile">hydrophilic</a> suspension, SWCNT were deposited after an initially exposing the surface to an argon plasma to achieve a power conversion efficiency of 4.9%, compared to 4% without CNTs.<sup id="cite_ref-Hierarchical_placement_and_associated_optoelectronic_impact_of_carbon_nanotubes_in_polymer-fullerene_solar_cells_19-0" class="reference"><a href="#cite_note-Hierarchical_placement_and_associated_optoelectronic_impact_of_carbon_nanotubes_in_polymer-fullerene_solar_cells-19">[19]</a></sup></p>
+<p>However, even though CNTs have shown potential in the photoactive layer, they have not resulted in a solar cell with a power conversion efficiency greater than the best tandem organic cells (6.5% efficiency).<sup id="cite_ref-Efficient_tandem_polymer_solar_cells_fabricated_by_all-solution_processing_20-0" class="reference"><a href="#cite_note-Efficient_tandem_polymer_solar_cells_fabricated_by_all-solution_processing-20">[20]</a></sup> But, it has been shown in most of the previous investigations that the control over a uniform blending of the electron donating conjugated polymer and the electron accepting CNT is one of the most difficult as well as crucial aspects in creating efficient photocurrent collection in CNT-based OPV devices. Therefore, using CNTs in the photoactive layer of OPV devices is still in the initial research stages and there is still room for novel methods to better take advantage of the beneficial properties of CNTs.</p>
+<p>One issue with utilizing SWCNTs for the photoactive layer of PV devices is the mixed purity when synthesized (about 1/3 metallic and 2/3 semiconducting). Metallic SWCNTs (m-SWCNTs) can cause exciton recombination between the electron and hole pairs, and the junction between metallic and semiconducting SWCNTs (s-SWCNTs) form Schottky barriers that reduce the hole transmission probability.<sup id="cite_ref-Fuhrer.2C_M._S._2000_21-0" class="reference"><a href="#cite_note-Fuhrer.2C_M._S._2000-21">[21]</a></sup> The discrepancy in electronic structure of synthesized CNTs requires electronic sorting to separate and remove the m-SWCNTs to optimize the semiconducting performance. This may be accomplished through diameter and electronic sorting of CNTs through a density gradient ultracentrifugation (DGU) process, involving a gradient of surfactants that can separate the CNTs by diameter, chirality, and electronic type.<sup id="cite_ref-Arnold.2C_M._S._2005_22-0" class="reference"><a href="#cite_note-Arnold.2C_M._S._2005-22">[22]</a></sup><sup id="cite_ref-Arnold.2C_M._S._2006_23-0" class="reference"><a href="#cite_note-Arnold.2C_M._S._2006-23">[23]</a></sup> This sorting method enables the separation of m-SWCNTs and the precise collection of multiple chiralities of s-SWCNTs, each chirality able to absorb a unique wavelength of light. The multiple chiralities of s-SWCNTs are used as the hole transport material along with the fullerene component PC71BM to fabricate heterojunctions for the PV active layer.<sup id="cite_ref-Gong.2C_M._2014_24-0" class="reference"><a href="#cite_note-Gong.2C_M._2014-24">[24]</a></sup> The polychiral s-SWCNTs enable a wide range optical absorption from visible to near-infrared (NIR) light, increasing the photo current relative to using single chirality nanotubes. To maximize light absorption, the inverted device structure was used with a zinc oxide nanowire layer penetrating the active layer to minimize collection length. Molybdenum oxide (MoOx) was utilized as a high work function hole transport layer to maximize voltage.<sup id="cite_ref-Gong.2C_M._2014_24-1" class="reference"><a href="#cite_note-Gong.2C_M._2014-24">[24]</a></sup></p>
+<p>Cells fabricated with this architecture have achieved record power conversion efficiencies of 3.1%, higher than any other solar cell materials that utilize CNTs in the active layer. This design also has exceptional stability, with the PCE remaining at around 90% over a period of 30 days.<sup id="cite_ref-Gong.2C_M._2014_24-2" class="reference"><a href="#cite_note-Gong.2C_M._2014-24">[24]</a></sup> The exceptional chemical stability of carbon nanomaterials enables excellent environmental stability compared to most organic photovoltaics that must be encapsulated to reduce degradation.</p>
+<p>Relative to the best of polymer-fullerene heterojunction solar cells that have PCEs of about 10%,<sup id="cite_ref-Zhu.2C_R._2012_25-0" class="reference"><a href="#cite_note-Zhu.2C_R._2012-25">[25]</a></sup> polychiral nanotube and fullerene solar cells are still a far ways off. Nevertheless, these findings push the achievable limits of CNT technology in solar cells. The ability for polychiral nanotubes to absorb in the NIR regime is a technology that can be utilized to improve the efficiencies of future of multi-junction tandem solar cells along with increasing the lifetime and durability of future noncrystalline solar cells.</p>
+<h2><span class="mw-headline" id="Carbon_nanotubes_as_a_transparent_electrode">Carbon nanotubes as a transparent electrode</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Carbon_nanotubes_in_photovoltaics&amp;action=edit&amp;section=3" title="Edit section: Carbon nanotubes as a transparent electrode">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>ITO is currently the most popular material used for the transparent electrodes in OPV devices; however, it has a number of deficiencies. For one, it is not very compatible with polymeric substrates due to its high deposition temperature of around 600&#160;°C. Traditional ITO also has unfavorable mechanical properties such as being relatively fragile. In addition, the combination of costly layer deposition in vacuum and a limited supply of indium results in high quality ITO transparent electrodes being very expensive. Therefore, developing and commercializing a replacement for ITO is a major focus of OPV research and development.</p>
+<p>Conductive CNT coatings have recently become a prospective substitute based on wide range of methods including <a href="/wiki/Aerosol_spray" title="Aerosol spray">spraying</a>, <a href="/wiki/Spin_coating" title="Spin coating">spin coating</a>, casting, layer-by-layer, and <a href="/wiki/Langmuir%E2%80%93Blodgett_film" title="Langmuir–Blodgett film">Langmuir–Blodgett</a> deposition.<sup id="cite_ref-t8_9-1" class="reference"><a href="#cite_note-t8-9">[9]</a></sup><sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup><sup id="cite_ref-Single-wall_carbon_nanotube_films_27-0" class="reference"><a href="#cite_note-Single-wall_carbon_nanotube_films-27">[27]</a></sup><sup id="cite_ref-Langmuir-Blodgett_assembly_of_densely_aligned_single-walled_carbon_nanotubes_from_bulk_materials_28-0" class="reference"><a href="#cite_note-Langmuir-Blodgett_assembly_of_densely_aligned_single-walled_carbon_nanotubes_from_bulk_materials-28">[28]</a></sup> The transfer from a filter membrane to the transparent support using a solvent or in the form of an adhesive film is another method for attaining flexible and optically transparent CNT films.<sup id="cite_ref-t1_29-0" class="reference"><a href="#cite_note-t1-29">[29]</a></sup> Other research efforts have shown that films made of arc-discharge CNT can result in a high conductivity and transparency.<sup id="cite_ref-Transparent.2C_conductive.2C_and_flexible_carbon_nanotube_films_and_their_application_in_organic_light-emitting_diodes_30-0" class="reference"><a href="#cite_note-Transparent.2C_conductive.2C_and_flexible_carbon_nanotube_films_and_their_application_in_organic_light-emitting_diodes-30">[30]</a></sup> Furthermore, the <a href="/wiki/Work_function" title="Work function">work function</a> of SWCNT networks is in the 4.8 to 4.9 eV range (compared to ITO which has a lower work function of 4.7 eV) leading to the expectation that the SWCNT work function should be high enough to assure efficient hole collection.<sup id="cite_ref-t2_31-0" class="reference"><a href="#cite_note-t2-31">[31]</a></sup> Another benefit is that SWCNT films exhibit a high optical transparency in a broad spectral range from the <a href="/wiki/Ultraviolet" title="Ultraviolet">UV</a>-visible to the near-infrared range. Only a few materials retain reasonable transparency in the infrared spectrum while maintaining transparency in the visible part of the spectrum as well as acceptable overall electrical conductivity.<sup id="cite_ref-t1_29-1" class="reference"><a href="#cite_note-t1-29">[29]</a></sup> SWCNT films are highly flexible, do not creep, do not crack after bending, theoretically have high thermal conductivities to tolerate heat dissipation, and have high radiation resistance. However, the electrical sheet resistance of ITO is an order of magnitude less than the sheet resistance measured for SWCNT films. Nonetheless, initial research studies demonstrate SWCNT thin films can be used as conducting, transparent electrodes for hole collection in OPV devices with efficiencies between 1% and 2.5% confirming that they are comparable to devices fabricated using ITO.<sup id="cite_ref-t2_31-1" class="reference"><a href="#cite_note-t2-31">[31]</a></sup><sup id="cite_ref-Organic_solar_cells_with_carbon_nanotube_network_electrodes_32-0" class="reference"><a href="#cite_note-Organic_solar_cells_with_carbon_nanotube_network_electrodes-32">[32]</a></sup> Thus, possibilities exist for advancing this research to develop CNT-based transparent electrodes that exceed the performance of traditional ITO materials.</p>
+<h2><span class="mw-headline" id="CNTs_in_dye-sensitized_solar_cells">CNTs in dye-sensitized solar cells</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Carbon_nanotubes_in_photovoltaics&amp;action=edit&amp;section=4" title="Edit section: CNTs in dye-sensitized solar cells">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Due to the simple fabrication process, low production cost, and high efficiency, there is significant interest in <a href="/wiki/Dye-sensitized_solar_cell" title="Dye-sensitized solar cell">dye-sensitized solar cells</a> (DSSCs). Thus, improving DSSC efficiency has been the subject of a variety of research investigations because it has the potential to be manufactured economically enough to compete with other solar cell technologies. <a href="/wiki/Titanium_dioxide" title="Titanium dioxide">Titanium dioxide</a> <a href="/wiki/Nanoparticle" title="Nanoparticle">nanoparticles</a> have been widely used as a <a href="/wiki/Working_electrode" title="Working electrode">working electrode</a> for DSSCs because they provide a high efficiency, more than any other metal oxide semiconductor investigated.<sup id="cite_ref-TiO2-coated_nanoporous_SnO2_electrodes_for_dye-sensitized_solar_cells_33-0" class="reference"><a href="#cite_note-TiO2-coated_nanoporous_SnO2_electrodes_for_dye-sensitized_solar_cells-33">[33]</a></sup> Yet the highest conversion efficiency under air mass (AM) 1.5 (100&#160;mW/cm<sup>2</sup>) irradiation reported for this device to date is about 11%.<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">[34]</a></sup> Despite this initial success, the effort to further enhance efficiency has not produced any major results.<sup id="cite_ref-t3_35-0" class="reference"><a href="#cite_note-t3-35">[35]</a></sup> The transport of electrons across the particle network has been a key problem in achieving higher photoconversion efficiency in nanostructured electrodes. Because electrons encounter many grain boundaries during the transit and experience a random path, the probability of their recombination with oxidized sensitizer is increased.<sup id="cite_ref-Single_wall_carbon_nanotube_scaffolds_for_photoelectrochemical_solar_cells._Capture_and_transport_of_photogenerated_electrons_36-0" class="reference"><a href="#cite_note-Single_wall_carbon_nanotube_scaffolds_for_photoelectrochemical_solar_cells._Capture_and_transport_of_photogenerated_electrons-36">[36]</a></sup> Therefore, it is not adequate to enlarge the oxide electrode surface area to increase efficiency because photo-generated charge recombination should be prevented. Promoting electron transfer through film electrodes and blocking interface states lying below the edge of the conduction band are some of the non-CNT based strategies to enhance efficiency that have been employed.<sup id="cite_ref-t3_35-1" class="reference"><a href="#cite_note-t3-35">[35]</a></sup></p>
+<p>With recent progress in CNT development and fabrication, there is promise to use various CNT based nanocomposites and nanostructures to direct the flow of photogenerated electrons and assist in charge injection and extraction. To assist the electron transport to the collecting electrode surface in a DSSC, a popular concept is to utilize CNT networks as support to anchor light harvesting semiconductor particles. Research efforts along these lines include organizing CdS quantum dots on SWCNTs.<sup id="cite_ref-t10_18-1" class="reference"><a href="#cite_note-t10-18">[18]</a></sup> Charge injection from excited CdS into SWCNTs was documented upon excitation of CdS nanoparticles. Other varieties of semiconductor particles including <a href="/wiki/Cadmium_selenide" title="Cadmium selenide">CdSe</a> and <a href="/wiki/Cadmium_telluride" title="Cadmium telluride">CdTe</a> can induce charge-transfer processes under visible light irradiation when attached to CNTs.<sup id="cite_ref-37" class="reference"><a href="#cite_note-37">[37]</a></sup> Including porphyrin and C<sub>60</sub> fullerene, organization of photoactive donor polymer and acceptor fullerene on electrode surfaces has also been shown to offer considerable improvement in the photoconversion efficiency of solar cells.<sup id="cite_ref-38" class="reference"><a href="#cite_note-38">[38]</a></sup> Therefore, there is an opportunity to facilitate electron transport and increase the photoconversion efficiency of DSSCs utilizing the electron-accepting ability of semiconducting SWCNTs.</p>
+<p>Other researchers fabricated DSSCs using the sol-gel method to obtain titanium dioxide coated MWCNTs for use as an electrode.<sup id="cite_ref-t3_35-2" class="reference"><a href="#cite_note-t3-35">[35]</a></sup> Because pristine MWCNTs have a <a href="/wiki/Hydrophobe" title="Hydrophobe">hydrophobic</a> surface and poor dispersion stability, pretreatment was necessary for this application. A relatively low-destruction method for removing impurities, <a href="/wiki/Hydrogen_peroxide" title="Hydrogen peroxide">H<sub>2</sub>O<sub>2</sub></a> treatment was used to generate <a href="/wiki/Carboxylic_acid" title="Carboxylic acid">carboxylic acid</a> groups by oxidation of MWCNTs. Another positive aspect was the fact that the reaction gases including CO<sub>2</sub> and H<sub>2</sub>O were non-toxic and could be released safely during the oxidation process. As a result of treatment, H<sub>2</sub>O<sub>2</sub> exposed MWCNTs have a hydrophilic surface and the carboxylic acid groups on the surface have polar covalent bonding. Also, the negatively charged surface of the MWCNTs improved the stability of dispersion. By then entirely surrounding the MWCNTs with titanium dioxide nanoparticles using the sol-gel method, an increase in the conversion efficiency of about 50% compared to a conventional titanium dioxide cell was achieved. The enhanced interconnectivity between the titanium dioxide particles and the MWCNTs in the porous titanium dioxide film was concluded to be the cause of the improvement in short circuit current density. Here again, the addition of MWCNTs was thought to provide more efficient electron transfer through film in the DSSC.</p>
+<p>One issue with utilizing SWCNTs for the photoactive layer of PV devices is the mixed purity when synthesized (about 1/3 metallic and 2/3 semiconducting). Metallic SWCNTs (m-SWCNTs) can cause exciton recombination between the electron and hole pairs, and the junction between metallic and semiconducting SWCNTs (s-SWCNTs) form Schottky barriers that reduce the hole transmission probability.<sup id="cite_ref-Fuhrer.2C_M._S._2000_21-1" class="reference"><a href="#cite_note-Fuhrer.2C_M._S._2000-21">[21]</a></sup> The discrepancy in electronic structure of synthesized CNTs requires electronic sorting to separate and remove the m-SWCNTs to optimize the semiconducting performance. This may be accomplished through diameter and electronic sorting of CNTs through a density gradient ultracentrifugation (DGU) process, involving a gradient of surfactants that can separate the CNTs by diameter, chirality, and electronic type.<sup id="cite_ref-Arnold.2C_M._S._2005_22-1" class="reference"><a href="#cite_note-Arnold.2C_M._S._2005-22">[22]</a></sup><sup id="cite_ref-Arnold.2C_M._S._2006_23-1" class="reference"><a href="#cite_note-Arnold.2C_M._S._2006-23">[23]</a></sup> This sorting method enables the separation of m-SWCNTs and the precise collection of multiple chiralities of s-SWCNTs, each chirality able to absorb a unique wavelength of light. The multiple chiralities of s-SWCNTs are used as the hole transport material along with the fullerene component PC71BM to fabricate heterojunctions for the PV active layer.<sup id="cite_ref-Gong.2C_M._2014_24-3" class="reference"><a href="#cite_note-Gong.2C_M._2014-24">[24]</a></sup> The polychiral s-SWCNTs enable a wide range optical absorption from visible to near-infrared (NIR) light, increasing the photo current relative to using single chirality nanotubes. To maximize light absorption, the inverted device structure was used with a zinc oxide nanowire layer penetrating the active layer to minimize collection length. Molybdenum oxide (MoOx) was utilized as a high work function hole transport layer to maximize voltage.<sup id="cite_ref-Gong.2C_M._2014_24-4" class="reference"><a href="#cite_note-Gong.2C_M._2014-24">[24]</a></sup></p>
+<p>Cells fabricated with this architecture have achieved record power conversion efficiencies of 3.1%, higher than any other solar cell materials that utilize CNTs in the active layer. This design also has exceptionally stability, with the PCE remaining at around 90% over a period of 30 days.<sup id="cite_ref-Gong.2C_M._2014_24-5" class="reference"><a href="#cite_note-Gong.2C_M._2014-24">[24]</a></sup> The exceptional chemical stability of carbon nanomaterials enables excellent environmental stability compared to most organic photovoltaics that must be encapsulated to reduce degradation.</p>
+<p>Relative to the best of polymer-fullerene heterojunction solar cells that have PCEs of about 10%,<sup id="cite_ref-Zhu.2C_R._2012_25-1" class="reference"><a href="#cite_note-Zhu.2C_R._2012-25">[25]</a></sup> polychiral nanotube and fullerene solar cells are still a far ways off. Nevertheless, these findings push the achievable limits of CNT technology in solar cells. The ability for polychiral nanotubes to absorb in the NIR regime is a technology that can be utilized to improve the efficiencies of future of multi-junction tandem solar cells along with increasing the lifetime and durability of future noncrystalline solar cells.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Carbon_nanotubes_in_photovoltaics&amp;action=edit&amp;section=5" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a href="/wiki/File:Wind-turbine-icon.svg" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/28px-Wind-turbine-icon.svg.png" width="28" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/42px-Wind-turbine-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/56px-Wind-turbine-icon.svg.png 2x" data-file-width="128" data-file-height="128" /></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Renewable_energy" title="Portal:Renewable energy">Renewable energy portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a href="/wiki/File:Crystal_energy.svg" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/29px-Crystal_energy.svg.png" width="29" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/44px-Crystal_energy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/59px-Crystal_energy.svg.png 2x" data-file-width="130" data-file-height="124" /></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Energy" title="Portal:Energy">Energy portal</a></span></li>
+</ul>
+</div>
+<ul>
+<li><a href="/wiki/Optical_properties_of_carbon_nanotubes" title="Optical properties of carbon nanotubes">Optical properties of carbon nanotubes</a></li>
+<li><a href="/wiki/Carbon_nanotube" title="Carbon nanotube">Carbon nanotube</a></li>
+<li><a href="/wiki/Selective_chemistry_of_single-walled_nanotubes" title="Selective chemistry of single-walled nanotubes">Selective chemistry of single-walled nanotubes</a></li>
+<li><a href="/wiki/Allotropes_of_carbon" title="Allotropes of carbon">Allotropes of carbon</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Carbon_nanotubes_in_photovoltaics&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-t5-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-t5_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-t5_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Landi, B. J.; Raffaelle, R.P.; Castro, S.L.; Bailey, S.G. (2005). "Single-wall carbon nanotube-polymer solar cells". <i>Progress in Photovoltaics: Research and Applications</i>. <b>13</b> (2): 165–172. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1002%2Fpip.604">10.1002/pip.604</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarbon+nanotubes+in+photovoltaics&amp;rft.atitle=Single-wall+carbon+nanotube-polymer+solar+cells&amp;rft.au=Bailey%2C+S.G.&amp;rft.au=Castro%2C+S.L.&amp;rft.aufirst=B.+J.&amp;rft.aulast=Landi&amp;rft.au=Raffaelle%2C+R.P.&amp;rft.date=2005&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1002%2Fpip.604&amp;rft.issue=2&amp;rft.jtitle=Progress+in+Photovoltaics%3A+Research+and+Applications&amp;rft.pages=165-172&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=13" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-EES1-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-EES1_2-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Cataldo, Sebastiano; Salice, P.; Menna, P.; Pignataro, B., (2012). <a rel="nofollow" class="external text" href="http://dx.doi.org/10.1039/C1EE02276H">"Carbon nanotubes and organic solar cells"</a>. <i>Energy Environ. Sci</i>. <b>5</b> (3): 5919–5940. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1039%2FC1EE02276H">10.1039/C1EE02276H</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarbon+nanotubes+in+photovoltaics&amp;rft.atitle=Carbon+nanotubes+and+organic+solar+cells&amp;rft.aufirst=Sebastiano&amp;rft.aulast=Cataldo&amp;rft.au=Menna%2C+P.&amp;rft.au=Pignataro%2C+B.%2C&amp;rft.au=Salice%2C+P.&amp;rft.date=2012&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fdx.doi.org%2F10.1039%2FC1EE02276H&amp;rft_id=info%3Adoi%2F10.1039%2FC1EE02276H&amp;rft.issue=3&amp;rft.jtitle=Energy+Environ.+Sci.&amp;rft.pages=5919-5940&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=5" class="Z3988"><span style="display:none;">&#160;</span></span> <span class="citation-comment" style="display:none; color:#33aa33">CS1 maint: Multiple names: authors list (<a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">link</a>)</span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation journal">Lee, Ji Ung (2003). "Photovoltaic effect in ideal carbon nanotube diodes". <i>Appl. Phys. Lett</i>. <b>87</b> (3): 073101. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2005ApPhL..87g3101L">2005ApPhL..87g3101L</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1063%2F1.2010598">10.1063/1.2010598</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarbon+nanotubes+in+photovoltaics&amp;rft.atitle=Photovoltaic+effect+in+ideal+carbon+nanotube+diodes&amp;rft.aufirst=Ji+Ung&amp;rft.aulast=Lee&amp;rft.date=2003&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F2005ApPhL..87g3101L&amp;rft_id=info%3Adoi%2F10.1063%2F1.2010598&amp;rft.issue=3&amp;rft.jtitle=Appl.+Phys.+Lett.&amp;rft.pages=073101&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=87" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation journal">Li, Zhongrui; Vasyl P. Kunets (2009). <a rel="nofollow" class="external text" href="http://apl.aip.org/resource/1/applab/v93/i24/p243117_s1">"SOCl2 enhanced photovoltaic conversion of single wall carbon nanotube/n-silicon heterojunctions"</a>. <i>Appl. Phys. Lett</i>. <b>93</b> (3): 243117. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2008ApPhL..93x3117L">2008ApPhL..93x3117L</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1063%2F1.3050465">10.1063/1.3050465</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarbon+nanotubes+in+photovoltaics&amp;rft.atitle=SOCl2+enhanced+photovoltaic+conversion+of+single+wall+carbon+nanotube%2Fn-silicon+heterojunctions&amp;rft.aufirst=Zhongrui&amp;rft.aulast=Li&amp;rft.au=Vasyl+P.+Kunets&amp;rft.date=2009&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fapl.aip.org%2Fresource%2F1%2Fapplab%2Fv93%2Fi24%2Fp243117_s1&amp;rft_id=info%3Abibcode%2F2008ApPhL..93x3117L&amp;rft_id=info%3Adoi%2F10.1063%2F1.3050465&amp;rft.issue=3&amp;rft.jtitle=Appl.+Phys.+Lett.&amp;rft.pages=243117&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=93" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation journal">Jia, Yi (2011). <a rel="nofollow" class="external text" href="http://pubs.acs.org/doi/abs/10.1021/nl2002632">"Achieving High Efficiency Silicon-Carbon Nanotube Heterojunction Solar Cells by Acid Doping"</a>. <i>Nano Lett</i>. <b>11</b> (5): 1901–1905. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2011NanoL..11.1901J">2011NanoL..11.1901J</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1021%2Fnl2002632">10.1021/nl2002632</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarbon+nanotubes+in+photovoltaics&amp;rft.atitle=Achieving+High+Efficiency+Silicon-Carbon+Nanotube+Heterojunction+Solar+Cells+by+Acid+Doping&amp;rft.aufirst=Yi&amp;rft.aulast=Jia&amp;rft.date=2011&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Fnl2002632&amp;rft_id=info%3Abibcode%2F2011NanoL..11.1901J&amp;rft_id=info%3Adoi%2F10.1021%2Fnl2002632&amp;rft.issue=5&amp;rft.jtitle=Nano+Lett.&amp;rft.pages=1901-1905&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=11" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation journal">Jung, Yeonwoong (2013). <a rel="nofollow" class="external text" href="http://pubs.acs.org/doi/abs/10.1021/nl3035652K">"Record High Efficiency Single-Walled Carbon Nanotube/Silicon p–n Junction Solar Cells"</a>. <i>Nano Lett</i>. <b>13</b> (1): 95–99. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2013NanoL..13...95J">2013NanoL..13...95J</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1021%2Fnl3035652">10.1021/nl3035652</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarbon+nanotubes+in+photovoltaics&amp;rft.atitle=Record+High+Efficiency+Single-Walled+Carbon+Nanotube%2FSilicon+p%93n+Junction+Solar+Cells&amp;rft.aufirst=Yeonwoong&amp;rft.aulast=Jung&amp;rft.date=2013&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Fnl3035652K&amp;rft_id=info%3Abibcode%2F2013NanoL..13...95J&amp;rft_id=info%3Adoi%2F10.1021%2Fnl3035652&amp;rft.issue=1&amp;rft.jtitle=Nano+Lett.&amp;rft.pages=95-99&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=13" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation journal">Li, Zhongrui; Viney Saini (2010). <a rel="nofollow" class="external text" href="http://apl.aip.org/resource/1/applab/v96/i3/p033110_s1">"Polymer functionalized n-type single wall carbon nanotube photovoltaic devices"</a>. <i>Appl. Phys. Lett</i>. <b>96</b> (3): 033110. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2010ApPhL..96c3110L">2010ApPhL..96c3110L</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1063%2F1.3284657">10.1063/1.3284657</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarbon+nanotubes+in+photovoltaics&amp;rft.atitle=Polymer+functionalized+n-type+single+wall+carbon+nanotube+photovoltaic+devices&amp;rft.aufirst=Zhongrui&amp;rft.aulast=Li&amp;rft.au=Viney+Saini&amp;rft.date=2010&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fapl.aip.org%2Fresource%2F1%2Fapplab%2Fv96%2Fi3%2Fp033110_s1&amp;rft_id=info%3Abibcode%2F2010ApPhL..96c3110L&amp;rft_id=info%3Adoi%2F10.1063%2F1.3284657&amp;rft.issue=3&amp;rft.jtitle=Appl.+Phys.+Lett.&amp;rft.pages=033110&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=96" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-t6-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-t6_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-t6_8-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-t6_8-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Kymakis, E.; Alexandrou, I.; Amaratunga, G.A.J. (2003). "High open-circuit voltage photovoltaic devices from carbon-nanotube-polymer composites". <i>Journal of Applied Physics</i>. <b>93</b> (3): 1764–1768. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2003JAP....93.1764K">2003JAP....93.1764K</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1063%2F1.1535231">10.1063/1.1535231</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarbon+nanotubes+in+photovoltaics&amp;rft.atitle=High+open-circuit+voltage+photovoltaic+devices+from+carbon-nanotube-polymer+composites&amp;rft.au=Alexandrou%2C+I.&amp;rft.au=Amaratunga%2C+G.A.J.&amp;rft.aufirst=E.&amp;rft.aulast=Kymakis&amp;rft.date=2003&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F2003JAP....93.1764K&amp;rft_id=info%3Adoi%2F10.1063%2F1.1535231&amp;rft.issue=3&amp;rft.jtitle=Journal+of+Applied+Physics&amp;rft.pages=1764-1768&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=93" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-t8-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-t8_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-t8_9-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Ago, Hiroki; Petritsch, Klaus; Shaffer, Milo S.P.; Windle, Alan H.; Friend, Richard H. (1999). "Composites of carbon nanotubes and conjugated polymers for photovoltaic devices". <i>Advanced Materials</i>. <b>11</b> (15): 1281–1285. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1002%2F%28SICI%291521-4095%28199910%2911%3A15%3C1281%3A%3AAID-ADMA1281%3E3.0.CO%3B2-6">10.1002/(SICI)1521-4095(199910)11:15&lt;1281::AID-ADMA1281&gt;3.0.CO;2-6</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarbon+nanotubes+in+photovoltaics&amp;rft.atitle=Composites+of+carbon+nanotubes+and+conjugated+polymers+for+photovoltaic+devices&amp;rft.aufirst=Hiroki&amp;rft.au=Friend%2C+Richard+H.&amp;rft.aulast=Ago&amp;rft.au=Petritsch%2C+Klaus&amp;rft.au=Shaffer%2C+Milo+S.P.&amp;rft.au=Windle%2C+Alan+H.&amp;rft.date=1999&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1002%2F%28SICI%291521-4095%28199910%2911%3A15%3C1281%3A%3AAID-ADMA1281%3E3.0.CO%3B2-6&amp;rft.issue=15&amp;rft.jtitle=Advanced+Materials&amp;rft.pages=1281-1285&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=11" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation journal">Miller, A. J.; Hatton, R.A.; Silva, S.R.P. (2006). "Water-soluble multiwall-carbon-nanotube-polythiophene composite for bilayer photovoltaics". <i>Applied Physics Letters</i>. <b>89</b> (12): 123115–1–3. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2006ApPhL..89l3115M">2006ApPhL..89l3115M</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1063%2F1.2356115">10.1063/1.2356115</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarbon+nanotubes+in+photovoltaics&amp;rft.atitle=Water-soluble+multiwall-carbon-nanotube-polythiophene+composite+for+bilayer+photovoltaics&amp;rft.aufirst=A.+J.&amp;rft.au=Hatton%2C+R.A.&amp;rft.aulast=Miller&amp;rft.au=Silva%2C+S.R.P.&amp;rft.date=2006&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F2006ApPhL..89l3115M&amp;rft_id=info%3Adoi%2F10.1063%2F1.2356115&amp;rft.issue=12&amp;rft.jtitle=Applied+Physics+Letters&amp;rft.pages=123115-1-3&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=89" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation journal">Kymakis, E.; Amaratunga, G.A.J. (2002). "Single-wall carbon nanotube/conjugated polymer photovoltaic devices". <i>Applied Physics Letters</i>. <b>80</b> (1): 112–114. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2002ApPhL..80..112K">2002ApPhL..80..112K</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1063%2F1.1428416">10.1063/1.1428416</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarbon+nanotubes+in+photovoltaics&amp;rft.atitle=Single-wall+carbon+nanotube%2Fconjugated+polymer+photovoltaic+devices&amp;rft.au=Amaratunga%2C+G.A.J.&amp;rft.aufirst=E.&amp;rft.aulast=Kymakis&amp;rft.date=2002&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F2002ApPhL..80..112K&amp;rft_id=info%3Adoi%2F10.1063%2F1.1428416&amp;rft.issue=1&amp;rft.jtitle=Applied+Physics+Letters&amp;rft.pages=112-114&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=80" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation journal">Raffaelle, R. P.; Landi, B.J.; Castro, S.L.; Ruf, H.J.; Evans, C.M.; Bailey, S.G., (2005). "CdSe quantum dot-single wall carbon nanotube complexes for polymeric solar cells". <i>Solar Energy Materials and Solar Cells</i>. <b>87</b> (1-4): 733–746. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2Fj.solmat.2004.07.047">10.1016/j.solmat.2004.07.047</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarbon+nanotubes+in+photovoltaics&amp;rft.atitle=CdSe+quantum+dot-single+wall+carbon+nanotube+complexes+for+polymeric+solar+cells&amp;rft.au=Bailey%2C+S.G.%2C&amp;rft.au=Castro%2C+S.L.&amp;rft.au=Evans%2C+C.M.&amp;rft.aufirst=R.+P.&amp;rft.au=Landi%2C+B.J.&amp;rft.aulast=Raffaelle&amp;rft.au=Ruf%2C+H.J.&amp;rft.date=2005&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2Fj.solmat.2004.07.047&amp;rft.issue=1-4&amp;rft.jtitle=Solar+Energy+Materials+and+Solar+Cells&amp;rft.pages=733-746&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=87" class="Z3988"><span style="display:none;">&#160;</span></span> <span class="citation-comment" style="display:none; color:#33aa33">CS1 maint: Multiple names: authors list (<a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">link</a>)</span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation journal">Kazaoui, S.; Minami, N.; Nalini, B.; Kim, Y.; Hara, K. (2005). "Near-infrared photoconductive and photovoltaic devices using single-wall carbon nanotubes in conductive polymer films". <i>Journal of Applied Physics</i>. <b>98</b> (8): 084314. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2005JAP....98h4314K">2005JAP....98h4314K</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1063%2F1.2113419">10.1063/1.2113419</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarbon+nanotubes+in+photovoltaics&amp;rft.atitle=Near-infrared+photoconductive+and+photovoltaic+devices+using+single-wall+carbon+nanotubes+in+conductive+polymer+films&amp;rft.aufirst=S.&amp;rft.au=Hara%2C+K.&amp;rft.au=Kim%2C+Y.&amp;rft.aulast=Kazaoui&amp;rft.au=Minami%2C+N.&amp;rft.au=Nalini%2C+B.&amp;rft.date=2005&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F2005JAP....98h4314K&amp;rft_id=info%3Adoi%2F10.1063%2F1.2113419&amp;rft.issue=8&amp;rft.jtitle=Journal+of+Applied+Physics&amp;rft.pages=084314&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=98" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation journal">Pradhan, Basudev; Batabyal, Sudip K.; Pal, Amlan J. (2006). "Functionalized carbon nanotubes in donor/acceptor-type photovoltaic devices". <i>Applied Physics Letters</i>. <b>88</b> (9): 093106. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2006ApPhL..88i3106P">2006ApPhL..88i3106P</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1063%2F1.2179372">10.1063/1.2179372</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarbon+nanotubes+in+photovoltaics&amp;rft.atitle=Functionalized+carbon+nanotubes+in+donor%2Facceptor-type+photovoltaic+devices&amp;rft.au=Batabyal%2C+Sudip+K.&amp;rft.aufirst=Basudev&amp;rft.aulast=Pradhan&amp;rft.au=Pal%2C+Amlan+J.&amp;rft.date=2006&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F2006ApPhL..88i3106P&amp;rft_id=info%3Adoi%2F10.1063%2F1.2179372&amp;rft.issue=9&amp;rft.jtitle=Applied+Physics+Letters&amp;rft.pages=093106&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=88" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation journal">Li, Cheng; Chen, Yuhong; Wang, Yubing; Iqbal, Zafar; Chhowalla, Manish; Mitra, Somenath (2007). "A fullerene-single wall carbon nanotube complex for polymer bulk heterojunction photovoltaic cells". <i>Journal of Materials Chemistry</i>. <b>17</b> (23): 2406–2411. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1039%2Fb618518e">10.1039/b618518e</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarbon+nanotubes+in+photovoltaics&amp;rft.atitle=A+fullerene-single+wall+carbon+nanotube+complex+for+polymer+bulk+heterojunction+photovoltaic+cells&amp;rft.au=Chen%2C+Yuhong&amp;rft.au=Chhowalla%2C+Manish&amp;rft.aufirst=Cheng&amp;rft.au=Iqbal%2C+Zafar&amp;rft.aulast=Li&amp;rft.au=Mitra%2C+Somenath&amp;rft.au=Wang%2C+Yubing&amp;rft.date=2007&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1039%2Fb618518e&amp;rft.issue=23&amp;rft.jtitle=Journal+of+Materials+Chemistry&amp;rft.pages=2406-2411&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=17" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation journal">Chirvase, D.; Parisi, J.; Hummelen, J.C.; Dyakonov, V. (2004). "Influence of nanomorphology on the photovoltaic action of polymer-fullerene composites". <i>Nanotechnology</i>. <b>15</b> (9): 1317–1323. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2004Nanot..15.1317C">2004Nanot..15.1317C</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1088%2F0957-4484%2F15%2F9%2F035">10.1088/0957-4484/15/9/035</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarbon+nanotubes+in+photovoltaics&amp;rft.atitle=Influence+of+nanomorphology+on+the+photovoltaic+action+of+polymer-fullerene+composites&amp;rft.au=Dyakonov%2C+V.&amp;rft.aufirst=D.&amp;rft.au=Hummelen%2C+J.C.&amp;rft.aulast=Chirvase&amp;rft.au=Parisi%2C+J.&amp;rft.date=2004&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F2004Nanot..15.1317C&amp;rft_id=info%3Adoi%2F10.1088%2F0957-4484%2F15%2F9%2F035&amp;rft.issue=9&amp;rft.jtitle=Nanotechnology&amp;rft.pages=1317-1323&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=15" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation journal">Barazzouk, Said; Hotchandani, Surat; Vinodgopal, K.; Kamat, Prashant V. (2004). "Single-wall carbon nanotube films for photocurrent generation. A prompt response to visible-light irradiation". <i>Journal of Physical Chemistry B</i>. <b>108</b> (44): 17015–17018. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1021%2Fjp0458405">10.1021/jp0458405</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarbon+nanotubes+in+photovoltaics&amp;rft.atitle=Single-wall+carbon+nanotube+films+for+photocurrent+generation.+A+prompt+response+to+visible-light+irradiation&amp;rft.aufirst=Said&amp;rft.au=Hotchandani%2C+Surat&amp;rft.au=Kamat%2C+Prashant+V.&amp;rft.aulast=Barazzouk&amp;rft.au=Vinodgopal%2C+K.&amp;rft.date=2004&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1021%2Fjp0458405&amp;rft.issue=44&amp;rft.jtitle=Journal+of+Physical+Chemistry+B&amp;rft.pages=17015-17018&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=108" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-t10-18"><span class="mw-cite-backlink">^ <a href="#cite_ref-t10_18-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-t10_18-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Robel, Istvan; Bunker, Bruce A.; Kamat, Prashant V. (2005). "Single-walled carbon nanotube-CdS nanocomposites as light-harvesting assemblies: Photoinduced charge-transfer interactions". <i>Advanced Materials</i>. <b>17</b> (20): 2458–2463. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1002%2Fadma.200500418">10.1002/adma.200500418</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarbon+nanotubes+in+photovoltaics&amp;rft.atitle=Single-walled+carbon+nanotube-CdS+nanocomposites+as+light-harvesting+assemblies%3A+Photoinduced+charge-transfer+interactions&amp;rft.au=Bunker%2C+Bruce+A.&amp;rft.aufirst=Istvan&amp;rft.au=Kamat%2C+Prashant+V.&amp;rft.aulast=Robel&amp;rft.date=2005&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1002%2Fadma.200500418&amp;rft.issue=20&amp;rft.jtitle=Advanced+Materials&amp;rft.pages=2458-2463&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=17" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Hierarchical_placement_and_associated_optoelectronic_impact_of_carbon_nanotubes_in_polymer-fullerene_solar_cells-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-Hierarchical_placement_and_associated_optoelectronic_impact_of_carbon_nanotubes_in_polymer-fullerene_solar_cells_19-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Chaudhary, Sumit; Lu, Haiwei; Muller, Astrid M.; Bardeen, Christopher J.; Ozkan, Mihrimah (2007). "Hierarchical placement and associated optoelectronic impact of carbon nanotubes in polymer-fullerene solar cells". <i>Nano Letters</i>. <b>7</b> (7): 1973–1979. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2007NanoL...7.1973C">2007NanoL...7.1973C</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1021%2Fnl070717l">10.1021/nl070717l</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/17570731">17570731</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarbon+nanotubes+in+photovoltaics&amp;rft.atitle=Hierarchical+placement+and+associated+optoelectronic+impact+of+carbon+nanotubes+in+polymer-fullerene+solar+cells&amp;rft.au=Bardeen%2C+Christopher+J.&amp;rft.aufirst=Sumit&amp;rft.aulast=Chaudhary&amp;rft.au=Lu%2C+Haiwei&amp;rft.au=Muller%2C+Astrid+M.&amp;rft.au=Ozkan%2C+Mihrimah&amp;rft.date=2007&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F2007NanoL...7.1973C&amp;rft_id=info%3Adoi%2F10.1021%2Fnl070717l&amp;rft_id=info%3Apmid%2F17570731&amp;rft.issue=7&amp;rft.jtitle=Nano+Letters&amp;rft.pages=1973-1979&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=7" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Efficient_tandem_polymer_solar_cells_fabricated_by_all-solution_processing-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-Efficient_tandem_polymer_solar_cells_fabricated_by_all-solution_processing_20-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Jin, Young Kim; Lee, Kwanghee; Coates, Nelson E.; Moses, Daniel; Nguyen, Thuc-Quyen; Dante, Mark; Heeger, Alan J., (2007). "Efficient tandem polymer solar cells fabricated by all-solution processing". <i>Science</i>. <b>317</b> (5835): 222–225. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2007Sci...317..222K">2007Sci...317..222K</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1126%2Fscience.1141711">10.1126/science.1141711</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/17626879">17626879</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarbon+nanotubes+in+photovoltaics&amp;rft.atitle=Efficient+tandem+polymer+solar+cells+fabricated+by+all-solution+processing&amp;rft.au=Coates%2C+Nelson+E.&amp;rft.au=Dante%2C+Mark&amp;rft.aufirst=Young+Kim&amp;rft.au=Heeger%2C+Alan+J.%2C&amp;rft.aulast=Jin&amp;rft.au=Lee%2C+Kwanghee&amp;rft.au=Moses%2C+Daniel&amp;rft.au=Nguyen%2C+Thuc-Quyen&amp;rft.date=2007&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F2007Sci...317..222K&amp;rft_id=info%3Adoi%2F10.1126%2Fscience.1141711&amp;rft_id=info%3Apmid%2F17626879&amp;rft.issue=5835&amp;rft.jtitle=Science&amp;rft.pages=222-225&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=317" class="Z3988"><span style="display:none;">&#160;</span></span> <span class="citation-comment" style="display:none; color:#33aa33">CS1 maint: Multiple names: authors list (<a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">link</a>)</span></span></li>
+<li id="cite_note-Fuhrer.2C_M._S._2000-21"><span class="mw-cite-backlink">^ <a href="#cite_ref-Fuhrer.2C_M._S._2000_21-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Fuhrer.2C_M._S._2000_21-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">1. Fuhrer, M. S.; Nygård, J.; Shih, L.; Forero, M.; Yoon, Y.-G.; Mazzoni, M. S. C.; Choi, H. J.; Ihm, J.; Louie, S. G.; Zettl, A.; McEuen, P. L., Crossed Nanotube Junctions. Science 2000, 288 (5465), 494-497.</span></li>
+<li id="cite_note-Arnold.2C_M._S._2005-22"><span class="mw-cite-backlink">^ <a href="#cite_ref-Arnold.2C_M._S._2005_22-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Arnold.2C_M._S._2005_22-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Arnold, M. S.; Stupp, S. I.; Hersam, M. C., Enrichment of Single-Walled Carbon Nanotubes by Diameter in Density Gradients. Nano Letters 2005, 5 (4), 713-718;</span></li>
+<li id="cite_note-Arnold.2C_M._S._2006-23"><span class="mw-cite-backlink">^ <a href="#cite_ref-Arnold.2C_M._S._2006_23-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Arnold.2C_M._S._2006_23-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Arnold, M. S.; Green, A. A.; Hulvat, J. F.; Stupp, S. I.; Hersam, M. C., Sorting carbon nanotubes by electronic structure using density differentiation. Nat Nano 2006, 1 (1), 60-65.</span></li>
+<li id="cite_note-Gong.2C_M._2014-24"><span class="mw-cite-backlink">^ <a href="#cite_ref-Gong.2C_M._2014_24-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Gong.2C_M._2014_24-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Gong.2C_M._2014_24-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Gong.2C_M._2014_24-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Gong.2C_M._2014_24-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-Gong.2C_M._2014_24-5"><sup><i><b>f</b></i></sup></a></span> <span class="reference-text">Gong, M.; Shastry, T. A.; Xie, Y.; Bernardi, M.; Jasion, D.; Luck, K. A.; Marks, T. J.; Grossman, J. C.; Ren, S.; Hersam, M. C., Polychiral Semiconducting Carbon Nanotube–Fullerene Solar Cells. Nano Letters 2014, 14 (9), 5308-5314.</span></li>
+<li id="cite_note-Zhu.2C_R._2012-25"><span class="mw-cite-backlink">^ <a href="#cite_ref-Zhu.2C_R._2012_25-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Zhu.2C_R._2012_25-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Li, G.; Zhu, R.; Yang, Y., Polymer solar cells. Nat Photon 2012, 6 (3), 153-161.</span></li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><cite class="citation journal">Contreras, Miguel; Barnes, Teresa; Van De Lagemaat, Jao; Rumbles, Garry; Coutts, Timothy J.; Weeks, Chris; Glatkowski, Paul; Levitsky, Igor; Peltola, Jorma; Britz, David A. (2007). "Replacement of transparent conductive oxides by single-wall carbon nanotubes in Cu(In,Ga)Se2-based solar cells". <i>Journal of Physical Chemistry C</i>. <b>111</b> (38): 14045–14048. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1021%2Fjp075507b">10.1021/jp075507b</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarbon+nanotubes+in+photovoltaics&amp;rft.atitle=Replacement+of+transparent+conductive+oxides+by+single-wall+carbon+nanotubes+in+Cu%28In%2CGa%29Se2-based+solar+cells&amp;rft.au=Barnes%2C+Teresa&amp;rft.au=Britz%2C+David+A.&amp;rft.au=Coutts%2C+Timothy+J.&amp;rft.aufirst=Miguel&amp;rft.au=Glatkowski%2C+Paul&amp;rft.aulast=Contreras&amp;rft.au=Levitsky%2C+Igor&amp;rft.au=Peltola%2C+Jorma&amp;rft.au=Rumbles%2C+Garry&amp;rft.au=Van+De+Lagemaat%2C+Jao&amp;rft.au=Weeks%2C+Chris&amp;rft.date=2007&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1021%2Fjp075507b&amp;rft.issue=38&amp;rft.jtitle=Journal+of+Physical+Chemistry+C&amp;rft.pages=14045-14048&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=111" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Single-wall_carbon_nanotube_films-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-Single-wall_carbon_nanotube_films_27-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Sreekumar, T. V.; Tao Liu; Kumar, S.; Ericson, L.M.; Hauge, R.H.; Smalley, R.E., (2003). "Single-wall carbon nanotube films". <i>Chemistry of Materials</i>. <b>15</b> (1): 175–178. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1021%2Fcm020367y">10.1021/cm020367y</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarbon+nanotubes+in+photovoltaics&amp;rft.atitle=Single-wall+carbon+nanotube+films&amp;rft.au=Ericson%2C+L.M.&amp;rft.aufirst=T.+V.&amp;rft.au=Hauge%2C+R.H.&amp;rft.au=Kumar%2C+S.&amp;rft.aulast=Sreekumar&amp;rft.au=Smalley%2C+R.E.%2C&amp;rft.au=Tao+Liu&amp;rft.date=2003&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1021%2Fcm020367y&amp;rft.issue=1&amp;rft.jtitle=Chemistry+of+Materials&amp;rft.pages=175-178&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=15" class="Z3988"><span style="display:none;">&#160;</span></span> <span class="citation-comment" style="display:none; color:#33aa33">CS1 maint: Multiple names: authors list (<a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">link</a>)</span></span></li>
+<li id="cite_note-Langmuir-Blodgett_assembly_of_densely_aligned_single-walled_carbon_nanotubes_from_bulk_materials-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-Langmuir-Blodgett_assembly_of_densely_aligned_single-walled_carbon_nanotubes_from_bulk_materials_28-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Li, Xiaolin; Zhang, Li; Wang, Xinran; Shimoyama, Iwao; Sun, Xiaoming; Seo, Won-K; <a href="/wiki/Hongjie_Dai" title="Hongjie Dai">Dai, Hongjie</a> (2007). "Langmuir-Blodgett assembly of densely aligned single-walled carbon nanotubes from bulk materials". <i>Journal of the American Chemical Society</i>. <b>129</b> (16): 4890–4891. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1021%2Fja071114e">10.1021/ja071114e</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/17394327">17394327</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarbon+nanotubes+in+photovoltaics&amp;rft.atitle=Langmuir-Blodgett+assembly+of+densely+aligned+single-walled+carbon+nanotubes+from+bulk+materials&amp;rft.au=Dai%2C+Hongjie&amp;rft.aufirst=Xiaolin&amp;rft.aulast=Li&amp;rft.au=Seo%2C+Won-K&amp;rft.au=Shimoyama%2C+Iwao&amp;rft.au=Sun%2C+Xiaoming&amp;rft.au=Wang%2C+Xinran&amp;rft.au=Zhang%2C+Li&amp;rft.date=2007&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1021%2Fja071114e&amp;rft_id=info%3Apmid%2F17394327&amp;rft.issue=16&amp;rft.jtitle=Journal+of+the+American+Chemical+Society&amp;rft.pages=4890-4891&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=129" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-t1-29"><span class="mw-cite-backlink">^ <a href="#cite_ref-t1_29-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-t1_29-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Wu, Zhuangchun; Chen, Zhihong; Du, Xu; Logan, Jonathan M.; Sippel, Jennifer; Nikolou, Maria; Kamaras, Katalin; Reynolds, John R.; Tanner, David B.; Hebard, Arthur F.; Rinzler, Andrew G. (2004). "Transparent, conductive carbon nanotube films". <i>Science</i>. <b>305</b> (5688): 1273–1276. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2004Sci...305.1273W">2004Sci...305.1273W</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1126%2Fscience.1101243">10.1126/science.1101243</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/15333836">15333836</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarbon+nanotubes+in+photovoltaics&amp;rft.atitle=Transparent%2C+conductive+carbon+nanotube+films&amp;rft.au=Chen%2C+Zhihong&amp;rft.au=Du%2C+Xu&amp;rft.aufirst=Zhuangchun&amp;rft.au=Hebard%2C+Arthur+F.&amp;rft.au=Kamaras%2C+Katalin&amp;rft.aulast=Wu&amp;rft.au=Logan%2C+Jonathan+M.&amp;rft.au=Nikolou%2C+Maria&amp;rft.au=Reynolds%2C+John+R.&amp;rft.au=Rinzler%2C+Andrew+G.&amp;rft.au=Sippel%2C+Jennifer&amp;rft.au=Tanner%2C+David+B.&amp;rft.date=2004&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F2004Sci...305.1273W&amp;rft_id=info%3Adoi%2F10.1126%2Fscience.1101243&amp;rft_id=info%3Apmid%2F15333836&amp;rft.issue=5688&amp;rft.jtitle=Science&amp;rft.pages=1273-1276&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=305" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Transparent.2C_conductive.2C_and_flexible_carbon_nanotube_films_and_their_application_in_organic_light-emitting_diodes-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-Transparent.2C_conductive.2C_and_flexible_carbon_nanotube_films_and_their_application_in_organic_light-emitting_diodes_30-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Zhang, Daihua; Ryu, Koungmin; Liu, Xiaolei; Polikarpov, Evgueni; Ly, James; Tompson, Mark E.; Zhou, Chongwu, (2006). "Transparent, conductive, and flexible carbon nanotube films and their application in organic light-emitting diodes". <i>Nano Letters</i>. <b>6</b> (9): 1880–1886. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2006NanoL...6.1880Z">2006NanoL...6.1880Z</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1021%2Fnl0608543">10.1021/nl0608543</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/16967995">16967995</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarbon+nanotubes+in+photovoltaics&amp;rft.atitle=Transparent%2C+conductive%2C+and+flexible+carbon+nanotube+films+and+their+application+in+organic+light-emitting+diodes&amp;rft.aufirst=Daihua&amp;rft.aulast=Zhang&amp;rft.au=Liu%2C+Xiaolei&amp;rft.au=Ly%2C+James&amp;rft.au=Polikarpov%2C+Evgueni&amp;rft.au=Ryu%2C+Koungmin&amp;rft.au=Tompson%2C+Mark+E.&amp;rft.au=Zhou%2C+Chongwu%2C&amp;rft.date=2006&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F2006NanoL...6.1880Z&amp;rft_id=info%3Adoi%2F10.1021%2Fnl0608543&amp;rft_id=info%3Apmid%2F16967995&amp;rft.issue=9&amp;rft.jtitle=Nano+Letters&amp;rft.pages=1880-1886&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=6" class="Z3988"><span style="display:none;">&#160;</span></span> <span class="citation-comment" style="display:none; color:#33aa33">CS1 maint: Multiple names: authors list (<a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">link</a>)</span></span></li>
+<li id="cite_note-t2-31"><span class="mw-cite-backlink">^ <a href="#cite_ref-t2_31-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-t2_31-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">van de Lagemaat, J.; Barnes, T.M.; Rumbles, G.; Shaheen, S.E.; Coutts, T.J.; Weeks, C.; Levitsky, I.; Peltola, J.; Glatkowski, P., (2006). "Organic solar cells with carbon nanotubes replacing In2O3:Sn as the transparent electrode". <i>Applied Physics Letters</i>. <b>88</b> (23): 233503–1–3. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2006ApPhL..88w3503V">2006ApPhL..88w3503V</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1063%2F1.2210081">10.1063/1.2210081</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarbon+nanotubes+in+photovoltaics&amp;rft.atitle=Organic+solar+cells+with+carbon+nanotubes+replacing+In2O3%3ASn+as+the+transparent+electrode&amp;rft.au=Barnes%2C+T.M.&amp;rft.au=Coutts%2C+T.J.&amp;rft.aufirst=J.&amp;rft.au=Glatkowski%2C+P.%2C&amp;rft.aulast=van+de+Lagemaat&amp;rft.au=Levitsky%2C+I.&amp;rft.au=Peltola%2C+J.&amp;rft.au=Rumbles%2C+G.&amp;rft.au=Shaheen%2C+S.E.&amp;rft.au=Weeks%2C+C.&amp;rft.date=2006&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F2006ApPhL..88w3503V&amp;rft_id=info%3Adoi%2F10.1063%2F1.2210081&amp;rft.issue=23&amp;rft.jtitle=Applied+Physics+Letters&amp;rft.pages=233503-1-3&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=88" class="Z3988"><span style="display:none;">&#160;</span></span> <span class="citation-comment" style="display:none; color:#33aa33">CS1 maint: Multiple names: authors list (<a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">link</a>)</span></span></li>
+<li id="cite_note-Organic_solar_cells_with_carbon_nanotube_network_electrodes-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-Organic_solar_cells_with_carbon_nanotube_network_electrodes_32-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Rowell, M. W.; Topinka, M.A.; McGehee, M.D.; Prall, H.-J.; Dennler, G.; Sariciftci, N.S.; Liangbing Hu; Gruner, G., (2006). "Organic solar cells with carbon nanotube network electrodes". <i>Applied Physics Letters</i>. <b>88</b> (23): 233506–1–3. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2006ApPhL..88w3506R">2006ApPhL..88w3506R</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1063%2F1.2209887">10.1063/1.2209887</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarbon+nanotubes+in+photovoltaics&amp;rft.atitle=Organic+solar+cells+with+carbon+nanotube+network+electrodes&amp;rft.au=Dennler%2C+G.&amp;rft.aufirst=M.+W.&amp;rft.au=Gruner%2C+G.%2C&amp;rft.aulast=Rowell&amp;rft.au=Liangbing+Hu&amp;rft.au=McGehee%2C+M.D.&amp;rft.au=Prall%2C+H.-J.&amp;rft.au=Sariciftci%2C+N.S.&amp;rft.au=Topinka%2C+M.A.&amp;rft.date=2006&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F2006ApPhL..88w3506R&amp;rft_id=info%3Adoi%2F10.1063%2F1.2209887&amp;rft.issue=23&amp;rft.jtitle=Applied+Physics+Letters&amp;rft.pages=233506-1-3&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=88" class="Z3988"><span style="display:none;">&#160;</span></span> <span class="citation-comment" style="display:none; color:#33aa33">CS1 maint: Multiple names: authors list (<a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">link</a>)</span></span></li>
+<li id="cite_note-TiO2-coated_nanoporous_SnO2_electrodes_for_dye-sensitized_solar_cells-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-TiO2-coated_nanoporous_SnO2_electrodes_for_dye-sensitized_solar_cells_33-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Chappel, Shlomit; Chen, Si-Guang; Zaban, Arie (2002). "TiO2-coated nanoporous SnO2 electrodes for dye-sensitized solar cells". <i>Langmuir</i>. <b>18</b> (8): 3336–3342. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1021%2Fla015536s">10.1021/la015536s</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarbon+nanotubes+in+photovoltaics&amp;rft.atitle=TiO2-coated+nanoporous+SnO2+electrodes+for+dye-sensitized+solar+cells&amp;rft.au=Chen%2C+Si-Guang&amp;rft.aufirst=Shlomit&amp;rft.aulast=Chappel&amp;rft.au=Zaban%2C+Arie&amp;rft.date=2002&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1021%2Fla015536s&amp;rft.issue=8&amp;rft.jtitle=Langmuir&amp;rft.pages=3336-3342&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=18" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><cite class="citation journal">Zhipan, Zhang; Ito, S.; O'Regan, B.; Daibin Kuang; Zakeeruddin, S.M.; Liska, P.; Charvet, R.; Comte, P.; Nazeeruddin, M.K.; Pechy, P.; Humphry-Baker, R.; Koyanagi, T.; Mizuno, T.; Gratzel, M. (2007). "The electronic role of the TiO2 light-scattering layer in dye-sensitized solar cells". <i>Zeitschrift für Physikalische Chemie</i>. <b>221</b> (3): 319–327. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1524%2Fzpch.2007.221.3.319">10.1524/zpch.2007.221.3.319</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarbon+nanotubes+in+photovoltaics&amp;rft.atitle=The+electronic+role+of+the+TiO2+light-scattering+layer+in+dye-sensitized+solar+cells&amp;rft.au=Charvet%2C+R.&amp;rft.au=Comte%2C+P.&amp;rft.au=Daibin+Kuang&amp;rft.aufirst=Zhang&amp;rft.au=Gratzel%2C+M.&amp;rft.au=Humphry-Baker%2C+R.&amp;rft.au=Ito%2C+S.&amp;rft.au=Koyanagi%2C+T.&amp;rft.aulast=Zhipan&amp;rft.au=Liska%2C+P.&amp;rft.au=Mizuno%2C+T.&amp;rft.au=Nazeeruddin%2C+M.K.&amp;rft.au=O%27Regan%2C+B.&amp;rft.au=Pechy%2C+P.&amp;rft.au=Zakeeruddin%2C+S.M.&amp;rft.date=2007&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1524%2Fzpch.2007.221.3.319&amp;rft.issue=3&amp;rft.jtitle=Zeitschrift+f%C3%BCr+Physikalische+Chemie&amp;rft.pages=319-327&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=221" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-t3-35"><span class="mw-cite-backlink">^ <a href="#cite_ref-t3_35-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-t3_35-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-t3_35-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Lee, Tae Young; Alegaonkar, P.S.; Yoo, Ji-Beom (2007). "Fabrication of dye sensitized solar cell using TiO2 coated carbon nanotubes". <i>Thin Solid Films</i>. <b>515</b> (12): 5131–5135. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2007TSF...515.5131L">2007TSF...515.5131L</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2Fj.tsf.2006.10.056">10.1016/j.tsf.2006.10.056</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarbon+nanotubes+in+photovoltaics&amp;rft.atitle=Fabrication+of+dye+sensitized+solar+cell+using+TiO2+coated+carbon+nanotubes&amp;rft.au=Alegaonkar%2C+P.S.&amp;rft.aufirst=Tae+Young&amp;rft.aulast=Lee&amp;rft.au=Yoo%2C+Ji-Beom&amp;rft.date=2007&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F2007TSF...515.5131L&amp;rft_id=info%3Adoi%2F10.1016%2Fj.tsf.2006.10.056&amp;rft.issue=12&amp;rft.jtitle=Thin+Solid+Films&amp;rft.pages=5131-5135&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=515" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Single_wall_carbon_nanotube_scaffolds_for_photoelectrochemical_solar_cells._Capture_and_transport_of_photogenerated_electrons-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-Single_wall_carbon_nanotube_scaffolds_for_photoelectrochemical_solar_cells._Capture_and_transport_of_photogenerated_electrons_36-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Kongkanand, Anusorn; Dominguez, Rebeca Martinez; Kamat, Prashant V. (2007). "Single wall carbon nanotube scaffolds for photoelectrochemical solar cells. Capture and transport of photogenerated electrons". <i>Nano Letters</i>. <b>7</b> (3): 676–680. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2007NanoL...7..676K">2007NanoL...7..676K</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1021%2Fnl0627238">10.1021/nl0627238</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/17309316">17309316</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarbon+nanotubes+in+photovoltaics&amp;rft.atitle=Single+wall+carbon+nanotube+scaffolds+for+photoelectrochemical+solar+cells.+Capture+and+transport+of+photogenerated+electrons&amp;rft.au=Dominguez%2C+Rebeca+Martinez&amp;rft.aufirst=Anusorn&amp;rft.au=Kamat%2C+Prashant+V.&amp;rft.aulast=Kongkanand&amp;rft.date=2007&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F2007NanoL...7..676K&amp;rft_id=info%3Adoi%2F10.1021%2Fnl0627238&amp;rft_id=info%3Apmid%2F17309316&amp;rft.issue=3&amp;rft.jtitle=Nano+Letters&amp;rft.pages=676-680&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=7" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-37">^</a></b></span> <span class="reference-text"><cite class="citation journal">Olek, M.; Busgen, T.; Hilgendorff, M.; Giersig, M., (2006). "Quantum dot modified multiwall carbon nanotubes". <i>Journal of Physical Chemistry B</i>. <b>110</b> (26): 12901–12904. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1021%2Fjp061453e">10.1021/jp061453e</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/16805589">16805589</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarbon+nanotubes+in+photovoltaics&amp;rft.atitle=Quantum+dot+modified+multiwall+carbon+nanotubes&amp;rft.au=Busgen%2C+T.&amp;rft.aufirst=M.&amp;rft.au=Giersig%2C+M.%2C&amp;rft.au=Hilgendorff%2C+M.&amp;rft.aulast=Olek&amp;rft.date=2006&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1021%2Fjp061453e&amp;rft_id=info%3Apmid%2F16805589&amp;rft.issue=26&amp;rft.jtitle=Journal+of+Physical+Chemistry+B&amp;rft.pages=12901-12904&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=110" class="Z3988"><span style="display:none;">&#160;</span></span> <span class="citation-comment" style="display:none; color:#33aa33">CS1 maint: Multiple names: authors list (<a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">link</a>)</span></span></li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-38">^</a></b></span> <span class="reference-text"><cite class="citation journal">Hasobe, Taku; Fukuzumi, Shunichi; Kamat, Prashant V. (2006). "Organized assemblies of single wall carbon nanotubes and porphyrin for photochemical solar cells: Charge injection from excited porphyrin into single-walled carbon nanotubes". <i>Journal of Physical Chemistry B</i>. <b>110</b> (50): 25477–25484. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1021%2Fjp064845u">10.1021/jp064845u</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/17165996">17165996</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarbon+nanotubes+in+photovoltaics&amp;rft.atitle=Organized+assemblies+of+single+wall+carbon+nanotubes+and+porphyrin+for+photochemical+solar+cells%3A+Charge+injection+from+excited+porphyrin+into+single-walled+carbon+nanotubes&amp;rft.aufirst=Taku&amp;rft.au=Fukuzumi%2C+Shunichi&amp;rft.au=Kamat%2C+Prashant+V.&amp;rft.aulast=Hasobe&amp;rft.date=2006&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1021%2Fjp064845u&amp;rft_id=info%3Apmid%2F17165996&amp;rft.issue=50&amp;rft.jtitle=Journal+of+Physical+Chemistry+B&amp;rft.pages=25477-25484&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=110" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Photovoltaics" style="padding:3px">
+<table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Photovoltaics" title="Template:Photovoltaics"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Photovoltaics" title="Template talk:Photovoltaics"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Photovoltaics&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Photovoltaics" style="font-size:114%"><a href="/wiki/Photovoltaics" title="Photovoltaics">Photovoltaics</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;">Concepts</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Technology</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Photovoltaics" title="Photovoltaics">Photovoltaics</a></li>
+<li><a href="/wiki/Photoelectric_effect" title="Photoelectric effect">Photoelectric effect</a></li>
+<li><a href="/wiki/Solar_insolation" class="mw-redirect" title="Solar insolation">Solar insolation</a></li>
+<li><a href="/wiki/Solar_constant" title="Solar constant">Solar constant</a></li>
+<li><a href="/wiki/Solar_cell_efficiency" title="Solar cell efficiency">Solar cell efficiency</a></li>
+<li><a href="/wiki/Nominal_power_(photovoltaic)" title="Nominal power (photovoltaic)">Nominal power (Watt-peak)</a></li>
+<li><a href="/wiki/Thin_film_solar_cell" class="mw-redirect" title="Thin film solar cell">Thin film solar cell</a></li>
+<li><a href="/wiki/Multijunction_photovoltaic_cell" class="mw-redirect" title="Multijunction photovoltaic cell">Multijunction photovoltaic cell</a></li>
+<li><a href="/wiki/Third_generation_photovoltaic_cell" class="mw-redirect" title="Third generation photovoltaic cell">Third generation photovoltaic cell</a></li>
+<li><a href="/wiki/Solar_cell_research" title="Solar cell research">Solar cell research</a></li>
+<li><a href="/wiki/Quantum_efficiency_of_a_solar_cell" class="mw-redirect" title="Quantum efficiency of a solar cell">Quantum efficiency of a solar cell</a></li>
+<li><a href="/wiki/Thermophotovoltaic" title="Thermophotovoltaic">Thermophotovoltaic</a></li>
+<li><a href="/wiki/Thermodynamic_efficiency_limit" title="Thermodynamic efficiency limit">Thermodynamic efficiency limit</a></li>
+<li><a href="/wiki/Sun-free_photovoltaics" title="Sun-free photovoltaics">Sun-free photovoltaics</a></li>
+<li><a href="/wiki/Polarizing_organic_photovoltaics" title="Polarizing organic photovoltaics">Polarizing organic photovoltaics</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Materials</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/List_of_semiconductor_materials" title="List of semiconductor materials">List of semiconductor materials</a></li>
+<li><a href="/wiki/Crystalline_silicon" title="Crystalline silicon">Crystalline silicon (c-Si)</a></li>
+<li><a href="/wiki/Polycrystalline_silicon" title="Polycrystalline silicon">Polycrystalline silicon (multi-Si)</a></li>
+<li><a href="/wiki/Monocrystalline_silicon" title="Monocrystalline silicon">Monocrystalline silicon (mono-Si)</a></li>
+<li><a href="/wiki/Cadmium_telluride" title="Cadmium telluride">Cadmium telluride</a></li>
+<li><a href="/wiki/Copper_indium_gallium_selenide" title="Copper indium gallium selenide">Copper indium gallium selenide</a></li>
+<li><a href="/wiki/Amorphous_silicon" title="Amorphous silicon">Amorphous silicon (a-Si)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">History</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Growth_of_photovoltaics" title="Growth of photovoltaics">Growth of photovoltaics</a></li>
+<li><a href="/wiki/Timeline_of_solar_cells" title="Timeline of solar cells">Timeline of solar cells</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+<td class="navbox-image" rowspan="9" style="width:0%;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:4inch_poly_solar_cell.jpg" class="image"><img alt="4inch poly solar cell.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/4inch_poly_solar_cell.jpg/150px-4inch_poly_solar_cell.jpg" width="150" height="113" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/4inch_poly_solar_cell.jpg/225px-4inch_poly_solar_cell.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fd/4inch_poly_solar_cell.jpg/300px-4inch_poly_solar_cell.jpg 2x" data-file-width="2272" data-file-height="1704" /></a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;"><a href="/wiki/Photovoltaic_system" title="Photovoltaic system">Photovoltaic system</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;"><a href="/wiki/Solar_cell" title="Solar cell">Solar cells</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Polymer_solar_cell" title="Polymer solar cell">Polymer solar cell</a></li>
+<li><a href="/wiki/Nanocrystal_solar_cell" title="Nanocrystal solar cell">Nanocrystal solar cell</a></li>
+<li><a href="/wiki/Organic_solar_cell" title="Organic solar cell">Organic solar cell</a></li>
+<li><a href="/wiki/Quantum_dot_solar_cell" title="Quantum dot solar cell">Quantum dot solar cell</a></li>
+<li><a href="/wiki/Hybrid_solar_cell" title="Hybrid solar cell">Hybrid solar cell</a></li>
+<li><a href="/wiki/Plasmonic_solar_cell" title="Plasmonic solar cell">Plasmonic solar cell</a></li>
+<li><strong class="selflink">Carbon nanotubes in photovoltaics</strong></li>
+<li><a href="/wiki/Dye-sensitized_solar_cell" title="Dye-sensitized solar cell">Dye-sensitized solar cell</a></li>
+<li><a href="/wiki/Cadmium_telluride_photovoltaics" title="Cadmium telluride photovoltaics">Cadmium telluride photovoltaics</a></li>
+<li><a href="/wiki/Copper_indium_gallium_selenide_solar_cells" title="Copper indium gallium selenide solar cells">Copper indium gallium selenide solar cells</a></li>
+<li><a href="/wiki/Printed_solar_panel" class="mw-redirect" title="Printed solar panel">Printed solar panel</a></li>
+<li><a href="/wiki/Perovskite_solar_cell" title="Perovskite solar cell">Perovskite solar cell</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">System components</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Solar_panel" title="Solar panel">Solar panel</a></li>
+<li><a href="/wiki/Balance_of_system" title="Balance of system">Balance of system</a></li>
+<li><a href="/wiki/Solar_charge_controller" class="mw-redirect" title="Solar charge controller">Solar charge controller</a></li>
+<li><a href="/wiki/Solar_inverter" title="Solar inverter">Solar inverter</a></li>
+<li><a href="/wiki/Solar_micro-inverter" title="Solar micro-inverter">Solar micro-inverter</a></li>
+<li><a href="/wiki/Solar_cable" title="Solar cable">Solar cable</a></li>
+<li><a href="/wiki/Photovoltaic_mounting_system" title="Photovoltaic mounting system">Photovoltaic mounting system</a></li>
+<li><a href="/wiki/Maximum_power_point_tracker" class="mw-redirect" title="Maximum power point tracker">Maximum power point tracker</a></li>
+<li><a href="/wiki/Solar_tracker" title="Solar tracker">Solar tracker</a></li>
+<li><a href="/wiki/Solar_shingles" class="mw-redirect" title="Solar shingles">Solar shingles</a></li>
+<li><a href="/wiki/Solar_mirror#Photovoltaic_augmentation" title="Solar mirror">Solar mirror</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">System concepts</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Perturb_and_observe_method" class="mw-redirect" title="Perturb and observe method">Perturb and observe method</a></li>
+<li><a href="/wiki/Incremental_conductance_method" class="mw-redirect" title="Incremental conductance method">Incremental conductance method</a></li>
+<li><a href="/wiki/Constant_voltage_method" class="mw-redirect" title="Constant voltage method">Constant voltage method</a></li>
+<li><a href="/wiki/Fill_factor_(solar_cell)" class="mw-redirect" title="Fill factor (solar cell)">Fill factor</a></li>
+<li><a href="/wiki/Concentrated_photovoltaics" class="mw-redirect" title="Concentrated photovoltaics">Concentrated photovoltaics</a></li>
+<li><a href="/wiki/Photovoltaic_thermal_hybrid_solar_collector" title="Photovoltaic thermal hybrid solar collector">Photovoltaic thermal hybrid solar collector</a></li>
+<li><a href="/wiki/Space-based_solar_power" title="Space-based solar power">Space-based solar power</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;">Applications</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Appliances</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Solar-powered_refrigerator" title="Solar-powered refrigerator">Solar-powered refrigerator</a></li>
+<li><a href="/wiki/Solar_air_conditioning#Photovoltaic_.28PV.29_solar_cooling" title="Solar air conditioning">Solar air conditioning</a></li>
+<li><a href="/wiki/Solar_lamp" title="Solar lamp">Solar lamp</a></li>
+<li><a href="/wiki/Solar_charger" title="Solar charger">Solar charger</a></li>
+<li><a href="/wiki/Solar_backpack" title="Solar backpack">Solar backpack</a></li>
+<li><a href="/wiki/Solar_tree" title="Solar tree">Solar tree</a></li>
+<li><a href="/wiki/Solar-powered_pump" title="Solar-powered pump">Solar-powered pump</a></li>
+<li><a href="/wiki/Solar-powered_watch" title="Solar-powered watch">Solar-powered watch</a></li>
+<li><a href="/wiki/Solar_Tuki" title="Solar Tuki">Solar Tuki</a></li>
+<li><a href="/wiki/Photovoltaic_keyboard" title="Photovoltaic keyboard">Photovoltaic keyboard</a></li>
+<li><a href="/wiki/Solar_road_stud" title="Solar road stud">Solar road stud</a></li>
+<li><a href="/wiki/Solar_cell_phone_charger" title="Solar cell phone charger">Solar cell phone charger</a></li>
+<li><a href="/wiki/Solar_notebook" title="Solar notebook">Solar notebook</a></li>
+<li><a href="/wiki/Solar-powered_calculator" title="Solar-powered calculator">Solar-powered calculator</a></li>
+<li><a href="/wiki/Solar-powered_fountain" title="Solar-powered fountain">Solar-powered fountain</a></li>
+<li><a href="/wiki/Solar-powered_radio" title="Solar-powered radio">Solar-powered radio</a></li>
+<li><a href="/wiki/Solar-powered_flashlight" title="Solar-powered flashlight">Solar-powered flashlight</a></li>
+<li><a href="/wiki/Solar-powered_fan" title="Solar-powered fan">Solar-powered fan</a></li>
+<li><a href="/wiki/Solar_street_light" title="Solar street light">Solar street light</a></li>
+<li><a href="/wiki/Solar_traffic_light" title="Solar traffic light">Solar traffic light</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Land transport</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Solar_vehicle" title="Solar vehicle">Solar vehicle</a></li>
+<li><a href="/wiki/Solar_car" title="Solar car">Solar car</a></li>
+<li><a href="/wiki/Solar_roadway" class="mw-redirect" title="Solar roadway">Solar roadway</a></li>
+<li><a href="/wiki/Solar_golf_cart" title="Solar golf cart">Solar golf cart</a></li>
+<li><a href="/wiki/The_Quiet_Achiever" title="The Quiet Achiever">The Quiet Achiever</a></li>
+<li><a href="/wiki/Sunmobile" title="Sunmobile">Sunmobile</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Air transport</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Electric_aircraft" title="Electric aircraft">Electric aircraft</a></li>
+<li><a href="/wiki/Mauro_Solar_Riser" title="Mauro Solar Riser">Mauro Solar Riser</a></li>
+<li><a href="/wiki/Solar_panels_on_spacecraft" title="Solar panels on spacecraft">Solar panels on spacecraft</a></li>
+<li><a href="/wiki/Solar-Powered_Aircraft_Developments_Solar_One" title="Solar-Powered Aircraft Developments Solar One">Solar-Powered Aircraft Developments Solar One</a></li>
+<li><a href="/wiki/Gossamer_Penguin" class="mw-redirect" title="Gossamer Penguin">Gossamer Penguin</a></li>
+<li><a href="/wiki/Qinetiq_Zephyr" title="Qinetiq Zephyr">Qinetiq Zephyr</a></li>
+<li><a href="/wiki/Solar_Challenger" class="mw-redirect" title="Solar Challenger">Solar Challenger</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Water transport</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Electric_boat#Types" title="Electric boat">Solar boat</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Solar vehicle racing</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Solar_car_racing" title="Solar car racing">Solar car racing</a></li>
+<li><a href="/wiki/List_of_solar_car_teams" title="List of solar car teams">List of solar car teams</a></li>
+<li><a href="/wiki/Solar_challenge_(disambiguation)" class="mw-redirect mw-disambig" title="Solar challenge (disambiguation)">Solar challenges</a></li>
+<li><a href="/wiki/World_Solar_Challenge" title="World Solar Challenge">World Solar Challenge</a></li>
+<li><a href="/wiki/American_Solar_Challenge" title="American Solar Challenge">American Solar Challenge</a></li>
+<li><a href="/wiki/Formula_Sun_Grand_Prix" title="Formula Sun Grand Prix">Formula Sun Grand Prix</a></li>
+<li><a href="/wiki/Solar_Cup" title="Solar Cup">Solar Cup</a></li>
+<li><a href="/wiki/Frisian_Solar_Challenge" title="Frisian Solar Challenge">Frisian Solar Challenge</a></li>
+<li><a href="/wiki/Solar_Splash" title="Solar Splash">Solar Splash</a></li>
+<li><a href="/wiki/South_African_Solar_Challenge" title="South African Solar Challenge">South African Solar Challenge</a></li>
+<li><a href="/wiki/Tour_de_Sol" title="Tour de Sol">Tour de Sol</a></li>
+<li><a href="/wiki/Hunt-Winston_School_Solar_Car_Challenge" class="mw-redirect" title="Hunt-Winston School Solar Car Challenge">Hunt-Winston School Solar Car Challenge</a></li>
+<li><a href="/wiki/Victorian_Model_Solar_Vehicle_Challenge" title="Victorian Model Solar Vehicle Challenge">Victorian Model Solar Vehicle Challenge</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;"><a href="/wiki/Photovoltaic_power_station" title="Photovoltaic power station">Generation systems</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;"><a href="/wiki/Photovoltaic_power_station" title="Photovoltaic power station">PV power station</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Grid-connected_photovoltaic_power_system" title="Grid-connected photovoltaic power system">Grid-connected photovoltaic power system</a></li>
+<li><a href="/wiki/List_of_photovoltaic_power_stations" title="List of photovoltaic power stations">List of photovoltaic power stations</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Individual projects</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Alamosa_photovoltaic_power_plant" title="Alamosa photovoltaic power plant">Alamosa photovoltaic power plant</a></li>
+<li><a href="/wiki/Beneixama_photovoltaic_power_plant" title="Beneixama photovoltaic power plant">Beneixama photovoltaic power plant</a></li>
+<li><a href="/wiki/Blythe_Photovoltaic_Power_Plant" title="Blythe Photovoltaic Power Plant">Blythe Photovoltaic Power Plant</a></li>
+<li><a href="/wiki/Copper_Mountain_Solar_Facility" title="Copper Mountain Solar Facility">Copper Mountain Solar Facility</a></li>
+<li><a href="/wiki/Darro_Solar_Park" title="Darro Solar Park">Darro Solar Park</a></li>
+<li><a href="/wiki/Erlasee_Solar_Park" title="Erlasee Solar Park">Erlasee Solar Park</a></li>
+<li><a href="/wiki/Huanghe_Hydropower_Golmud_Solar_Park" title="Huanghe Hydropower Golmud Solar Park">Golmud Solar Park</a></li>
+<li><a href="/wiki/Gottelborn_Solar_Park" class="mw-redirect" title="Gottelborn Solar Park">Gottelborn Solar Park</a></li>
+<li><a href="/wiki/Guadarranque_solar_power_plant" class="mw-redirect" title="Guadarranque solar power plant">Guadarranque solar power plant</a></li>
+<li><a href="/wiki/K%C3%B6then_Solar_Park" title="Köthen Solar Park">Köthen Solar Park</a></li>
+<li><a href="/wiki/Moura_Photovoltaic_Power_Station" title="Moura Photovoltaic Power Station">Moura Photovoltaic Power Station</a></li>
+<li><a href="/wiki/Olmedilla_Photovoltaic_Park" title="Olmedilla Photovoltaic Park">Olmedilla Photovoltaic Park</a></li>
+<li><a href="/wiki/Pocking_Solar_Park" title="Pocking Solar Park">Pocking Solar Park</a></li>
+<li><a href="/wiki/Puertollano_Photovoltaic_Park" title="Puertollano Photovoltaic Park">Puertollano Photovoltaic Park</a></li>
+<li><a href="/wiki/Topaz_Solar_Farm" title="Topaz Solar Farm">Topaz Solar Farm</a></li>
+<li><a href="/wiki/Wyandot_Solar_Facility" title="Wyandot Solar Facility">Wyandot Solar Facility</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Building-mounted</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Rooftop_photovoltaic_power_station" title="Rooftop photovoltaic power station">Rooftop photovoltaic power station</a></li>
+<li><a href="/wiki/Building-integrated_photovoltaics" title="Building-integrated photovoltaics">Building-integrated photovoltaics</a></li>
+<li><a href="/wiki/Solar_Ark" title="Solar Ark">Solar Ark</a></li>
+<li><a href="/wiki/Solar_Umbrella_house" title="Solar Umbrella house">Solar Umbrella house</a></li>
+<li><a href="/wiki/Strasskirchen_Solar_Park" title="Strasskirchen Solar Park">Strasskirchen Solar Park</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;"><a href="/wiki/Solar_power_by_country" title="Solar power by country">By country</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Solar_power_in_Australia" title="Solar power in Australia">Australia</a></li>
+<li><a href="/wiki/Solar_power_in_Belgium" title="Solar power in Belgium">Belgium</a></li>
+<li><a href="/wiki/Solar_power_in_Bulgaria" title="Solar power in Bulgaria">Bulgaria</a></li>
+<li><a href="/wiki/Solar_power_in_Canada" title="Solar power in Canada">Canada</a></li>
+<li><a href="/wiki/Solar_power_in_Chile" title="Solar power in Chile">Chile</a></li>
+<li><a href="/wiki/Solar_power_in_China" title="Solar power in China">China</a></li>
+<li><a href="/wiki/Solar_power_in_the_Czech_Republic" title="Solar power in the Czech Republic">Czech Republic</a></li>
+<li><a href="/wiki/Solar_power_in_France" title="Solar power in France">France</a></li>
+<li><a href="/wiki/Solar_power_in_Germany" title="Solar power in Germany">Germany</a></li>
+<li><a href="/wiki/Solar_power_in_Greece" title="Solar power in Greece">Greece</a></li>
+<li><a href="/wiki/Solar_power_in_India" title="Solar power in India">India</a></li>
+<li><a href="/wiki/Solar_power_in_Italy" title="Solar power in Italy">Italy</a></li>
+<li><a href="/wiki/Solar_power_in_Japan" title="Solar power in Japan">Japan</a></li>
+<li><a href="/wiki/Solar_power_in_the_Netherlands" title="Solar power in the Netherlands">Netherlands</a></li>
+<li><a href="/wiki/Solar_power_in_Romania" title="Solar power in Romania">Romania</a></li>
+<li><a href="/wiki/Solar_power_in_South_Africa" title="Solar power in South Africa">South Africa</a></li>
+<li><a href="/wiki/Solar_power_in_Spain" title="Solar power in Spain">Spain</a></li>
+<li><a href="/wiki/Solar_power_in_Switzerland" title="Solar power in Switzerland">Switzerland</a></li>
+<li><a href="/wiki/Solar_power_in_Thailand" title="Solar power in Thailand">Thailand</a></li>
+<li><a href="/wiki/Solar_power_in_the_United_Kingdom" title="Solar power in the United Kingdom">United Kingdom</a></li>
+<li><a href="/wiki/Solar_power_in_the_United_States" title="Solar power in the United States">USA</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;"><a href="/wiki/List_of_photovoltaics_companies" title="List of photovoltaics companies">PV companies</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">By country</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/List_of_countries_by_photovoltaics_production" class="mw-redirect" title="List of countries by photovoltaics production">List of countries by photovoltaics production</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Individual producers</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/First_Solar" title="First Solar">First Solar</a></li>
+<li><a href="/wiki/Hanwha_Solarone" class="mw-redirect" title="Hanwha Solarone">Hanwha Solarone</a></li>
+<li><a href="/wiki/JA_Solar" class="mw-redirect" title="JA Solar">JA Solar</a></li>
+<li><a href="/wiki/Motech_Solar" title="Motech Solar">Motech Solar</a></li>
+<li><a href="/wiki/Renewable_Energy_Corporation" title="Renewable Energy Corporation">REC</a></li>
+<li><a href="/wiki/Q-Cells" title="Q-Cells">Q-Cells</a></li>
+<li><a href="/wiki/Sharp_Solar" title="Sharp Solar">Sharp</a></li>
+<li><a href="/wiki/Solar_Frontier" title="Solar Frontier">Solar Frontier</a></li>
+<li><a href="/wiki/Solyndra" title="Solyndra">Solyndra</a></li>
+<li><a href="/wiki/SUNGEN_International_Limited" title="SUNGEN International Limited">Sungen Solar</a></li>
+<li><a href="/wiki/Sunpower" class="mw-redirect" title="Sunpower">Sunpower</a></li>
+<li><a href="/wiki/Suntech" class="mw-redirect" title="Suntech">Suntech</a></li>
+<li><a href="/wiki/Trina_Solar" title="Trina Solar">Trina Solar</a></li>
+<li><a href="/wiki/Yingli_Solar" class="mw-redirect" title="Yingli Solar">Yingli Solar</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3">
+<div>
+<ul>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <b><a href="/wiki/Category:Photovoltaics" title="Category:Photovoltaics">Category</a></b></li>
+<li><img alt="Commons page" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" title="Commons page" width="12" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /> <a href="https://commons.wikimedia.org/wiki/Category:Photovoltaics" class="extiw" title="commons:Category:Photovoltaics"><b>Commons</b></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1215
+Cached time: 20170131075317
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.340 seconds
+Real time usage: 0.592 seconds
+Preprocessor visited node count: 2115/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 142087/2097152 bytes
+Template argument size: 9/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 0/500
+Lua time usage: 0.170/10.000 seconds
+Lua memory usage: 3.25 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  489.035      1 -total
+ 47.15%  230.597      1 Template:Portal
+ 44.85%  219.337      1 Template:Reflist
+ 34.58%  169.111     33 Template:Cite_journal
+  8.49%   41.506      6 Template:Navbox
+  6.81%   33.324      1 Template:Photovoltaics
+  1.53%    7.463      2 Template:Icon
+  0.43%    2.127      1 Template:Co2
+  0.23%    1.121      1 Template:Column-count
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:17279558-0!*!0!!en!4!* and timestamp 20170131075317 and revision id 740573798
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Carbon_nanotubes_in_photovoltaics&amp;oldid=740573798">https://en.wikipedia.org/w/index.php?title=Carbon_nanotubes_in_photovoltaics&amp;oldid=740573798</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Carbon_nanotubes" title="Category:Carbon nanotubes">Carbon nanotubes</a></li><li><a href="/wiki/Category:Solar_cells" title="Category:Solar cells">Solar cells</a></li><li><a href="/wiki/Category:Nanoelectronics" title="Category:Nanoelectronics">Nanoelectronics</a></li><li><a href="/wiki/Category:Thin-film_cells" title="Category:Thin-film cells">Thin-film cells</a></li><li><a href="/wiki/Category:Photovoltaics" title="Category:Photovoltaics">Photovoltaics</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">CS1 maint: Multiple names: authors list</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Carbon+nanotubes+in+photovoltaics" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Carbon+nanotubes+in+photovoltaics" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Carbon_nanotubes_in_photovoltaics"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Carbon_nanotubes_in_photovoltaics"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Carbon_nanotubes_in_photovoltaics" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Carbon_nanotubes_in_photovoltaics&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Carbon_nanotubes_in_photovoltaics&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Carbon_nanotubes_in_photovoltaics" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Carbon_nanotubes_in_photovoltaics" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Carbon_nanotubes_in_photovoltaics&amp;oldid=740573798" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Carbon_nanotubes_in_photovoltaics&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q5037980" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Carbon_nanotubes_in_photovoltaics&amp;id=740573798" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Carbon+nanotubes+in+photovoltaics">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Carbon+nanotubes+in+photovoltaics&amp;returnto=Carbon+nanotubes+in+photovoltaics&amp;oldid=740573798&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Carbon_nanotubes_in_photovoltaics&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+											</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q5037980#sitelinks-wikipedia" title="Add interlanguage links" class="wbc-editpage">Add links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 21 September 2016, at 22:47.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Carbon_nanotubes_in_photovoltaics&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.340","walltime":"0.592","ppvisitednodes":{"value":2115,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":142087,"limit":2097152},"templateargumentsize":{"value":9,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  489.035      1 -total"," 47.15%  230.597      1 Template:Portal"," 44.85%  219.337      1 Template:Reflist"," 34.58%  169.111     33 Template:Cite_journal","  8.49%   41.506      6 Template:Navbox","  6.81%   33.324      1 Template:Photovoltaics","  1.53%    7.463      2 Template:Icon","  0.43%    2.127      1 Template:Co2","  0.23%    1.121      1 Template:Column-count"]},"scribunto":{"limitreport-timeusage":{"value":"0.170","limit":"10.000"},"limitreport-memusage":{"value":3408757,"limit":52428800}},"cachereport":{"origin":"mw1215","timestamp":"20170131075317","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":677,"wgHostname":"mw1215"});});</script>
+	</body>
+</html>

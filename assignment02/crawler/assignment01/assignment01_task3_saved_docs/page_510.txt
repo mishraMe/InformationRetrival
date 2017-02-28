@@ -1,0 +1,600 @@
+url : https://en.wikipedia.org/wiki/Induction_generator
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Induction generator - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Induction_generator","wgTitle":"Induction generator","wgCurRevisionId":759742950,"wgRevisionId":759742950,"wgArticleId":9331066,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles to be expanded from August 2016","All articles to be expanded","Articles needing translation from German Wikipedia","Pages using ISBN magic links","Electrical generators","Induction motors"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Induction_generator","wgRelevantArticleId":9331066,"wgRequestId":"WIkduwpAAD0AATWzaYQAAAAP","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q752750","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","ext.math.scripts","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.8"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Induction_generator"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Induction_generator&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Induction_generator&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Induction_generator"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Induction_generator rootpage-Induction_generator skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Induction generator</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><p>An <b>induction generator</b> or <i>asynchronous generator</i> is a type of <a href="/wiki/Alternating_current" title="Alternating current">alternating current</a> (AC) <a href="/wiki/Electrical_generator" class="mw-redirect" title="Electrical generator">electrical generator</a> that uses the principles of <a href="/wiki/Induction_motor" title="Induction motor">induction motors</a> to produce power. Induction generators operate by mechanically turning their rotors faster than synchronous speed. A regular AC asynchronous motor usually can be used as a generator, without any internal modifications. Induction generators are useful in applications such as <a href="/wiki/Mini_hydro" class="mw-redirect" title="Mini hydro">mini hydro</a> power plants, wind turbines, or in reducing high-pressure gas streams to lower pressure, because they can recover energy with relatively simple controls.</p>
+<p>An induction generator usually draws its excitation power from an electrical grid; sometimes, however, they are self-excited by using phase-correcting capacitors. Because of this, induction generators cannot usually "<a href="/wiki/Black_start" title="Black start">black start</a>" a de-energized distribution system.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Principle_of_operation"><span class="tocnumber">1</span> <span class="toctext">Principle of operation</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Excitation"><span class="tocnumber">1.1</span> <span class="toctext">Excitation</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Active_power"><span class="tocnumber">1.2</span> <span class="toctext">Active power</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Required_capacitance"><span class="tocnumber">1.3</span> <span class="toctext">Required capacitance</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Torque_vs._slip"><span class="tocnumber">1.4</span> <span class="toctext">Torque vs. slip</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Maximum_pass-through_current"><span class="tocnumber">1.5</span> <span class="toctext">Maximum pass-through current</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Grid_and_stand-alone_connections"><span class="tocnumber">2</span> <span class="toctext">Grid and stand-alone connections</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Limitations_of_induction_generators.5B1.5D"><span class="tocnumber">3</span> <span class="toctext">Limitations of induction generators<sup>[1]</sup></span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Use_of_induction_generators"><span class="tocnumber">4</span> <span class="toctext">Use of induction generators</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Example_application"><span class="tocnumber">5</span> <span class="toctext">Example application</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Notes"><span class="tocnumber">7</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Principle_of_operation">Principle of operation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Induction_generator&amp;action=edit&amp;section=1" title="Edit section: Principle of operation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>An induction generator produces electrical power when its rotor is turned faster than the <i>synchronous speed</i>. For a typical four-pole motor (two pairs of poles on stator) operating on a 60&#160;Hz electrical grid, the synchronous speed is 1800 rotations per minute (rpm). The same four-pole motor operating on a 50&#160;Hz grid will have a synchronous speed of 1500&#160;RPM. The motor normally turns slightly slower than the synchronous speed; the difference between synchronous and operating speed is called "slip" and is usually expressed as per cent of the synchronous speed. For example, a motor operating at 1450&#160;RPM that has a synchronous speed of 1500&#160;RPM is running at a slip of +3.3%.</p>
+<p>In normal motor operation, the stator flux rotation is faster than the rotor rotation. This causes the stator flux to induce rotor currents, which create a rotor flux with magnetic polarity opposite to stator. In this way, the rotor is dragged along behind stator flux, with the currents in the rotor induced at the slip frequency.</p>
+<p>In generator operation, a <a href="/wiki/Engine" title="Engine">prime mover</a> (turbine or engine) drives the rotor above the synchronous speed (negative slip). The stator flux still induces currents in the rotor, but since the opposing rotor flux is now cutting the stator coils, an active current is produced in stator coils and the motor now operates as a generator, sending power back to the electrical grid.</p>
+<h3><span class="mw-headline" id="Excitation">Excitation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Induction_generator&amp;action=edit&amp;section=2" title="Edit section: Excitation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Asynch-esb-2.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Asynch-esb-2.svg/220px-Asynch-esb-2.svg.png" width="220" height="91" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Asynch-esb-2.svg/330px-Asynch-esb-2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/19/Asynch-esb-2.svg/440px-Asynch-esb-2.svg.png 2x" data-file-width="850" data-file-height="350" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Asynch-esb-2.svg" class="internal" title="Enlarge"></a></div>
+Equivalent circuit of induction generator</div>
+</div>
+</div>
+<p>An induction machine requires externally supplied armature current. Because the rotor field always lags behind the <a href="/wiki/Stator" title="Stator">stator</a> field, the induction machine always "consumes" reactive power, regardless of whether it is operating as a generator or a motor.</p>
+<p>A source of excitation current for magnetizing flux (reactive power) for the stator is still required, to induce rotor current. This can be supplied from the electrical grid or, once it starts producing power, from the generator itself.</p>
+<p>An induction machine can be started by charging the capacitors, with a DC source, while the generator is turning typically at or above generating speeds. Once the DC source is removed the capacitors will provide the magnetization current required to begin producing voltage.</p>
+<p>An induction machine that has recently been operating may also spontaneously produce voltage and current due to residual magnetism left in the core.</p>
+<h3><span class="mw-headline" id="Active_power">Active power</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Induction_generator&amp;action=edit&amp;section=3" title="Edit section: Active power">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Active power delivered to the line is proportional to slip above the synchronous speed. Full rated power of the generator is reached at very small slip values (motor dependent, typically 3%). At synchronous speed of 1800&#160;rpm, generator will produce no power. When the driving speed is increased to 1860&#160;rpm (typical example), full output power is produced. If the prime mover is unable to produce enough power to fully drive the generator, speed will remain somewhere between 1800 and 1860 rpm range.</p>
+<h3><span class="mw-headline" id="Required_capacitance">Required capacitance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Induction_generator&amp;action=edit&amp;section=4" title="Edit section: Required capacitance">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A capacitor bank must supply reactive power to the motor when used in stand-alone mode. The reactive power supplied should be equal or greater than the reactive power that the machine normally draws when operating as a motor.</p>
+<h3><span class="mw-headline" id="Torque_vs._slip">Torque vs. slip</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Induction_generator&amp;action=edit&amp;section=5" title="Edit section: Torque vs. slip">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The basic fundamental of induction generators is the conversion between mechanical energy to electrical energy. This requires an external torque applied to the rotor to turn it faster than the synchronous speed. However, indefinitely increasing torque doesn't lead to an indefinite increase in power generation. The rotating magnetic field torque excited from the armature works to counter the motion of the rotor and prevent over speed because of induced motion in the opposite direction. As the speed of the motor increases the counter torque reaches a max value of torque (breakdown torque) that it can operate until before the operating conditions become unstable. Ideally, induction generators work best in the stable region between the no-load condition and maximum torque region.</p>
+<h3><span class="mw-headline" id="Maximum_pass-through_current">Maximum pass-through current</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Induction_generator&amp;action=edit&amp;section=6" title="Edit section: Maximum pass-through current">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In practice and without taking this notion into account, many users unsuccessfully apply these principles to the actual deployment. In almost every case, under the same active grid voltage, the power that the generator produces is greater than the power it consumes when it is at the motor, fully loaded state, its rated power. Sometimes the differences are in multiple folds. A higher power will lead to a higher amperage.</p>
+<p>For prolonged operation, and implied in its guarantee, each motor has a “maximum pass-through current”. This amperage value, the <a href="/wiki/Current_density" title="Current density">current density</a>, is derived from the maximum pass-through current property of the internal copper <a href="/wiki/Magnet_wire" title="Magnet wire">magnet wire</a> and the combined configuration of their connections. Without opening up the unit to examine the internal setting of the copper wires, a division of the wattage of its rated power by its rated voltage can give users some senses of its value.</p>
+<p>Therefore, claims of making a unit generate more power than it's rated should be more closely examined.</p>
+<h2><span class="mw-headline" id="Grid_and_stand-alone_connections">Grid and stand-alone connections</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Induction_generator&amp;action=edit&amp;section=7" title="Edit section: Grid and stand-alone connections">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Kondensatorerregter-asynchrongenerator-mit-last.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Kondensatorerregter-asynchrongenerator-mit-last.svg/220px-Kondensatorerregter-asynchrongenerator-mit-last.svg.png" width="220" height="132" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Kondensatorerregter-asynchrongenerator-mit-last.svg/330px-Kondensatorerregter-asynchrongenerator-mit-last.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Kondensatorerregter-asynchrongenerator-mit-last.svg/440px-Kondensatorerregter-asynchrongenerator-mit-last.svg.png 2x" data-file-width="500" data-file-height="300" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Kondensatorerregter-asynchrongenerator-mit-last.svg" class="internal" title="Enlarge"></a></div>
+Typical connections when used as a standalone generator</div>
+</div>
+</div>
+<p>In induction generators, the reactive power required to establish the air gap magnetic flux is provided by a <a href="/wiki/Power_factor_correction_unit" class="mw-redirect" title="Power factor correction unit">capacitor bank</a> connected to the machine in case of stand-alone system and in case of grid connection it draws reactive power from the grid to maintain its air gap flux. For a grid-connected system, frequency and voltage at the machine will be dictated by the electric grid, <u>since</u> it is very small compared to the whole system. For stand-alone systems, frequency and voltage are complex function of machine parameters, capacitance used for excitation, and load value and type.</p>
+<h2><span class="mw-headline" id="Limitations_of_induction_generators.5B1.5D">Limitations of induction generators<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Induction_generator&amp;action=edit&amp;section=8" title="Edit section: Limitations of induction generators[1]">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>An induction generator connected to a capacitor system can generate sufficient reactive power to operate on its own. When the load current exceeds the capability of the generator to supply both magnetization reactive power, and load power the generator will immediately cease to produce power. The load must be removed and the induction generator restarted with either a DC source, or if present, residual magnetism in the core.</p>
+<h2><span class="mw-headline" id="Use_of_induction_generators">Use of induction generators</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Induction_generator&amp;action=edit&amp;section=9" title="Edit section: Use of induction generators">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Induction generators are often used in <a href="/wiki/Wind_turbines" class="mw-redirect" title="Wind turbines">wind turbines</a> and some <a href="/wiki/Micro_hydro" title="Micro hydro">micro hydro</a> installations due to their ability to produce useful power at varying rotor speeds. Induction generators are mechanically and electrically simpler than other generator types. They are also more rugged, requiring no brushes or <a href="/wiki/Commutator_(electric)" title="Commutator (electric)">commutators</a>.</p>
+<p>Induction generators are particularly suitable for wind generating stations as in this case speed is always a variable factor. Unlike synchronous motors, induction generators are load-dependent and cannot be used alone for grid frequency control.</p>
+<h2><span class="mw-headline" id="Example_application">Example application</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Induction_generator&amp;action=edit&amp;section=10" title="Edit section: Example application">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>As an example, consider the use of a 10&#160;hp, 1760&#160;r/min, 440&#160;V, three-phase induction motor as an asynchronous generator. The full-load current of the motor is 10&#160;A and the full-load power factor is 0.8.</p>
+<p>Required capacitance per phase if capacitors are connected in delta:</p>
+<dl>
+<dd><a href="/wiki/Apparent_power" class="mw-redirect" title="Apparent power">Apparent power</a> S = √3 E I = 1.73 × 440 × 10 = 7612 VA</dd>
+<dd>Active power P = S cos θ = 7612 × 0.8 = 6090 W</dd>
+<dd><a href="/wiki/Reactive_power" class="mw-redirect" title="Reactive power">Reactive power</a> Q = <span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y mw-math-element" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <msqrt>
+            <msup>
+              <mi>S</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mn>2</mn>
+              </mrow>
+            </msup>
+            <mo>&#x2212;<!-- − --></mo>
+            <msup>
+              <mi>P</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mn>2</mn>
+              </mrow>
+            </msup>
+          </msqrt>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\sqrt {S^{2}-P^{2}}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ac75fd07627ce446266d68f3cd8315fc3f7366cd" class="mwe-math-fallback-image-inline mw-math-element" aria-hidden="true" style="vertical-align: -0.671ex; width:10.672ex; height:3.343ex;" alt="{\sqrt  {S^{2}-P^{2}}}" /></span> = 4567 VAR</dd>
+</dl>
+<p>For a machine to run as an asynchronous generator, capacitor bank must supply minimum 4567 / 3 phases = 1523 VAR per phase. Voltage per capacitor is 440&#160;V because capacitors are connected in delta.</p>
+<dl>
+<dd>Capacitive current Ic = Q/E = 1523/440 = 3.46 A</dd>
+<dd>Capacitive reactance per phase Xc = E/Ic = 127 Ω</dd>
+</dl>
+<p>Minimum capacitance per phase:</p>
+<dl>
+<dd>C = 1 / (2*π*f*Xc) = 1 / (2 * 3.141 * 60 * 127) = 21 microfarads.</dd>
+</dl>
+<p>If the load also absorbs reactive power, capacitor bank must be increased in size to compensate.</p>
+<p>Prime mover speed should be used to generate frequency of 60&#160;Hz:</p>
+<p>Typically, slip should be similar to full-load value when machine is running as motor, but negative (generator operation):</p>
+<dl>
+<dd>if Ns = 1800, one can choose N=Ns+40 rpm</dd>
+<dd>Required prime mover speed N = 1800 + 40 = 1840 rpm.</dd>
+</dl>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Induction_generator&amp;action=edit&amp;section=11" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Electrical_generator" class="mw-redirect" title="Electrical generator">Electrical generator</a></li>
+</ul>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Induction_generator&amp;action=edit&amp;section=12" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation book">Huassain, Ashfaq. <i>Electric Machines</i>. Dhanpat Rai and Co. p.&#160;411.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInduction+generator&amp;rft.aufirst=Ashfaq&amp;rft.aulast=Huassain&amp;rft.btitle=Electric+Machines&amp;rft.genre=book&amp;rft.pages=411&amp;rft.pub=Dhanpat+Rai+and+Co.&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Induction_generator&amp;action=edit&amp;section=13" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><i>Electrical Machines, Drives, and Power Systems</i>, 4th edition, Theodore Wildi, Prentice Hall, <a href="/wiki/Special:BookSources/0130824607" class="internal mw-magiclink-isbn">ISBN 0-13-082460-7</a>, pages 311–314.</li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Induction_generator&amp;action=edit&amp;section=14" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.arthropodsystems.com/AsynchronousGenerator1/AsynchronousGenerator1.html">Testing of stand-alone and grid connected asynchronous generator</a></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Electricity_delivery" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Electricity_delivery" title="Template:Electricity delivery"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Electricity_delivery" title="Template talk:Electricity delivery"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Electricity_delivery&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Electricity_delivery" style="font-size:114%"><a href="/wiki/Electricity_delivery" title="Electricity delivery">Electricity delivery</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Concepts</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Availability_factor" title="Availability factor">Availability factor</a></li>
+<li><a href="/wiki/Automatic_generation_control" class="mw-redirect" title="Automatic generation control">Automatic generation control</a></li>
+<li><a href="/wiki/Base_load" title="Base load">Base load</a></li>
+<li><a href="/wiki/Black_start" title="Black start">Black start</a></li>
+<li><a href="/wiki/Capacity_factor" title="Capacity factor">Capacity factor</a></li>
+<li><a href="/wiki/Demand_factor" title="Demand factor">Demand factor</a></li>
+<li><a href="/wiki/Droop_speed_control" title="Droop speed control">Droop speed control</a></li>
+<li><a href="/wiki/Energy_demand_management" title="Energy demand management">Demand management</a></li>
+<li><a href="/wiki/Energy_returned_on_energy_invested" title="Energy returned on energy invested">EROEI</a></li>
+<li><a href="/wiki/Fault_(power_engineering)" title="Fault (power engineering)">Fault</a></li>
+<li><a href="/wiki/Grid_energy_storage" title="Grid energy storage">Grid storage</a></li>
+<li><a href="/wiki/Intermittent_energy_source" title="Intermittent energy source">Intermittency</a></li>
+<li><a href="/wiki/Load_factor_(electrical)" title="Load factor (electrical)">Load factor</a></li>
+<li><a href="/wiki/Load_following_power_plant" title="Load following power plant">Load following</a></li>
+<li><a href="/wiki/Nameplate_capacity" title="Nameplate capacity">Nameplate capacity</a></li>
+<li><a href="/wiki/Peak_demand" title="Peak demand">Peak demand</a></li>
+<li><a href="/wiki/Electric_power_quality" title="Electric power quality">Power quality</a></li>
+<li><a href="/wiki/Power-flow_study" title="Power-flow study">Power-flow study</a></li>
+<li><a href="/wiki/Repowering" title="Repowering">Repowering</a></li>
+<li><a href="/wiki/Variable_renewable_energy" title="Variable renewable energy">Variability</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Sources</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;width:7em;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Non-renewable_energy" class="mw-redirect" title="Non-renewable energy">Nonrenewable</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Coal" title="Coal">Coal</a></li>
+<li><a href="/wiki/Fossil_fuel_power_station" title="Fossil fuel power station">Fossil fuel power station</a></li>
+<li><a href="/wiki/Natural_gas" title="Natural gas">Natural gas</a></li>
+<li><a href="/wiki/Petroleum" title="Petroleum">Petroleum</a></li>
+<li><a href="/wiki/Nuclear_power" title="Nuclear power">Nuclear</a></li>
+<li><a href="/wiki/Oil_shale" title="Oil shale">Oil shale</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;width:7em;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Renewable_energy" title="Renewable energy">Renewable</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Biomass" title="Biomass">Biomass</a></li>
+<li><a href="/wiki/Biofuel" title="Biofuel">Biofuel</a></li>
+<li><a href="/wiki/Geothermal_power" title="Geothermal power">Geothermal</a></li>
+<li><a href="/wiki/Hydroelectricity" title="Hydroelectricity">Hydro</a></li>
+<li><a href="/wiki/Marine_energy" title="Marine energy">Marine</a>
+<ul>
+<li><a href="/wiki/Marine_current_power" title="Marine current power">Current</a></li>
+<li><a href="/wiki/Osmotic_power" title="Osmotic power">Osmotic</a></li>
+<li><a href="/wiki/Ocean_thermal_energy" class="mw-redirect" title="Ocean thermal energy">Thermal</a></li>
+<li><a href="/wiki/Tidal_power" title="Tidal power">Tidal</a></li>
+<li><a href="/wiki/Wave_power" title="Wave power">Wave</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Solar_power" title="Solar power">Solar</a></li>
+<li><a href="/wiki/Wind_power" title="Wind power">Wind</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Category:Power_station_technology" title="Category:Power station technology">Generation</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/AC_power" title="AC power">AC power</a></li>
+<li><a href="/wiki/Cogeneration" title="Cogeneration">Cogeneration</a></li>
+<li><a href="/wiki/Combined_cycle" title="Combined cycle">Combined cycle</a></li>
+<li><a href="/wiki/Cooling_tower" title="Cooling tower">Cooling tower</a></li>
+<li><strong class="selflink">Induction generator</strong></li>
+<li><a href="/wiki/Micro_combined_heat_and_power" title="Micro combined heat and power">Micro CHP</a></li>
+<li><a href="/wiki/Microgeneration" title="Microgeneration">Microgeneration</a></li>
+<li><a href="/wiki/Rankine_cycle" title="Rankine cycle">Rankine cycle</a></li>
+<li><a href="/wiki/Three-phase_electric_power" title="Three-phase electric power">Three-phase electric power</a></li>
+<li><a href="/wiki/Virtual_power_plant" title="Virtual power plant">Virtual power plant</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">
+<div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Electric_power_transmission" title="Electric power transmission">Transmission</a><br />
+and <a href="/wiki/Electric_power_distribution" title="Electric power distribution">distribution</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Power_outage" title="Power outage">Blackout</a> (<a href="/wiki/Rolling_blackout" title="Rolling blackout">Rolling blackout</a>)</li>
+<li><a href="/wiki/Brownout_(electricity)" title="Brownout (electricity)">Brownout</a></li>
+<li><a href="/wiki/Demand_response" title="Demand response">Demand response</a></li>
+<li><a href="/wiki/Distributed_generation" title="Distributed generation">Distributed generation</a></li>
+<li><a href="/wiki/Dynamic_demand_(electric_power)" title="Dynamic demand (electric power)">Dynamic demand</a></li>
+<li><a href="/wiki/Electric_power_distribution" title="Electric power distribution">Electric power distribution</a></li>
+<li><a href="/wiki/Electric_power_system" title="Electric power system">Electric power system</a></li>
+<li><a href="/wiki/Electric_power_transmission" title="Electric power transmission">Electric power transmission</a></li>
+<li><a href="/wiki/Electrical_grid" title="Electrical grid">Electrical grid</a></li>
+<li><a href="/wiki/High-voltage_direct_current" title="High-voltage direct current">High-voltage direct current</a></li>
+<li><a href="/wiki/Load_management" title="Load management">Load management</a></li>
+<li><a href="/wiki/Pumped-storage_hydroelectricity" title="Pumped-storage hydroelectricity">Pumped hydro</a></li>
+<li><a href="/wiki/Power_station" title="Power station">Power station</a></li>
+<li><a href="/wiki/Power_storage" class="mw-redirect" title="Power storage">Power storage</a></li>
+<li><a href="/wiki/Smart_grid" title="Smart grid">Smart grid</a></li>
+<li><a href="/wiki/Electrical_substation" title="Electrical substation">Substation</a></li>
+<li><a href="/wiki/Super_grid" title="Super grid">Super grid</a></li>
+<li><a href="/wiki/Transformer" title="Transformer">Transformer</a></li>
+<li><a href="/wiki/Transmission_system_operator" title="Transmission system operator">Transmission system operator</a> (TSO)</li>
+<li><a href="/wiki/Transmission_tower" title="Transmission tower">Transmission tower</a></li>
+<li><a href="/wiki/Utility_pole" title="Utility pole">Utility pole</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">
+<div style="padding:0.1em 0;line-height:1.2em;">Protective<br />
+devices</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Arc-fault_circuit_interrupter" title="Arc-fault circuit interrupter">Arc-fault circuit interrupter</a></li>
+<li><a href="/wiki/Earth_leakage_circuit_breaker" title="Earth leakage circuit breaker">Earth leakage circuit breaker</a></li>
+<li><a href="/wiki/Residual-current_device" title="Residual-current device">Residual-current device</a> (GFI)</li>
+<li><a href="/wiki/Power-system_protection" title="Power-system protection">Power-system protection</a></li>
+<li><a href="/wiki/Protective_relay" title="Protective relay">Protective relay</a></li>
+<li><a href="/wiki/Digital_protective_relay" title="Digital protective relay">Digital protective relay</a></li>
+<li><a href="/wiki/Sulfur_hexafluoride_circuit_breaker" title="Sulfur hexafluoride circuit breaker">Sulfur hexafluoride circuit breaker</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">
+<div style="padding:0.1em 0;line-height:1.2em;">Economics<br />
+and policies</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Carbon_offset" title="Carbon offset">Carbon offset</a></li>
+<li><a href="/wiki/Cost_of_electricity_by_source" title="Cost of electricity by source">Cost of electricity by source</a></li>
+<li><a href="/wiki/Ecotax" title="Ecotax">Ecotax</a></li>
+<li><a href="/wiki/Energy_subsidies" title="Energy subsidies">Energy subsidies</a></li>
+<li><a href="/wiki/Feed-in_tariff" title="Feed-in tariff">Feed-in tariff</a></li>
+<li><a href="/wiki/Fossil-fuel_phase-out" class="mw-redirect" title="Fossil-fuel phase-out">Fossil-fuel phase-out</a></li>
+<li><a href="/wiki/Net_metering" title="Net metering">Net metering</a></li>
+<li><a href="/wiki/Pigovian_tax" title="Pigovian tax">Pigovian tax</a></li>
+<li><a href="/wiki/Renewable_Energy_Certificates" class="mw-redirect" title="Renewable Energy Certificates">Renewable Energy Certificates</a></li>
+<li><a href="/wiki/Renewable_energy_payments" class="mw-redirect" title="Renewable energy payments">Renewable energy payments</a></li>
+<li><a href="/wiki/Renewable_energy_policy" class="mw-redirect" title="Renewable energy policy">Renewable energy policy</a></li>
+<li><a href="/wiki/Spark_spread" title="Spark spread">Spark spread</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<dl>
+<dt>Categories</dt>
+<dd><a href="/wiki/Category:Electric_power_distribution" title="Category:Electric power distribution">Electric power distribution</a></dd>
+<dd><a href="/wiki/Category:Electricity_economics" title="Category:Electricity economics">Electricity economics</a></dd>
+<dd><a href="/wiki/Category:Power_station_technology" title="Category:Power station technology">Power station technology</a></dd>
+<dt>Portals</dt>
+<dd><a href="/wiki/Portal:Energy" title="Portal:Energy">Energy</a></dd>
+<dd><a href="/wiki/Portal:Renewable_energy" title="Portal:Renewable energy">Renewable energy</a></dd>
+<dd><a href="/wiki/Portal:Sustainable_development" title="Portal:Sustainable development">Sustainable development</a></dd>
+</dl>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<p><br /></p>
+<table class="plainlinks metadata ambox ambox-notice" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Translation_to_english_arrow.svg/50px-Translation_to_english_arrow.svg.png" width="50" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Translation_to_english_arrow.svg/75px-Translation_to_english_arrow.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Translation_to_english_arrow.svg/100px-Translation_to_english_arrow.svg.png 2x" data-file-width="60" data-file-height="20" /></div>
+</td>
+<td class="mbox-text">
+<div class="NavFrame collapsed" style="border:none;">
+<div class="NavHead" style="background:transparent;text-align:center;padding-right: 3em; font-weight: normal; text-align: left"><span class="mbox-text-span">This article <b>may be expanded with text translated from the <a href="https://de.wikipedia.org/wiki/Asynchrongenerator" class="extiw" title="de:Asynchrongenerator">corresponding article</a> in German</b>.  <i><small>(August 2016)</small></i> <small>Click [show] for important translation instructions.</small>&#160;</span></div>
+<div class="NavContent" style="background:transparent;text-align:left;">
+<ul>
+<li><span class="mbox-text-span"><a rel="nofollow" class="external text" href="https://translate.google.com/translate?&amp;u=https%3A%2F%2Fde.wikipedia.org%2Fwiki%2FAsynchrongenerator&amp;sl=de&amp;tl=en&amp;prev=_t&amp;hl=en">View</a> a machine-translated version of the German article.</span></li>
+<li><span class="mbox-text-span">Google's machine translation is a useful starting point for translations, but translators must revise errors as necessary and confirm that the translation is accurate, rather than simply copy-pasting machine-translated text into the English Wikipedia.</span></li>
+<li><span class="mbox-text-span">Do not translate text that appears unreliable or low-quality. If possible, verify the text with references provided in the foreign-language article.</span></li>
+<li><span class="mbox-text-span">After translating, <code>{{Translated|de|Asynchrongenerator}}</code> must be added to the <a href="/wiki/Talk:Induction_generator" title="Talk:Induction generator">talk page</a> to ensure <a href="/wiki/Wikipedia:Copying_within_Wikipedia" title="Wikipedia:Copying within Wikipedia">copyright compliance</a>.</span></li>
+<li><span class="mbox-text-span">For more guidance, see <a href="/wiki/Wikipedia:Translation" title="Wikipedia:Translation">Wikipedia:Translation</a>.</span></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1277
+Cached time: 20170112225622
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.104 seconds
+Real time usage: 0.170 seconds
+Preprocessor visited node count: 1054/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 41153/2097152 bytes
+Template argument size: 2689/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 2/500
+Lua time usage: 0.036/10.000 seconds
+Lua memory usage: 1.85 MB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  111.372      1 - -total
+ 44.62%   49.691      1 - Template:Reflist
+ 41.86%   46.615      1 - Template:Cite_book
+ 36.34%   40.477      1 - Template:Expand_German
+ 33.55%   37.363      1 - Template:Expand_language
+ 22.63%   25.199      1 - Template:Ambox
+ 19.79%   22.045      2 - Template:Navbox
+ 18.91%   21.065      1 - Template:Electricity_generation
+  6.84%    7.619      1 - Template:Navbox_subgroup
+  6.71%    7.471      1 - Template:DMCA
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:9331066-0!*!0!!en!4!*!math=5 and timestamp 20170112225628 and revision id 759742950
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Induction_generator&amp;oldid=759742950">https://en.wikipedia.org/w/index.php?title=Induction_generator&amp;oldid=759742950</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Electrical_generators" title="Category:Electrical generators">Electrical generators</a></li><li><a href="/wiki/Category:Induction_motors" title="Category:Induction motors">Induction motors</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_to_be_expanded_from_August_2016" title="Category:Articles to be expanded from August 2016">Articles to be expanded from August 2016</a></li><li><a href="/wiki/Category:All_articles_to_be_expanded" title="Category:All articles to be expanded">All articles to be expanded</a></li><li><a href="/wiki/Category:Articles_needing_translation_from_German_Wikipedia" title="Category:Articles needing translation from German Wikipedia">Articles needing translation from German Wikipedia</a></li><li><a href="/wiki/Category:Pages_using_ISBN_magic_links" title="Category:Pages using ISBN magic links">Pages using ISBN magic links</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Induction+generator" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Induction+generator" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Induction_generator"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Induction_generator"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Induction_generator" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Induction_generator&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Induction_generator&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Induction_generator" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Induction_generator" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Induction_generator&amp;oldid=759742950" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Induction_generator&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q752750" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Induction_generator&amp;id=759742950" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Induction+generator">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Induction+generator&amp;returnto=Induction+generator&amp;oldid=759742950&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Induction_generator&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Asynchrongenerator" title="Asynchrongenerator – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%DA%98%D9%86%D8%B1%D8%A7%D8%AA%D9%88%D8%B1_%D8%A7%D9%84%D9%82%D8%A7%DB%8C%DB%8C" title="ژنراتور القایی – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%9C%A0%EB%8F%84_%EB%B0%9C%EC%A0%84%EA%B8%B0" title="유도 발전기 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E8%AA%98%E5%B0%8E%E7%99%BA%E9%9B%BB%E6%A9%9F" title="誘導発電機 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q752750#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 12 January 2017, at 22:56.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Induction_generator&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":51,"wgHostname":"mw1266"});});</script>
+	</body>
+</html>

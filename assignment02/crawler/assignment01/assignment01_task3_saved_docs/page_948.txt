@@ -1,0 +1,1903 @@
+url : https://en.wikipedia.org/wiki/Power_(physics)
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Power (physics) - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Power_(physics)","wgTitle":"Power (physics)","wgCurRevisionId":760696907,"wgRevisionId":760696907,"wgArticleId":24236,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: Uses authors parameter","Use dmy dates from July 2012","Concepts in physics","Power (physics)"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Power_(physics)","wgRelevantArticleId":24236,"wgRequestId":"WH@JuApAEKoAAB7GK4gAAABK","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q25342","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.math.styles":"ready","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.math.scripts","ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.7"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Power_(physics)"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Power_(physics)&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Power_(physics)&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Power_(physics)"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Power_physics rootpage-Power_physics skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Power (physics)</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div role="note" class="hatnote">For other types of power, see <a href="/wiki/Power_(disambiguation)" class="mw-redirect mw-disambig" title="Power (disambiguation)">Power (disambiguation)</a>.</div>
+<table class="infobox" style="width:22em">
+<tr>
+<th scope="row">
+<div style="padding:0.1em 0;line-height:1.2em;">Common symbols</div>
+</th>
+<td><i>P</i></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/SI_unit" class="mw-redirect" title="SI unit">SI&#160;unit</a></th>
+<td><a href="/wiki/Watt" title="Watt">watt</a></td>
+</tr>
+</table>
+<table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%">
+<tr>
+<th style="padding:0.2em 0.4em 0.2em;font-size:145%;line-height:1.2em;padding-left:0.9em;padding-right:0.9em;"><a href="/wiki/Classical_mechanics" title="Classical mechanics">Classical mechanics</a></th>
+</tr>
+<tr>
+<td style="padding:0.2em 0 0.4em"><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y mw-math-element" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mrow class="MJX-TeXAtom-ORD">
+            <mover>
+              <mi>F</mi>
+              <mo stretchy="false">&#x2192;<!-- → --></mo>
+            </mover>
+          </mrow>
+        </mrow>
+        <mo>=</mo>
+        <mi>m</mi>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mrow class="MJX-TeXAtom-ORD">
+            <mover>
+              <mi>a</mi>
+              <mo stretchy="false">&#x2192;<!-- → --></mo>
+            </mover>
+          </mrow>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\vec {F}}=m{\vec {a}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f7b202a8eaba4b424be52bcbaa043727b6ad9860" class="mwe-math-fallback-image-inline mw-math-element" aria-hidden="true" style="vertical-align: -0.338ex; width:8.176ex; height:3.009ex;" alt="{\vec {F}}=m{\vec {a}}" /></span>
+<div style="padding-top:0.2em;line-height:1.2em;font-size:90%;padding:0.6em 0;font-style:italic;"><a href="/wiki/Second_law_of_motion" class="mw-redirect" title="Second law of motion">Second law of motion</a></div>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background:#ddf; display:block;margin-bottom:1.0em;">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/History_of_classical_mechanics" title="History of classical mechanics">History</a></li>
+<li><a href="/wiki/Timeline_of_classical_mechanics" title="Timeline of classical mechanics">Timeline</a></li>
+</ul>
+</div>
+</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf;text-align:center;">Branches</div>
+<div class="NavContent plainlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-top:0.35em;">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Applied_mechanics" title="Applied mechanics">Applied</a></li>
+<li><a href="/wiki/Celestial_mechanics" title="Celestial mechanics">Celestial</a></li>
+<li><a href="/wiki/Continuum_mechanics" title="Continuum mechanics">Continuum</a></li>
+<li><a href="/wiki/Analytical_dynamics" title="Analytical dynamics">Dynamics</a></li>
+<li><a href="/wiki/Kinematics" title="Kinematics">Kinematics</a></li>
+<li><a href="/wiki/Kinetics_(physics)" title="Kinetics (physics)">Kinetics</a></li>
+<li><a href="/wiki/Statics" title="Statics">Statics</a></li>
+<li><a href="/wiki/Statistical_mechanics" title="Statistical mechanics">Statistical</a></li>
+</ul>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf;text-align:center;">Fundamentals</div>
+<div class="NavContent plainlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-top:0.35em;">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Acceleration" title="Acceleration">Acceleration</a></li>
+<li><a href="/wiki/Angular_momentum" title="Angular momentum">Angular momentum</a></li>
+<li><a href="/wiki/Couple_(mechanics)" title="Couple (mechanics)">Couple</a></li>
+<li><a href="/wiki/D%27Alembert%27s_principle" title="D'Alembert's principle">D'Alembert's principle</a></li>
+<li><a href="/wiki/Energy" title="Energy">Energy</a>
+<ul>
+<li><a href="/wiki/Kinetic_energy#Newtonian_kinetic_energy" title="Kinetic energy">kinetic</a></li>
+<li><a href="/wiki/Potential_energy" title="Potential energy">potential</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Force" title="Force">Force</a></li>
+<li><a href="/wiki/Frame_of_reference" title="Frame of reference">Frame of reference</a></li>
+<li><a href="/wiki/Impulse_(physics)" title="Impulse (physics)">Impulse</a></li>
+<li><span class="nowrap"><a href="/wiki/Inertia" title="Inertia">Inertia</a>&#160;/ <a href="/wiki/Moment_of_inertia" title="Moment of inertia">Moment of inertia</a></span></li>
+<li><a href="/wiki/Mass" title="Mass">Mass</a></li>
+<li><br />
+<strong class="selflink">Mechanical power</strong></li>
+<li><a href="/wiki/Work_(physics)" title="Work (physics)">Mechanical work</a></li>
+<li><br />
+<a href="/wiki/Moment_(physics)" title="Moment (physics)">Moment</a></li>
+<li><a href="/wiki/Momentum" title="Momentum">Momentum</a></li>
+<li><a href="/wiki/Space" title="Space">Space</a></li>
+<li><a href="/wiki/Speed" title="Speed">Speed</a></li>
+<li><a href="/wiki/Time" title="Time">Time</a></li>
+<li><a href="/wiki/Torque" title="Torque">Torque</a></li>
+<li><a href="/wiki/Velocity" title="Velocity">Velocity</a></li>
+<li><a href="/wiki/Virtual_work" title="Virtual work">Virtual work</a></li>
+</ul>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf;text-align:center;">Formulations</div>
+<div class="NavContent plainlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-top:0.35em;">
+<ul>
+<li>
+<div style="padding:0.1em 0;line-height:1.2em;"><b><a href="/wiki/Newton%27s_laws_of_motion" title="Newton's laws of motion">Newton's laws of motion</a></b></div>
+</li>
+<li>
+<div style="padding:0.1em 0;line-height:1.2em;"><b><a href="/wiki/Analytical_mechanics" title="Analytical mechanics">Analytical mechanics</a></b>
+<div class="plainlist">
+<ul>
+<li><a href="/wiki/Lagrangian_mechanics" title="Lagrangian mechanics">Lagrangian mechanics</a></li>
+<li><a href="/wiki/Hamiltonian_mechanics" title="Hamiltonian mechanics">Hamiltonian mechanics</a></li>
+<li><a href="/wiki/Routhian_mechanics" title="Routhian mechanics">Routhian mechanics</a></li>
+<li><a href="/wiki/Hamilton%E2%80%93Jacobi_equation" title="Hamilton–Jacobi equation">Hamilton–Jacobi equation</a></li>
+<li><a href="/wiki/Appell%27s_equation_of_motion" title="Appell's equation of motion">Appell's equation of motion</a></li>
+<li><a href="/wiki/Udwadia%E2%80%93Kalaba_equation" title="Udwadia–Kalaba equation">Udwadia–Kalaba equation</a></li>
+<li><a href="/wiki/Koopman%E2%80%93von_Neumann_classical_mechanics" title="Koopman–von Neumann classical mechanics">Koopman–von Neumann mechanics</a></li>
+</ul>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf;text-align:center;">Core topics</div>
+<div class="NavContent plainlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-top:0.35em;">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Damping" class="mw-redirect" title="Damping">Damping</a>&#160;(<a href="/wiki/Damping_ratio" title="Damping ratio">ratio</a>)</li>
+<li><a href="/wiki/Displacement_(vector)" title="Displacement (vector)">Displacement</a></li>
+<li><a href="/wiki/Equations_of_motion" title="Equations of motion">Equations of motion</a></li>
+<li><a href="/wiki/Euler%27s_laws_of_motion" title="Euler's laws of motion"><span class="wrap">Euler's laws of motion</span></a></li>
+<li><a href="/wiki/Fictitious_force" title="Fictitious force">Fictitious force</a></li>
+<li><a href="/wiki/Friction" title="Friction">Friction</a></li>
+<li><a href="/wiki/Harmonic_oscillator" title="Harmonic oscillator">Harmonic oscillator</a></li>
+</ul>
+</div>
+<ul>
+<li><span class="nowrap"><a href="/wiki/Inertial_frame_of_reference" title="Inertial frame of reference">Inertial</a>&#160;/ <a href="/wiki/Non-inertial_reference_frame" title="Non-inertial reference frame">Non-inertial reference frame</a></span></li>
+<li><a href="/wiki/Mechanics_of_planar_particle_motion" title="Mechanics of planar particle motion">Mechanics of planar particle motion</a></li>
+</ul>
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Motion_(physics)" title="Motion (physics)">Motion</a>&#160;(<a href="/wiki/Linear_motion" title="Linear motion">linear</a>)</li>
+<li><a href="/wiki/Newton%27s_law_of_universal_gravitation" title="Newton's law of universal gravitation"><span class="wrap">Newton's law of universal gravitation</span></a></li>
+<li><a href="/wiki/Newton%27s_laws_of_motion" title="Newton's laws of motion">Newton's laws of motion</a></li>
+<li><a href="/wiki/Relative_velocity" title="Relative velocity">Relative velocity</a></li>
+<li><a href="/wiki/Rigid_body" title="Rigid body">Rigid body</a>
+<ul>
+<li><a href="/wiki/Rigid_body_dynamics" title="Rigid body dynamics">dynamics</a></li>
+<li><a href="/wiki/Euler%27s_equations_(rigid_body_dynamics)" title="Euler's equations (rigid body dynamics)">Euler's equations</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Simple_harmonic_motion" title="Simple harmonic motion">Simple harmonic motion</a></li>
+<li><a href="/wiki/Vibration" title="Vibration">Vibration</a></li>
+</ul>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf;text-align:center;"><a href="/wiki/Rotation_around_a_fixed_axis" title="Rotation around a fixed axis">Rotation</a></div>
+<div class="NavContent plainlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-top:0.35em;">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Circular_motion" title="Circular motion">Circular motion</a></li>
+<li><a href="/wiki/Rotating_reference_frame" title="Rotating reference frame">Rotating reference frame</a></li>
+<li><a href="/wiki/Centripetal_force" title="Centripetal force">Centripetal force</a></li>
+<li><a href="/wiki/Centrifugal_force" title="Centrifugal force">Centrifugal force</a>
+<ul>
+<li><a href="/wiki/Reactive_centrifugal_force" title="Reactive centrifugal force">reactive</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Coriolis_force" title="Coriolis force">Coriolis force</a></li>
+<li><a href="/wiki/Pendulum_(mathematics)" title="Pendulum (mathematics)">Pendulum</a></li>
+<li><a href="/wiki/Speed#Tangential_speed" title="Speed">Tangential speed</a></li>
+<li><a href="/wiki/Rotational_speed" title="Rotational speed">Rotational speed</a></li>
+</ul>
+</div>
+<ul>
+<li><a href="/wiki/Angular_acceleration" title="Angular acceleration">Angular acceleration</a>&#160;/ <a href="/wiki/Angular_displacement" title="Angular displacement">displacement</a>&#160;/ <a href="/wiki/Angular_frequency" title="Angular frequency">frequency</a>&#160;/ <a href="/wiki/Angular_velocity" title="Angular velocity">velocity</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf;text-align:center;">Scientists</div>
+<div class="NavContent plainlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-top:0.35em;">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Galileo_Galilei" title="Galileo Galilei">Galileo</a></li>
+<li><a href="/wiki/Isaac_Newton" title="Isaac Newton">Newton</a></li>
+<li><a href="/wiki/Johannes_Kepler" title="Johannes Kepler">Kepler</a></li>
+<li><a href="/wiki/Jeremiah_Horrocks" title="Jeremiah Horrocks">Horrocks</a></li>
+<li><a href="/wiki/Edmond_Halley" title="Edmond Halley">Halley</a></li>
+<li><a href="/wiki/Leonhard_Euler" title="Leonhard Euler">Euler</a></li>
+<li><a href="/wiki/Jean_le_Rond_d%27Alembert" title="Jean le Rond d'Alembert">d'Alembert</a></li>
+<li><a href="/wiki/Alexis_Clairaut" title="Alexis Clairaut">Clairaut</a></li>
+<li><a href="/wiki/Joseph-Louis_Lagrange" title="Joseph-Louis Lagrange">Lagrange</a></li>
+<li><a href="/wiki/Pierre-Simon_Laplace" title="Pierre-Simon Laplace">Laplace</a></li>
+<li><a href="/wiki/William_Rowan_Hamilton" title="William Rowan Hamilton">Hamilton</a></li>
+<li><a href="/wiki/Sim%C3%A9on_Denis_Poisson" title="Siméon Denis Poisson">Poisson</a></li>
+<li><a href="/wiki/Daniel_Bernoulli" title="Daniel Bernoulli">Daniel Bernoulli</a></li>
+<li><a href="/wiki/Johann_Bernoulli" title="Johann Bernoulli">Johann Bernoulli</a></li>
+<li><a href="/wiki/Augustin-Louis_Cauchy" title="Augustin-Louis Cauchy">Cauchy</a></li>
+</ul>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;font-size:115%;padding-top: 0.6em;padding-top:0.15em;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Classical_mechanics" title="Template:Classical mechanics"><abbr title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Classical_mechanics" title="Template talk:Classical mechanics"><abbr title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Classical_mechanics&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<p>In <a href="/wiki/Physics" title="Physics">physics</a>, <b>power</b> is the rate of doing <a href="/wiki/Work_(physics)" title="Work (physics)">work</a>. It is the amount of <a href="/wiki/Energy_(physics)" class="mw-redirect" title="Energy (physics)">energy</a> consumed per unit time. Having no direction, it is a <a href="/wiki/Scalar_(physics)" title="Scalar (physics)">scalar</a> quantity. In the <a href="/wiki/SI_system" class="mw-redirect" title="SI system">SI system</a>, the unit of power is the <a href="/wiki/Joule" title="Joule">joule</a> per second (J/s), known as the <a href="/wiki/Watt" title="Watt">watt</a> in honour of <a href="/wiki/James_Watt" title="James Watt">James Watt</a>, the eighteenth-century developer of the <a href="/wiki/Watt_steam_engine" title="Watt steam engine">steam engine</a>. Another common and traditional measure is <a href="/wiki/Horsepower" title="Horsepower">horsepower</a> (comparing to the power of a horse). Being the rate of work, the equation for power can be written:</p>
+<dl>
+<dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y mw-math-element" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>P</mi>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mi>W</mi>
+            <mi>t</mi>
+          </mfrac>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle P={\frac {W}{t}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/fec5726c4237d3d06289f78a0bd1859081abd5fc" class="mwe-math-fallback-image-inline mw-math-element" aria-hidden="true" style="vertical-align: -1.838ex; width:8.147ex; height:5.343ex;" alt="{\displaystyle P={\frac {W}{t}}}" /></span></dd>
+</dl>
+<p>The <a href="/wiki/Integral" title="Integral">integral</a> of power over time defines the work performed. Because this integral depends on the trajectory of the point of application of the force and torque, this calculation of work is said to be <a href="/wiki/Nonholonomic_system" title="Nonholonomic system">path dependent</a>.</p>
+<p>As a physical concept, power requires both a change in the physical universe and a specified time in which the change occurs. This is distinct from the concept of work, which is only measured in terms of a net change in the state of the physical universe. The same amount of work is done when carrying a load up a flight of stairs whether the person carrying it walks or runs, but more power is needed for running because the work is done in a shorter amount of time.</p>
+<p>The output power of an electric motor is the product of the <a href="/wiki/Torque" title="Torque">torque</a> that the motor generates and the <a href="/wiki/Angular_velocity" title="Angular velocity">angular velocity</a> of its output shaft. The power involved in moving a vehicle is the product of the traction force of the wheels and the velocity of the vehicle. The rate at which a light bulb converts electrical energy into light and heat is measured in watts—the higher the wattage, the more power, or equivalently the more electrical energy is used per unit time.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Units"><span class="tocnumber">1</span> <span class="toctext">Units</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Equations_for_power"><span class="tocnumber">2</span> <span class="toctext">Equations for power</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Average_power"><span class="tocnumber">3</span> <span class="toctext">Average power</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Mechanical_power"><span class="tocnumber">4</span> <span class="toctext">Mechanical power</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Mechanical_advantage"><span class="tocnumber">4.1</span> <span class="toctext">Mechanical advantage</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Electrical_power"><span class="tocnumber">5</span> <span class="toctext">Electrical power</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Peak_power_and_duty_cycle"><span class="tocnumber">6</span> <span class="toctext">Peak power and duty cycle</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Radiant_power"><span class="tocnumber">7</span> <span class="toctext">Radiant power</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#See_also"><span class="tocnumber">8</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#References"><span class="tocnumber">9</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Units">Units</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Power_(physics)&amp;action=edit&amp;section=1" title="Edit section: Units">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The dimension of power is energy divided by time. The <a href="/wiki/International_System_of_Units" title="International System of Units">SI</a> unit of power is the <a href="/wiki/Watt" title="Watt">watt</a> (W), which is equal to one <a href="/wiki/Joule" title="Joule">joule</a> per second. Other units of power include <a href="/wiki/Erg" title="Erg">ergs</a> per second (erg/s), <a href="/wiki/Horsepower" title="Horsepower">horsepower</a> (hp), <a href="/wiki/Horsepower#PS" title="Horsepower">metric horsepower</a> (Pferdestärke (PS) or cheval vapeur (CV)), and <a href="/wiki/Foot-pound_force" class="mw-redirect" title="Foot-pound force">foot-pounds</a> per minute. One horsepower is equivalent to 33,000 <a href="/wiki/Foot-pound_(energy)" title="Foot-pound (energy)">foot-pounds</a> per minute, or the power required to lift 550 <a href="/wiki/Pound_(mass)" title="Pound (mass)">pounds</a> by one foot in one second, and is equivalent to about 746 watts. Other units include <a href="/wiki/DBm" title="DBm">dBm</a>, a relative logarithmic measure with 1 milliwatt as reference; food <a href="/wiki/Calorie" title="Calorie">calories</a> per hour (often referred to as <a href="/wiki/Kilocalorie" class="mw-redirect" title="Kilocalorie">kilocalories</a> per hour); <a href="/wiki/Btu" class="mw-redirect" title="Btu">Btu</a> per hour (Btu/h); and <a href="/wiki/Refrigeration_ton" class="mw-redirect" title="Refrigeration ton">tons of refrigeration</a> (12,000 Btu/h).</p>
+<h2><span class="mw-headline" id="Equations_for_power">Equations for power</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Power_(physics)&amp;action=edit&amp;section=2" title="Edit section: Equations for power">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Power, as a function of time, is the rate at which work is done, so can be expressed by this equation:</p>
+<dl>
+<dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y mw-math-element" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>P</mi>
+        <mo stretchy="false">(</mo>
+        <mi>t</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mi>W</mi>
+            <mi>t</mi>
+          </mfrac>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle P(t)={\frac {W}{t}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2c3dd4d867cb2855d862acf7a500b02dcef565a8" class="mwe-math-fallback-image-inline mw-math-element" aria-hidden="true" style="vertical-align: -1.838ex; width:10.827ex; height:5.343ex;" alt="{\displaystyle P(t)={\frac {W}{t}}}" /></span></dd>
+</dl>
+<p>Because work is a <a href="/wiki/Force" title="Force">force</a> applied over a distance, this can be rewritten as:</p>
+<dl>
+<dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y mw-math-element" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>P</mi>
+        <mo stretchy="false">(</mo>
+        <mi>t</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mi>W</mi>
+            <mi>t</mi>
+          </mfrac>
+        </mrow>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi mathvariant="bold">F</mi>
+                </mrow>
+              </mrow>
+              <mo>&#x22C5;<!-- ⋅ --></mo>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi mathvariant="bold">d</mi>
+                </mrow>
+              </mrow>
+            </mrow>
+            <mi>t</mi>
+          </mfrac>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle P(t)={\frac {W}{t}}={\frac {{\mathbf {F}}\cdot {\mathbf {d}}}{t}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/93c76675e63da7853e68915060a3840b778e193a" class="mwe-math-fallback-image-inline mw-math-element" aria-hidden="true" style="vertical-align: -1.838ex; width:19.65ex; height:5.343ex;" alt="{\displaystyle P(t)={\frac {W}{t}}={\frac {{\mathbf {F}}\cdot {\mathbf {d}}}{t}}}" /></span></dd>
+</dl>
+<p>And with distance per unit time being a velocity, power can likewise be understood as:</p>
+<dl>
+<dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y mw-math-element" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>P</mi>
+        <mo stretchy="false">(</mo>
+        <mi>t</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi mathvariant="bold">F</mi>
+          </mrow>
+        </mrow>
+        <mo>&#x22C5;<!-- ⋅ --></mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi mathvariant="bold">v</mi>
+          </mrow>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle P(t)={\mathbf {F}}\cdot {\mathbf {v}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/782c651e8c0df32e87391cb5e5a0755229ca443b" class="mwe-math-fallback-image-inline mw-math-element" aria-hidden="true" style="vertical-align: -0.838ex; width:12.349ex; height:2.843ex;" alt="{\displaystyle P(t)={\mathbf {F}}\cdot {\mathbf {v}}}" /></span></dd>
+</dl>
+<p>Knowing from <a href="/wiki/Newton%27s_laws_of_motion#Newton.27s_second_law" title="Newton's laws of motion">Newton's 2nd Law</a> that force is mass times acceleration, the expression for power can also be written as:</p>
+<dl>
+<dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y mw-math-element" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>P</mi>
+        <mo stretchy="false">(</mo>
+        <mi>t</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mi>m</mi>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi mathvariant="bold">a</mi>
+          </mrow>
+        </mrow>
+        <mo>&#x22C5;<!-- ⋅ --></mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi mathvariant="bold">v</mi>
+          </mrow>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle P(t)=m{\mathbf {a}}\cdot {\mathbf {v}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7f7554b8bd9a6f05a37abd01641b584c2899f19c" class="mwe-math-fallback-image-inline mw-math-element" aria-hidden="true" style="vertical-align: -0.838ex; width:14.017ex; height:2.843ex;" alt="{\displaystyle P(t)=m{\mathbf {a}}\cdot {\mathbf {v}}}" /></span></dd>
+</dl>
+<p>Power will change over time as velocity changes due to acceleration. Knowing that acceleration is the time rate of change of velocity, this can then be written:</p>
+<dl>
+<dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y mw-math-element" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>P</mi>
+        <mo stretchy="false">(</mo>
+        <mi>t</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mi>m</mi>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi mathvariant="bold">v</mi>
+          </mrow>
+        </mrow>
+        <mo>&#x22C5;<!-- ⋅ --></mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mi>d</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi mathvariant="bold">v</mi>
+                </mrow>
+              </mrow>
+            </mrow>
+            <mrow>
+              <mi>d</mi>
+              <mi>t</mi>
+            </mrow>
+          </mfrac>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle P(t)=m{\mathbf {v}}\cdot {\frac {d{\mathbf {v}}}{dt}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5b4acfede35468fc43cd4d7e05738dc86e05ee0a" class="mwe-math-fallback-image-inline mw-math-element" aria-hidden="true" style="vertical-align: -2.005ex; width:16.191ex; height:5.509ex;" alt="{\displaystyle P(t)=m{\mathbf {v}}\cdot {\frac {d{\mathbf {v}}}{dt}}}" /></span></dd>
+</dl>
+<p>Comparing with the equation for <a href="/wiki/Kinetic_energy" title="Kinetic energy">kinetic energy</a>:</p>
+<dl>
+<dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y mw-math-element" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>E</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mtext>k</mtext>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mstyle displaystyle="false" scriptlevel="0">
+            <mfrac>
+              <mn>1</mn>
+              <mn>2</mn>
+            </mfrac>
+          </mstyle>
+        </mrow>
+        <mi>m</mi>
+        <msup>
+          <mi>v</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msup>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle E_{\text{k}}={\tfrac {1}{2}}mv^{2}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/82c6f8ceda1650271df82f27287811c32c629a68" class="mwe-math-fallback-image-inline mw-math-element" aria-hidden="true" style="vertical-align: -1.171ex; width:11.858ex; height:3.509ex;" alt="E_{\text{k}}={\tfrac {1}{2}}mv^{2}" /></span></dd>
+</dl>
+<p>It can be seen from the previous equation that power is mass times a velocity term times another velocity term divided by time. This shows how power is an amount of energy consumed per unit time.</p>
+<h2><span class="mw-headline" id="Average_power">Average power</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Power_(physics)&amp;action=edit&amp;section=3" title="Edit section: Average power">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>As a simple example, burning a kilogram of <a href="/wiki/Coal" title="Coal">coal</a> releases much more energy than does detonating a kilogram of <a href="/wiki/Trinitrotoluene" title="Trinitrotoluene">TNT</a>,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> but because the TNT reaction releases energy much more quickly, it delivers far more power than the coal. If Δ<i>W</i> is the amount of <a href="/wiki/Mechanical_work" class="mw-redirect" title="Mechanical work">work</a> performed during a period of <a href="/wiki/Time" title="Time">time</a> of duration Δ<i>t</i>, the <b>average power</b> <i>P</i><sub>avg</sub> over that period is given by the formula</p>
+<dl>
+<dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y mw-math-element" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>P</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mrow class="MJX-TeXAtom-ORD">
+              <mi mathvariant="normal">a</mi>
+              <mi mathvariant="normal">v</mi>
+              <mi mathvariant="normal">g</mi>
+            </mrow>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mi mathvariant="normal">&#x0394;<!-- Δ --></mi>
+              <mi>W</mi>
+            </mrow>
+            <mrow>
+              <mi mathvariant="normal">&#x0394;<!-- Δ --></mi>
+              <mi>t</mi>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mspace width="thinmathspace" />
+        <mo>.</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle P_{\mathrm {avg} }={\frac {\Delta W}{\Delta t}}\,.}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/455f380880674f3107ec858e770b894d74bd9f1b" class="mwe-math-fallback-image-inline mw-math-element" aria-hidden="true" style="vertical-align: -2.005ex; width:13.651ex; height:5.509ex;" alt="&#10;P_\mathrm{avg} = \frac{\Delta W}{\Delta t}\,.&#10;" /></span></dd>
+</dl>
+<p>It is the average amount of work done or energy converted per unit of time. The average power is often simply called "power" when the context makes it clear.</p>
+<p>The <b>instantaneous power</b> is then the limiting value of the average power as the time interval Δ<i>t</i> approaches zero.</p>
+<dl>
+<dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y mw-math-element" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>P</mi>
+        <mo>=</mo>
+        <munder>
+          <mo movablelimits="true" form="prefix">lim</mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi mathvariant="normal">&#x0394;<!-- Δ --></mi>
+            <mi>t</mi>
+            <mo stretchy="false">&#x2192;<!-- → --></mo>
+            <mn>0</mn>
+          </mrow>
+        </munder>
+        <msub>
+          <mi>P</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mrow class="MJX-TeXAtom-ORD">
+              <mi mathvariant="normal">a</mi>
+              <mi mathvariant="normal">v</mi>
+              <mi mathvariant="normal">g</mi>
+            </mrow>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <munder>
+          <mo movablelimits="true" form="prefix">lim</mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi mathvariant="normal">&#x0394;<!-- Δ --></mi>
+            <mi>t</mi>
+            <mo stretchy="false">&#x2192;<!-- → --></mo>
+            <mn>0</mn>
+          </mrow>
+        </munder>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mi mathvariant="normal">&#x0394;<!-- Δ --></mi>
+              <mi>W</mi>
+            </mrow>
+            <mrow>
+              <mi mathvariant="normal">&#x0394;<!-- Δ --></mi>
+              <mi>t</mi>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi mathvariant="normal">d</mi>
+              </mrow>
+              <mi>W</mi>
+            </mrow>
+            <mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi mathvariant="normal">d</mi>
+              </mrow>
+              <mi>t</mi>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mspace width="thinmathspace" />
+        <mo>.</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle P=\lim _{\Delta t\rightarrow 0}P_{\mathrm {avg} }=\lim _{\Delta t\rightarrow 0}{\frac {\Delta W}{\Delta t}}={\frac {\mathrm {d} W}{\mathrm {d} t}}\,.}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d0dcf814690d8454ab77c5a19c9133e0ab545452" class="mwe-math-fallback-image-inline mw-math-element" aria-hidden="true" style="vertical-align: -2.171ex; width:35.898ex; height:5.676ex;" alt="&#10;P = \lim _{\Delta t\rightarrow 0} P_\mathrm{avg} = \lim _{\Delta t\rightarrow 0} \frac{\Delta W}{\Delta t} =  \frac{\mathrm{d}W}{\mathrm{d}t}\,.&#10;" /></span></dd>
+</dl>
+<p>In the case of constant power <i>P</i>, the amount of work performed during a period of duration <i>T</i> is given by:</p>
+<dl>
+<dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y mw-math-element" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>W</mi>
+        <mo>=</mo>
+        <mi>P</mi>
+        <mi>t</mi>
+        <mspace width="thinmathspace" />
+        <mo>.</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle W=Pt\,.}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6d50d86e80a80bf3e369e53b7fd449fa16b4fa39" class="mwe-math-fallback-image-inline mw-math-element" aria-hidden="true" style="vertical-align: -0.338ex; width:9.205ex; height:2.176ex;" alt="{\displaystyle W=Pt\,.}" /></span></dd>
+</dl>
+<p>In the context of energy conversion, it is more customary to use the symbol <i>E</i> rather than <i>W</i>.</p>
+<h2><span class="mw-headline" id="Mechanical_power">Mechanical power</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Power_(physics)&amp;action=edit&amp;section=4" title="Edit section: Mechanical power">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Horsepower_plain.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Horsepower_plain.svg/220px-Horsepower_plain.svg.png" width="220" height="127" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Horsepower_plain.svg/330px-Horsepower_plain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Horsepower_plain.svg/440px-Horsepower_plain.svg.png 2x" data-file-width="716" data-file-height="414" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Horsepower_plain.svg" class="internal" title="Enlarge"></a></div>
+One <i>metric horsepower</i> is needed to lift 75&#160;<a href="/wiki/Kilogram" title="Kilogram">kilograms</a> by 1&#160;<a href="/wiki/Meter" class="mw-redirect" title="Meter">meter</a> in 1&#160;<a href="/wiki/Second" title="Second">second</a>.</div>
+</div>
+</div>
+<p>Power in mechanical systems is the combination of forces and movement. In particular, power is the product of a force on an object and the object's velocity, or the product of a torque on a shaft and the shaft's angular velocity.</p>
+<p>Mechanical power is also described as the time derivative of work. In <a href="/wiki/Mechanics" title="Mechanics">mechanics</a>, the <a href="/wiki/Mechanical_work" class="mw-redirect" title="Mechanical work">work</a> done by a force <b>F</b> on an object that travels along a curve <i>C</i> is given by the <a href="/wiki/Line_integral" title="Line integral">line integral</a>:</p>
+<dl>
+<dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y mw-math-element" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>W</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>C</mi>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <msub>
+          <mo>&#x222B;<!-- ∫ --></mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>C</mi>
+          </mrow>
+        </msub>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi mathvariant="bold">F</mi>
+          </mrow>
+        </mrow>
+        <mo>&#x22C5;<!-- ⋅ --></mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi mathvariant="bold">v</mi>
+          </mrow>
+        </mrow>
+        <mspace width="thinmathspace" />
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="normal">d</mi>
+        </mrow>
+        <mi>t</mi>
+        <mo>=</mo>
+        <msub>
+          <mo>&#x222B;<!-- ∫ --></mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>C</mi>
+          </mrow>
+        </msub>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi mathvariant="bold">F</mi>
+          </mrow>
+        </mrow>
+        <mo>&#x22C5;<!-- ⋅ --></mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="normal">d</mi>
+        </mrow>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi mathvariant="bold">x</mi>
+          </mrow>
+        </mrow>
+        <mo>,</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle W_{C}=\int _{C}{\mathbf {F}}\cdot {\mathbf {v}}\,\mathrm {d} t=\int _{C}{\mathbf {F}}\cdot \mathrm {d} {\mathbf {x}},}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/de80b3a5e53decc4b2e2da831ca13785ebd7d731" class="mwe-math-fallback-image-inline mw-math-element" aria-hidden="true" style="vertical-align: -2.338ex; width:30.377ex; height:5.843ex;" alt="W_C = \int_{C}\bold{F}\cdot \bold{v}\,\mathrm{d}t =\int_{C} \bold{F} \cdot \mathrm{d}\bold{x}," /></span></dd>
+</dl>
+<p>where <b>x</b> defines the path <i>C</i> and <b>v</b> is the velocity along this path.</p>
+<p>If the force <b>F</b> is derivable from a potential (<a href="/wiki/Conservative_force" title="Conservative force">conservative</a>), then applying the <a href="/wiki/Gradient_theorem" title="Gradient theorem">gradient theorem</a> (and remembering that force is the negative of the <a href="/wiki/Gradient" title="Gradient">gradient</a> of the potential energy) yields:</p>
+<dl>
+<dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y mw-math-element" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>W</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>C</mi>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <mi>U</mi>
+        <mo stretchy="false">(</mo>
+        <mi>B</mi>
+        <mo stretchy="false">)</mo>
+        <mo>&#x2212;<!-- − --></mo>
+        <mi>U</mi>
+        <mo stretchy="false">(</mo>
+        <mi>A</mi>
+        <mo stretchy="false">)</mo>
+        <mo>,</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle W_{C}=U(B)-U(A),}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/de7f173386af5e48cd27e18df72caf4949be4ace" class="mwe-math-fallback-image-inline mw-math-element" aria-hidden="true" style="vertical-align: -0.838ex; width:21.084ex; height:2.843ex;" alt="W_C = U(B)-U(A)," /></span></dd>
+</dl>
+<p>where <i>A</i> and <i>B</i> are the beginning and end of the path along which the work was done.</p>
+<p>The power at any point along the curve <i>C</i> is the time derivative</p>
+<dl>
+<dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y mw-math-element" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>P</mi>
+        <mo stretchy="false">(</mo>
+        <mi>t</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi mathvariant="normal">d</mi>
+              </mrow>
+              <mi>W</mi>
+            </mrow>
+            <mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi mathvariant="normal">d</mi>
+              </mrow>
+              <mi>t</mi>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi mathvariant="bold">F</mi>
+          </mrow>
+        </mrow>
+        <mo>&#x22C5;<!-- ⋅ --></mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi mathvariant="bold">v</mi>
+          </mrow>
+        </mrow>
+        <mo>=</mo>
+        <mo>&#x2212;<!-- − --></mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi mathvariant="normal">d</mi>
+              </mrow>
+              <mi>U</mi>
+            </mrow>
+            <mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi mathvariant="normal">d</mi>
+              </mrow>
+              <mi>t</mi>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mo>.</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle P(t)={\frac {\mathrm {d} W}{\mathrm {d} t}}={\mathbf {F}}\cdot {\mathbf {v}}=-{\frac {\mathrm {d} U}{\mathrm {d} t}}.}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f8619b9e69edd702533527fb829f6d4a24f4d57a" class="mwe-math-fallback-image-inline mw-math-element" aria-hidden="true" style="vertical-align: -2.005ex; width:29.56ex; height:5.509ex;" alt="P(t) = \frac{\mathrm{d}W}{\mathrm{d}t}=\bold{F}\cdot \bold{v}=-\frac{\mathrm{d}U}{\mathrm{d}t}." /></span></dd>
+</dl>
+<p>In one dimension, this can be simplified to:</p>
+<dl>
+<dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y mw-math-element" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>P</mi>
+        <mo stretchy="false">(</mo>
+        <mi>t</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mi>F</mi>
+        <mo>&#x22C5;<!-- ⋅ --></mo>
+        <mi>v</mi>
+        <mo>.</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle P(t)=F\cdot v.}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2227df6ce4046db4725421ce2330b7543ca1362e" class="mwe-math-fallback-image-inline mw-math-element" aria-hidden="true" style="vertical-align: -0.838ex; width:12.781ex; height:2.843ex;" alt="P(t) = F\cdot v." /></span></dd>
+</dl>
+<p>In rotational systems, power is the product of the <a href="/wiki/Torque" title="Torque">torque</a> <var>τ</var> and <a href="/wiki/Angular_velocity" title="Angular velocity">angular velocity</a> <var>ω</var>,</p>
+<dl>
+<dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y mw-math-element" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>P</mi>
+        <mo stretchy="false">(</mo>
+        <mi>t</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="bold-italic">&#x03C4;<!-- τ --></mi>
+        </mrow>
+        <mo>&#x22C5;<!-- ⋅ --></mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="bold-italic">&#x03C9;<!-- ω --></mi>
+        </mrow>
+        <mo>,</mo>
+        <mspace width="thinmathspace" />
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle P(t)={\boldsymbol {\tau }}\cdot {\boldsymbol {\omega }},\,}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7ed5841025dacf1e1cb61982f802915e40d73360" class="mwe-math-fallback-image-inline mw-math-element" aria-hidden="true" style="vertical-align: -0.838ex; width:13.387ex; height:2.843ex;" alt="P(t) = \boldsymbol{\tau} \cdot \boldsymbol{\omega}, \," /></span></dd>
+</dl>
+<p>where <b>ω</b> measured in radians per second. The <span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y mw-math-element" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mo>&#x22C5;<!-- ⋅ --></mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \cdot }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ba2c023bad1bd39ed49080f729cbf26bc448c9ba" class="mwe-math-fallback-image-inline mw-math-element" aria-hidden="true" style="vertical-align: 0.418ex; margin-bottom: -0.589ex; width:0.657ex; height:1.176ex;" alt="\cdot " /></span> represents <a href="/wiki/Scalar_product" class="mw-redirect" title="Scalar product">scalar product</a>.</p>
+<p>In fluid power systems such as hydraulic actuators, power is given by</p>
+<dl>
+<dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y mw-math-element" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>P</mi>
+        <mo stretchy="false">(</mo>
+        <mi>t</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mi>p</mi>
+        <mi>Q</mi>
+        <mo>,</mo>
+        <mspace width="negativethinmathspace" />
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle P(t)=pQ,\!}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/bad7df581b30910a4b92a03364ab31b5ef2db238" class="mwe-math-fallback-image-inline mw-math-element" aria-hidden="true" style="vertical-align: -0.838ex; margin-right: -0.229ex; width:11.073ex; height:2.843ex;" alt=" P(t) = pQ, \!" /></span></dd>
+</dl>
+<p>where <i>p</i> is <a href="/wiki/Pressure" title="Pressure">pressure</a> in <a href="/wiki/Pascal_(unit)" title="Pascal (unit)">pascals</a>, or N/m<sup>2</sup> and <i>Q</i> is <a href="/wiki/Volumetric_flow_rate" title="Volumetric flow rate">volumetric flow rate</a> in m<sup>3</sup>/s in SI units.</p>
+<h3><span class="mw-headline" id="Mechanical_advantage">Mechanical advantage</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Power_(physics)&amp;action=edit&amp;section=5" title="Edit section: Mechanical advantage">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>If a mechanical system has no losses, then the input power must equal the output power. This provides a simple formula for the <a href="/wiki/Mechanical_advantage" title="Mechanical advantage">mechanical advantage</a> of the system.</p>
+<p>Let the input power to a device be a force <i>F<sub>A</sub></i> acting on a point that moves with velocity <i>v<sub>A</sub></i> and the output power be a force <i>F<sub>B</sub></i> acts on a point that moves with velocity <i>v<sub>B</sub></i>. If there are no losses in the system, then</p>
+<dl>
+<dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y mw-math-element" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>P</mi>
+        <mo>=</mo>
+        <msub>
+          <mi>F</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>B</mi>
+          </mrow>
+        </msub>
+        <msub>
+          <mi>v</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>B</mi>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <msub>
+          <mi>F</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>A</mi>
+          </mrow>
+        </msub>
+        <msub>
+          <mi>v</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>A</mi>
+          </mrow>
+        </msub>
+        <mo>,</mo>
+        <mspace width="negativethinmathspace" />
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle P=F_{B}v_{B}=F_{A}v_{A},\!}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f50219d0e34ac763886d2bac38ea12f7e0536852" class="mwe-math-fallback-image-inline mw-math-element" aria-hidden="true" style="vertical-align: -0.671ex; margin-right: -0.229ex; width:19.678ex; height:2.509ex;" alt="P = F_B v_B = F_A v_A, \!" /></span></dd>
+</dl>
+<p>and the <a href="/wiki/Mechanical_advantage" title="Mechanical advantage">mechanical advantage</a> of the system (output force per input force) is given by</p>
+<dl>
+<dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y mw-math-element" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="normal">M</mi>
+          <mi mathvariant="normal">A</mi>
+        </mrow>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <msub>
+              <mi>F</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi>B</mi>
+              </mrow>
+            </msub>
+            <msub>
+              <mi>F</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi>A</mi>
+              </mrow>
+            </msub>
+          </mfrac>
+        </mrow>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <msub>
+              <mi>v</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi>A</mi>
+              </mrow>
+            </msub>
+            <msub>
+              <mi>v</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi>B</mi>
+              </mrow>
+            </msub>
+          </mfrac>
+        </mrow>
+        <mo>.</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \mathrm {MA} ={\frac {F_{B}}{F_{A}}}={\frac {v_{A}}{v_{B}}}.}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b451b90287cc8af868340549cfbd46bed5098e23" class="mwe-math-fallback-image-inline mw-math-element" aria-hidden="true" style="vertical-align: -2.338ex; width:18.059ex; height:5.843ex;" alt=" \mathrm{MA} = \frac{F_B}{F_A} = \frac{v_A}{v_B}. " /></span></dd>
+</dl>
+<p>The similar relationship is obtained for rotating systems, where <i>T<sub>A</sub></i> and <i>ω<sub>A</sub></i> are the torque and angular velocity of the input and <i>T<sub>B</sub></i> and <i>ω<sub>B</sub></i> are the torque and angular velocity of the output. If there are no losses in the system, then</p>
+<dl>
+<dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y mw-math-element" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>P</mi>
+        <mo>=</mo>
+        <msub>
+          <mi>T</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>A</mi>
+          </mrow>
+        </msub>
+        <msub>
+          <mi>&#x03C9;<!-- ω --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>A</mi>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <msub>
+          <mi>T</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>B</mi>
+          </mrow>
+        </msub>
+        <msub>
+          <mi>&#x03C9;<!-- ω --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>B</mi>
+          </mrow>
+        </msub>
+        <mo>,</mo>
+        <mspace width="negativethinmathspace" />
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle P=T_{A}\omega _{A}=T_{B}\omega _{B},\!}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/aef5e642e64d45146af64f196bf4230a8101071d" class="mwe-math-fallback-image-inline mw-math-element" aria-hidden="true" style="vertical-align: -0.671ex; margin-right: -0.229ex; width:20.04ex; height:2.509ex;" alt="P=T_{A}\omega _{A}=T_{B}\omega _{B},\!" /></span></dd>
+</dl>
+<p>which yields the <a href="/wiki/Mechanical_advantage" title="Mechanical advantage">mechanical advantage</a></p>
+<dl>
+<dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y mw-math-element" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="normal">M</mi>
+          <mi mathvariant="normal">A</mi>
+        </mrow>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <msub>
+              <mi>T</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi>B</mi>
+              </mrow>
+            </msub>
+            <msub>
+              <mi>T</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi>A</mi>
+              </mrow>
+            </msub>
+          </mfrac>
+        </mrow>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <msub>
+              <mi>&#x03C9;<!-- ω --></mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi>A</mi>
+              </mrow>
+            </msub>
+            <msub>
+              <mi>&#x03C9;<!-- ω --></mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi>B</mi>
+              </mrow>
+            </msub>
+          </mfrac>
+        </mrow>
+        <mo>.</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \mathrm {MA} ={\frac {T_{B}}{T_{A}}}={\frac {\omega _{A}}{\omega _{B}}}.}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/81d4992a517582a895c0f8d2a92f6ba33b42622a" class="mwe-math-fallback-image-inline mw-math-element" aria-hidden="true" style="vertical-align: -2.338ex; width:18.241ex; height:5.843ex;" alt=" \mathrm{MA} = \frac{T_B}{T_A} = \frac{\omega_A}{\omega_B}." /></span></dd>
+</dl>
+<p>These relations are important because they define the maximum performance of a device in terms of <a href="/wiki/Velocity_ratio" class="mw-redirect" title="Velocity ratio">velocity ratios</a> determined by its physical dimensions. See for example <a href="/wiki/Gear_ratio" class="mw-redirect" title="Gear ratio">gear ratios</a>.</p>
+<h2><span class="mw-headline" id="Electrical_power">Electrical power</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Power_(physics)&amp;action=edit&amp;section=6" title="Edit section: Electrical power">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Ansel_Adams_-_National_Archives_79-AAB-02.jpg" class="image"><img alt="Ansel Adams photograph of electrical wires of the Boulder Dam Power Units" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/39/Ansel_Adams_-_National_Archives_79-AAB-02.jpg/220px-Ansel_Adams_-_National_Archives_79-AAB-02.jpg" width="220" height="157" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/39/Ansel_Adams_-_National_Archives_79-AAB-02.jpg/330px-Ansel_Adams_-_National_Archives_79-AAB-02.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/39/Ansel_Adams_-_National_Archives_79-AAB-02.jpg/440px-Ansel_Adams_-_National_Archives_79-AAB-02.jpg 2x" data-file-width="3000" data-file-height="2138" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Ansel_Adams_-_National_Archives_79-AAB-02.jpg" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Ansel_Adams" title="Ansel Adams">Ansel Adams</a> photograph of electrical wires of the Boulder Dam Power Units, 1941–1942</div>
+</div>
+</div>
+<div role="note" class="hatnote">Main article: <a href="/wiki/Electric_power" title="Electric power">Electric power</a></div>
+<p>The instantaneous electrical power <i>P</i> delivered to a component is given by</p>
+<dl>
+<dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y mw-math-element" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>P</mi>
+        <mo stretchy="false">(</mo>
+        <mi>t</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mi>I</mi>
+        <mo stretchy="false">(</mo>
+        <mi>t</mi>
+        <mo stretchy="false">)</mo>
+        <mo>&#x22C5;<!-- ⋅ --></mo>
+        <mi>V</mi>
+        <mo stretchy="false">(</mo>
+        <mi>t</mi>
+        <mo stretchy="false">)</mo>
+        <mspace width="thinmathspace" />
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle P(t)=I(t)\cdot V(t)\,}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a63da9b8d493cef905325d5ba1a110ad174817a1" class="mwe-math-fallback-image-inline mw-math-element" aria-hidden="true" style="vertical-align: -0.838ex; width:17.962ex; height:2.843ex;" alt="P(t)=I(t)\cdot V(t)\," /></span></dd>
+</dl>
+<p>where</p>
+<dl>
+<dd><i>P</i>(<i>t</i>) is the instantaneous power, measured in <a href="/wiki/Watt" title="Watt">watts</a> (<a href="/wiki/Joule" title="Joule">joules</a> per <a href="/wiki/Second" title="Second">second</a>)</dd>
+<dd><i>V</i>(<i>t</i>) is the <a href="/wiki/Potential_difference" class="mw-redirect" title="Potential difference">potential difference</a> (or voltage drop) across the component, measured in <a href="/wiki/Volt" title="Volt">volts</a></dd>
+<dd><i>I</i>(<i>t</i>) is the <a href="/wiki/Electric_current" title="Electric current">current</a> through it, measured in <a href="/wiki/Ampere" title="Ampere">amperes</a></dd>
+</dl>
+<p>If the component is a <a href="/wiki/Resistor" title="Resistor">resistor</a> with time-invariant <a href="/wiki/Voltage" title="Voltage">voltage</a> to <a href="/wiki/Electric_current" title="Electric current">current</a> ratio, then:</p>
+<dl>
+<dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y mw-math-element" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>P</mi>
+        <mo>=</mo>
+        <mi>I</mi>
+        <mo>&#x22C5;<!-- ⋅ --></mo>
+        <mi>V</mi>
+        <mo>=</mo>
+        <msup>
+          <mi>I</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msup>
+        <mo>&#x22C5;<!-- ⋅ --></mo>
+        <mi>R</mi>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <msup>
+              <mi>V</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mn>2</mn>
+              </mrow>
+            </msup>
+            <mi>R</mi>
+          </mfrac>
+        </mrow>
+        <mspace width="thinmathspace" />
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle P=I\cdot V=I^{2}\cdot R={\frac {V^{2}}{R}}\,}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7736ec287e9ea7ab973f183bf6e979c71e2099e0" class="mwe-math-fallback-image-inline mw-math-element" aria-hidden="true" style="vertical-align: -2.005ex; width:25.717ex; height:5.843ex;" alt="&#10;P=I \cdot V = I^2 \cdot R = \frac{V^2}{R} \,&#10;" /></span></dd>
+</dl>
+<p>where</p>
+<dl>
+<dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y mw-math-element" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>R</mi>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mi>V</mi>
+            <mi>I</mi>
+          </mfrac>
+        </mrow>
+        <mspace width="thinmathspace" />
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle R={\frac {V}{I}}\,}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/767005bc6c16a17302411767ed6b5cc2a9035189" class="mwe-math-fallback-image-inline mw-math-element" aria-hidden="true" style="vertical-align: -2.005ex; width:7.904ex; height:5.509ex;" alt="&#10;R = \frac{V}{I} \,&#10;" /></span></dd>
+</dl>
+<p>is the <a href="/wiki/Electrical_resistance" class="mw-redirect" title="Electrical resistance">resistance</a>, measured in <a href="/wiki/Ohm" title="Ohm">ohms</a>.</p>
+<h2><span class="mw-headline" id="Peak_power_and_duty_cycle">Peak power and duty cycle</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Power_(physics)&amp;action=edit&amp;section=7" title="Edit section: Peak power and duty cycle">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Peak-power-average-power-tau-T.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Peak-power-average-power-tau-T.png/220px-Peak-power-average-power-tau-T.png" width="220" height="179" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Peak-power-average-power-tau-T.png/330px-Peak-power-average-power-tau-T.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Peak-power-average-power-tau-T.png/440px-Peak-power-average-power-tau-T.png 2x" data-file-width="1034" data-file-height="839" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Peak-power-average-power-tau-T.png" class="internal" title="Enlarge"></a></div>
+In a train of identical pulses, the instantaneous power is a periodic function of time. The ratio of the pulse duration to the period is equal to the ratio of the average power to the peak power. It is also called the duty cycle (see text for definitions).</div>
+</div>
+</div>
+<p>In the case of a periodic signal <span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y mw-math-element" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>s</mi>
+        <mo stretchy="false">(</mo>
+        <mi>t</mi>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle s(t)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c484de351ba40ccb9a5ad522c29c1aac5686c0df" class="mwe-math-fallback-image-inline mw-math-element" aria-hidden="true" style="vertical-align: -0.838ex; width:3.781ex; height:2.843ex;" alt="s(t)" /></span> of period <span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y mw-math-element" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>T</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle T}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ec7200acd984a1d3a3d7dc455e262fbe54f7f6e0" class="mwe-math-fallback-image-inline mw-math-element" aria-hidden="true" style="vertical-align: -0.338ex; width:1.647ex; height:2.176ex;" alt="T" /></span>, like a train of identical pulses, the instantaneous power <span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y mw-math-element" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>p</mi>
+        <mo stretchy="false">(</mo>
+        <mi>t</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo stretchy="false">|</mo>
+        </mrow>
+        <mi>s</mi>
+        <mo stretchy="false">(</mo>
+        <mi>t</mi>
+        <mo stretchy="false">)</mo>
+        <msup>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo stretchy="false">|</mo>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msup>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle p(t)=|s(t)|^{2}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ebdedfa84cbe92427e4f1242f5008b48fc99f004" class="mwe-math-fallback-image-inline mw-math-element" aria-hidden="true" style="vertical-align: -0.838ex; margin-left: -0.079ex; width:13.205ex; height:3.343ex;" alt="p(t) = |s(t)|^2" /></span> is also a periodic function of period <span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y mw-math-element" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>T</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle T}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ec7200acd984a1d3a3d7dc455e262fbe54f7f6e0" class="mwe-math-fallback-image-inline mw-math-element" aria-hidden="true" style="vertical-align: -0.338ex; width:1.647ex; height:2.176ex;" alt="T" /></span>. The <i>peak power</i> is simply defined by:</p>
+<dl>
+<dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y mw-math-element" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>P</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>0</mn>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <mo movablelimits="true" form="prefix">max</mo>
+        <mo stretchy="false">[</mo>
+        <mi>p</mi>
+        <mo stretchy="false">(</mo>
+        <mi>t</mi>
+        <mo stretchy="false">)</mo>
+        <mo stretchy="false">]</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle P_{0}=\max[p(t)]}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/682f680c5b5724efc29d301241c8ed9284f5186e" class="mwe-math-fallback-image-inline mw-math-element" aria-hidden="true" style="vertical-align: -0.838ex; width:15.205ex; height:2.843ex;" alt="&#10;P_0 = \max [p(t)]&#10;" /></span>.</dd>
+</dl>
+<p>The peak power is not always readily measurable, however, and the measurement of the average power <span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y mw-math-element" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>P</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mrow class="MJX-TeXAtom-ORD">
+              <mi mathvariant="normal">a</mi>
+              <mi mathvariant="normal">v</mi>
+              <mi mathvariant="normal">g</mi>
+            </mrow>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle P_{\mathrm {avg} }}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ee679bd7ad9a5cabddc68c33d503d16cfe7e4076" class="mwe-math-fallback-image-inline mw-math-element" aria-hidden="true" style="vertical-align: -1.005ex; width:4.269ex; height:2.843ex;" alt="P_\mathrm{avg}" /></span> is more commonly performed by an instrument. If one defines the energy per pulse as:</p>
+<dl>
+<dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y mw-math-element" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>&#x03F5;<!-- ϵ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mrow class="MJX-TeXAtom-ORD">
+              <mi mathvariant="normal">p</mi>
+              <mi mathvariant="normal">u</mi>
+              <mi mathvariant="normal">l</mi>
+              <mi mathvariant="normal">s</mi>
+              <mi mathvariant="normal">e</mi>
+            </mrow>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <msubsup>
+          <mo>&#x222B;<!-- ∫ --></mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>0</mn>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>T</mi>
+          </mrow>
+        </msubsup>
+        <mi>p</mi>
+        <mo stretchy="false">(</mo>
+        <mi>t</mi>
+        <mo stretchy="false">)</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="normal">d</mi>
+        </mrow>
+        <mi>t</mi>
+        <mspace width="thinmathspace" />
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \epsilon _{\mathrm {pulse} }=\int _{0}^{T}p(t)\mathrm {d} t\,}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/43beefbd838d3412ef6988945089dadf3f122c38" class="mwe-math-fallback-image-inline mw-math-element" aria-hidden="true" style="vertical-align: -2.338ex; width:18.655ex; height:6.343ex;" alt="&#10;\epsilon_\mathrm{pulse} = \int_{0}^{T}p(t) \mathrm{d}t \,&#10;" /></span></dd>
+</dl>
+<p>then the average power is:</p>
+<dl>
+<dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y mw-math-element" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>P</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mrow class="MJX-TeXAtom-ORD">
+              <mi mathvariant="normal">a</mi>
+              <mi mathvariant="normal">v</mi>
+              <mi mathvariant="normal">g</mi>
+            </mrow>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mn>1</mn>
+            <mi>T</mi>
+          </mfrac>
+        </mrow>
+        <msubsup>
+          <mo>&#x222B;<!-- ∫ --></mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>0</mn>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>T</mi>
+          </mrow>
+        </msubsup>
+        <mi>p</mi>
+        <mo stretchy="false">(</mo>
+        <mi>t</mi>
+        <mo stretchy="false">)</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="normal">d</mi>
+        </mrow>
+        <mi>t</mi>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <msub>
+              <mi>&#x03F5;<!-- ϵ --></mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi mathvariant="normal">p</mi>
+                  <mi mathvariant="normal">u</mi>
+                  <mi mathvariant="normal">l</mi>
+                  <mi mathvariant="normal">s</mi>
+                  <mi mathvariant="normal">e</mi>
+                </mrow>
+              </mrow>
+            </msub>
+            <mi>T</mi>
+          </mfrac>
+        </mrow>
+        <mspace width="thinmathspace" />
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle P_{\mathrm {avg} }={\frac {1}{T}}\int _{0}^{T}p(t)\mathrm {d} t={\frac {\epsilon _{\mathrm {pulse} }}{T}}\,}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/bd546baa0545f029bd8b105fcfd3848fb730e33a" class="mwe-math-fallback-image-inline mw-math-element" aria-hidden="true" style="vertical-align: -2.338ex; width:29.739ex; height:6.343ex;" alt="&#10;P_\mathrm{avg} = \frac{1}{T} \int_{0}^{T}p(t) \mathrm{d}t = \frac{\epsilon_\mathrm{pulse}}{T} \,&#10;" /></span>.</dd>
+</dl>
+<p>One may define the pulse length <span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y mw-math-element" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>&#x03C4;<!-- τ --></mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \tau }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/38a7dcde9730ef0853809fefc18d88771f95206c" class="mwe-math-fallback-image-inline mw-math-element" aria-hidden="true" style="vertical-align: -0.338ex; width:1.212ex; height:1.676ex;" alt="\tau " /></span> such that <span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y mw-math-element" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>P</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>0</mn>
+          </mrow>
+        </msub>
+        <mi>&#x03C4;<!-- τ --></mi>
+        <mo>=</mo>
+        <msub>
+          <mi>&#x03F5;<!-- ϵ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mrow class="MJX-TeXAtom-ORD">
+              <mi mathvariant="normal">p</mi>
+              <mi mathvariant="normal">u</mi>
+              <mi mathvariant="normal">l</mi>
+              <mi mathvariant="normal">s</mi>
+              <mi mathvariant="normal">e</mi>
+            </mrow>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle P_{0}\tau =\epsilon _{\mathrm {pulse} }}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/64ba062d7a22c6a0972d040953503b085aa7e000" class="mwe-math-fallback-image-inline mw-math-element" aria-hidden="true" style="vertical-align: -1.005ex; width:11.773ex; height:2.843ex;" alt="P_0\tau = \epsilon_\mathrm{pulse}" /></span> so that the ratios</p>
+<dl>
+<dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y mw-math-element" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <msub>
+              <mi>P</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi mathvariant="normal">a</mi>
+                  <mi mathvariant="normal">v</mi>
+                  <mi mathvariant="normal">g</mi>
+                </mrow>
+              </mrow>
+            </msub>
+            <msub>
+              <mi>P</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mn>0</mn>
+              </mrow>
+            </msub>
+          </mfrac>
+        </mrow>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mi>&#x03C4;<!-- τ --></mi>
+            <mi>T</mi>
+          </mfrac>
+        </mrow>
+        <mspace width="thinmathspace" />
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\frac {P_{\mathrm {avg} }}{P_{0}}}={\frac {\tau }{T}}\,}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/79064af5c60367fab81844debee54b9fa0b6d48c" class="mwe-math-fallback-image-inline mw-math-element" aria-hidden="true" style="vertical-align: -2.338ex; width:11.084ex; height:6.176ex;" alt="&#10;\frac{P_\mathrm{avg}}{P_0} = \frac{\tau}{T} \,&#10;" /></span></dd>
+</dl>
+<p>are equal. These ratios are called the <i>duty cycle</i> of the pulse train.</p>
+<h2><span class="mw-headline" id="Radiant_power">Radiant power</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Power_(physics)&amp;action=edit&amp;section=8" title="Edit section: Radiant power">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Power is related to intensity at a distance r, the power emitted by a source can be written as:</p>
+<dl>
+<dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y mw-math-element" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>P</mi>
+        <mo stretchy="false">(</mo>
+        <mi>r</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mi>I</mi>
+        <mo stretchy="false">(</mo>
+        <mn>4</mn>
+        <mo>&#x2217;<!-- ∗ --></mo>
+        <mi>p</mi>
+        <mi>i</mi>
+        <mo>&#x2217;<!-- ∗ --></mo>
+        <msup>
+          <mi>r</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msup>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle P(r)=I(4*pi*r^{2})}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/97690059b6d4285877f06d7e2e239b7a86aeec86" class="mwe-math-fallback-image-inline mw-math-element" aria-hidden="true" style="vertical-align: -0.838ex; width:20.463ex; height:3.176ex;" alt="{\displaystyle P(r)=I(4*pi*r^{2})}" /></span></dd>
+</dl>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Power_(physics)&amp;action=edit&amp;section=9" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Simple_machines" class="mw-redirect" title="Simple machines">Simple machines</a></li>
+<li><a href="/wiki/Mechanical_advantage" title="Mechanical advantage">Mechanical advantage</a></li>
+<li><a href="/wiki/Motive_power" title="Motive power">Motive power</a></li>
+<li><a href="/wiki/Orders_of_magnitude_(power)" title="Orders of magnitude (power)">Orders of magnitude (power)</a></li>
+<li><a href="/wiki/Pulsed_power" title="Pulsed power">Pulsed power</a></li>
+<li><a href="/wiki/Intensity_(physics)" title="Intensity (physics)">Intensity</a> — in the radiative sense, power per area</li>
+<li><a href="/wiki/Power_gain" title="Power gain">Power gain</a> — for linear, two-port networks.</li>
+<li><a href="/wiki/Power_density" title="Power density">Power density</a></li>
+<li><a href="/wiki/Signal_strength" class="mw-redirect" title="Signal strength">Signal strength</a></li>
+<li><a href="/wiki/Sound_power" title="Sound power">Sound power</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Power_(physics)&amp;action=edit&amp;section=10" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation book">Halliday and Resnick (1974). "6. Power". <i>Fundamentals of Physics</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APower+%28physics%29&amp;rft.atitle=6.+Power&amp;rft.btitle=Fundamentals+of+Physics&amp;rft.date=1974&amp;rft.genre=bookitem&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span> <span class="citation-comment" style="display:none; color:#33aa33">CS1 maint: Uses authors parameter (<a href="/wiki/Category:CS1_maint:_Uses_authors_parameter" title="Category:CS1 maint: Uses authors parameter">link</a>)</span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Chapter 13, § 3, pp 13-2,3 <i><a href="/wiki/The_Feynman_Lectures_on_Physics" title="The Feynman Lectures on Physics">The Feynman Lectures on Physics</a></i> Volume I, 1963</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Burning coal produces around 15-30 <a href="/wiki/Megajoule" class="mw-redirect" title="Megajoule">megajoules</a> per kilogram, while detonating TNT produces about 4.7 megajoules per kilogram. For the coal value, see <cite class="citation web">Fisher, Juliya (2003). <a rel="nofollow" class="external text" href="http://hypertextbook.com/facts/2003/JuliyaFisher.shtml">"Energy Density of Coal"</a>. <i>The Physics Factbook</i><span class="reference-accessdate">. Retrieved <span class="nowrap">30 May</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APower+%28physics%29&amp;rft.atitle=Energy+Density+of+Coal&amp;rft.aufirst=Juliya&amp;rft.aulast=Fisher&amp;rft.date=2003&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fhypertextbook.com%2Ffacts%2F2003%2FJuliyaFisher.shtml&amp;rft.jtitle=The+Physics+Factbook&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span> For the TNT value, see the article <a href="/wiki/TNT_equivalent" title="TNT equivalent">TNT equivalent</a>. Neither value includes the weight of oxygen from the air used during combustion.</span></li>
+</ol>
+<div role="navigation" class="navbox" aria-labelledby="Classical_mechanics_SI_units" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="background:#C0C0C0;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Classical_mechanics_SI_units" title="Template:Classical mechanics SI units"><abbr title="View this template" style=";background:#C0C0C0;;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Classical_mechanics_SI_units" title="Template talk:Classical mechanics SI units"><abbr title="Discuss this template" style=";background:#C0C0C0;;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Classical_mechanics_SI_units&amp;action=edit"><abbr title="Edit this template" style=";background:#C0C0C0;;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Classical_mechanics_SI_units" style="font-size:114%"><a href="/wiki/Classical_mechanics" title="Classical mechanics">Classical mechanics</a> <a href="/wiki/SI_units" class="mw-redirect" title="SI units">SI units</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0;">
+<table class="wikitable" style="text-align:center;line-height:0.9;border-collapse:collapse;margin:auto;border:none;background:none;">
+<tr>
+<td colspan="4" style="border:none;backgound:none; font-weight:bold;">Linear/translational quantities</td>
+<td rowspan="12" style="border:none;backgound:none;"></td>
+<td colspan="4" style="border:none;backgound:none; font-weight:bold;">Angular/rotational quantities</td>
+</tr>
+<tr>
+<th style="font-weight:normal;font-size:80%;">Dimensions</th>
+<th style="font-weight:normal;">1</th>
+<th style="font-weight:normal;">L</th>
+<th style="font-weight:normal;">L<sup>2</sup></th>
+<th style="font-weight:normal;font-size:80%;">Dimensions</th>
+<th style="font-weight:normal;">1</th>
+<th style="font-weight:normal;">1</th>
+<th style="font-weight:normal;">1</th>
+</tr>
+<tr>
+<th style="font-weight:normal;">T</th>
+<td><a href="/wiki/Time" title="Time">time</a>: <span class="texhtml"><i>t</i></span><br />
+<a href="/wiki/Second" title="Second">s</a></td>
+<td><a href="/wiki/Absement" title="Absement">absement</a>: <span class="texhtml"><b>A</b></span><br />
+<a href="/wiki/Meter_second" class="mw-redirect" title="Meter second">m s</a></td>
+<td></td>
+<th style="font-weight:normal;">T</th>
+<td><a href="/wiki/Time" title="Time">time</a>: <span class="texhtml"><i>t</i></span><br />
+<a href="/wiki/Second" title="Second">s</a></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th style="font-weight:normal;">1</th>
+<td></td>
+<td><a href="/wiki/Distance" title="Distance">distance</a>: <span class="texhtml"><i>d</i></span>, <span class="nowrap"><a href="/wiki/Position_(vector)" title="Position (vector)">position</a>: <span class="texhtml"><b>r</b></span>, <span class="texhtml"><b>s</b></span>, <span class="texhtml"><b>x</b></span></span>, <a href="/wiki/Displacement_(vector)" title="Displacement (vector)">displacement</a><br />
+<a href="/wiki/Metre" title="Metre">m</a></td>
+<td><a href="/wiki/Area" title="Area">area</a>: <span class="texhtml"><i>A</i></span><br />
+<a href="/wiki/Square_metre" title="Square metre">m<sup>2</sup></a></td>
+<th style="font-weight:normal;">1</th>
+<td></td>
+<td><a href="/wiki/Angle" title="Angle">angle</a>: <span class="texhtml"><i>θ</i></span>, <a href="/wiki/Angular_displacement" title="Angular displacement">angular displacement</a>: <span class="texhtml"><b>θ</b></span><br />
+<a href="/wiki/Radian" title="Radian">rad</a></td>
+<td><span class="nowrap"><a href="/wiki/Solid_angle" title="Solid angle">solid angle</a>: <span class="texhtml">Ω</span><br />
+<a href="/wiki/Steradian" title="Steradian">rad<sup>2</sup>, sr</a></span></td>
+</tr>
+<tr>
+<th style="font-weight:normal;">T<sup>−1</sup></th>
+<td><span class="nowrap"><a href="/wiki/Frequency" title="Frequency">frequency</a>: <span class="texhtml"><i>f</i></span></span><br />
+<a href="/wiki/Inverse_second" title="Inverse second">s<sup>−1</sup></a>, <a href="/wiki/Hertz" title="Hertz">Hz</a></td>
+<td><a href="/wiki/Speed" title="Speed">speed</a>: <span class="texhtml"><i>v</i></span>, <a href="/wiki/Velocity" title="Velocity">velocity</a>: <span class="texhtml"><b>v</b></span><br />
+<a href="/wiki/Metre_per_second" title="Metre per second">m s<sup>−1</sup></a></td>
+<td><a href="/wiki/Kinematic_viscosity" class="mw-redirect" title="Kinematic viscosity">kinematic viscosity</a>: <span class="texhtml"><i>ν</i></span>,<br />
+<a href="/wiki/Specific_angular_momentum" class="mw-redirect" title="Specific angular momentum">specific angular momentum</a>:&#160;<span class="texhtml"><b>h</b></span><br />
+<a href="/wiki/Metre_squared_per_second" title="Metre squared per second">m<sup>2</sup> s<sup>−1</sup></a></td>
+<th style="font-weight:normal;">T<sup>−1</sup></th>
+<td><span class="nowrap"><a href="/wiki/Frequency" title="Frequency">frequency</a>: <span class="texhtml"><i>f</i></span></span><br />
+<a href="/wiki/Inverse_second" title="Inverse second">s<sup>−1</sup></a>, <a href="/wiki/Hertz" title="Hertz">Hz</a></td>
+<td><a href="/wiki/Angular_speed" class="mw-redirect" title="Angular speed">angular speed</a>: <span class="texhtml"><i>ω</i></span>, <a href="/wiki/Angular_velocity" title="Angular velocity">angular velocity</a>: <span class="texhtml"><b>ω</b></span><br />
+<a href="/wiki/Radian_per_second" title="Radian per second">rad<span style="letter-spacing:0.1em">&#160;</span>s<sup>−1</sup></a></td>
+<td></td>
+</tr>
+<tr>
+<th style="font-weight:normal;">T<sup>−2</sup></th>
+<td></td>
+<td><a href="/wiki/Acceleration" title="Acceleration">acceleration</a>: <span class="texhtml"><b>a</b></span><br />
+<a href="/wiki/Metre_per_second_squared" title="Metre per second squared">m s<sup>−2</sup></a></td>
+<td></td>
+<th style="font-weight:normal;">T<sup>−2</sup></th>
+<td></td>
+<td><a href="/wiki/Angular_acceleration" title="Angular acceleration">angular acceleration</a>: <span class="texhtml"><b>α</b></span><br />
+<a href="/wiki/Radian_per_second_squared" class="mw-redirect" title="Radian per second squared">rad<span style="letter-spacing:0.1em">&#160;</span>s<sup>−2</sup></a></td>
+<td></td>
+</tr>
+<tr>
+<th style="font-weight:normal;">T<sup>−3</sup></th>
+<td></td>
+<td><a href="/wiki/Jerk_(physics)" title="Jerk (physics)">jerk</a>: <span class="texhtml"><b>j</b></span><br />
+m s<sup>−3</sup></td>
+<td></td>
+<th style="font-weight:normal;">T<sup>−3</sup></th>
+<td></td>
+<td><a href="/wiki/Jerk_(physics)#Jerk_in_rotation" title="Jerk (physics)">angular jerk</a>: <span class="texhtml"><b>ζ</b></span><br />
+rad<span style="letter-spacing:0.1em">&#160;</span>s<sup>−3</sup></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4" style="padding-top:0;"></td>
+<td colspan="4" style="padding-top:0;"></td>
+</tr>
+<tr>
+<th style="font-weight:normal;">M</th>
+<td><a href="/wiki/Mass" title="Mass">mass</a>: <span class="texhtml"><i>m</i></span><br />
+<a href="/wiki/Kilogram" title="Kilogram">kg</a></td>
+<td></td>
+<td></td>
+<th style="font-weight:normal;">ML<sup>2</sup></th>
+<td><a href="/wiki/Moment_of_inertia" title="Moment of inertia">moment of inertia</a>:&#160;<span class="texhtml"><i>I</i></span><br />
+<a href="/wiki/Kilogram_square_metre" class="mw-redirect" title="Kilogram square metre">kg<span style="letter-spacing:0.1em">&#160;</span>m<sup>2</sup></a></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th style="font-weight:normal;">MT<sup>−1</sup></th>
+<td></td>
+<td><a href="/wiki/Momentum" title="Momentum">momentum</a>: <span class="texhtml"><b>p</b></span>, <a href="/wiki/Impulse_(physics)" title="Impulse (physics)">impulse</a>: <span class="texhtml"><b>J</b></span><br />
+<a href="/wiki/Kilogram_metre_per_second" class="mw-redirect" title="Kilogram metre per second">kg<span style="letter-spacing:0.1em">&#160;</span>m&#160;s<sup>−1</sup></a>, <a href="/wiki/Newton_second" title="Newton second">N s</a></td>
+<td><a href="/wiki/Action_(physics)" title="Action (physics)">action</a>: <span class="texhtml">𝒮</span>, <a href="/wiki/Absement#Applications" title="Absement">actergy</a>: <span class="texhtml">ℵ</span><br />
+<a href="/wiki/Kilogram_square_metre_per_second" class="mw-redirect" title="Kilogram square metre per second">kg<span style="letter-spacing:0.1em">&#160;</span>m<sup>2</sup>&#160;s<sup>−1</sup></a>, <a href="/wiki/Joule-second" title="Joule-second">J s</a></td>
+<th style="font-weight:normal;">ML<sup>2</sup>T<sup>−1</sup></th>
+<td></td>
+<td><a href="/wiki/Angular_momentum" title="Angular momentum">angular momentum</a>: <span class="texhtml"><b>L</b></span>, <a href="/wiki/List_of_equations_in_classical_mechanics#Derived_dynamic_quantities" title="List of equations in classical mechanics">angular impulse</a>: <span class="texhtml">Δ<b>L</b></span><br />
+<a href="/wiki/Kilogram_square_metre_per_second" class="mw-redirect" title="Kilogram square metre per second">kg<span style="letter-spacing:0.1em">&#160;</span>m<sup>2</sup>&#160;s<sup>−1</sup></a></td>
+<td><a href="/wiki/Action_(physics)" title="Action (physics)">action</a>: <span class="texhtml">𝒮</span>, <a href="/wiki/Absement#Applications" title="Absement">actergy</a>: <span class="texhtml">ℵ</span><br />
+<a href="/wiki/Kilogram_square_metre_per_second" class="mw-redirect" title="Kilogram square metre per second">kg<span style="letter-spacing:0.1em">&#160;</span>m<sup>2</sup>&#160;s<sup>−1</sup></a>, <a href="/wiki/Joule-second" title="Joule-second">J&#160;s</a></td>
+</tr>
+<tr>
+<th style="font-weight:normal;">MT<sup>−2</sup></th>
+<td></td>
+<td><a href="/wiki/Force" title="Force">force</a>: <span class="texhtml"><b>F</b></span>, <a href="/wiki/Weight" title="Weight">weight</a>: <span class="texhtml"><b>F</b><sub>g</sub></span><br />
+<span style="margin-right:0.1em;">kg</span> m s<sup>−2</sup>, <a href="/wiki/Newton_(unit)" title="Newton (unit)">N</a></td>
+<td><a href="/wiki/Energy" title="Energy">energy</a>: <span class="texhtml"><i>E</i></span>, <a href="/wiki/Work_(physics)" title="Work (physics)">work</a>: <span class="texhtml"><i>W</i></span><br />
+<span style="margin-right:0.1em;">kg</span> m<sup>2</sup> s<sup>−2</sup>, <a href="/wiki/Joule" title="Joule">J</a></td>
+<th style="font-weight:normal;">ML<sup>2</sup>T<sup>−2</sup></th>
+<td></td>
+<td><a href="/wiki/Torque" title="Torque">torque</a>: <span class="texhtml"><b>τ</b></span>, <a href="/wiki/Torque#Terminology" title="Torque">moment</a>: <span class="texhtml"><b>M</b></span><br />
+<span style="margin-right:0.1em;">kg</span> m<sup>2</sup> s<sup>−2</sup>, <a href="/wiki/Newton_metre" title="Newton metre">N m</a></td>
+<td><a href="/wiki/Energy" title="Energy">energy</a>: <span class="texhtml"><i>E</i></span>, <a href="/wiki/Work_(physics)" title="Work (physics)">work</a>: <span class="texhtml"><i>W</i></span><br />
+<span style="margin-right:0.1em;">kg</span> m<sup>2</sup> s<sup>−2</sup>, <a href="/wiki/Joule" title="Joule">J</a></td>
+</tr>
+<tr>
+<th style="font-weight:normal;">MT<sup>−3</sup></th>
+<td></td>
+<td><a href="/wiki/List_of_equations_in_classical_mechanics#Dynamics" title="List of equations in classical mechanics">yank</a>: <span class="texhtml"><b>Y</b></span><br />
+<span style="margin-right:0.1em;">kg</span> m s<sup>−3</sup>, N s<sup>−1</sup></td>
+<td><strong class="selflink">power</strong>: <span class="texhtml"><i>P</i></span><br />
+<span style="margin-right:0.1em;">kg</span> m<sup>2</sup> s<sup>−3</sup>,&#160;<a href="/wiki/Watt" title="Watt">W</a></td>
+<th style="font-weight:normal;">ML<sup>2</sup>T<sup>−3</sup></th>
+<td></td>
+<td><a href="/wiki/Rotatum" title="Rotatum">rotatum</a>: <span class="texhtml"><b>P</b></span><br />
+<span style="margin-right:0.1em;">kg</span> m<sup>2</sup> s<sup>−3</sup>, N m s<sup>−1</sup></td>
+<td><strong class="selflink">power</strong>: <span class="texhtml"><i>P</i></span><br />
+<span style="margin-right:0.1em;">kg</span> m<sup>2</sup> s<sup>−3</sup>,&#160;<a href="/wiki/Watt" title="Watt">W</a></td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1203
+Cached time: 20170118152750
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.328 seconds
+Real time usage: 0.549 seconds
+Preprocessor visited node count: 1376/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 55356/2097152 bytes
+Template argument size: 1339/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 1/500
+Lua time usage: 0.069/10.000 seconds
+Lua memory usage: 2.3 MB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  223.468      1 - -total
+ 19.53%   43.642      1 - Template:Classical_mechanics
+ 18.09%   40.426      1 - Template:Cite_book
+ 17.87%   39.927      1 - Template:Sidebar_with_collapsible_lists
+ 13.98%   31.239      1 - Template:Classical_mechanics_derived_SI_units
+ 13.22%   29.533      1 - Template:For
+ 11.63%   25.996      1 - Template:Infobox_physical_quantity
+ 11.20%   25.028      1 - Template:Navbox
+ 10.04%   22.428      1 - Template:Infobox
+  8.81%   19.681      1 - Template:Use_dmy_dates
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:24236-0!*!0!!en!4!*!math=5 and timestamp 20170118152830 and revision id 760696907
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Power_(physics)&amp;oldid=760696907">https://en.wikipedia.org/w/index.php?title=Power_(physics)&amp;oldid=760696907</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Concepts_in_physics" title="Category:Concepts in physics">Concepts in physics</a></li><li><a href="/wiki/Category:Power_(physics)" title="Category:Power (physics)">Power (physics)</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_Uses_authors_parameter" title="Category:CS1 maint: Uses authors parameter">CS1 maint: Uses authors parameter</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_July_2012" title="Category:Use dmy dates from July 2012">Use dmy dates from July 2012</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Power+%28physics%29" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Power+%28physics%29" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Power_(physics)"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Power_(physics)"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Power_(physics)" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Power_(physics)&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Power_(physics)&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Power_(physics)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Power_(physics)" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Power_(physics)&amp;oldid=760696907" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Power_(physics)&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q25342" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Power_%28physics%29&amp;id=760696907" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Power+%28physics%29">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Power+%28physics%29&amp;returnto=Power+%28physics%29&amp;oldid=760696907&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Power_(physics)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Power_(physics)" hreflang="en">Wikimedia Commons</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/Drywing" title="Drywing – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li><li class="interlanguage-link interwiki-am"><a href="https://am.wikipedia.org/wiki/%E1%88%83%E1%8B%AD%E1%88%8D_(%E1%8D%8A%E1%8B%9A%E1%8A%AD%E1%88%B5)" title="ሃይል (ፊዚክስ) – Amharic" lang="am" hreflang="am" class="interlanguage-link-target">አማርኛ</a></li><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%82%D8%AF%D8%B1%D8%A9_(%D9%81%D9%8A%D8%B2%D9%8A%D8%A7%D8%A1)" title="قدرة (فيزياء) – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-ast"><a href="https://ast.wikipedia.org/wiki/Potencia" title="Potencia – Asturian" lang="ast" hreflang="ast" class="interlanguage-link-target">Asturianu</a></li><li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/G%C3%BCc_(fizika)" title="Güc (fizika) – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li><li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A6%B6%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF_(%E0%A6%AA%E0%A6%A6%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8)" title="শক্তি (পদার্থবিজ্ঞান) – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li><li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/Kong-lu%CC%8Dt" title="Kong-lu̍t – Chinese (Min Nan)" lang="zh-min-nan" hreflang="zh-min-nan" class="interlanguage-link-target">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%9C%D0%B0%D0%B3%D1%83%D1%82%D0%BD%D0%B0%D1%81%D1%86%D1%8C" title="Магутнасць – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-be-x-old"><a href="https://be-x-old.wikipedia.org/wiki/%D0%9C%D0%B0%D0%B3%D1%83%D1%82%D0%BD%D0%B0%D1%81%D1%8C%D1%86%D1%8C" title="Магутнасьць – беларуская (тарашкевіца)‎" lang="be-x-old" hreflang="be-x-old" class="interlanguage-link-target">Беларуская (тарашкевіца)‎</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%9C%D0%BE%D1%89%D0%BD%D0%BE%D1%81%D1%82" title="Мощност – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-bs"><a href="https://bs.wikipedia.org/wiki/Snaga" title="Snaga – Bosnian" lang="bs" hreflang="bs" class="interlanguage-link-target">Bosanski</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Pot%C3%A8ncia_(f%C3%ADsica)" title="Potència (física) – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/V%C3%BDkon" title="Výkon – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-sn"><a href="https://sn.wikipedia.org/wiki/Pawa" title="Pawa – Shona" lang="sn" hreflang="sn" class="interlanguage-link-target">ChiShona</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Effekt_(fysik)" title="Effekt (fysik) – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Leistung_(Physik)" title="Leistung (Physik) – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/V%C3%B5imsus" title="Võimsus – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%99%CF%83%CF%87%CF%8D%CF%82" title="Ισχύς – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Potencia_(f%C3%ADsica)" title="Potencia (física) – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Povumo" title="Povumo – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Potentzia" title="Potentzia – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%AA%D9%88%D8%A7%D9%86_(%D9%81%DB%8C%D8%B2%DB%8C%DA%A9)" title="توان (فیزیک) – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Puissance_(physique)" title="Puissance (physique) – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ga"><a href="https://ga.wikipedia.org/wiki/Cumhacht" title="Cumhacht – Irish" lang="ga" hreflang="ga" class="interlanguage-link-target">Gaeilge</a></li><li class="interlanguage-link interwiki-gd"><a href="https://gd.wikipedia.org/wiki/Cumhachd" title="Cumhachd – Scottish Gaelic" lang="gd" hreflang="gd" class="interlanguage-link-target">Gàidhlig</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Potencia" title="Potencia – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%9D%BC%EB%A5%A0" title="일률 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D5%80%D5%A6%D5%B8%D6%80%D5%B8%D6%82%D5%A9%D5%B5%D5%B8%D6%82%D5%B6" title="Հզորություն – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%B6%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%BF_(%E0%A4%AD%E0%A5%8C%E0%A4%A4%E0%A4%BF%E0%A4%95%E0%A5%80)" title="शक्ति (भौतिकी) – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Snaga" title="Snaga – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Daya" title="Daya – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/Afl_(e%C3%B0lisfr%C3%A6%C3%B0i)" title="Afl (eðlisfræði) – Icelandic" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Potenza_(fisica)" title="Potenza (fisica) – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%94%D7%A1%D7%A4%D7%A7" title="הספק – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%A1%E1%83%98%E1%83%9B%E1%83%AB%E1%83%9A%E1%83%90%E1%83%95%E1%83%A0%E1%83%94" title="სიმძლავრე – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D2%9A%D1%83%D0%B0%D1%82" title="Қуат – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li><li class="interlanguage-link interwiki-ku"><a href="https://ku.wikipedia.org/wiki/Xurtan%C3%AE_(f%C3%AEz%C3%AEk)" title="Xurtanî (fîzîk) – Kurdish" lang="ku" hreflang="ku" class="interlanguage-link-target">Kurdî</a></li><li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Potentia_(physica)" title="Potentia (physica) – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li><li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Jauda" title="Jauda – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Galia_(fizika)" title="Galia (fizika) – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-lij"><a href="https://lij.wikipedia.org/wiki/Potensa_(fixica)" title="Potensa (fixica) – Ligurian" lang="lij" hreflang="lij" class="interlanguage-link-target">Ligure</a></li><li class="interlanguage-link interwiki-lmo"><a href="https://lmo.wikipedia.org/wiki/Putenza_(fisega)" title="Putenza (fisega) – Lombard" lang="lmo" hreflang="lmo" class="interlanguage-link-target">Lumbaart</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Teljes%C3%ADtm%C3%A9ny" title="Teljesítmény – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%9C%D0%BE%D1%9C_(%D1%84%D0%B8%D0%B7%D0%B8%D0%BA%D0%B0)" title="Моќ (физика) – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li><li class="interlanguage-link interwiki-arz"><a href="https://arz.wikipedia.org/wiki/%D9%82%D8%AF%D8%B1%D8%A9_(%D9%81%D9%8A%D8%B2%D9%8A%D8%A7)" title="قدرة (فيزيا) – Egyptian Arabic" lang="arz" hreflang="arz" class="interlanguage-link-target">مصرى</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Kuasa_(fizik)" title="Kuasa (fizik) – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Vermogen_(natuurkunde)" title="Vermogen (natuurkunde) – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E4%BB%95%E4%BA%8B%E7%8E%87" title="仕事率 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-frr"><a href="https://frr.wikipedia.org/wiki/Efekt" title="Efekt – Northern Frisian" lang="frr" hreflang="frr" class="interlanguage-link-target">Nordfriisk</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Effekt" title="Effekt – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk bokmål</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Effekt" title="Effekt – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-pms"><a href="https://pms.wikipedia.org/wiki/Potensa_(f%C3%ACsica)" title="Potensa (fìsica) – Piedmontese" lang="pms" hreflang="pms" class="interlanguage-link-target">Piemontèis</a></li><li class="interlanguage-link interwiki-nds"><a href="https://nds.wikipedia.org/wiki/Verm%C3%B6gen_(Physik)" title="Vermögen (Physik) – Low German" lang="nds" hreflang="nds" class="interlanguage-link-target">Plattdüütsch</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Moc" title="Moc – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Pot%C3%AAncia" title="Potência – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Putere" title="Putere – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-qu"><a href="https://qu.wikipedia.org/wiki/Arpay" title="Arpay – Quechua" lang="qu" hreflang="qu" class="interlanguage-link-target">Runa Simi</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D1%89%D0%BD%D0%BE%D1%81%D1%82%D1%8C" title="Мощность – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Pouer_(pheesics)" title="Pouer (pheesics) – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li><li class="interlanguage-link interwiki-sq"><a href="https://sq.wikipedia.org/wiki/Fuqia_(fizik%C3%AB)" title="Fuqia (fizikë) – Albanian" lang="sq" hreflang="sq" class="interlanguage-link-target">Shqip</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Power_(physics)" title="Power (physics) – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/V%C3%BDkon_(mechanick%C3%BD)" title="Výkon (mechanický) – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Mo%C4%8D" title="Moč – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-ckb"><a href="https://ckb.wikipedia.org/wiki/%D8%AA%D9%88%D8%A7%D9%86%D8%A7_(%D9%81%DB%8C%D8%B2%DB%8C%DA%A9)" title="توانا (فیزیک) – Central Kurdish" lang="ckb" hreflang="ckb" class="interlanguage-link-target">کوردیی ناوەندی</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%A1%D0%BD%D0%B0%D0%B3%D0%B0" title="Снага – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Snaga" title="Snaga – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-su"><a href="https://su.wikipedia.org/wiki/Daya" title="Daya – Sundanese" lang="su" hreflang="su" class="interlanguage-link-target">Basa Sunda</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Teho" title="Teho – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Effekt" title="Effekt – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tl"><a href="https://tl.wikipedia.org/wiki/Lakas" title="Lakas – Tagalog" lang="tl" hreflang="tl" class="interlanguage-link-target">Tagalog</a></li><li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%B5%E0%AE%B2%E0%AF%81" title="வலு – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li><li class="interlanguage-link interwiki-te"><a href="https://te.wikipedia.org/wiki/%E0%B0%B8%E0%B0%BE%E0%B0%AE%E0%B0%B0%E0%B1%8D%E0%B0%A5%E0%B1%8D%E0%B0%AF%E0%B0%82_(%E0%B0%AD%E0%B1%8C%E0%B0%A4%E0%B0%BF%E0%B0%95_%E0%B0%B6%E0%B0%BE%E0%B0%B8%E0%B1%8D%E0%B0%A4%E0%B1%8D%E0%B0%B0%E0%B0%82)" title="సామర్థ్యం (భౌతిక శాస్త్రం) – Telugu" lang="te" hreflang="te" class="interlanguage-link-target">తెలుగు</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/G%C3%BC%C3%A7_(fizik)" title="Güç (fizik) – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9F%D0%BE%D1%82%D1%83%D0%B6%D0%BD%D1%96%D1%81%D1%82%D1%8C" title="Потужність – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%D8%B7%D8%A7%D9%82%D8%AA" title="طاقت – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/C%C3%B4ng_su%E1%BA%A5t" title="Công suất – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh-classical"><a href="https://zh-classical.wikipedia.org/wiki/%E5%8A%9F%E7%8E%87" title="功率 – Classical Chinese" lang="zh-classical" hreflang="zh-classical" class="interlanguage-link-target">文言</a></li><li class="interlanguage-link interwiki-wo"><a href="https://wo.wikipedia.org/wiki/Ng%C3%B3ora_(j%C3%ABmm)" title="Ngóora (jëmm) – Wolof" lang="wo" hreflang="wo" class="interlanguage-link-target">Wolof</a></li><li class="interlanguage-link interwiki-yi"><a href="https://yi.wikipedia.org/wiki/%D7%9E%D7%90%D7%9B%D7%98" title="מאכט – Yiddish" lang="yi" hreflang="yi" class="interlanguage-link-target">ייִדיש</a></li><li class="interlanguage-link interwiki-zh-yue"><a href="https://zh-yue.wikipedia.org/wiki/%E5%8A%9F%E7%8E%87" title="功率 – Cantonese" lang="zh-yue" hreflang="zh-yue" class="interlanguage-link-target">粵語</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%8A%9F%E7%8E%87" title="功率 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q25342#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 18 January 2017, at 15:28.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Power_(physics)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":70,"wgHostname":"mw1215"});});</script>
+	</body>
+</html>

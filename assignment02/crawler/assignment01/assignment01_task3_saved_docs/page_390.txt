@@ -1,0 +1,936 @@
+url : https://en.wikipedia.org/wiki/Hybrid_solar_cell
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Hybrid solar cell - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Hybrid_solar_cell","wgTitle":"Hybrid solar cell","wgCurRevisionId":760385774,"wgRevisionId":760385774,"wgArticleId":3448144,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: Multiple names: authors list","Solar cells","Organic solar cells"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Hybrid_solar_cell","wgRelevantArticleId":3448144,"wgRequestId":"WI6eiQpAEKoAAHbRdIcAAAAR","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q3664274","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","ext.math.scripts","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.9"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Hybrid_solar_cell"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Hybrid_solar_cell&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Hybrid_solar_cell&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Hybrid_solar_cell"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Hybrid_solar_cell rootpage-Hybrid_solar_cell skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Hybrid solar cell</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><p><b>Hybrid <a href="/wiki/Solar_cell" title="Solar cell">solar cells</a></b> combine advantages of both <a href="/wiki/Organic_semiconductor" title="Organic semiconductor">organic</a> and inorganic <a href="/wiki/Semiconductor" title="Semiconductor">semiconductors</a>. Hybrid <a href="/wiki/Photovoltaics" title="Photovoltaics">photovoltaics</a> have organic materials that consist of <a href="/wiki/Conjugated_polymers" class="mw-redirect" title="Conjugated polymers">conjugated polymers</a> that absorb light as the donor and transport <a href="/wiki/Electron_hole" title="Electron hole">holes</a>.<sup id="cite_ref-S2_1-0" class="reference"><a href="#cite_note-S2-1">[1]</a></sup> Inorganic materials in hybrid cells are used as the acceptor and <a href="/wiki/Electron" title="Electron">electron</a> transporter in the structure. The hybrid photovoltaic devices have a potential for not only low-cost by <a href="/wiki/Roll-to-roll_processing" title="Roll-to-roll processing">roll-to-roll</a> processing but also for scalable <a href="/wiki/Solar_power" title="Solar power">solar power</a> conversion.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Theory"><span class="tocnumber">1</span> <span class="toctext">Theory</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Hybrid_solar_cell"><span class="tocnumber">1.1</span> <span class="toctext">Hybrid solar cell</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Types_of_interfaces_and_structures"><span class="tocnumber">1.2</span> <span class="toctext">Types of interfaces and structures</span></a>
+<ul>
+<li class="toclevel-3 tocsection-4"><a href="#Mesoporous_films"><span class="tocnumber">1.2.1</span> <span class="toctext">Mesoporous films</span></a></li>
+<li class="toclevel-3 tocsection-5"><a href="#Ordered_lamellar_films"><span class="tocnumber">1.2.2</span> <span class="toctext">Ordered lamellar films</span></a></li>
+<li class="toclevel-3 tocsection-6"><a href="#Films_of_ordered_nanostructures"><span class="tocnumber">1.2.3</span> <span class="toctext">Films of ordered nanostructures</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-7"><a href="#Fundamental_challenge_factors"><span class="tocnumber">1.3</span> <span class="toctext">Fundamental challenge factors</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Types_of_hybrid_solar_cells"><span class="tocnumber">2</span> <span class="toctext">Types of hybrid solar cells</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#Polymer.E2.80.93nanoparticle_composite"><span class="tocnumber">2.1</span> <span class="toctext">Polymer–nanoparticle composite</span></a>
+<ul>
+<li class="toclevel-3 tocsection-10"><a href="#Structure_and_processing"><span class="tocnumber">2.1.1</span> <span class="toctext">Structure and processing</span></a></li>
+<li class="toclevel-3 tocsection-11"><a href="#Materials"><span class="tocnumber">2.1.2</span> <span class="toctext">Materials</span></a></li>
+<li class="toclevel-3 tocsection-12"><a href="#Performance_values"><span class="tocnumber">2.1.3</span> <span class="toctext">Performance values</span></a></li>
+<li class="toclevel-3 tocsection-13"><a href="#Challenges"><span class="tocnumber">2.1.4</span> <span class="toctext">Challenges</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-14"><a href="#Carbon_nanotubes"><span class="tocnumber">2.2</span> <span class="toctext">Carbon nanotubes</span></a>
+<ul>
+<li class="toclevel-3 tocsection-15"><a href="#Efficient_carrier_transport_medium"><span class="tocnumber">2.2.1</span> <span class="toctext">Efficient carrier transport medium</span></a></li>
+<li class="toclevel-3 tocsection-16"><a href="#Photoactive_matrix_layer"><span class="tocnumber">2.2.2</span> <span class="toctext">Photoactive matrix layer</span></a></li>
+<li class="toclevel-3 tocsection-17"><a href="#Challenges_2"><span class="tocnumber">2.2.3</span> <span class="toctext">Challenges</span></a>
+<ul>
+<li class="toclevel-4 tocsection-18"><a href="#Challenges_as_efficient_carrier_transport_medium"><span class="tocnumber">2.2.3.1</span> <span class="toctext">Challenges as efficient carrier transport medium</span></a></li>
+<li class="toclevel-4 tocsection-19"><a href="#Challenges_as_photoactive_matrix_layer"><span class="tocnumber">2.2.3.2</span> <span class="toctext">Challenges as photoactive matrix layer</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-20"><a href="#Dye-sensitized"><span class="tocnumber">2.3</span> <span class="toctext">Dye-sensitized</span></a>
+<ul>
+<li class="toclevel-3 tocsection-21"><a href="#Materials_2"><span class="tocnumber">2.3.1</span> <span class="toctext">Materials</span></a></li>
+<li class="toclevel-3 tocsection-22"><a href="#Fabrication_scheme"><span class="tocnumber">2.3.2</span> <span class="toctext">Fabrication scheme</span></a>
+<ul>
+<li class="toclevel-4 tocsection-23"><a href="#Dye-sensitized_photoelectrochemical_cell_.28Gr.C3.A4tzel_cell.29"><span class="tocnumber">2.3.2.1</span> <span class="toctext">Dye-sensitized photoelectrochemical cell (Grätzel cell)</span></a></li>
+<li class="toclevel-4 tocsection-24"><a href="#Solid-state_dye_sensitized_solar_cell"><span class="tocnumber">2.3.2.2</span> <span class="toctext">Solid-state dye sensitized solar cell</span></a></li>
+</ul>
+</li>
+<li class="toclevel-3 tocsection-25"><a href="#Efficiency_factors"><span class="tocnumber">2.3.3</span> <span class="toctext">Efficiency factors</span></a></li>
+<li class="toclevel-3 tocsection-26"><a href="#Challenges_3"><span class="tocnumber">2.3.4</span> <span class="toctext">Challenges</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-27"><a href="#Nanostructured_inorganic_.E2.80.94_small_molecules"><span class="tocnumber">2.4</span> <span class="toctext">Nanostructured inorganic — small molecules</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-28"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Theory">Theory</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hybrid_solar_cell&amp;action=edit&amp;section=1" title="Edit section: Theory">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Solar_cells" class="mw-redirect" title="Solar cells">Solar cells</a> are devices that convert sunlight into electricity by the <a href="/wiki/Photovoltaic_effect" title="Photovoltaic effect">photovoltaic effect</a>. Electrons in a solar cell absorb photon energy in sunlight which excites them to the <a href="/wiki/Conduction_band" class="mw-redirect" title="Conduction band">conduction band</a> from the <a href="/wiki/Valence_band" class="mw-redirect" title="Valence band">valence band</a>. This generates a <a href="/wiki/Exciton" title="Exciton">hole-electron pair</a>, which is separated by a potential barrier (such as a <a href="/wiki/P-n_junction" class="mw-redirect" title="P-n junction">p-n junction</a>), and induces a current. <a href="/wiki/Organic_solar_cells" class="mw-redirect" title="Organic solar cells">Organic solar cells</a> use organic materials in their active layers. Molecular, polymer, and hybrid organic photovoltaics are the main kinds of organic photovoltaic devices currently studied.</p>
+<h3><span class="mw-headline" id="Hybrid_solar_cell">Hybrid solar cell</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hybrid_solar_cell&amp;action=edit&amp;section=2" title="Edit section: Hybrid solar cell">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Chargeseperation_mike.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Chargeseperation_mike.JPG/220px-Chargeseperation_mike.JPG" width="220" height="211" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Chargeseperation_mike.JPG/330px-Chargeseperation_mike.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/e/e9/Chargeseperation_mike.JPG 2x" data-file-width="394" data-file-height="378" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Chargeseperation_mike.JPG" class="internal" title="Enlarge"></a></div>
+Figure 1. Energy diagram of the donor and acceptor. The conduction band of the acceptor is lower than the <a href="/wiki/HOMO/LUMO" title="HOMO/LUMO">LUMO</a> of the polymer, allowing for transfer of the electron.</div>
+</div>
+</div>
+<p>In hybrid solar cells, an organic material is mixed with a high electron transport material to form the photoactive layer.<sup id="cite_ref-S1_2-0" class="reference"><a href="#cite_note-S1-2">[2]</a></sup> The two materials are assembled together in a <a href="/wiki/Heterojunction" title="Heterojunction">heterojunction</a>-type photoactive layer, which can have a greater power conversion efficiency than a single material.<sup id="cite_ref-M1_3-0" class="reference"><a href="#cite_note-M1-3">[3]</a></sup> One of the materials acts as the photon absorber and <a href="/wiki/Exciton" title="Exciton">exciton</a> donor. The other material facilitates exciton dissociation at the junction. Charge is transferred and then separated after an exciton created in the donor is delocalized on a donor-acceptor complex.<sup id="cite_ref-M2_4-0" class="reference"><a href="#cite_note-M2-4">[4]</a></sup></p>
+<p>The acceptor material needs a suitable energy offset to the binding energy of the exciton to the absorber. Charge transfer is favorable if the following condition is satisfied:<sup id="cite_ref-M3_5-0" class="reference"><a href="#cite_note-M3-5">[5]</a></sup></p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msubsup>
+          <mi>E</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>A</mi>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>A</mi>
+          </mrow>
+        </msubsup>
+        <mo>&#x2212;<!-- − --></mo>
+        <msubsup>
+          <mi>E</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>A</mi>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>D</mi>
+          </mrow>
+        </msubsup>
+        <mo>&gt;</mo>
+        <msub>
+          <mi>U</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>D</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle E_{A}^{A}-E_{A}^{D}&gt;U_{D}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c3013686cc4f95c8d29862a3079fb6ee19181a10" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:15.839ex; height:3.343ex;" alt="{\displaystyle E_{A}^{A}-E_{A}^{D}&gt;U_{D}}" /></span></dd>
+</dl>
+<p>where superscripts A and D refer to the acceptor and donor respectively, E<sub>A</sub> is the electron affinity, and U the coulombic binding energy of the exciton on the donor. An energy diagram of the interface is shown in figure 1. In commonly used photovoltaic polymers such as MEH-PPV, the exciton binding energy ranges from 0.3 eV to 1.4 eV.<sup id="cite_ref-M4_6-0" class="reference"><a href="#cite_note-M4-6">[6]</a></sup></p>
+<p>The energy required to separate the exciton is provided by the energy offset between the <a href="/wiki/HOMO/LUMO" title="HOMO/LUMO">LUMOs</a> or conduction bands of the donor and acceptor.<sup id="cite_ref-M1_3-1" class="reference"><a href="#cite_note-M1-3">[3]</a></sup> After dissociation, the carriers are transported to the respective electrodes through a percolation network.</p>
+<p>The average distance an exciton can diffuse through a material before annihilation by recombination is the exciton diffusion length. This is short in polymers, on the order of 5–10 nanometers.<sup id="cite_ref-M3_5-1" class="reference"><a href="#cite_note-M3-5">[5]</a></sup> The time scale for radiative and non-radiative decay is from 1 picosecond to 1 nanosecond.<sup id="cite_ref-M5_7-0" class="reference"><a href="#cite_note-M5-7">[7]</a></sup> Excitons generated within this length close to an acceptor would contribute to the photocurrent.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Heterojunction_mike.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/61/Heterojunction_mike.JPG/220px-Heterojunction_mike.JPG" width="220" height="252" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/61/Heterojunction_mike.JPG/330px-Heterojunction_mike.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/6/61/Heterojunction_mike.JPG 2x" data-file-width="342" data-file-height="392" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Heterojunction_mike.JPG" class="internal" title="Enlarge"></a></div>
+Figure 2. Two different structures of heterojunctions, a) phase separated bi-layer and b) bulk heterojunction. The bulk heterojunction allows for more interfacial contact between the two phases, which is beneficial for the nanoparticle-polymer compound as it provides more surface area for charge transfer.</div>
+</div>
+</div>
+<p>To deal with the problem of the short exciton diffusion length, a bulk heterojunction structure is used rather than a phase-separated bilayer. Dispersing the particles throughout the polymer matrix creates a larger interfacial area for charge transfer to occur.<sup id="cite_ref-M1_3-2" class="reference"><a href="#cite_note-M1-3">[3]</a></sup> Figure 2 displays the difference between a bilayer and a bulk heterojunction.</p>
+<h3><span class="mw-headline" id="Types_of_interfaces_and_structures">Types of interfaces and structures</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hybrid_solar_cell&amp;action=edit&amp;section=3" title="Edit section: Types of interfaces and structures">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Controlling the interface of inorganic-organic hybrid solar cells can increase the efficiency of the cells. This increased efficiency can be achieved by increasing the interfacial surface area between the organic and the inorganic to facilitate charge separation and by controlling the nanoscale lengths and periodicity of each structure so that charges are allowed to separate and move toward the appropriate electrode without recombining. The three main nanoscale structures used are mesoporous inorganic films infused with electron-donating organic, alternatining inorganic-organic lamellar structures, and nanowire structures.</p>
+<h4><span class="mw-headline" id="Mesoporous_films">Mesoporous films</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hybrid_solar_cell&amp;action=edit&amp;section=4" title="Edit section: Mesoporous films">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p><a href="/wiki/Mesoporous_material" title="Mesoporous material">Mesoporous films</a> have been used for a relatively high-efficiency hybrid solar cell.<sup id="cite_ref-mesoporous_8-0" class="reference"><a href="#cite_note-mesoporous-8">[8]</a></sup> The structure of mesoporous <a href="/wiki/Thin_film_solar_cell" class="mw-redirect" title="Thin film solar cell">thin film solar cells</a> usually includes a porous inorganic that is saturated with organic surfactant. The organic absorbs light, and transfers electrons to the inorganic semiconductor (usually a transparent conducting oxide), which then transfers the electron to the electrode. Problems with these cells include their random ordering and the difficulty of controlling their nanoscale structure to promote charge conduction.</p>
+<h4><span class="mw-headline" id="Ordered_lamellar_films">Ordered lamellar films</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hybrid_solar_cell&amp;action=edit&amp;section=5" title="Edit section: Ordered lamellar films">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Recently, the use of alternating layers of organic and inorganic compounds has been controlled through electrodeposition-based self-assembly.<sup id="cite_ref-lamellar_9-0" class="reference"><a href="#cite_note-lamellar-9">[9]</a></sup> This is of particular interest because it has been shown that the lamellar structure and periodicity of the alternating organic-inorganic layers can be controlled through solution chemistry. To produce this type of cell with practical efficiencies, larger organic surfactants that absorb more of the visible spectrum must be deposited between the layers of electron-accepting inorganic.</p>
+<h4><span class="mw-headline" id="Films_of_ordered_nanostructures">Films of ordered nanostructures</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hybrid_solar_cell&amp;action=edit&amp;section=6" title="Edit section: Films of ordered nanostructures">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Researchers have been able to grow nanostructure-based solar cells that use ordered nanostructures like nanowires or nanotubes of inorganic surrounding by electron-donating organics utilizing self-organization processes. Ordered nanostructures offer the advantage of directed charge transport and controlled phase separation between donor and acceptor materials.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> The nanowire-based morphology offers reduced internal reflection, facile strain relaxation and increased defect tolerance. The ability to make single-crystalline nanowires on low-cost substrates such as aluminum foil and to relax strain in subsequent layers removes two more major cost hurdles associated with high-efficiency cells. There have been rapid increases in efficiencies of nanowire-based solar cells and they seem to be one of the most promising nanoscale solar hybrid technologies.<sup id="cite_ref-nanowire_11-0" class="reference"><a href="#cite_note-nanowire-11">[11]</a></sup></p>
+<h3><span class="mw-headline" id="Fundamental_challenge_factors">Fundamental challenge factors</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hybrid_solar_cell&amp;action=edit&amp;section=7" title="Edit section: Fundamental challenge factors">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Hybrid cell efficiency must be increased to start large-scale manufacturing. Three factors affect efficiency.<sup id="cite_ref-S1_2-1" class="reference"><a href="#cite_note-S1-2">[2]</a></sup><sup id="cite_ref-S3_12-0" class="reference"><a href="#cite_note-S3-12">[12]</a></sup> First, the bandgap should be reduced to absorb red photons, which contain a significant fraction of the energy in the solar spectrum. Current organic photovoltaics have shown 70% of quantum efficiency for blue photons. Second, contact resistance between each layer in the device should be minimized to offer higher fill factor and power conversion efficiency. Third, charge-carrier mobility should be increased to allow the photovoltaics to have thicker active layers while minimizing carrier recombination and keeping the series resistance of the device low.</p>
+<h2><span class="mw-headline" id="Types_of_hybrid_solar_cells">Types of hybrid solar cells</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hybrid_solar_cell&amp;action=edit&amp;section=8" title="Edit section: Types of hybrid solar cells">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Polymer.E2.80.93nanoparticle_composite">Polymer–nanoparticle composite</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hybrid_solar_cell&amp;action=edit&amp;section=9" title="Edit section: Polymer–nanoparticle composite">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Nanoparticles are a class of semiconductor materials whose size in at least one dimension ranges from 1 to 100 nanometers, on the order of exciton wavelengths. This size control creates quantum confinement and allows for the tuning of optoelectronic properties, such as band gap and electron affinity. Nanoparticles also have a large surface area to volume ratio, which presents more area for charge transfer to occur.<sup id="cite_ref-M6_13-0" class="reference"><a href="#cite_note-M6-13">[13]</a></sup></p>
+<p>The photoactive layer can be created by mixing nanoparticles into a polymer matrix. Solar devices based on polymer-nanoparticle composites most resemble <a href="/wiki/Polymer_solar_cells" class="mw-redirect" title="Polymer solar cells">polymer solar cells</a>. In this case, the nanoparticles take the place of the fullerene based acceptors used in fully organic polymer solar cells. Hybrid solar cells based upon nanoparticles are an area of research interest because nanoparticles have several properties that could make them preferable to fullerenes, such as:</p>
+<ul>
+<li>Fullerenes are synthesized by a combination of a high temperature arc method and continuous gas-phase synthesis, which makes their production difficult and energy intensive. The colloidal synthesis of nanoparticles by contrast is a low temperature process.</li>
+<li>PCBM (a common fullerene acceptor) diffuses during long timespans or when exposed to heat, which can alter the morphology and lower the efficiency of a polymer solar cell. Limited testing of nanoparticle solar cells indicates they may be more stable over time.</li>
+<li>Nanoparticles are more absorbent than fullerenes, meaning more light can be theoretically absorbed in a thinner device.</li>
+<li>Nanoparticle size can affect absorption. This combined with the fact that there are many possible semiconducting nanoparticles allows for highly customizable bandgaps that can be easily tuned to certain frequencies, which would be advantageous in tandem solar cells.</li>
+<li>Nanoparticles with size near their Bohr radius can generate two excitons when struck by a sufficiently energetic photon.<sup id="cite_ref-dx_14-0" class="reference"><a href="#cite_note-dx-14">[14]</a></sup></li>
+</ul>
+<h4><span class="mw-headline" id="Structure_and_processing">Structure and processing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hybrid_solar_cell&amp;action=edit&amp;section=10" title="Edit section: Structure and processing">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Nanoparticles_mike.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Nanoparticles_mike.JPG/220px-Nanoparticles_mike.JPG" width="220" height="124" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Nanoparticles_mike.JPG/330px-Nanoparticles_mike.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Nanoparticles_mike.JPG/440px-Nanoparticles_mike.JPG 2x" data-file-width="478" data-file-height="269" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Nanoparticles_mike.JPG" class="internal" title="Enlarge"></a></div>
+Figure 3. Four different structures of nanoparticles, which have at least 1 dimension in the 1–100 nm range, retaining quantum confinement. Left is a nanocrystal, next to it is nanorod, third is tetrapod, and right is hyperbranched.</div>
+</div>
+</div>
+<p>For polymers used in this device, hole mobilities are greater than electron mobilities, so the polymer phase is used to transport holes. The nanoparticles transport electrons to the electrode.<sup id="cite_ref-M6_13-1" class="reference"><a href="#cite_note-M6-13">[13]</a></sup></p>
+<p>The interfacial area between the polymer phase and the nanoparticles needs to be large. This is achieved by dispersing the particles throughout the polymer matrix. However, the nanoparticles need to be interconnected to form percolation networks for electron transport, which occurs by hopping events.<sup id="cite_ref-M6_13-2" class="reference"><a href="#cite_note-M6-13">[13]</a></sup></p>
+<p>Efficiency is affected by aspect ratio, geometry, and volume fraction of the nanoparticles. Nanoparticle structures include nanocrystals, nanorods, and hyperbranched structures.<sup id="cite_ref-M1_3-3" class="reference"><a href="#cite_note-M1-3">[3]</a></sup> Figure 3 contains a picture of each structure. Different structures change the conversion efficiency by effecting nanoparticle dispersion in the polymer and providing pathways for electron transport.</p>
+<p>The nanoparticle phase is required to provide a pathway for the electrons to reach the electrode. By using nanorods instead of nanocrystals, the hopping event from one crystal to another can be avoided.<sup id="cite_ref-M6_13-3" class="reference"><a href="#cite_note-M6-13">[13]</a></sup></p>
+<p>Fabrication methods include mixing the two materials in a solution and spin-coating it onto a substrate, and solvent evaporation (sol-gel). Most of these methods do not involve high-temperature processing. Annealing increases order in the polymer phase, increasing conductivity. However, annealing for too long causes the polymer domain size to increase, eventually making it larger than the exciton diffusion length, and possibly allowing some of the metal from the contact to diffuse into the photoactive layer, reducing the efficiency of the device.<sup id="cite_ref-M1_3-4" class="reference"><a href="#cite_note-M1-3">[3]</a></sup><sup id="cite_ref-M6_13-4" class="reference"><a href="#cite_note-M6-13">[13]</a></sup></p>
+<h4><span class="mw-headline" id="Materials">Materials</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hybrid_solar_cell&amp;action=edit&amp;section=11" title="Edit section: Materials">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Inorganic semiconductor nanoparticles used in hybrid cells include CdSe (size ranges from 6–20&#160;nm), ZnO, TiO, and PbS. Common polymers used as photo materials have extensive conjugation and are also hydrophobic. Their efficiency as a photo-material is affected by the <a href="/wiki/HOMO/LUMO" title="HOMO/LUMO">HOMO</a> level position and the ionization potential, which directly affects the open circuit voltage and the stability in air. The most common polymers used are P3HT (poly (3-hexylthiophene)), and M3H-PPV (poly[2-methoxy, 5-(2′-ethyl-hexyloxy)-p-phenylenevinylene)]). P3HT has a bandgap of 2.1 eV and M3H-PPV has a bandgap of ~2.4 eV. These values correspond with the bandgap of CdSe, 2.10 eV. The electron affinity of CdSe ranges from 4.4 to 4.7 eV. When the polymer used is MEH-PPV, which has an electron affinity of 3.0 eV, the difference between the electron affinities is large enough to drive electron transfer from the CdSe to the polymer. CdSe also has a high electron mobility (600&#160;cm<sup>2</sup>·V<sup>−1</sup>·s<sup>−1</sup>).<sup id="cite_ref-M1_3-5" class="reference"><a href="#cite_note-M1-3">[3]</a></sup><sup id="cite_ref-M3_5-2" class="reference"><a href="#cite_note-M3-5">[5]</a></sup></p>
+<h4><span class="mw-headline" id="Performance_values">Performance values</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hybrid_solar_cell&amp;action=edit&amp;section=12" title="Edit section: Performance values">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>The highest demonstrated efficiency is 3.2%, based upon a PCPDTBT polymer donor and CdSe nanoparticle acceptor. The device exhibited a short circuit current of 10.1 mA·cm<sup>−2</sup>, an open circuit voltage of .68 V, and a fill factor of .51.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup></p>
+<h4><span class="mw-headline" id="Challenges">Challenges</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hybrid_solar_cell&amp;action=edit&amp;section=13" title="Edit section: Challenges">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Hybrid solar cells need increased efficiencies and stability over time before commercialization is feasible. In comparison to the 2.4% of the CdSe-PPV system, silicon photodevices have power conversion efficiencies greater than 20%.</p>
+<p>Problems include controlling the amount of nanoparticle aggregation as the photolayer forms. The particles need to be dispersed in order to maximize interface area, but need to aggregate to form networks for electron transport. The network formation is sensitive to the fabrication conditions. Dead end pathways can impede flow. A possible solution is implementing ordered heterojunctions, where the structure is well controlled.<sup id="cite_ref-M6_13-5" class="reference"><a href="#cite_note-M6-13">[13]</a></sup></p>
+<p>The structures can undergo morphological changes over time, namely phase separation. Eventually, the polymer domain size will be greater than the carrier diffusion length, which lowers performance.<sup id="cite_ref-M1_3-6" class="reference"><a href="#cite_note-M1-3">[3]</a></sup></p>
+<p>Even though the nanoparticle bandgap can be tuned, it needs to be matched with the corresponding polymer. The 2.0 eV bandgap of CdSe is larger than an ideal bandgap of 1.4 for absorbance of light.<sup id="cite_ref-M6_13-6" class="reference"><a href="#cite_note-M6-13">[13]</a></sup></p>
+<p>The nanoparticles involved are typically colloids, which are stabilized in solution by ligands. The ligands decrease device efficiency because they serve as insulators which impede interaction between the donor and nanoparticle acceptor as well as decreasing the electron mobility. Some, but not complete success has been had by exchanging the initial ligands for pyridine or another short chain ligand.<sup id="cite_ref-dx_14-1" class="reference"><a href="#cite_note-dx-14">[14]</a></sup></p>
+<p>Hybrid solar cells exhibit material properties inferior to those of bulk silicon semiconductors. The carrier mobilities are much smaller than that of silicon. Electron mobility in silicon is 1000&#160;cm<sup>2</sup>·V<sup>−1</sup>·s<sup>−1</sup>, compared to 600&#160;cm<sup>2</sup>·V<sup>−1</sup>·s<sup>−1</sup> in CdSe, and less than 10&#160;cm<sup>2</sup>·V<sup>−1</sup>·s<sup>−1</sup> in other quantum dot materials. Hole mobility in MEH-PPV is 0.1&#160;cm<sup>2</sup>·V<sup>−1</sup>·s<sup>−1</sup>, while in silicon it is 450&#160;cm<sup>2</sup>·V<sup>−1</sup>·s<sup>−1</sup>.<sup id="cite_ref-M6_13-7" class="reference"><a href="#cite_note-M6-13">[13]</a></sup></p>
+<h3><span class="mw-headline" id="Carbon_nanotubes">Carbon nanotubes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hybrid_solar_cell&amp;action=edit&amp;section=14" title="Edit section: Carbon nanotubes">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Carbon_nanotube" title="Carbon nanotube">Carbon nanotubes</a> (CNTs) have high electron conductivity, high thermal conductivity, robustness, and flexibility. Field emission displays (FED), strain sensors, and field effect transistors (FET) using CNTs have been demonstrated.<sup id="cite_ref-H1_16-0" class="reference"><a href="#cite_note-H1-16">[16]</a></sup><sup id="cite_ref-H2_17-0" class="reference"><a href="#cite_note-H2-17">[17]</a></sup><sup id="cite_ref-H3_18-0" class="reference"><a href="#cite_note-H3-18">[18]</a></sup> Each application shows the potential of CNTs for nanoscale devices and for flexible electronics applications. Photovoltaic applications have also been explored for this material.</p>
+<p>Mainly, CNTs have been used as either the photo-induced exciton carrier transport medium impurity within a polymer-based photovoltaic layer or as the photoactive (photon-electron conversion) layer. Metallic CNT is preferred for the former application, while semiconducting CNT is preferred for the later.</p>
+<h4><span class="mw-headline" id="Efficient_carrier_transport_medium">Efficient carrier transport medium</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hybrid_solar_cell&amp;action=edit&amp;section=15" title="Edit section: Efficient carrier transport medium">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Cntpolymer_hj.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Cntpolymer_hj.JPG/220px-Cntpolymer_hj.JPG" width="220" height="118" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Cntpolymer_hj.JPG/330px-Cntpolymer_hj.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/9/98/Cntpolymer_hj.JPG 2x" data-file-width="400" data-file-height="215" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Cntpolymer_hj.JPG" class="internal" title="Enlarge"></a></div>
+Device diagram for CNT as efficient carrier transport medium.</div>
+</div>
+</div>
+<p>To increase the photovoltaic efficiency, electron-accepting impurities must be added to the photoactive region. By incorporating CNTs into the polymer, dissociation of the exciton pair can be accomplished by the CNT matrix. The high surface area (~1600 m<sup>2</sup>/g) <sup id="cite_ref-H4_19-0" class="reference"><a href="#cite_note-H4-19">[19]</a></sup> of CNTs offers a good opportunity for exciton dissociation. The separated carriers within the polymer-CNT matrix are transported by the percolation pathways of adjacent CNTs, providing the means for high carrier mobility and efficient charge transfer. The factors of performance of CNT-polymer hybrid photovoltaics are low compared to those of inorganic photovoltaics. SWNT in P3OT semiconductor polymer demonstrated open circuit voltage (V<sub>oc</sub>) of below 0.94 V, with short circuit current (I<sub>sc</sub>) of 0.12 mA/cm<sup>2</sup>.<sup id="cite_ref-H4_19-1" class="reference"><a href="#cite_note-H4-19">[19]</a></sup></p>
+<p>Metal nanoparticles may be applied to the exterior of CNTs to increase the exciton separation efficiency. The metal provides a higher electric field at the CNT-polymer interface, accelerating the exciton carriers to transfer them more effectively to the CNT matrix. In this case, V<sub>oc</sub> = 0.3396 V and I<sub>sc</sub> = 5.88 mA/cm<sup>2</sup>. The fill factor is 0.3876%, and the white light conversion factor 0.775%.<sup id="cite_ref-H5_20-0" class="reference"><a href="#cite_note-H5-20">[20]</a></sup></p>
+<h4><span class="mw-headline" id="Photoactive_matrix_layer">Photoactive matrix layer</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hybrid_solar_cell&amp;action=edit&amp;section=16" title="Edit section: Photoactive matrix layer">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>CNT may be used as a photovoltaic device not only as an add-in material to increase carrier transport, but also as the photoactive layer itself.<sup id="cite_ref-H6_21-0" class="reference"><a href="#cite_note-H6-21">[21]</a></sup> The semiconducting single walled CNT (SWCNT) is a potentially attractive material for photovoltaic applications for the unique structural and electrical properties. SWCNT has high electric conductivity (100 times that of copper) and shows ballistic carrier transport, greatly decreasing carrier recombination.<sup id="cite_ref-H7_22-0" class="reference"><a href="#cite_note-H7-22">[22]</a></sup> The bandgap of the SWCNT is inversely proportional to the tube diameter,<sup id="cite_ref-H7_22-1" class="reference"><a href="#cite_note-H7-22">[22]</a></sup> which means that SWCNT may show multiple direct bandgaps matching the solar spectrum.</p>
+<p>A strong built-in electric field in SWCNT for efficient photogenerated electron-hole pair separation has been demonstrated by using two asymmetrical metal electrodes with high and low <a href="/wiki/Work_function" title="Work function">work functions</a>. The open circuit voltage (V<sub>oc</sub>) is 0.28 V, with short circuit current (I<sub>sc</sub>) 1.12 nA·cm<sup>−2</sup> with an incident light source of 8.8 W·cm<sup>−2</sup>. The resulting white light conversion factor is 0.8%.<sup id="cite_ref-H6_21-1" class="reference"><a href="#cite_note-H6-21">[21]</a></sup></p>
+<h4><span class="mw-headline" id="Challenges_2">Challenges</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hybrid_solar_cell&amp;action=edit&amp;section=17" title="Edit section: Challenges">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Several challenges must be addressed for CNT to be used in photovoltaic applications. CNT degrades overtime in an oxygen-rich environment. The passivation layer required to prevent CNT oxidation may reduce the optical transparency of the electrode region and lower the photovoltaic efficiency.</p>
+<h5><span class="mw-headline" id="Challenges_as_efficient_carrier_transport_medium">Challenges as efficient carrier transport medium</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hybrid_solar_cell&amp;action=edit&amp;section=18" title="Edit section: Challenges as efficient carrier transport medium">edit</a><span class="mw-editsection-bracket">]</span></span></h5>
+<p>Additional challenges involve the dispersion of CNT within the polymer photoactive layer. The CNT is required to be well dispersed within the polymer matrix to form charge-transfer-efficient pathways between the excitons and the electrode<sup id="cite_ref-H5_20-1" class="reference"><a href="#cite_note-H5-20">[20]</a></sup></p>
+<h5><span class="mw-headline" id="Challenges_as_photoactive_matrix_layer">Challenges as photoactive matrix layer</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hybrid_solar_cell&amp;action=edit&amp;section=19" title="Edit section: Challenges as photoactive matrix layer">edit</a><span class="mw-editsection-bracket">]</span></span></h5>
+<p>Challenges of CNT for the photoactive layer include its lack of capability to form a <a href="/wiki/P-n_junction" class="mw-redirect" title="P-n junction">p-n junction</a>, due to the difficulty of doping certain segments of a CNT. (A p-n junction creates an internal built-in potential, providing a pathway for efficient carrier separation within the photovoltaic.) To overcome this difficulty, energy band bending has been done by the use of two electrodes of different work functions. A strong built-in electric field covering the whole SWCNT channel is formed for high-efficiency carrier separation. The oxidation issue with CNT is more critical for this application. Oxidized CNTs have a tendency to become more metallic, and so less useful as a photovoltaic material.<sup id="cite_ref-H8_23-0" class="reference"><a href="#cite_note-H8-23">[23]</a></sup></p>
+<h3><span class="mw-headline" id="Dye-sensitized">Dye-sensitized</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hybrid_solar_cell&amp;action=edit&amp;section=20" title="Edit section: Dye-sensitized">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Dye-sensitized_solar_cell" title="Dye-sensitized solar cell">Dye-sensitized solar cells</a> consists of a photo-sensitized anode, an electrolyte, and a photo-electrochemical system. Hybrid solar cells based on dye-sensitized solar cells are formed with inorganic materials (<a href="/wiki/Titanium_dioxide" title="Titanium dioxide">TiO<sub>2</sub></a>) and organic materials.</p>
+<h4><span class="mw-headline" id="Materials_2">Materials</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hybrid_solar_cell&amp;action=edit&amp;section=21" title="Edit section: Materials">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Hybrid solar cells based on dye-sensitized solar cells are fabricated by dye-absorbed inorganic materials and organic materials. TiO<sub>2</sub> is the preferred inorganic material since this material is easy to synthesize and acts as a n-type semiconductor due to the donor-like oxygen vacancies. However, titania only absorbs a small fraction of the UV spectrum. Molecular sensitizers (dye molecules) attached to the semiconductor surface are used to collect a greater portion of the spectrum. In the case of titania dye-sensitized solar cells, a photon absorbed by a dye-sensitizer molecule layer induces electron injection into the conduction band of titania, resulting in current flow. However, short diffusion length (diffusivity, D<sub>n</sub>≤10<sup>−4</sup>cm<sup>2</sup>/s) in titania dye-sensitized solar cells decrease the solar-to-energy conversion efficiency. To enhance diffusion length (or carrier lifetime), a variety of organic materials are attached to the titania.</p>
+<h4><span class="mw-headline" id="Fabrication_scheme">Fabrication scheme</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hybrid_solar_cell&amp;action=edit&amp;section=22" title="Edit section: Fabrication scheme">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<h5><span class="mw-headline" id="Dye-sensitized_photoelectrochemical_cell_.28Gr.C3.A4tzel_cell.29">Dye-sensitized photoelectrochemical cell (Grätzel cell)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hybrid_solar_cell&amp;action=edit&amp;section=23" title="Edit section: Dye-sensitized photoelectrochemical cell (Grätzel cell)">edit</a><span class="mw-editsection-bracket">]</span></span></h5>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Dyeelectron_kh.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/02/Dyeelectron_kh.JPG/220px-Dyeelectron_kh.JPG" width="220" height="154" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/02/Dyeelectron_kh.JPG/330px-Dyeelectron_kh.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/02/Dyeelectron_kh.JPG/440px-Dyeelectron_kh.JPG 2x" data-file-width="523" data-file-height="367" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Dyeelectron_kh.JPG" class="internal" title="Enlarge"></a></div>
+Fig. 5. Schematic representation of electron-hole generation and recombination</div>
+</div>
+</div>
+<p>TiO<sub>2</sub> nanoparticles are synthesized in several tens of nanometer scales (~100&#160;nm). In order to make a photovoltaic cell, molecular sensitizers (dye molecules) are attached to the titania surface. The dye-absorbed titania is finally enclosed by a liquid electrolyte. This type of dye-sensitized solar cell is also known as a Grätzel cell.<sup id="cite_ref-K1_24-0" class="reference"><a href="#cite_note-K1-24">[24]</a></sup> Dye-sensitized solar cell has a disadvantage of a short diffusion length. Recently, <a href="/wiki/Supermolecular" class="mw-redirect" title="Supermolecular">supermolecular</a> or multifunctional sensitizers have been investigated so as to enhance carrier diffusion length.<sup id="cite_ref-K2_25-0" class="reference"><a href="#cite_note-K2-25">[25]</a></sup> For example, a dye <a href="/wiki/Chromophore" title="Chromophore">chromophore</a> has been modified by the addition of secondary electron donors. Minority carriers (holes in this case) diffuse to the attached electron donors to recombine. Therefore, electron-hole recombination is retarded by the physical separation between the dye–cation moiety and the TiO<sub>2</sub> surface, as shown in Fig. 5. Finally, this process raises the carrier diffusion length, resulting in the increase of carrier lifetime.</p>
+<h5><span class="mw-headline" id="Solid-state_dye_sensitized_solar_cell">Solid-state dye sensitized solar cell</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hybrid_solar_cell&amp;action=edit&amp;section=24" title="Edit section: Solid-state dye sensitized solar cell">edit</a><span class="mw-editsection-bracket">]</span></span></h5>
+<p><a href="/wiki/Mesoporous_material" title="Mesoporous material">Mesoporous materials</a> contain pores with diameters between 2 and 50&#160;nm. A dye-sensitized mesoporous film of TiO<sub>2</sub> can be used for making photovoltaic cells and this solar cell is called a ‘solid-state dye sensitized solar cell’. The pores in mesoporous TiO<sub>2</sub> thin film are filled with a solid hole-conducting material such as p-type semiconductors or organic hole conducting material. Replacing the liquid electrolyte in Grätzel’s cells with a solid charge-transport material can be beneficial. The process of electron-hole generation and recombination is the same as Grätzel cells. Electrons are injected from photoexcited dye into the conduction band of titania and holes are transported by a solid charge transport electrolyte to an electrode. Many organic materials have been tested to obtain a high solar-to-energy conversion efficiency in dye synthesized solar cells based on mesoporous titania thin film.<sup id="cite_ref-K3_26-0" class="reference"><a href="#cite_note-K3-26">[26]</a></sup></p>
+<h4><span class="mw-headline" id="Efficiency_factors">Efficiency factors</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hybrid_solar_cell&amp;action=edit&amp;section=25" title="Edit section: Efficiency factors">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Efficiency factors demonstrated for <a href="/wiki/Dye-sensitized_solar_cell" title="Dye-sensitized solar cell">dye-sensitized solar cells</a> are</p>
+<table class="wikitable" style="text-align: center;">
+<tr>
+<th rowspan="2">Parameters</th>
+<th colspan="2">Types of dye sensitized solar cells</th>
+</tr>
+<tr>
+<th>Grätzel cell</th>
+<th>Solid-state</th>
+</tr>
+<tr>
+<td style="text-align: left; padding-left: 8px; font-weight: bold; background-color: #f2f2f2;">Efficiency&#160;(%)</td>
+<td>~ 10–11</td>
+<td>~ 4</td>
+</tr>
+<tr>
+<td style="text-align: left; padding-left: 8px; font-weight: bold; background-color: #f2f2f2;">V<sub>oc</sub>&#160;(V)</td>
+<td>~ 0.7</td>
+<td>~ 0.40</td>
+</tr>
+<tr>
+<td style="text-align: left; padding-left: 8px; font-weight: bold; background-color: #f2f2f2;">J<sub>sc</sub>&#160;(mA/cm<sup>2</sup>)</td>
+<td>~ 20</td>
+<td>~ 9.10</td>
+</tr>
+<tr>
+<td style="text-align: left; padding-left: 8px; font-weight: bold; background-color: #f2f2f2;">Fill factor</td>
+<td>~ 0.67</td>
+<td>~ 0.6</td>
+</tr>
+<tr>
+<td colspan="3" style="font-size: 0.85em; padding-left: 8px; text-align: left; background-color: #f2f2f2;">Source:</td>
+</tr>
+</table>
+<h4><span class="mw-headline" id="Challenges_3">Challenges</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hybrid_solar_cell&amp;action=edit&amp;section=26" title="Edit section: Challenges">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Liquid organic electrolytes contain highly corrosive iodine, leading to problems of leakage, sealing, handling, dye desorption, and maintenance. Much attention is now focused on the electrolyte to address these problems.</p>
+<p>For solid-state dye sensitized solar cells, the first challenge originates from disordered titania mesoporous structures. Mesoporous titania structures should be fabricated with well-ordered titania structures of uniform size (~ 10&#160;nm). The second challenge comes from developing the solid electrolyte, which is required to have these properties:</p>
+<ol>
+<li>The electrolyte should be transparent to the visible spectrum (wide band gap).</li>
+<li>Fabrication should be possible for depositing the solid electrolyte without degrading the dye molecule layer on titania.</li>
+<li>The LUMO of the dye molecule should be higher than the conduction band of titania.</li>
+<li>Several p-type semiconductors tend to crystallize inside the mesoporous titania films, destroying the dye molecule-titania contact. Therefore, the solid electrolyte needs to be stable during operation.</li>
+</ol>
+<h3><span class="mw-headline" id="Nanostructured_inorganic_.E2.80.94_small_molecules">Nanostructured inorganic — small molecules</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hybrid_solar_cell&amp;action=edit&amp;section=27" title="Edit section: Nanostructured inorganic — small molecules">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In 2008, scientists were able to create a nanostructured lamellar structure that provides an ideal design for bulk heterojunction solar cells.<sup id="cite_ref-K4_27-0" class="reference"><a href="#cite_note-K4-27">[27]</a></sup> The observed structure is composed of ZnO and small, conducting organic molecules, which co-assemble into alternating layers of organic and inorganic components. This highly organized structure, which is stabilized by π-π stacking between the organic molecules, allows for conducting pathways in both the organic and inorganic layers. The thicknesses of the layers (about 1–3&#160;nm) are well within the exciton diffusion length, which ideally minimizes recombination among charge carriers. This structure also maximizes the interface between the inorganic ZnO and the organic molecules, which enables a high chromophore loading density within the structure. Due to the choice of materials, this system is non-toxic and environmentally friendly, unlike many other systems which use lead or cadmium.</p>
+<p>Although this system has not yet been incorporated into a photovoltaic device, preliminary photoconductivity measurements have shown that this system exhibits among the highest values measured for organic, hybrid, and amorphous silicon photoconductors, and so, offers promise in creating efficient hybrid photovoltaic devices.</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hybrid_solar_cell&amp;action=edit&amp;section=28" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 35em; -webkit-column-width: 35em; column-width: 35em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-S2-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-S2_1-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Milliron, Delia J.; Gur, Ilan; Alivisatos, A. Paul (2005). "Hybrid Organic–Nanocrystal Solar Cells". <i>MRS Bulletin</i>. <b>30</b>: 41–44. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1557%2Fmrs2005.8">10.1557/mrs2005.8</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHybrid+solar+cell&amp;rft.atitle=Hybrid+Organic%93Nanocrystal+Solar+Cells&amp;rft.au=Alivisatos%2C+A.+Paul&amp;rft.aufirst=Delia+J.&amp;rft.au=Gur%2C+Ilan&amp;rft.aulast=Milliron&amp;rft.date=2005&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1557%2Fmrs2005.8&amp;rft.jtitle=MRS+Bulletin&amp;rft.pages=41-44&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=30" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-S1-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-S1_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-S1_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Shaheen, Sean E.; Ginley, David S.; Jabbour, Ghassan E. (2005). "Organic–Based Photovoltaics". <i>MRS Bulletin</i>. <b>30</b>: 10–19. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1557%2Fmrs2005.2">10.1557/mrs2005.2</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHybrid+solar+cell&amp;rft.atitle=Organic%93Based+Photovoltaics&amp;rft.aufirst=Sean+E.&amp;rft.au=Ginley%2C+David+S.&amp;rft.au=Jabbour%2C+Ghassan+E.&amp;rft.aulast=Shaheen&amp;rft.date=2005&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1557%2Fmrs2005.2&amp;rft.jtitle=MRS+Bulletin&amp;rft.pages=10-19&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=30" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-M1-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-M1_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-M1_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-M1_3-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-M1_3-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-M1_3-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-M1_3-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-M1_3-6"><sup><i><b>g</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Saunders, B.R.; Turner, M.L. (2008). "Nanoparticle-polymer photovoltaic cells". <i>Advances in Colloid and Interface Science</i>. <b>138</b> (1): 1–23. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2Fj.cis.2007.09.001">10.1016/j.cis.2007.09.001</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/17976501">17976501</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHybrid+solar+cell&amp;rft.atitle=Nanoparticle-polymer+photovoltaic+cells&amp;rft.au=Saunders%2C+B.R.&amp;rft.au=Turner%2C+M.L.&amp;rft.date=2008&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2Fj.cis.2007.09.001&amp;rft_id=info%3Apmid%2F17976501&amp;rft.issue=1&amp;rft.jtitle=Advances+in+Colloid+and+Interface+Science&amp;rft.pages=1-23&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=138" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-M2-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-M2_4-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Sariciftci, N.S.; Smilowitz, L.; Heeger, A.J.; Wudl, F. (1993). "Semiconducting polymers (as donors) and buckminsterfullerene (as acceptor): photoinduced electron transfer and heterojunction devices". <i>Synthetic Metals</i>. <b>59</b> (3): 333–352. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2F0379-6779%2893%2991166-Y">10.1016/0379-6779(93)91166-Y</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHybrid+solar+cell&amp;rft.atitle=Semiconducting+polymers+%28as+donors%29+and+buckminsterfullerene+%28as+acceptor%29%3A+photoinduced+electron+transfer+and+heterojunction+devices&amp;rft.au=Heeger%2C+A.J.&amp;rft.au=Sariciftci%2C+N.S.&amp;rft.au=Smilowitz%2C+L.&amp;rft.au=Wudl%2C+F.&amp;rft.date=1993&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2F0379-6779%2893%2991166-Y&amp;rft.issue=3&amp;rft.jtitle=Synthetic+Metals&amp;rft.pages=333-352&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=59" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-M3-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-M3_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-M3_5-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-M3_5-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Ginger, D.S.; Greenham, N.C. (1999). "Photoinduced electron transfer from conjugated polymers to CdSe nanocrystals". <i>Physical Review B</i>. <b>59</b> (16): 624–629. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/1999PhRvB..5910622G">1999PhRvB..5910622G</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1103%2FPhysRevB.59.10622">10.1103/PhysRevB.59.10622</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHybrid+solar+cell&amp;rft.atitle=Photoinduced+electron+transfer+from+conjugated+polymers+to+CdSe+nanocrystals&amp;rft.au=Ginger%2C+D.S.&amp;rft.au=Greenham%2C+N.C.&amp;rft.date=1999&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F1999PhRvB..5910622G&amp;rft_id=info%3Adoi%2F10.1103%2FPhysRevB.59.10622&amp;rft.issue=16&amp;rft.jtitle=Physical+Review+B&amp;rft.pages=624-629&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=59" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-M4-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-M4_6-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Scheblykin, I.G.; Yartsev, A.; Pullertis, T.; Gulbinas, V.; Sundstrm, V. (2007). "Excited State and Charge Photogeneration Dynamics in Conjugated Polymers". <i>J. Phys. Chem. B</i>. <b>111</b> (23): 6303–6321. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1021%2Fjp068864f">10.1021/jp068864f</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/17521181">17521181</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHybrid+solar+cell&amp;rft.atitle=Excited+State+and+Charge+Photogeneration+Dynamics+in+Conjugated+Polymers&amp;rft.au=Gulbinas%2C+V.&amp;rft.au=Pullertis%2C+T.&amp;rft.au=Scheblykin%2C+I.G.&amp;rft.au=Sundstrm%2C+V.&amp;rft.au=Yartsev%2C+A.&amp;rft.date=2007&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1021%2Fjp068864f&amp;rft_id=info%3Apmid%2F17521181&amp;rft.issue=23&amp;rft.jtitle=J.+Phys.+Chem.+B&amp;rft.pages=6303-6321&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=111" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-M5-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-M5_7-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Shaw, P.E.; Ruseckas, A.; Samuel, I.D.W (2008). "Exciton Diffusion Measurements in Poly(3-hexylthiophene)". <i>Advanced Materials</i>. <b>20</b> (18): 3516–3520. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1002%2Fadma.200800982">10.1002/adma.200800982</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHybrid+solar+cell&amp;rft.atitle=Exciton+Diffusion+Measurements+in+Poly%283-hexylthiophene%29&amp;rft.au=Ruseckas%2C+A.&amp;rft.au=Samuel%2C+I.D.W&amp;rft.au=Shaw%2C+P.E.&amp;rft.date=2008&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1002%2Fadma.200800982&amp;rft.issue=18&amp;rft.jtitle=Advanced+Materials&amp;rft.pages=3516-3520&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=20" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-mesoporous-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-mesoporous_8-0">^</a></b></span> <span class="reference-text"><cite class="citation book">A. Vats; R. Shende; J. Swiatkiewicz; J. Puszynski. "Chapter 2: Renewables: Photovoltaics, Wind &amp; Geothermal. Mesoporous TiO<sub>2</sub> thin-film for Dye-Sensitized Solar Cell (DSSC) Applicationv". <a rel="nofollow" class="external text" href="http://www.ct-si.org/publications/proceedings/procs/Cleantech2008/2/850"><i>Clean Technology 2008. Technical Proceedings of the 2008 Clean Technology Conference and Trade Show</i></a>. pp.&#160;113–116.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHybrid+solar+cell&amp;rft.atitle=Chapter+2%3A+Renewables%3A+Photovoltaics%2C+Wind+%26+Geothermal.+Mesoporous+TiO%3Csub%3E2%3C%2Fsub%3E+thin-film+for+Dye-Sensitized+Solar+Cell+%28DSSC%29+Applicationv&amp;rft.au=A.+Vats&amp;rft.au=J.+Puszynski&amp;rft.au=J.+Swiatkiewicz&amp;rft.au=R.+Shende&amp;rft.btitle=Clean+Technology+2008.+Technical+Proceedings+of+the+2008+Clean+Technology+Conference+and+Trade+Show&amp;rft.genre=bookitem&amp;rft_id=http%3A%2F%2Fwww.ct-si.org%2Fpublications%2Fproceedings%2Fprocs%2FCleantech2008%2F2%2F850&amp;rft.pages=113-116&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-lamellar-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-lamellar_9-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Herman, David J.; Goldberger, Joshua E.; Chao, Stephen; Martin, Daniel T.; Stupp, Samuel I. (2011). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC3127581">"Orienting Periodic Organic−Inorganic Nanoscale Domains Through One-Step Electrodeposition"</a>. <i>ACS Nano</i>. <b>5</b> (1): 565–73. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1021%2Fnn102697r">10.1021/nn102697r</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<span class="plainlinks"><a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC3127581">3127581</a><span style="margin-left:0.1em"><img alt="Freely accessible" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" title="Freely accessible" width="9" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" data-file-width="512" data-file-height="813" /></span></span>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/21142087">21142087</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHybrid+solar+cell&amp;rft.atitle=Orienting+Periodic+Organic%88%92Inorganic+Nanoscale+Domains+Through+One-Step+Electrodeposition&amp;rft.au=Chao%2C+Stephen&amp;rft.aufirst=David+J.&amp;rft.au=Goldberger%2C+Joshua+E.&amp;rft.aulast=Herman&amp;rft.au=Martin%2C+Daniel+T.&amp;rft.au=Stupp%2C+Samuel+I.&amp;rft.date=2011&amp;rft.genre=article&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC3127581&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC3127581&amp;rft_id=info%3Adoi%2F10.1021%2Fnn102697r&amp;rft_id=info%3Apmid%2F21142087&amp;rft.issue=1&amp;rft.jtitle=ACS+Nano&amp;rft.pages=565-73&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=5" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation journal">Weickert, J.; Dunbar, R.B.; Wiedemann, W.; Hesse, H.C.; Schmidt-Mende, L. (2011). "Nanostructured Organic and Hybrid Solar Cells". <i>Advanced Materials</i>. <b>23</b>: 1810. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1002%2Fadma.201003991">10.1002/adma.201003991</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHybrid+solar+cell&amp;rft.atitle=Nanostructured+Organic+and+Hybrid+Solar+Cells&amp;rft.au=Dunbar%2C+R.B.&amp;rft.au=Hesse%2C+H.C.&amp;rft.au=Schmidt-Mende%2C+L.&amp;rft.au=Weickert%2C+J.&amp;rft.au=Wiedemann%2C+W.&amp;rft.date=2011&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1002%2Fadma.201003991&amp;rft.jtitle=Advanced+Materials&amp;rft.pages=1810&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=23" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-nanowire-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-nanowire_11-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Garnett, Erik C.; Brongersma, Mark L.; Cui, Yi; McGehee, Michael D. (2011). "Nanowire Solar Cells". <i>Annual Review of Materials Research</i>. <b>41</b>: 269–295. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1146%2Fannurev-matsci-062910-100434">10.1146/annurev-matsci-062910-100434</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHybrid+solar+cell&amp;rft.atitle=Nanowire+Solar+Cells&amp;rft.au=Brongersma%2C+Mark+L.&amp;rft.au=Cui%2C+Yi&amp;rft.aufirst=Erik+C.&amp;rft.aulast=Garnett&amp;rft.au=McGehee%2C+Michael+D.&amp;rft.date=2011&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1146%2Fannurev-matsci-062910-100434&amp;rft.jtitle=Annual+Review+of+Materials+Research&amp;rft.pages=269-295&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=41" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-S3-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-S3_12-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">"Ordered Organic–Inorganic Bulk Heterojunction Photovoltaic Cells". <i>MRS Bulletin</i>: 37–40. 2005.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHybrid+solar+cell&amp;rft.atitle=Ordered+Organic%93Inorganic+Bulk+Heterojunction+Photovoltaic+Cells&amp;rft.date=2005&amp;rft.genre=article&amp;rft.jtitle=MRS+Bulletin&amp;rft.pages=37-40&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-M6-13"><span class="mw-cite-backlink">^ <a href="#cite_ref-M6_13-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-M6_13-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-M6_13-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-M6_13-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-M6_13-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-M6_13-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-M6_13-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-M6_13-7"><sup><i><b>h</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Wu, M.H; Ueda, A.; Mu, R (2005). "Semiconductor Quantum Dot Based Nanocomposite Solar Cells". <i>Organic Photovoltaics: Mechanisms, Materials, and Devices</i>. CRC Press. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1201%2F9781420026351.ch14">10.1201/9781420026351.ch14</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-8247-5963-6" title="Special:BookSources/978-0-8247-5963-6">978-0-8247-5963-6</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHybrid+solar+cell&amp;rft.atitle=Semiconductor+Quantum+Dot+Based+Nanocomposite+Solar+Cells&amp;rft.au=Mu%2C+R&amp;rft.au=Ueda%2C+A.&amp;rft.au=Wu%2C+M.H&amp;rft.btitle=Organic+Photovoltaics%3A+Mechanisms%2C+Materials%2C+and+Devices&amp;rft.date=2005&amp;rft.genre=bookitem&amp;rft_id=info%3Adoi%2F10.1201%2F9781420026351.ch14&amp;rft.isbn=978-0-8247-5963-6&amp;rft.pub=CRC+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-dx-14"><span class="mw-cite-backlink">^ <a href="#cite_ref-dx_14-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-dx_14-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Saunders, Brian R. (March 2012). "Hybrid polymer/nanoparticle solar cells: Preparation, principles and challenges". <i>Journal of Colloid and Interface Science</i>. <b>369</b> (1): 1–15. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2Fj.jcis.2011.12.016">10.1016/j.jcis.2011.12.016</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/22209577">22209577</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHybrid+solar+cell&amp;rft.atitle=Hybrid+polymer%2Fnanoparticle+solar+cells%3A+Preparation%2C+principles+and+challenges&amp;rft.aufirst=Brian+R.&amp;rft.aulast=Saunders&amp;rft.date=2012-03&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2Fj.jcis.2011.12.016&amp;rft_id=info%3Apmid%2F22209577&amp;rft.issue=1&amp;rft.jtitle=Journal+of+Colloid+and+Interface+Science&amp;rft.pages=1-15&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=369" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation journal">Dayal, Smita; Nikos Kopidakis , Dana C. Olson , David S. Ginley and Garry Rumbles; Olson, Dana C.; Ginley, David S.; Rumbles, Garry (2010). "Photovoltaic Devices with a Low Band Gap Polymer and CdSe Nanostructures Exceeding 3% Efficiency". <i>Nano Letters</i>. <b>10</b> (1): 239–242. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2010NanoL..10..239D">2010NanoL..10..239D</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1021%2Fnl903406s">10.1021/nl903406s</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/20000623">20000623</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHybrid+solar+cell&amp;rft.atitle=Photovoltaic+Devices+with+a+Low+Band+Gap+Polymer+and+CdSe+Nanostructures+Exceeding+3%25+Efficiency&amp;rft.aufirst=Smita&amp;rft.au=Ginley%2C+David+S.&amp;rft.aulast=Dayal&amp;rft.au=Nikos+Kopidakis+%2C+Dana+C.+Olson+%2C+David+S.+Ginley+and+Garry+Rumbles&amp;rft.au=Olson%2C+Dana+C.&amp;rft.au=Rumbles%2C+Garry&amp;rft.date=2010&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F2010NanoL..10..239D&amp;rft_id=info%3Adoi%2F10.1021%2Fnl903406s&amp;rft_id=info%3Apmid%2F20000623&amp;rft.issue=1&amp;rft.jtitle=Nano+Letters&amp;rft.pages=239-242&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=10" class="Z3988"><span style="display:none;">&#160;</span></span> <span class="citation-comment" style="display:none; color:#33aa33">CS1 maint: Multiple names: authors list (<a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">link</a>)</span></span></li>
+<li id="cite_note-H1-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-H1_16-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Charlier, J.-C.; Terrones, M.; Baxendale, M.; Meunier, V.; Zacharia, T.; Rupesinghe, N. L.; Hsu, W. K.; Grobert, N.; et al. (2002). "Enhanced Electron Field Emission in B-doped Carbon Nanotubes". <i>Nano letters</i>. <b>2</b> (11): 1191–1195. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2002NanoL...2.1191C">2002NanoL...2.1191C</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1021%2Fnl0256457">10.1021/nl0256457</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHybrid+solar+cell&amp;rft.atitle=Enhanced+Electron+Field+Emission+in+B-doped+Carbon+Nanotubes&amp;rft.au=Amaratunga%2C+G.+A.+J.&amp;rft.au=Baxendale%2C+M.&amp;rft.aufirst=J.-C.&amp;rft.au=Grobert%2C+N.&amp;rft.au=Hsu%2C+W.+K.&amp;rft.aulast=Charlier&amp;rft.au=Meunier%2C+V.&amp;rft.au=Rupesinghe%2C+N.+L.&amp;rft.au=Terrones%2C+H.&amp;rft.au=Terrones%2C+M.&amp;rft.au=Zacharia%2C+T.&amp;rft.date=2002&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F2002NanoL...2.1191C&amp;rft_id=info%3Adoi%2F10.1021%2Fnl0256457&amp;rft.issue=11&amp;rft.jtitle=Nano+letters&amp;rft.pages=1191-1195&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=2" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-H2-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-H2_17-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Dharap, Prasad; Li, Zhiling; Nagarajaiah, Satish; Barrera, E V (2004). "Nanotube film based on single-wall carbon nanotubes for strain sensing". <i>Nanotechnology</i>. <b>15</b> (3): 379–382. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2004Nanot..15..379D">2004Nanot..15..379D</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1088%2F0957-4484%2F15%2F3%2F026">10.1088/0957-4484/15/3/026</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHybrid+solar+cell&amp;rft.atitle=Nanotube+film+based+on+single-wall+carbon+nanotubes+for+strain+sensing&amp;rft.au=Barrera%2C+E+V&amp;rft.aufirst=Prasad&amp;rft.aulast=Dharap&amp;rft.au=Li%2C+Zhiling&amp;rft.au=Nagarajaiah%2C+Satish&amp;rft.date=2004&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F2004Nanot..15..379D&amp;rft_id=info%3Adoi%2F10.1088%2F0957-4484%2F15%2F3%2F026&amp;rft.issue=3&amp;rft.jtitle=Nanotechnology&amp;rft.pages=379-382&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=15" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-H3-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-H3_18-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Dekker, Cees; Tans, Sander J.; Verschueren, Alwin R. M. (1998). "Room-temperature transistor based on a single carbon nanotube". <i>Nature</i>. <b>393</b> (6680): 49–62. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/1998Natur.393...49T">1998Natur.393...49T</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1038%2F29954">10.1038/29954</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHybrid+solar+cell&amp;rft.atitle=Room-temperature+transistor+based+on+a+single+carbon+nanotube&amp;rft.aufirst=Cees&amp;rft.aulast=Dekker&amp;rft.au=Tans%2C+Sander+J.&amp;rft.au=Verschueren%2C+Alwin+R.+M.&amp;rft.date=1998&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F1998Natur.393...49T&amp;rft_id=info%3Adoi%2F10.1038%2F29954&amp;rft.issue=6680&amp;rft.jtitle=Nature&amp;rft.pages=49-62&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=393" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-H4-19"><span class="mw-cite-backlink">^ <a href="#cite_ref-H4_19-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-H4_19-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Cinke, Martin; Li, Jing; Chen, Bin; Cassell, Alan; Delzeit, Lance; Han, Jie; Meyyappan, M (2002). "Pore structure of raw and purified HiPco single-walled carbon nanotubes". <i>Chemical Physics Letters</i>. <b>365</b>: 69–74. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2002CPL...365...69C">2002CPL...365...69C</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2FS0009-2614%2802%2901420-3">10.1016/S0009-2614(02)01420-3</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHybrid+solar+cell&amp;rft.atitle=Pore+structure+of+raw+and+purified+HiPco+single-walled+carbon+nanotubes&amp;rft.au=Cassell%2C+Alan&amp;rft.au=Chen%2C+Bin&amp;rft.au=Delzeit%2C+Lance&amp;rft.aufirst=Martin&amp;rft.au=Han%2C+Jie&amp;rft.aulast=Cinke&amp;rft.au=Li%2C+Jing&amp;rft.au=Meyyappan%2C+M&amp;rft.date=2002&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F2002CPL...365...69C&amp;rft_id=info%3Adoi%2F10.1016%2FS0009-2614%2802%2901420-3&amp;rft.jtitle=Chemical+Physics+Letters&amp;rft.pages=69-74&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=365" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-H5-20"><span class="mw-cite-backlink">^ <a href="#cite_ref-H5_20-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-H5_20-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Somani, Prakash R.; Somani, Savita P.; Umeno, M. (2008). "Application of metal nanoparticles decorated carbon nanotubes in photovoltaics". <i>Applied Physics Letters</i>. <b>93</b> (3): 033315. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2008ApPhL..93c3315S">2008ApPhL..93c3315S</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1063%2F1.2963470">10.1063/1.2963470</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHybrid+solar+cell&amp;rft.atitle=Application+of+metal+nanoparticles+decorated+carbon+nanotubes+in+photovoltaics&amp;rft.aufirst=Prakash+R.&amp;rft.aulast=Somani&amp;rft.au=Somani%2C+Savita+P.&amp;rft.au=Umeno%2C+M.&amp;rft.date=2008&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F2008ApPhL..93c3315S&amp;rft_id=info%3Adoi%2F10.1063%2F1.2963470&amp;rft.issue=3&amp;rft.jtitle=Applied+Physics+Letters&amp;rft.pages=033315&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=93" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-H6-21"><span class="mw-cite-backlink">^ <a href="#cite_ref-H6_21-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-H6_21-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Chen, Changxin; Lu, Yang; Kong, Eric S.; Zhang, Yafei; Lee, Shuit-Tong (2008). "Nanowelded carbon-nanotube-based solar microcells". <i>Small</i>. <b>4</b> (9): 1313–1318. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1002%2Fsmll.200701309">10.1002/smll.200701309</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/18702123">18702123</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHybrid+solar+cell&amp;rft.atitle=Nanowelded+carbon-nanotube-based+solar+microcells&amp;rft.aufirst=Changxin&amp;rft.au=Kong%2C+Eric+S.&amp;rft.aulast=Chen&amp;rft.au=Lee%2C+Shuit-Tong&amp;rft.au=Lu%2C+Yang&amp;rft.au=Zhang%2C+Yafei&amp;rft.date=2008&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1002%2Fsmll.200701309&amp;rft_id=info%3Apmid%2F18702123&amp;rft.issue=9&amp;rft.jtitle=Small&amp;rft.pages=1313-1318&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=4" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-H7-22"><span class="mw-cite-backlink">^ <a href="#cite_ref-H7_22-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-H7_22-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Dresselhaus, M. S. (2008). <i>Topics in Applied Physics</i>. <b>80</b>. Springer. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/3-540-72864-3" title="Special:BookSources/3-540-72864-3">3-540-72864-3</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHybrid+solar+cell&amp;rft.au=Dresselhaus%2C+M.+S.&amp;rft.btitle=Topics+in+Applied+Physics&amp;rft.date=2008&amp;rft.genre=book&amp;rft.isbn=3-540-72864-3&amp;rft.pub=Springer&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-H8-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-H8_23-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Collins, P. G.; Bradley, K; Ishigami, M; Zettl, A (2000). "Extreme Oxygen Sensitivity of Electronic Properties of Carbon Nanotubes". <i>Science</i>. <b>287</b> (5459): 1801–4. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2000Sci...287.1801C">2000Sci...287.1801C</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1126%2Fscience.287.5459.1801">10.1126/science.287.5459.1801</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/10710305">10710305</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHybrid+solar+cell&amp;rft.atitle=Extreme+Oxygen+Sensitivity+of+Electronic+Properties+of+Carbon+Nanotubes&amp;rft.au=Bradley%2C+K&amp;rft.aufirst=P.+G.&amp;rft.au=Ishigami%2C+M&amp;rft.aulast=Collins&amp;rft.au=Zettl%2C+A&amp;rft.date=2000&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F2000Sci...287.1801C&amp;rft_id=info%3Adoi%2F10.1126%2Fscience.287.5459.1801&amp;rft_id=info%3Apmid%2F10710305&amp;rft.issue=5459&amp;rft.jtitle=Science&amp;rft.pages=1801-4&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=287" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-K1-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-K1_24-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">O’Regan, B. and Grätzel, M. (1991). "A low-cost, high-efficiency solar cell based on dye-sensitized colloidal TiO2 films". <i>Nature</i>. <b>353</b> (6346): 737–740. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/1991Natur.353..737O">1991Natur.353..737O</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1038%2F353737a0">10.1038/353737a0</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHybrid+solar+cell&amp;rft.atitle=A+low-cost%2C+high-efficiency+solar+cell+based+on+dye-sensitized+colloidal+TiO2+films&amp;rft.au=O%99Regan%2C+B.+and+Gr%C3%A4tzel%2C+M.&amp;rft.date=1991&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F1991Natur.353..737O&amp;rft_id=info%3Adoi%2F10.1038%2F353737a0&amp;rft.issue=6346&amp;rft.jtitle=Nature&amp;rft.pages=737-740&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=353" class="Z3988"><span style="display:none;">&#160;</span></span> <span class="citation-comment" style="display:none; color:#33aa33">CS1 maint: Multiple names: authors list (<a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">link</a>)</span></span></li>
+<li id="cite_note-K2-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-K2_25-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Jacques-e Moser (2005). "Solar cells: later rather than sooner". <i>Nature Materials</i>. <b>4</b> (10): 723–724. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2005NatMa...4..723M">2005NatMa...4..723M</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1038%2Fnmat1504">10.1038/nmat1504</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/16195761">16195761</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHybrid+solar+cell&amp;rft.atitle=Solar+cells%3A+later+rather+than+sooner&amp;rft.au=Jacques-e+Moser&amp;rft.date=2005&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F2005NatMa...4..723M&amp;rft_id=info%3Adoi%2F10.1038%2Fnmat1504&amp;rft_id=info%3Apmid%2F16195761&amp;rft.issue=10&amp;rft.jtitle=Nature+Materials&amp;rft.pages=723-724&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=4" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-K3-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-K3_26-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Lancelle-Beltran, E.; Prené, P.; Boscher, C.; Belleville, P.; Buvat, P.; Sanchez, C. (2006). "All-Solid-State Dye-Sensitized Nanoporous TiO2 Hybrid Solar Cells with High Energy-Conversion Efficiency". <i>Adv. Mater</i>. <b>18</b> (19): 2579–2582. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1002%2Fadma.200502023">10.1002/adma.200502023</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHybrid+solar+cell&amp;rft.atitle=All-Solid-State+Dye-Sensitized+Nanoporous+TiO2+Hybrid+Solar+Cells+with+High+Energy-Conversion+Efficiency&amp;rft.au=Belleville%2C+P.&amp;rft.au=Boscher%2C+C.&amp;rft.au=Buvat%2C+P.&amp;rft.aufirst=E.&amp;rft.aulast=Lancelle-Beltran&amp;rft.au=Pren%C3%A9%2C+P.&amp;rft.au=Sanchez%2C+C.&amp;rft.date=2006&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1002%2Fadma.200502023&amp;rft.issue=19&amp;rft.jtitle=Adv.+Mater.&amp;rft.pages=2579-2582&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=18" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-K4-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-K4_27-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Sofos, Marina; Goldberger, Joshua; Stone, David A.; Allen, Jonathan E.; Ma, Qing; Herman, David J.; Tsai, Wei-Wen; Lauhon, Lincoln J.; Stupp, Samuel I. (2009). "A synergistic assembly of nanoscale lamellar photoconductor hybrids". <i>Nature Materials</i>. <b>8</b> (1): 68–75. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2009NatMa...8...68S">2009NatMa...8...68S</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1038%2Fnmat2336">10.1038/nmat2336</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/19060890">19060890</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHybrid+solar+cell&amp;rft.atitle=A+synergistic+assembly+of+nanoscale+lamellar+photoconductor+hybrids&amp;rft.au=Allen%2C+Jonathan+E.&amp;rft.aufirst=Marina&amp;rft.au=Goldberger%2C+Joshua&amp;rft.au=Herman%2C+David+J.&amp;rft.aulast=Sofos&amp;rft.au=Lauhon%2C+Lincoln+J.&amp;rft.au=Ma%2C+Qing&amp;rft.au=Stone%2C+David+A.&amp;rft.au=Stupp%2C+Samuel+I.&amp;rft.au=Tsai%2C+Wei-Wen&amp;rft.date=2009&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F2009NatMa...8...68S&amp;rft_id=info%3Adoi%2F10.1038%2Fnmat2336&amp;rft_id=info%3Apmid%2F19060890&amp;rft.issue=1&amp;rft.jtitle=Nature+Materials&amp;rft.pages=68-75&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=8" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a href="/wiki/File:Wind-turbine-icon.svg" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/28px-Wind-turbine-icon.svg.png" width="28" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/42px-Wind-turbine-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/56px-Wind-turbine-icon.svg.png 2x" data-file-width="128" data-file-height="128" /></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Renewable_energy" title="Portal:Renewable energy">Renewable energy portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a href="/wiki/File:Crystal_energy.svg" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/29px-Crystal_energy.svg.png" width="29" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/44px-Crystal_energy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/59px-Crystal_energy.svg.png 2x" data-file-width="130" data-file-height="124" /></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Energy" title="Portal:Energy">Energy portal</a></span></li>
+</ul>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Photovoltaics" style="padding:3px">
+<table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Photovoltaics" title="Template:Photovoltaics"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Photovoltaics" title="Template talk:Photovoltaics"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Photovoltaics&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Photovoltaics" style="font-size:114%"><a href="/wiki/Photovoltaics" title="Photovoltaics">Photovoltaics</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;">Concepts</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Technology</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Photovoltaics" title="Photovoltaics">Photovoltaics</a></li>
+<li><a href="/wiki/Photoelectric_effect" title="Photoelectric effect">Photoelectric effect</a></li>
+<li><a href="/wiki/Solar_insolation" class="mw-redirect" title="Solar insolation">Solar insolation</a></li>
+<li><a href="/wiki/Solar_constant" title="Solar constant">Solar constant</a></li>
+<li><a href="/wiki/Solar_cell_efficiency" title="Solar cell efficiency">Solar cell efficiency</a></li>
+<li><a href="/wiki/Nominal_power_(photovoltaic)" title="Nominal power (photovoltaic)">Nominal power (Watt-peak)</a></li>
+<li><a href="/wiki/Thin_film_solar_cell" class="mw-redirect" title="Thin film solar cell">Thin film solar cell</a></li>
+<li><a href="/wiki/Multijunction_photovoltaic_cell" class="mw-redirect" title="Multijunction photovoltaic cell">Multijunction photovoltaic cell</a></li>
+<li><a href="/wiki/Third_generation_photovoltaic_cell" class="mw-redirect" title="Third generation photovoltaic cell">Third generation photovoltaic cell</a></li>
+<li><a href="/wiki/Solar_cell_research" title="Solar cell research">Solar cell research</a></li>
+<li><a href="/wiki/Quantum_efficiency_of_a_solar_cell" class="mw-redirect" title="Quantum efficiency of a solar cell">Quantum efficiency of a solar cell</a></li>
+<li><a href="/wiki/Thermophotovoltaic" title="Thermophotovoltaic">Thermophotovoltaic</a></li>
+<li><a href="/wiki/Thermodynamic_efficiency_limit" title="Thermodynamic efficiency limit">Thermodynamic efficiency limit</a></li>
+<li><a href="/wiki/Sun-free_photovoltaics" title="Sun-free photovoltaics">Sun-free photovoltaics</a></li>
+<li><a href="/wiki/Polarizing_organic_photovoltaics" title="Polarizing organic photovoltaics">Polarizing organic photovoltaics</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Materials</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/List_of_semiconductor_materials" title="List of semiconductor materials">List of semiconductor materials</a></li>
+<li><a href="/wiki/Crystalline_silicon" title="Crystalline silicon">Crystalline silicon (c-Si)</a></li>
+<li><a href="/wiki/Polycrystalline_silicon" title="Polycrystalline silicon">Polycrystalline silicon (multi-Si)</a></li>
+<li><a href="/wiki/Monocrystalline_silicon" title="Monocrystalline silicon">Monocrystalline silicon (mono-Si)</a></li>
+<li><a href="/wiki/Cadmium_telluride" title="Cadmium telluride">Cadmium telluride</a></li>
+<li><a href="/wiki/Copper_indium_gallium_selenide" title="Copper indium gallium selenide">Copper indium gallium selenide</a></li>
+<li><a href="/wiki/Amorphous_silicon" title="Amorphous silicon">Amorphous silicon (a-Si)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">History</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Growth_of_photovoltaics" title="Growth of photovoltaics">Growth of photovoltaics</a></li>
+<li><a href="/wiki/Timeline_of_solar_cells" title="Timeline of solar cells">Timeline of solar cells</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+<td class="navbox-image" rowspan="9" style="width:0%;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:4inch_poly_solar_cell.jpg" class="image"><img alt="4inch poly solar cell.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/4inch_poly_solar_cell.jpg/150px-4inch_poly_solar_cell.jpg" width="150" height="113" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/4inch_poly_solar_cell.jpg/225px-4inch_poly_solar_cell.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fd/4inch_poly_solar_cell.jpg/300px-4inch_poly_solar_cell.jpg 2x" data-file-width="2272" data-file-height="1704" /></a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;"><a href="/wiki/Photovoltaic_system" title="Photovoltaic system">Photovoltaic system</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;"><a href="/wiki/Solar_cell" title="Solar cell">Solar cells</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Polymer_solar_cell" title="Polymer solar cell">Polymer solar cell</a></li>
+<li><a href="/wiki/Nanocrystal_solar_cell" title="Nanocrystal solar cell">Nanocrystal solar cell</a></li>
+<li><a href="/wiki/Organic_solar_cell" title="Organic solar cell">Organic solar cell</a></li>
+<li><a href="/wiki/Quantum_dot_solar_cell" title="Quantum dot solar cell">Quantum dot solar cell</a></li>
+<li><strong class="selflink">Hybrid solar cell</strong></li>
+<li><a href="/wiki/Plasmonic_solar_cell" title="Plasmonic solar cell">Plasmonic solar cell</a></li>
+<li><a href="/wiki/Carbon_nanotubes_in_photovoltaics" title="Carbon nanotubes in photovoltaics">Carbon nanotubes in photovoltaics</a></li>
+<li><a href="/wiki/Dye-sensitized_solar_cell" title="Dye-sensitized solar cell">Dye-sensitized solar cell</a></li>
+<li><a href="/wiki/Cadmium_telluride_photovoltaics" title="Cadmium telluride photovoltaics">Cadmium telluride photovoltaics</a></li>
+<li><a href="/wiki/Copper_indium_gallium_selenide_solar_cells" title="Copper indium gallium selenide solar cells">Copper indium gallium selenide solar cells</a></li>
+<li><a href="/wiki/Printed_solar_panel" class="mw-redirect" title="Printed solar panel">Printed solar panel</a></li>
+<li><a href="/wiki/Perovskite_solar_cell" title="Perovskite solar cell">Perovskite solar cell</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">System components</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Solar_panel" title="Solar panel">Solar panel</a></li>
+<li><a href="/wiki/Balance_of_system" title="Balance of system">Balance of system</a></li>
+<li><a href="/wiki/Solar_charge_controller" class="mw-redirect" title="Solar charge controller">Solar charge controller</a></li>
+<li><a href="/wiki/Solar_inverter" title="Solar inverter">Solar inverter</a></li>
+<li><a href="/wiki/Solar_micro-inverter" title="Solar micro-inverter">Solar micro-inverter</a></li>
+<li><a href="/wiki/Solar_cable" title="Solar cable">Solar cable</a></li>
+<li><a href="/wiki/Photovoltaic_mounting_system" title="Photovoltaic mounting system">Photovoltaic mounting system</a></li>
+<li><a href="/wiki/Maximum_power_point_tracker" class="mw-redirect" title="Maximum power point tracker">Maximum power point tracker</a></li>
+<li><a href="/wiki/Solar_tracker" title="Solar tracker">Solar tracker</a></li>
+<li><a href="/wiki/Solar_shingles" class="mw-redirect" title="Solar shingles">Solar shingles</a></li>
+<li><a href="/wiki/Solar_mirror#Photovoltaic_augmentation" title="Solar mirror">Solar mirror</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">System concepts</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Perturb_and_observe_method" class="mw-redirect" title="Perturb and observe method">Perturb and observe method</a></li>
+<li><a href="/wiki/Incremental_conductance_method" class="mw-redirect" title="Incremental conductance method">Incremental conductance method</a></li>
+<li><a href="/wiki/Constant_voltage_method" class="mw-redirect" title="Constant voltage method">Constant voltage method</a></li>
+<li><a href="/wiki/Fill_factor_(solar_cell)" class="mw-redirect" title="Fill factor (solar cell)">Fill factor</a></li>
+<li><a href="/wiki/Concentrated_photovoltaics" class="mw-redirect" title="Concentrated photovoltaics">Concentrated photovoltaics</a></li>
+<li><a href="/wiki/Photovoltaic_thermal_hybrid_solar_collector" title="Photovoltaic thermal hybrid solar collector">Photovoltaic thermal hybrid solar collector</a></li>
+<li><a href="/wiki/Space-based_solar_power" title="Space-based solar power">Space-based solar power</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;">Applications</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Appliances</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Solar-powered_refrigerator" title="Solar-powered refrigerator">Solar-powered refrigerator</a></li>
+<li><a href="/wiki/Solar_air_conditioning#Photovoltaic_.28PV.29_solar_cooling" title="Solar air conditioning">Solar air conditioning</a></li>
+<li><a href="/wiki/Solar_lamp" title="Solar lamp">Solar lamp</a></li>
+<li><a href="/wiki/Solar_charger" title="Solar charger">Solar charger</a></li>
+<li><a href="/wiki/Solar_backpack" title="Solar backpack">Solar backpack</a></li>
+<li><a href="/wiki/Solar_tree" title="Solar tree">Solar tree</a></li>
+<li><a href="/wiki/Solar-powered_pump" title="Solar-powered pump">Solar-powered pump</a></li>
+<li><a href="/wiki/Solar-powered_watch" title="Solar-powered watch">Solar-powered watch</a></li>
+<li><a href="/wiki/Solar_Tuki" title="Solar Tuki">Solar Tuki</a></li>
+<li><a href="/wiki/Photovoltaic_keyboard" title="Photovoltaic keyboard">Photovoltaic keyboard</a></li>
+<li><a href="/wiki/Solar_road_stud" title="Solar road stud">Solar road stud</a></li>
+<li><a href="/wiki/Solar_cell_phone_charger" title="Solar cell phone charger">Solar cell phone charger</a></li>
+<li><a href="/wiki/Solar_notebook" title="Solar notebook">Solar notebook</a></li>
+<li><a href="/wiki/Solar-powered_calculator" title="Solar-powered calculator">Solar-powered calculator</a></li>
+<li><a href="/wiki/Solar-powered_fountain" title="Solar-powered fountain">Solar-powered fountain</a></li>
+<li><a href="/wiki/Solar-powered_radio" title="Solar-powered radio">Solar-powered radio</a></li>
+<li><a href="/wiki/Solar-powered_flashlight" title="Solar-powered flashlight">Solar-powered flashlight</a></li>
+<li><a href="/wiki/Solar-powered_fan" title="Solar-powered fan">Solar-powered fan</a></li>
+<li><a href="/wiki/Solar_street_light" title="Solar street light">Solar street light</a></li>
+<li><a href="/wiki/Solar_traffic_light" title="Solar traffic light">Solar traffic light</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Land transport</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Solar_vehicle" title="Solar vehicle">Solar vehicle</a></li>
+<li><a href="/wiki/Solar_car" title="Solar car">Solar car</a></li>
+<li><a href="/wiki/Solar_roadway" class="mw-redirect" title="Solar roadway">Solar roadway</a></li>
+<li><a href="/wiki/Solar_golf_cart" title="Solar golf cart">Solar golf cart</a></li>
+<li><a href="/wiki/The_Quiet_Achiever" title="The Quiet Achiever">The Quiet Achiever</a></li>
+<li><a href="/wiki/Sunmobile" title="Sunmobile">Sunmobile</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Air transport</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Electric_aircraft" title="Electric aircraft">Electric aircraft</a></li>
+<li><a href="/wiki/Mauro_Solar_Riser" title="Mauro Solar Riser">Mauro Solar Riser</a></li>
+<li><a href="/wiki/Solar_panels_on_spacecraft" title="Solar panels on spacecraft">Solar panels on spacecraft</a></li>
+<li><a href="/wiki/Solar-Powered_Aircraft_Developments_Solar_One" title="Solar-Powered Aircraft Developments Solar One">Solar-Powered Aircraft Developments Solar One</a></li>
+<li><a href="/wiki/Gossamer_Penguin" class="mw-redirect" title="Gossamer Penguin">Gossamer Penguin</a></li>
+<li><a href="/wiki/Qinetiq_Zephyr" title="Qinetiq Zephyr">Qinetiq Zephyr</a></li>
+<li><a href="/wiki/Solar_Challenger" class="mw-redirect" title="Solar Challenger">Solar Challenger</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Water transport</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Electric_boat#Types" title="Electric boat">Solar boat</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Solar vehicle racing</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Solar_car_racing" title="Solar car racing">Solar car racing</a></li>
+<li><a href="/wiki/List_of_solar_car_teams" title="List of solar car teams">List of solar car teams</a></li>
+<li><a href="/wiki/Solar_challenge_(disambiguation)" class="mw-redirect mw-disambig" title="Solar challenge (disambiguation)">Solar challenges</a></li>
+<li><a href="/wiki/World_Solar_Challenge" title="World Solar Challenge">World Solar Challenge</a></li>
+<li><a href="/wiki/American_Solar_Challenge" title="American Solar Challenge">American Solar Challenge</a></li>
+<li><a href="/wiki/Formula_Sun_Grand_Prix" title="Formula Sun Grand Prix">Formula Sun Grand Prix</a></li>
+<li><a href="/wiki/Solar_Cup" title="Solar Cup">Solar Cup</a></li>
+<li><a href="/wiki/Frisian_Solar_Challenge" title="Frisian Solar Challenge">Frisian Solar Challenge</a></li>
+<li><a href="/wiki/Solar_Splash" title="Solar Splash">Solar Splash</a></li>
+<li><a href="/wiki/South_African_Solar_Challenge" title="South African Solar Challenge">South African Solar Challenge</a></li>
+<li><a href="/wiki/Tour_de_Sol" title="Tour de Sol">Tour de Sol</a></li>
+<li><a href="/wiki/Hunt-Winston_School_Solar_Car_Challenge" class="mw-redirect" title="Hunt-Winston School Solar Car Challenge">Hunt-Winston School Solar Car Challenge</a></li>
+<li><a href="/wiki/Victorian_Model_Solar_Vehicle_Challenge" title="Victorian Model Solar Vehicle Challenge">Victorian Model Solar Vehicle Challenge</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;"><a href="/wiki/Photovoltaic_power_station" title="Photovoltaic power station">Generation systems</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;"><a href="/wiki/Photovoltaic_power_station" title="Photovoltaic power station">PV power station</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Grid-connected_photovoltaic_power_system" title="Grid-connected photovoltaic power system">Grid-connected photovoltaic power system</a></li>
+<li><a href="/wiki/List_of_photovoltaic_power_stations" title="List of photovoltaic power stations">List of photovoltaic power stations</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Individual projects</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Alamosa_photovoltaic_power_plant" title="Alamosa photovoltaic power plant">Alamosa photovoltaic power plant</a></li>
+<li><a href="/wiki/Beneixama_photovoltaic_power_plant" title="Beneixama photovoltaic power plant">Beneixama photovoltaic power plant</a></li>
+<li><a href="/wiki/Blythe_Photovoltaic_Power_Plant" title="Blythe Photovoltaic Power Plant">Blythe Photovoltaic Power Plant</a></li>
+<li><a href="/wiki/Copper_Mountain_Solar_Facility" title="Copper Mountain Solar Facility">Copper Mountain Solar Facility</a></li>
+<li><a href="/wiki/Darro_Solar_Park" title="Darro Solar Park">Darro Solar Park</a></li>
+<li><a href="/wiki/Erlasee_Solar_Park" title="Erlasee Solar Park">Erlasee Solar Park</a></li>
+<li><a href="/wiki/Huanghe_Hydropower_Golmud_Solar_Park" title="Huanghe Hydropower Golmud Solar Park">Golmud Solar Park</a></li>
+<li><a href="/wiki/Gottelborn_Solar_Park" class="mw-redirect" title="Gottelborn Solar Park">Gottelborn Solar Park</a></li>
+<li><a href="/wiki/Guadarranque_solar_power_plant" class="mw-redirect" title="Guadarranque solar power plant">Guadarranque solar power plant</a></li>
+<li><a href="/wiki/K%C3%B6then_Solar_Park" title="Köthen Solar Park">Köthen Solar Park</a></li>
+<li><a href="/wiki/Moura_Photovoltaic_Power_Station" title="Moura Photovoltaic Power Station">Moura Photovoltaic Power Station</a></li>
+<li><a href="/wiki/Olmedilla_Photovoltaic_Park" title="Olmedilla Photovoltaic Park">Olmedilla Photovoltaic Park</a></li>
+<li><a href="/wiki/Pocking_Solar_Park" title="Pocking Solar Park">Pocking Solar Park</a></li>
+<li><a href="/wiki/Puertollano_Photovoltaic_Park" title="Puertollano Photovoltaic Park">Puertollano Photovoltaic Park</a></li>
+<li><a href="/wiki/Topaz_Solar_Farm" title="Topaz Solar Farm">Topaz Solar Farm</a></li>
+<li><a href="/wiki/Wyandot_Solar_Facility" title="Wyandot Solar Facility">Wyandot Solar Facility</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Building-mounted</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Rooftop_photovoltaic_power_station" title="Rooftop photovoltaic power station">Rooftop photovoltaic power station</a></li>
+<li><a href="/wiki/Building-integrated_photovoltaics" title="Building-integrated photovoltaics">Building-integrated photovoltaics</a></li>
+<li><a href="/wiki/Solar_Ark" title="Solar Ark">Solar Ark</a></li>
+<li><a href="/wiki/Solar_Umbrella_house" title="Solar Umbrella house">Solar Umbrella house</a></li>
+<li><a href="/wiki/Strasskirchen_Solar_Park" title="Strasskirchen Solar Park">Strasskirchen Solar Park</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;"><a href="/wiki/Solar_power_by_country" title="Solar power by country">By country</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Solar_power_in_Australia" title="Solar power in Australia">Australia</a></li>
+<li><a href="/wiki/Solar_power_in_Belgium" title="Solar power in Belgium">Belgium</a></li>
+<li><a href="/wiki/Solar_power_in_Bulgaria" title="Solar power in Bulgaria">Bulgaria</a></li>
+<li><a href="/wiki/Solar_power_in_Canada" title="Solar power in Canada">Canada</a></li>
+<li><a href="/wiki/Solar_power_in_Chile" title="Solar power in Chile">Chile</a></li>
+<li><a href="/wiki/Solar_power_in_China" title="Solar power in China">China</a></li>
+<li><a href="/wiki/Solar_power_in_the_Czech_Republic" title="Solar power in the Czech Republic">Czech Republic</a></li>
+<li><a href="/wiki/Solar_power_in_France" title="Solar power in France">France</a></li>
+<li><a href="/wiki/Solar_power_in_Germany" title="Solar power in Germany">Germany</a></li>
+<li><a href="/wiki/Solar_power_in_Greece" title="Solar power in Greece">Greece</a></li>
+<li><a href="/wiki/Solar_power_in_India" title="Solar power in India">India</a></li>
+<li><a href="/wiki/Solar_power_in_Italy" title="Solar power in Italy">Italy</a></li>
+<li><a href="/wiki/Solar_power_in_Japan" title="Solar power in Japan">Japan</a></li>
+<li><a href="/wiki/Solar_power_in_the_Netherlands" title="Solar power in the Netherlands">Netherlands</a></li>
+<li><a href="/wiki/Solar_power_in_Romania" title="Solar power in Romania">Romania</a></li>
+<li><a href="/wiki/Solar_power_in_South_Africa" title="Solar power in South Africa">South Africa</a></li>
+<li><a href="/wiki/Solar_power_in_Spain" title="Solar power in Spain">Spain</a></li>
+<li><a href="/wiki/Solar_power_in_Switzerland" title="Solar power in Switzerland">Switzerland</a></li>
+<li><a href="/wiki/Solar_power_in_Thailand" title="Solar power in Thailand">Thailand</a></li>
+<li><a href="/wiki/Solar_power_in_the_United_Kingdom" title="Solar power in the United Kingdom">United Kingdom</a></li>
+<li><a href="/wiki/Solar_power_in_the_United_States" title="Solar power in the United States">USA</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;"><a href="/wiki/List_of_photovoltaics_companies" title="List of photovoltaics companies">PV companies</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">By country</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/List_of_countries_by_photovoltaics_production" class="mw-redirect" title="List of countries by photovoltaics production">List of countries by photovoltaics production</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Individual producers</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/First_Solar" title="First Solar">First Solar</a></li>
+<li><a href="/wiki/Hanwha_Solarone" class="mw-redirect" title="Hanwha Solarone">Hanwha Solarone</a></li>
+<li><a href="/wiki/JA_Solar" class="mw-redirect" title="JA Solar">JA Solar</a></li>
+<li><a href="/wiki/Motech_Solar" title="Motech Solar">Motech Solar</a></li>
+<li><a href="/wiki/Renewable_Energy_Corporation" title="Renewable Energy Corporation">REC</a></li>
+<li><a href="/wiki/Q-Cells" title="Q-Cells">Q-Cells</a></li>
+<li><a href="/wiki/Sharp_Solar" title="Sharp Solar">Sharp</a></li>
+<li><a href="/wiki/Solar_Frontier" title="Solar Frontier">Solar Frontier</a></li>
+<li><a href="/wiki/Solyndra" title="Solyndra">Solyndra</a></li>
+<li><a href="/wiki/SUNGEN_International_Limited" title="SUNGEN International Limited">Sungen Solar</a></li>
+<li><a href="/wiki/Sunpower" class="mw-redirect" title="Sunpower">Sunpower</a></li>
+<li><a href="/wiki/Suntech" class="mw-redirect" title="Suntech">Suntech</a></li>
+<li><a href="/wiki/Trina_Solar" title="Trina Solar">Trina Solar</a></li>
+<li><a href="/wiki/Yingli_Solar" class="mw-redirect" title="Yingli Solar">Yingli Solar</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3">
+<div>
+<ul>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <b><a href="/wiki/Category:Photovoltaics" title="Category:Photovoltaics">Category</a></b></li>
+<li><img alt="Commons page" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" title="Commons page" width="12" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /> <a href="https://commons.wikimedia.org/wiki/Category:Photovoltaics" class="extiw" title="commons:Category:Photovoltaics"><b>Commons</b></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1215
+Cached time: 20170130020146
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.292 seconds
+Real time usage: 0.368 seconds
+Preprocessor visited node count: 1858/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 119917/2097152 bytes
+Template argument size: 32/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 0/500
+Lua time usage: 0.130/10.000 seconds
+Lua memory usage: 2.96 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  220.477      1 -total
+ 80.19%  176.810      1 Template:Reflist
+ 56.23%  123.971     24 Template:Cite_journal
+ 18.89%   41.648      6 Template:Navbox
+ 14.80%   32.634      1 Template:Photovoltaics
+  5.47%   12.058      3 Template:Cite_book
+  4.92%   10.858      1 Template:Portal
+  2.91%    6.414      2 Template:Icon
+  0.60%    1.328      1 Template:Column-width
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:3448144-0!*!0!!en!4!*!math=5 and timestamp 20170130020146 and revision id 760385774
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Hybrid_solar_cell&amp;oldid=760385774">https://en.wikipedia.org/w/index.php?title=Hybrid_solar_cell&amp;oldid=760385774</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Solar_cells" title="Category:Solar cells">Solar cells</a></li><li><a href="/wiki/Category:Organic_solar_cells" title="Category:Organic solar cells">Organic solar cells</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">CS1 maint: Multiple names: authors list</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Hybrid+solar+cell" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Hybrid+solar+cell" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Hybrid_solar_cell"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Hybrid_solar_cell"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Hybrid_solar_cell" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Hybrid_solar_cell&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Hybrid_solar_cell&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Hybrid_solar_cell" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Hybrid_solar_cell" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Hybrid_solar_cell&amp;oldid=760385774" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Hybrid_solar_cell&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q3664274" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Hybrid_solar_cell&amp;id=760385774" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Hybrid+solar+cell">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Hybrid+solar+cell&amp;returnto=Hybrid+solar+cell&amp;oldid=760385774&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Hybrid_solar_cell&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Cella_fotovoltaica_ibrida" title="Cella fotovoltaica ibrida – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q3664274#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 16 January 2017, at 17:48.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Hybrid_solar_cell&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.292","walltime":"0.368","ppvisitednodes":{"value":1858,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":119917,"limit":2097152},"templateargumentsize":{"value":32,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  220.477      1 -total"," 80.19%  176.810      1 Template:Reflist"," 56.23%  123.971     24 Template:Cite_journal"," 18.89%   41.648      6 Template:Navbox"," 14.80%   32.634      1 Template:Photovoltaics","  5.47%   12.058      3 Template:Cite_book","  4.92%   10.858      1 Template:Portal","  2.91%    6.414      2 Template:Icon","  0.60%    1.328      1 Template:Column-width"]},"scribunto":{"limitreport-timeusage":{"value":"0.130","limit":"10.000"},"limitreport-memusage":{"value":3108394,"limit":52428800}},"cachereport":{"origin":"mw1215","timestamp":"20170130020146","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":447,"wgHostname":"mw1215"});});</script>
+	</body>
+</html>

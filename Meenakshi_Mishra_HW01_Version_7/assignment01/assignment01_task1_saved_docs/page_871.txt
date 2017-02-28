@@ -1,0 +1,297 @@
+url : https://en.wikipedia.org/wiki/Power_usage_effectiveness
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Power usage effectiveness - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Power_usage_effectiveness","wgTitle":"Power usage effectiveness","wgCurRevisionId":752489603,"wgRevisionId":752489603,"wgArticleId":22657974,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Computer benchmarks","Energy conservation","Electric power"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Power_usage_effectiveness","wgRelevantArticleId":22657974,"wgRequestId":"WIhNHgpAICsAAA6tndYAAABT","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q2619414","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","ext.math.scripts","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.8"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Power_usage_effectiveness"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Power_usage_effectiveness&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Power_usage_effectiveness&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Power_usage_effectiveness"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Power_usage_effectiveness rootpage-Power_usage_effectiveness skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Power usage effectiveness</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><p><b>Power usage effectiveness</b> (<b>PUE</b>) is a measure of how efficiently a computer <a href="/wiki/Data_center" title="Data center">data center</a> uses energy; specifically, how much energy is used by the computing equipment (in contrast to cooling and other overhead).</p>
+<p>PUE is the ratio of total amount of energy used by a computer <a href="/wiki/Data_center" title="Data center">data center</a> facility <sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> to the <a href="/wiki/Electric_energy" class="mw-redirect" title="Electric energy">energy</a> delivered to computing equipment.</p>
+<p>PUE was developed by a consortium called <a href="/wiki/The_Green_Grid" title="The Green Grid">The Green Grid</a>. PUE is the <a href="/wiki/Multiplicative_inverse" title="Multiplicative inverse">inverse</a> of <a href="/wiki/Data_center_infrastructure_efficiency" title="Data center infrastructure efficiency">data center infrastructure efficiency</a> (DCIE). An ideal PUE is 1.0. Anything that isn't considered a computing device in a data center (i.e. lighting, cooling, etc.) falls into the category of facility energy consumption.</p>
+<dl>
+<dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="normal">P</mi>
+          <mi mathvariant="normal">U</mi>
+          <mi mathvariant="normal">E</mi>
+        </mrow>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mtext>Total Facility Energy</mtext>
+            </mrow>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mtext>IT Equipment Energy</mtext>
+            </mrow>
+          </mfrac>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \mathrm {PUE} ={{\mbox{Total Facility Energy}} \over {\mbox{IT Equipment Energy}}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4f093f062a77469ff8658225df1e3a9581a38b64" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.338ex; width:31.159ex; height:6.009ex;" alt=" \mathrm{PUE}  =  {\mbox{Total Facility Energy} \over \mbox{IT Equipment Energy}} " /></span></dd>
+</dl>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Issues_and_problems_with_the_power_usage_effectiveness"><span class="tocnumber">1</span> <span class="toctext">Issues and problems with the power usage effectiveness</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Benefits_and_limitation"><span class="tocnumber">2</span> <span class="toctext">Benefits and limitation</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Notably_efficient_companies"><span class="tocnumber">3</span> <span class="toctext">Notably efficient companies</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Issues_and_problems_with_the_power_usage_effectiveness">Issues and problems with the power usage effectiveness</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Power_usage_effectiveness&amp;action=edit&amp;section=1" title="Edit section: Issues and problems with the power usage effectiveness">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The PUE metric is the most popular method of calculating energy efficiency. Although it is the most effective in comparison to other metrics, the Power Usage Effectiveness comes with its share of flaws. This is the most frequently used metric for operators, facility technicians, and building architects to determine how energy efficient their data center buildings are.<sup id="cite_ref-jumie_9-0" class="reference"><a href="#cite_note-jumie-9">[9]</a></sup> Some professionals even brag about their Power Usage Effectiveness being lower than others. Naturally, it is not a surprise that in some cases an operator may “accidentally” not count the energy used for lighting, resulting in lower Power Usage Effectiveness. This problem is more linked to a human mistake, rather than an issue with the Power Usage Effectiveness metric system itself.</p>
+<p>One real problem is PUE does not account for the climate within the cities the data centers are built. In particular, it does not account for different normal temperatures outside the data center. For example, a data center located in Alaska cannot be effectively compared to a data center in Miami. A colder climate results in a lesser need for a massive cooling system. Cooling systems account for roughly 30 percent of consumed energy in a facility, while the data center equipment accounts for nearly 50 percent.<sup id="cite_ref-jumie_9-1" class="reference"><a href="#cite_note-jumie-9">[9]</a></sup> Due to this, the Miami data center may have a final Power Usage Effectiveness of 1.8 and the data center in Alaska may have a ratio of 1.7, but the Miami data center may be running overall more efficiently. In particular, if it happened to be in Alaska, it may get a better result.</p>
+<p>Additionally, according to a case study on Science Direct, "an estimated PUE is practically meaningless unless the IT is working at full capacity".<sup id="cite_ref-gemma_10-0" class="reference"><a href="#cite_note-gemma-10">[10]</a></sup></p>
+<p>All in all, finding simple, yet recurring issues such as the problems associated with the effect of varying temperatures in cities and learning how to properly calculate all the facility energy consumption is very essential. By doing so, continuing to reduce these problems ensures that further progress and higher standards are always being pushed to improve the success of the Power Usage Effectiveness for future data center facilities.<sup id="cite_ref-jumie_9-2" class="reference"><a href="#cite_note-jumie-9">[9]</a></sup></p>
+<h2><span class="mw-headline" id="Benefits_and_limitation">Benefits and limitation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Power_usage_effectiveness&amp;action=edit&amp;section=2" title="Edit section: Benefits and limitation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>PUE was introduced in 2006 and promoted by the Green Grid (a non-profit organization of IT professionals) in 2007, and has become the most commonly used metric for reporting the energy efficiency of data centres.<sup id="cite_ref-gemma_10-1" class="reference"><a href="#cite_note-gemma-10">[10]</a></sup> Although it is named 'power usage effectiveness', it actually measures the energy use of the data centre.<sup id="cite_ref-gemma_10-2" class="reference"><a href="#cite_note-gemma-10">[10]</a></sup></p>
+<p>The PUE metric is helpful because it has several important benefits. First, the companies using the way the metric is calculated can be repeated over time, allowing a company to view their efficiency changes during seasonal changes and historically. Second, companies can gauge how more efficient practices (such as powering down idle hardware) affects their overall usage. Finally, the PUE metric creates competition, “driving efficiencies up as advertised PUE values become lower".<sup id="cite_ref-gemma_10-3" class="reference"><a href="#cite_note-gemma-10">[10]</a></sup> Companies can then use PUE as a marketing tool.</p>
+<p>However, there are some issues with the PUE metric. Rather than the issues mentioned in last paragraph, some other issues are the efficiency of the power supply network and calculating the accurate IT load. According to the sensitivity analysis by Gemma,<sup id="cite_ref-gemma_10-4" class="reference"><a href="#cite_note-gemma-10">[10]</a></sup> "Total energy consumption is equal to the total amount of energy used by the equipment and infrastructure in the facility (WT) plus the energy losses due to inefficiencies in the power delivery network (WL), hence: PUE=(WT+WL)/WIT." Based on the equation, the inefficiencies of the power delivery network (WL) will increase the total energy consumption of the data center. The PUE value goes up as the data center becomes less efficient. IT load is another important issue of the PUE metric. "It is crucial that an accurate IT load is used for the PUE, and that it is not based upon the rated power use of the equipment. Accuracy in the IT load is one of the major factors affecting the measurement of the PUE metric, as utilization of the servers has an important effect on IT energy consumption and hence the overall PUE value".<sup id="cite_ref-gemma_10-5" class="reference"><a href="#cite_note-gemma-10">[10]</a></sup> For example, a data center with high PUE value and high server utilization could be more efficient than a data center with low PUE value and low server utilization.<sup id="cite_ref-gemma_10-6" class="reference"><a href="#cite_note-gemma-10">[10]</a></sup> There is also some concern within the industry of PUE as a marketing tool <sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> leading some to use the term 'PUE Abuse'.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup></p>
+<h2><span class="mw-headline" id="Notably_efficient_companies">Notably efficient companies</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Power_usage_effectiveness&amp;action=edit&amp;section=3" title="Edit section: Notably efficient companies">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In October 2008, Google's Data center was noted to have a ratio of 1.21 PUE across all 6 of its centers, which at the time was considered as close to perfect as possible. Right behind Google, was Microsoft, which had another notable PUE ratio of 1.22 <sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup></p>
+<p>Through proprietary innovations in liquid cooling systems, French hosting company <a href="/wiki/OVH" title="OVH">OVH</a> has managed to attain a PUE ratio of 1.09 in its data centers in Europe and North America.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup></p>
+<p>Since 2015, <a href="/wiki/Switch_(company)" title="Switch (company)">Switch</a>, the developer of SUPERNAP data centers, has had a third-party audited colocation PUE of 1.18 for its SUPERNAP 7 Las Vegas Nevada facility, with an average cold aisle temp of 20.6C (69F) and average humidity of 40.3%. This is attributed to Switch’s patented hot aisle containment and HVAC technologies.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup></p>
+<p>In October 2015, Allied Control has a claimed PUE ratio of 1.02 <sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup> through the use of <a href="/wiki/3M" title="3M">3M</a> Novec 7100 fluid.</p>
+<p>As of the end of Q2 2015, Facebook's Prineville data center had a power usage effectiveness (PUE) of 1.078 and its Forest City data center had a PUE of 1.082.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup></p>
+<p>In January 2016, the <i>Green IT Cube</i> in <a href="/wiki/Darmstadt" title="Darmstadt">Darmstadt</a> was dedicated with a 1.07 PUE.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup> It uses cold water cooling through the rack doors.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Power_usage_effectiveness&amp;action=edit&amp;section=4" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Data_center_infrastructure_efficiency" title="Data center infrastructure efficiency">Data center infrastructure efficiency</a></li>
+<li><a href="/wiki/Performance_per_watt" title="Performance per watt">Performance per watt</a></li>
+<li><a href="/wiki/Gpue" class="mw-redirect" title="Gpue">Green power usage effectiveness</a></li>
+<li><a href="/wiki/Green_computing" title="Green computing">Green computing</a></li>
+<li><a href="/wiki/IT_energy_management" title="IT energy management">IT energy management</a></li>
+<li><a href="/wiki/WUE" title="WUE">WUE</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Power_usage_effectiveness&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://searchdatacenter.techtarget.com/sDefinition/0,,sid80_gci1307933,00.html">SearchDataCenter.com - power usage effectiveness (PUE)</a></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a href="/wiki/Digital_Realty_Trust" class="mw-redirect" title="Digital Realty Trust">Digital Realty Trust</a>- <a rel="nofollow" class="external text" href="http://www.digitalrealtytrust.com/pue-efficiency.aspx">PUE Data Center Efficiency Metric</a></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.esmagazine.com/Articles/Feature_Article/BNP_GUID_9-5-2006_A_10000000000000160061">Engineered Systems - Optimizing Power Usage Effectiveness In Data Centers</a></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.thegreengrid.org/sitecore/content/Global/Content/white-papers/The-Green-Grid-Data-Center-Power-Efficiency-Metrics-PUE-and-DCiE.aspx">The Green Grid - The Green Grid Data Center Power Efficiency Metrics: PUE and DCiE</a></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a href="/wiki/Google" title="Google">Google</a> - Efficient Computing - <a rel="nofollow" class="external text" href="https://www.google.com/about/datacenters/efficiency/internal/index.html#measuring-efficiency">Data Centers - Efficiency: How we do it?</a></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a href="/wiki/Dell" title="Dell">Dell</a> - <a rel="nofollow" class="external text" href="http://www.dell.com/downloads/global/power/ps1q08-20080185-Rad.pdf">Best Practices for Increasing Data Center Energy Efficiency</a></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a href="/wiki/Cisco_Systems" title="Cisco Systems">Cisco Systems</a> - <a rel="nofollow" class="external text" href="http://www.cisco.com/en/US/prod/switches/ps5718/ps10195/white_paper_c11-514539.html">Cisco Energywise</a></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a href="/wiki/Google" title="Google">Google</a> Data Center Optimization - <a rel="nofollow" class="external autonumber" href="http://static.googleusercontent.com/media/www.google.com/en/us/about/datacenters/efficiency/internal/assets/machine-learning-applicationsfor-datacenter-optimization-finalv2.pdf">[1]</a></span></li>
+<li id="cite_note-jumie-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-jumie_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-jumie_9-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-jumie_9-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">Jumie Yuventi, Roshan Mehdizadeh. “A critical analysis of Power Usage Effectiveness and its use in communicating data center energy consumption.” Energy and Building 64 (2013) 90-94&#160;: Web. 17 November 2014.</span></li>
+<li id="cite_note-gemma-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-gemma_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-gemma_10-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-gemma_10-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-gemma_10-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-gemma_10-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-gemma_10-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-gemma_10-6"><sup><i><b>g</b></i></sup></a></span> <span class="reference-text">Brady, Gemma, Nikil Kapur, Jonathan Summers, and Harvey Thompson. "A Case Study and Critical Assessment in Calculating Power Usage Effectiveness for a Data Centre." Energy Conversion &amp; Management, 76 (2013): 155-161.</span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.romonet.com/blog/opinions/blogart39">Romonet website, Blogs, 'Look at the size of my PUE!'</a></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://archive.datacenterdynamics.com/blogs/ian-bitterlin/pue-abuse-beyond-pale">Datacenterdynamics.com. 'PUE ABUSE BEYOND THE PALE?'</a></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">Tuf, Steve. "Power Usage Effectiveness." It.toolbox. Toolbox, n.d. Web. 17 Nov. 2014.</span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://www.ovh.com/ca/en/about-us/green-it.xml">https://www.ovh.com/ca/en/about-us/green-it.xml</a></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text">Miller, Rich. <a rel="nofollow" class="external text" href="http://www.datacenterknowledge.com/archives/2014/02/11/inside-supernap-8-switchs-tier-iv-data-fortress/">“Inside SUPERNAP 8: Switch’s Tier IV Data Fortress.” Data Center Knowledge. Feb. 11, 2014</a></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text">"Two-Phase Immersion Cooling" <a rel="nofollow" class="external free" href="http://multimedia.3m.com/mws/media/1127920O/2-phase-immersion-coolinga-revolution-in-data-center-efficiency.pdf">http://multimedia.3m.com/mws/media/1127920O/2-phase-immersion-coolinga-revolution-in-data-center-efficiency.pdf</a></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.opencompute.org/learn/energy-efficiency/">"Energy Efficiency"</a>. <i>Open Compute Project</i>. Open Compute Project<span class="reference-accessdate">. Retrieved <span class="nowrap">18 March</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APower+usage+effectiveness&amp;rft.atitle=Energy+Efficiency&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.opencompute.org%2Flearn%2Fenergy-efficiency%2F&amp;rft.jtitle=Open+Compute+Project&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.heise.de/newsticker/meldung/Green-IT-Cube-Hocheffizientes-Supercomputer-Domizil-eingeweiht-3082605.html">"Green IT Cube: Hocheffizientes Supercomputer-Domizil eingeweiht"</a>. 2016-01-23<span class="reference-accessdate">. Retrieved <span class="nowrap">2016-01-24</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APower+usage+effectiveness&amp;rft.btitle=Green+IT+Cube%3A+Hocheffizientes+Supercomputer-Domizil+eingeweiht&amp;rft.date=2016-01-23&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.heise.de%2Fnewsticker%2Fmeldung%2FGreen-IT-Cube-Hocheffizientes-Supercomputer-Domizil-eingeweiht-3082605.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1280
+Cached time: 20161231163228
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.064 seconds
+Real time usage: 0.115 seconds
+Preprocessor visited node count: 328/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 2931/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 4/40
+Expensive parser function count: 0/500
+Lua time usage: 0.016/10.000 seconds
+Lua memory usage: 1.53 MB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   46.246      1 - Template:Reflist
+100.00%   46.246      1 - -total
+ 75.90%   35.099      2 - Template:Cite_web
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:22657974-0!*!0!!en!*!*!math=5 and timestamp 20161231163228 and revision id 752489603
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Power_usage_effectiveness&amp;oldid=752489603">https://en.wikipedia.org/w/index.php?title=Power_usage_effectiveness&amp;oldid=752489603</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Computer_benchmarks" title="Category:Computer benchmarks">Computer benchmarks</a></li><li><a href="/wiki/Category:Energy_conservation" title="Category:Energy conservation">Energy conservation</a></li><li><a href="/wiki/Category:Electric_power" title="Category:Electric power">Electric power</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Power+usage+effectiveness" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Power+usage+effectiveness" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Power_usage_effectiveness"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Power_usage_effectiveness"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Power_usage_effectiveness" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Power_usage_effectiveness&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Power_usage_effectiveness&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Power_usage_effectiveness" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Power_usage_effectiveness" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Power_usage_effectiveness&amp;oldid=752489603" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Power_usage_effectiveness&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q2619414" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Power_usage_effectiveness&amp;id=752489603" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Power+usage+effectiveness">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Power+usage+effectiveness&amp;returnto=Power+usage+effectiveness&amp;oldid=752489603&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Power_usage_effectiveness&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Power_usage_effectiveness" title="Power usage effectiveness – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Indik%C3%A1tor_energetick%C3%A9_efektivity" title="Indikátor energetické efektivity – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Power_usage_effectiveness" title="Power usage effectiveness – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Indicateur_d%27efficacit%C3%A9_%C3%A9nerg%C3%A9tique" title="Indicateur d'efficacité énergétique – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Power_usage_effectiveness" title="Power usage effectiveness – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/PUE" title="PUE – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q2619414#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 1 December 2016, at 15:22.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Power_usage_effectiveness&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":54,"wgHostname":"mw1173"});});</script>
+	</body>
+</html>

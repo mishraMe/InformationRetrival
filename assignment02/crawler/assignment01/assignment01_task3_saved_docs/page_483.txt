@@ -1,0 +1,629 @@
+url : https://en.wikipedia.org/wiki/Droop_speed_control
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Droop speed control - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Droop_speed_control","wgTitle":"Droop speed control","wgCurRevisionId":755262637,"wgRevisionId":755262637,"wgArticleId":20159769,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages using ISBN magic links","All articles with unsourced statements","Articles with unsourced statements from April 2010","Electric power generation"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Droop_speed_control","wgRelevantArticleId":20159769,"wgRequestId":"WIJszgpAAEQAAaKNPmYAAABX","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q203905","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.math.styles":"ready","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.math.scripts","ext.cite.a11y","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.8"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Droop_speed_control"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Droop_speed_control&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Droop_speed_control&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Droop_speed_control"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Droop_speed_control rootpage-Droop_speed_control skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Droop speed control</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><p>In electrical power generation, <b>droop speed control</b> is a speed control mode of a <a href="/wiki/Power_station#By_prime_mover" title="Power station">prime mover</a> driving a <a href="/wiki/Synchronous_generator" class="mw-redirect" title="Synchronous generator">synchronous generator</a> connected to an <a href="/wiki/Electrical_grid" title="Electrical grid">electrical grid</a>. This mode allows synchronous generators to run in parallel, so that loads are shared among generators in proportion to their power rating.</p>
+<p>The frequency of a synchronous generator is given by</p>
+<dl>
+<dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y mw-math-element" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>F</mi>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mi>P</mi>
+              <mi>N</mi>
+            </mrow>
+            <mn>120</mn>
+          </mfrac>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle F={\frac {PN}{120}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/fbc10b554fcd43d5b26842089d003945f47c90ca" class="mwe-math-fallback-image-inline mw-math-element" aria-hidden="true" style="vertical-align: -2.005ex; width:9.526ex; height:5.509ex;" alt="{\displaystyle F={\frac {PN}{120}}}" /></span></dd>
+</dl>
+<p>where</p>
+<ul>
+<li>F, frequency (in Hz),</li>
+<li>P, number of poles,</li>
+<li>N, speed of generator (in RPM)</li>
+</ul>
+<p>The frequency (F) of a synchronous generator is directly proportional to its speed (N). When multiple synchronous generators are connected in parallel to electrical grid, the frequency is fixed by the grid, since individual power output of each generator will be small compared to the load on a large grid. Synchronous generators connected to the grid run at various speeds but they all run at the same frequency because they differ in the number of poles (P).</p>
+<p>A speed reference as percentage of actual speed is set in this mode. As the generator is loaded from no load to base load, the actual speed of the prime mover tend to decrease. In order to increase the power output in this mode, the prime mover speed reference is increased. Because the actual prime mover speed is fixed by the grid, this difference in speed reference and actual speed of the prime mover is used to increase the flow of working fluid (fuel, steam, etc.) to the prime mover, and hence power output is increased. The reverse will be true for decreasing power output. The prime mover speed reference is always greater than actual speed of the prime mover. The actual speed of the prime mover is allowed to "droop" or decrease with respect to the reference, and so the name.</p>
+<p>For example, if the turbine is rated at 3000 rpm, and the machine speed reduces from 3000 rpm to 2880 rpm when it is loaded from no load to base load, then the droop&#160;% is given by</p>
+<dl>
+<dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y mw-math-element" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="normal">D</mi>
+          <mi mathvariant="normal">r</mi>
+          <mi mathvariant="normal">o</mi>
+          <mi mathvariant="normal">o</mi>
+          <mi mathvariant="normal">p</mi>
+          <mi mathvariant="normal">&#x0025;<!-- % --></mi>
+        </mrow>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mi mathvariant="normal">N</mi>
+              <mi mathvariant="normal">o</mi>
+              <mtext>&#xA0;</mtext>
+              <mi mathvariant="normal">l</mi>
+              <mi mathvariant="normal">o</mi>
+              <mi mathvariant="normal">a</mi>
+              <mi mathvariant="normal">d</mi>
+              <mtext>&#xA0;</mtext>
+              <mi mathvariant="normal">s</mi>
+              <mi mathvariant="normal">p</mi>
+              <mi mathvariant="normal">e</mi>
+              <mi mathvariant="normal">e</mi>
+              <mi mathvariant="normal">d</mi>
+              <mo>&#x2212;<!-- − --></mo>
+              <mi mathvariant="normal">F</mi>
+              <mi mathvariant="normal">u</mi>
+              <mi mathvariant="normal">l</mi>
+              <mi mathvariant="normal">l</mi>
+              <mtext>&#xA0;</mtext>
+              <mi mathvariant="normal">l</mi>
+              <mi mathvariant="normal">o</mi>
+              <mi mathvariant="normal">a</mi>
+              <mi mathvariant="normal">d</mi>
+              <mtext>&#xA0;</mtext>
+              <mi mathvariant="normal">s</mi>
+              <mi mathvariant="normal">p</mi>
+              <mi mathvariant="normal">e</mi>
+              <mi mathvariant="normal">e</mi>
+              <mi mathvariant="normal">d</mi>
+            </mrow>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mi mathvariant="normal">N</mi>
+              <mi mathvariant="normal">o</mi>
+              <mtext>&#xA0;</mtext>
+              <mi mathvariant="normal">l</mi>
+              <mi mathvariant="normal">o</mi>
+              <mi mathvariant="normal">a</mi>
+              <mi mathvariant="normal">d</mi>
+              <mtext>&#xA0;</mtext>
+              <mi mathvariant="normal">s</mi>
+              <mi mathvariant="normal">p</mi>
+              <mi mathvariant="normal">e</mi>
+              <mi mathvariant="normal">e</mi>
+              <mi mathvariant="normal">d</mi>
+            </mrow>
+          </mfrac>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \mathrm {Droop\%} ={\frac {\mathrm {No\ load\ speed-Full\ load\ speed} }{\mathrm {No\ load\ speed} }}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6881f995a26aa6c4983245a1621a81f3a3122400" class="mwe-math-fallback-image-inline mw-math-element" aria-hidden="true" style="vertical-align: -2.338ex; width:44.343ex; height:5.843ex;" alt="{\displaystyle \mathrm {Droop\%} ={\frac {\mathrm {No\ load\ speed-Full\ load\ speed} }{\mathrm {No\ load\ speed} }}}" /></span></dd>
+<dd>=(3000 – 3120) / 3000</dd>
+<dd>= 4%</dd>
+<dd>= (3000 – 2880) / 3000</dd>
+<dd>= 4%</dd>
+</dl>
+<p>In this case, speed reference will be 104% and actual speed will be 100%. For every 1% change in the turbine speed reference, the power output of the turbine will change by 25% of rated for a unit with a 4% droop setting.</p>
+<p>Droop is therefore expressed as the percentage change in (design) speed required for 100% governor action.</p>
+<p>For example, how fuel flow is increased or decreased in a GE-design heavy duty gas turbine can be given by the formula,</p>
+<dl>
+<dd>FSRN = FSKRN2 × (TNR − TNH) + FSKRN1</dd>
+</dl>
+<p>where,</p>
+<ul>
+<li>FSRN, fuel stroke reference (fuel supplied to gas turbine) for droop mode</li>
+<li>TNR, turbine speed reference</li>
+<li>TNH, actual turbine speed</li>
+<li>FSKRN2, constant</li>
+<li>FSKRN1, constant</li>
+</ul>
+<p>As frequency is fixed on the grid, and so actual turbine speed is also fixed, the increase in turbine speed reference will increase the error between reference and actual speed. As the difference increases, fuel flow is increased to increase power output, and vice versa. This type of control is referred to as "straight proportional" control. If the entire grid tends to be overloaded, the grid frequency and hence actual speed of generator will decrease. All units will see an increase in the speed error, and so increase fuel flow to their prime movers and power output. In this way droop speed control mode also helps to hold a stable grid frequency. The amount of power produced is strictly proportional to the error between the actual turbine speed and speed reference. The above formula is nothing but the equation of a straight line <b>(y = mx + q)</b>.</p>
+<p>It can be mathematically shown that if all machines synchronized to a system have the same droop speed control, they will share load proportionate to the machine ratings.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></p>
+<p>For stable operation of the <a href="/wiki/Electrical_grid" title="Electrical grid">electrical grid</a> of North America, power plants typically operate with a four or five percent speed droop.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (April 2010)">citation needed</span></a></i>]</sup> With 5% droop the full-load speed is 100% and the no-load speed is 105%. This is required for the stable operation of the net without hunting and dropouts of power plants. Normally the changes in speed are minor due to <a href="/wiki/Inertia" title="Inertia">inertia</a> of the total rotating mass of all generators and motors running in the net.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Adjustments in power output are made by slowly raising the droop curve by increasing the spring pressure on a <a href="/wiki/Centrifugal_governor" title="Centrifugal governor">centrifugal governor</a> or by an <a href="/wiki/Engine_control_unit" title="Engine control unit">engine control unit</a> adjustment. Generally this is a basic system requirement for all power plants because the older and newer plants have to be compatible in response to the instantaneous changes in frequency without depending on outside communication. Voltage control of several power sources is not practical because there would not be any independent feedback, resulting in the total load being put on one power plant.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:152px;"><a href="/wiki/File:UnitedStatesPowerGrid.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/UnitedStatesPowerGrid.jpg/150px-UnitedStatesPowerGrid.jpg" width="150" height="98" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/UnitedStatesPowerGrid.jpg/225px-UnitedStatesPowerGrid.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d4/UnitedStatesPowerGrid.jpg/300px-UnitedStatesPowerGrid.jpg 2x" data-file-width="1233" data-file-height="808" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:UnitedStatesPowerGrid.jpg" class="internal" title="Enlarge"></a></div>
+Contiguous United States power transmission grid consists of 300,000&#160;km of lines operated by 500 companies.</div>
+</div>
+</div>
+<p>The thousands of AC generators are running synchronously with the power grid which acts like an infinite sink. Next to the inertia given by the parallel operation of synchronous generators,<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> the frequency speed droop is the primary instantaneous parameter in control of an individual power plant's power output (<a href="/wiki/KW" class="mw-redirect" title="KW">kW</a>).<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></p>
+<dl>
+<dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y mw-math-element" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>S</mi>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mi mathvariant="normal">&#x0394;<!-- Δ --></mi>
+              <msub>
+                <mi>f</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi>N</mi>
+                </mrow>
+              </msub>
+            </mrow>
+            <msub>
+              <mi>f</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi>N</mi>
+              </mrow>
+            </msub>
+          </mfrac>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle S={\frac {\Delta f_{N}}{f_{N}}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d00bd03772b92cb95abe74eaf9e756af4b9c1f29" class="mwe-math-fallback-image-inline mw-math-element" aria-hidden="true" style="vertical-align: -2.505ex; width:10.25ex; height:6.176ex;" alt="S={\frac  {\Delta f_{N}}{f_{N}}}" /></span></dd>
+</dl>
+<p><i>S</i> is the ratio of frequency deviation when comparing the load versus the nominal frequency.</p>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Droop_speed_control&amp;action=edit&amp;section=1" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">William D. Stevenson, Jr. <i>Elements of Power System Analysis Third Edition</i>,McGraw-Hill, New York (1975) <a href="/wiki/Special:BookSources/0070612854" class="internal mw-magiclink-isbn">ISBN 0-07-061285-4</a> page 378-379</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.control.com/thread/1026221805">"Governor Control"</a>. Control.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-12-24</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADroop+speed+control&amp;rft.btitle=Governor+Control&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.control.com%2Fthread%2F1026221805&amp;rft.pub=Control.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.nationalgrid.com/uk/Electricity/Data/Realtime/Frequency/Freq60.htm">"Real Time Frequency Data - Last 60 Minutes"</a>. National Grid<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-12-24</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADroop+speed+control&amp;rft.btitle=Real+Time+Frequency+Data+-+Last+60+Minutes&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.nationalgrid.com%2Fuk%2FElectricity%2FData%2FRealtime%2FFrequency%2FFreq60.htm&amp;rft.pub=National+Grid&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Speed Droop and Power Generation. Application Note 01302. 2. Woodward. Speed</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.vsync.eu/project/introduction">VSYNC-Project</a></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation book">Whitaker, Jerry C. (2006). <i>AC power systems handbook</i>. Boca Raton, FL: Taylor and Francis. p.&#160;35. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-8493-4034-5" title="Special:BookSources/978-0-8493-4034-5">978-0-8493-4034-5</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADroop+speed+control&amp;rft.aufirst=Jerry+C.&amp;rft.aulast=Whitaker&amp;rft.btitle=AC+power+systems++handbook&amp;rft.date=2006&amp;rft.genre=book&amp;rft.isbn=978-0-8493-4034-5&amp;rft.pages=35&amp;rft.place=Boca+Raton%2C+FL&amp;rft.pub=Taylor+and+Francis&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Droop_speed_control&amp;action=edit&amp;section=2" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Electric_power_transmission" title="Electric power transmission">Electric power transmission</a></li>
+<li><a href="/wiki/Wide_area_synchronous_grid" title="Wide area synchronous grid">Wide area synchronous grid</a></li>
+<li><a href="/wiki/Dynamic_demand_(electric_power)" title="Dynamic demand (electric power)">Dynamic demand (electric power)</a></li>
+</ul>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Droop_speed_control&amp;action=edit&amp;section=3" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>Alfred Engler: <a rel="nofollow" class="external text" href="https://web.archive.org/web/20101011065309/http://www.iset.uni-kassel.de:80/abt/FB-A/publication/2004/Engler_DER-Journal.pdf"><i>Applicability of droops in low voltage grids</i></a>. International Journal of Distributed Energy Resources, Vol 1, No 1, 2005.</li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Electricity_delivery" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Electricity_delivery" title="Template:Electricity delivery"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Electricity_delivery" title="Template talk:Electricity delivery"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Electricity_delivery&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Electricity_delivery" style="font-size:114%"><a href="/wiki/Electricity_delivery" title="Electricity delivery">Electricity delivery</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Concepts</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Availability_factor" title="Availability factor">Availability factor</a></li>
+<li><a href="/wiki/Automatic_generation_control" class="mw-redirect" title="Automatic generation control">Automatic generation control</a></li>
+<li><a href="/wiki/Base_load" title="Base load">Base load</a></li>
+<li><a href="/wiki/Black_start" title="Black start">Black start</a></li>
+<li><a href="/wiki/Capacity_factor" title="Capacity factor">Capacity factor</a></li>
+<li><a href="/wiki/Demand_factor" title="Demand factor">Demand factor</a></li>
+<li><strong class="selflink">Droop speed control</strong></li>
+<li><a href="/wiki/Energy_demand_management" title="Energy demand management">Demand management</a></li>
+<li><a href="/wiki/Energy_returned_on_energy_invested" title="Energy returned on energy invested">EROEI</a></li>
+<li><a href="/wiki/Fault_(power_engineering)" title="Fault (power engineering)">Fault</a></li>
+<li><a href="/wiki/Grid_energy_storage" title="Grid energy storage">Grid storage</a></li>
+<li><a href="/wiki/Intermittent_energy_source" title="Intermittent energy source">Intermittency</a></li>
+<li><a href="/wiki/Load_factor_(electrical)" title="Load factor (electrical)">Load factor</a></li>
+<li><a href="/wiki/Load_following_power_plant" title="Load following power plant">Load following</a></li>
+<li><a href="/wiki/Nameplate_capacity" title="Nameplate capacity">Nameplate capacity</a></li>
+<li><a href="/wiki/Peak_demand" title="Peak demand">Peak demand</a></li>
+<li><a href="/wiki/Electric_power_quality" title="Electric power quality">Power quality</a></li>
+<li><a href="/wiki/Power-flow_study" title="Power-flow study">Power-flow study</a></li>
+<li><a href="/wiki/Repowering" title="Repowering">Repowering</a></li>
+<li><a href="/wiki/Variable_renewable_energy" title="Variable renewable energy">Variability</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Sources</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;width:7em;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Non-renewable_energy" class="mw-redirect" title="Non-renewable energy">Nonrenewable</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Coal" title="Coal">Coal</a></li>
+<li><a href="/wiki/Fossil_fuel_power_station" title="Fossil fuel power station">Fossil fuel power station</a></li>
+<li><a href="/wiki/Natural_gas" title="Natural gas">Natural gas</a></li>
+<li><a href="/wiki/Petroleum" title="Petroleum">Petroleum</a></li>
+<li><a href="/wiki/Nuclear_power" title="Nuclear power">Nuclear</a></li>
+<li><a href="/wiki/Oil_shale" title="Oil shale">Oil shale</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;width:7em;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Renewable_energy" title="Renewable energy">Renewable</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Biomass" title="Biomass">Biomass</a></li>
+<li><a href="/wiki/Biofuel" title="Biofuel">Biofuel</a></li>
+<li><a href="/wiki/Geothermal_power" title="Geothermal power">Geothermal</a></li>
+<li><a href="/wiki/Hydroelectricity" title="Hydroelectricity">Hydro</a></li>
+<li><a href="/wiki/Marine_energy" title="Marine energy">Marine</a>
+<ul>
+<li><a href="/wiki/Marine_current_power" title="Marine current power">Current</a></li>
+<li><a href="/wiki/Osmotic_power" title="Osmotic power">Osmotic</a></li>
+<li><a href="/wiki/Ocean_thermal_energy" class="mw-redirect" title="Ocean thermal energy">Thermal</a></li>
+<li><a href="/wiki/Tidal_power" title="Tidal power">Tidal</a></li>
+<li><a href="/wiki/Wave_power" title="Wave power">Wave</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Solar_power" title="Solar power">Solar</a></li>
+<li><a href="/wiki/Wind_power" title="Wind power">Wind</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Category:Power_station_technology" title="Category:Power station technology">Generation</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/AC_power" title="AC power">AC power</a></li>
+<li><a href="/wiki/Cogeneration" title="Cogeneration">Cogeneration</a></li>
+<li><a href="/wiki/Combined_cycle" title="Combined cycle">Combined cycle</a></li>
+<li><a href="/wiki/Cooling_tower" title="Cooling tower">Cooling tower</a></li>
+<li><a href="/wiki/Induction_generator" title="Induction generator">Induction generator</a></li>
+<li><a href="/wiki/Micro_combined_heat_and_power" title="Micro combined heat and power">Micro CHP</a></li>
+<li><a href="/wiki/Microgeneration" title="Microgeneration">Microgeneration</a></li>
+<li><a href="/wiki/Rankine_cycle" title="Rankine cycle">Rankine cycle</a></li>
+<li><a href="/wiki/Three-phase_electric_power" title="Three-phase electric power">Three-phase electric power</a></li>
+<li><a href="/wiki/Virtual_power_plant" title="Virtual power plant">Virtual power plant</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">
+<div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Electric_power_transmission" title="Electric power transmission">Transmission</a><br />
+and <a href="/wiki/Electric_power_distribution" title="Electric power distribution">distribution</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Power_outage" title="Power outage">Blackout</a> (<a href="/wiki/Rolling_blackout" title="Rolling blackout">Rolling blackout</a>)</li>
+<li><a href="/wiki/Brownout_(electricity)" title="Brownout (electricity)">Brownout</a></li>
+<li><a href="/wiki/Demand_response" title="Demand response">Demand response</a></li>
+<li><a href="/wiki/Distributed_generation" title="Distributed generation">Distributed generation</a></li>
+<li><a href="/wiki/Dynamic_demand_(electric_power)" title="Dynamic demand (electric power)">Dynamic demand</a></li>
+<li><a href="/wiki/Electric_power_distribution" title="Electric power distribution">Electric power distribution</a></li>
+<li><a href="/wiki/Electric_power_system" title="Electric power system">Electric power system</a></li>
+<li><a href="/wiki/Electric_power_transmission" title="Electric power transmission">Electric power transmission</a></li>
+<li><a href="/wiki/Electrical_grid" title="Electrical grid">Electrical grid</a></li>
+<li><a href="/wiki/High-voltage_direct_current" title="High-voltage direct current">High-voltage direct current</a></li>
+<li><a href="/wiki/Load_management" title="Load management">Load management</a></li>
+<li><a href="/wiki/Pumped-storage_hydroelectricity" title="Pumped-storage hydroelectricity">Pumped hydro</a></li>
+<li><a href="/wiki/Power_station" title="Power station">Power station</a></li>
+<li><a href="/wiki/Power_storage" class="mw-redirect" title="Power storage">Power storage</a></li>
+<li><a href="/wiki/Smart_grid" title="Smart grid">Smart grid</a></li>
+<li><a href="/wiki/Electrical_substation" title="Electrical substation">Substation</a></li>
+<li><a href="/wiki/Super_grid" title="Super grid">Super grid</a></li>
+<li><a href="/wiki/Transformer" title="Transformer">Transformer</a></li>
+<li><a href="/wiki/Transmission_system_operator" title="Transmission system operator">Transmission system operator</a> (TSO)</li>
+<li><a href="/wiki/Transmission_tower" title="Transmission tower">Transmission tower</a></li>
+<li><a href="/wiki/Utility_pole" title="Utility pole">Utility pole</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">
+<div style="padding:0.1em 0;line-height:1.2em;">Protective<br />
+devices</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Arc-fault_circuit_interrupter" title="Arc-fault circuit interrupter">Arc-fault circuit interrupter</a></li>
+<li><a href="/wiki/Earth_leakage_circuit_breaker" title="Earth leakage circuit breaker">Earth leakage circuit breaker</a></li>
+<li><a href="/wiki/Residual-current_device" title="Residual-current device">Residual-current device</a> (GFI)</li>
+<li><a href="/wiki/Power-system_protection" title="Power-system protection">Power-system protection</a></li>
+<li><a href="/wiki/Protective_relay" title="Protective relay">Protective relay</a></li>
+<li><a href="/wiki/Digital_protective_relay" title="Digital protective relay">Digital protective relay</a></li>
+<li><a href="/wiki/Sulfur_hexafluoride_circuit_breaker" title="Sulfur hexafluoride circuit breaker">Sulfur hexafluoride circuit breaker</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">
+<div style="padding:0.1em 0;line-height:1.2em;">Economics<br />
+and policies</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Carbon_offset" title="Carbon offset">Carbon offset</a></li>
+<li><a href="/wiki/Cost_of_electricity_by_source" title="Cost of electricity by source">Cost of electricity by source</a></li>
+<li><a href="/wiki/Ecotax" title="Ecotax">Ecotax</a></li>
+<li><a href="/wiki/Energy_subsidies" title="Energy subsidies">Energy subsidies</a></li>
+<li><a href="/wiki/Feed-in_tariff" title="Feed-in tariff">Feed-in tariff</a></li>
+<li><a href="/wiki/Fossil-fuel_phase-out" class="mw-redirect" title="Fossil-fuel phase-out">Fossil-fuel phase-out</a></li>
+<li><a href="/wiki/Net_metering" title="Net metering">Net metering</a></li>
+<li><a href="/wiki/Pigovian_tax" title="Pigovian tax">Pigovian tax</a></li>
+<li><a href="/wiki/Renewable_Energy_Certificates" class="mw-redirect" title="Renewable Energy Certificates">Renewable Energy Certificates</a></li>
+<li><a href="/wiki/Renewable_energy_payments" class="mw-redirect" title="Renewable energy payments">Renewable energy payments</a></li>
+<li><a href="/wiki/Renewable_energy_policy" class="mw-redirect" title="Renewable energy policy">Renewable energy policy</a></li>
+<li><a href="/wiki/Spark_spread" title="Spark spread">Spark spread</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<dl>
+<dt>Categories</dt>
+<dd><a href="/wiki/Category:Electric_power_distribution" title="Category:Electric power distribution">Electric power distribution</a></dd>
+<dd><a href="/wiki/Category:Electricity_economics" title="Category:Electricity economics">Electricity economics</a></dd>
+<dd><a href="/wiki/Category:Power_station_technology" title="Category:Power station technology">Power station technology</a></dd>
+<dt>Portals</dt>
+<dd><a href="/wiki/Portal:Energy" title="Portal:Energy">Energy</a></dd>
+<dd><a href="/wiki/Portal:Renewable_energy" title="Portal:Renewable energy">Renewable energy</a></dd>
+<dd><a href="/wiki/Portal:Sustainable_development" title="Portal:Sustainable development">Sustainable development</a></dd>
+</dl>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1243
+Cached time: 20170111140448
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.132 seconds
+Real time usage: 0.200 seconds
+Preprocessor visited node count: 818/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 30539/2097152 bytes
+Template argument size: 1202/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 1/500
+Lua time usage: 0.051/10.000 seconds
+Lua memory usage: 2.32 MB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  130.917      1 - -total
+ 47.03%   61.569      1 - Template:Citation_needed
+ 33.81%   44.260      1 - Template:Reflist
+ 32.15%   42.087      1 - Template:Fix
+ 24.19%   31.670      2 - Template:Cite_web
+ 19.90%   26.058      2 - Template:Category_handler
+ 18.49%   24.211      2 - Template:Navbox
+ 17.25%   22.589      1 - Template:Electricity_generation
+  9.50%   12.438      1 - Template:Delink
+  7.35%    9.624      1 - Template:Navbox_subgroup
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:20159769-0!*!0!!*!4!*!math=5 and timestamp 20170111140448 and revision id 755262637
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Droop_speed_control&amp;oldid=755262637">https://en.wikipedia.org/w/index.php?title=Droop_speed_control&amp;oldid=755262637</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Electric_power_generation" title="Category:Electric power generation">Electric power generation</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Pages_using_ISBN_magic_links" title="Category:Pages using ISBN magic links">Pages using ISBN magic links</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_April_2010" title="Category:Articles with unsourced statements from April 2010">Articles with unsourced statements from April 2010</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Droop+speed+control" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Droop+speed+control" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Droop_speed_control"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Droop_speed_control"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Droop_speed_control" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Droop_speed_control&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Droop_speed_control&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Droop_speed_control" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Droop_speed_control" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Droop_speed_control&amp;oldid=755262637" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Droop_speed_control&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q203905" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Droop_speed_control&amp;id=755262637" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Droop+speed+control">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Droop+speed+control&amp;returnto=Droop+speed+control&amp;oldid=755262637&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Droop_speed_control&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Statik_(Elektrotechnik)" title="Statik (Elektrotechnik) – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q203905#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 17 December 2016, at 02:54.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Droop_speed_control&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":66,"wgHostname":"mw1273"});});</script>
+	</body>
+</html>

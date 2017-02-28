@@ -1,0 +1,913 @@
+url : https://en.wikipedia.org/wiki/Joule
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Joule - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Joule","wgTitle":"Joule","wgCurRevisionId":761091495,"wgRevisionId":761091495,"wgArticleId":16327,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["SI derived units","Units of energy","James Prescott Joule"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Joule","wgRelevantArticleId":16327,"wgRequestId":"WJEsJwpAAEQAACYM1q4AAAAP","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q25269","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","ext.math.scripts","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.9"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Joule"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Joule&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Joule&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Joule"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Joule rootpage-Joule skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Joule</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div role="note" class="hatnote">This article is about the unit of energy. For other uses, see <a href="/wiki/Joule_(disambiguation)" class="mw-disambig" title="Joule (disambiguation)">Joule (disambiguation)</a>.</div>
+<table class="infobox" style="width:22em;background:;">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold">Joule</th>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/System_of_measurement" title="System of measurement">Unit system</a></th>
+<td><a href="/wiki/SI_derived_unit" title="SI derived unit">SI derived unit</a></td>
+</tr>
+<tr>
+<th scope="row">Unit&#160;of</th>
+<td><a href="/wiki/Energy" title="Energy">Energy</a></td>
+</tr>
+<tr>
+<th scope="row">Symbol</th>
+<td>J </td>
+</tr>
+<tr>
+<th scope="row">Named after</th>
+<td><a href="/wiki/James_Prescott_Joule" title="James Prescott Joule">James Prescott Joule</a></td>
+</tr>
+<tr>
+<th colspan="2" class="navbox-abovebelow" style="text-align:center">Unit conversions</th>
+</tr>
+<tr class="nowrap">
+<td><i>1 J in ...</i></td>
+<td><i>... is equal to ...</i></td>
+</tr>
+<tr>
+<th scope="row"><span class="nowrap">&#160;&#160;&#160;</span><a href="/wiki/SI_base_unit" title="SI base unit">SI base units</a></th>
+<td><span class="nowrap">&#160;&#160;&#160;</span><a href="/wiki/Kilogram" title="Kilogram">kg</a>⋅<a href="/wiki/Metre" title="Metre">m</a><sup>2</sup>⋅<a href="/wiki/Second" title="Second">s</a><sup>−2</sup></td>
+</tr>
+<tr>
+<th scope="row"><span class="nowrap">&#160;&#160;&#160;</span><a href="/wiki/CGS_unit" class="mw-redirect" title="CGS unit">CGS units</a></th>
+<td><span class="nowrap">&#160;&#160;&#160;</span><span class="nowrap"><span style="display:none" class="sortkey">7007100000000000000♠</span>1<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>7</sup></span> <a href="/wiki/Erg" title="Erg">erg</a></td>
+</tr>
+<tr>
+<th scope="row"><span class="nowrap">&#160;&#160;&#160;</span><a href="/wiki/Kilowatt_hour" title="Kilowatt hour">kilowatt hours</a></th>
+<td><span class="nowrap">&#160;&#160;&#160;</span><span class="nowrap"><span style="display:none" class="sortkey">7000100079999999999♠</span>2.78<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−7</sup>&#160;kW⋅h</span></td>
+</tr>
+<tr>
+<th scope="row"><span class="nowrap">&#160;&#160;&#160;</span><a href="/wiki/Kilocalorie" class="mw-redirect" title="Kilocalorie">kilocalories</a> (<a href="/wiki/Thermochemistry" title="Thermochemistry">thermochemical</a>)</th>
+<td><span class="nowrap">&#160;&#160;&#160;</span><span class="nowrap"><span style="display:none" class="sortkey">6996239000000000000♠</span>2.390<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−4</sup>&#160;kcal<sub>th</sub></span></td>
+</tr>
+<tr>
+<th scope="row"><span class="nowrap">&#160;&#160;&#160;</span><a href="/wiki/British_thermal_unit" title="British thermal unit">BTUs</a></th>
+<td><span class="nowrap">&#160;&#160;&#160;</span><span class="nowrap"><span style="display:none" class="sortkey">7000100019294828376♠</span>9.48<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−4</sup>&#160;BTU</span></td>
+</tr>
+<tr>
+<th scope="row"><span class="nowrap">&#160;&#160;&#160;</span><a href="/wiki/Electronvolt" title="Electronvolt">electronvolts</a></th>
+<td><span class="nowrap">&#160;&#160;&#160;</span><span class="nowrap"><span style="display:none" class="sortkey">6999999758127888000♠</span>6.24<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>18</sup>&#160;eV</span></td>
+</tr>
+</table>
+<p>The <b>joule</b> (<span class="nowrap"><span class="IPA nopopups"><a href="/wiki/Help:IPA_for_English" title="Help:IPA for English">/<span style="border-bottom:1px dotted"><span title="/ˈ/ primary stress follows">ˈ</span><span title="/dʒ/ 'j' in 'jam'">dʒ</span><span title="/uː/ long 'oo' in 'food'">uː</span><span title="'l' in 'lie'">l</span></span>/</a></span></span>), symbol <b>J</b>, is a <a href="/wiki/SI_derived_unit" title="SI derived unit">derived unit</a> of <a href="/wiki/Energy" title="Energy">energy</a> in the <a href="/wiki/International_System_of_Units" title="International System of Units">International System of Units</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> It is equal to the energy transferred to (or <a href="/wiki/Work_(physics)" title="Work (physics)">work</a> done on) an object when a <a href="/wiki/Force" title="Force">force</a> of one <a href="/wiki/Newton_(unit)" title="Newton (unit)">newton</a> acts on that object in the direction of its motion through a distance of one <a href="/wiki/Metre" title="Metre">metre</a> (1 newton metre or N·m). It is also the energy dissipated as heat when an electric <a href="/wiki/Current_(electricity)" class="mw-redirect" title="Current (electricity)">current</a> of one <a href="/wiki/Ampere" title="Ampere">ampere</a> passes through a <a href="/wiki/Resistance_(electricity)" class="mw-redirect" title="Resistance (electricity)">resistance</a> of one <a href="/wiki/Ohm" title="Ohm">ohm</a> for one second. It is named after the English physicist <a href="/wiki/James_Prescott_Joule" title="James Prescott Joule">James Prescott Joule</a> (1818–1889).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></p>
+<p>In terms firstly of base <a href="/wiki/International_System_of_Units" title="International System of Units">SI units</a> and then in terms of other SI units:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi mathvariant="normal">J</mi>
+            <mo>=</mo>
+            <mrow class="MJX-TeXAtom-ORD">
+
+            </mrow>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mrow class="MJX-TeXAtom-ORD">
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mfrac>
+                    <mrow>
+                      <mi mathvariant="normal">k</mi>
+                      <mi mathvariant="normal">g</mi>
+                      <mo>&#x22C5;<!-- ⋅ --></mo>
+                      <msup>
+                        <mi mathvariant="normal">m</mi>
+                        <mrow class="MJX-TeXAtom-ORD">
+                          <mn>2</mn>
+                        </mrow>
+                      </msup>
+                    </mrow>
+                    <msup>
+                      <mi mathvariant="normal">s</mi>
+                      <mrow class="MJX-TeXAtom-ORD">
+                        <mn>2</mn>
+                      </mrow>
+                    </msup>
+                  </mfrac>
+                </mrow>
+                <mo>=</mo>
+                <mi mathvariant="normal">N</mi>
+                <mo>&#x22C5;<!-- ⋅ --></mo>
+                <mi mathvariant="normal">m</mi>
+                <mo>=</mo>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mi mathvariant="normal">P</mi>
+                    <mi mathvariant="normal">a</mi>
+                    <mo>&#x22C5;<!-- ⋅ --></mo>
+                    <msup>
+                      <mi mathvariant="normal">m</mi>
+                      <mrow class="MJX-TeXAtom-ORD">
+                        <mn>3</mn>
+                      </mrow>
+                    </msup>
+                    <mo>=</mo>
+                    <mrow class="MJX-TeXAtom-ORD">
+
+                    </mrow>
+                    <mrow class="MJX-TeXAtom-ORD">
+                      <mrow class="MJX-TeXAtom-ORD">
+                        <mi mathvariant="normal">W</mi>
+                        <mo>&#x22C5;<!-- ⋅ --></mo>
+                        <mi mathvariant="normal">s</mi>
+                        <mo>=</mo>
+                        <mi mathvariant="normal">C</mi>
+                        <mo>&#x22C5;<!-- ⋅ --></mo>
+                        <mi mathvariant="normal">V</mi>
+                      </mrow>
+                    </mrow>
+                  </mrow>
+                </mrow>
+              </mrow>
+            </mrow>
+          </mrow>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\rm {J={}{\rm {{\frac {kg\cdot m^{2}}{s^{2}}}=N\cdot m={\rm {Pa\cdot m^{3}={}{\rm {W\cdot s=C\cdot V}}}}}}}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c924f3a231e145174dadae32982d7d31e7c26d08" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.171ex; width:47.695ex; height:6.009ex;" alt="{\rm {J={}{\rm {{\frac {kg\cdot m^{2}}{s^{2}}}=N\cdot m={\rm {Pa\cdot m^{3}={}{\rm {W\cdot s=C\cdot V}}}}}}}}" /></span></dd>
+</dl>
+<p>where kg is the <a href="/wiki/Kilogram" title="Kilogram">kilogram</a>, m is the <a href="/wiki/Metre" title="Metre">metre</a>, s is the <a href="/wiki/Second" title="Second">second</a>, N is the <a href="/wiki/Newton_(unit)" title="Newton (unit)">newton</a>, Pa is the <a href="/wiki/Pascal_(unit)" title="Pascal (unit)">pascal</a>, W is the <a href="/wiki/Watt" title="Watt">watt</a>, C is the <a href="/wiki/Coulomb_(unit)" class="mw-redirect" title="Coulomb (unit)">coulomb</a>, and V is the <a href="/wiki/Volt" title="Volt">volt</a>.</p>
+<p>One joule can also be defined as:</p>
+<ul>
+<li>The work required to move an <a href="/wiki/Electric_charge" title="Electric charge">electric charge</a> of one <a href="/wiki/Coulomb" title="Coulomb">coulomb</a> through an <a href="/wiki/Voltage" title="Voltage">electrical potential difference</a> of one <a href="/wiki/Volt" title="Volt">volt</a>, or one '"coulomb volt" (C·V). This relationship can be used to define the volt.</li>
+<li>The work required to produce one <a href="/wiki/Watt" title="Watt">watt</a> of <a href="/wiki/Power_(physics)" title="Power (physics)">power</a> for one <a href="/wiki/Second" title="Second">second</a>, or one "watt second" (W·s) (compare <a href="/wiki/Kilowatt_hour" title="Kilowatt hour">kilowatt hour</a> - 3.6 megajoules). This relationship can be used to define the watt.</li>
+</ul>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Usage"><span class="tocnumber">1</span> <span class="toctext">Usage</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Confusion_with_newton_metre"><span class="tocnumber">2</span> <span class="toctext">Confusion with newton metre</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Practical_examples"><span class="tocnumber">3</span> <span class="toctext">Practical examples</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Multiples"><span class="tocnumber">4</span> <span class="toctext">Multiples</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Zeptojoule"><span class="tocnumber">4.1</span> <span class="toctext">Zeptojoule</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Nanojoule"><span class="tocnumber">4.2</span> <span class="toctext">Nanojoule</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Microjoule"><span class="tocnumber">4.3</span> <span class="toctext">Microjoule</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Millijoule"><span class="tocnumber">4.4</span> <span class="toctext">Millijoule</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Kilojoule"><span class="tocnumber">4.5</span> <span class="toctext">Kilojoule</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Megajoule"><span class="tocnumber">4.6</span> <span class="toctext">Megajoule</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Gigajoule"><span class="tocnumber">4.7</span> <span class="toctext">Gigajoule</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Terajoule"><span class="tocnumber">4.8</span> <span class="toctext">Terajoule</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Petajoule"><span class="tocnumber">4.9</span> <span class="toctext">Petajoule</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Exajoule"><span class="tocnumber">4.10</span> <span class="toctext">Exajoule</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Zettajoule"><span class="tocnumber">4.11</span> <span class="toctext">Zettajoule</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#Yottajoule"><span class="tocnumber">4.12</span> <span class="toctext">Yottajoule</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-17"><a href="#Conversions"><span class="tocnumber">5</span> <span class="toctext">Conversions</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-19"><a href="#Notes_and_references"><span class="tocnumber">7</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Usage">Usage</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Joule&amp;action=edit&amp;section=1" title="Edit section: Usage">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>This <a href="/wiki/International_System_of_Units" title="International System of Units">SI</a> unit is named after <a href="/wiki/James_Prescott_Joule" title="James Prescott Joule">James Prescott Joule</a>. As with every International System of Units (SI) unit named for a person, the first letter of its <a href="/wiki/Symbol" title="Symbol">symbol</a> is <a href="/wiki/Letter_case" title="Letter case">upper case</a> (J). However, when an SI unit is spelled out in English, it should always begin with a <a href="/wiki/Letter_case" title="Letter case">lower case</a> letter (<i>joule</i>)—except in a situation where <i>any</i> word in that position would be capitalized, such as at the beginning of a sentence or in material using <a href="/wiki/Title_case" class="mw-redirect" title="Title case">title case</a>. Note that "degree <a href="/wiki/Celsius" title="Celsius">Celsius</a>" conforms to this rule because the "d" is lowercase.—&#160;Based on <i><a rel="nofollow" class="external text" href="http://www.bipm.org/en/publications/si-brochure/section5-2.html">The International System of Units</a></i>, section 5.2.</p>
+<h2><span class="mw-headline" id="Confusion_with_newton_metre">Confusion with newton metre</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Joule&amp;action=edit&amp;section=2" title="Edit section: Confusion with newton metre">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote">Main article: <a href="/wiki/Newton_metre" title="Newton metre">newton metre</a></div>
+<p>In <a href="/wiki/Mechanics" title="Mechanics">mechanics</a>, the concept of <a href="/wiki/Force" title="Force">force</a> (in some direction) has a close analog in the concept of <a href="/wiki/Torque" title="Torque">torque</a> (about some angle):</p>
+<table class="wikitable">
+<tr>
+<th>Linear</th>
+<th>Angular</th>
+</tr>
+<tr>
+<td>force</td>
+<td>torque</td>
+</tr>
+<tr>
+<td><a href="/wiki/Mass" title="Mass">mass</a></td>
+<td><a href="/wiki/Moment_of_inertia" title="Moment of inertia">moment of inertia</a></td>
+</tr>
+<tr>
+<td>distance</td>
+<td>angle</td>
+</tr>
+</table>
+<p>A result of this similarity is that the SI unit for torque is the <a href="/wiki/Newton_metre" title="Newton metre">newton metre</a>, which works out <a href="/wiki/Algebra" title="Algebra">algebraically</a> to have the same <a href="/wiki/Dimensional_analysis" title="Dimensional analysis">dimensions</a> as the Joule. But they are not interchangeable. The <a href="/wiki/CGPM" class="mw-redirect" title="CGPM">CGPM</a> has given the unit of <a href="/wiki/Energy" title="Energy">energy</a> the name <i>Joule</i>, but has not given the unit of torque any special name, hence it is simply the newton metre (N·m) - a compound name derived from its constituent parts.<sup id="cite_ref-BIPM2_5-0" class="reference"><a href="#cite_note-BIPM2-5">[5]</a></sup> The use of newton metres for torque and joules for energy is helpful to avoid misunderstandings and miscommunications.<sup id="cite_ref-BIPM2_5-1" class="reference"><a href="#cite_note-BIPM2-5">[5]</a></sup></p>
+<p>The distinction may be seen also in the fact that energy is a <a href="/wiki/Scalar_(physics)" title="Scalar (physics)">scalar</a> – the <a href="/wiki/Dot_product" title="Dot product">dot product</a> of a <a href="/wiki/Euclidean_vector" title="Euclidean vector">vector</a> force and a vector displacement. By contrast, torque is a vector – the <a href="/wiki/Cross_product" title="Cross product">cross product</a> of a distance vector and a force vector. Torque and energy are related to one another by the equation</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>E</mi>
+        <mo>=</mo>
+        <mi>&#x03C4;<!-- τ --></mi>
+        <mi>&#x03B8;<!-- θ --></mi>
+        <mtext>&#xA0;</mtext>
+        <mo>,</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle E=\tau \theta \ ,}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/778736826ef7cf9fd924ec648a154ebdc66059f0" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:8.446ex; height:2.509ex;" alt="{\displaystyle E=\tau \theta \ ,}" /></span></dd>
+</dl>
+<p>where <i>E</i> is energy, <i>τ</i> is (the <a href="/wiki/Magnitude_(mathematics)#Euclidean_vector_space" title="Magnitude (mathematics)">vector magnitude</a> of) torque, and <i>θ</i> is the angle swept (in <a href="/wiki/Radian" title="Radian">radians</a>). Since radians are dimensionless, it follows that torque and energy have the same dimensions.</p>
+<h2><span class="mw-headline" id="Practical_examples">Practical examples</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Joule&amp;action=edit&amp;section=3" title="Edit section: Practical examples">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>One joule in everyday life represents approximately:</p>
+<ul>
+<li>The energy required to lift a medium-size tomato (100&#160;g) 1 meter vertically from the surface of the Earth.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></li>
+<li>The energy released when that same tomato falls back down to the ground.</li>
+<li>The energy required to accelerate a 1&#160;kg mass at 1 m·s<sup>−2</sup> through a 1 m distance in space.</li>
+<li>The <a href="/wiki/Heat" title="Heat">heat</a> required to raise the temperature of 1&#160;g of water by 0.24&#160;°C.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></li>
+<li>The typical energy released as heat by a person at rest every 1/60 second (approximately 17&#160;ms).<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></li>
+<li>The <a href="/wiki/Kinetic_energy" title="Kinetic energy">kinetic energy</a> of a 50&#160;kg human moving very slowly (0.2&#160;m/s or 0.72&#160;km/h).</li>
+<li>The kinetic energy of a 56&#160;g tennis ball moving at 6&#160;m/s (22&#160;km/h).<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></li>
+<li>The kinetic energy of an object with mass 1&#160;kg moving at √2&#160;≈&#160;1.4&#160;m/s.</li>
+<li>The amount of electricity required to light a 1&#160;watt <a href="/wiki/Light-emitting_diode" title="Light-emitting diode">LED</a> for 1&#160;s.</li>
+</ul>
+<p>Since the joule is also a watt-second and the common unit for electricity sales to homes is the kW·h (kilowatt-hour), a kW·h is thus 1000 (kilo) watt × 3600&#160;seconds = 3.6&#160;megajoules (MJ).</p>
+<h2><span class="mw-headline" id="Multiples">Multiples</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Joule&amp;action=edit&amp;section=4" title="Edit section: Multiples">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<dl>
+<dd><i>For additional examples, see: <a href="/wiki/Orders_of_magnitude_(energy)" title="Orders of magnitude (energy)">Orders of magnitude (energy)</a></i></dd>
+</dl>
+<table class="infobox">
+<tr>
+<td>
+<table class="wikitable" style="text-align:center; margin:0 auto;">
+<caption>SI multiples for joule (J)</caption>
+<tr>
+<th colspan="3">Submultiples</th>
+<td rowspan="12"></td>
+<th colspan="3">Multiples</th>
+</tr>
+<tr style="background:#d4d4d4;">
+<th>Value</th>
+<th>SI symbol</th>
+<th>Name</th>
+<th>Value</th>
+<th>SI symbol</th>
+<th>Name</th>
+</tr>
+<tr>
+<td>10<sup>−1</sup> J</td>
+<td>dJ</td>
+<td>decijoule</td>
+<td>10<sup>1</sup> J</td>
+<td>daJ</td>
+<td>decajoule</td>
+</tr>
+<tr>
+<td>10<sup>−2</sup> J</td>
+<td>cJ</td>
+<td>centijoule</td>
+<td>10<sup>2</sup> J</td>
+<td>hJ</td>
+<td>hectojoule</td>
+</tr>
+<tr>
+<td>10<sup>−3</sup> J</td>
+<td><b>mJ</b></td>
+<td><b>millijoule</b></td>
+<td>10<sup>3</sup> J</td>
+<td><b>kJ</b></td>
+<td><b>kilojoule</b></td>
+</tr>
+<tr>
+<td>10<sup>−6</sup> J</td>
+<td><b>µJ</b></td>
+<td><b>microjoule</b></td>
+<td>10<sup>6</sup> J</td>
+<td><b>MJ</b></td>
+<td><b>megajoule</b></td>
+</tr>
+<tr>
+<td>10<sup>−9</sup> J</td>
+<td><b>nJ</b></td>
+<td><b>nanojoule</b></td>
+<td>10<sup>9</sup> J</td>
+<td><b>GJ</b></td>
+<td><b>gigajoule</b></td>
+</tr>
+<tr>
+<td>10<sup>−12</sup> J</td>
+<td><b>pJ</b></td>
+<td><b>picojoule</b></td>
+<td>10<sup>12</sup> J</td>
+<td><b>TJ</b></td>
+<td><b>terajoule</b></td>
+</tr>
+<tr>
+<td>10<sup>−15</sup> J</td>
+<td>fJ</td>
+<td>femtojoule</td>
+<td>10<sup>15</sup> J</td>
+<td>PJ</td>
+<td>petajoule</td>
+</tr>
+<tr>
+<td>10<sup>−18</sup> J</td>
+<td>aJ</td>
+<td>attojoule</td>
+<td>10<sup>18</sup> J</td>
+<td>EJ</td>
+<td>exajoule</td>
+</tr>
+<tr>
+<td>10<sup>−21</sup> J</td>
+<td>zJ</td>
+<td>zeptojoule</td>
+<td>10<sup>21</sup> J</td>
+<td>ZJ</td>
+<td>zettajoule</td>
+</tr>
+<tr>
+<td>10<sup>−24</sup> J</td>
+<td>yJ</td>
+<td>yoctojoule</td>
+<td>10<sup>24</sup> J</td>
+<td>YJ</td>
+<td>yottajoule</td>
+</tr>
+<tr>
+<td colspan="7">Common multiples are in bold face</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="Zeptojoule">Zeptojoule</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Joule&amp;action=edit&amp;section=5" title="Edit section: Zeptojoule">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The zeptojoule (zJ) is equal to one sextillionth (10<sup>−21</sup>) of one joule. 160 zeptojoules is equivalent to one <a href="/wiki/Electronvolt" title="Electronvolt">electronvolt</a>.</p>
+<h3><span class="mw-headline" id="Nanojoule">Nanojoule</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Joule&amp;action=edit&amp;section=6" title="Edit section: Nanojoule">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The nanojoule (nJ) is equal to one billionth (10<sup>−9</sup>) of one joule. One nanojoule is about 1/160 of the <a href="/wiki/Kinetic_energy" title="Kinetic energy">kinetic energy</a> of a flying mosquito.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></p>
+<h3><span class="mw-headline" id="Microjoule">Microjoule</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Joule&amp;action=edit&amp;section=7" title="Edit section: Microjoule">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The microjoule (μJ) is equal to one millionth (10<sup>−6</sup>) of one joule. The <a href="/wiki/Large_Hadron_Collider" title="Large Hadron Collider">Large Hadron Collider</a> (LHC) produces collisions of the microjoule order (7 <a href="/wiki/Electron_volt" class="mw-redirect" title="Electron volt">TeV</a>) per particle.</p>
+<h3><span class="mw-headline" id="Millijoule">Millijoule</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Joule&amp;action=edit&amp;section=8" title="Edit section: Millijoule">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The millijoule (mJ) is equal to one thousandth (10<sup>−3</sup>) of a joule.</p>
+<h3><span class="mw-headline" id="Kilojoule">Kilojoule</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Joule&amp;action=edit&amp;section=9" title="Edit section: Kilojoule">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The kilojoule (kJ) is equal to one thousand (10<sup>3</sup>) joules. Nutritional food labels in some countries including the <a href="/wiki/EU" class="mw-redirect" title="EU">EU</a> express energy primarily in kilojoules (kJ), alternatively in <a href="/wiki/Calorie" title="Calorie">kcal</a>.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></p>
+<p>One square metre of the <a href="/wiki/Earth" title="Earth">Earth</a> receives about 1.4 kilojoules of <a href="/wiki/Sunlight#Solar_constant" title="Sunlight">solar radiation</a> every second in full daylight.<sup id="cite_ref-TSI_12-0" class="reference"><a href="#cite_note-TSI-12">[12]</a></sup></p>
+<h3><span class="mw-headline" id="Megajoule">Megajoule</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Joule&amp;action=edit&amp;section=10" title="Edit section: Megajoule">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The megajoule (MJ) is equal to one million (10<sup>6</sup>) joules, or approximately the kinetic energy of a one megagram (tonne) vehicle moving at 160&#160;km/h.</p>
+<p>One <a href="/wiki/Kilowatt_hour" title="Kilowatt hour">kilowatt hour</a> of electricity is 3.6 megajoules.</p>
+<h3><span class="mw-headline" id="Gigajoule">Gigajoule</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Joule&amp;action=edit&amp;section=11" title="Edit section: Gigajoule">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The gigajoule (GJ) is equal to one billion (10<sup>9</sup>)&#160;joules. 6&#160;GJ is about the amount of potential <a href="/wiki/Chemical_energy" title="Chemical energy">chemical energy</a> in 160 L (approximately one US standard <a href="/wiki/Barrel_of_oil_equivalent" title="Barrel of oil equivalent">barrel</a>) of oil, when combusted.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup> 2&#160;GJ is about the <a href="/wiki/Planck_energy" title="Planck energy">Planck energy</a> unit.</p>
+<h3><span class="mw-headline" id="Terajoule">Terajoule</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Joule&amp;action=edit&amp;section=12" title="Edit section: Terajoule">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The terajoule (TJ) is equal to one trillion (10<sup>12</sup>) joules. About 63 TJ of energy was released by <a href="/wiki/Little_Boy" title="Little Boy">the atomic bomb that exploded over Hiroshima</a>.<sup id="cite_ref-hironaga_14-0" class="reference"><a href="#cite_note-hironaga-14">[14]</a></sup> The <a href="/wiki/International_Space_Station" title="International Space Station">International Space Station</a>, with a mass of approximately 450 <a href="/wiki/Megagram" class="mw-redirect" title="Megagram">megagrams</a> and orbital velocity of 7.7&#160;km/s,<sup id="cite_ref-iss_15-0" class="reference"><a href="#cite_note-iss-15">[15]</a></sup> has a <a href="/wiki/Kinetic_energy" title="Kinetic energy">kinetic energy</a> of roughly 13 TJ.</p>
+<h3><span class="mw-headline" id="Petajoule">Petajoule</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Joule&amp;action=edit&amp;section=13" title="Edit section: Petajoule">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The petajoule (PJ) is equal to one quadrillion (10<sup>15</sup>) joules. 210&#160;PJ is equivalent to about 50&#160;megatons of TNT. This is the amount of energy released by the <a href="/wiki/Tsar_Bomba" title="Tsar Bomba">Tsar Bomba</a>, the largest man-made nuclear explosion ever.</p>
+<h3><span class="mw-headline" id="Exajoule">Exajoule</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Joule&amp;action=edit&amp;section=14" title="Edit section: Exajoule">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The exajoule (EJ) is equal to one quintillion (10<sup>18</sup>) joules. The <a href="/wiki/2011_T%C5%8Dhoku_earthquake_and_tsunami" title="2011 Tōhoku earthquake and tsunami">2011 Tōhoku earthquake and tsunami</a> in Japan had 1.41&#160;EJ of energy according to its 9.0 on the <a href="/wiki/Moment_magnitude_scale" title="Moment magnitude scale">moment magnitude scale</a>. <a href="/wiki/Energy_in_the_United_States" title="Energy in the United States">Energy in the United States</a> used per year is roughly 94&#160;EJ.</p>
+<h3><span class="mw-headline" id="Zettajoule">Zettajoule</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Joule&amp;action=edit&amp;section=15" title="Edit section: Zettajoule">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The zettajoule (ZJ) is equal to one sextillion (10<sup>21</sup>) joules. The human <a href="/wiki/World_energy_resources_and_consumption" class="mw-redirect" title="World energy resources and consumption">annual global energy consumption</a> is approximately 0.5 ZJ.</p>
+<h3><span class="mw-headline" id="Yottajoule">Yottajoule</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Joule&amp;action=edit&amp;section=16" title="Edit section: Yottajoule">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The yottajoule (YJ) is equal to one septillion (10<sup>24</sup>) joules. This is approximately the amount of energy required to heat <a href="/wiki/Water#On_Earth" title="Water">all the water on Earth</a> by 1&#160;°C. The thermal output of the <a href="/wiki/Sun" title="Sun">Sun</a> is approximately 400 YJ per second.</p>
+<h2><span class="mw-headline" id="Conversions">Conversions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Joule&amp;action=edit&amp;section=17" title="Edit section: Conversions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote">Main article: <a href="/wiki/Conversion_of_units_of_energy" class="mw-redirect" title="Conversion of units of energy">Conversion of units of energy</a></div>
+<p>1 joule is equal to:</p>
+<ul>
+<li><span class="nowrap"><span style="display:none" class="sortkey">7000100000000000000♠</span>1<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>7</sup>&#160;<a href="/wiki/Erg" title="Erg">erg</a></span> (exactly)</li>
+<li><span class="nowrap"><span style="display:none" class="sortkey">7000100000001488094♠</span>6.241<span style="margin-left:.25em;">509</span><span style="margin-left:.25em;">74</span><span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>18</sup>&#160;<a href="/wiki/Electronvolt" title="Electronvolt">eV</a></span></li>
+<li><span class="nowrap"><span style="display:none" class="sortkey">6999999976000000000♠</span>0.2390&#160;<a href="/wiki/Calorie" title="Calorie">cal</a></span> (gram calories)</li>
+<li><span class="nowrap"><span style="display:none" class="sortkey">6999999976000000000♠</span>2.390<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−4</sup>&#160;<a href="/wiki/Calorie" title="Calorie">kcal</a></span> (food calories)</li>
+<li><span class="nowrap"><span style="display:none" class="sortkey">7000100000303823028♠</span>9.4782<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−4</sup>&#160;<a href="/wiki/British_thermal_unit" title="British thermal unit">BTU</a></span></li>
+<li><span class="nowrap"><span style="display:none" class="sortkey">6999737600000000000♠</span>0.7376&#160;<a href="/wiki/Ft%C2%B7lb" class="mw-redirect" title="Ft·lb">ft·lb</a></span></li>
+<li><span class="nowrap"><span style="display:none" class="sortkey">6999998720609223173♠</span>23.7&#160;<a href="/wiki/Foot-poundal" title="Foot-poundal">ft·pdl</a></span> (foot-poundal)</li>
+<li><span class="nowrap"><span style="display:none" class="sortkey">6993277780000000000♠</span>2.7778<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−7</sup>&#160;<a href="/wiki/Kilowatt-hour" class="mw-redirect" title="Kilowatt-hour">kilowatt-hour</a></span></li>
+<li><span class="nowrap"><span style="display:none" class="sortkey">6996277780000000000♠</span>2.7778<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−4</sup>&#160;<a href="/wiki/Watt-hour" class="mw-redirect" title="Watt-hour">watt-hour</a></span></li>
+<li><span class="nowrap"><span style="display:none" class="sortkey">6999999996690000000♠</span>9.8692<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−3</sup>&#160;<a href="/wiki/Atmosphere_(unit)" title="Atmosphere (unit)">l·atm</a></span> (litre-atmosphere)</li>
+<li><span class="nowrap"><span style="display:none" class="sortkey">6986111265000000000♠</span>11.1265<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−15</sup>&#160;<a href="/wiki/Gram" title="Gram">gram</a></span> (by way of <a href="/wiki/Mass-energy" class="mw-redirect" title="Mass-energy">mass-energy</a> equivalence)</li>
+<li><span class="nowrap"><span style="display:none" class="sortkey">7000100000000000000♠</span>1<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−44</sup>&#160;<a href="/wiki/Foe_(unit)" title="Foe (unit)">foe</a></span> (exactly)</li>
+</ul>
+<p>Units defined exactly in terms of the joule include:</p>
+<ul>
+<li>1 thermochemical <a href="/wiki/Calorie" title="Calorie">calorie</a> = 4.184 J<sup id="cite_ref-FAO_16-0" class="reference"><a href="#cite_note-FAO-16">[16]</a></sup></li>
+<li>1 International Table <a href="/wiki/Calorie" title="Calorie">calorie</a> = 4.1868 J<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup></li>
+<li>1 watt hour = 3600 J (or 3.6 kJ)</li>
+<li>1 kilowatt hour = <span class="nowrap"><span style="display:none" class="sortkey">7006360000000000000♠</span>3.6<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>6</sup>&#160;J</span> (or 3.6 MJ)</li>
+<li>1 watt second = <span class="nowrap"><span style="display:none" class="sortkey">7000100000000000000♠</span>1&#160;J</span></li>
+<li>1 <a href="/wiki/Ton_TNT" class="mw-redirect" title="Ton TNT">ton TNT</a> = <span class="nowrap"><span style="display:none" class="sortkey">7009418400000000000♠</span>4.184&#160;GJ</span></li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Joule&amp;action=edit&amp;section=18" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tr>
+<td class="mbox-image"><a href="/wiki/File:Wiktionary-logo-v2.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Wiktionary-logo-v2.svg/40px-Wiktionary-logo-v2.svg.png" width="40" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Wiktionary-logo-v2.svg/60px-Wiktionary-logo-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/06/Wiktionary-logo-v2.svg/80px-Wiktionary-logo-v2.svg.png 2x" data-file-width="391" data-file-height="391" /></a></td>
+<td class="mbox-text plainlist">Look up <i><b><a href="https://en.wiktionary.org/wiki/joule" class="extiw" title="wiktionary:joule">joule</a></b></i> in Wiktionary, the free dictionary.</td>
+</tr>
+</table>
+<ul>
+<li><a href="/wiki/Conversion_of_units_of_energy" class="mw-redirect" title="Conversion of units of energy">Conversion of units of energy</a></li>
+<li><a href="/wiki/Orders_of_magnitude_(energy)" title="Orders of magnitude (energy)">Orders of magnitude (energy)</a></li>
+<li><a href="/wiki/Fluence" class="mw-redirect" title="Fluence">Fluence</a></li>
+<li><a href="/wiki/International_System_of_Units" title="International System of Units">International System of Units</a></li>
+<li><a href="/wiki/Watt_second" title="Watt second">Watt second</a></li>
+</ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Joule&amp;action=edit&amp;section=19" title="Edit section: Notes and references">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite id="CITEREFInternational_Bureau_of_Weights_and_Measures2006" class="citation"><a href="/wiki/International_Bureau_of_Weights_and_Measures" title="International Bureau of Weights and Measures">International Bureau of Weights and Measures</a> (2006), <a rel="nofollow" class="external text" href="http://www.bipm.org/utils/common/pdf/si_brochure_8_en.pdf"><i>The International System of Units (SI)</i></a> <span style="font-size:85%;">(PDF)</span> (8th ed.), p.&#160;120, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/92-822-2213-6" title="Special:BookSources/92-822-2213-6">92-822-2213-6</a></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJoule&amp;rft.au=International+Bureau+of+Weights+and+Measures&amp;rft.btitle=The+International+System+of+Units+%28SI%29&amp;rft.date=2006&amp;rft.edition=8th&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.bipm.org%2Futils%2Fcommon%2Fpdf%2Fsi_brochure_8_en.pdf&amp;rft.isbn=92-822-2213-6&amp;rft.pages=120&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://education.yahoo.com/reference/dictionary/entry/joule">American Heritage Dictionary of the English Language</a>, Online Edition (2009). Houghton Mifflin Co., hosted by <a rel="nofollow" class="external text" href="http://education.yahoo.com/">Yahoo! Education</a>.</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><i>The American Heritage Dictionary</i>, Second College Edition (1985). Boston: Houghton Mifflin Co., p. 691.</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><i>McGraw-Hill Dictionary of Physics</i>, Fifth Edition (1997). McGraw-Hill, Inc., p. 224.</span></li>
+<li id="cite_note-BIPM2-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-BIPM2_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-BIPM2_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20090628084157/http://www.bipm.org/en/si/si_brochure/chapter2/2-2/2-2-2.html">"Units with special names and symbols; units that incorporate special names and symbols"</a>. <a href="/wiki/International_Bureau_of_Weights_and_Measures" title="International Bureau of Weights and Measures">International Bureau of Weights and Measures</a>. Archived from <a rel="nofollow" class="external text" href="http://www.bipm.org/en/si/si_brochure/chapter2/2-2/2-2-2.html">the original</a> on 28 June 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">18 March</span> 2015</span>. <q>A derived unit can often be expressed in different ways by combining base units with derived units having special names. Joule, for example, may formally be written newton metre, or kilogram metre squared per second squared. This, however, is an algebraic freedom to be governed by common sense physical considerations; in a given situation some forms may be more helpful than others. In practice, with certain quantities, preference is given to the use of certain special unit names, or combinations of unit names, to facilitate the distinction between different quantities having the same dimension.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJoule&amp;rft.btitle=Units+with+special+names+and+symbols%3B+units+that+incorporate+special+names+and+symbols&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.bipm.org%2Fen%2Fsi%2Fsi_brochure%2Fchapter2%2F2-2%2F2-2-2.html&amp;rft.pub=International+Bureau+of+Weights+and+Measures&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.healthaliciousness.com/blog/How-much-is-100-grams.php">"How much is 100 grams?"</a>. <i>HealthAliciousNess</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-03-11</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJoule&amp;rft.atitle=How+much+is+100+grams%3F&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fwww.healthaliciousness.com%2Fblog%2FHow-much-is-100-grams.php&amp;rft.jtitle=HealthAliciousNess&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.engineeringtoolbox.com/heat-units-d_664.html">"Units of Heat - BTU, Calorie and Joule"</a>. Engineeringtoolbox.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-09-16</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJoule&amp;rft.btitle=Units+of+Heat+-+BTU%2C+Calorie+and+Joule&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.engineeringtoolbox.com%2Fheat-units-d_664.html&amp;rft.pub=Engineeringtoolbox.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">This is called the <a href="/wiki/Basal_metabolic_rate" title="Basal metabolic rate">basal metabolic rate</a>. It corresponds to about 5,000&#160;kJ (1,200&#160;kcal) per day. The kilocalorie (symbol <b>kcal</b>) is also known as the <a href="/wiki/Calorie" title="Calorie">dietary calorie</a>. "At rest" means awake but inactive.</span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation book">Ristinen, Robert A.; Kraushaar, Jack J. (2006). <i>Energy and the Environment</i> (2nd ed.). Hoboken, NJ: John Wiley &amp; Sons. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-471-73989-8" title="Special:BookSources/0-471-73989-8">0-471-73989-8</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJoule&amp;rft.aufirst=Robert+A.&amp;rft.au=Kraushaar%2C+Jack+J.&amp;rft.aulast=Ristinen&amp;rft.btitle=Energy+and+the+Environment&amp;rft.date=2006&amp;rft.edition=2nd&amp;rft.genre=book&amp;rft.isbn=0-471-73989-8&amp;rft.place=Hoboken%2C+NJ&amp;rft.pub=John+Wiley+%26+Sons&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://public.web.cern.ch/Public/en/Science/Glossary-en.php">CERN - Glossary</a></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://eur-lex.europa.eu/legal-content/en/TXT/?uri=CELEX:32011R1169">"REGULATION (EU) No 1169/2011 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL"</a>. <i>eur-lex.europa.eu</i>. 2011-10-25<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-01-20</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJoule&amp;rft.atitle=REGULATION+%28EU%29+No+1169%2F2011+OF+THE+EUROPEAN+PARLIAMENT+AND+OF+THE+COUNCIL&amp;rft.date=2011-10-25&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Feur-lex.europa.eu%2Flegal-content%2Fen%2FTXT%2F%3Furi%3DCELEX%3A32011R1169&amp;rft.jtitle=eur-lex.europa.eu&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-TSI-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-TSI_12-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.pmodwrc.ch/pmod.php?topic=tsi/composite/SolarConstant">"Construction of a Composite Total Solar Irradiance (TSI) Time Series from 1978 to present"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2005-10-05</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJoule&amp;rft.btitle=Construction+of+a+Composite+Total+Solar+Irradiance+%28TSI%29+Time+Series+from+1978+to+present&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.pmodwrc.ch%2Fpmod.php%3Ftopic%3Dtsi%2Fcomposite%2FSolarConstant&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.irs.gov/pub/irs-drop/n-99-18.pdf">IRS publication</a></span></li>
+<li id="cite_note-hironaga-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-hironaga_14-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Malik, John (September 1985). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20091011030043/http://www.mbe.doe.gov/me70/manhattan/publications/LANLHiroshimaNagasakiYields.pdf">"Report LA-8819: The yields of the Hiroshima and Nagasaki nuclear explosions"</a> <span style="font-size:85%;">(PDF)</span>. <a href="/wiki/Los_Alamos_National_Laboratory" title="Los Alamos National Laboratory">Los Alamos National Laboratory</a>. Archived from <a rel="nofollow" class="external text" href="http://www.mbe.doe.gov/me70/manhattan/publications/LANLHiroshimaNagasakiYields.pdf">the original</a> <span style="font-size:85%;">(PDF)</span> on 11 October 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">18 March</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJoule&amp;rft.aufirst=John&amp;rft.aulast=Malik&amp;rft.btitle=Report+LA-8819%3A+The+yields+of+the+Hiroshima+and+Nagasaki+nuclear+explosions&amp;rft.date=1985-09&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.mbe.doe.gov%2Fme70%2Fmanhattan%2Fpublications%2FLANLHiroshimaNagasakiYields.pdf&amp;rft.pub=Los+Alamos+National+Laboratory&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-iss-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-iss_15-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20110721012349/http://www.spaceflight.esa.int/users/downloads/factsheets/fs001_12_iss.pdf">"International Space Station Final Configuration"</a> <span style="font-size:85%;">(PDF)</span>. <a href="/wiki/European_Space_Agency" title="European Space Agency">European Space Agency</a>. Archived from <a rel="nofollow" class="external text" href="http://www.spaceflight.esa.int/users/downloads/factsheets/fs001_12_iss.pdf">the original</a> <span style="font-size:85%;">(PDF)</span> on 21 July 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">18 March</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJoule&amp;rft.btitle=International+Space+Station+Final+Configuration&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.spaceflight.esa.int%2Fusers%2Fdownloads%2Ffactsheets%2Ffs001_12_iss.pdf&amp;rft.pub=European+Space+Agency&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-FAO-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-FAO_16-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.fao.org/docrep/meeting/009/ae906e/ae906e17.htm">The adoption of joules as units of energy</a>, FAO/WHO Ad Hoc Committee of Experts on Energy and Protein, 1971. A report on the changeover from calories to joules in nutrition.</span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation web"><a href="/wiki/Richard_Feynman" title="Richard Feynman">Feynman, Richard</a> (1963). <a rel="nofollow" class="external text" href="http://www.numericana.com/answer/feynman.htm">"Physical Units"</a>. <i>Feynman's Lectures on Physics</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2014-03-07</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJoule&amp;rft.atitle=Physical+Units&amp;rft.aufirst=Richard&amp;rft.aulast=Feynman&amp;rft.date=1963&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.numericana.com%2Fanswer%2Ffeynman.htm&amp;rft.jtitle=Feynman%27s+Lectures+on+Physics&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="SI_units" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:SI_units" title="Template:SI units"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:SI_units" title="Template talk:SI units"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:SI_units&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="SI_units" style="font-size:114%"><a href="/wiki/International_System_of_Units" title="International System of Units">SI units</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/SI_base_unit" title="SI base unit">Base units</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ampere" title="Ampere">ampere</a></li>
+<li><a href="/wiki/Candela" title="Candela">candela</a></li>
+<li><a href="/wiki/Kelvin" title="Kelvin">kelvin</a></li>
+<li><a href="/wiki/Kilogram" title="Kilogram">kilogram</a></li>
+<li><a href="/wiki/Metre" title="Metre">metre</a></li>
+<li><a href="/wiki/Mole_(unit)" title="Mole (unit)">mole</a></li>
+<li><a href="/wiki/Second" title="Second">second</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="7" style="width:0%;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:SI_base_units.svg" class="image" title="SI base unit"><img alt="SI base unit" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/SI_base_units.svg/125px-SI_base_units.svg.png" width="125" height="125" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/SI_base_units.svg/188px-SI_base_units.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/38/SI_base_units.svg/250px-SI_base_units.svg.png 2x" data-file-width="600" data-file-height="600" /></a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/SI_derived_unit" title="SI derived unit">Derived units with special names</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Becquerel" title="Becquerel">becquerel</a></li>
+<li><a href="/wiki/Coulomb" title="Coulomb">coulomb</a></li>
+<li><a href="/wiki/Celsius" title="Celsius">degree Celsius</a></li>
+<li><a href="/wiki/Farad" title="Farad">farad</a></li>
+<li><a href="/wiki/Gray_(unit)" title="Gray (unit)">gray</a></li>
+<li><a href="/wiki/Henry_(unit)" title="Henry (unit)">henry</a></li>
+<li><a href="/wiki/Hertz" title="Hertz">hertz</a></li>
+<li><strong class="selflink">joule</strong></li>
+<li><a href="/wiki/Katal" title="Katal">katal</a></li>
+<li><a href="/wiki/Lumen_(unit)" title="Lumen (unit)">lumen</a></li>
+<li><a href="/wiki/Lux" title="Lux">lux</a></li>
+<li><a href="/wiki/Newton_(unit)" title="Newton (unit)">newton</a></li>
+<li><a href="/wiki/Ohm" title="Ohm">ohm</a></li>
+<li><a href="/wiki/Pascal_(unit)" title="Pascal (unit)">pascal</a></li>
+<li><a href="/wiki/Radian" title="Radian">radian</a></li>
+<li><a href="/wiki/Siemens_(unit)" title="Siemens (unit)">siemens</a></li>
+<li><a href="/wiki/Sievert" title="Sievert">sievert</a></li>
+<li><a href="/wiki/Steradian" title="Steradian">steradian</a></li>
+<li><a href="/wiki/Tesla_(unit)" title="Tesla (unit)">tesla</a></li>
+<li><a href="/wiki/Volt" title="Volt">volt</a></li>
+<li><a href="/wiki/Watt" title="Watt">watt</a></li>
+<li><a href="/wiki/Weber_(unit)" title="Weber (unit)">weber</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Non-SI_units_mentioned_in_the_SI" title="Non-SI units mentioned in the SI">Other accepted units</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Astronomical_unit" title="Astronomical unit">astronomical unit</a></li>
+<li><a href="/wiki/Bar_(unit)" title="Bar (unit)">bar</a></li>
+<li><a href="/wiki/Atomic_mass_unit" class="mw-redirect" title="Atomic mass unit">dalton</a></li>
+<li><a href="/wiki/Day" title="Day">day</a></li>
+<li><a href="/wiki/Decibel" title="Decibel">decibel</a></li>
+<li><a href="/wiki/Degree_(angle)" title="Degree (angle)">degree of arc</a></li>
+<li><a href="/wiki/Electronvolt" title="Electronvolt">electronvolt</a></li>
+<li><a href="/wiki/Hectare" title="Hectare">hectare</a></li>
+<li><a href="/wiki/Hour" title="Hour">hour</a></li>
+<li><a href="/wiki/Litre" title="Litre">litre</a></li>
+<li><a href="/wiki/Minute" title="Minute">minute</a></li>
+<li><a href="/wiki/Minute_of_arc" class="mw-redirect" title="Minute of arc">minute of arc</a></li>
+<li><a href="/wiki/Neper" title="Neper">neper</a></li>
+<li><a href="/wiki/Second_of_arc" class="mw-redirect" title="Second of arc">second of arc</a></li>
+<li><a href="/wiki/Tonne" title="Tonne">tonne</a></li>
+<li><a href="/wiki/Atomic_units" title="Atomic units">atomic units</a></li>
+<li><a href="/wiki/Natural_units" title="Natural units">natural units</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">See also</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Conversion_of_units" title="Conversion of units">Conversion of units</a></li>
+<li><a href="/wiki/History_of_the_metric_system" title="History of the metric system">History of the metric system</a></li>
+<li><a href="/wiki/Metric_prefix" title="Metric prefix">Metric prefixes</a></li>
+<li><a href="/wiki/Proposed_redefinition_of_SI_base_units" title="Proposed redefinition of SI base units">Proposed redefinitions</a></li>
+<li><a href="/wiki/System_of_measurement" title="System of measurement">Systems of measurement</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3">
+<div>
+<ul>
+<li><b><img alt="Wikipedia book" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/16px-Symbol_book_class2.svg.png" title="Wikipedia book" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/23px-Symbol_book_class2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/31px-Symbol_book_class2.svg.png 2x" data-file-width="180" data-file-height="185" /> <a href="/wiki/Book:International_System_of_Units" title="Book:International System of Units">Book</a></b></li>
+<li><b><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <a href="/wiki/Category:SI_units" title="Category:SI units">Category</a></b></li>
+<li><b><a href="/wiki/Outline_of_the_metric_system" title="Outline of the metric system">Outline</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Energy" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Footer_energy" title="Template:Footer energy"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Footer_energy" title="Template talk:Footer energy"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Footer_energy&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Energy" style="font-size:114%"><a href="/wiki/Energy" title="Energy">Energy</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Fundamental concepts</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Energetics" title="Energetics">Energetics</a></li>
+<li><a href="/wiki/Energy" title="Energy">Energy</a>
+<ul>
+<li><a href="/wiki/Units_of_energy" title="Units of energy">Units</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Energy_system" title="Energy system">Energy system</a></li>
+<li><a href="/wiki/Energy_transformation" title="Energy transformation">Energy transformation</a></li>
+<li><a href="/wiki/Laws_of_thermodynamics" title="Laws of thermodynamics">Laws of thermodynamics</a></li>
+<li><a href="/wiki/Mass" title="Mass">Mass</a></li>
+<li><a href="/wiki/Power_(physics)" title="Power (physics)">Power</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Primary_energy" title="Primary energy">Primary energy</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Chemical_energy" title="Chemical energy">Chemical energy</a></li>
+<li><a href="/wiki/Fossil_fuel" title="Fossil fuel">Fossil fuel</a>
+<ul>
+<li><a href="/wiki/Coal" title="Coal">Coal</a></li>
+<li><a href="/wiki/Petroleum" title="Petroleum">Petroleum</a></li>
+<li><a href="/wiki/Natural_gas" title="Natural gas">Natural gas</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Gravitational_energy" title="Gravitational energy">Gravitational energy</a></li>
+<li><a href="/wiki/Kinetic_energy" title="Kinetic energy">Kinetic energy</a></li>
+<li><a href="/wiki/Nuclear_fuel" title="Nuclear fuel">Nuclear fuel</a>
+<ul>
+<li><a href="/wiki/Natural_uranium" title="Natural uranium">Natural uranium</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Magnetic_energy" title="Magnetic energy">Magnetic energy</a></li>
+<li><a href="/wiki/Radiant_energy" title="Radiant energy">Radiant energy</a></li>
+<li><a href="/wiki/Solar_energy" title="Solar energy">Solar</a></li>
+<li><a href="/wiki/Thermal_energy" title="Thermal energy">Thermal energy</a></li>
+<li><a href="/wiki/Wind" title="Wind">Wind</a></li>
+<li><a href="/wiki/Bioenergy" title="Bioenergy">Bioenergy</a></li>
+<li><a href="/wiki/Hydropower" title="Hydropower">Hydropower</a></li>
+<li><a href="/wiki/Marine_energy" title="Marine energy">Marine energy</a></li>
+<li><a href="/wiki/Geothermal_energy" title="Geothermal energy">Geothermal</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Energy_carrier" title="Energy carrier">Energy carriers</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Fuel_oil" title="Fuel oil">Fuel oil</a></li>
+<li><a href="/wiki/Enthalpy" title="Enthalpy">Enthalpy</a></li>
+<li><a href="/wiki/Heat" title="Heat">Heat</a></li>
+<li><a href="/wiki/Work_(physics)" title="Work (physics)">Work</a></li>
+<li><a href="/wiki/Electricity" title="Electricity">Electricity</a></li>
+<li><a href="/wiki/Elastic_energy" title="Elastic energy">Elastic energy</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Energy system<br />
+components</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Oil_refinery" title="Oil refinery">Oil refinery</a></li>
+<li><a href="/wiki/Fossil-fuel_power_station" class="mw-redirect" title="Fossil-fuel power station">Fossil-fuel power station</a>
+<ul>
+<li><a href="/wiki/Cogeneration" title="Cogeneration">Cogeneration</a></li>
+<li><a href="/wiki/Integrated_gasification_combined_cycle" title="Integrated gasification combined cycle">Integrated gasification combined cycle</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Nuclear_power" title="Nuclear power">Nuclear power</a>
+<ul>
+<li><a href="/wiki/Nuclear_power_plant" title="Nuclear power plant">Nuclear power plant</a></li>
+<li><a href="/wiki/Radioisotope_thermoelectric_generator" title="Radioisotope thermoelectric generator">Radioisotope thermoelectric generator</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Solar_power" title="Solar power">Solar power</a>
+<ul>
+<li><a href="/wiki/Photovoltaic_system" title="Photovoltaic system">Photovoltaic system</a></li>
+<li><a href="/wiki/Concentrated_solar_power" title="Concentrated solar power">Concentrated solar power</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Solar_thermal_energy" title="Solar thermal energy">Solar thermal energy</a>
+<ul>
+<li><a href="/wiki/Solar_power_tower" title="Solar power tower">Solar power tower</a></li>
+<li><a href="/wiki/Solar_furnace" title="Solar furnace">Solar furnace</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Wind_power" title="Wind power">Wind power</a>
+<ul>
+<li><a href="/wiki/Wind_farm" title="Wind farm">Wind farm</a></li>
+<li><a href="/wiki/High-altitude_wind_power" title="High-altitude wind power">High-altitude wind power</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Hydropower" title="Hydropower">Hydropower</a>
+<ul>
+<li><a href="/wiki/Hydroelectricity" title="Hydroelectricity">Hydroelectricity</a></li>
+<li><a href="/wiki/Wave_farm" title="Wave farm">Wave farm</a></li>
+<li><a href="/wiki/Tidal_power" title="Tidal power">Tidal power</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Biomass" title="Biomass">Biomass</a></li>
+<li><a href="/wiki/Geothermal_power" title="Geothermal power">Geothermal power</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1272
+Cached time: 20170201003016
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.236 seconds
+Real time usage: 0.322 seconds
+Preprocessor visited node count: 2249/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 63549/2097152 bytes
+Template argument size: 4165/2097152 bytes
+Highest expansion depth: 9/40
+Expensive parser function count: 0/500
+Lua time usage: 0.107/10.000 seconds
+Lua memory usage: 6.11 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  236.399      1 -total
+ 30.85%   72.918      1 Template:Infobox_Unit
+ 30.45%   71.992      1 Template:Reflist
+ 27.93%   66.034      1 Template:Infobox
+ 21.53%   50.887     20 Template:Val
+ 13.07%   30.907      1 Template:SIbrochure8th
+ 12.61%   29.819      1 Template:Citation
+  8.93%   21.103      8 Template:Cite_web
+  7.56%   17.869      1 Template:About
+  6.83%   16.135      2 Template:Navbox
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:16327-0!*!0!!en!4!*!math=5 and timestamp 20170201003016 and revision id 761091495
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Joule&amp;oldid=761091495">https://en.wikipedia.org/w/index.php?title=Joule&amp;oldid=761091495</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:SI_derived_units" title="Category:SI derived units">SI derived units</a></li><li><a href="/wiki/Category:Units_of_energy" title="Category:Units of energy">Units of energy</a></li><li><a href="/wiki/Category:James_Prescott_Joule" title="Category:James Prescott Joule">James Prescott Joule</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Joule" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Joule" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Joule"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Joule"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Joule" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Joule&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Joule&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Joule" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Joule" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Joule&amp;oldid=761091495" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Joule&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q25269" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Joule&amp;id=761091495" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Joule">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Joule&amp;returnto=Joule&amp;oldid=761091495&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Joule&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/Joule" title="Joule – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%AC%D9%88%D9%84" title="جول – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-an"><a href="https://an.wikipedia.org/wiki/Joule" title="Joule – Aragonese" lang="an" hreflang="an" class="interlanguage-link-target">Aragonés</a></li><li class="interlanguage-link interwiki-ast"><a href="https://ast.wikipedia.org/wiki/Xuliu_(unid%C3%A1)" title="Xuliu (unidá) – Asturian" lang="ast" hreflang="ast" class="interlanguage-link-target">Asturianu</a></li><li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/Coul" title="Coul – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li><li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A6%9C%E0%A7%81%E0%A6%B2" title="জুল – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%94%D0%B6%D0%BE%D1%9E%D0%BB%D1%8C,_%D0%B0%D0%B4%D0%B7%D1%96%D0%BD%D0%BA%D0%B0_%D0%B2%D1%8B%D0%BC%D1%8F%D1%80%D1%8D%D0%BD%D0%BD%D1%8F" title="Джоўль, адзінка вымярэння – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-be-x-old"><a href="https://be-x-old.wikipedia.org/wiki/%D0%94%D0%B6%D0%BE%D1%9E%D0%BB%D1%8C" title="Джоўль – беларуская (тарашкевіца)‎" lang="be-x-old" hreflang="be-x-old" class="interlanguage-link-target">Беларуская (тарашкевіца)‎</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%94%D0%B6%D0%B0%D1%83%D0%BB" title="Джаул – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-bo"><a href="https://bo.wikipedia.org/wiki/%E0%BD%85%E0%BD%BC%E0%BD%A3%E0%BC%8D" title="ཅོལ། – Tibetan" lang="bo" hreflang="bo" class="interlanguage-link-target">བོད་ཡིག</a></li><li class="interlanguage-link interwiki-bs"><a href="https://bs.wikipedia.org/wiki/D%C5%BEul" title="Džul – Bosnian" lang="bs" hreflang="bs" class="interlanguage-link-target">Bosanski</a></li><li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Joul" title="Joul – Breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Joule" title="Joule – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cv"><a href="https://cv.wikipedia.org/wiki/%D0%94%D0%B6%D0%BE%D1%83%D0%BB%D1%8C" title="Джоуль – Chuvash" lang="cv" hreflang="cv" class="interlanguage-link-target">Чӑвашла</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Joule" title="Joule – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-cy"><a href="https://cy.wikipedia.org/wiki/Joule" title="Joule – Welsh" lang="cy" hreflang="cy" class="interlanguage-link-target">Cymraeg</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Joule" title="Joule – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Joule" title="Joule – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/D%C5%BEaul" title="Džaul – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%A4%CE%B6%CE%AC%CE%BF%CF%85%CE%BB_(%CE%BC%CE%BF%CE%BD%CE%AC%CE%B4%CE%B1_%CE%BC%CE%AD%CF%84%CF%81%CE%B7%CF%83%CE%B7%CF%82)" title="Τζάουλ (μονάδα μέτρησης) – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Julio_(unidad)" title="Julio (unidad) – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/%C4%B4ulo" title="Ĵulo – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Joule_(unitatea)" title="Joule (unitatea) – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%DA%98%D9%88%D9%84" title="ژول – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Joule" title="Joule – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ga"><a href="https://ga.wikipedia.org/wiki/Gi%C3%BAl" title="Giúl – Irish" lang="ga" hreflang="ga" class="interlanguage-link-target">Gaeilge</a></li><li class="interlanguage-link interwiki-gd"><a href="https://gd.wikipedia.org/wiki/Joule" title="Joule – Scottish Gaelic" lang="gd" hreflang="gd" class="interlanguage-link-target">Gàidhlig</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Joule" title="Joule – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%A4%84_(%EB%8B%A8%EC%9C%84)" title="줄 (단위) – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D5%8B%D5%B8%D5%B8%D6%82%D5%AC_(%D5%B9%D5%A1%D6%83%D5%B4%D5%A1%D5%B6_%D5%B4%D5%AB%D5%A1%D5%BE%D5%B8%D6%80)" title="Ջոուլ (չափման միավոր) – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%9C%E0%A5%82%E0%A4%B2_(%E0%A4%87%E0%A4%95%E0%A4%BE%E0%A4%88)" title="जूल (इकाई) – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/D%C5%BEul" title="Džul – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Joule" title="Joule – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-ia"><a href="https://ia.wikipedia.org/wiki/Joule" title="Joule – Interlingua" lang="ia" hreflang="ia" class="interlanguage-link-target">Interlingua</a></li><li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/J%C3%BAl" title="Júl – Icelandic" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Joule" title="Joule – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%92%27%D7%95%D7%9C" title="ג'ול – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-krc"><a href="https://krc.wikipedia.org/wiki/%D0%94%D0%B6%D0%BE%D1%83%D0%BB%D1%8C" title="Джоуль – Karachay-Balkar" lang="krc" hreflang="krc" class="interlanguage-link-target">Къарачай-малкъар</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%AF%E1%83%9D%E1%83%A3%E1%83%9A%E1%83%98" title="ჯოული – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-sw"><a href="https://sw.wikipedia.org/wiki/Jouli" title="Jouli – Swahili" lang="sw" hreflang="sw" class="interlanguage-link-target">Kiswahili</a></li><li class="interlanguage-link interwiki-ht"><a href="https://ht.wikipedia.org/wiki/Joul" title="Joul – Haitian Creole" lang="ht" hreflang="ht" class="interlanguage-link-target">Kreyòl ayisyen</a></li><li class="interlanguage-link interwiki-ku"><a href="https://ku.wikipedia.org/wiki/J%C3%BBl" title="Jûl – Kurdish" lang="ku" hreflang="ku" class="interlanguage-link-target">Kurdî</a></li><li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Joulium" title="Joulium – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li><li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/D%C5%BEouls" title="Džouls – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/D%C5%BEaulis" title="Džaulis – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-li"><a href="https://li.wikipedia.org/wiki/Joule" title="Joule – Limburgish" lang="li" hreflang="li" class="interlanguage-link-target">Limburgs</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Joule" title="Joule – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%8F%D1%83%D0%BB" title="Џул – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li><li class="interlanguage-link interwiki-ml"><a href="https://ml.wikipedia.org/wiki/%E0%B4%9C%E0%B5%82%E0%B5%BE" title="ജൂൾ – Malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target">മലയാളം</a></li><li class="interlanguage-link interwiki-mr"><a href="https://mr.wikipedia.org/wiki/%E0%A4%9C%E0%A5%8D%E0%A4%AF%E0%A5%82%E0%A4%B2" title="ज्यूल – Marathi" lang="mr" hreflang="mr" class="interlanguage-link-target">मराठी</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Joule" title="Joule – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-mn"><a href="https://mn.wikipedia.org/wiki/%D0%96%D0%BE%D1%83%D0%BB%D1%8C_(%D0%BD%D1%8D%D0%B3%D0%B6)" title="Жоуль (нэгж) – Mongolian" lang="mn" hreflang="mn" class="interlanguage-link-target">Монгол</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Joule" title="Joule – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB" title="ジュール – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-frr"><a href="https://frr.wikipedia.org/wiki/Joule" title="Joule – Northern Frisian" lang="frr" hreflang="frr" class="interlanguage-link-target">Nordfriisk</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Joule" title="Joule – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk bokmål</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Joule" title="Joule – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-oc"><a href="https://oc.wikipedia.org/wiki/Joule" title="Joule – Occitan" lang="oc" hreflang="oc" class="interlanguage-link-target">Occitan</a></li><li class="interlanguage-link interwiki-uz"><a href="https://uz.wikipedia.org/wiki/Joul" title="Joul – Uzbek" lang="uz" hreflang="uz" class="interlanguage-link-target">Oʻzbekcha/ўзбекча</a></li><li class="interlanguage-link interwiki-pa"><a href="https://pa.wikipedia.org/wiki/%E0%A8%9C%E0%A9%82%E0%A8%B2" title="ਜੂਲ – Punjabi" lang="pa" hreflang="pa" class="interlanguage-link-target">ਪੰਜਾਬੀ</a></li><li class="interlanguage-link interwiki-pnb"><a href="https://pnb.wikipedia.org/wiki/%D8%AC%D8%A7%D8%A4%D9%84" title="جاؤل – Western Punjabi" lang="pnb" hreflang="pnb" class="interlanguage-link-target">پنجابی</a></li><li class="interlanguage-link interwiki-pms"><a href="https://pms.wikipedia.org/wiki/Joule" title="Joule – Piedmontese" lang="pms" hreflang="pms" class="interlanguage-link-target">Piemontèis</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/D%C5%BCul" title="Dżul – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Joule" title="Joule – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Joule" title="Joule – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%94%D0%B6%D0%BE%D1%83%D0%BB%D1%8C" title="Джоуль – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Joule" title="Joule – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li><li class="interlanguage-link interwiki-si"><a href="https://si.wikipedia.org/wiki/%E0%B6%A2%E0%B7%96%E0%B6%BD%E0%B7%8A_(SI_%E0%B6%92%E0%B6%9A%E0%B6%9A%E0%B6%BA)" title="ජූල් (SI ඒකකය) – Sinhala" lang="si" hreflang="si" class="interlanguage-link-target">සිංහල</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Joule" title="Joule – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Joule" title="Joule – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/D%C5%BEul" title="Džul – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-ckb"><a href="https://ckb.wikipedia.org/wiki/%D8%AC%D9%88%D9%88%D9%84" title="جوول – Central Kurdish" lang="ckb" hreflang="ckb" class="interlanguage-link-target">کوردیی ناوەندی</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%8F%D1%83%D0%BB" title="Џул – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/D%C5%BEul" title="Džul – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-su"><a href="https://su.wikipedia.org/wiki/Joule" title="Joule – Sundanese" lang="su" hreflang="su" class="interlanguage-link-target">Basa Sunda</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Joule" title="Joule – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Joule" title="Joule – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%9C%E0%AF%82%E0%AE%B2%E0%AF%8D" title="ஜூல் – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li><li class="interlanguage-link interwiki-roa-tara"><a href="https://roa-tara.wikipedia.org/wiki/Joule" title="Joule – tarandíne" lang="roa-Tara" hreflang="roa-Tara" class="interlanguage-link-target">Tarandíne</a></li><li class="interlanguage-link interwiki-te"><a href="https://te.wikipedia.org/wiki/%E0%B0%9C%E0%B1%8C%E0%B0%B2%E0%B1%8D" title="జౌల్ – Telugu" lang="te" hreflang="te" class="interlanguage-link-target">తెలుగు</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%88%E0%B8%B9%E0%B8%A5" title="จูล – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Joule_(birim)" title="Joule (birim) – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%94%D0%B6%D0%BE%D1%83%D0%BB%D1%8C" title="Джоуль – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%D8%AC%D9%88%D9%84" title="جول – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li><li class="interlanguage-link interwiki-vec"><a href="https://vec.wikipedia.org/wiki/Joule" title="Joule – Venetian" lang="vec" hreflang="vec" class="interlanguage-link-target">Vèneto</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Joule" title="Joule – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-war"><a href="https://war.wikipedia.org/wiki/Joule" title="Joule – Waray" lang="war" hreflang="war" class="interlanguage-link-target">Winaray</a></li><li class="interlanguage-link interwiki-zh-yue"><a href="https://zh-yue.wikipedia.org/wiki/%E7%84%A6%E8%80%B3" title="焦耳 – Cantonese" lang="zh-yue" hreflang="zh-yue" class="interlanguage-link-target">粵語</a></li><li class="interlanguage-link interwiki-bat-smg"><a href="https://bat-smg.wikipedia.org/wiki/D%C5%BEaul%C4%97s" title="Džaulės – Samogitian" lang="bat-smg" hreflang="bat-smg" class="interlanguage-link-target">Žemaitėška</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E7%84%A6%E8%80%B3" title="焦耳 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q25269#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 20 January 2017, at 20:53.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Joule&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.236","walltime":"0.322","ppvisitednodes":{"value":2249,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":63549,"limit":2097152},"templateargumentsize":{"value":4165,"limit":2097152},"expansiondepth":{"value":9,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  236.399      1 -total"," 30.85%   72.918      1 Template:Infobox_Unit"," 30.45%   71.992      1 Template:Reflist"," 27.93%   66.034      1 Template:Infobox"," 21.53%   50.887     20 Template:Val"," 13.07%   30.907      1 Template:SIbrochure8th"," 12.61%   29.819      1 Template:Citation","  8.93%   21.103      8 Template:Cite_web","  7.56%   17.869      1 Template:About","  6.83%   16.135      2 Template:Navbox"]},"scribunto":{"limitreport-timeusage":{"value":"0.107","limit":"10.000"},"limitreport-memusage":{"value":6409300,"limit":52428800}},"cachereport":{"origin":"mw1272","timestamp":"20170201003016","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":61,"wgHostname":"mw1273"});});</script>
+	</body>
+</html>

@@ -1,0 +1,770 @@
+url : https://en.wikipedia.org/wiki/Maximum_power_point_tracker
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Maximum power point tracking - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Maximum_power_point_tracking","wgTitle":"Maximum power point tracking","wgCurRevisionId":762852429,"wgRevisionId":762852429,"wgArticleId":3318048,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Commons category with local link same as on Wikidata","Electric power systems components","Solar power","Photovoltaics"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Maximum_power_point_tracking","wgRelevantArticleId":3318048,"wgRequestId":"WJJFqgpAMFIAALSiiAMAAAAX","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Maximum_power_point_tracker","wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgInternalRedirectTargetUrl":"/wiki/Maximum_power_point_tracking","wgWikibaseItemId":"Q1052007","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.action.view.redirect","ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.9"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Maximum_power_point_tracking"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Maximum_power_point_tracking&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Maximum_power_point_tracking&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Maximum_power_point_tracking"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Maximum_power_point_tracking rootpage-Maximum_power_point_tracking skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Maximum power point tracking</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"><span class="mw-redirectedfrom">  (Redirected from <a href="/w/index.php?title=Maximum_power_point_tracker&amp;redirect=no" class="mw-redirect" title="Maximum power point tracker">Maximum power point tracker</a>)</span></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><p><b>Maximum power point tracking</b> (<b>MPPT</b> or sometimes just <b>PPT</b><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>) is a technique used commonly with wind turbines and <a href="/wiki/Photovoltaic" class="mw-redirect" title="Photovoltaic">photovoltaic</a> (PV) solar systems to maximize power extraction under all conditions.</p>
+<p>Although solar power is mainly covered, the principle applies generally to sources with variable power: for example, optical power transmission and <a href="/wiki/Thermophotovoltaic" title="Thermophotovoltaic">thermophotovoltaics</a>.</p>
+<p>PV solar systems exist in many different configurations with regard to their relationship to inverter systems, external grids, battery banks, or other electrical loads.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Regardless of the ultimate destination of the solar power, though, the central problem addressed by MPPT is that the efficiency of power transfer from the solar cell depends on both the amount of sunlight falling on the solar panels and the electrical characteristics of the load. As the amount of sunlight varies, the load characteristic that gives the highest power transfer efficiency changes, so that the efficiency of the system is optimized when the load characteristic changes to keep the power transfer at highest efficiency. This load characteristic is called the <b>maximum power point</b> and MPPT is the process of finding this point and keeping the load characteristic there. Electrical circuits can be designed to present arbitrary loads to the photovoltaic cells and then convert the voltage, current, or frequency to suit other devices or systems, and MPPT solves the problem of choosing the best load to be presented to the cells in order to get the most usable power out.</p>
+<p>Solar cells have a complex relationship between temperature and total resistance that produces a non-linear output efficiency which can be analyzed based on the <a href="/wiki/Current%E2%80%93voltage_characteristic" title="Current–voltage characteristic">I-V curve</a>.<sup id="cite_ref-Seyedmahmoudian_402.E2.80.93414_4-0" class="reference"><a href="#cite_note-Seyedmahmoudian_402.E2.80.93414-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> It is the purpose of the MPPT system to sample the output of the PV cells and apply the proper resistance (load) to obtain maximum power for any given environmental conditions.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> MPPT devices are typically integrated into an <a href="/wiki/Electric_power_converter" class="mw-redirect" title="Electric power converter">electric power converter</a> system that provides voltage or current conversion, filtering, and regulation for driving various loads, including power grids, batteries, or motors.</p>
+<ul>
+<li>Solar inverters convert the DC power to AC power and may incorporate MPPT: such inverters sample the output power (I-V curve) from the solar modules and apply the proper resistance (load) so as to obtain maximum power.</li>
+<li>The power at the MPP (P<sub>mpp</sub>) is the product of the MPP voltage(V<sub>mpp</sub>) and MPP current(I<sub>mpp</sub>).</li>
+</ul>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#I-V_curve"><span class="tocnumber">1</span> <span class="toctext">I-V curve</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#MPPT_Implementation"><span class="tocnumber">2</span> <span class="toctext">MPPT Implementation</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Classification"><span class="tocnumber">3</span> <span class="toctext">Classification</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Perturb_and_observe"><span class="tocnumber">3.1</span> <span class="toctext">Perturb and observe</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Incremental_conductance"><span class="tocnumber">3.2</span> <span class="toctext">Incremental conductance</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Current_sweep"><span class="tocnumber">3.3</span> <span class="toctext">Current sweep</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Constant_voltage"><span class="tocnumber">3.4</span> <span class="toctext">Constant voltage</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Comparison_of_methods"><span class="tocnumber">3.5</span> <span class="toctext">Comparison of methods</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#MPPT_placement"><span class="tocnumber">4</span> <span class="toctext">MPPT placement</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Operation_with_batteries"><span class="tocnumber">5</span> <span class="toctext">Operation with batteries</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="I-V_curve">I-V curve</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Maximum_power_point_tracking&amp;action=edit&amp;section=1" title="Edit section: I-V curve">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Solar-Cell-IV-curve-with-MPP.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Solar-Cell-IV-curve-with-MPP.png/220px-Solar-Cell-IV-curve-with-MPP.png" width="220" height="201" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Solar-Cell-IV-curve-with-MPP.png/330px-Solar-Cell-IV-curve-with-MPP.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Solar-Cell-IV-curve-with-MPP.png/440px-Solar-Cell-IV-curve-with-MPP.png 2x" data-file-width="526" data-file-height="480" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Solar-Cell-IV-curve-with-MPP.png" class="internal" title="Enlarge"></a></div>
+Photovoltaic solar cell I-V curves where a line intersects the knee of the curves where the maximum power transfer point is located.</div>
+</div>
+</div>
+<p><a href="/wiki/Photovoltaic_cell" class="mw-redirect" title="Photovoltaic cell">Photovoltaic cells</a> have a complex relationship between their operating environment and the maximum <a href="/wiki/Electric_power" title="Electric power">power</a> they can produce. The <a href="/wiki/Solar_cell#Efficiency" title="Solar cell">fill factor</a>, abbreviated <i>FF</i>, is a parameter which characterizes the non-linear electrical behavior of the solar cell. Fill factor is defined as the ratio of the maximum power from the solar cell to the product of Open Circuit Voltage V<sub>oc</sub> and Short-Circuit Current I<sub>sc</sub>. In tabulated data it is often used to estimate the maximum power that a cell can provide with an optimal load under given conditions, <i>P=FF*V<sub>oc</sub>*I<sub>sc</sub></i>. For most purposes, FF, V<sub>oc</sub>, and I<sub>sc</sub> are enough information to give a useful approximate model of the electrical behavior of a photovoltaic cell under typical conditions.</p>
+<p>For any given set of operational conditions, cells have a single operating point where the values of the <a href="/wiki/Electric_current" title="Electric current">current</a> (<i>I</i>) and <a href="/wiki/Voltage" title="Voltage">Voltage</a> (<i>V</i>) of the cell result in a maximum <a href="/wiki/Electric_power" title="Electric power">power</a> output.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> These values correspond to a particular load <a href="/wiki/Electrical_resistance" class="mw-redirect" title="Electrical resistance">resistance</a>, which is equal to <i>V</i> / I as specified by <a href="/wiki/Ohm%27s_Law" class="mw-redirect" title="Ohm's Law">Ohm's Law</a>. The power P is given by <i>P=V*I</i>. A photovoltaic cell, for the majority of its useful curve, acts as a <a href="/wiki/Constant_current_source" class="mw-redirect" title="Constant current source">constant current source</a>.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> However, at a photovoltaic cell's MPP region, its curve has an approximately inverse exponential relationship between current and voltage. From basic circuit theory, the power delivered from or to a device is optimized where the <a href="/wiki/Derivative" title="Derivative">derivative</a> (graphically, the slope) <i>dI/dV</i> of the I-V curve is equal and opposite the <i>I/V</i> ratio (where d<i>P/dV</i>=0).<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> This is known as the <b>maximum power point</b> (MPP) and corresponds to the "knee" of the curve.</p>
+<p>A load with resistance <i>R=V/I</i> equal to the reciprocal of this value draws the maximum power from the device. This is sometimes called the 'characteristic resistance' of the cell. This is a dynamic quantity which changes depending on the level of illumination, as well as other factors such as temperature and the age of the cell. If the resistance is lower or higher than this value, the power drawn will be less than the maximum available, and thus the cell will not be used as efficiently as it could be. Maximum power point trackers utilize different types of control circuit or logic to search for this point and thus to allow the converter circuit to extract the <a href="/wiki/Impedance_matching#Power_transfer" title="Impedance matching">maximum power</a> available from a cell.</p>
+<h2><span class="mw-headline" id="MPPT_Implementation">MPPT Implementation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Maximum_power_point_tracking&amp;action=edit&amp;section=2" title="Edit section: MPPT Implementation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>When a load is directly connected to the solar panel, the operating point of the panel will rarely be at peak power. The impedance seen by the panel derives the operating point of the solar panel. Thus by varying the impedance seen by the panel, the operating point can be moved towards peak power point. Since panels are DC devices, DC-DC converters must be utilized to transform the impedance of one circuit (source) to the other circuit (load). Changing the duty ratio of the DC-DC converter results in an impedance change as seen by the panel. At a particular impedance (or duty ratio) the operating point will be at the peak power transfer point. The I-V curve of the panel can vary considerably with variation in atmospheric conditions such as radiance and temperature. Therefore it is not feasible to fix the duty ratio with such dynamically changing operating conditions.</p>
+<p>MPPT implementations utilize algorithms that frequently sample panel voltages and currents, then adjust the duty ratio as needed. Microcontrollers are employed to implement the algorithms. Modern implementations often utilize larger computers for analytics and load forcasting.</p>
+<h2><span class="mw-headline" id="Classification">Classification</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Maximum_power_point_tracking&amp;action=edit&amp;section=3" title="Edit section: Classification">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Controllers can follow several strategies to optimize the power output of an array. Maximum power point trackers may implement different algorithms and switch between them based on the operating conditions of the array.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></p>
+<h3><span class="mw-headline" id="Perturb_and_observe">Perturb and observe</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Maximum_power_point_tracking&amp;action=edit&amp;section=4" title="Edit section: Perturb and observe">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In this method the controller adjusts the voltage by a small amount from the array and measures power; if the power increases, further adjustments in that direction are tried until power no longer increases. This is called the perturb and observe method and is most common, although this method can result in oscillations of power output.<sup id="cite_ref-zone_11-0" class="reference"><a href="#cite_note-zone-11">[11]</a></sup><sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> It is referred to as a <i><a href="/wiki/Hill_climbing" title="Hill climbing">hill climbing</a></i> method, because it depends on the rise of the curve of power against voltage below the maximum power point, and the fall above that point.<sup id="cite_ref-CS_13-0" class="reference"><a href="#cite_note-CS-13">[13]</a></sup> Perturb and observe is the most commonly used MPPT method due to its ease of implementation.<sup id="cite_ref-zone_11-1" class="reference"><a href="#cite_note-zone-11">[11]</a></sup> Perturb and observe method may result in top-level efficiency, provided that a proper predictive and adaptive hill climbing strategy is adopted.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup><sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup></p>
+<h3><span class="mw-headline" id="Incremental_conductance">Incremental conductance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Maximum_power_point_tracking&amp;action=edit&amp;section=5" title="Edit section: Incremental conductance">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In the incremental conductance method, the controller measures incremental changes in PV array current and voltage to predict the effect of a voltage change. This method requires more computation in the controller, but can track changing conditions more rapidly than the perturb and observe method (P&amp;O). Like the P&amp;O algorithm, it can produce oscillations in power output.<sup id="cite_ref-dspace_16-0" class="reference"><a href="#cite_note-dspace-16">[16]</a></sup> This method utilizes the incremental conductance (dI/dV) of the photovoltaic array to compute the sign of the change in power with respect to voltage (dP/dV).<sup id="cite_ref-pe_17-0" class="reference"><a href="#cite_note-pe-17">[17]</a></sup></p>
+<p>The incremental conductance method computes the maximum power point by comparison of the incremental conductance (I<sub>Δ</sub> / V<sub>Δ</sub>) to the array conductance (I / V). When these two are the same (I / V = I<sub>Δ</sub> / V<sub>Δ</sub>), the output voltage is the MPP voltage. The controller maintains this voltage until the irradiation changes and the process is repeated.<sup id="cite_ref-zone_11-2" class="reference"><a href="#cite_note-zone-11">[11]</a></sup></p>
+<p>The incremental conductance method is based on the observation that at the maximum power point dP/dV = 0, and that P = IV. The current from the array can be expressed is a function of the voltage: P = I(V)V. Therefore dP/dV = VdI/dV + I(V). Setting this equal to zero yields: dI/dV = -I(V)/V. Therefore, the maximum power point is achieved when the incremental conductance is equal to the negative of the instantaneous conductance.</p>
+<h3><span class="mw-headline" id="Current_sweep">Current sweep</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Maximum_power_point_tracking&amp;action=edit&amp;section=6" title="Edit section: Current sweep">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The current sweep method uses a sweep waveform for the PV array current such that the I-V characteristic of the PV array is obtained and updated at fixed time intervals. The maximum power point voltage can then be computed from the characteristic curve at the same intervals.<sup id="cite_ref-refmb1_18-0" class="reference"><a href="#cite_note-refmb1-18">[18]</a></sup><sup id="cite_ref-refmb2_19-0" class="reference"><a href="#cite_note-refmb2-19">[19]</a></sup></p>
+<h3><span class="mw-headline" id="Constant_voltage">Constant voltage</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Maximum_power_point_tracking&amp;action=edit&amp;section=7" title="Edit section: Constant voltage">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The term "constant voltage" in MPP tracking is used to describe different techniques by different authors, one in which the output voltage is regulated to a constant value under all conditions and one in which the output voltage is regulated based on a constant ratio to the measured open circuit voltage (V<sub>OC</sub>). The latter technique is referred to in contrast as the "open voltage" method by some authors.<sup id="cite_ref-wseas_20-0" class="reference"><a href="#cite_note-wseas-20">[20]</a></sup> If the output voltage is held constant, there is no attempt to track the maximum power point, so it is not a maximum power point tracking technique in a strict sense, though it does have some advantages in cases when the MPP tracking tends to fail, and thus it is sometimes used to supplement an MPPT method in those cases.</p>
+<p>In the "constant voltage" MPPT method (also known as the "open voltage method"), the power delivered to the load is momentarily interrupted and the open-circuit voltage with zero current is measured. The controller then resumes operation with the voltage controlled at a fixed ratio, such as 0.76, of the open-circuit voltage V<sub>OC</sub>.<sup id="cite_ref-ieeexplore.ieee.org_21-0" class="reference"><a href="#cite_note-ieeexplore.ieee.org-21">[21]</a></sup> This is usually a value which has been determined to be the maximum power point, either empirically or based on modelling, for expected operating conditions.<sup id="cite_ref-dspace_16-1" class="reference"><a href="#cite_note-dspace-16">[16]</a></sup><sup id="cite_ref-pe_17-1" class="reference"><a href="#cite_note-pe-17">[17]</a></sup> The operating point of the PV array is thus kept near the MPP by regulating the array voltage and matching it to the fixed reference voltage V<sub>ref</sub>=kV<sub>OC</sub>. The value of V<sub>ref</sub> may be also chosen to give optimal performance relative to other factors as well as the MPP, but the central idea in this technique is that V<sub>ref</sub> is determined as a ratio to V<sub>OC</sub>.</p>
+<p>One of the inherent approximations to the "constant voltage" ratio method is that the ratio of the MPP voltage to V<sub>OC</sub> is only approximately constant, so it leaves room for further possible optimization.</p>
+<h3><span class="mw-headline" id="Comparison_of_methods">Comparison of methods</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Maximum_power_point_tracking&amp;action=edit&amp;section=8" title="Edit section: Comparison of methods">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Both perturb and observe, and incremental conductance, are examples of "hill climbing" methods that can find the local maximum of the power curve for the operating condition of the PV array, and so provide a true maximum power point.<sup id="cite_ref-Seyedmahmoudian_402.E2.80.93414_4-1" class="reference"><a href="#cite_note-Seyedmahmoudian_402.E2.80.93414-4">[4]</a></sup><sup id="cite_ref-CS_13-1" class="reference"><a href="#cite_note-CS-13">[13]</a></sup><sup id="cite_ref-dspace_16-2" class="reference"><a href="#cite_note-dspace-16">[16]</a></sup></p>
+<p>The perturb and observe method requires oscillating power output around the maximum power point even under steady state irradiance.</p>
+<p>The incremental conductance method has the advantage over the perturb and observe (P&amp;O) method that it can determine the maximum power point without oscillating around this value.<sup id="cite_ref-zone_11-3" class="reference"><a href="#cite_note-zone-11">[11]</a></sup> It can perform maximum power point tracking under rapidly varying irradiation conditions with higher accuracy than the perturb and observe method.<sup id="cite_ref-zone_11-4" class="reference"><a href="#cite_note-zone-11">[11]</a></sup> However, the incremental conductance method can produce oscillations (unintentionally) and can perform erratically under rapidly changing atmospheric conditions. The sampling frequency is decreased due to the higher complexity of the algorithm compared to the P&amp;O method.<sup id="cite_ref-pe_17-2" class="reference"><a href="#cite_note-pe-17">[17]</a></sup></p>
+<p>In the constant voltage ratio (or "open voltage") method, the current from the photovoltaic array must be set to zero momentarily to measure the open circuit voltage and then afterwards set to a predetermined percentage of the measured voltage, usually around 76%.<sup id="cite_ref-pe_17-3" class="reference"><a href="#cite_note-pe-17">[17]</a></sup> Energy may be wasted during the time the current is set to zero.<sup id="cite_ref-pe_17-4" class="reference"><a href="#cite_note-pe-17">[17]</a></sup> The approximation of 76% as the MPP/V<sub>OC</sub> ratio is not necessarily accurate though.<sup id="cite_ref-pe_17-5" class="reference"><a href="#cite_note-pe-17">[17]</a></sup> Although simple and low-cost to implement, the interruptions reduce array efficiency and do not ensure finding the actual maximum power point. However, efficiencies of some systems may reach above 95%.<sup id="cite_ref-ieeexplore.ieee.org_21-1" class="reference"><a href="#cite_note-ieeexplore.ieee.org-21">[21]</a></sup></p>
+<h2><span class="mw-headline" id="MPPT_placement">MPPT placement</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Maximum_power_point_tracking&amp;action=edit&amp;section=9" title="Edit section: MPPT placement">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Traditional <a href="/wiki/Solar_inverter" title="Solar inverter">solar inverters</a> perform MPPT for the entire PV array (module association) as a whole. In such systems the same current, dictated by the inverter, flows through all modules in the string (series). Because different modules have different I-V curves and different MPPs (due to manufacturing tolerance, partial shading,<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup> etc.) this architecture means some modules will be performing below their MPP, resulting in lower efficiency.<sup id="cite_ref-sciam_23-0" class="reference"><a href="#cite_note-sciam-23">[23]</a></sup></p>
+<p>Some companies (see <a href="/wiki/Power_optimizer" title="Power optimizer">power optimizer</a>) are now placing maximum power point tracker into individual modules, allowing each to operate at peak efficiency despite uneven shading, soiling or electrical mismatch.</p>
+<p>Data suggests having one inverter with one MPPT for a project that has east and west-facing modules presents no disadvantages when compared to having two inverters or one inverter with more than one MPPT.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup></p>
+<h2><span class="mw-headline" id="Operation_with_batteries">Operation with batteries</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Maximum_power_point_tracking&amp;action=edit&amp;section=10" title="Edit section: Operation with batteries">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>At night, an off-<a href="/wiki/Electrical_grid" title="Electrical grid">grid</a> PV system may use batteries to supply loads. Although the fully charged battery pack voltage may be close to the PV panel's maximum power point voltage, this is unlikely to be true at sunrise when the battery has been partially discharged. Charging may begin at a voltage considerably below the PV panel maximum power point voltage, and an MPPT can resolve this mismatch.</p>
+<p>When the batteries in an off-grid system are fully charged and PV production exceeds local loads, an MPPT can no longer operate the panel at its maximum power point as the excess power has no load to absorb it. The MPPT must then shift the PV panel operating point away from the peak power point until production exactly matches demand. (An alternative approach commonly used in spacecraft is to divert surplus PV power into a resistive load, allowing the panel to operate continuously at its peak power point.)</p>
+<p>In a grid connected <a href="/wiki/Photovoltaic" class="mw-redirect" title="Photovoltaic">photovoltaic</a> system, all delivered power from solar modules will be sent to the grid. Therefore, the MPPT in a grid connected PV system will always attempt to operate the PV modules at its maximum power point.</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Maximum_power_point_tracking&amp;action=edit&amp;section=11" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.solar-electric.com/mppt-solar-charge-controllers.html">"What is Maximum Power Point Tracking (MPPT)"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMaximum+power+point+tracking&amp;rft.btitle=What+is+Maximum+Power+Point+Tracking+%28MPPT%29&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fwww.solar-electric.com%2Fmppt-solar-charge-controllers.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://ieeexplore.ieee.org/iel5/6294016/6304622/06304652.pdf">"A Survey of Maximum PPT techniques of PV Systems - IEEE Xplore"</a> <span style="font-size:85%;">(PDF)</span><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-10-04</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMaximum+power+point+tracking&amp;rft.btitle=A+Survey+of+Maximum+PPT+techniques+of+PV+Systems+-+IEEE+Xplore&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fieeexplore.ieee.org%2Fiel5%2F6294016%2F6304622%2F06304652.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation journal">Seyedmahmoudian, M.; Rahmani, R.; Mekhilef, S.; Maung Than Oo, A.; Stojcevski, A.; Soon, Tey Kok; Ghandhari, A.S. (2015-07-01). <a rel="nofollow" class="external text" href="http://ieeexplore.ieee.org/lpdocs/epic03/wrapper.htm?arnumber=7087393">"Simulation and Hardware Implementation of New Maximum Power Point Tracking Technique for Partially Shaded PV System Using Hybrid DEPSO Method"</a>. <i>IEEE Transactions on Sustainable Energy</i>. <b>6</b> (3): 850–862. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1109%2FTSTE.2015.2413359">10.1109/TSTE.2015.2413359</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/1949-3029">1949-3029</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMaximum+power+point+tracking&amp;rft.atitle=Simulation+and+Hardware+Implementation+of+New+Maximum+Power+Point+Tracking+Technique+for+Partially+Shaded+PV+System+Using+Hybrid+DEPSO+Method&amp;rft.aufirst=M.&amp;rft.au=Ghandhari%2C+A.S.&amp;rft.aulast=Seyedmahmoudian&amp;rft.au=Maung+Than+Oo%2C+A.&amp;rft.au=Mekhilef%2C+S.&amp;rft.au=Rahmani%2C+R.&amp;rft.au=Soon%2C+Tey+Kok&amp;rft.au=Stojcevski%2C+A.&amp;rft.date=2015-07-01&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fieeexplore.ieee.org%2Flpdocs%2Fepic03%2Fwrapper.htm%3Farnumber%3D7087393&amp;rft_id=info%3Adoi%2F10.1109%2FTSTE.2015.2413359&amp;rft.issn=1949-3029&amp;rft.issue=3&amp;rft.jtitle=IEEE+Transactions+on+Sustainable+Energy&amp;rft.pages=850-862&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=6" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Seyedmahmoudian_402.E2.80.93414-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-Seyedmahmoudian_402.E2.80.93414_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Seyedmahmoudian_402.E2.80.93414_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Seyedmahmoudian, Mohammadmehdi; Engineering, School of; Science, Faculty of; Environment, Engineering &amp; Built; University, Deakin; Victoria; Australia; Mohamadi, Arash; Kumary, Swarna. <a rel="nofollow" class="external text" href="http://www.ijcee.org/index.php?m=content&amp;c=index&amp;a=show&amp;catid=63&amp;id=962">"A Comparative Study on Procedure and State of the Art of Conventional Maximum Power Point Tracking Techniques for Photovoltaic System"</a>. <i>International Journal of Computer and Electrical Engineering</i>. <b>6</b> (5): 402–414. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.17706%2Fijcee.2014.v6.859">10.17706/ijcee.2014.v6.859</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMaximum+power+point+tracking&amp;rft.atitle=A+Comparative+Study+on+Procedure+and+State+of+the+Art+of+Conventional+Maximum+Power+Point+Tracking+Techniques+for+Photovoltaic+System&amp;rft.au=Australia&amp;rft.au=Engineering%2C+School+of&amp;rft.au=Environment%2C+Engineering+%26+Built&amp;rft.aufirst=Mohammadmehdi&amp;rft.au=Kumary%2C+Swarna&amp;rft.aulast=Seyedmahmoudian&amp;rft.au=Mohamadi%2C+Arash&amp;rft.au=Science%2C+Faculty+of&amp;rft.au=University%2C+Deakin&amp;rft.au=Victoria&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.ijcee.org%2Findex.php%3Fm%3Dcontent%26c%3Dindex%26a%3Dshow%26catid%3D63%26id%3D962&amp;rft_id=info%3Adoi%2F10.17706%2Fijcee.2014.v6.859&amp;rft.issue=5&amp;rft.jtitle=International+Journal+of+Computer+and+Electrical+Engineering&amp;rft.pages=402-414&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=6" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation journal">Seyedmahmoudian, Mohammadmehdi; Mekhilef, Saad; Rahmani, Rasoul; Yusof, Rubiyah; Renani, Ehsan Taslimi (2013-01-04). <a rel="nofollow" class="external text" href="http://www.mdpi.com/1996-1073/6/1/128">"Analytical Modeling of Partially Shaded Photovoltaic Systems"</a>. <i>Energies</i>. <b>6</b> (1): 128–144. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.3390%2Fen6010128">10.3390/en6010128</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMaximum+power+point+tracking&amp;rft.atitle=Analytical+Modeling+of+Partially+Shaded+Photovoltaic+Systems&amp;rft.aufirst=Mohammadmehdi&amp;rft.aulast=Seyedmahmoudian&amp;rft.au=Mekhilef%2C+Saad&amp;rft.au=Rahmani%2C+Rasoul&amp;rft.au=Renani%2C+Ehsan+Taslimi&amp;rft.au=Yusof%2C+Rubiyah&amp;rft.date=2013-01-04&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.mdpi.com%2F1996-1073%2F6%2F1%2F128&amp;rft_id=info%3Adoi%2F10.3390%2Fen6010128&amp;rft.issue=1&amp;rft.jtitle=Energies&amp;rft.pages=128-144&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=6" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation journal">Surawdhaniwar, Sonali; Mr. Ritesh Diwan (July 2012). "Study of Maximum Power Point Tracking Using Perturb and Observe Method". <i>International Journal of Advanced Research in Computer Engineering &amp; Technology</i>. <b>1</b> (5): 106–110.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMaximum+power+point+tracking&amp;rft.atitle=Study+of+Maximum+Power+Point+Tracking+Using+Perturb+and+Observe+Method&amp;rft.aufirst=Sonali&amp;rft.aulast=Surawdhaniwar&amp;rft.au=Mr.+Ritesh+Diwan&amp;rft.date=2012-07&amp;rft.genre=article&amp;rft.issue=5&amp;rft.jtitle=International+Journal+of+Advanced+Research+in+Computer+Engineering+%26+Technology&amp;rft.pages=106-110&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=1" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation journal">Seyedmahmoudian, Mohammadmehdi; Mekhilef, Saad; Rahmani, Rasoul; Yusof, Rubiyah; Shojaei, Ali Asghar (2014-03-01). <a rel="nofollow" class="external text" href="http://scitation.aip.org/content/aip/journal/jrse/6/2/10.1063/1.4868025">"Maximum power point tracking of partial shaded photovoltaic array using an evolutionary algorithm: A particle swarm optimization technique"</a>. <i>Journal of Renewable and Sustainable Energy</i>. <b>6</b> (2): 023102. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1063%2F1.4868025">10.1063/1.4868025</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/1941-7012">1941-7012</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMaximum+power+point+tracking&amp;rft.atitle=Maximum+power+point+tracking+of+partial+shaded+photovoltaic+array+using+an+evolutionary+algorithm%3A+A+particle+swarm+optimization+technique&amp;rft.aufirst=Mohammadmehdi&amp;rft.aulast=Seyedmahmoudian&amp;rft.au=Mekhilef%2C+Saad&amp;rft.au=Rahmani%2C+Rasoul&amp;rft.au=Shojaei%2C+Ali+Asghar&amp;rft.au=Yusof%2C+Rubiyah&amp;rft.date=2014-03-01&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fscitation.aip.org%2Fcontent%2Faip%2Fjournal%2Fjrse%2F6%2F2%2F10.1063%2F1.4868025&amp;rft_id=info%3Adoi%2F10.1063%2F1.4868025&amp;rft.issn=1941-7012&amp;rft.issue=2&amp;rft.jtitle=Journal+of+Renewable+and+Sustainable+Energy&amp;rft.pages=023102&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=6" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://geosci.uchicago.edu/~moyer/GEOS24705/2011/Notes/SolarPhysics.pdf">"University of Chicago GEOS24705 Solar Photovoltaics EJM May 2011"</a> <span style="font-size:85%;">(PDF)</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMaximum+power+point+tracking&amp;rft.btitle=University+of+Chicago+GEOS24705+Solar+Photovoltaics+EJM+May+2011&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fgeosci.uchicago.edu%2F~moyer%2FGEOS24705%2F2011%2FNotes%2FSolarPhysics.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/Simon_M._Sze" class="mw-redirect" title="Simon M. Sze">Sze, Simon M.</a> (1981). <i>Physics of Semiconductor Devices</i> (2nd ed.). p.&#160;796.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMaximum+power+point+tracking&amp;rft.aufirst=Simon+M.&amp;rft.aulast=Sze&amp;rft.btitle=Physics+of+Semiconductor+Devices&amp;rft.date=1981&amp;rft.edition=2nd&amp;rft.genre=book&amp;rft.pages=796&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">Rahmani, R., M. Seyedmahmoudian, S. Mekhilef and R. Yusof, 2013. Implementation of fuzzy logic maximum power point tracking controller for photovoltaic system. Am. J. Applied Sci., 10: 209-218.</span></li>
+<li id="cite_note-zone-11"><span class="mw-cite-backlink">^ <a href="#cite_ref-zone_11-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-zone_11-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-zone_11-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-zone_11-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-zone_11-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://zone.ni.com/devzone/cda/tut/p/id/8106">"Maximum Power Point Tracking"</a>. <i>zone.ni.com</i>. zone.ni.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-06-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMaximum+power+point+tracking&amp;rft.atitle=Maximum+Power+Point+Tracking&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fzone.ni.com%2Fdevzone%2Fcda%2Ftut%2Fp%2Fid%2F8106&amp;rft.jtitle=zone.ni.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://sbrn.solarbuildings.ca/c/sbn/file_db/Doc_File_e/Advanced%20algorithm%20for%20MPPT.pdf">"ADVANCED ALGORITHM FOR MPPT CONTROL OF PHOTOVOLTAIC SYSTEM"</a> <span style="font-size:85%;">(PDF)</span>. solarbuildings.ca<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-12-19</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMaximum+power+point+tracking&amp;rft.btitle=ADVANCED+ALGORITHM+FOR+MPPT+CONTROL+OF+PHOTOVOLTAIC+SYSTEM&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fsbrn.solarbuildings.ca%2Fc%2Fsbn%2Ffile_db%2FDoc_File_e%2FAdvanced%2520algorithm%2520for%2520MPPT.pdf&amp;rft.pub=solarbuildings.ca&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-CS-13"><span class="mw-cite-backlink">^ <a href="#cite_ref-CS_13-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-CS_13-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">"Comparative Study of Maximum Power Point Tracking Algorithms". <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1002%2Fpip.459">10.1002/pip.459</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMaximum+power+point+tracking&amp;rft.atitle=Comparative+Study+of+Maximum+Power+Point+Tracking+Algorithms&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1002%2Fpip.459&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.actapress.com/Abstract.aspx?paperId=23133">"Performances Improvement of Maximum Power Point Tracking Perturb and Observe Method"</a>. actapress.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-06-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMaximum+power+point+tracking&amp;rft.btitle=Performances+Improvement+of+Maximum+Power+Point+Tracking+Perturb+and+Observe+Method&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.actapress.com%2FAbstract.aspx%3FpaperId%3D23133&amp;rft.pub=actapress.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation journal">Zhang, Q.; C. Hu; L. Chen; A. Amirahmadi; N. Kutkut; I. Batarseh (2014). "A Center Point Iteration MPPT Method With Application on the Frequency-Modulated LLC Microinverter". <i>IEEE Transactions on Power Electronics</i>. <b>29</b> (3): 1262–1274. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1109%2Ftpel.2013.2262806">10.1109/tpel.2013.2262806</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMaximum+power+point+tracking&amp;rft.atitle=A+Center+Point+Iteration+MPPT+Method+With+Application+on+the+Frequency-Modulated+LLC+Microinverter&amp;rft.au=A.+Amirahmadi&amp;rft.au=C.+Hu&amp;rft.aufirst=Q.&amp;rft.au=I.+Batarseh&amp;rft.aulast=Zhang&amp;rft.au=L.+Chen&amp;rft.au=N.+Kutkut&amp;rft.date=2014&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1109%2Ftpel.2013.2262806&amp;rft.issue=3&amp;rft.jtitle=IEEE+Transactions+on+Power+Electronics&amp;rft.pages=1262-1274&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=29" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-dspace-16"><span class="mw-cite-backlink">^ <a href="#cite_ref-dspace_16-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-dspace_16-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-dspace_16-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://itee.uq.edu.au/~aupec/aupec06/htdocs/content/pdf/165.pdf">"Evaluation of Micro Controller Based Maximum Power Point Tracking Methods Using dSPACE Platform"</a> <span style="font-size:85%;">(PDF)</span>. itee.uq.edu.au<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-06-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMaximum+power+point+tracking&amp;rft.btitle=Evaluation+of+Micro+Controller+Based+Maximum+Power+Point+Tracking+Methods+Using+dSPACE+Platform&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fitee.uq.edu.au%2F~aupec%2Faupec06%2Fhtdocs%2Fcontent%2Fpdf%2F165.pdf&amp;rft.pub=itee.uq.edu.au&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-pe-17"><span class="mw-cite-backlink">^ <a href="#cite_ref-pe_17-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-pe_17-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-pe_17-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-pe_17-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-pe_17-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-pe_17-5"><sup><i><b>f</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://powerelectronics.com/power_semiconductors/power_microinverters_computercontrolled_improve_0409/">"MPPT ALGORITHMS"</a>. powerelectronics.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-06-10</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMaximum+power+point+tracking&amp;rft.btitle=MPPT+ALGORITHMS&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fpowerelectronics.com%2Fpower_semiconductors%2Fpower_microinverters_computercontrolled_improve_0409%2F&amp;rft.pub=powerelectronics.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-refmb1-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-refmb1_18-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Esram, Trishan; P.L. Chapman (2007). "Comparison of Photovoltaic Array Maximum Power Point Tracking Techniques". <i>IEEE trans. on Energy Conv</i>. <b>22</b> (2).</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMaximum+power+point+tracking&amp;rft.atitle=Comparison+of+Photovoltaic+Array+Maximum+Power+Point+Tracking+Techniques&amp;rft.aufirst=Trishan&amp;rft.aulast=Esram&amp;rft.au=P.L.+Chapman&amp;rft.date=2007&amp;rft.genre=article&amp;rft.issue=2&amp;rft.jtitle=IEEE+trans.+on+Energy+Conv.&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=22" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-refmb2-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-refmb2_19-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Bodur, Mehmet; M. Ermis (1994). "Maximum power point tracking for low power photovoltaic solar panels". <i>Proc. 7th Mediterranean Electrotechnical Conf.</i>: 758–761.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMaximum+power+point+tracking&amp;rft.atitle=Maximum+power+point+tracking+for+low+power+photovoltaic+solar+panels&amp;rft.aufirst=Mehmet&amp;rft.aulast=Bodur&amp;rft.au=M.+Ermis&amp;rft.date=1994&amp;rft.genre=article&amp;rft.jtitle=Proc.+7th+Mediterranean+Electrotechnical+Conf.&amp;rft.pages=758-761&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-wseas-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-wseas_20-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.wseas.us/e-library/transactions/power/2008/27-545.pdf">"Energy comparison of MPPT techniques for PV Systems"</a> <span style="font-size:85%;">(PDF)</span>. wseas<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-06-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMaximum+power+point+tracking&amp;rft.btitle=Energy+comparison+of+MPPT+techniques+for+PV+Systems&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.wseas.us%2Fe-library%2Ftransactions%2Fpower%2F2008%2F27-545.pdf&amp;rft.pub=wseas&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-ieeexplore.ieee.org-21"><span class="mw-cite-backlink">^ <a href="#cite_ref-ieeexplore.ieee.org_21-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-ieeexplore.ieee.org_21-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://ieeexplore.ieee.org/document/6471698/">"Design and simulation of an open voltage algorithm based maximum power point tracker for battery charging PV system:"</a>. <i>ieee.org</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMaximum+power+point+tracking&amp;rft.atitle=Design+and+simulation+of+an+open+voltage+algorithm+based+maximum+power+point+tracker+for+battery+charging+PV+system%3A&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fieeexplore.ieee.org%2Fdocument%2F6471698%2F&amp;rft.jtitle=ieee.org&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text">Seyedmahmoudian, M.; Mekhilef, S.; Rahmani, R.; Yusof, R.; Renani, E.T. Analytical Modeling of Partially Shaded Photovoltaic Systems. Energies 2013, 6, 128-144.</span></li>
+<li id="cite_note-sciam-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-sciam_23-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://blogs.scientificamerican.com/solar-at-home/invert-your-thinking-squeezing-more-power-out-of-your-solar-panels/">"Invert your thinking: Squeezing more power out of your solar panels"</a>. blogs.scientificamerican.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-05-05</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMaximum+power+point+tracking&amp;rft.btitle=Invert+your+thinking%3A+Squeezing+more+power+out+of+your+solar+panels&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fblogs.scientificamerican.com%2Fsolar-at-home%2Finvert-your-thinking-squeezing-more-power-out-of-your-solar-panels%2F&amp;rft.pub=blogs.scientificamerican.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.interpv.net/tech/tech_print.asp?idx=418&amp;part_code=030140054">"InterPV.net - Global PhotoVoltaic Business Magazine"</a>. <i>interpv.net</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMaximum+power+point+tracking&amp;rft.atitle=InterPV.net+-+Global+PhotoVoltaic+Business+Magazine&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.interpv.net%2Ftech%2Ftech_print.asp%3Fidx%3D418%26part_code%3D030140054&amp;rft.jtitle=interpv.net&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<p><a rel="nofollow" class="external text" href="http://www.electronicslovers.com/2015/09/arduino-based-mppt-solar-charge.html">ARDUINO BASED MPPT SOLAR CHARGE CONTROLLER</a></p>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Maximum_power_point_tracking&amp;action=edit&amp;section=12" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a href="/wiki/File:Wind-turbine-icon.svg" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/28px-Wind-turbine-icon.svg.png" width="28" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/42px-Wind-turbine-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/56px-Wind-turbine-icon.svg.png 2x" data-file-width="128" data-file-height="128" /></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Renewable_energy" title="Portal:Renewable energy">Renewable energy portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a href="/wiki/File:Crystal_energy.svg" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/29px-Crystal_energy.svg.png" width="29" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/44px-Crystal_energy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/59px-Crystal_energy.svg.png 2x" data-file-width="130" data-file-height="124" /></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Energy" title="Portal:Energy">Energy portal</a></span></li>
+</ul>
+</div>
+<p><a href="/wiki/File:Commons-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" width="12" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a> Media related to <a href="https://commons.wikimedia.org/wiki/Category:Maximum_power_point_tracker" class="extiw" title="commons:Category:Maximum power point tracker">Maximum power point tracker</a> at Wikimedia Commons</p>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.wpi.edu/Pubs/E-project/Available/E-project-042408-181823/unrestricted/PPTReport.doc">MPPT tracker by Daniel F. Butay</a> (<a href="/wiki/Microchip_PIC" class="mw-redirect" title="Microchip PIC">Microchip PIC</a> based)</li>
+<li><a rel="nofollow" class="external text" href="http://www.savenkov.org/publications/Savenkov_Gobey_2008_ISES_454.pdf">A simple maximum power point tracker utilizing the ripple correlation control technique</a></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Photovoltaics" style="padding:3px">
+<table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Photovoltaics" title="Template:Photovoltaics"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Photovoltaics" title="Template talk:Photovoltaics"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Photovoltaics&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Photovoltaics" style="font-size:114%"><a href="/wiki/Photovoltaics" title="Photovoltaics">Photovoltaics</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;">Concepts</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Technology</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Photovoltaics" title="Photovoltaics">Photovoltaics</a></li>
+<li><a href="/wiki/Photoelectric_effect" title="Photoelectric effect">Photoelectric effect</a></li>
+<li><a href="/wiki/Solar_insolation" class="mw-redirect" title="Solar insolation">Solar insolation</a></li>
+<li><a href="/wiki/Solar_constant" title="Solar constant">Solar constant</a></li>
+<li><a href="/wiki/Solar_cell_efficiency" title="Solar cell efficiency">Solar cell efficiency</a></li>
+<li><a href="/wiki/Nominal_power_(photovoltaic)" title="Nominal power (photovoltaic)">Nominal power (Watt-peak)</a></li>
+<li><a href="/wiki/Thin_film_solar_cell" class="mw-redirect" title="Thin film solar cell">Thin film solar cell</a></li>
+<li><a href="/wiki/Multijunction_photovoltaic_cell" class="mw-redirect" title="Multijunction photovoltaic cell">Multijunction photovoltaic cell</a></li>
+<li><a href="/wiki/Third_generation_photovoltaic_cell" class="mw-redirect" title="Third generation photovoltaic cell">Third generation photovoltaic cell</a></li>
+<li><a href="/wiki/Solar_cell_research" title="Solar cell research">Solar cell research</a></li>
+<li><a href="/wiki/Quantum_efficiency_of_a_solar_cell" class="mw-redirect" title="Quantum efficiency of a solar cell">Quantum efficiency of a solar cell</a></li>
+<li><a href="/wiki/Thermophotovoltaic" title="Thermophotovoltaic">Thermophotovoltaic</a></li>
+<li><a href="/wiki/Thermodynamic_efficiency_limit" title="Thermodynamic efficiency limit">Thermodynamic efficiency limit</a></li>
+<li><a href="/wiki/Sun-free_photovoltaics" title="Sun-free photovoltaics">Sun-free photovoltaics</a></li>
+<li><a href="/wiki/Polarizing_organic_photovoltaics" title="Polarizing organic photovoltaics">Polarizing organic photovoltaics</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Materials</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/List_of_semiconductor_materials" title="List of semiconductor materials">List of semiconductor materials</a></li>
+<li><a href="/wiki/Crystalline_silicon" title="Crystalline silicon">Crystalline silicon (c-Si)</a></li>
+<li><a href="/wiki/Polycrystalline_silicon" title="Polycrystalline silicon">Polycrystalline silicon (multi-Si)</a></li>
+<li><a href="/wiki/Monocrystalline_silicon" title="Monocrystalline silicon">Monocrystalline silicon (mono-Si)</a></li>
+<li><a href="/wiki/Cadmium_telluride" title="Cadmium telluride">Cadmium telluride</a></li>
+<li><a href="/wiki/Copper_indium_gallium_selenide" title="Copper indium gallium selenide">Copper indium gallium selenide</a></li>
+<li><a href="/wiki/Amorphous_silicon" title="Amorphous silicon">Amorphous silicon (a-Si)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">History</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Growth_of_photovoltaics" title="Growth of photovoltaics">Growth of photovoltaics</a></li>
+<li><a href="/wiki/Timeline_of_solar_cells" title="Timeline of solar cells">Timeline of solar cells</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+<td class="navbox-image" rowspan="9" style="width:0%;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:4inch_poly_solar_cell.jpg" class="image"><img alt="4inch poly solar cell.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/4inch_poly_solar_cell.jpg/150px-4inch_poly_solar_cell.jpg" width="150" height="113" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/4inch_poly_solar_cell.jpg/225px-4inch_poly_solar_cell.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fd/4inch_poly_solar_cell.jpg/300px-4inch_poly_solar_cell.jpg 2x" data-file-width="2272" data-file-height="1704" /></a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;"><a href="/wiki/Photovoltaic_system" title="Photovoltaic system">Photovoltaic system</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;"><a href="/wiki/Solar_cell" title="Solar cell">Solar cells</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Polymer_solar_cell" title="Polymer solar cell">Polymer solar cell</a></li>
+<li><a href="/wiki/Nanocrystal_solar_cell" title="Nanocrystal solar cell">Nanocrystal solar cell</a></li>
+<li><a href="/wiki/Organic_solar_cell" title="Organic solar cell">Organic solar cell</a></li>
+<li><a href="/wiki/Quantum_dot_solar_cell" title="Quantum dot solar cell">Quantum dot solar cell</a></li>
+<li><a href="/wiki/Hybrid_solar_cell" title="Hybrid solar cell">Hybrid solar cell</a></li>
+<li><a href="/wiki/Plasmonic_solar_cell" title="Plasmonic solar cell">Plasmonic solar cell</a></li>
+<li><a href="/wiki/Carbon_nanotubes_in_photovoltaics" title="Carbon nanotubes in photovoltaics">Carbon nanotubes in photovoltaics</a></li>
+<li><a href="/wiki/Dye-sensitized_solar_cell" title="Dye-sensitized solar cell">Dye-sensitized solar cell</a></li>
+<li><a href="/wiki/Cadmium_telluride_photovoltaics" title="Cadmium telluride photovoltaics">Cadmium telluride photovoltaics</a></li>
+<li><a href="/wiki/Copper_indium_gallium_selenide_solar_cells" title="Copper indium gallium selenide solar cells">Copper indium gallium selenide solar cells</a></li>
+<li><a href="/wiki/Printed_solar_panel" class="mw-redirect" title="Printed solar panel">Printed solar panel</a></li>
+<li><a href="/wiki/Perovskite_solar_cell" title="Perovskite solar cell">Perovskite solar cell</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">System components</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Solar_panel" title="Solar panel">Solar panel</a></li>
+<li><a href="/wiki/Balance_of_system" title="Balance of system">Balance of system</a></li>
+<li><a href="/wiki/Solar_charge_controller" class="mw-redirect" title="Solar charge controller">Solar charge controller</a></li>
+<li><a href="/wiki/Solar_inverter" title="Solar inverter">Solar inverter</a></li>
+<li><a href="/wiki/Solar_micro-inverter" title="Solar micro-inverter">Solar micro-inverter</a></li>
+<li><a href="/wiki/Solar_cable" title="Solar cable">Solar cable</a></li>
+<li><a href="/wiki/Photovoltaic_mounting_system" title="Photovoltaic mounting system">Photovoltaic mounting system</a></li>
+<li><a href="/wiki/Maximum_power_point_tracker" class="mw-redirect" title="Maximum power point tracker">Maximum power point tracker</a></li>
+<li><a href="/wiki/Solar_tracker" title="Solar tracker">Solar tracker</a></li>
+<li><a href="/wiki/Solar_shingles" class="mw-redirect" title="Solar shingles">Solar shingles</a></li>
+<li><a href="/wiki/Solar_mirror#Photovoltaic_augmentation" title="Solar mirror">Solar mirror</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">System concepts</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Perturb_and_observe_method" class="mw-redirect" title="Perturb and observe method">Perturb and observe method</a></li>
+<li><a href="/wiki/Incremental_conductance_method" class="mw-redirect" title="Incremental conductance method">Incremental conductance method</a></li>
+<li><a href="/wiki/Constant_voltage_method" class="mw-redirect" title="Constant voltage method">Constant voltage method</a></li>
+<li><a href="/wiki/Fill_factor_(solar_cell)" class="mw-redirect" title="Fill factor (solar cell)">Fill factor</a></li>
+<li><a href="/wiki/Concentrated_photovoltaics" class="mw-redirect" title="Concentrated photovoltaics">Concentrated photovoltaics</a></li>
+<li><a href="/wiki/Photovoltaic_thermal_hybrid_solar_collector" title="Photovoltaic thermal hybrid solar collector">Photovoltaic thermal hybrid solar collector</a></li>
+<li><a href="/wiki/Space-based_solar_power" title="Space-based solar power">Space-based solar power</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;">Applications</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Appliances</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Solar-powered_refrigerator" title="Solar-powered refrigerator">Solar-powered refrigerator</a></li>
+<li><a href="/wiki/Solar_air_conditioning#Photovoltaic_.28PV.29_solar_cooling" title="Solar air conditioning">Solar air conditioning</a></li>
+<li><a href="/wiki/Solar_lamp" title="Solar lamp">Solar lamp</a></li>
+<li><a href="/wiki/Solar_charger" title="Solar charger">Solar charger</a></li>
+<li><a href="/wiki/Solar_backpack" title="Solar backpack">Solar backpack</a></li>
+<li><a href="/wiki/Solar_tree" title="Solar tree">Solar tree</a></li>
+<li><a href="/wiki/Solar-powered_pump" title="Solar-powered pump">Solar-powered pump</a></li>
+<li><a href="/wiki/Solar-powered_watch" title="Solar-powered watch">Solar-powered watch</a></li>
+<li><a href="/wiki/Solar_Tuki" title="Solar Tuki">Solar Tuki</a></li>
+<li><a href="/wiki/Photovoltaic_keyboard" title="Photovoltaic keyboard">Photovoltaic keyboard</a></li>
+<li><a href="/wiki/Solar_road_stud" title="Solar road stud">Solar road stud</a></li>
+<li><a href="/wiki/Solar_cell_phone_charger" title="Solar cell phone charger">Solar cell phone charger</a></li>
+<li><a href="/wiki/Solar_notebook" title="Solar notebook">Solar notebook</a></li>
+<li><a href="/wiki/Solar-powered_calculator" title="Solar-powered calculator">Solar-powered calculator</a></li>
+<li><a href="/wiki/Solar-powered_fountain" title="Solar-powered fountain">Solar-powered fountain</a></li>
+<li><a href="/wiki/Solar-powered_radio" title="Solar-powered radio">Solar-powered radio</a></li>
+<li><a href="/wiki/Solar-powered_flashlight" title="Solar-powered flashlight">Solar-powered flashlight</a></li>
+<li><a href="/wiki/Solar-powered_fan" title="Solar-powered fan">Solar-powered fan</a></li>
+<li><a href="/wiki/Solar_street_light" title="Solar street light">Solar street light</a></li>
+<li><a href="/wiki/Solar_traffic_light" title="Solar traffic light">Solar traffic light</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Land transport</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Solar_vehicle" title="Solar vehicle">Solar vehicle</a></li>
+<li><a href="/wiki/Solar_car" title="Solar car">Solar car</a></li>
+<li><a href="/wiki/Solar_roadway" class="mw-redirect" title="Solar roadway">Solar roadway</a></li>
+<li><a href="/wiki/Solar_golf_cart" title="Solar golf cart">Solar golf cart</a></li>
+<li><a href="/wiki/The_Quiet_Achiever" title="The Quiet Achiever">The Quiet Achiever</a></li>
+<li><a href="/wiki/Sunmobile" title="Sunmobile">Sunmobile</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Air transport</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Electric_aircraft" title="Electric aircraft">Electric aircraft</a></li>
+<li><a href="/wiki/Mauro_Solar_Riser" title="Mauro Solar Riser">Mauro Solar Riser</a></li>
+<li><a href="/wiki/Solar_panels_on_spacecraft" title="Solar panels on spacecraft">Solar panels on spacecraft</a></li>
+<li><a href="/wiki/Solar-Powered_Aircraft_Developments_Solar_One" title="Solar-Powered Aircraft Developments Solar One">Solar-Powered Aircraft Developments Solar One</a></li>
+<li><a href="/wiki/Gossamer_Penguin" class="mw-redirect" title="Gossamer Penguin">Gossamer Penguin</a></li>
+<li><a href="/wiki/Qinetiq_Zephyr" title="Qinetiq Zephyr">Qinetiq Zephyr</a></li>
+<li><a href="/wiki/Solar_Challenger" class="mw-redirect" title="Solar Challenger">Solar Challenger</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Water transport</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Electric_boat#Types" title="Electric boat">Solar boat</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Solar vehicle racing</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Solar_car_racing" title="Solar car racing">Solar car racing</a></li>
+<li><a href="/wiki/List_of_solar_car_teams" title="List of solar car teams">List of solar car teams</a></li>
+<li><a href="/wiki/Solar_challenge_(disambiguation)" class="mw-redirect mw-disambig" title="Solar challenge (disambiguation)">Solar challenges</a></li>
+<li><a href="/wiki/World_Solar_Challenge" title="World Solar Challenge">World Solar Challenge</a></li>
+<li><a href="/wiki/American_Solar_Challenge" title="American Solar Challenge">American Solar Challenge</a></li>
+<li><a href="/wiki/Formula_Sun_Grand_Prix" title="Formula Sun Grand Prix">Formula Sun Grand Prix</a></li>
+<li><a href="/wiki/Solar_Cup" title="Solar Cup">Solar Cup</a></li>
+<li><a href="/wiki/Frisian_Solar_Challenge" title="Frisian Solar Challenge">Frisian Solar Challenge</a></li>
+<li><a href="/wiki/Solar_Splash" title="Solar Splash">Solar Splash</a></li>
+<li><a href="/wiki/South_African_Solar_Challenge" title="South African Solar Challenge">South African Solar Challenge</a></li>
+<li><a href="/wiki/Tour_de_Sol" title="Tour de Sol">Tour de Sol</a></li>
+<li><a href="/wiki/Hunt-Winston_School_Solar_Car_Challenge" class="mw-redirect" title="Hunt-Winston School Solar Car Challenge">Hunt-Winston School Solar Car Challenge</a></li>
+<li><a href="/wiki/Victorian_Model_Solar_Vehicle_Challenge" title="Victorian Model Solar Vehicle Challenge">Victorian Model Solar Vehicle Challenge</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;"><a href="/wiki/Photovoltaic_power_station" title="Photovoltaic power station">Generation systems</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;"><a href="/wiki/Photovoltaic_power_station" title="Photovoltaic power station">PV power station</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Grid-connected_photovoltaic_power_system" title="Grid-connected photovoltaic power system">Grid-connected photovoltaic power system</a></li>
+<li><a href="/wiki/List_of_photovoltaic_power_stations" title="List of photovoltaic power stations">List of photovoltaic power stations</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Individual projects</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Alamosa_photovoltaic_power_plant" title="Alamosa photovoltaic power plant">Alamosa photovoltaic power plant</a></li>
+<li><a href="/wiki/Beneixama_photovoltaic_power_plant" title="Beneixama photovoltaic power plant">Beneixama photovoltaic power plant</a></li>
+<li><a href="/wiki/Blythe_Photovoltaic_Power_Plant" title="Blythe Photovoltaic Power Plant">Blythe Photovoltaic Power Plant</a></li>
+<li><a href="/wiki/Copper_Mountain_Solar_Facility" title="Copper Mountain Solar Facility">Copper Mountain Solar Facility</a></li>
+<li><a href="/wiki/Darro_Solar_Park" title="Darro Solar Park">Darro Solar Park</a></li>
+<li><a href="/wiki/Erlasee_Solar_Park" title="Erlasee Solar Park">Erlasee Solar Park</a></li>
+<li><a href="/wiki/Huanghe_Hydropower_Golmud_Solar_Park" title="Huanghe Hydropower Golmud Solar Park">Golmud Solar Park</a></li>
+<li><a href="/wiki/Gottelborn_Solar_Park" class="mw-redirect" title="Gottelborn Solar Park">Gottelborn Solar Park</a></li>
+<li><a href="/wiki/Guadarranque_solar_power_plant" class="mw-redirect" title="Guadarranque solar power plant">Guadarranque solar power plant</a></li>
+<li><a href="/wiki/K%C3%B6then_Solar_Park" title="Köthen Solar Park">Köthen Solar Park</a></li>
+<li><a href="/wiki/Moura_Photovoltaic_Power_Station" title="Moura Photovoltaic Power Station">Moura Photovoltaic Power Station</a></li>
+<li><a href="/wiki/Olmedilla_Photovoltaic_Park" title="Olmedilla Photovoltaic Park">Olmedilla Photovoltaic Park</a></li>
+<li><a href="/wiki/Pocking_Solar_Park" title="Pocking Solar Park">Pocking Solar Park</a></li>
+<li><a href="/wiki/Puertollano_Photovoltaic_Park" title="Puertollano Photovoltaic Park">Puertollano Photovoltaic Park</a></li>
+<li><a href="/wiki/Topaz_Solar_Farm" title="Topaz Solar Farm">Topaz Solar Farm</a></li>
+<li><a href="/wiki/Wyandot_Solar_Facility" title="Wyandot Solar Facility">Wyandot Solar Facility</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Building-mounted</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Rooftop_photovoltaic_power_station" title="Rooftop photovoltaic power station">Rooftop photovoltaic power station</a></li>
+<li><a href="/wiki/Building-integrated_photovoltaics" title="Building-integrated photovoltaics">Building-integrated photovoltaics</a></li>
+<li><a href="/wiki/Solar_Ark" title="Solar Ark">Solar Ark</a></li>
+<li><a href="/wiki/Solar_Umbrella_house" title="Solar Umbrella house">Solar Umbrella house</a></li>
+<li><a href="/wiki/Strasskirchen_Solar_Park" title="Strasskirchen Solar Park">Strasskirchen Solar Park</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;"><a href="/wiki/Solar_power_by_country" title="Solar power by country">By country</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Solar_power_in_Australia" title="Solar power in Australia">Australia</a></li>
+<li><a href="/wiki/Solar_power_in_Belgium" title="Solar power in Belgium">Belgium</a></li>
+<li><a href="/wiki/Solar_power_in_Bulgaria" title="Solar power in Bulgaria">Bulgaria</a></li>
+<li><a href="/wiki/Solar_power_in_Canada" title="Solar power in Canada">Canada</a></li>
+<li><a href="/wiki/Solar_power_in_Chile" title="Solar power in Chile">Chile</a></li>
+<li><a href="/wiki/Solar_power_in_China" title="Solar power in China">China</a></li>
+<li><a href="/wiki/Solar_power_in_the_Czech_Republic" title="Solar power in the Czech Republic">Czech Republic</a></li>
+<li><a href="/wiki/Solar_power_in_France" title="Solar power in France">France</a></li>
+<li><a href="/wiki/Solar_power_in_Germany" title="Solar power in Germany">Germany</a></li>
+<li><a href="/wiki/Solar_power_in_Greece" title="Solar power in Greece">Greece</a></li>
+<li><a href="/wiki/Solar_power_in_India" title="Solar power in India">India</a></li>
+<li><a href="/wiki/Solar_power_in_Italy" title="Solar power in Italy">Italy</a></li>
+<li><a href="/wiki/Solar_power_in_Japan" title="Solar power in Japan">Japan</a></li>
+<li><a href="/wiki/Solar_power_in_the_Netherlands" title="Solar power in the Netherlands">Netherlands</a></li>
+<li><a href="/wiki/Solar_power_in_Romania" title="Solar power in Romania">Romania</a></li>
+<li><a href="/wiki/Solar_power_in_South_Africa" title="Solar power in South Africa">South Africa</a></li>
+<li><a href="/wiki/Solar_power_in_Spain" title="Solar power in Spain">Spain</a></li>
+<li><a href="/wiki/Solar_power_in_Switzerland" title="Solar power in Switzerland">Switzerland</a></li>
+<li><a href="/wiki/Solar_power_in_Thailand" title="Solar power in Thailand">Thailand</a></li>
+<li><a href="/wiki/Solar_power_in_the_United_Kingdom" title="Solar power in the United Kingdom">United Kingdom</a></li>
+<li><a href="/wiki/Solar_power_in_the_United_States" title="Solar power in the United States">USA</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;"><a href="/wiki/List_of_photovoltaics_companies" title="List of photovoltaics companies">PV companies</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">By country</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/List_of_countries_by_photovoltaics_production" class="mw-redirect" title="List of countries by photovoltaics production">List of countries by photovoltaics production</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Individual producers</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/First_Solar" title="First Solar">First Solar</a></li>
+<li><a href="/wiki/Hanwha_Solarone" class="mw-redirect" title="Hanwha Solarone">Hanwha Solarone</a></li>
+<li><a href="/wiki/JA_Solar" class="mw-redirect" title="JA Solar">JA Solar</a></li>
+<li><a href="/wiki/Motech_Solar" title="Motech Solar">Motech Solar</a></li>
+<li><a href="/wiki/Renewable_Energy_Corporation" title="Renewable Energy Corporation">REC</a></li>
+<li><a href="/wiki/Q-Cells" title="Q-Cells">Q-Cells</a></li>
+<li><a href="/wiki/Sharp_Solar" title="Sharp Solar">Sharp</a></li>
+<li><a href="/wiki/Solar_Frontier" title="Solar Frontier">Solar Frontier</a></li>
+<li><a href="/wiki/Solyndra" title="Solyndra">Solyndra</a></li>
+<li><a href="/wiki/SUNGEN_International_Limited" title="SUNGEN International Limited">Sungen Solar</a></li>
+<li><a href="/wiki/Sunpower" class="mw-redirect" title="Sunpower">Sunpower</a></li>
+<li><a href="/wiki/Suntech" class="mw-redirect" title="Suntech">Suntech</a></li>
+<li><a href="/wiki/Trina_Solar" title="Trina Solar">Trina Solar</a></li>
+<li><a href="/wiki/Yingli_Solar" class="mw-redirect" title="Yingli Solar">Yingli Solar</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3">
+<div>
+<ul>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <b><a href="/wiki/Category:Photovoltaics" title="Category:Photovoltaics">Category</a></b></li>
+<li><img alt="Commons page" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" title="Commons page" width="12" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /> <a href="https://commons.wikimedia.org/wiki/Category:Photovoltaics" class="extiw" title="commons:Category:Photovoltaics"><b>Commons</b></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1192
+Cached time: 20170131021716
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.260 seconds
+Real time usage: 0.302 seconds
+Preprocessor visited node count: 1362/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 103523/2097152 bytes
+Template argument size: 323/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 0/500
+Lua time usage: 0.114/10.000 seconds
+Lua memory usage: 2.9 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  212.440      1 -total
+ 70.07%  148.855      1 Template:Reflist
+ 35.72%   75.885     12 Template:Cite_web
+ 20.63%   43.820      6 Template:Navbox
+ 18.75%   39.833      9 Template:Cite_journal
+ 15.76%   33.470      1 Template:Photovoltaics
+ 10.17%   21.610      1 Template:Commonscatinline
+  8.83%   18.753      1 Template:Sister-inline
+  3.89%    8.273      1 Template:Portal
+  3.39%    7.209      2 Template:Icon
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:3318048-0!*!0!!en!4!* and timestamp 20170131021732 and revision id 762852429
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Maximum_power_point_tracking&amp;oldid=762852429">https://en.wikipedia.org/w/index.php?title=Maximum_power_point_tracking&amp;oldid=762852429</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Electric_power_systems_components" title="Category:Electric power systems components">Electric power systems components</a></li><li><a href="/wiki/Category:Solar_power" title="Category:Solar power">Solar power</a></li><li><a href="/wiki/Category:Photovoltaics" title="Category:Photovoltaics">Photovoltaics</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Commons_category_with_local_link_same_as_on_Wikidata" title="Category:Commons category with local link same as on Wikidata">Commons category with local link same as on Wikidata</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Maximum+power+point+tracking" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Maximum+power+point+tracking" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Maximum_power_point_tracking"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Maximum_power_point_tracking"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Maximum_power_point_tracking" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Maximum_power_point_tracking&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Maximum_power_point_tracking&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Maximum_power_point_tracking" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Maximum_power_point_tracking" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Maximum_power_point_tracking&amp;oldid=762852429" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Maximum_power_point_tracking&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q1052007" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Maximum_power_point_tracking&amp;id=762852429" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Maximum+power+point+tracking">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Maximum+power+point+tracking&amp;returnto=Maximum+power+point+tracking&amp;oldid=762852429&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Maximum_power_point_tracking&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Maximum_power_point_tracker" hreflang="en">Wikimedia Commons</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Maximum_power_point_tracker" title="Maximum power point tracker – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Maximum_Power_Point_Tracking" title="Maximum Power Point Tracking – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%B1%D8%AF%DB%8C%D8%A7%D8%A8%DB%8C_%D9%86%D9%82%D8%B7%D9%87_%D8%AD%D8%AF%D8%A7%DA%A9%D8%AB%D8%B1_%D8%AA%D9%88%D8%A7%D9%86" title="ردیابی نقطه حداکثر توان – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Maximum_power_point_tracker" title="Maximum power point tracker – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%B5%9C%EB%8C%80_%EC%A0%84%EB%A0%A5%EC%A0%90_%EC%B6%94%EC%A0%81" title="최대 전력점 추적 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%85%E0%A4%A7%E0%A4%BF%E0%A4%95%E0%A4%A4%E0%A4%AE_%E0%A4%B6%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%BF-%E0%A4%AC%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%81_%E0%A4%85%E0%A4%A8%E0%A5%81%E0%A4%B8%E0%A4%B0%E0%A4%A3" title="अधिकतम शक्ति-बिन्दु अनुसरण – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Maximum_power_point_tracking" title="Maximum power point tracking – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E6%9C%80%E5%A4%A7%E9%9B%BB%E5%8A%9B%E7%82%B9%E8%BF%BD%E5%BE%93%E5%88%B6%E5%BE%A1" title="最大電力点追従制御 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9E%D1%82%D1%81%D0%BB%D0%B5%D0%B6%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D1%82%D0%BE%D1%87%D0%BA%D0%B8_%D0%BC%D0%B0%D0%BA%D1%81%D0%B8%D0%BC%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9_%D0%BC%D0%BE%D1%89%D0%BD%D0%BE%D1%81%D1%82%D0%B8" title="Отслеживание точки максимальной мощности – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E6%9C%80%E5%A4%A7%E5%8A%9F%E7%8E%87%E7%82%B9%E8%BF%BD%E8%B8%AA" title="最大功率点追踪 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q1052007#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 31 January 2017, at 02:17.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Maximum_power_point_tracking&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.260","walltime":"0.302","ppvisitednodes":{"value":1362,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":103523,"limit":2097152},"templateargumentsize":{"value":323,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  212.440      1 -total"," 70.07%  148.855      1 Template:Reflist"," 35.72%   75.885     12 Template:Cite_web"," 20.63%   43.820      6 Template:Navbox"," 18.75%   39.833      9 Template:Cite_journal"," 15.76%   33.470      1 Template:Photovoltaics"," 10.17%   21.610      1 Template:Commonscatinline","  8.83%   18.753      1 Template:Sister-inline","  3.89%    8.273      1 Template:Portal","  3.39%    7.209      2 Template:Icon"]},"scribunto":{"limitreport-timeusage":{"value":"0.114","limit":"10.000"},"limitreport-memusage":{"value":3042843,"limit":52428800}},"cachereport":{"origin":"mw1192","timestamp":"20170131021716","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":67,"wgHostname":"mw1247"});});</script>
+	</body>
+</html>

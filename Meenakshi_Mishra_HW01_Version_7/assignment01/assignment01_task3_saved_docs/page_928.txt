@@ -1,0 +1,801 @@
+url : https://en.wikipedia.org/wiki/Adaptive_management
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Adaptive management - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Adaptive_management","wgTitle":"Adaptive management","wgCurRevisionId":761548288,"wgRevisionId":761548288,"wgArticleId":1206605,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles lacking in-text citations from October 2012","All articles lacking in-text citations","All articles with dead external links","Articles with dead external links from October 2016","Articles with permanently dead external links","CS1 maint: Explicit use of et al.","CS1 maint: Uses editors parameter","CS1 maint: Uses authors parameter","Habitat management equipment and methods","Learning methods","Conservation","Sustainable design"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Adaptive_management","wgRelevantArticleId":1206605,"wgRequestId":"WIkWoQpAMEsAAJBmPmcAAABA","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q4680750","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.8"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Adaptive_management"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Adaptive_management&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Adaptive_management&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Adaptive_management"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Adaptive_management rootpage-Adaptive_management skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Adaptive management</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><table class="plainlinks metadata ambox ambox-style ambox-More_footnotes" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/40px-Text_document_with_red_question_mark.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/60px-Text_document_with_red_question_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/80px-Text_document_with_red_question_mark.svg.png 2x" data-file-width="48" data-file-height="48" /></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article includes a <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">list of references</a>, but <b>its sources remain unclear</b> because it has <b>insufficient <a href="/wiki/Wikipedia:Citing_sources#Inline_citations" title="Wikipedia:Citing sources">inline citations</a></b>. <span class="hide-when-compact">Please help to <a href="/wiki/Wikipedia:WikiProject_Fact_and_Reference_Check" title="Wikipedia:WikiProject Fact and Reference Check">improve</a> this article by <a href="/wiki/Wikipedia:When_to_cite" title="Wikipedia:When to cite">introducing</a> more precise citations.</span> <small><i>(October 2012)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></span></td>
+</tr>
+</table>
+<p><b>Adaptive management</b> (AM), also known as <b>adaptive resource management</b> (ARM) or <b>Adaptive Environmental Assessment and Management</b> (AEAM), is a structured, <a href="/wiki/Iteration" title="Iteration">iterative</a> process of robust <a href="/wiki/Decision_making" class="mw-redirect" title="Decision making">decision making</a> in the face of <a href="/wiki/Uncertainty" title="Uncertainty">uncertainty</a>, with an aim to reducing uncertainty over time via <a href="/wiki/System_Monitoring" class="mw-redirect" title="System Monitoring">system monitoring</a>. In this way, decision making simultaneously meets one or more <a href="/wiki/Resource_management" title="Resource management">resource management</a> objectives and, either passively or actively, accrues information needed to improve future management. Adaptive management is a tool which should be used not only to change a system, but also to learn about the system.<sup id="cite_ref-:0_1-0" class="reference"><a href="#cite_note-:0-1">[1]</a></sup> Because adaptive management is based on a learning process, it improves long-run management outcomes. The challenge in using the adaptive management approach lies in finding the correct balance between gaining knowledge to improve management in the future and achieving the best short-term outcome based on current knowledge.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Objectives"><span class="tocnumber">1</span> <span class="toctext">Objectives</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Features"><span class="tocnumber">2</span> <span class="toctext">Features</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#History"><span class="tocnumber">3</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Use_in_environmental_practices"><span class="tocnumber">4</span> <span class="toctext">Use in environmental practices</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Application_to_environmental_projects_and_programs"><span class="tocnumber">5</span> <span class="toctext">Application to environmental projects and programs</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Tools_and_guidance_for_conservation_practitioners"><span class="tocnumber">6</span> <span class="toctext">Tools and guidance for conservation practitioners</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Use_in_other_practices_as_a_tool_for_sustainability"><span class="tocnumber">7</span> <span class="toctext">Use in other practices as a tool for sustainability</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Effectiveness_of_adaptive_management"><span class="tocnumber">8</span> <span class="toctext">Effectiveness of adaptive management</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#General_resources"><span class="tocnumber">9</span> <span class="toctext">General resources</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#See_also"><span class="tocnumber">10</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#References"><span class="tocnumber">11</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Objectives">Objectives</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Adaptive_management&amp;action=edit&amp;section=1" title="Edit section: Objectives">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>There are a number of scientific and social processes which are vital components of adaptive management, including:</p>
+<ol>
+<li>Management is linked to appropriate temporal and spatial scales</li>
+<li>Management retains a focus on <a href="/wiki/Statistical_power" title="Statistical power">statistical power</a> and controls</li>
+<li>Use of computer models to build synthesis and an embodied ecological consensus</li>
+<li>Use of embodied ecological consensus to evaluate strategic alternatives</li>
+<li>Communication of alternatives to political arena for negotiation of a selection</li>
+</ol>
+<p>The achievement of these objectives requires an open management process which seeks to include past, present and future <a href="/wiki/Stakeholder_(corporate)" title="Stakeholder (corporate)">stakeholders</a>. Adaptive management needs to at least maintain <a href="/wiki/Glasnost" title="Glasnost">political openness</a>, but usually aims to create it. Adaptive management must therefore be a <a href="/wiki/Scientific" class="mw-redirect" title="Scientific">scientific</a> and social process. It must focus on the development of new <a href="/wiki/Institutions" class="mw-redirect" title="Institutions">institutions</a> and institutional strategies in balance with <a href="/wiki/Scientific_hypothesis" class="mw-redirect" title="Scientific hypothesis">scientific hypothesis</a> and experimental frameworks (resilliance.org).</p>
+<p>Adaptive management can proceed as either <b>passive adaptive management</b> or <b>active adaptive management</b>, depending on how learning takes place. Passive adaptive management values learning only insofar as it improves decision outcomes (i.e. passively), as measured by the specified utility function. In contrast, active adaptive management explicitly incorporates learning as part of the objective function, and hence, decisions which improve learning are valued over those which do not.<sup id="cite_ref-:0_1-1" class="reference"><a href="#cite_note-:0-1">[1]</a></sup><sup id="cite_ref-:1_3-0" class="reference"><a href="#cite_note-:1-3">[3]</a></sup> In both cases, as new knowledge is gained, the models are updated and optimal management strategies are derived accordingly. Thus, while learning occurs in both cases, it is treated differently. Often, deriving actively adaptive policies is technically very difficult, which prevents it being more commonly applied.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></p>
+<h2><span class="mw-headline" id="Features">Features</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Adaptive_management&amp;action=edit&amp;section=2" title="Edit section: Features">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Key features of both passive and active adaptive management are:</p>
+<ul>
+<li>Iterative decision-making (evaluating results and adjusting actions on the basis of what has been learned)</li>
+<li><a href="/wiki/Feedback" title="Feedback">Feedback</a> between monitoring and decisions (learning)</li>
+<li>Explicit characterization of system uncertainty through multi-model inference</li>
+<li><a href="/wiki/Bayesian_inference" title="Bayesian inference">Bayesian inference</a></li>
+<li>Embracing <a href="/wiki/Risk" title="Risk">risk</a> and uncertainty as a way of building understanding</li>
+</ul>
+<p>However, a number of process failures related to information feedback can prevent effective adaptive management decision making:<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></p>
+<ol>
+<li><a href="/wiki/Data_collection" title="Data collection">data collection</a> is never completely implemented;</li>
+<li>data are collected but not analyzed;</li>
+<li><a href="/wiki/Data_analysis" title="Data analysis">data are analyzed</a> but results are inconclusive;</li>
+<li>data are analyzed and are interesting, but are not presented to decision makers;</li>
+<li>data are analyzed and presented, but are not used for decision-making because of internal or external factors</li>
+</ol>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Adaptive_management&amp;action=edit&amp;section=3" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The use of adaptive management techniques can be traced back to peoples from ancient civilisations. For example, the <a href="/wiki/Yap" title="Yap">Yap</a> people of Micronesia have been using adaptive management techniques to sustain high <a href="/wiki/Population_density" title="Population density">population densities</a> in the face of <a href="/w/index.php?title=Resource_scarcity&amp;action=edit&amp;redlink=1" class="new" title="Resource scarcity (page does not exist)">resource scarcity</a> for thousands of years (Falanruw 1984). In using these techniques, the Yap people have altered their environment creating, for example, coastal <a href="/wiki/Mangrove" title="Mangrove">mangrove</a> depressions and <a href="/wiki/Seagrass" title="Seagrass">seagrass</a> meadows to support fishing and termite resistant wood (Stankey and Shinder 1997).</p>
+<p>The origin of the adaptive management concept can be traced back to ideas of <a href="/wiki/Scientific_management" title="Scientific management">scientific management</a> pioneered by <a href="/wiki/Frederick_Winslow_Taylor" title="Frederick Winslow Taylor">Frederick Taylor</a> in the early 1900s (Haber 1964). While the term ‘adaptive management’ evolved in natural resource management workshops through decision makers, managers and scientists focussing on building <a href="/w/index.php?title=Simulation_model&amp;action=edit&amp;redlink=1" class="new" title="Simulation model (page does not exist)">simulation models</a> to uncover key assumptions and uncertainties (Bormann <i>et al.</i> 1999).</p>
+<p>Two ecologists at The <a href="/wiki/University_of_British_Columbia" title="University of British Columbia">University of British Columbia</a>, <a href="/wiki/C._S._Holling" title="C. S. Holling">C.S. Holling</a><sup id="cite_ref-:0_1-2" class="reference"><a href="#cite_note-:0-1">[1]</a></sup> and C.J Walters<sup id="cite_ref-:1_3-1" class="reference"><a href="#cite_note-:1-3">[3]</a></sup> further developed the adaptive management approach as they distinguished between passive and active adaptive management practice. <a href="/wiki/Kai_Lee" title="Kai Lee">Kai Lee</a>, notable Princeton physicist, expanded upon the approach in the late 1970s and early 1980s while pursuing a post-doctorate degree at UC <a href="/wiki/Berkeley,_California" title="Berkeley, California">Berkeley</a>. The approach was further developed at the <a rel="nofollow" class="external text" href="http://www.iiasa.ac.at/">International Institute for Applied Systems Analysis (IIASA)</a> in <a href="/wiki/Vienna" title="Vienna">Vienna</a>, <a href="/wiki/Austria" title="Austria">Austria</a>, while C.S. Holling was director of the Institute. In 1992, Hilbourne described three learning models for federal land managers, around which adaptive management approaches could be developed, these are reactive, passive and active.</p>
+<p>Adaptive management has probably been most frequently applied in Yap, <a href="/wiki/Australia" title="Australia">Australia</a> and <a href="/wiki/North_America" title="North America">North America</a>, initially applied in <a href="/wiki/Fishery" title="Fishery">fishery</a> management, but received more broad application in the 1990s and 2000s. One of the most successful applications of adaptive management has been in the area of waterfowl harvest management in North America, most notably for the <a href="/wiki/Mallard" title="Mallard">mallard</a>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></p>
+<p>Adaptive management in a conservation project and program context can trace its roots back to at least the early 1990s, with the establishment of the <a rel="nofollow" class="external text" href="http://www.worldwildlife.org/bsp/index.html">Biodiversity Support Program</a> (BSP) in 1989. BSP was a <a rel="nofollow" class="external text" href="http://www.usaid.gov/">USAID</a>-funded consortium of <a rel="nofollow" class="external text" href="http://www.worldwildlife.org/">WWF</a>, <a rel="nofollow" class="external text" href="http://www.tnc.org/">The Nature Conservancy</a> (TNC), and <a rel="nofollow" class="external text" href="http://www.wri.org/">World Resources Institute</a> (WRI). Its Analysis and Adaptive Management Program sought to understand the conditions under which certain conservation strategies were most effective and to identify lessons learned across conservation projects. When BSP ended in 2001, TNC and <a rel="nofollow" class="external text" href="http://www.fosonline.org/">Foundations of Success</a> (FOS, a non-profit which grew out of BSP) continued to actively work in promoting adaptive management for conservation projects and programs. The approaches used included <a rel="nofollow" class="external text" href="http://conserveonline.org/workspaces/cbdgateway/">Conservation by Design</a> (TNC) and <a rel="nofollow" class="external text" href="http://www.islandpress.org/ip/books/book/islandpress/M/bo3559851.html">Measures of Success</a> (FOS).</p>
+<p>In 2004, the <a rel="nofollow" class="external text" href="http://www.conservationmeasures.org/">Conservation Measures Partnership</a> (CMP) – which includes several former BSP members – developed a <a rel="nofollow" class="external text" href="http://www.conservationmeasures.org/initiatives/standards-for-project-management/">common set of standards and guidelines</a> for applying adaptive management to conservation projects and programs.</p>
+<h2><span class="mw-headline" id="Use_in_environmental_practices">Use in environmental practices</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Adaptive_management&amp;action=edit&amp;section=4" title="Edit section: Use in environmental practices">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Applying adaptive management in a conservation project or program involves the integration of project/program design, management, and monitoring to systematically test assumptions in order to adapt and learn. The three components of adaptive management in environmental practice are:</p>
+<ul>
+<li><b>Testing Assumptions</b> is about systematically trying different actions to achieve a desired outcome. It is not, however, a random trial-and-error process. Rather, it involves using knowledge about the specific site to pick the best known strategy, laying out the assumptions behind how that strategy will work, and then collecting monitoring data to determine if the assumptions hold true.</li>
+<li><b>Adaptation</b> involves changing assumptions and interventions to respond to new or different information obtained through monitoring and project experience.</li>
+<li><b>Learning</b> is about explicitly documenting a team’s planning and implementation processes and its successes and failures for internal learning as well as learning across the conservation community. This learning enables conservation practitioners to design and manage projects better and avoid some of the perils others have encountered.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> Learning about a managed system is only useful in cases where management decisions are repeated.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></li>
+</ul>
+<h2><span class="mw-headline" id="Application_to_environmental_projects_and_programs">Application to environmental projects and programs</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Adaptive_management&amp;action=edit&amp;section=5" title="Edit section: Application to environmental projects and programs">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:CMP_Cycle_-_2008-02-20.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CMP_Cycle_-_2008-02-20.jpg/220px-CMP_Cycle_-_2008-02-20.jpg" width="220" height="203" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CMP_Cycle_-_2008-02-20.jpg/330px-CMP_Cycle_-_2008-02-20.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CMP_Cycle_-_2008-02-20.jpg/440px-CMP_Cycle_-_2008-02-20.jpg 2x" data-file-width="764" data-file-height="706" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:CMP_Cycle_-_2008-02-20.jpg" class="internal" title="Enlarge"></a></div>
+Figure 1: CMP Adaptive Management Cycle</div>
+</div>
+</div>
+<p><a rel="nofollow" class="external text" href="http://www.conservationmeasures.org/initiatives/standards-for-project-management"><i>Open Standards for the Practice of Conservation</i></a> lay out 5 main steps to an adaptive management project cycle (see Figure 1). The <i>Open Standards</i> represent a compilation and adaptation of best practices and guidelines across several fields and across several organizations within the conservation community. Since the release of the initial <i>Open Standards</i> (updated in 2007 and 2013), thousands of project teams from conservation organizations (e.g., TNC, Rare, and WWF), local conservation groups, and donors alike have begun applying these <i>Open Standards</i> to their work. In addition, several CMP members have developed training materials and courses to help apply the Standards.</p>
+<p>Some recent write-ups of adaptive management in conservation include: wildlife protection (SWAP, 2008), forests ecosystem protection (CMER, 2010), coastal protection and restoration (LACPR, 2009), natural resource management (water, land and soil), species conservation especially, fish conservation from overfishing (FOS, 2007) and climate change (DFG, 2010). In addition, some other examples follow:</p>
+<ul>
+<li>In 2006-2007, FOS worked with The National Fish and Wildlife Foundation (NFWF) to develop an evaluation system help NFWF gauge impact across the various coral reef habitat and species conservation projects;</li>
+<li>In 2007, FOS worked with the Ocean Conservancy (OC) to evaluate the effectiveness of this Scorecard in helping to end overfishing in domestic fisheries.</li>
+<li>Between 1999-2004, FOS worked for WWF’s Asian Rhino and Elephant Action Strategy (AREAS) Program to ensure that Asian elephants and rhinos thrive in secure habitats within their historical range and in harmony with people.</li>
+<li>The Department of Fish and Game (DFG) is developing and implementing adaptation strategies to help protect, restore and manage fish and wildlife, with the understanding that some level of climate change will occur and that it will have profound effects on ecosystems in the United States.</li>
+<li>The Adaptive Management program was created by CMR to provide science-based recommendations and technical information to assist the Forest Practices Board. In April 2010, the Forest Practices Adaptive Management Annual Science Conference was held in Washington.</li>
+<li>In 2009, The Louisiana Coastal Protection and Restoration (LACPR) Technical Report has been developed by the United States Army Corps of Engineers (USACE) according to adaptive management process.</li>
+<li>Since 2009, the Kenya Wildlife Service has been managing its marine protected areas using adaptive management in an ongoing process of learning through the <a rel="nofollow" class="external text" href="http://sam4wio.weebly.com">Science for Active Management</a> (SAM) Program.</li>
+</ul>
+<h2><span class="mw-headline" id="Tools_and_guidance_for_conservation_practitioners">Tools and guidance for conservation practitioners</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Adaptive_management&amp;action=edit&amp;section=6" title="Edit section: Tools and guidance for conservation practitioners">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The following resources offer guidance on designing and planning conservation projects (Steps 1 and 2 of the <i>Open Standards</i>), as well as more general guidance on the adaptive management process.<br />
+<b>Step 1 Conceptualize (Describing the Project’s Context)</b></p>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.conservationmeasures.org/initiatives/threats-actions-taxonomies">IUCN-CMP Unified Classifications of Direct Threats and Conservation Actions</a>: A standardized taxonomy of direct threats to biodiversity and conservation actions that helps conservation teams speak a common language across projects to facilitate learning.</li>
+<li><a rel="nofollow" class="external text" href="http://www.fosonline.org/resource/using-conceptual-models">Using Conceptual Models to Document a Situation Analysis</a>: A guide that explains how to build a conceptual model to clearly portray what drives threats to biodiversity within a project site.</li>
+<li><a rel="nofollow" class="external text" href="http://fosonline.org/Site_Documents/Grouped/STDS_MOD1_v2007_03_29v2.pdf">Instruction Manual for completing Step 1 of the WWF Standards – Define</a><sup class="noprint Inline-Template"><span style="white-space: nowrap;">[<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title="&#160;Dead link since October 2016">permanent dead link</span></a></i>]</span></sup>: An online course manual to walk users through the conceptualization phase of the adaptive management project cycle.</li>
+</ul>
+<p><b>Step 2 Plan Actions and Monitoring</b></p>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.fosonline.org/resource/using-results-chains">Using Results Chains to Improve Strategy Effectiveness</a>: A guide that explains how to build results chains – a tool for clarifying a project team’s assumptions about how their actions will contribute to reducing threats and conserving biodiversity.</li>
+<li><a rel="nofollow" class="external text" href="http://fosonline.org/Site_Documents/Grouped/STDS_MOD2_v2007-05-31.pdf">Instruction Manual for completing Step 2 of the WWF Standards – Design</a><sup class="noprint Inline-Template"><span style="white-space: nowrap;">[<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title="&#160;Dead link since October 2016">permanent dead link</span></a></i>]</span></sup>: An online course manual used by WWF’s Online Campus to walk users through the actions and monitoring plan phase of the adaptive management project cycle.</li>
+</ul>
+<h2><span class="mw-headline" id="Use_in_other_practices_as_a_tool_for_sustainability">Use in other practices as a tool for sustainability</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Adaptive_management&amp;action=edit&amp;section=7" title="Edit section: Use in other practices as a tool for sustainability">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Adaptive management as a systematic process for improving environmental management policies and practices is the traditional application however, the adaptive management framework can also be applied to other sectors seeking <a href="/wiki/Sustainability" title="Sustainability">sustainability</a> solutions such as business and community development. Adaptive management as a strategy emphasizes the need to change with the environment and to learn from doing. Adaptive management applied to ecosystems makes overt sense when considering ever changing environmental conditions. The flexibility and constant learning of an adaptive management approach is also a logical application for organizations seeking sustainability methodologies. Businesses pursuing sustainability strategies would employ an adaptive management framework to ensure that the organization is prepared for the unexpected and geared for change. By applying an adaptive management approach the business begins to function as an integrated system adjusting and learning from a multi-faceted network of influences not just environmental but also, economic and social (Dunphy, Griffths, &amp; Benn, 2007). The goal of any sustainable organization guided by adaptive management principals must be to engage in active learning to direct change towards sustainability (Verine, 2008). This “learning to manage by managing to learn” (Bormann BT, 1993) will be at the core of a sustainable business strategy.</p>
+<p>Sustainable community development requires recognition of the relationship between environment, economics and social instruments within the community. An adaptive management approach to creating sustainable community policy and practice also emphasizes the connection and confluence of those elements. Looking into the cultural mechanisms which contribute to a community value system often highlights the parallel to adaptive management practices, “with [an] emphasis on feedback learning, and its treatment of uncertainty and unpredictability”(Berkes, Colding, &amp; Folke, 2000). Often this is the result of indigenous knowledge and historical decisions of societies deeply rooted in ecological practices (Berkes, Colding, &amp; Folke, 2000). By applying an adaptive management approach to community development the resulting systems can develop built in sustainable practice as explained by the Environmental Advisory Council (2002), “active adaptive management views policy as a set of experiments designed to reveal processes that build or sustain resilience. It requires, and facilitates, a social context with flexible and open institutions and multi-level governance systems that allow for learning and increase adaptive capacity without foreclosing future development options” ( p.&#160;1121).</p>
+<p>In an ever-changing world, adaptive management appeals to many practices seeking sustainable solutions by offering a framework for decision making that proposes to support a sustainable future which, “conserves and nurtures the diversity — of species, of human opportunity, of learning institutions and of economic options”(The Environmental Advisory Council, 2002, p.&#160;1121).</p>
+<h2><span class="mw-headline" id="Effectiveness_of_adaptive_management">Effectiveness of adaptive management</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Adaptive_management&amp;action=edit&amp;section=8" title="Edit section: Effectiveness of adaptive management">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>It is difficult to test the effectiveness of adaptive management in comparison to other management approaches. One challenge is that once a system is managed using one approach it is difficult to determine how another approach would have performed in the exact same situation.<sup id="cite_ref-:2_9-0" class="reference"><a href="#cite_note-:2-9">[9]</a></sup> One study tested the effectiveness of formal passive adaptive management in comparison to human intuition by having natural resource management students make decisions about how to harvest a hypothetical fish population in an online computer game. The students on average performed poorly in comparison to the computer programs implementing passive adaptive management.<sup id="cite_ref-:2_9-1" class="reference"><a href="#cite_note-:2-9">[9]</a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></p>
+<h2><span class="mw-headline" id="General_resources">General resources</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Adaptive_management&amp;action=edit&amp;section=9" title="Edit section: General resources">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Information and guidance on the entire adaptive management process is available from CMP members’ websites and other online sources:</p>
+<ul>
+<li>The Conservation Measures Partnership’s <a rel="nofollow" class="external text" href="http://www.conservationmeasures.org/initiatives/standards-for-project-management"><i>Open Standards for the Practice of Conservation</i></a> provide general guidance and principles for good adaptive management in conservation.</li>
+<li><a rel="nofollow" class="external text" href="https://miradi.org/">Miradi Adaptive Management Software for Conservation Projects</a> is user friendly software developed through a joint venture between CMP and <a rel="nofollow" class="external text" href="http://www.benetech.org/">Benetech</a>. The software walks conservation teams through each step of the Open Standards.</li>
+<li>Foundations of Success (FOS) <a rel="nofollow" class="external text" href="http://www.fosonline.org/resources">Resources</a> and <a rel="nofollow" class="external text" href="http://www.fosonline.org/what-we-do/training-coaching">Training</a> web pages list reference materials on adaptive management and <a href="/wiki/Monitoring_and_evaluation" class="mw-redirect" title="Monitoring and evaluation">monitoring and evaluation</a>, as well as information about online or in-person courses in adaptive management.</li>
+<li>The Nature Conservancy’s <a rel="nofollow" class="external text" href="http://conserveonline.org/workspaces/cbdgateway/cap/resources/index_html">Conservation Action Planning (CAP) Resources</a> page includes detailed guidance and tools for implementing the CAP adaptive management process. See also TNC’s <a rel="nofollow" class="external text" href="http://conserveonline.org/workspaces/cbdgateway/cap/resources/1/TNC_CAP_Basic_Practices.pdf/download">CAP Standards</a>.</li>
+<li>The Wildlife Conservation Society’s <a rel="nofollow" class="external text" href="https://web.archive.org/web/20090518124109/http://www.wcslivinglandscapes.com:80/">Living Landscapes</a> page contains extensive guidance materials on WCS’s approach to adaptive management.</li>
+<li>WWF's web page on the <a rel="nofollow" class="external text" href="http://panda.org/standards/"><i>WWF Standards of Conservation Project and Programme Management</i></a> contains detailed guidance, resources, and tools for the steps in WWF's adaptive management process.</li>
+<li><a rel="nofollow" class="external text" href="http://www.islandpress.org/ip/books/book/islandpress/M/bo3559851.html">Measures of Success: Designing, Managing, and Monitoring Conservation and Development Projects</a>, written in 1998 by Richard Margoluis and Nick Salafsky, was one of the first detailed manuals about applying adaptive management to conservation projects. Also available in <a rel="nofollow" class="external text" href="http://www.fosonline.org/resource/medidas-de-exito">Spanish</a>.</li>
+<li>Foundations of Success (FOS) <a rel="nofollow" class="external autonumber" href="http://www.fosonline.org/projects/areas-evaluation">[1]</a> web pages list Asian Rhino and Elephant Program Evaluation in 2004.</li>
+<li>Foundations of Success (FOS) <a rel="nofollow" class="external autonumber" href="http://www.fosonline.org/projects/nfwf-coral-fund">[2]</a> web pages list National Fish &amp; Wildlife Foundation’s Coral Fund in 2007.</li>
+<li>Foundations of Success (FOS)<a rel="nofollow" class="external autonumber" href="http://www.fosonline.org/projects/ocean-conservancy-scorecard">[3]</a> web pages list Ocean Conservancy’s Overfishing Scorecard in 2007.</li>
+<li>The Department of Fish and Game(DFG)<a rel="nofollow" class="external autonumber" href="http://www.mass.gov/dfwele/climatechange.htm">[4]</a> web pages list Adapting to Climate Change programme.</li>
+<li>U.S. Army Corps of Engineers <a rel="nofollow" class="external autonumber" href="https://web.archive.org/web/20110819202922/http://lacpr.usace.army.mil/FinalReport/Vol%20IV/Adaptive%20Management.pdf">[5]</a> web pages list Louisiana Coastal Protection and Restoration Final Technical Report in 2009.</li>
+<li>Washington State Department of Natural Resource(CMR) <a rel="nofollow" class="external autonumber" href="https://web.archive.org/web/20100827112217/http://www.dnr.wa.gov/BusinessPermits/Topics/FPAdaptiveManagementProgram/Pages/fp_am_program.aspx">[6]</a> web pages list Forest Practices Adaptive Management Program in 2010.</li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Adaptive_management&amp;action=edit&amp;section=10" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Conservation_biology" title="Conservation biology">Conservation biology</a></li>
+<li><a href="/wiki/Decision_theory" title="Decision theory">Decision theory</a></li>
+<li><a href="/wiki/Ecology" title="Ecology">Ecology</a></li>
+<li><a href="/wiki/Fisheries" class="mw-redirect" title="Fisheries">Fisheries</a></li>
+<li><a href="/wiki/Forestry" title="Forestry">Forestry</a></li>
+<li><a href="/wiki/Optimization_(mathematics)" class="mw-redirect" title="Optimization (mathematics)">Optimization</a></li>
+<li><a href="/wiki/Operations_research" title="Operations research">Operations research</a></li>
+<li><a href="/wiki/Silviculture" title="Silviculture">Silviculture</a></li>
+<li><a href="/wiki/Uncertainty" title="Uncertainty">Uncertainty</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Adaptive_management&amp;action=edit&amp;section=11" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-:0-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-:0_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:0_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-:0_1-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Holling, C.S. (1978). <i>Adaptive Environmental Assessment and Management</i>. John Wiley &amp; Sons. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9781932846072" title="Special:BookSources/9781932846072">9781932846072</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAdaptive+management&amp;rft.aufirst=C.S.&amp;rft.aulast=Holling&amp;rft.btitle=Adaptive+Environmental+Assessment+and+Management&amp;rft.date=1978&amp;rft.genre=book&amp;rft.isbn=9781932846072&amp;rft.pub=John+Wiley+%26+Sons&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation book">Allan, Catherine; Stankey, George Henry (2009-06-05). <a rel="nofollow" class="external text" href="https://books.google.com.au/books?hl=en&amp;lr=&amp;id=EMxPZu99B_MC&amp;oi=fnd&amp;pg=PA2&amp;ots=V5320llEoF&amp;sig=sf7ymFcs1JV6dzjMveg8ffwwg_4&amp;redir_esc=y#v=onepage&amp;q&amp;f=false"><i>Adaptive Environmental Management: A Practitioner's Guide</i></a>. Springer Science &amp; Business Media. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9781402096327" title="Special:BookSources/9781402096327">9781402096327</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAdaptive+management&amp;rft.aufirst=Catherine&amp;rft.aulast=Allan&amp;rft.au=Stankey%2C+George+Henry&amp;rft.btitle=Adaptive+Environmental+Management%3A+A+Practitioner%27s+Guide&amp;rft.date=2009-06-05&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fbooks.google.com.au%2Fbooks%3Fhl%3Den%26lr%3D%26id%3DEMxPZu99B_MC%26oi%3Dfnd%26pg%3DPA2%26ots%3DV5320llEoF%26sig%3Dsf7ymFcs1JV6dzjMveg8ffwwg_4%26redir_esc%3Dy%23v%3Donepage%26q%26f%3Dfalse&amp;rft.isbn=9781402096327&amp;rft.pub=Springer+Science+%26+Business+Media&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-:1-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-:1_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:1_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">1944-, Walters, Carl J., (1986-01-01). <a rel="nofollow" class="external text" href="https://www.worldcat.org/oclc/13184654"><i>Adaptive management of renewable resources</i></a>. Macmillan. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0029479703" title="Special:BookSources/0029479703">0029479703</a>. <a href="/wiki/OCLC" title="OCLC">OCLC</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/oclc/13184654">13184654</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAdaptive+management&amp;rft.aufirst=Walters%2C+Carl+J.%2C&amp;rft.aulast=1944-&amp;rft.btitle=Adaptive+management+of+renewable+resources&amp;rft.date=1986-01-01&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fwww.worldcat.org%2Foclc%2F13184654&amp;rft_id=info%3Aoclcnum%2F13184654&amp;rft.isbn=0029479703&amp;rft.pub=Macmillan&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation journal">Carey, Gemma; Crammond, Brad; Malbon, Eleanor; Carey, Nic (2015-09-18). <a rel="nofollow" class="external text" href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4629702/">"Adaptive Policies for Reducing Inequalities in the Social Determinants of Health"</a>. <i>International Journal of Health Policy and Management</i>. <b>4</b> (11): 763–767. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.15171%2Fijhpm.2015.170">10.15171/ijhpm.2015.170</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/2322-5939">2322-5939</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<span class="plainlinks"><a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC4629702">4629702</a><span style="margin-left:0.1em"><img alt="Freely accessible" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" title="Freely accessible" width="9" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" data-file-width="512" data-file-height="813" /></span></span>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/26673337">26673337</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAdaptive+management&amp;rft.atitle=Adaptive+Policies+for+Reducing+Inequalities+in+the+Social+Determinants+of+Health&amp;rft.au=Carey%2C+Nic&amp;rft.au=Crammond%2C+Brad&amp;rft.aufirst=Gemma&amp;rft.aulast=Carey&amp;rft.au=Malbon%2C+Eleanor&amp;rft.date=2015-09-18&amp;rft.genre=article&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC4629702&amp;rft_id=http%3A%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC4629702%2F&amp;rft_id=info%3Adoi%2F10.15171%2Fijhpm.2015.170&amp;rft_id=info%3Apmid%2F26673337&amp;rft.issn=2322-5939&amp;rft.issue=11&amp;rft.jtitle=International+Journal+of+Health+Policy+and+Management&amp;rft.pages=763-767&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=4" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation journal">L, Elzinga, Caryl; W, Salzer, Daniel; W, Willoughby, John (1998-01-01). <a rel="nofollow" class="external text" href="http://digitalcommons.unl.edu/usblmpub/17/">"Measuring &amp; Monitering Plant Populations"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAdaptive+management&amp;rft.atitle=Measuring+%26+Monitering+Plant+Populations&amp;rft.aufirst=Elzinga%2C+Caryl&amp;rft.aulast=L&amp;rft.au=W%2C+Salzer%2C+Daniel&amp;rft.au=W%2C+Willoughby%2C+John&amp;rft.date=1998-01-01&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fdigitalcommons.unl.edu%2Fusblmpub%2F17%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation journal">Nichols, James D.; Johnson, Fred A.; Williams, Byron K.; Boomer, G. Scott (2015-06-01). <a rel="nofollow" class="external text" href="http://onlinelibrary.wiley.com/doi/10.1111/1365-2664.12406/abstract">"On formally integrating science and policy: walking the walk"</a>. <i>Journal of Applied Ecology</i>. <b>52</b> (3): 539–543. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1111%2F1365-2664.12406">10.1111/1365-2664.12406</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/1365-2664">1365-2664</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAdaptive+management&amp;rft.atitle=On+formally+integrating+science+and+policy%3A+walking+the+walk&amp;rft.au=Boomer%2C+G.+Scott&amp;rft.aufirst=James+D.&amp;rft.au=Johnson%2C+Fred+A.&amp;rft.aulast=Nichols&amp;rft.au=Williams%2C+Byron+K.&amp;rft.date=2015-06-01&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fonlinelibrary.wiley.com%2Fdoi%2F10.1111%2F1365-2664.12406%2Fabstract&amp;rft_id=info%3Adoi%2F10.1111%2F1365-2664.12406&amp;rft.issn=1365-2664&amp;rft.issue=3&amp;rft.jtitle=Journal+of+Applied+Ecology&amp;rft.pages=539-543&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=52" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation journal">Stankey, George H.; Clark, Roger N.; Bormann, Bernard T.; Stankey, George H.; Clark, Roger N.; Bormann, Bernard T. <a rel="nofollow" class="external text" href="https://www.treesearch.fs.fed.us/pubs/20657/">"Adaptive management of natural resources: theory, concepts, and management institutions."</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAdaptive+management&amp;rft.atitle=Adaptive+management+of+natural+resources%3A+theory%2C+concepts%2C+and+management+institutions.&amp;rft.au=Bormann%2C+Bernard+T.&amp;rft.au=Bormann%2C+Bernard+T.&amp;rft.au=Clark%2C+Roger+N.&amp;rft.au=Clark%2C+Roger+N.&amp;rft.aufirst=George+H.&amp;rft.aulast=Stankey&amp;rft.au=Stankey%2C+George+H.&amp;rft.genre=article&amp;rft_id=https%3A%2F%2Fwww.treesearch.fs.fed.us%2Fpubs%2F20657%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation journal">Rout, Tracy M.; Hauser, Cindy E.; Possingham, Hugh P. (2009-03-01). <a rel="nofollow" class="external text" href="http://onlinelibrary.wiley.com/doi/10.1890/07-1989.1/abstract">"Optimal adaptive management for the translocation of a threatened species"</a>. <i>Ecological Applications</i>. <b>19</b> (2): 515–526. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1890%2F07-1989.1">10.1890/07-1989.1</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/1939-5582">1939-5582</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAdaptive+management&amp;rft.atitle=Optimal+adaptive+management+for+the+translocation+of+a+threatened+species&amp;rft.aufirst=Tracy+M.&amp;rft.au=Hauser%2C+Cindy+E.&amp;rft.aulast=Rout&amp;rft.au=Possingham%2C+Hugh+P.&amp;rft.date=2009-03-01&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fonlinelibrary.wiley.com%2Fdoi%2F10.1890%2F07-1989.1%2Fabstract&amp;rft_id=info%3Adoi%2F10.1890%2F07-1989.1&amp;rft.issn=1939-5582&amp;rft.issue=2&amp;rft.jtitle=Ecological+Applications&amp;rft.pages=515-526&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=19" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-:2-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-:2_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:2_9-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Holden, Matthew H.; Ellner, Stephen P. (2016-07-01). <a rel="nofollow" class="external text" href="http://onlinelibrary.wiley.com/doi/10.1890/15-1295/abstract">"Human judgment vs. quantitative models for the management of ecological resources"</a>. <i>Ecological Applications</i>. <b>26</b> (5): 1553–1565. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1890%2F15-1295">10.1890/15-1295</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/1939-5582">1939-5582</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAdaptive+management&amp;rft.atitle=Human+judgment+vs.+quantitative+models+for+the+management+of+ecological+resources&amp;rft.au=Ellner%2C+Stephen+P.&amp;rft.aufirst=Matthew+H.&amp;rft.aulast=Holden&amp;rft.date=2016-07-01&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fonlinelibrary.wiley.com%2Fdoi%2F10.1890%2F15-1295%2Fabstract&amp;rft_id=info%3Adoi%2F10.1890%2F15-1295&amp;rft.issn=1939-5582&amp;rft.issue=5&amp;rft.jtitle=Ecological+Applications&amp;rft.pages=1553-1565&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=26" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation news">Standard, Pacific (2016-03-11). <a rel="nofollow" class="external text" href="https://psmag.com/sometimes-even-bad-models-make-better-decisions-than-people-4956bade3990#.cnenr5clc">"Sometimes, Even Bad Models Make Better Decisions Than People"</a>. <i>Pacific Standard</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-12-22</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAdaptive+management&amp;rft.atitle=Sometimes%2C+Even+Bad+Models+Make+Better+Decisions+Than+People&amp;rft.aufirst=Pacific&amp;rft.aulast=Standard&amp;rft.date=2016-03-11&amp;rft.genre=article&amp;rft_id=https%3A%2F%2Fpsmag.com%2Fsometimes-even-bad-models-make-better-decisions-than-people-4956bade3990%23.cnenr5clc&amp;rft.jtitle=Pacific+Standard&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<ul>
+<li><cite class="citation journal">Carey, G.; Crammond, B.; Malbon, E.; et al. (2015). <a rel="nofollow" class="external text" href="http://www.ijhpm.com/article_3097_0.html">"Adaptive policies for reducing inequalities in the social determinants of health."</a>. <i>International Journal of Health Policy and Management</i>. <b>4</b> (11): 763–767.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAdaptive+management&amp;rft.atitle=Adaptive+policies+for+reducing+inequalities+in+the+social+determinants+of+health.&amp;rft.au=Carey%2C+G.&amp;rft.au=Crammond%2C+B.&amp;rft.au=Malbon%2C+E.&amp;rft.date=2015&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.ijhpm.com%2Farticle_3097_0.html&amp;rft.issue=11&amp;rft.jtitle=International+Journal+of+Health+Policy+and+Management&amp;rft.pages=763-767&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=4" class="Z3988"><span style="display:none;">&#160;</span></span> <span class="citation-comment" style="display:none; color:#33aa33">CS1 maint: Explicit use of et al. (<a href="/wiki/Category:CS1_maint:_Explicit_use_of_et_al." title="Category:CS1 maint: Explicit use of et al.">link</a>)</span></li>
+<li><cite class="citation book">Bormann, B.T.; Wagner, F.H.; Wood, G.; Algeria, j.; Cunningham, P.G.; Brooks, M.H.; Friesema, P.; Berg, J.; Henshaw,J (1999). <i>Ecological Stewardship: A common reference for ecosystem management</i>. Amsterdam: Elsevier.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAdaptive+management&amp;rft.au=Algeria%2C+j.&amp;rft.au=Berg%2C+J.&amp;rft.au=Bormann%2C+B.T.&amp;rft.au=Brooks%2C+M.H.&amp;rft.au=Cunningham%2C+P.G.&amp;rft.au=Friesema%2C+P.&amp;rft.au=Henshaw%2CJ&amp;rft.au=Wagner%2C+F.H.&amp;rft.au=Wood%2C+G.&amp;rft.btitle=Ecological+Stewardship%3A+A+common+reference+for+ecosystem+management&amp;rft.date=1999&amp;rft.genre=book&amp;rft.place=Amsterdam&amp;rft.pub=Elsevier&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Williams, Byron K.; Robert C. Szaro; Carl D. Shapiro (2007). <i>Adaptive Management: The U.S. Department of the Interior Technical Guide</i>. US Department of the Interior. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-4113-1760-2" title="Special:BookSources/1-4113-1760-2">1-4113-1760-2</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAdaptive+management&amp;rft.au=Carl+D.+Shapiro&amp;rft.au=Robert+C.+Szaro&amp;rft.au=Williams%2C+Byron+K.&amp;rft.btitle=Adaptive+Management%3A+The+U.S.+Department+of+the+Interior+Technical+Guide&amp;rft.date=2007&amp;rft.genre=book&amp;rft.isbn=1-4113-1760-2&amp;rft.pub=US+Department+of+the+Interior&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book"><a href="/wiki/C._S._Holling" title="C. S. Holling">Holling, C. S. (ed.)</a> (1978). <i>Adaptive Environmental Assessment and Management</i>. Chichester: Wiley. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-471-99632-7" title="Special:BookSources/0-471-99632-7">0-471-99632-7</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAdaptive+management&amp;rft.aufirst=C.+S.+%28ed.%29&amp;rft.aulast=Holling&amp;rft.btitle=Adaptive+Environmental+Assessment+and+Management&amp;rft.date=1978&amp;rft.genre=book&amp;rft.isbn=0-471-99632-7&amp;rft.place=Chichester&amp;rft.pub=Wiley&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation conference">Falanrue, Marjorie (1982). McNeely, J.A.; Miller, K.R., eds. <i>People pressure and management of limited resources on Yap</i>. Proc. World Congress on National Parks. Washington DC: The Smithsonian Institution Press. pp.&#160;348–354.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAdaptive+management&amp;rft.aufirst=Marjorie&amp;rft.aulast=Falanrue&amp;rft.btitle=People+pressure+and+management+of+limited+resources+on+Yap&amp;rft.date=1982&amp;rft.genre=conference&amp;rft.pages=348-354&amp;rft.place=Washington+DC&amp;rft.pub=The+Smithsonian+Institution+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span> <span class="citation-comment" style="display:none; color:#33aa33">CS1 maint: Uses editors parameter (<a href="/wiki/Category:CS1_maint:_Uses_editors_parameter" title="Category:CS1 maint: Uses editors parameter">link</a>)</span></li>
+<li><cite class="citation book">Walters, C.J. (1986). <i>Adaptive Management of Renewable Resources</i>. New York, NY: Mc Graw Hill. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-02-947970-3" title="Special:BookSources/0-02-947970-3">0-02-947970-3</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAdaptive+management&amp;rft.au=Walters%2C+C.J.&amp;rft.btitle=Adaptive+Management+of+Renewable+Resources&amp;rft.date=1986&amp;rft.genre=book&amp;rft.isbn=0-02-947970-3&amp;rft.place=New+York%2C+NY&amp;rft.pub=Mc+Graw+Hill&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Lee, Kai N. (1993). <i>Compass and Gyroscope: Integrating Science and Politics for the Environment</i>. Washington, D.C.: Island Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-55963-197-X" title="Special:BookSources/1-55963-197-X">1-55963-197-X</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAdaptive+management&amp;rft.aufirst=Kai+N.&amp;rft.aulast=Lee&amp;rft.btitle=Compass+and+Gyroscope%3A+Integrating+Science+and+Politics+for+the+Environment&amp;rft.date=1993&amp;rft.genre=book&amp;rft.isbn=1-55963-197-X&amp;rft.place=Washington%2C+D.C.&amp;rft.pub=Island+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Walters, Carl (1986). <i>Adaptive Management of Renewable Resources</i>. New York: Macmillan. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-02-947970-3" title="Special:BookSources/0-02-947970-3">0-02-947970-3</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAdaptive+management&amp;rft.aufirst=Carl&amp;rft.aulast=Walters&amp;rft.btitle=Adaptive+Management+of+Renewable+Resources&amp;rft.date=1986&amp;rft.genre=book&amp;rft.isbn=0-02-947970-3&amp;rft.place=New+York&amp;rft.pub=Macmillan&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Argyris, Chris; Donald A. Schön (1978). <i>Organizational Learning: A Theory of Action Perspective</i>. Reading, Massachusetts: Addison-Wesley. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-201-00174-8" title="Special:BookSources/0-201-00174-8">0-201-00174-8</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAdaptive+management&amp;rft.au=Argyris%2C+Chris&amp;rft.au=Donald+A.+Sch%C3%B6n&amp;rft.btitle=Organizational+Learning%3A+A+Theory+of+Action+Perspective&amp;rft.date=1978&amp;rft.genre=book&amp;rft.isbn=0-201-00174-8&amp;rft.place=Reading%2C+Massachusetts&amp;rft.pub=Addison-Wesley&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Gunderson, Lance H.; C. S. Holling; Stephen S. Light (eds.) (1995). <i>Barriers and Bridges to the Renewal of Ecosystems and Institutions</i>. New York: Columbia University Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-231-10102-3" title="Special:BookSources/0-231-10102-3">0-231-10102-3</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAdaptive+management&amp;rft.btitle=Barriers+and+Bridges+to+the+Renewal+of+Ecosystems+and+Institutions&amp;rft.date=1995&amp;rft.genre=book&amp;rft.isbn=0-231-10102-3&amp;rft.place=New+York&amp;rft.pub=Columbia+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span> <span class="citation-comment" style="display:none; color:#33aa33">CS1 maint: Uses authors parameter (<a href="/wiki/Category:CS1_maint:_Uses_authors_parameter" title="Category:CS1 maint: Uses authors parameter">link</a>)</span></li>
+<li><cite class="citation book">Margoluis, Richard; Nick Salafsky (1998). <i>Measures of Success: Designing, Managing, and Monitoring Conservation and Development Projects</i>. Washington, D.C: Island Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-55963-612-4" title="Special:BookSources/978-1-55963-612-4">978-1-55963-612-4</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAdaptive+management&amp;rft.au=Margoluis%2C+Richard&amp;rft.au=Nick+Salafsky&amp;rft.btitle=Measures+of+Success%3A+Designing%2C+Managing%2C+and+Monitoring+Conservation+and+Development+Projects&amp;rft.date=1998&amp;rft.genre=book&amp;rft.isbn=978-1-55963-612-4&amp;rft.place=Washington%2C+D.C&amp;rft.pub=Island+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Schön, Donald A. (1984). <i>The Reflective Practitioner: How Professionals Think In Action</i>. New York: Basic Books. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-465-06878-4" title="Special:BookSources/978-0-465-06878-4">978-0-465-06878-4</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAdaptive+management&amp;rft.au=Sch%C3%B6n%2C+Donald+A.&amp;rft.btitle=The+Reflective+Practitioner%3A+How+Professionals+Think+In+Action&amp;rft.date=1984&amp;rft.genre=book&amp;rft.isbn=978-0-465-06878-4&amp;rft.place=New+York&amp;rft.pub=Basic+Books&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Senge, Peter M. (2006). <i>The Fifth Discipline: The Art and Practice of the Learning Organization</i>. New York: Currency Doubleday. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-385-26095-4" title="Special:BookSources/978-0-385-26095-4">978-0-385-26095-4</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAdaptive+management&amp;rft.au=Senge%2C+Peter+M.&amp;rft.btitle=The+Fifth+Discipline%3A+The+Art+and+Practice+of+the+Learning+Organization&amp;rft.date=2006&amp;rft.genre=book&amp;rft.isbn=978-0-385-26095-4&amp;rft.place=New+York&amp;rft.pub=Currency+Doubleday&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Catherine Allan; George H. Stankey (2009). <i>Adaptive Environmental Management: A Practitioner’s Guide</i>. The Netherlands: Dordrecht. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-90-481-2710-8" title="Special:BookSources/978-90-481-2710-8">978-90-481-2710-8</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAdaptive+management&amp;rft.au=Catherine+Allan&amp;rft.au=George+H.+Stankey&amp;rft.btitle=Adaptive+Environmental+Management%3A+A+Practitioner%99s+Guide&amp;rft.date=2009&amp;rft.genre=book&amp;rft.isbn=978-90-481-2710-8&amp;rft.place=The+Netherlands&amp;rft.pub=Dordrecht&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation journal">Johnson, F.A.; Williams, B.K.; Nichols, J.D.; Hines, J.El; Kendall, W.L.; Smith, G.W.; Caithamer, D.F. (1993). "Developing an adaptive management strategy for harvesting waterfowl in North America". <i>Trans N Am Wildl Nat Resour Conf</i> (58): 565–583.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAdaptive+management&amp;rft.atitle=Developing+an+adaptive+management+strategy+for+harvesting+waterfowl+in+North+America&amp;rft.au=Caithamer%2C+D.F.&amp;rft.au=Hines%2C+J.El&amp;rft.au=Johnson%2C+F.A.&amp;rft.au=Kendall%2C+W.L.&amp;rft.au=Nichols%2C+J.D.&amp;rft.au=Smith%2C+G.W.&amp;rft.au=Williams%2C+B.K.&amp;rft.date=1993&amp;rft.genre=article&amp;rft.issue=58&amp;rft.jtitle=Trans+N+Am+Wildl+Nat+Resour+Conf&amp;rft.pages=565-583&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation journal">Hilborn, R. (1992). "Can fisheries agencies learn from experience?". <i>Fisheries</i>. <b>4</b> (17): 6–14.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAdaptive+management&amp;rft.atitle=Can+fisheries+agencies+learn+from+experience%3F&amp;rft.au=Hilborn%2C+R.&amp;rft.date=1992&amp;rft.genre=article&amp;rft.issue=17&amp;rft.jtitle=Fisheries&amp;rft.pages=6-14&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=4" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation journal">Nichols, J.D.; Runge, M.C.; Johnson, F.A.; Williams, B.K. (2007). <a rel="nofollow" class="external text" href="http://www.springerlink.com/content/0505n125n8g223u6/">"Adaptive harvest management of North American waterfowl populations: a brief history and future prospects"</a>. <i>Journal of Ornithology</i>. <b>148</b> (148): 343. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1007%2Fs10336-007-0256-8">10.1007/s10336-007-0256-8</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAdaptive+management&amp;rft.atitle=Adaptive+harvest+management+of+North+American+waterfowl+populations%3A+a+brief+history+and+future+prospects&amp;rft.au=Johnson%2C+F.A.&amp;rft.au=Nichols%2C+J.D.&amp;rft.au=Runge%2C+M.C.&amp;rft.au=Williams%2C+B.K.&amp;rft.date=2007&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.springerlink.com%2Fcontent%2F0505n125n8g223u6%2F&amp;rft_id=info%3Adoi%2F10.1007%2Fs10336-007-0256-8&amp;rft.issue=148&amp;rft.jtitle=Journal+of+Ornithology&amp;rft.pages=343&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=148" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation journal">Nichols, J.D.; Johnson, F.A.; Williams, B.K. (1995). "Managing North American waterfowl in the face of uncertainty". <i>Annu. Rev. Ecol. Syst</i>. <b>26</b>: 177–199. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1146%2Fannurev.es.26.110195.001141">10.1146/annurev.es.26.110195.001141</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAdaptive+management&amp;rft.atitle=Managing+North+American+waterfowl+in+the+face+of+uncertainty&amp;rft.au=Johnson%2C+F.A.&amp;rft.au=Nichols%2C+J.D.&amp;rft.au=Williams%2C+B.K.&amp;rft.date=1995&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1146%2Fannurev.es.26.110195.001141&amp;rft.jtitle=Annu.+Rev.+Ecol.+Syst.&amp;rft.pages=177-199&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=26" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation journal">Johnson, F.A.; Williams, B.K. (1999). <a rel="nofollow" class="external text" href="http://www.consecol.org/vol3/iss1/art8/">"Protocol and practice in the adaptive management of waterfowl harvests."</a>. <i>Conservation Ecology</i>. <b>3</b> (8).</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAdaptive+management&amp;rft.atitle=Protocol+and+practice+in+the+adaptive+management+of+waterfowl+harvests.&amp;rft.au=Johnson%2C+F.A.&amp;rft.au=Williams%2C+B.K.&amp;rft.date=1999&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.consecol.org%2Fvol3%2Fiss1%2Fart8%2F&amp;rft.issue=8&amp;rft.jtitle=Conservation+Ecology&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=3" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation journal">Margoluis, R.; Stem, C.; Salafsky, N.; Brown, M. (2009). "Using conceptual models as a planning and evaluation tool in conservation". <i>Evaluation and Program Planning</i>. <b>32</b> (2): 138–147. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2Fj.evalprogplan.2008.09.007">10.1016/j.evalprogplan.2008.09.007</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/19054560">19054560</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAdaptive+management&amp;rft.atitle=Using+conceptual+models+as+a+planning+and+evaluation+tool+in+conservation&amp;rft.au=Brown%2C+M.&amp;rft.au=Margoluis%2C+R.&amp;rft.au=Salafsky%2C+N.&amp;rft.au=Stem%2C+C.&amp;rft.date=2009&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2Fj.evalprogplan.2008.09.007&amp;rft_id=info%3Apmid%2F19054560&amp;rft.issue=2&amp;rft.jtitle=Evaluation+and+Program+Planning&amp;rft.pages=138-147&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=32" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Marmorek, David R.; D.C.E. Robinson; C. Murray; L. Grieg (2006). <a rel="nofollow" class="external text" href="http://dx.doi.org/10.13140/2.1.2301.5367"><i>Enabling Adaptive Forest Management</i></a>. National Commission on Science for Sustainable Forestry. p.&#160;94.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAdaptive+management&amp;rft.au=C.+Murray&amp;rft.au=D.C.E.+Robinson&amp;rft.aufirst=David+R.&amp;rft.aulast=Marmorek&amp;rft.au=L.+Grieg&amp;rft.btitle=Enabling+Adaptive+Forest+Management&amp;rft.date=2006&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fdx.doi.org%2F10.13140%2F2.1.2301.5367&amp;rft.pages=94&amp;rft.pub=National+Commission+on+Science+for+Sustainable+Forestry&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation journal">Greig, L.; Marmorek, D.R.; Murray, C.M.; Robinson, D.C.E. (2013). <a rel="nofollow" class="external text" href="http://dx.doi.org/10.5751/ES-05686-180324">"Insight into enabling adaptive management"</a>. <i>Ecology and Society</i>. <b>18</b> (3): 24.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAdaptive+management&amp;rft.atitle=Insight+into+enabling+adaptive+management&amp;rft.au=Greig%2C+L.&amp;rft.au=Marmorek%2C+D.R.&amp;rft.au=Murray%2C+C.M.&amp;rft.au=Robinson%2C+D.C.E.&amp;rft.date=2013&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fdx.doi.org%2F10.5751%2FES-05686-180324&amp;rft.issue=3&amp;rft.jtitle=Ecology+and+Society&amp;rft.pages=24&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=18" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Murray, Carol; David Marmorek (2003). <a rel="nofollow" class="external text" href="http://www.essa.com/downloads/Murray_&amp;_Marmorek_Ponderosa_Pine_2003.pdf">"Adaptive management and ecological restoration"</a> <span style="font-size:85%;">(PDF)</span>. In Peter Friederici,. <i>Ecological Restoration of Southwestern Ponderosa Pine Forests</i>. Washington, D.C.: Island Press. pp.&#160;417–428. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-55963-652-1" title="Special:BookSources/1-55963-652-1">1-55963-652-1</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAdaptive+management&amp;rft.atitle=Adaptive+management+and+ecological+restoration&amp;rft.au=David+Marmorek&amp;rft.aufirst=Carol&amp;rft.aulast=Murray&amp;rft.btitle=Ecological+Restoration+of+Southwestern+Ponderosa+Pine+Forests&amp;rft.date=2003&amp;rft.genre=bookitem&amp;rft_id=http%3A%2F%2Fwww.essa.com%2Fdownloads%2FMurray_%26_Marmorek_Ponderosa_Pine_2003.pdf&amp;rft.isbn=1-55963-652-1&amp;rft.pages=417-428&amp;rft.place=Washington%2C+D.C.&amp;rft.pub=Island+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Peterman, Randall M.; Calvin N. Peters (1998). "Decision analysis: taking uncertainties into account in forest resource management". In in Vera Sit and Brenda Taylor (eds).,. <a rel="nofollow" class="external text" href="http://www.for.gov.bc.ca/hfd/pubs/Docs/Lmh/Lmh42.htm"><i>Statistical Methods for Adaptive Management Studies</i></a>. Victoria, B.C.: B.C. Ministry of Forests. pp.&#160;105–127. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-7726-3512-9" title="Special:BookSources/0-7726-3512-9">0-7726-3512-9</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAdaptive+management&amp;rft.atitle=Decision+analysis%3A+taking+uncertainties+into+account+in+forest+resource+management&amp;rft.au=Calvin+N.+Peters&amp;rft.aufirst=Randall+M.&amp;rft.aulast=Peterman&amp;rft.btitle=Statistical+Methods+for+Adaptive+Management+Studies&amp;rft.date=1998&amp;rft.genre=bookitem&amp;rft_id=http%3A%2F%2Fwww.for.gov.bc.ca%2Fhfd%2Fpubs%2FDocs%2FLmh%2FLmh42.htm&amp;rft.isbn=0-7726-3512-9&amp;rft.pages=105-127&amp;rft.place=Victoria%2C+B.C.&amp;rft.pub=B.C.+Ministry+of+Forests&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation journal">Salafsky, N.; Margoluis, R.; Redford, K.; Robinson, J. (2002). <a rel="nofollow" class="external text" href="http://www3.interscience.wiley.com/journal/118954269/issue">"Improving the practice of conservation: A conceptual framework and agenda for conservation science"</a>. <i>Conservation Biology</i>. <b>16</b> (6): 1469–1479. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1046%2Fj.1523-1739.2002.01232.x">10.1046/j.1523-1739.2002.01232.x</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAdaptive+management&amp;rft.atitle=Improving+the+practice+of+conservation%3A+A+conceptual+framework+and+agenda+for+conservation+science&amp;rft.au=Margoluis%2C+R.&amp;rft.au=Redford%2C+K.&amp;rft.au=Robinson%2C+J.&amp;rft.au=Salafsky%2C+N.&amp;rft.date=2002&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww3.interscience.wiley.com%2Fjournal%2F118954269%2Fissue&amp;rft_id=info%3Adoi%2F10.1046%2Fj.1523-1739.2002.01232.x&amp;rft.issue=6&amp;rft.jtitle=Conservation+Biology&amp;rft.pages=1469-1479&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=16" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation journal">Salafsky, N.; Salzer, D.; Stattersfield, A.J.; Hilton-Taylor, C.; Neugarten, R.; Butchart, S.H.M.; Collen, B.; Cox, N.; Master, L.L.; O’Connor, S.; Wilkie, D. (2009). <a rel="nofollow" class="external text" href="http://www3.interscience.wiley.com/journal/121370210/issue">"A standard lexicon for biodiversity conservation: Unified classifications of threats and actions"</a>. <i>Conservation Biology</i>. <b>22</b> (4): 897–911. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1111%2Fj.1523-1739.2008.00937.x">10.1111/j.1523-1739.2008.00937.x</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/18544093">18544093</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAdaptive+management&amp;rft.atitle=A+standard+lexicon+for+biodiversity+conservation%3A+Unified+classifications+of+threats+and+actions&amp;rft.au=Butchart%2C+S.H.M.&amp;rft.au=Collen%2C+B.&amp;rft.au=Cox%2C+N.&amp;rft.au=Hilton-Taylor%2C+C.&amp;rft.au=Master%2C+L.L.&amp;rft.au=Neugarten%2C+R.&amp;rft.au=O%99Connor%2C+S.&amp;rft.au=Salafsky%2C+N.&amp;rft.au=Salzer%2C+D.&amp;rft.au=Stattersfield%2C+A.J.&amp;rft.au=Wilkie%2C+D.&amp;rft.date=2009&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww3.interscience.wiley.com%2Fjournal%2F121370210%2Fissue&amp;rft_id=info%3Adoi%2F10.1111%2Fj.1523-1739.2008.00937.x&amp;rft_id=info%3Apmid%2F18544093&amp;rft.issue=4&amp;rft.jtitle=Conservation+Biology&amp;rft.pages=897-911&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=22" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation journal">Salzer, D.; Salafsky, N. (2006). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20110724221134/http://www.naturalarea.org/journaltoc.aspx?p=95">"Allocating resources between taking action, assessing status, and measuring effectiveness of conservation actions"</a>. <i>Natural Areas Journal</i>. <b>26</b> (3): 310–316. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.3375%2F0885-8608%282006%2926%5B310%3AARBTAA%5D2.0.CO%3B2">10.3375/0885-8608(2006)26[310:ARBTAA]2.0.CO;2</a>. Archived from <a rel="nofollow" class="external text" href="http://www.naturalarea.org/journaltoc.aspx?p=95">the original</a> on 2011-07-24.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAdaptive+management&amp;rft.atitle=Allocating+resources+between+taking+action%2C+assessing+status%2C+and+measuring+effectiveness+of+conservation+actions&amp;rft.au=Salafsky%2C+N.&amp;rft.au=Salzer%2C+D.&amp;rft.date=2006&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.naturalarea.org%2Fjournaltoc.aspx%3Fp%3D95&amp;rft_id=info%3Adoi%2F10.3375%2F0885-8608%282006%2926%5B310%3AARBTAA%5D2.0.CO%3B2&amp;rft.issue=3&amp;rft.jtitle=Natural+Areas+Journal&amp;rft.pages=310-316&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=26" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Stankey, George H; Roger N. Clark; Bernard T. Bormann (2005). <a rel="nofollow" class="external text" href="http://www.treesearch.fs.fed.us/pubs/20657"><i>Adaptive management of natural resources: theory, concepts, and management institutions</i></a>. Gen. Tech. Rep. PNW-GTR-654. Portland, OR: U.S. Department of Agriculture, Forest Service, Pacific Northwest Research Station. p.&#160;73 p.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAdaptive+management&amp;rft.au=Bernard+T.+Bormann&amp;rft.aufirst=George+H&amp;rft.aulast=Stankey&amp;rft.au=Roger+N.+Clark&amp;rft.btitle=Adaptive+management+of+natural+resources%3A+theory%2C+concepts%2C+and+management+institutions&amp;rft.date=2005&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.treesearch.fs.fed.us%2Fpubs%2F20657&amp;rft.pages=73+p&amp;rft.pub=Gen.+Tech.+Rep.+PNW-GTR-654.+Portland%2C+OR%3A+U.S.+Department+of+Agriculture%2C+Forest+Service%2C+Pacific+Northwest+Research+Station&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation journal">Stem, C..; Margoluis, R.; Salafsky, N.; Brown, M. (2005). <a rel="nofollow" class="external text" href="http://www3.interscience.wiley.com/journal/118701082/issue">"Monitoring and evaluation in conservation: A review of trends and approaches"</a>. <i>Conservation Biology</i>. <b>19</b> (2): 295–309. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1111%2Fj.1523-1739.2005.00594.x">10.1111/j.1523-1739.2005.00594.x</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAdaptive+management&amp;rft.atitle=Monitoring+and+evaluation+in+conservation%3A+A+review+of+trends+and+approaches&amp;rft.au=Brown%2C+M.&amp;rft.au=Margoluis%2C+R.&amp;rft.au=Salafsky%2C+N.&amp;rft.au=Stem%2C+C..&amp;rft.date=2005&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww3.interscience.wiley.com%2Fjournal%2F118701082%2Fissue&amp;rft_id=info%3Adoi%2F10.1111%2Fj.1523-1739.2005.00594.x&amp;rft.issue=2&amp;rft.jtitle=Conservation+Biology&amp;rft.pages=295-309&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=19" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Virine, Lev; Michael Trumper (2008). <a rel="nofollow" class="external text" href="http://www.projectdecisions.org"><i>Project Decisions: The Art and Science</i></a>. Vienna, VA: Management Concepts. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-56726-217-9" title="Special:BookSources/978-1-56726-217-9">978-1-56726-217-9</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAdaptive+management&amp;rft.aufirst=Lev&amp;rft.aulast=Virine&amp;rft.au=Michael+Trumper&amp;rft.btitle=Project+Decisions%3A+The+Art+and+Science&amp;rft.date=2008&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.projectdecisions.org&amp;rft.isbn=978-1-56726-217-9&amp;rft.place=Vienna%2C+VA&amp;rft.pub=Management+Concepts&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Elzinga, C.L., D. W. Salzer, J. W. Willoughby (1998). <a rel="nofollow" class="external text" href="http://www.blm.gov/nstc/library/pdf/MeasAndMon.pdf"><i>Measuring and Monitoring Plant Populations</i></a> <span style="font-size:85%;">(PDF)</span>. Denver, CO: Bureau of Land Management. BLM Technical Reference 1730-1.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAdaptive+management&amp;rft.btitle=Measuring+and+Monitoring+Plant+Populations&amp;rft.date=1998&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.blm.gov%2Fnstc%2Flibrary%2Fpdf%2FMeasAndMon.pdf&amp;rft.place=Denver%2C+CO&amp;rft.pub=Bureau+of+Land+Management&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span> <span class="citation-comment" style="display:none; color:#33aa33">CS1 maint: Uses authors parameter (<a href="/wiki/Category:CS1_maint:_Uses_authors_parameter" title="Category:CS1 maint: Uses authors parameter">link</a>)</span></li>
+<li><cite class="citation journal">Alana L. Moore; Michael A. (2009). <a rel="nofollow" class="external text" href="http://onlinelibrary.wiley.com.simsrad.net.ocs.mq.edu.au/doi/10.1111/cbi.2010.24.issue-4/issuetoc">"On Valuing Information in Adaptive-Management, Models"</a>. <i>Conservation Biology</i>. <b>24</b> (4): 984–993. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1111%2Fj.1523-1739.2009.01443.x">10.1111/j.1523-1739.2009.01443.x</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/20136870">20136870</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAdaptive+management&amp;rft.atitle=On+Valuing+Information+in+Adaptive-Management%2C+Models&amp;rft.au=Alana+L.+Moore&amp;rft.au=Michael+A.&amp;rft.date=2009&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fonlinelibrary.wiley.com.simsrad.net.ocs.mq.edu.au%2Fdoi%2F10.1111%2Fcbi.2010.24.issue-4%2Fissuetoc&amp;rft_id=info%3Adoi%2F10.1111%2Fj.1523-1739.2009.01443.x&amp;rft_id=info%3Apmid%2F20136870&amp;rft.issue=4&amp;rft.jtitle=Conservation+Biology&amp;rft.pages=984-993&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=24" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">George H. Stankey; Roger N. Clark; Bernard T. Bormann (2005). <a rel="nofollow" class="external text" href="http://www.fs.fed.us/pnw/pubs/pnw_gtr654.pdf"><i>Adaptive Management of Natural Resources: Theory, Concepts, and Management Institutions</i></a> <span style="font-size:85%;">(PDF)</span>. Washington: United States Department of Agriculture (USDA).</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAdaptive+management&amp;rft.au=Bernard+T.+Bormann&amp;rft.au=George+H.+Stankey&amp;rft.au=Roger+N.+Clark&amp;rft.btitle=Adaptive+Management+of+Natural+Resources%3A+Theory%2C+Concepts%2C+and+Management+Institutions&amp;rft.date=2005&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.fs.fed.us%2Fpnw%2Fpubs%2Fpnw_gtr654.pdf&amp;rft.place=Washington&amp;rft.pub=United+States+Department+of+Agriculture+%28USDA%29&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation journal">Gregory R, Ohlson D, Arvai J (2006). <a rel="nofollow" class="external text" href="http://www.esajournals.org/doi/abs/10.1890/1051-0761(2006)016%5B2411%3ADAMCFA%5D2.0.CO%3B2">"Deconstructing adaptive management: criteria for application to environmental management"</a>. <i>Ecological Applications</i>. <b>16</b> (6): 2411–2425. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1890%2F1051-0761%282006%29016%5B2411%3ADAMCFA%5D2.0.CO%3B2">10.1890/1051-0761(2006)016[2411:DAMCFA]2.0.CO;2</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/17205914">17205914</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAdaptive+management&amp;rft.atitle=Deconstructing+adaptive+management%3A+criteria+for+application+to+environmental+management&amp;rft.au=Arvai%2C+J&amp;rft.aufirst=R&amp;rft.aulast=Gregory&amp;rft.au=Ohlson%2C+D&amp;rft.date=2006&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.esajournals.org%2Fdoi%2Fabs%2F10.1890%2F1051-0761%282006%29016%255B2411%253ADAMCFA%255D2.0.CO%253B2&amp;rft_id=info%3Adoi%2F10.1890%2F1051-0761%282006%29016%5B2411%3ADAMCFA%5D2.0.CO%3B2&amp;rft_id=info%3Apmid%2F17205914&amp;rft.issue=6&amp;rft.jtitle=Ecological+Applications&amp;rft.pages=2411-2425&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=16" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li>Australian Government Connected Water |url= <a rel="nofollow" class="external free" href="https://web.archive.org/web/20110215233134/http://www.connectedwater.gov.au/framework/adaptive_management.html%7C">https://web.archive.org/web/20110215233134/http://www.connectedwater.gov.au/framework/adaptive_management.html%7C</a></li>
+<li><cite class="citation journal">Berkes, F.; Colding, J.; Folke, C. (2000). "Rediscovery of Traditional Ecological Knowledge as Adaptive Management". <i>Ecological Applications</i>. <b>10</b> (5): 1251–1262. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1890%2F1051-0761%282000%29010%5B1251%3AROTEKA%5D2.0.CO%3B2">10.1890/1051-0761(2000)010[1251:ROTEKA]2.0.CO;2</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAdaptive+management&amp;rft.atitle=Rediscovery+of+Traditional+Ecological+Knowledge+as+Adaptive+Management&amp;rft.au=Berkes%2C+F.&amp;rft.au=Colding%2C+J.&amp;rft.au=Folke%2C+C.&amp;rft.date=2000&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1890%2F1051-0761%282000%29010%5B1251%3AROTEKA%5D2.0.CO%3B2&amp;rft.issue=5&amp;rft.jtitle=Ecological+Applications&amp;rft.pages=1251-1262&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=10" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation journal">Chaffee, E. E. (1985). "Three Models of Strategy". <i>The Academy of Management Review</i>. <b>10</b> (1): 89–98. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.5465%2Famr.1985.4277354">10.5465/amr.1985.4277354</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAdaptive+management&amp;rft.atitle=Three+Models+of+Strategy&amp;rft.au=Chaffee%2C+E.+E.&amp;rft.date=1985&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.5465%2Famr.1985.4277354&amp;rft.issue=1&amp;rft.jtitle=The+Academy+of+Management+Review&amp;rft.pages=89-98&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=10" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Dunphy, D.; Griffths, A.; Benn, S (2007). <i>Organizational Change for Corporate Sustainability</i>. London: Routledge.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAdaptive+management&amp;rft.au=Benn%2C+S&amp;rft.au=Dunphy%2C+D.&amp;rft.au=Griffths%2C+A.&amp;rft.btitle=Organizational+Change+for+Corporate+Sustainability&amp;rft.date=2007&amp;rft.genre=book&amp;rft.place=London&amp;rft.pub=Routledge&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">The Environmental Advisory Council (2002). <i>Resilience and Sustainable Development: Building Adaptive Capacity in a World of Transformation</i>. stockholm: EDITA NORSTEDTS TRYCKERI AB.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAdaptive+management&amp;rft.au=The+Environmental+Advisory+Council&amp;rft.btitle=Resilience+and+Sustainable+Development%3A+Building+Adaptive+Capacity+in+a+World+of+Transformation&amp;rft.date=2002&amp;rft.genre=book&amp;rft.place=stockholm&amp;rft.pub=EDITA+NORSTEDTS+TRYCKERI+AB&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation journal">Verine, L. (2008). "Adaptive Project Management". <i>PM World Today</i>. <b>10</b> (5): 1–9.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAdaptive+management&amp;rft.atitle=Adaptive+Project+Management&amp;rft.au=Verine%2C+L.&amp;rft.date=2008&amp;rft.genre=article&amp;rft.issue=5&amp;rft.jtitle=PM+World+Today&amp;rft.pages=1-9&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=10" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation journal">Rout, T.M.; Hauser, C.E.; Possingham, H.P. (2009). "Optimal adaptive management for the translocation of a threatened species". <i>Ecological Applications</i>. <b>19</b> (2): 515–516. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1890%2F07-1989.1">10.1890/07-1989.1</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/19323207">19323207</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAdaptive+management&amp;rft.atitle=Optimal+adaptive+management+for+the+translocation+of+a+threatened+species&amp;rft.au=Hauser%2C+C.E.&amp;rft.au=Possingham%2C+H.P.&amp;rft.au=Rout%2C+T.M.&amp;rft.date=2009&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1890%2F07-1989.1&amp;rft_id=info%3Apmid%2F19323207&amp;rft.issue=2&amp;rft.jtitle=Ecological+Applications&amp;rft.pages=515-516&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=19" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation journal">Shea, K.; Possingham, H.P.; Murdoch, WW.; Roush, R. (2002). "Active Adaptive Management in Insect Pest and Weed Control: Intervention with a Plan for Learning". <i>Ecological Applications</i>. <b>12</b> (3): 927–936. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1890%2F1051-0761%282002%29012%5B0927%3AAAMIIP%5D2.0.CO%3B2">10.1890/1051-0761(2002)012[0927:AAMIIP]2.0.CO;2</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAdaptive+management&amp;rft.atitle=Active+Adaptive+Management+in+Insect+Pest+and+Weed+Control%3A+Intervention+with+a+Plan+for+Learning&amp;rft.au=Murdoch%2C+WW.&amp;rft.au=Possingham%2C+H.P.&amp;rft.au=Roush%2C+R.&amp;rft.au=Shea%2C+K.&amp;rft.date=2002&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1890%2F1051-0761%282002%29012%5B0927%3AAAMIIP%5D2.0.CO%3B2&amp;rft.issue=3&amp;rft.jtitle=Ecological+Applications&amp;rft.pages=927-936&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=12" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Natural_resources" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Natural_resources" title="Template:Natural resources"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Natural_resources" title="Template talk:Natural resources"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Natural_resources&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Natural_resources" style="font-size:114%"><a href="/wiki/Natural_resource" title="Natural resource">Natural resources</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Atmosphere_of_Earth" title="Atmosphere of Earth">Air</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:7.0em;font-weight:normal;"><a href="/wiki/Air_pollution" title="Air pollution">Pollution&#160;/ quality</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/National_Ambient_Air_Quality_Standards" title="National Ambient Air Quality Standards">Ambient standards <span style="font-size:90%;">(USA)</span></a></li>
+<li><a href="/wiki/Air_quality_index" title="Air quality index">Index</a></li>
+<li><a href="/wiki/Indoor_air_quality" title="Indoor air quality">Indoor</a>
+<ul>
+<li><a href="/wiki/Indoor_air_pollution_in_developing_nations" title="Indoor air pollution in developing nations">developing nations</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Air_quality_law" title="Air quality law">Law</a>
+<ul>
+<li><a href="/wiki/Clean_Air_Act_(United_States)" title="Clean Air Act (United States)">Clean Air Act <span style="font-size:90%;">(USA)</span></a></li>
+</ul>
+</li>
+<li><a href="/wiki/Ozone_depletion" title="Ozone depletion">Ozone depletion</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:7.0em;font-weight:normal;">Emissions</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Airshed" title="Airshed">Airshed</a></li>
+<li><a href="/wiki/Emissions_trading" title="Emissions trading">Trading</a></li>
+<li><a href="/wiki/Reducing_emissions_from_deforestation_and_forest_degradation" title="Reducing emissions from deforestation and forest degradation">Deforestation (REDD)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+<td class="navbox-image" rowspan="13" style="width:0%;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:Carson_Fall_Mt_Kinabalu.jpg" class="image" title="Carson Falls on Mount Kinabalu, Borneo"><img alt="Carson Falls on Mount Kinabalu, Borneo" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/57/Carson_Fall_Mt_Kinabalu.jpg/100px-Carson_Fall_Mt_Kinabalu.jpg" width="100" height="133" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/57/Carson_Fall_Mt_Kinabalu.jpg/150px-Carson_Fall_Mt_Kinabalu.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/57/Carson_Fall_Mt_Kinabalu.jpg/200px-Carson_Fall_Mt_Kinabalu.jpg 2x" data-file-width="2592" data-file-height="3456" /></a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Energy" title="Energy">Energy</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Energy_law" title="Energy law">Law</a></li>
+<li><a href="/wiki/Energy_resources" class="mw-redirect" title="Energy resources">Resources</a></li>
+<li><a href="/wiki/Fossil_fuel" title="Fossil fuel">Fossil fuels</a>&#160;(<a href="/wiki/Peak_oil" title="Peak oil">peak oil</a>)</li>
+<li><a href="/wiki/Geothermal_energy" title="Geothermal energy">Geothermal</a></li>
+<li><a href="/wiki/Nuclear_power" title="Nuclear power">Nuclear</a></li>
+<li><a href="/wiki/Solar_energy" title="Solar energy">Solar</a>
+<ul>
+<li><a href="/wiki/Sunlight" title="Sunlight">sunlight</a></li>
+<li><a href="/wiki/Shade_(shadow)" title="Shade (shadow)">shade</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Tidal_power" title="Tidal power">Tidal</a></li>
+<li><a href="/wiki/Wave_power" title="Wave power">Wave</a></li>
+<li><a href="/wiki/Wind_power" title="Wind power">Wind</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Land" title="Land">Land</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Arable_land" title="Arable land">Arable</a>
+<ul>
+<li><a href="/wiki/Peak_farmland" class="mw-redirect" title="Peak farmland">peak farmland</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Land_degradation" title="Land degradation">Degradation</a></li>
+<li><a href="/wiki/Land_law" title="Land law">Law</a>
+<ul>
+<li><a href="/wiki/Property_law" title="Property law">property</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Land_management" title="Land management">Management</a>
+<ul>
+<li><a href="/wiki/Habitat_conservation" title="Habitat conservation">habitat conservation</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Mineral" title="Mineral">Minerals</a>
+<ul>
+<li><a href="/wiki/Mining" title="Mining">mining</a>
+<ul>
+<li><a href="/wiki/Mining_law" title="Mining law">law</a></li>
+<li><a href="/wiki/Sand_mining" title="Sand mining">sand</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Peak_minerals" title="Peak minerals">peak</a></li>
+<li><a href="/wiki/Mineral_rights" title="Mineral rights">rights</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Soil" title="Soil">Soil</a>
+<ul>
+<li><a href="/wiki/Soil_conservation" title="Soil conservation">conservation</a></li>
+<li><a href="/wiki/Soil_fertility" title="Soil fertility">fertility</a></li>
+<li><a href="/wiki/Soil_health" title="Soil health">health</a></li>
+<li><a href="/wiki/Soil_resilience" title="Soil resilience">resilience</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Land_use" title="Land use">Use</a>
+<ul>
+<li><a href="/wiki/Land-use_planning" title="Land-use planning">planning</a></li>
+<li><a href="/wiki/Open_space_reserve" title="Open space reserve">reserve</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Life" title="Life">Life</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Biodiversity" title="Biodiversity">Biodiversity</a></li>
+<li><a href="/wiki/Bioprospecting" title="Bioprospecting">Bioprospecting</a></li>
+<li><a href="/wiki/Biosphere" title="Biosphere">Biosphere</a></li>
+<li><a href="/wiki/Bushfood" class="mw-redirect" title="Bushfood">Bushfood</a></li>
+<li><a href="/wiki/Bushmeat" title="Bushmeat">Bushmeat</a></li>
+<li><a href="/wiki/Fishery" title="Fishery">Fisheries</a>
+<ul>
+<li><a href="/wiki/Fisheries_law" title="Fisheries law">law</a></li>
+<li><a href="/wiki/Fisheries_management" title="Fisheries management">management</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Food" title="Food">Food</a></li>
+<li><a href="/wiki/Forest" title="Forest">Forests</a>
+<ul>
+<li><a href="/wiki/Forest_genetic_resources" title="Forest genetic resources">genetic resources</a></li>
+<li><a href="/wiki/Forest_law" class="mw-redirect" title="Forest law">law</a></li>
+<li><a href="/wiki/Forest_management" title="Forest management">management</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Game_(food)" class="mw-redirect" title="Game (food)">Game</a>
+<ul>
+<li><a href="/wiki/Game_law" title="Game law">law</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Gene_bank" title="Gene bank">Gene bank</a></li>
+<li><a href="/wiki/List_of_plants_used_in_herbalism" title="List of plants used in herbalism">Herbalist plants</a></li>
+<li><a href="/wiki/Marine_conservation" class="mw-redirect" title="Marine conservation">Marine conservation</a></li>
+<li><a href="/wiki/Non-timber_forest_product" title="Non-timber forest product">Non-timber forest products</a></li>
+<li><a href="/wiki/Rangeland" title="Rangeland">Rangeland</a></li>
+<li><a href="/wiki/Seed_bank" title="Seed bank">Seed bank</a></li>
+<li><a href="/wiki/Wildlife" title="Wildlife">Wildlife</a>
+<ul>
+<li><a href="/wiki/Wildlife_conservation" title="Wildlife conservation">conservation</a></li>
+<li><a href="/wiki/Wildlife_management" title="Wildlife management">management</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Wood" title="Wood">Wood</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Water" title="Water">Water</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:7.0em;font-weight:normal;">Types&#160;/ location</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Aquifer" title="Aquifer">Aquifer</a>
+<ul>
+<li><a href="/wiki/Aquifer_storage_and_recovery" title="Aquifer storage and recovery">storage and recovery</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Drinking_water" title="Drinking water">Drinking</a></li>
+<li><a href="/wiki/Fresh_water" title="Fresh water">Fresh</a></li>
+<li><a href="/wiki/Groundwater" title="Groundwater">Groundwater</a>
+<ul>
+<li><a href="/wiki/Groundwater_pollution" title="Groundwater pollution">pollution</a></li>
+<li><a href="/wiki/Groundwater_recharge" title="Groundwater recharge">recharge</a></li>
+<li><a href="/wiki/Groundwater_remediation" title="Groundwater remediation">remediation</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Hydrosphere" title="Hydrosphere">Hydrosphere</a></li>
+<li><a href="/wiki/Ice" title="Ice">Ice</a>
+<ul>
+<li><a href="/wiki/Iceberg" title="Iceberg">bergs</a></li>
+<li><a href="/wiki/Glacier" title="Glacier">glacial</a></li>
+<li><a href="/wiki/Polar_ice_cap" title="Polar ice cap">polar</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Irrigation" title="Irrigation">Irrigation</a></li>
+<li><a href="/wiki/Rain" title="Rain">Rain</a>
+<ul>
+<li><a href="/wiki/Rainwater_harvesting" title="Rainwater harvesting">harvesting</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Stormwater" title="Stormwater">Stormwater</a></li>
+<li><a href="/wiki/Surface_water" title="Surface water">Surface water</a></li>
+<li><a href="/wiki/Wastewater" title="Wastewater">Wastewater</a>
+<ul>
+<li><a href="/wiki/Reclaimed_water" title="Reclaimed water">reclaimed</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:7.0em;font-weight:normal;">Aspects</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Desalination" title="Desalination">Desalination</a></li>
+<li><a href="/wiki/Flood" title="Flood">Floods</a></li>
+<li><a href="/wiki/Water_law" class="mw-redirect" title="Water law">Law</a></li>
+<li><a href="/wiki/Leaching_(agriculture)" title="Leaching (agriculture)">Leaching</a></li>
+<li><a href="/wiki/Sanitation" title="Sanitation">Sanitation</a></li>
+<li><a href="/wiki/Water_conflict" title="Water conflict">Conflict</a></li>
+<li><a href="/wiki/Water_conservation" title="Water conservation">Conservation</a></li>
+<li><a href="/wiki/Peak_water" title="Peak water">Peak water</a></li>
+<li><a href="/wiki/Water_pollution" title="Water pollution">Pollution</a></li>
+<li><a href="/wiki/Water_privatization" title="Water privatization">Privatization</a></li>
+<li><a href="/wiki/Water_quality" title="Water quality">Quality</a></li>
+<li><a href="/wiki/Water_right" title="Water right">Right</a></li>
+<li><a href="/wiki/Water_resources" title="Water resources">Resources</a>
+<ul>
+<li><a href="/wiki/Water_resource_management" title="Water resource management">management</a></li>
+<li><a href="/wiki/Water_resource_policy" title="Water resource policy">policy</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Related</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<td colspan="2" class="navbox-list navbox-even" style="padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Common_land" title="Common land">Common land</a></li>
+<li><a href="/wiki/Common-pool_resource" title="Common-pool resource">common-pool</a>
+<ul>
+<li><a href="/wiki/Enclosure" title="Enclosure">enclosure</a></li>
+<li><a href="/wiki/Global_commons" title="Global commons">global</a></li>
+<li><a href="/wiki/Tragedy_of_the_commons" title="Tragedy of the commons">tragedy theory</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Natural_resource_economics" title="Natural resource economics">Economics</a>
+<ul>
+<li><a href="/wiki/Ecological_economics" title="Ecological economics">ecological</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Ecosystem_services" title="Ecosystem services">Ecosystem services</a></li>
+<li><a href="/wiki/Exploitation_of_natural_resources" title="Exploitation of natural resources">Exploitation</a>
+<ul>
+<li><a href="/wiki/Overexploitation" title="Overexploitation">overexploitation</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Natural_resource_management" title="Natural resource management">Management</a>
+<ul>
+<li><strong class="selflink">adaptive</strong></li>
+</ul>
+</li>
+<li><a href="/wiki/Natural_capital" title="Natural capital">Natural capital</a>
+<ul>
+<li><a href="/wiki/Natural_capital_accounting" title="Natural capital accounting">accounting</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Nature_reserve" title="Nature reserve">Nature reserve</a></li>
+<li><a href="/wiki/Systems_ecology" title="Systems ecology">Systems ecology</a></li>
+<li><a href="/wiki/Urban_ecology" title="Urban ecology">Urban ecology</a></li>
+<li><a href="/wiki/Wilderness" title="Wilderness">Wilderness</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:7.0em;font-weight:normal;"><a href="/wiki/Resource" title="Resource">Resource</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Conflict_resource" title="Conflict resource">Conflict <span style="font-size:90%;">(perpetuation)</span></a></li>
+<li><a href="/wiki/Resource_curse" title="Resource curse">Curse</a></li>
+<li><a href="/wiki/Resource_depletion" title="Resource depletion">Depletion</a></li>
+<li><a href="/wiki/Resource_extraction" class="mw-redirect" title="Resource extraction">Extraction</a></li>
+<li><a href="/wiki/Resource_nationalism" title="Resource nationalism">Nationalism</a></li>
+<li><a href="/wiki/Renewable_resource" title="Renewable resource">Renewable</a>&#160;/ <a href="/wiki/Non-renewable_resource" title="Non-renewable resource">Non-renewable</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" title="Portal" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28" /> <a href="/wiki/Wikipedia:Portal" title="Wikipedia:Portal">Portals</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Portal:Agriculture_and_agronomy" title="Portal:Agriculture and agronomy">Agriculture and agronomy</a></li>
+<li><a href="/wiki/Portal:Energy" title="Portal:Energy">Energy</a></li>
+<li><a href="/wiki/Portal:Environment" title="Portal:Environment">Environment</a></li>
+<li><a href="/wiki/Portal:Fishing" title="Portal:Fishing">Fishing</a></li>
+<li><a href="/wiki/Portal:Forestry" title="Portal:Forestry">Forestry</a></li>
+<li><a href="/wiki/Portal:Mining" title="Portal:Mining">Mining</a></li>
+<li><a href="/wiki/Portal:Water" title="Portal:Water">Water</a></li>
+<li><a href="/wiki/Portal:Wetlands" title="Portal:Wetlands">Wetlands</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3" style="font-weight:bold;">
+<div>
+<ul>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <a href="/wiki/Category:Natural_resources" title="Category:Natural resources">Category</a>
+<ul>
+<li><span style="font-weight:normal;"><a href="/wiki/Category:Natural_resources_agencies" title="Category:Natural resources agencies">agencies</a></span></li>
+<li><span style="font-weight:normal;"><a href="/wiki/Category:Natural_resources_law" title="Category:Natural resources law">law</a></span></li>
+<li><span style="font-weight:normal;"><a href="/wiki/Category:Natural_resource_management" title="Category:Natural resource management">management</a></span></li>
+<li><span style="font-weight:normal;"><a href="/wiki/Category:Natural_resources_ministries" title="Category:Natural resources ministries">ministries</a></span></li>
+<li><span style="font-weight:normal;"><a href="/wiki/Category:Natural_resources_organizations" title="Category:Natural resources organizations">organizations</a></span></li>
+</ul>
+</li>
+<li><span style="font-weight:normal;"><a href="/wiki/List_of_colleges_of_natural_resources" title="List of colleges of natural resources">Colleges</a></span></li>
+<li><img alt="Commons page" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" title="Commons page" width="12" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /> <a href="https://commons.wikimedia.org/wiki/Category:Natural_resources" class="extiw" title="commons:Category:Natural resources">Natural resources</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1195
+Cached time: 20170123154436
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.624 seconds
+Real time usage: 0.681 seconds
+Preprocessor visited node count: 2315/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 138488/2097152 bytes
+Template argument size: 1625/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 2/500
+Lua time usage: 0.381/10.000 seconds
+Lua memory usage: 4.46 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  556.578      1 -total
+ 34.55%  192.307     24 Template:Cite_book
+ 30.70%  170.895     25 Template:Cite_journal
+ 23.95%  133.323      1 Template:Reflist
+ 11.00%   61.248      1 Template:More_footnotes
+ 10.10%   56.212      4 Template:Navbox
+  7.82%   43.550      1 Template:Natural_resources
+  6.14%   34.151      1 Template:Ambox
+  4.60%   25.577      2 Template:Dead_link
+  3.55%   19.756      2 Template:Fix
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1206605-0!*!0!!en!4!* and timestamp 20170123154437 and revision id 761548288
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Adaptive_management&amp;oldid=761548288">https://en.wikipedia.org/w/index.php?title=Adaptive_management&amp;oldid=761548288</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Habitat_management_equipment_and_methods" title="Category:Habitat management equipment and methods">Habitat management equipment and methods</a></li><li><a href="/wiki/Category:Learning_methods" title="Category:Learning methods">Learning methods</a></li><li><a href="/wiki/Category:Conservation" title="Category:Conservation">Conservation</a></li><li><a href="/wiki/Category:Sustainable_design" title="Category:Sustainable design">Sustainable design</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_lacking_in-text_citations_from_October_2012" title="Category:Articles lacking in-text citations from October 2012">Articles lacking in-text citations from October 2012</a></li><li><a href="/wiki/Category:All_articles_lacking_in-text_citations" title="Category:All articles lacking in-text citations">All articles lacking in-text citations</a></li><li><a href="/wiki/Category:All_articles_with_dead_external_links" title="Category:All articles with dead external links">All articles with dead external links</a></li><li><a href="/wiki/Category:Articles_with_dead_external_links_from_October_2016" title="Category:Articles with dead external links from October 2016">Articles with dead external links from October 2016</a></li><li><a href="/wiki/Category:Articles_with_permanently_dead_external_links" title="Category:Articles with permanently dead external links">Articles with permanently dead external links</a></li><li><a href="/wiki/Category:CS1_maint:_Explicit_use_of_et_al." title="Category:CS1 maint: Explicit use of et al.">CS1 maint: Explicit use of et al.</a></li><li><a href="/wiki/Category:CS1_maint:_Uses_editors_parameter" title="Category:CS1 maint: Uses editors parameter">CS1 maint: Uses editors parameter</a></li><li><a href="/wiki/Category:CS1_maint:_Uses_authors_parameter" title="Category:CS1 maint: Uses authors parameter">CS1 maint: Uses authors parameter</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Adaptive+management" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Adaptive+management" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Adaptive_management"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Adaptive_management"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Adaptive_management" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Adaptive_management&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Adaptive_management&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Adaptive_management" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Adaptive_management" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Adaptive_management&amp;oldid=761548288" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Adaptive_management&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q4680750" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Adaptive_management&amp;id=761548288" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Adaptive+management">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Adaptive+management&amp;returnto=Adaptive+management&amp;oldid=761548288&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Adaptive_management&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E9%A0%86%E5%BF%9C%E7%9A%84%E7%AE%A1%E7%90%86" title="順応的管理 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q4680750#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 23 January 2017, at 15:44.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Adaptive_management&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.624","walltime":"0.681","ppvisitednodes":{"value":2315,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":138488,"limit":2097152},"templateargumentsize":{"value":1625,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  556.578      1 -total"," 34.55%  192.307     24 Template:Cite_book"," 30.70%  170.895     25 Template:Cite_journal"," 23.95%  133.323      1 Template:Reflist"," 11.00%   61.248      1 Template:More_footnotes"," 10.10%   56.212      4 Template:Navbox","  7.82%   43.550      1 Template:Natural_resources","  6.14%   34.151      1 Template:Ambox","  4.60%   25.577      2 Template:Dead_link","  3.55%   19.756      2 Template:Fix"]},"scribunto":{"limitreport-timeusage":{"value":"0.381","limit":"10.000"},"limitreport-memusage":{"value":4679168,"limit":52428800}},"cachereport":{"origin":"mw1195","timestamp":"20170123154436","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":55,"wgHostname":"mw1240"});});</script>
+	</body>
+</html>

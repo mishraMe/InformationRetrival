@@ -1,0 +1,914 @@
+url : https://en.wikipedia.org/wiki/Polymer_solar_cell
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Polymer solar cell - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Polymer_solar_cell","wgTitle":"Polymer solar cell","wgCurRevisionId":760336480,"wgRevisionId":760336480,"wgArticleId":1772929,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: Multiple names: authors list","Articles to be merged from March 2014","All articles to be merged","Pages using ISBN magic links","Solar cells","Fullerenes"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Polymer_solar_cell","wgRelevantArticleId":1772929,"wgRequestId":"WI49lApAEKkAAHEem6cAAABP","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q8308831","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","ext.math.scripts","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.9"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Polymer_solar_cell"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Polymer_solar_cell&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Polymer_solar_cell&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Polymer_solar_cell"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Polymer_solar_cell rootpage-Polymer_solar_cell skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Polymer solar cell</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><table class="plainlinks metadata ambox ambox-move" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/52/Merge-arrows.svg/50px-Merge-arrows.svg.png" width="50" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/52/Merge-arrows.svg/75px-Merge-arrows.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/52/Merge-arrows.svg/100px-Merge-arrows.svg.png 2x" data-file-width="50" data-file-height="20" /></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">It has been suggested that this article be <a href="/wiki/Wikipedia:Merging" title="Wikipedia:Merging">merged</a> with <i><a href="/wiki/Organic_solar_cell" title="Organic solar cell">Organic solar cell</a></i>. (<a href="/wiki/Talk:Organic_solar_cell#Merger_proposal" title="Talk:Organic solar cell">Discuss</a>) <small><i>Proposed since March 2014.</i></small></span></td>
+</tr>
+</table>
+<div class="thumb tright">
+<div class="thumbinner" style="width:302px;"><a href="/wiki/File:Solarcells4.gif" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Solarcells4.gif/300px-Solarcells4.gif" width="300" height="99" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Solarcells4.gif/450px-Solarcells4.gif 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/87/Solarcells4.gif/600px-Solarcells4.gif 2x" data-file-width="1024" data-file-height="339" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Solarcells4.gif" class="internal" title="Enlarge"></a></div>
+Fig. 1. Schematic of plastic solar cells. PET – <a href="/wiki/Polyethylene_terephthalate" title="Polyethylene terephthalate">polyethylene terephthalate</a>, ITO – <a href="/wiki/Indium_tin_oxide" title="Indium tin oxide">indium tin oxide</a>, PEDOT:PSS – <a href="/wiki/Poly(3,4-ethylenedioxythiophene)" title="Poly(3,4-ethylenedioxythiophene)">poly(3,4-ethylenedioxythiophene)</a>, active <a href="/wiki/Layer_(electronics)" title="Layer (electronics)">layer</a> (usually a polymer:fullerene blend), Al – <a href="/wiki/Aluminium" title="Aluminium">aluminium</a>.</div>
+</div>
+</div>
+<p>A <b>polymer solar cell</b> is a type of flexible <a href="/wiki/Solar_cell" title="Solar cell">solar cell</a> made with <a href="/wiki/Polymer" title="Polymer">polymers</a>, large molecules with repeating structural units, that produce <a href="/wiki/Electricity" title="Electricity">electricity</a> from <a href="/wiki/Sunlight" title="Sunlight">sunlight</a> by the <a href="/wiki/Photovoltaic_effect" title="Photovoltaic effect">photovoltaic effect</a>. Polymer solar cells include <a href="/wiki/Organic_solar_cell" title="Organic solar cell">organic solar cells</a> (also called "plastic solar cells"). They are one type of <a href="/wiki/Thin_film_solar_cell" class="mw-redirect" title="Thin film solar cell">thin film solar cell</a>, others include the more stable <a href="/wiki/Amorphous_silicon" title="Amorphous silicon">amorphous silicon</a> solar cell.</p>
+<p>Most commercial solar cells are made from a <a href="/wiki/Refined_silicon" class="mw-redirect" title="Refined silicon">refined, highly purified silicon</a> <a href="/wiki/Crystal" title="Crystal">crystal</a>, similar to the material used in the manufacture of <a href="/wiki/Integrated_circuit" title="Integrated circuit">integrated circuits</a> and computer chips (<a href="/wiki/Wafer_silicon" class="mw-redirect" title="Wafer silicon">wafer silicon</a>). The high cost of these silicon solar cells and their complex production process generated interest in alternative technologies.</p>
+<p>Compared to <a href="/wiki/Silicon" title="Silicon">silicon</a>-based devices, polymer solar cells are lightweight (which is important for small autonomous sensors), potentially disposable and inexpensive to fabricate (sometimes using <a href="/wiki/Printed_electronics" title="Printed electronics">printed electronics</a>), flexible, customizable on the molecular level and potentially have less adverse environmental impact. Polymer solar cells also have the potential to exhibit transparency, suggesting applications in windows, walls, flexible electronics, etc. An example device is shown in Fig. 1. The disadvantages of polymer solar cells are also serious: they offer about 1/3 of the efficiency of hard materials, and experience substantial photochemical degradation.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></p>
+<p>Polymer solar cells inefficiency and stability problems,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> combined with their promise of low costs<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> and increased efficiency<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> made them a popular field in solar cell research. As of 2015, polymer solar cells were able to achieve over 10% efficiency via a tandem structure.<sup id="cite_ref-ReferenceA_5-0" class="reference"><a href="#cite_note-ReferenceA-5">[5]</a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Device_physics"><span class="tocnumber">1</span> <span class="toctext">Device physics</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Architectures"><span class="tocnumber">2</span> <span class="toctext">Architectures</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Active_layer_deposition_and_annealing_process"><span class="tocnumber">3</span> <span class="toctext">Active layer deposition and annealing process</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Solvent_effects"><span class="tocnumber">4</span> <span class="toctext">Solvent effects</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Self-assembled_cells"><span class="tocnumber">5</span> <span class="toctext">Self-assembled cells</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Infrared_polymer_cells"><span class="tocnumber">6</span> <span class="toctext">Infrared polymer cells</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Power_Conversion_Efficiency"><span class="tocnumber">7</span> <span class="toctext">Power Conversion Efficiency</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Commercialization"><span class="tocnumber">8</span> <span class="toctext">Commercialization</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Modeling_organic_solar_cells"><span class="tocnumber">9</span> <span class="toctext">Modeling organic solar cells</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Other_third-generation_solar_cells"><span class="tocnumber">10</span> <span class="toctext">Other third-generation solar cells</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#See_also"><span class="tocnumber">11</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#References"><span class="tocnumber">12</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Further_reading"><span class="tocnumber">13</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#External_links"><span class="tocnumber">14</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Device_physics">Device physics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Polymer_solar_cell&amp;action=edit&amp;section=1" title="Edit section: Device physics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table border="0" cellspacing="5" cellpadding="10" style="float:right;">
+<tr>
+<td>
+<center><br />
+<table border="0" style="background:#f9f9ff;">
+<tr>
+<td>
+<center><a href="/wiki/File:Solarcells2m.gif" class="image"><img alt="Solarcells2m.gif" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Solarcells2m.gif/90px-Solarcells2m.gif" width="90" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Solarcells2m.gif/135px-Solarcells2m.gif 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Solarcells2m.gif/180px-Solarcells2m.gif 2x" data-file-width="350" data-file-height="350" /></a></center>
+</td>
+<td>
+<center><a href="/wiki/File:Solarcells2m.gif" class="image"><img alt="Solarcells2m.gif" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Solarcells2m.gif/90px-Solarcells2m.gif" width="90" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Solarcells2m.gif/135px-Solarcells2m.gif 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Solarcells2m.gif/180px-Solarcells2m.gif 2x" data-file-width="350" data-file-height="350" /></a></center>
+</td>
+<td>
+<center><a href="/wiki/File:Solarcells2m.gif" class="image"><img alt="Solarcells2m.gif" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Solarcells2m.gif/90px-Solarcells2m.gif" width="90" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Solarcells2m.gif/135px-Solarcells2m.gif 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Solarcells2m.gif/180px-Solarcells2m.gif 2x" data-file-width="350" data-file-height="350" /></a></center>
+</td>
+</tr>
+<tr>
+<td colspan="4"><a href="/wiki/File:Solarcells1.gif" class="image"><img alt="Solarcells1.gif" src="//upload.wikimedia.org/wikipedia/commons/5/5a/Solarcells1.gif" width="500" height="31" data-file-width="500" data-file-height="31" /></a></td>
+</tr>
+<tr>
+<td>
+<center><a href="/wiki/File:Solarcells2m.gif" class="image"><img alt="Solarcells2m.gif" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Solarcells2m.gif/90px-Solarcells2m.gif" width="90" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Solarcells2m.gif/135px-Solarcells2m.gif 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Solarcells2m.gif/180px-Solarcells2m.gif 2x" data-file-width="350" data-file-height="350" /></a></center>
+</td>
+<td>
+<center><a href="/wiki/File:Solarcells2m.gif" class="image"><img alt="Solarcells2m.gif" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Solarcells2m.gif/90px-Solarcells2m.gif" width="90" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Solarcells2m.gif/135px-Solarcells2m.gif 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Solarcells2m.gif/180px-Solarcells2m.gif 2x" data-file-width="350" data-file-height="350" /></a></center>
+</td>
+<td>
+<center><a href="/wiki/File:Solarcells2m.gif" class="image"><img alt="Solarcells2m.gif" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Solarcells2m.gif/90px-Solarcells2m.gif" width="90" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Solarcells2m.gif/135px-Solarcells2m.gif 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Solarcells2m.gif/180px-Solarcells2m.gif 2x" data-file-width="350" data-file-height="350" /></a></center>
+</td>
+</tr>
+<tr>
+<td colspan="4"><a href="/wiki/File:Solarcells1.gif" class="image"><img alt="Solarcells1.gif" src="//upload.wikimedia.org/wikipedia/commons/5/5a/Solarcells1.gif" width="500" height="31" data-file-width="500" data-file-height="31" /></a></td>
+</tr>
+</table>
+Fig. 2. Polymer chain with diffusing <a href="/wiki/Polaron" title="Polaron">polaron</a> surrounded by <a href="/wiki/Fullerene" title="Fullerene">fullerene</a> molecules<br /></center>
+</td>
+</tr>
+</table>
+<p>Polymer solar cells usually consist of an electron- or hole-blocking layer on top of an <a href="/wiki/Indium_tin_oxide" title="Indium tin oxide">indium tin oxide</a> (ITO) conductive glass followed by <a href="/wiki/Electron" title="Electron">electron</a> donor and an electron acceptor (in the case of bulk heterojunction solar cells), a hole or electron blocking layer, and metal <a href="/wiki/Electrode" title="Electrode">electrode</a> on top. The nature and order of the blocking layers – as well as the nature of the metal electrode – depends on whether the cell follows a regular or an inverted device architecture. In an inverted cell, the electric charges exit the device in the opposite direction as in a normal device because the positive and negative electrodes are reversed. Inverted cells can utilize cathodes out of a more suitable material; inverted OPVs enjoy longer lifetimes than regularly structured OPVs, but they typically don’t reach efficiencies as high as regular OPVs.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></p>
+<p>In bulk heterojunction polymer solar cells, light generates excitons. Subsequent charge separation in the interface between an electron donor and acceptor blend within the device’s active layer. These charges then transport to the device’s electrodes where the charges flow outside the cell, perform work and then re-enter the device on the opposite side. The cell's efficiency is limited by several factors, especially non-geminate recombination. Hole mobility leads to faster conduction across the active layer.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></p>
+<p>Organic photovoltaics are made of electron donor and electron acceptor materials rather than <a href="/wiki/Semiconductor" title="Semiconductor">semiconductor</a> <a href="/wiki/P-n_junction" class="mw-redirect" title="P-n junction">p-n junctions</a>. The molecules forming the electron donor region of <a href="/wiki/Organic_solar_cells" class="mw-redirect" title="Organic solar cells">organic PV cells</a>, where <a href="/wiki/Exciton" title="Exciton">exciton</a> electron-hole pairs are generated, are generally conjugated polymers possessing <a href="/wiki/Delocalized" class="mw-redirect" title="Delocalized">delocalized</a> <a href="/wiki/Pi_bond" title="Pi bond">π electrons</a> that result from carbon p orbital hybridization. These π electrons can be excited by light in or near the visible part of the spectrum from the molecule's <a href="/wiki/Highest_occupied_molecular_orbital" class="mw-redirect" title="Highest occupied molecular orbital">highest occupied molecular orbital</a> (HOMO) to the <a href="/wiki/Lowest_unoccupied_molecular_orbital" class="mw-redirect" title="Lowest unoccupied molecular orbital">lowest unoccupied molecular orbital</a> (LUMO), denoted by a π -π* transition. The energy bandgap between these orbitals determines which <a href="/wiki/Wavelength_of_light" class="mw-redirect" title="Wavelength of light">wavelength(s) of light</a> can be <a href="/wiki/Absorption_(electromagnetic_radiation)" title="Absorption (electromagnetic radiation)">absorbed</a>.</p>
+<p>Unlike in an inorganic <a href="/wiki/Crystalline_PV_cell" class="mw-redirect" title="Crystalline PV cell">crystalline PV cell</a> material, with its band structure and delocalized electrons, excitons in organic photovoltaics are strongly bound with an energy between 0.1 and 1.4 <a href="/wiki/Electronvolt" title="Electronvolt">eV</a>. This strong binding occurs because electronic wave functions in organic molecules are more localized, and electrostatic attraction can thus keep the electron and hole together as an exciton. The electron and hole can be dissociated by providing an interface across which the chemical potential of electrons decreases. The material that absorbs the photon is the donor, and the material acquiring the electron is called the acceptor. In Fig. 2, the polymer chain is the donor and the <a href="/wiki/Fullerene" title="Fullerene">fullerene</a> is the acceptor. Even after dissociation, the electron and hole may still be joined as a "geminate pair", and an <a href="/wiki/Electric_field" title="Electric field">electric field</a> is then required to separate them. The electron and hole must be collected at contacts. If <a href="/wiki/Charge_carrier" title="Charge carrier">charge carrier</a> mobility is insufficient, the carriers will not reach the contacts, and instead recombine at trap sites or remain in the device as undesirable space charges that oppose the flow of new carriers. The latter problem can occur if electron and hole mobilities are not matched. In that case, space-charge limited photocurrent (SCLP) hampers device performance.</p>
+<p>Organic photovoltaics can be fabricated with an active polymer and a fullerene-based electron acceptor. Illumination of this system by visible light leads to electron transfer from the polymer to a fullerene molecule. As a result, the formation of a photoinduced <a href="/wiki/Quasiparticle" title="Quasiparticle">quasiparticle</a>, or <a href="/wiki/Polaron" title="Polaron">polaron</a> (P<sup>+</sup>), occurs on the polymer chain and the fullerene becomes a radical <a href="/wiki/Anion" class="mw-redirect" title="Anion">anion</a> (<a href="/wiki/C60_fullerene" class="mw-redirect" title="C60 fullerene">C<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left">−<br />
+60</span></a>). Polarons are highly mobile and can diffuse away.</p>
+<h2><span class="mw-headline" id="Architectures">Architectures</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Polymer_solar_cell&amp;action=edit&amp;section=2" title="Edit section: Architectures">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The simplest organic PV device features a <a href="/wiki/Plane_(geometry)" title="Plane (geometry)">planar</a> <a href="/wiki/Heterojunction" title="Heterojunction">heterojunction</a> (figure 1). A film of active polymer (donor) and a film of electron acceptor is sandwiched between contacts. Excitons created in the donor region may diffuse to the junction and separate, with the hole remaining behind and the electron passing into the acceptor. Because charge carriers have diffusion lengths of just 3–10&#160;nm in typical <a href="/wiki/Organic_semiconductor" title="Organic semiconductor">organic semiconductors</a>, planar cells must be thin, but the thin cells absorb light less well. Bulk heterojunctions (BHJs) address this shortcoming. In a BHJ, a blend of electron donor and acceptor materials is cast as a mixture, which then phase-separates. Regions of each material in the device are separated by only several nanometers, a distance suited for carrier diffusion. BHJs require sensitive control over materials morphology on the nanoscale. Important variables include materials, solvents and the donor-acceptor weight ratio.</p>
+<p>The next logical step beyond BHJs are ordered nanomaterials for solar cells, or ordered heterojunctions (OHJs). OHJs minimize the variability associated with BHJs. OHJs are generally hybrids of ordered inorganic materials and organic active regions. For example, a photovoltaic polymer can be deposited into pores in a <a href="/wiki/Ceramic" title="Ceramic">ceramic</a> such as <a href="/wiki/Rutile" title="Rutile">TiO<sub>2</sub></a>. Since holes still must diffuse the length of the pore through the polymer to a contact, OHJs suffer similar thickness limitations. Mitigating the hole mobility bottleneck is key to further enhancing device performance of OHJ's.</p>
+<h2><span class="mw-headline" id="Active_layer_deposition_and_annealing_process">Active layer deposition and annealing process</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Polymer_solar_cell&amp;action=edit&amp;section=3" title="Edit section: Active layer deposition and annealing process">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Since its active layer largely determines device efficiency, this component's morphology received much attention.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></p>
+<p>If one material is more soluble in the solvent than the other, it will deposit first on top of the <a href="/wiki/Substrate_(materials_science)" class="mw-redirect" title="Substrate (materials science)">substrate</a>, causing a concentration gradient through the film. This has been demonstrated for poly-3-hexyl thiophene (P3HT), phenyl-C<sub>61</sub>-butyric acid methyl ester (<a href="/wiki/PCBM" class="mw-redirect" title="PCBM">PCBM</a>) devices where the PCBM tends to accumulate towards the device's bottom upon <a href="/wiki/Spin_coating" title="Spin coating">spin coating</a> from ODCB solutions.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> This effect is seen because the more soluble component tends to migrate towards the “solvent rich” phase during the coating procedure, accumulating the more soluble component towards the film's bottom, where the solvent remains longer. The thickness of the generated film affects the phases segregation because the dynamics of crystallization and precipitation are different for more concentrated solutions or faster evaporation rates (needed to build thicker devices). Crystalline <a href="/wiki/P3HT" class="mw-redirect" title="P3HT">P3HT</a> enrichment closer to the hole-collecting electrode can only be achieved for relatively thin (100&#160;nm) P3HT/PCBM layers.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></p>
+<p>The gradients in the initial morphology are then mainly generated by the solvent evaporation rate and the differences in solubility between the donor and acceptor inside the blend. This dependence on solubility has been clearly demonstrated using fullerene derivatives and P3HT.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> When using solvents which evaporate at a slower rate (as <a href="/wiki/Chlorobenzene" title="Chlorobenzene">chlorobenzene</a> (CB) or <a href="/wiki/Dichlorobenzene" title="Dichlorobenzene">dichlorobenzene</a> (DCB)) you can get larger degrees of vertical separation or aggregation while solvents that evaporate quicker produce a much less effective vertical separation. Larger solubility gradients should lead to more effective vertical separation while smaller gradients should lead to more homogeneous films. These two effects were verified on P3HT:PCBM solar cells.<sup id="cite_ref-j1_13-0" class="reference"><a href="#cite_note-j1-13">[13]</a></sup><sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup></p>
+<p>The solvent evaporation speed as well as posterior solvent vapor or thermal annealing procedures were also studied.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup> Blends such as P3HT:PCBM seem to benefit from thermal annealing procedures, while others, such as PTB7:PCBM, seem to show no benefit.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup> In P3HT the benefit seems to come from an increase of crystallinity of the P3HT phase which is generated through an expulsion of PCBM molecules from within these domains. This has been demonstrated through studies of PCBM <a href="/wiki/Miscibility" title="Miscibility">miscibility</a> in P3HT as well as domain composition changes as a function of annealing times.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup><sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup><sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup></p>
+<p>The above hypothesis based on miscibility does not fully explain the efficiency of the devices as solely pure amorphous phases of either donor or acceptor materials never exist within bulk heterojunction devices. A 2010 paper<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup> suggested that current models that assume pure phases and discrete interfaces might fail given the absence of pure amorphous regions. Since current models assume phase separation at interfaces without any consideration for phase purity, the models might need to be changed.</p>
+<p>The thermal annealing procedure varies depending on precisely when it is applied. Since vertical species migration is partly determined by the <a href="/wiki/Surface_tension" title="Surface tension">surface tension</a> between the active layer and either air or another layer, annealing before or after the deposition of additional layers (most often the metal cathode) affects the result. In the case of P3HT:PCBM solar cells vertical migration is improved when cells are annealed after the deposition of the metal cathode.</p>
+<p>Donor or acceptor accumulation next to the adjacent layers might be beneficial as these accumulations can lead to hole or electron blocking effects which might benefit device performance. In 2009 the difference in vertical distribution on P3HT:PCBM solar cells was shown to cause problems with electron mobility which ends up with the yielding of very poor device efficiencies.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup> Simple changes to device architecture – spin coating a thin layer of PCBM on top of the P3HT – greatly enhance cell reproducibility, by providing reproducible vertical separation between device components. Since higher contact between the PCBM and the cathode is required for better efficiencies, this largely increases device reproducibility.</p>
+<p>According to neutron scattering analysis, P3HT:PCBM blends have been described as “rivers" (P3HT regions) interrupted by “streams” (PCBM regions).<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup></p>
+<h2><span class="mw-headline" id="Solvent_effects">Solvent effects</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Polymer_solar_cell&amp;action=edit&amp;section=4" title="Edit section: Solvent effects">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Conditions for spin coating and evaporation affect device efficiency.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup><sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup> Solvent and additives influence donor-acceptor morphology.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup> Additives slow down evaporation, leading to more crystalline polymers and thus improved hole conductivities and efficiencies. Typical additives include 1,8-octanedithiol, <a href="/wiki/Ortho-dichlorobenzene" class="mw-redirect" title="Ortho-dichlorobenzene">ortho-dichlorobenzene</a>, 1,8-diiodooctane (DIO), and <a href="/wiki/Nitrobenzene" title="Nitrobenzene">nitrobenzene</a>.<sup id="cite_ref-j1_13-1" class="reference"><a href="#cite_note-j1-13">[13]</a></sup><sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup><sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[27]</a></sup><sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[28]</a></sup> The DIO effect was attributed to the selective solubilization of PCBM components, modifies fundamentally the average hopping distance of electrons, and thus improves electron mobility.<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">[29]</a></sup> Additives can also lead to big increases in efficiency for polymers.<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">[30]</a></sup> For HXS-1/PCBM solar cells, the effect was correlated with charge generation, transport and shelf-stability.<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">[31]</a></sup> Other polymers such as PTTBO also benefit significantly from DIO, achieving PCE values of more than 5% from around 3.7% without the additive.</p>
+<p>Polymer Solar Cells fabricated from chloronaphthalene (CN) as a co-solvent enjoy a higher efficiency than those fabricated from the more conventional pure chlorobenzene solution. This is because the donor-acceptor morphology changes, which reduces the phase separation between donor polymer and fullerene. As a result, this translates into high hole mobilities. Without co-solvents, large domains of fullerene form, decreasing photovoltaic performance of the cell due to polymer aggregation in solution. This morphology originates from the liquid-liquid phase separation during drying; solve evaporation causes the mixture to enter into the spinodal region, in which there are significant thermal fluctuations. Large domains prevent electrons from being collected efficiently (decreasing PCE).<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">[32]</a></sup></p>
+<p>Small differences in polymer structure can also lead to significant changes in crystal packing that inevitably affect device morphology. PCPDTBT differs from PSBTBT caused by the difference in bridging atom between the two polymers (C vs. Si), which implies that better morphologies are achievable with PCPDTBT:PCBM solar cells containing additives as opposed to the Si system which achieves good morphologies without help from additional substances.<sup id="cite_ref-33" class="reference"><a href="#cite_note-33">[33]</a></sup></p>
+<h2><span class="mw-headline" id="Self-assembled_cells">Self-assembled cells</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Polymer_solar_cell&amp;action=edit&amp;section=5" title="Edit section: Self-assembled cells">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Supramolecular_chemistry" title="Supramolecular chemistry">Supramolecular chemistry</a> was investigated, using donor and acceptor molecules that assemble upon spin casting and heating. Most supramolecular assemblies employ small molecules.<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">[34]</a></sup><sup id="cite_ref-35" class="reference"><a href="#cite_note-35">[35]</a></sup> Donor and acceptor domains in a tubular structure appear ideal for organic solar cells.<sup id="cite_ref-36" class="reference"><a href="#cite_note-36">[36]</a></sup></p>
+<p>Diblock polymers containing fullerene yield stable organic solar cells upon thermal annealing.<sup id="cite_ref-37" class="reference"><a href="#cite_note-37">[37]</a></sup> Solar cells with pre-designed morphologies resulted when appropriate supramolecular interactions are introduced.<sup id="cite_ref-38" class="reference"><a href="#cite_note-38">[38]</a></sup></p>
+<p>Progress on BCPs containing <a href="/wiki/Polythiophene" title="Polythiophene">polythiophene</a> derivatives yield solar cells that assemble into well defined networks.<sup id="cite_ref-39" class="reference"><a href="#cite_note-39">[39]</a></sup> This system exhibits a PCE of 2.04%. <a href="/wiki/Hydrogen_bond" title="Hydrogen bond">Hydrogen bonding</a> guides the morphology.</p>
+<p>Device efficiency based on co-polymer approaches have yet to cross the 2% barrier, whereas bulk-heterojunction devices exhibit efficiencies &gt;7% in single junction configurations.<sup id="cite_ref-40" class="reference"><a href="#cite_note-40">[40]</a></sup></p>
+<p>Fullerene-grafted rod-coil <a href="/wiki/Block_copolymer" class="mw-redirect" title="Block copolymer">block copolymer</a>s have been used to study domain organization.<sup id="cite_ref-41" class="reference"><a href="#cite_note-41">[41]</a></sup></p>
+<p>Supramolecular approaches to organic solar cells provide understanding about the macromolecular forces that drive domain separation.</p>
+<h2><span class="mw-headline" id="Infrared_polymer_cells">Infrared polymer cells</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Polymer_solar_cell&amp;action=edit&amp;section=6" title="Edit section: Infrared polymer cells">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Infrared cells preferentially absorb light in the <a href="/wiki/Infrared" title="Infrared">infrared</a> range rather than visible wavelengths. As of 2012, such cells can be made nearly 70% transparent to visible light. The cells allegedly can be made in high volume at low cost using solution processing. Infrared polymer cells can be used as add-on components of portable electronics, smart windows, and building-integrated photovoltaics.The cells employ silver <a href="/wiki/Nanowire" title="Nanowire">nanowire</a>/<a href="/wiki/Titanium_dioxide" title="Titanium dioxide">titanium dioxide</a> composite films as the top <a href="/wiki/Electrode" title="Electrode">electrode</a>, replacing conventional opaque metal electrodes. With this combination, 4% power-conversion efficiency was achieved.<sup id="cite_ref-42" class="reference"><a href="#cite_note-42">[42]</a></sup></p>
+<p>Near-infrared Polymer solar cells based on a copolymer of naphthodithiophene diimide and bithiophene (PNDTI-BT-DT) are also being fabricated in combination with PTB7 as an electron donor. Both PNDTI-BT-DT and PTB7 formed a crystalline structure in the blend films similar to in the pristine films, leading to the efficient charge generation contributed from both polymers.<sup id="cite_ref-43" class="reference"><a href="#cite_note-43">[43]</a></sup></p>
+<h2><span class="mw-headline" id="Power_Conversion_Efficiency">Power Conversion Efficiency</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Polymer_solar_cell&amp;action=edit&amp;section=7" title="Edit section: Power Conversion Efficiency">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>One of the major issues surrounding polymer solar cells is the low <a href="/wiki/Solar_cell_efficiency" title="Solar cell efficiency">Power Conversion Efficiency</a> (PCE) of fabricated cells. In order to be considered commercial viable, PSCs must be able to achieve at least 10–15% efficiency—this is already much lower than inorganic PVs. However, due to the low cost of polymer solar cells, a 10–15% efficiency is commercially viable.</p>
+<p>PCE (η) is proportional to the product of the <a href="/wiki/Short-circuit_current" class="mw-redirect" title="Short-circuit current">short-circuit current</a> (J<sub>SC</sub>), the <a href="/wiki/Open_circuit_voltage" class="mw-redirect" title="Open circuit voltage">open circuit voltage</a> (V<sub>OC</sub>), and the <a href="/wiki/Fill_factor_(solar_cell)" class="mw-redirect" title="Fill factor (solar cell)">fill factor</a> (FF).</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>&#x03B7;<!-- η --></mi>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <msub>
+                <mi>V</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi>O</mi>
+                  <mi>C</mi>
+                </mrow>
+              </msub>
+              <mo>&#x00D7;<!-- × --></mo>
+              <msub>
+                <mi>J</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi>S</mi>
+                  <mi>C</mi>
+                </mrow>
+              </msub>
+              <mo>&#x00D7;<!-- × --></mo>
+              <mi>F</mi>
+              <mi>F</mi>
+            </mrow>
+            <msub>
+              <mi>P</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi>i</mi>
+                <mi>n</mi>
+              </mrow>
+            </msub>
+          </mfrac>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \eta ={\frac {V_{OC}\times J_{SC}\times FF}{P_{in}}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f67b036f7229efa8e4ebd47caf7001541e0bcc76" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.338ex; width:22.301ex; height:5.843ex;" alt="\eta = \frac{V_{OC} \times J_{SC} \times FF}{P_{in}}" /></span></p>
+<p>Where P<sub>in</sub> is the incident solar power. Recent advances in polymer solar cell performance have resulted from compressing the bandgap to enhance short-circuit current while lowering the Highest Occupied Molecular Orbital (HOMO) to increase open-circuit voltage. However, PSCs still suffer from low fill factors (typically below 70%). However, as of 2013, researchers have been able to fabricate PSCs with fill factors of over 75%. Scientists have been able to accomplish via an inverted BHJ and by using nonconventional donor / acceptor combinations.<sup id="cite_ref-ReferenceB_44-0" class="reference"><a href="#cite_note-ReferenceB-44">[44]</a></sup></p>
+<h2><span class="mw-headline" id="Commercialization">Commercialization</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Polymer_solar_cell&amp;action=edit&amp;section=8" title="Edit section: Commercialization">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:302px;"><a href="/wiki/File:Polymer_solar_cells_publications_by_year.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/25/Polymer_solar_cells_publications_by_year.jpg/300px-Polymer_solar_cells_publications_by_year.jpg" width="300" height="218" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/25/Polymer_solar_cells_publications_by_year.jpg/450px-Polymer_solar_cells_publications_by_year.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/25/Polymer_solar_cells_publications_by_year.jpg/600px-Polymer_solar_cells_publications_by_year.jpg 2x" data-file-width="911" data-file-height="662" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Polymer_solar_cells_publications_by_year.jpg" class="internal" title="Enlarge"></a></div>
+Number of scientific publications contributing to the subject “polymer solar cell(s)” by year. Search done through ISI, <a href="/wiki/Web_of_Science" title="Web of Science">Web of Science</a>.<sup id="cite_ref-45" class="reference"><a href="#cite_note-45">[45]</a></sup></div>
+</div>
+</div>
+<p>Polymer solar cells have yet to commercially compete with <a href="/wiki/Silicon_solar_cell" class="mw-redirect" title="Silicon solar cell">silicon solar cells</a> and other <a href="/wiki/Thin-film_cell" class="mw-redirect" title="Thin-film cell">thin-film cells</a>. The present efficiency of polymer solar cells lies near 10%, well below silicon cells. Polymer solar cells also suffer from environmental degradation, lacking effective protective <a href="/wiki/Coating" title="Coating">coatings</a>.</p>
+<p>Further improvements in performance are needed to promote charge carrier diffusion; transport must be enhanced through control of order and morphology; and interface engineering must be applied to the problem of charge transfer across interfaces.</p>
+<p>Research is being conducted into using tandem architecture in order to increase efficiency of polymer solar cells. Similar to inorganic tandem architecture, organic tandem architecture is expected to increase efficiency. Compared with a single-junction device using low-bandgap materials, the tandem structure can reduce heat loss during photon-to-electron conversion.<sup id="cite_ref-ReferenceA_5-1" class="reference"><a href="#cite_note-ReferenceA-5">[5]</a></sup></p>
+<p>Polymer solar cells are not widely produced commercially. Starting in 2008, <a href="/wiki/Konarka_Technologies" title="Konarka Technologies">Konarka Technologies</a> started production of polymer-fullerene solar cells.<sup id="cite_ref-TR_46-0" class="reference"><a href="#cite_note-TR-46">[46]</a></sup> The initial modules were 3–5% efficient, and only last for a few years. Konarka has since filed for bankruptcy, as those polymer solar cells were unable to penetrate the PV market.</p>
+<p>PSCs also still suffer from low fill factors (typically below 70%). However, as of 2013, researchers have been able to fabricate PSCs with fill factors of over 75%. Scientists have been able to accomplish via an inverted BHJ and by using nonconventional donor / acceptor combinations.<sup id="cite_ref-ReferenceB_44-1" class="reference"><a href="#cite_note-ReferenceB-44">[44]</a></sup></p>
+<p>However, efforts are being made to upscale manufacturing of polymer solar cells, in order to decrease costs and also advocate for a practical approach for PSC production. Such efforts include full roll-to-roll solution processing. However, roll-to-roll solution processing is ill-suited for on-grid electricity production due to the short lifetime of polymer solar cells. Therefore, commercial applications for polymer solar cells still include primarily consumer electronics and home appliances.<sup id="cite_ref-47" class="reference"><a href="#cite_note-47">[47]</a></sup></p>
+<h2><span class="mw-headline" id="Modeling_organic_solar_cells">Modeling organic solar cells</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Polymer_solar_cell&amp;action=edit&amp;section=9" title="Edit section: Modeling organic solar cells">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>As discussed above, organic semiconductors are highly disordered materials with no long range order. This means that the conduction band and valance band edges are not well defined. Furthermore, this physical and energetic disorder generates trap states in which photogenerated electrons and holes can become trapped and then eventually recombine.</p>
+<p>Key to accurately describing organic solar cells in a device model is to include carrier trapping and recombination via trap states. A commonly used approach is to use an effective medium model, where by standard drift diffusion equations are used to describe transport across the device. Then, an exponential tail of trap states is introduced which decays into the band gap from the mobility edges.<sup id="cite_ref-mackenzie_48-0" class="reference"><a href="#cite_note-mackenzie-48">[48]</a></sup> To describe capture/escape from these trap states the <a href="/wiki/Carrier_generation_and_recombination#Shockley.E2.80.93Read.E2.80.93Hall_.28SRH.29_process" title="Carrier generation and recombination">Shockley–Read–Hall (SRH)</a> can be used. The Shockley-Read-Hall mechanism has been shown able to reproduce polymer:fullerene device behavior in both time domain and steady state.<sup id="cite_ref-mackenzie_48-1" class="reference"><a href="#cite_note-mackenzie-48">[48]</a></sup></p>
+<h2><span class="mw-headline" id="Other_third-generation_solar_cells">Other third-generation solar cells</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Polymer_solar_cell&amp;action=edit&amp;section=10" title="Edit section: Other third-generation solar cells">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Dye-sensitized_solar_cell" title="Dye-sensitized solar cell">Dye-sensitized solar cell</a></li>
+<li><a href="/wiki/Hybrid_solar_cell" title="Hybrid solar cell">Hybrid solar cell</a></li>
+<li><a href="/wiki/Nanocrystal_solar_cell" title="Nanocrystal solar cell">Nanocrystal solar cell</a></li>
+<li><a href="/wiki/Photoelectrochemical_cell" title="Photoelectrochemical cell">Photoelectrochemical cell</a></li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Polymer_solar_cell&amp;action=edit&amp;section=11" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a href="/wiki/File:Wind-turbine-icon.svg" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/28px-Wind-turbine-icon.svg.png" width="28" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/42px-Wind-turbine-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/56px-Wind-turbine-icon.svg.png 2x" data-file-width="128" data-file-height="128" /></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Renewable_energy" title="Portal:Renewable energy">Renewable energy portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a href="/wiki/File:Crystal_energy.svg" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/29px-Crystal_energy.svg.png" width="29" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/44px-Crystal_energy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/59px-Crystal_energy.svg.png 2x" data-file-width="130" data-file-height="124" /></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Energy" title="Portal:Energy">Energy portal</a></span></li>
+</ul>
+</div>
+<ul>
+<li><a href="/wiki/Layer_(electronics)" title="Layer (electronics)">Layer (electronics)</a></li>
+<li><a href="/wiki/Solar_Energy_Materials_and_Solar_Cells" title="Solar Energy Materials and Solar Cells">Solar Energy Materials and Solar Cells</a> (journal)</li>
+<li><a href="/wiki/Substrate_(materials_science)" class="mw-redirect" title="Substrate (materials science)">Substrate</a></li>
+<li><a href="/wiki/Fullerene" title="Fullerene">Fullerene</a></li>
+<li><a href="/wiki/Polymer-fullerene_bulk_heterojunction_solar_cells" title="Polymer-fullerene bulk heterojunction solar cells">Polymer-fullerene bulk heterojunction solar cells</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Polymer_solar_cell&amp;action=edit&amp;section=12" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Joachim Luther, Michael Nast, M. Norbert Fisch, Dirk Christoffers, Fritz Pfisterer, Dieter Meissner, Joachim Nitsch "Solar Technology" 2002, Wiley-VCH, 2008 Weinheim. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1002%2F14356007.a24_369">10.1002/14356007.a24_369</a></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation journal">Jørgensen, M., K. Norrman, and F.C. Krebs (2008). "Stability/degradation of polymer solar cells". <i>Solar Energy Materials and Solar Cells</i>. <b>92</b> (7): 686. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2Fj.solmat.2008.01.005">10.1016/j.solmat.2008.01.005</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APolymer+solar+cell&amp;rft.atitle=Stability%2Fdegradation+of+polymer+solar+cells&amp;rft.au=J%C3%B8rgensen%2C+M.%2C+K.+Norrman%2C+and+F.C.+Krebs&amp;rft.date=2008&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2Fj.solmat.2008.01.005&amp;rft.issue=7&amp;rft.jtitle=Solar+Energy+Materials+and+Solar+Cells&amp;rft.pages=686&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=92" class="Z3988"><span style="display:none;">&#160;</span></span> <span class="citation-comment" style="display:none; color:#33aa33">CS1 maint: Multiple names: authors list (<a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">link</a>)</span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation journal">Po, Riccardo; Carbonera, Chiara; Bernardi, Andrea; Tinti, Francesca; Camaioni, Nadia (2012). "Polymer- and carbon-based electrodes for polymer solar cells: Toward low-cost, continuous fabrication over large area". <i>Solar Energy Materials and Solar Cells</i>. <b>100</b>: 97. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2Fj.solmat.2011.12.022">10.1016/j.solmat.2011.12.022</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APolymer+solar+cell&amp;rft.atitle=Polymer-+and+carbon-based+electrodes+for+polymer+solar+cells%3A+Toward+low-cost%2C+continuous+fabrication+over+large+area&amp;rft.au=Bernardi%2C+Andrea&amp;rft.au=Camaioni%2C+Nadia&amp;rft.au=Carbonera%2C+Chiara&amp;rft.aufirst=Riccardo&amp;rft.aulast=Po&amp;rft.au=Tinti%2C+Francesca&amp;rft.date=2012&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2Fj.solmat.2011.12.022&amp;rft.jtitle=Solar+Energy+Materials+and+Solar+Cells&amp;rft.pages=97&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=100" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation journal">Scharber, M. C.; Mühlbacher, D.; Koppe, M.; Denk, P.; Waldauf, C.; Heeger, A. J.; Brabec, C. J. (2006). <a rel="nofollow" class="external text" href="http://home.dei.polimi.it/sampietr/ESO/2006brabec.pdf">"Design Rules for Donors in Bulk-Heterojunction Solar Cells—Towards 10 % Energy-Conversion Efficiency"</a> <span style="font-size:85%;">(PDF)</span>. <i>Advanced Materials</i>. <b>18</b> (6): 789. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1002%2Fadma.200501717">10.1002/adma.200501717</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APolymer+solar+cell&amp;rft.atitle=Design+Rules+for+Donors+in+Bulk-Heterojunction+Solar+Cells%94Towards+10%89%25+Energy-Conversion+Efficiency&amp;rft.au=Brabec%2C+C.%89J.&amp;rft.au=Denk%2C+P.&amp;rft.aufirst=M.%89C.&amp;rft.au=Heeger%2C+A.%89J.&amp;rft.au=Koppe%2C+M.&amp;rft.aulast=Scharber&amp;rft.au=M%C3%BChlbacher%2C+D.&amp;rft.au=Waldauf%2C+C.&amp;rft.date=2006&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fhome.dei.polimi.it%2Fsampietr%2FESO%2F2006brabec.pdf&amp;rft_id=info%3Adoi%2F10.1002%2Fadma.200501717&amp;rft.issue=6&amp;rft.jtitle=Advanced+Materials&amp;rft.pages=789&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=18" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-ReferenceA-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-ReferenceA_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-ReferenceA_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">You, Jingbi; Dou, Letian; Yoshimura, Ken; Kato, Takehito; Ohya, Kenichiro; Moriarty, Tom; Emery, Keith; Chen, Chun-Chao (5 February 2013). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC3660643">"A polymer tandem solar cell with 10.6% power conversion efficiency"</a>. <i>Nature Communications</i>. <b>4</b>: 1446. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2013NatCo...4E1446Y">2013NatCo...4E1446Y</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1038%2Fncomms2411">10.1038/ncomms2411</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<span class="plainlinks"><a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC3660643">3660643</a><span style="margin-left:0.1em"><img alt="Freely accessible" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" title="Freely accessible" width="9" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" data-file-width="512" data-file-height="813" /></span></span>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/23385590">23385590</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APolymer+solar+cell&amp;rft.atitle=A+polymer+tandem+solar+cell+with+10.6%25+power+conversion+efficiency&amp;rft.au=Chen%2C+Chun-Chao&amp;rft.au=Dou%2C+Letian&amp;rft.au=Emery%2C+Keith&amp;rft.aufirst=Jingbi&amp;rft.au=Kato%2C+Takehito&amp;rft.aulast=You&amp;rft.au=Moriarty%2C+Tom&amp;rft.au=Ohya%2C+Kenichiro&amp;rft.au=Yoshimura%2C+Ken&amp;rft.date=2013-02-05&amp;rft.genre=article&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC3660643&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC3660643&amp;rft_id=info%3Abibcode%2F2013NatCo...4E1446Y&amp;rft_id=info%3Adoi%2F10.1038%2Fncomms2411&amp;rft_id=info%3Apmid%2F23385590&amp;rft.jtitle=Nature+Communications&amp;rft.pages=1446&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=4" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web">Zyga, Lisa. <a rel="nofollow" class="external text" href="http://phys.org/news/2012-08-inverted-polymer-solar-cell-efficiency.html">"Inverted polymer solar cell efficiency sets world record"</a>. <i>Phys.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">18 February</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APolymer+solar+cell&amp;rft.atitle=Inverted+polymer+solar+cell+efficiency+sets+world+record&amp;rft.aufirst=Lisa&amp;rft.aulast=Zyga&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fphys.org%2Fnews%2F2012-08-inverted-polymer-solar-cell-efficiency.html&amp;rft.jtitle=Phys.org&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation journal">Pivrikas, A.; <a href="/wiki/Niyazi_Serdar_Sar%C4%B1%C3%A7ift%C3%A7i" title="Niyazi Serdar Sarıçiftçi">Sarıçiftçi</a>, N. S.; Juška, G.; Österbacka, R. (2007). <a rel="nofollow" class="external text" href="http://www.ipc.uni-linz.ac.at/publ/2007/2007-024.pdf">"A review of charge transport and recombination in polymer/fullerene organic solar cells"</a> <span style="font-size:85%;">(PDF)</span>. <i>Progress in Photovoltaics: Research and Applications</i>. <b>15</b> (8): 677. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1002%2Fpip.791">10.1002/pip.791</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APolymer+solar+cell&amp;rft.atitle=A+review+of+charge+transport+and+recombination+in+polymer%2Ffullerene+organic+solar+cells&amp;rft.au=%C3%96sterbacka%2C+R.&amp;rft.aufirst=A.&amp;rft.au=Ju%C5%A1ka%2C+G.&amp;rft.aulast=Pivrikas&amp;rft.au=Sar%C4%B1%C3%A7ift%C3%A7i%2C+N.+S.&amp;rft.date=2007&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.ipc.uni-linz.ac.at%2Fpubl%2F2007%2F2007-024.pdf&amp;rft_id=info%3Adoi%2F10.1002%2Fpip.791&amp;rft.issue=8&amp;rft.jtitle=Progress+in+Photovoltaics%3A+Research+and+Applications&amp;rft.pages=677&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=15" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation journal">Tessler, Nir; Preezant, Yevgeni; Rappaport, Noam; Roichman, Yohai (2009). <a rel="nofollow" class="external text" href="http://physics.usask.ca/~chang/course/phys404/Hopping_Theory.pdf">"Charge Transport in Disordered Organic Materials and Its Relevance to Thin-Film Devices: A Tutorial Review"</a> <span style="font-size:85%;">(PDF)</span>. <i>Advanced Materials</i>. <b>21</b> (27): 2741. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1002%2Fadma.200803541">10.1002/adma.200803541</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APolymer+solar+cell&amp;rft.atitle=Charge+Transport+in+Disordered+Organic+Materials+and+Its+Relevance+to+Thin-Film+Devices%3A+A+Tutorial+Review&amp;rft.aufirst=Nir&amp;rft.aulast=Tessler&amp;rft.au=Preezant%2C+Yevgeni&amp;rft.au=Rappaport%2C+Noam&amp;rft.au=Roichman%2C+Yohai&amp;rft.date=2009&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fphysics.usask.ca%2F~chang%2Fcourse%2Fphys404%2FHopping_Theory.pdf&amp;rft_id=info%3Adoi%2F10.1002%2Fadma.200803541&amp;rft.issue=27&amp;rft.jtitle=Advanced+Materials&amp;rft.pages=2741&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=21" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation journal">Clarke, Tracey M.; Ballantyne, Amy M.; Nelson, Jenny; Bradley, Donal D. C.; Durrant, James R. (2008). "Free Energy Control of Charge Photogeneration in Polythiophene/Fullerene Solar Cells: The Influence of Thermal Annealing on P3HT/PCBM Blends". <i>Advanced Functional Materials</i>. <b>18</b> (24): 4029. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1002%2Fadfm.200800727">10.1002/adfm.200800727</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APolymer+solar+cell&amp;rft.atitle=Free+Energy+Control+of+Charge+Photogeneration+in+Polythiophene%2FFullerene+Solar+Cells%3A+The+Influence+of+Thermal+Annealing+on+P3HT%2FPCBM+Blends&amp;rft.au=Ballantyne%2C+Amy+M.&amp;rft.au=Bradley%2C+Donal+D.+C.&amp;rft.au=Durrant%2C+James+R.&amp;rft.aufirst=Tracey+M.&amp;rft.aulast=Clarke&amp;rft.au=Nelson%2C+Jenny&amp;rft.date=2008&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1002%2Fadfm.200800727&amp;rft.issue=24&amp;rft.jtitle=Advanced+Functional+Materials&amp;rft.pages=4029&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=18" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation journal">Xu, Zheng; Chen, Li-Min; Yang, Guanwen; Huang, Chun-Hao; Hou, Jianhui; Wu, Yue; Li, Gang; Hsu, Chain-Shu; Yang, Yang (2009). <a rel="nofollow" class="external text" href="http://yylab.seas.ucla.edu/papers/vps.pdf">"Vertical Phase Separation in Poly(3-hexylthiophene): Fullerene Derivative Blends and its Advantage for Inverted Structure Solar Cells"</a> <span style="font-size:85%;">(PDF)</span>. <i>Advanced Functional Materials</i>. <b>19</b> (8): 1227. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1002%2Fadfm.200801286">10.1002/adfm.200801286</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APolymer+solar+cell&amp;rft.atitle=Vertical+Phase+Separation+in+Poly%283-hexylthiophene%29%3A+Fullerene+Derivative+Blends+and+its+Advantage+for+Inverted+Structure+Solar+Cells&amp;rft.au=Chen%2C+Li-Min&amp;rft.aufirst=Zheng&amp;rft.au=Hou%2C+Jianhui&amp;rft.au=Hsu%2C+Chain-Shu&amp;rft.au=Huang%2C+Chun-Hao&amp;rft.aulast=Xu&amp;rft.au=Li%2C+Gang&amp;rft.au=Wu%2C+Yue&amp;rft.au=Yang%2C+Guanwen&amp;rft.au=Yang%2C+Yang&amp;rft.date=2009&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fyylab.seas.ucla.edu%2Fpapers%2Fvps.pdf&amp;rft_id=info%3Adoi%2F10.1002%2Fadfm.200801286&amp;rft.issue=8&amp;rft.jtitle=Advanced+Functional+Materials&amp;rft.pages=1227&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=19" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation journal">Van Bavel, Svetlana; Sourty, Erwan; De With, Gijsbertus; Frolic, Kai; Loos, Joachim (2009). "Relation between Photoactive Layer Thickness, 3D Morphology, and Device Performance in P3HT/PCBM Bulk-Heterojunction Solar Cells". <i>Macromolecules</i>. <b>42</b> (19): 7396. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1021%2Fma900817t">10.1021/ma900817t</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APolymer+solar+cell&amp;rft.atitle=Relation+between+Photoactive+Layer+Thickness%2C+3D+Morphology%2C+and+Device+Performance+in+P3HT%2FPCBM+Bulk-Heterojunction+Solar+Cells&amp;rft.au=De+With%2C+Gijsbertus&amp;rft.aufirst=Svetlana&amp;rft.au=Frolic%2C+Kai&amp;rft.aulast=Van+Bavel&amp;rft.au=Loos%2C+Joachim&amp;rft.au=Sourty%2C+Erwan&amp;rft.date=2009&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1021%2Fma900817t&amp;rft.issue=19&amp;rft.jtitle=Macromolecules&amp;rft.pages=7396&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=42" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation journal">Troshin, Pavel A.; Hoppe, Harald; Renz, Joachim; Egginger, Martin; Mayorova, Julia Yu.; Goryachev, Andrey E.; Peregudov, Alexander S.; Lyubovskaya, Rimma N.; Gobsch, Gerhard; Sariciftci, N. Serdar; Razumov, Vladimir F. (2009). <a rel="nofollow" class="external text" href="http://www.ipc.uni-linz.ac.at/Publications/2009/2009-003.pdf">"Material Solubility-Photovoltaic Performance Relationship in the Design of Novel Fullerene Derivatives for Bulk Heterojunction Solar Cells"</a> <span style="font-size:85%;">(PDF)</span>. <i>Advanced Functional Materials</i>. <b>19</b> (5): 779. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1002%2Fadfm.200801189">10.1002/adfm.200801189</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APolymer+solar+cell&amp;rft.atitle=Material+Solubility-Photovoltaic+Performance+Relationship+in+the+Design+of+Novel+Fullerene+Derivatives+for+Bulk+Heterojunction+Solar+Cells&amp;rft.au=Egginger%2C+Martin&amp;rft.aufirst=Pavel+A.&amp;rft.au=Gobsch%2C+Gerhard&amp;rft.au=Goryachev%2C+Andrey+E.&amp;rft.au=Hoppe%2C+Harald&amp;rft.aulast=Troshin&amp;rft.au=Lyubovskaya%2C+Rimma+N.&amp;rft.au=Mayorova%2C+Julia+Yu.&amp;rft.au=Peregudov%2C+Alexander+S.&amp;rft.au=Razumov%2C+Vladimir+F.&amp;rft.au=Renz%2C+Joachim&amp;rft.au=Sariciftci%2C+N.+Serdar&amp;rft.date=2009&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.ipc.uni-linz.ac.at%2FPublications%2F2009%2F2009-003.pdf&amp;rft_id=info%3Adoi%2F10.1002%2Fadfm.200801189&amp;rft.issue=5&amp;rft.jtitle=Advanced+Functional+Materials&amp;rft.pages=779&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=19" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-j1-13"><span class="mw-cite-backlink">^ <a href="#cite_ref-j1_13-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-j1_13-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Moulé, A.J. &amp; K. Meerholz (2008). <a rel="nofollow" class="external text" href="http://www.chms.ucdavis.edu/research/web/moule/moule.old/publications/2008%201%20publication.pdf">"Controlling Morphology in Polymer–Fullerene Mixtures"</a> <span style="font-size:85%;">(PDF)</span>. <i>Advanced Materials</i>. <b>20</b> (2): 240. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1002%2Fadma.200701519">10.1002/adma.200701519</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APolymer+solar+cell&amp;rft.atitle=Controlling+Morphology+in+Polymer%93Fullerene+Mixtures&amp;rft.au=K.+Meerholz&amp;rft.au=Moul%C3%A9%2C+A.J.&amp;rft.date=2008&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.chms.ucdavis.edu%2Fresearch%2Fweb%2Fmoule%2Fmoule.old%2Fpublications%2F2008%25201%2520publication.pdf&amp;rft_id=info%3Adoi%2F10.1002%2Fadma.200701519&amp;rft.issue=2&amp;rft.jtitle=Advanced+Materials&amp;rft.pages=240&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=20" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation journal">Dang, Minh Trung; Wantz, Guillaume; Bejbouji, Habiba; Urien, Mathieu; Dautel, Olivier J.; Vignau, Laurence; Hirsch, Lionel (2011). "Polymeric solar cells based on P3HT:PCBM: Role of the casting solvent". <i>Solar Energy Materials and Solar Cells</i>. <b>95</b> (12): 3408. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2Fj.solmat.2011.07.039">10.1016/j.solmat.2011.07.039</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APolymer+solar+cell&amp;rft.atitle=Polymeric+solar+cells+based+on+P3HT%3APCBM%3A+Role+of+the+casting+solvent&amp;rft.au=Bejbouji%2C+Habiba&amp;rft.au=Dautel%2C+Olivier+J.&amp;rft.aufirst=Minh+Trung&amp;rft.au=Hirsch%2C+Lionel&amp;rft.aulast=Dang&amp;rft.au=Urien%2C+Mathieu&amp;rft.au=Vignau%2C+Laurence&amp;rft.au=Wantz%2C+Guillaume&amp;rft.date=2011&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2Fj.solmat.2011.07.039&amp;rft.issue=12&amp;rft.jtitle=Solar+Energy+Materials+and+Solar+Cells&amp;rft.pages=3408&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=95" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation journal">Nagarjuna, Gavvalapalli; Venkataraman, Dhandapani (2012). "Strategies for controlling the active layer morphologies in OPVs". <i>Journal of Polymer Science Part B: Polymer Physics</i>. <b>50</b> (15): 1045–1056. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2012JPoSB..50.1045N">2012JPoSB..50.1045N</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1002%2Fpolb.23073">10.1002/polb.23073</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APolymer+solar+cell&amp;rft.atitle=Strategies+for+controlling+the+active+layer+morphologies+in+OPVs&amp;rft.aufirst=Gavvalapalli&amp;rft.aulast=Nagarjuna&amp;rft.au=Venkataraman%2C+Dhandapani&amp;rft.date=2012&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F2012JPoSB..50.1045N&amp;rft_id=info%3Adoi%2F10.1002%2Fpolb.23073&amp;rft.issue=15&amp;rft.jtitle=Journal+of+Polymer+Science+Part+B%3A+Polymer+Physics&amp;rft.pages=1045-1056&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=50" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation journal">Matthias A. Ruderer &amp; Peter Müller-Buschbaum (2011). "Morphology of polymer-based bulk heterojunction films for organic photovoltaics". <i>Soft Matter</i>. <b>7</b> (12): 5482. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2011SMat....7.5482R">2011SMat....7.5482R</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1039%2FC0SM01502D">10.1039/C0SM01502D</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APolymer+solar+cell&amp;rft.atitle=Morphology+of+polymer-based+bulk+heterojunction+films+for+organic+photovoltaics&amp;rft.au=Matthias+A.+Ruderer&amp;rft.au=Peter+M%C3%BCller-Buschbaum&amp;rft.date=2011&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F2011SMat....7.5482R&amp;rft_id=info%3Adoi%2F10.1039%2FC0SM01502D&amp;rft.issue=12&amp;rft.jtitle=Soft+Matter&amp;rft.pages=5482&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=7" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation journal">Treat, Neil D.; Brady, Michael A.; Smith, Gordon; Toney, Michael F.; Kramer, Edward J.; Hawker, Craig J.; Chabinyc, Michael L. (2011). "Interdiffusion of PCBM and P3HT Reveals Miscibility in a Photovoltaically Active Blend". <i>Advanced Energy Materials</i>. <b>1</b>: 82. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1002%2Faenm.201000023">10.1002/aenm.201000023</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APolymer+solar+cell&amp;rft.atitle=Interdiffusion+of+PCBM+and+P3HT+Reveals+Miscibility+in+a+Photovoltaically+Active+Blend&amp;rft.au=Brady%2C+Michael+A.&amp;rft.au=Chabinyc%2C+Michael+L.&amp;rft.aufirst=Neil+D.&amp;rft.au=Hawker%2C+Craig+J.&amp;rft.au=Kramer%2C+Edward+J.&amp;rft.aulast=Treat&amp;rft.au=Smith%2C+Gordon&amp;rft.au=Toney%2C+Michael+F.&amp;rft.date=2011&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1002%2Faenm.201000023&amp;rft.jtitle=Advanced+Energy+Materials&amp;rft.pages=82&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=1" class="Z3988"><span style="display:none;">&#160;</span></span>; <cite class="citation journal">Treat, Neil D.; Brady, Michael A.; Smith, Gordon; Toney, Michael F.; Kramer, Edward J.; Hawker, Craig J.; Chabinyc, Michael L. (2011). "Correction: Interdiffusion of PCBM and P3HT Reveals Miscibility in a Photovoltaically Active Blend (Adv. Energy Mater. 2/2011)". <i>Advanced Energy Materials</i>. <b>1</b> (2): 145. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1002%2Faenm.201190008">10.1002/aenm.201190008</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APolymer+solar+cell&amp;rft.atitle=Correction%3A+Interdiffusion+of+PCBM+and+P3HT+Reveals+Miscibility+in+a+Photovoltaically+Active+Blend+%28Adv.+Energy+Mater.+2%2F2011%29&amp;rft.au=Brady%2C+Michael+A.&amp;rft.au=Chabinyc%2C+Michael+L.&amp;rft.aufirst=Neil+D.&amp;rft.au=Hawker%2C+Craig+J.&amp;rft.au=Kramer%2C+Edward+J.&amp;rft.aulast=Treat&amp;rft.au=Smith%2C+Gordon&amp;rft.au=Toney%2C+Michael+F.&amp;rft.date=2011&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1002%2Faenm.201190008&amp;rft.issue=2&amp;rft.jtitle=Advanced+Energy+Materials&amp;rft.pages=145&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=1" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation journal">Kozub, Derek R.; Vakhshouri, Kiarash; Orme, Lisa M.; Wang, Cheng; Hexemer, Alexander; Gomez, Enrique D. (2011). "Polymer Crystallization of Partially Miscible Polythiophene/Fullerene Mixtures Controls Morphology". <i>Macromolecules</i>. <b>44</b> (14): 5722. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1021%2Fma200855r">10.1021/ma200855r</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APolymer+solar+cell&amp;rft.atitle=Polymer+Crystallization+of+Partially+Miscible+Polythiophene%2FFullerene+Mixtures+Controls+Morphology&amp;rft.aufirst=Derek+R.&amp;rft.au=Gomez%2C+Enrique+D.&amp;rft.au=Hexemer%2C+Alexander&amp;rft.aulast=Kozub&amp;rft.au=Orme%2C+Lisa+M.&amp;rft.au=Vakhshouri%2C+Kiarash&amp;rft.au=Wang%2C+Cheng&amp;rft.date=2011&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1021%2Fma200855r&amp;rft.issue=14&amp;rft.jtitle=Macromolecules&amp;rft.pages=5722&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=44" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation journal">Jo, Jang; Kim, Seok-Soon; Na, Seok-In; Yu, Byung-Kwan; Kim, Dong-Yu (2009). "Time-Dependent Morphology Evolution by Annealing Processes on Polymer:Fullerene Blend Solar Cells". <i>Advanced Functional Materials</i>. <b>19</b> (6): 866. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1002%2Fadfm.200800968">10.1002/adfm.200800968</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APolymer+solar+cell&amp;rft.atitle=Time-Dependent+Morphology+Evolution+by+Annealing+Processes+on+Polymer%3AFullerene+Blend+Solar+Cells&amp;rft.aufirst=Jang&amp;rft.au=Kim%2C+Dong-Yu&amp;rft.au=Kim%2C+Seok-Soon&amp;rft.aulast=Jo&amp;rft.au=Na%2C+Seok-In&amp;rft.au=Yu%2C+Byung-Kwan&amp;rft.date=2009&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1002%2Fadfm.200800968&amp;rft.issue=6&amp;rft.jtitle=Advanced+Functional+Materials&amp;rft.pages=866&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=19" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation journal">Collins, Brian A.; Gann, Eliot; Guignard, Lewis; He, Xiaoxi; McNeill, Christopher R.; Ade, Harald (2010). <a rel="nofollow" class="external text" href="http://carbon.physics.ncsu.edu/wp-content/uploads/2010/10/Brians-Miscibility.pdf">"Molecular Miscibility of Polymer−Fullerene Blends"</a> <span style="font-size:85%;">(PDF)</span>. <i>The Journal of Physical Chemistry Letters</i>. <b>1</b> (21): 3160. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1021%2Fjz101276h">10.1021/jz101276h</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APolymer+solar+cell&amp;rft.atitle=Molecular+Miscibility+of+Polymer%88%92Fullerene+Blends&amp;rft.au=Ade%2C+Harald&amp;rft.aufirst=Brian+A.&amp;rft.au=Gann%2C+Eliot&amp;rft.au=Guignard%2C+Lewis&amp;rft.au=He%2C+Xiaoxi&amp;rft.aulast=Collins&amp;rft.au=McNeill%2C+Christopher+R.&amp;rft.date=2010&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fcarbon.physics.ncsu.edu%2Fwp-content%2Fuploads%2F2010%2F10%2FBrians-Miscibility.pdf&amp;rft_id=info%3Adoi%2F10.1021%2Fjz101276h&amp;rft.issue=21&amp;rft.jtitle=The+Journal+of+Physical+Chemistry+Letters&amp;rft.pages=3160&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=1" class="Z3988"><span style="display:none;">&#160;</span></span> <a rel="nofollow" class="external text" href="http://carbon.physics.ncsu.edu/wp-content/uploads/2010/10/Brians-Miscibility-SI.pdf">Supporting information</a></span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation journal">Tremolet De Villers, Bertrand; Tassone, Christopher J.; Tolbert, Sarah H.; Schwartz, Benjamin J. (2009). "Improving the Reproducibility of P3HT:PCBM Solar Cells by Controlling the PCBM/Cathode Interface". <i>The Journal of Physical Chemistry C</i>. <b>113</b> (44): 18978. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1021%2Fjp9082163">10.1021/jp9082163</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APolymer+solar+cell&amp;rft.atitle=Improving+the+Reproducibility+of+P3HT%3APCBM+Solar+Cells+by+Controlling+the+PCBM%2FCathode+Interface&amp;rft.aufirst=Bertrand&amp;rft.aulast=Tremolet+De+Villers&amp;rft.au=Schwartz%2C+Benjamin+J.&amp;rft.au=Tassone%2C+Christopher+J.&amp;rft.au=Tolbert%2C+Sarah+H.&amp;rft.date=2009&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1021%2Fjp9082163&amp;rft.issue=44&amp;rft.jtitle=The+Journal+of+Physical+Chemistry+C&amp;rft.pages=18978&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=113" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation journal">Yin, W.; Dadmun, M. (2011). "A New Model for the Morphology of P3HT/PCBM Organic Photovoltaics from Small-Angle Neutron Scattering: Rivers and Streams". <i>ACS Nano</i>. <b>5</b>: 4756–4768. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1021%2Fnn200744q">10.1021/nn200744q</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APolymer+solar+cell&amp;rft.atitle=A+New+Model+for+the+Morphology+of+P3HT%2FPCBM+Organic+Photovoltaics+from+Small-Angle+Neutron+Scattering%3A+Rivers+and+Streams&amp;rft.au=Dadmun%2C+M.&amp;rft.aufirst=W.&amp;rft.aulast=Yin&amp;rft.date=2011&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1021%2Fnn200744q&amp;rft.jtitle=ACS+Nano&amp;rft.pages=4756-4768&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=5" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation journal">Nilsson, Svante; Bernasik, Andrzej; Budkowski, Andrzej; Moons, Ellen (2007). "Morphology and Phase Segregation of Spin-Casted Films of Polyfluorene/PCBM Blends". <i>Macromolecules</i>. <b>40</b> (23): 8291. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2007MaMol..40.8291N">2007MaMol..40.8291N</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1021%2Fma070712a">10.1021/ma070712a</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APolymer+solar+cell&amp;rft.atitle=Morphology+and+Phase+Segregation+of+Spin-Casted+Films+of+Polyfluorene%2FPCBM+Blends&amp;rft.au=Bernasik%2C+Andrzej&amp;rft.au=Budkowski%2C+Andrzej&amp;rft.aufirst=Svante&amp;rft.aulast=Nilsson&amp;rft.au=Moons%2C+Ellen&amp;rft.date=2007&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F2007MaMol..40.8291N&amp;rft_id=info%3Adoi%2F10.1021%2Fma070712a&amp;rft.issue=23&amp;rft.jtitle=Macromolecules&amp;rft.pages=8291&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=40" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite class="citation journal">Lecover, Rachel; Williams, Nicholas; Markovic, Nina; Reich, Daniel H.; Naiman, Daniel Q.; Katz, Howard E. (2012). "Next-Generation Polymer Solar Cell Materials: Designed Control of Interfacial Variables". <i>ACS Nano</i>. <b>6</b> (4): 2865–70. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1021%2Fnn301140w">10.1021/nn301140w</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/22444948">22444948</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APolymer+solar+cell&amp;rft.atitle=Next-Generation+Polymer+Solar+Cell+Materials%3A+Designed+Control+of+Interfacial+Variables&amp;rft.aufirst=Rachel&amp;rft.au=Katz%2C+Howard+E.&amp;rft.aulast=Lecover&amp;rft.au=Markovic%2C+Nina&amp;rft.au=Naiman%2C+Daniel+Q.&amp;rft.au=Reich%2C+Daniel+H.&amp;rft.au=Williams%2C+Nicholas&amp;rft.date=2012&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1021%2Fnn301140w&amp;rft_id=info%3Apmid%2F22444948&amp;rft.issue=4&amp;rft.jtitle=ACS+Nano&amp;rft.pages=2865-70&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=6" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><cite class="citation journal">Pivrikas, Almantas; Neugebauer, Helmut; Sariciftci, Niyazi Serdar (2011). "Influence of processing additives to nano-morphology and efficiency of bulk-heterojunction solar cells: A comparative review". <i>Solar Energy</i>. <b>85</b> (6): 1226. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2011SoEn...85.1226P">2011SoEn...85.1226P</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2Fj.solener.2010.10.012">10.1016/j.solener.2010.10.012</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APolymer+solar+cell&amp;rft.atitle=Influence+of+processing+additives+to+nano-morphology+and+efficiency+of+bulk-heterojunction+solar+cells%3A+A+comparative+review&amp;rft.aufirst=Almantas&amp;rft.aulast=Pivrikas&amp;rft.au=Neugebauer%2C+Helmut&amp;rft.au=Sariciftci%2C+Niyazi+Serdar&amp;rft.date=2011&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F2011SoEn...85.1226P&amp;rft_id=info%3Adoi%2F10.1016%2Fj.solener.2010.10.012&amp;rft.issue=6&amp;rft.jtitle=Solar+Energy&amp;rft.pages=1226&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=85" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><cite class="citation journal">Yao, Yan; Hou, Jianhui; Xu, Zheng; Li, Gang; Yang, Yang (2008). <a rel="nofollow" class="external text" href="http://yylab.seas.ucla.edu/papers/YangY_Yao2008AFM%20mixture%20solvent.pdf">"Effects of Solvent Mixtures on the Nanoscale Phase Separation in Polymer Solar Cells"</a> <span style="font-size:85%;">(PDF)</span>. <i>Advanced Functional Materials</i>. <b>18</b> (12): 1783. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1002%2Fadfm.200701459">10.1002/adfm.200701459</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APolymer+solar+cell&amp;rft.atitle=Effects+of+Solvent+Mixtures+on+the+Nanoscale+Phase+Separation+in+Polymer+Solar+Cells&amp;rft.aufirst=Yan&amp;rft.au=Hou%2C+Jianhui&amp;rft.aulast=Yao&amp;rft.au=Li%2C+Gang&amp;rft.au=Xu%2C+Zheng&amp;rft.au=Yang%2C+Yang&amp;rft.date=2008&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fyylab.seas.ucla.edu%2Fpapers%2FYangY_Yao2008AFM%2520mixture%2520solvent.pdf&amp;rft_id=info%3Adoi%2F10.1002%2Fadfm.200701459&amp;rft.issue=12&amp;rft.jtitle=Advanced+Functional+Materials&amp;rft.pages=1783&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=18" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><cite class="citation journal">Lee, Jae Kwan; Ma, Wan Li; Brabec, Christoph J.; Yuen, Jonathan; Moon, Ji Sun; Kim, Jin Young; Lee, Kwanghee; Bazan, Guillermo C.; Heeger, Alan J. (2008). "Processing Additives for Improved Efficiency from Bulk Heterojunction Solar Cells". <i>Journal of the American Chemical Society</i>. <b>130</b> (11): 3619–23. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1021%2Fja710079w">10.1021/ja710079w</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/18288842">18288842</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APolymer+solar+cell&amp;rft.atitle=Processing+Additives+for+Improved+Efficiency+from+Bulk+Heterojunction+Solar+Cells&amp;rft.au=Bazan%2C+Guillermo+C.&amp;rft.au=Brabec%2C+Christoph+J.&amp;rft.aufirst=Jae+Kwan&amp;rft.au=Heeger%2C+Alan+J.&amp;rft.au=Kim%2C+Jin+Young&amp;rft.aulast=Lee&amp;rft.au=Lee%2C+Kwanghee&amp;rft.au=Ma%2C+Wan+Li&amp;rft.au=Moon%2C+Ji+Sun&amp;rft.au=Yuen%2C+Jonathan&amp;rft.date=2008&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1021%2Fja710079w&amp;rft_id=info%3Apmid%2F18288842&amp;rft.issue=11&amp;rft.jtitle=Journal+of+the+American+Chemical+Society&amp;rft.pages=3619-23&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=130" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><cite class="citation journal">Rogers, James T.; Schmidt, Kristin; Toney, Michael F.; Bazan, Guillermo C.; Kramer, Edward J. (2012). "Time-Resolved Structural Evolution of Additive-Processed Bulk Heterojunction Solar Cells". <i>Journal of the American Chemical Society</i>. <b>134</b> (6): 2884–7. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1021%2Fja2104747">10.1021/ja2104747</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/22276735">22276735</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APolymer+solar+cell&amp;rft.atitle=Time-Resolved+Structural+Evolution+of+Additive-Processed+Bulk+Heterojunction+Solar+Cells&amp;rft.au=Bazan%2C+Guillermo+C.&amp;rft.aufirst=James+T.&amp;rft.au=Kramer%2C+Edward+J.&amp;rft.aulast=Rogers&amp;rft.au=Schmidt%2C+Kristin&amp;rft.au=Toney%2C+Michael+F.&amp;rft.date=2012&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1021%2Fja2104747&amp;rft_id=info%3Apmid%2F22276735&amp;rft.issue=6&amp;rft.jtitle=Journal+of+the+American+Chemical+Society&amp;rft.pages=2884-7&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=134" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><cite class="citation journal">Carr Hoi Yi Ho; Qi Dong; Hang Yin; Winky Wing Ki Leung; Qingdan Yang; Harrison Ka Hin Lee; Sai Wing Tsang; Shu Kong So (2015). "Impact of Solvent Additive on Carrier Transport in Polymer:Fullerene Bulk Heterojunction Photovoltaic Cells". <i>Advanced Materials Interfaces</i>. <b>2</b> (12): n/a. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1002%2Fadmi.201500166">10.1002/admi.201500166</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APolymer+solar+cell&amp;rft.atitle=Impact+of+Solvent+Additive+on+Carrier+Transport+in+Polymer%3AFullerene+Bulk+Heterojunction+Photovoltaic+Cells&amp;rft.au=Carr+Hoi+Yi+Ho&amp;rft.au=Hang+Yin&amp;rft.au=Harrison+Ka+Hin+Lee&amp;rft.au=Qi+Dong&amp;rft.au=Qingdan+Yang&amp;rft.au=Sai+Wing+Tsang&amp;rft.au=Shu+Kong+So&amp;rft.au=Winky+Wing+Ki+Leung&amp;rft.date=2015&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1002%2Fadmi.201500166&amp;rft.issue=12&amp;rft.jtitle=Advanced+Materials+Interfaces&amp;rft.pages=n%2Fa&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=2" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><cite class="citation journal">Liang, Yongye; Xu, Zheng; Xia, Jiangbin; Tsai, Szu-Ting; Wu, Yue; Li, Gang; Ray, Claire; Yu, Luping (2010). "For the Bright Future—Bulk Heterojunction Polymer Solar Cells with Power Conversion Efficiency of 7.4%". <i>Advanced Materials</i>. <b>22</b> (20): E135–8. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1002%2Fadma.200903528">10.1002/adma.200903528</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/20641094">20641094</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APolymer+solar+cell&amp;rft.atitle=For+the+Bright+Future%94Bulk+Heterojunction+Polymer+Solar+Cells+with+Power+Conversion+Efficiency+of+7.4%25&amp;rft.aufirst=Yongye&amp;rft.aulast=Liang&amp;rft.au=Li%2C+Gang&amp;rft.au=Ray%2C+Claire&amp;rft.au=Tsai%2C+Szu-Ting&amp;rft.au=Wu%2C+Yue&amp;rft.au=Xia%2C+Jiangbin&amp;rft.au=Xu%2C+Zheng&amp;rft.au=Yu%2C+Luping&amp;rft.date=2010&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1002%2Fadma.200903528&amp;rft_id=info%3Apmid%2F20641094&amp;rft.issue=20&amp;rft.jtitle=Advanced+Materials&amp;rft.pages=E135-8&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=22" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><cite class="citation journal">Li, Weiwei; Zhou, Yi; Viktor Andersson, B.; Mattias Andersson, L.; Thomann, Yi; Veit, Clemens; Tvingstedt, Kristofer; Qin, Ruiping; Bo, Zhishan; Inganäs, Olle; Würfel, Uli; Zhang, Fengling (2011). "The Effect of additive on performance and shelf-stability of HSX-1/PCBM photovoltaic devices". <i>Organic Electronics</i>. <b>12</b> (9): 1544. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2Fj.orgel.2011.05.028">10.1016/j.orgel.2011.05.028</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APolymer+solar+cell&amp;rft.atitle=The+Effect+of+additive+on+performance+and+shelf-stability+of+HSX-1%2FPCBM+photovoltaic+devices&amp;rft.au=Bo%2C+Zhishan&amp;rft.aufirst=Weiwei&amp;rft.au=Ingan%C3%A4s%2C+Olle&amp;rft.aulast=Li&amp;rft.au=Mattias+Andersson%2C+L.&amp;rft.au=Qin%2C+Ruiping&amp;rft.au=Thomann%2C+Yi&amp;rft.au=Tvingstedt%2C+Kristofer&amp;rft.au=Veit%2C+Clemens&amp;rft.au=Viktor+Andersson%2C+B.&amp;rft.au=W%C3%BCrfel%2C+Uli&amp;rft.au=Zhang%2C+Fengling&amp;rft.au=Zhou%2C+Yi&amp;rft.date=2011&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2Fj.orgel.2011.05.028&amp;rft.issue=9&amp;rft.jtitle=Organic+Electronics&amp;rft.pages=1544&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=12" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><cite class="citation journal">van Franekar, Jacobus; Turbiez, Mathieu; Li, Weiwei; Wienk, Martijn; Janssen, René (6 February 2015). "A real-time study of the benefits of co-solvents in polymer solar cell processing". <i>Nature Communications</i>. <b>6</b>: 6229. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2015NatCo...6E6229V">2015NatCo...6E6229V</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1038%2Fncomms7229">10.1038/ncomms7229</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/25656313">25656313</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APolymer+solar+cell&amp;rft.atitle=A+real-time+study+of+the+benefits+of+co-solvents+in+polymer+solar+cell+processing&amp;rft.aufirst=Jacobus&amp;rft.au=Janssen%2C+Ren%C3%A9&amp;rft.aulast=van+Franekar&amp;rft.au=Li%2C+Weiwei&amp;rft.au=Turbiez%2C+Mathieu&amp;rft.au=Wienk%2C+Martijn&amp;rft.date=2015-02-06&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F2015NatCo...6E6229V&amp;rft_id=info%3Adoi%2F10.1038%2Fncomms7229&amp;rft_id=info%3Apmid%2F25656313&amp;rft.jtitle=Nature+Communications&amp;rft.pages=6229&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=6" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><cite class="citation journal">Beaujuge, P.M. &amp; J.M.J. Fréchet (2011). "Molecular Design and Ordering Effects in π-Functional Materials for Transistor and Solar Cell Applications". <i>Journal of the American Chemical Society</i>. <b>133</b> (50): 20009–29. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1021%2Fja2073643">10.1021/ja2073643</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/21999757">21999757</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APolymer+solar+cell&amp;rft.atitle=Molecular+Design+and+Ordering+Effects+in+%CF-Functional+Materials+for+Transistor+and+Solar+Cell+Applications&amp;rft.au=Beaujuge%2C+P.M.&amp;rft.au=J.M.J.+Fr%C3%A9chet&amp;rft.date=2011&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1021%2Fja2073643&amp;rft_id=info%3Apmid%2F21999757&amp;rft.issue=50&amp;rft.jtitle=Journal+of+the+American+Chemical+Society&amp;rft.pages=20009-29&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=133" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><cite class="citation journal">Troshin, Pavel A.; Koeppe, Robert; Peregudov, Alexander S.; Peregudova, Svetlana M.; Egginger, Martin; Lyubovskaya, Rimma N.; Sariciftci, N. Serdar (2007). "Supramolecular Association of Pyrrolidinofullerenes Bearing Chelating Pyridyl Groups and Zinc Phthalocyanine for Organic Solar Cells". <i>Chemistry of Materials</i>. <b>19</b> (22): 5363. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1021%2Fcm071243u">10.1021/cm071243u</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APolymer+solar+cell&amp;rft.atitle=Supramolecular+Association+of+Pyrrolidinofullerenes+Bearing+Chelating+Pyridyl+Groups+and+Zinc+Phthalocyanine+for+Organic+Solar+Cells&amp;rft.au=Egginger%2C+Martin&amp;rft.aufirst=Pavel+A.&amp;rft.au=Koeppe%2C+Robert&amp;rft.aulast=Troshin&amp;rft.au=Lyubovskaya%2C+Rimma+N.&amp;rft.au=Peregudov%2C+Alexander+S.&amp;rft.au=Peregudova%2C+Svetlana+M.&amp;rft.au=Sariciftci%2C+N.+Serdar&amp;rft.date=2007&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1021%2Fcm071243u&amp;rft.issue=22&amp;rft.jtitle=Chemistry+of+Materials&amp;rft.pages=5363&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=19" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text"><cite class="citation journal">Tevis, Ian D.; Tsai, Wei-Wen; Palmer, Liam C.; Aytun, Taner; Stupp, Samuel I. (2012). "Grooved Nanowires from Self-Assembling Hairpin Molecules for Solar Cells". <i>ACS Nano</i>. <b>6</b> (3): 2032–40. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1021%2Fnn203328n">10.1021/nn203328n</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/22397738">22397738</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APolymer+solar+cell&amp;rft.atitle=Grooved+Nanowires+from+Self-Assembling+Hairpin+Molecules+for+Solar+Cells&amp;rft.au=Aytun%2C+Taner&amp;rft.aufirst=Ian+D.&amp;rft.aulast=Tevis&amp;rft.au=Palmer%2C+Liam+C.&amp;rft.au=Stupp%2C+Samuel+I.&amp;rft.au=Tsai%2C+Wei-Wen&amp;rft.date=2012&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1021%2Fnn203328n&amp;rft_id=info%3Apmid%2F22397738&amp;rft.issue=3&amp;rft.jtitle=ACS+Nano&amp;rft.pages=2032-40&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=6" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-36">^</a></b></span> <span class="reference-text"><cite class="citation journal">Dössel, L.F.; Kamm, Valentin; Howard, Ian A.; Laquai, Frédéric; Pisula, Wojciech; Feng, Xinliang; Li, Chen; Takase, Masayoshi; et al. (2012). "Synthesis and Controlled Self-Assembly of Covalently Linked Hexa-peri-hexabenzocoronene/Perylene Diimide Dyads as Models To Study Fundamental Energy and Electron Transfer Processes". <i>Journal of the American Chemical Society</i>. <b>134</b> (13): 5876–86. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1021%2Fja211504a">10.1021/ja211504a</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/22394147">22394147</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APolymer+solar+cell&amp;rft.atitle=Synthesis+and+Controlled+Self-Assembly+of+Covalently+Linked+Hexa-peri-hexabenzocoronene%2FPerylene+Diimide+Dyads+as+Models+To+Study+Fundamental+Energy+and+Electron+Transfer+Processes&amp;rft.au=D%C3%B6ssel%2C+L.F.&amp;rft.au=De+Feyter%2C+Steven&amp;rft.au=Feng%2C+Xinliang&amp;rft.au=Howard%2C+Ian+A.&amp;rft.au=Kamm%2C+Valentin&amp;rft.au=Kudernac%2C+Tibor&amp;rft.au=Laquai%2C+Fr%C3%A9d%C3%A9ric&amp;rft.au=Li%2C+Chen&amp;rft.au=M%C3%BCllen%2C+Klaus&amp;rft.au=Pisula%2C+Wojciech&amp;rft.au=Takase%2C+Masayoshi&amp;rft.date=2012&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1021%2Fja211504a&amp;rft_id=info%3Apmid%2F22394147&amp;rft.issue=13&amp;rft.jtitle=Journal+of+the+American+Chemical+Society&amp;rft.pages=5876-86&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=134" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-37">^</a></b></span> <span class="reference-text"><cite class="citation journal">Miyanishi, Shoji; Zhang, Yue; Tajima, Keisuke; Hashimoto, Kazuhito (2010). "Fullerene attached all-semiconducting diblock copolymers for stable single-component polymer solar cells". <i>Chemical Communications</i>. <b>46</b> (36): 6723–5. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1039%2FC0CC01819H">10.1039/C0CC01819H</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/20717605">20717605</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APolymer+solar+cell&amp;rft.atitle=Fullerene+attached+all-semiconducting+diblock+copolymers+for+stable+single-component+polymer+solar+cells&amp;rft.aufirst=Shoji&amp;rft.au=Hashimoto%2C+Kazuhito&amp;rft.aulast=Miyanishi&amp;rft.au=Tajima%2C+Keisuke&amp;rft.au=Zhang%2C+Yue&amp;rft.date=2010&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1039%2FC0CC01819H&amp;rft_id=info%3Apmid%2F20717605&amp;rft.issue=36&amp;rft.jtitle=Chemical+Communications&amp;rft.pages=6723-5&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=46" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-38">^</a></b></span> <span class="reference-text"><cite class="citation journal">Sary, Nicolas; Richard, Fanny; Brochon, Cyril; Leclerc, Nicolas; Lévêque, Patrick; Audinot, Jean-Nicolas; Berson, Solenn; Heiser, Thomas; et al. (2010). "A New Supramolecular Route for Using Rod-Coil Block Copolymers in Photovoltaic Applications". <i>Advanced Materials</i>. <b>22</b> (6): 763–8. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1002%2Fadma.200902645">10.1002/adma.200902645</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/20217786">20217786</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APolymer+solar+cell&amp;rft.atitle=A+New+Supramolecular+Route+for+Using+Rod-Coil+Block+Copolymers+in+Photovoltaic+Applications&amp;rft.au=Audinot%2C+Jean-Nicolas&amp;rft.au=Berson%2C+Solenn&amp;rft.au=Brochon%2C+Cyril&amp;rft.aufirst=Nicolas&amp;rft.au=Hadziioannou%2C+Georges&amp;rft.au=Heiser%2C+Thomas&amp;rft.aulast=Sary&amp;rft.au=L%C3%A9v%C3%AAque%2C+Patrick&amp;rft.au=Leclerc%2C+Nicolas&amp;rft.au=Mezzenga%2C+Raffaele&amp;rft.au=Richard%2C+Fanny&amp;rft.date=2010&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1002%2Fadma.200902645&amp;rft_id=info%3Apmid%2F20217786&amp;rft.issue=6&amp;rft.jtitle=Advanced+Materials&amp;rft.pages=763-8&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=22" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-39">^</a></b></span> <span class="reference-text"><cite class="citation journal">Lin, Ying; Lim, Jung Ah; Wei, Qingshuo; Mannsfeld, Stefan C. B.; Briseno, Alejandro L.; Watkins, James J. (2012). "Cooperative Assembly of Hydrogen-Bonded Diblock Copolythiophene/Fullerene Blends for Photovoltaic Devices with Well-Defined Morphologies and Enhanced Stability". <i>Chemistry of Materials</i>. <b>24</b> (3): 622. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1021%2Fcm203706h">10.1021/cm203706h</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APolymer+solar+cell&amp;rft.atitle=Cooperative+Assembly+of+Hydrogen-Bonded+Diblock+Copolythiophene%2FFullerene+Blends+for+Photovoltaic+Devices+with+Well-Defined+Morphologies+and+Enhanced+Stability&amp;rft.au=Briseno%2C+Alejandro+L.&amp;rft.aufirst=Ying&amp;rft.aulast=Lin&amp;rft.au=Lim%2C+Jung+Ah&amp;rft.au=Mannsfeld%2C+Stefan+C.+B.&amp;rft.au=Watkins%2C+James+J.&amp;rft.au=Wei%2C+Qingshuo&amp;rft.date=2012&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1021%2Fcm203706h&amp;rft.issue=3&amp;rft.jtitle=Chemistry+of+Materials&amp;rft.pages=622&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=24" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-40"><span class="mw-cite-backlink"><b><a href="#cite_ref-40">^</a></b></span> <span class="reference-text"><cite class="citation journal">Topham, Paul D.; Parnell, Andrew J.; Hiorns, Roger C. (2011). "Block copolymer strategies for solar cell technology". <i>Journal of Polymer Science Part B: Polymer Physics</i>. <b>49</b> (16): 1131. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1002%2Fpolb.22302">10.1002/polb.22302</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APolymer+solar+cell&amp;rft.atitle=Block+copolymer+strategies+for+solar+cell+technology&amp;rft.aufirst=Paul+D.&amp;rft.au=Hiorns%2C+Roger+C.&amp;rft.aulast=Topham&amp;rft.au=Parnell%2C+Andrew+J.&amp;rft.date=2011&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1002%2Fpolb.22302&amp;rft.issue=16&amp;rft.jtitle=Journal+of+Polymer+Science+Part+B%3A+Polymer+Physics&amp;rft.pages=1131&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=49" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-41"><span class="mw-cite-backlink"><b><a href="#cite_ref-41">^</a></b></span> <span class="reference-text"><cite class="citation journal">Barrau, Sophie; Heiser, Thomas; Richard, Fanny; Brochon, Cyril; Ngov, Chheng; Van De Wetering, Karin; Hadziioannou, Georges; Anokhin, Denis V.; Ivanov, Dimitri A. (2008). "Self-Assembling of Novel Fullerene-Grafted Donor–Acceptor Rod−Coil Block Copolymers". <i>Macromolecules</i>. <b>41</b> (7): 2701. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2008MaMol..41.2701B">2008MaMol..41.2701B</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1021%2Fma7022099">10.1021/ma7022099</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APolymer+solar+cell&amp;rft.atitle=Self-Assembling+of+Novel+Fullerene-Grafted+Donor%93Acceptor+Rod%88%92Coil+Block+Copolymers&amp;rft.au=Anokhin%2C+Denis+V.&amp;rft.au=Brochon%2C+Cyril&amp;rft.aufirst=Sophie&amp;rft.au=Hadziioannou%2C+Georges&amp;rft.au=Heiser%2C+Thomas&amp;rft.au=Ivanov%2C+Dimitri+A.&amp;rft.aulast=Barrau&amp;rft.au=Ngov%2C+Chheng&amp;rft.au=Richard%2C+Fanny&amp;rft.au=Van+De+Wetering%2C+Karin&amp;rft.date=2008&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F2008MaMol..41.2701B&amp;rft_id=info%3Adoi%2F10.1021%2Fma7022099&amp;rft.issue=7&amp;rft.jtitle=Macromolecules&amp;rft.pages=2701&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=41" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-42"><span class="mw-cite-backlink"><b><a href="#cite_ref-42">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://phys.org/news/2012-07-scientists-highly-transparent-solar-cells.html">"Scientists create highly transparent solar cells for windows that generate electricity"</a>. Phys.org<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-07-23</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APolymer+solar+cell&amp;rft.btitle=Scientists+create+highly+transparent+solar+cells+for+windows+that+generate+electricity&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fphys.org%2Fnews%2F2012-07-scientists-highly-transparent-solar-cells.html&amp;rft.pub=Phys.org&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-43"><span class="mw-cite-backlink"><b><a href="#cite_ref-43">^</a></b></span> <span class="reference-text"><cite class="citation journal">Zhou, Erjun; Nakano, Masahiro; Izawa, Seiichiro; Cong, Junzi; Osaka, Itaru; Takimiya, Kazuo; Tajima, Keisuke (18 August 2014). "All-Polymer Solar Cell with High Near-Infrared Response Based on a Naphthodithiophene Diimide (NDTI) Copolymer". <i>ACS Macro Lett</i>. <b>3</b> (9): 872. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1021%2Fmz5004272">10.1021/mz5004272</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APolymer+solar+cell&amp;rft.atitle=All-Polymer+Solar+Cell+with+High+Near-Infrared+Response+Based+on+a+Naphthodithiophene+Diimide+%28NDTI%29+Copolymer&amp;rft.au=Cong%2C+Junzi&amp;rft.aufirst=Erjun&amp;rft.au=Izawa%2C+Seiichiro&amp;rft.aulast=Zhou&amp;rft.au=Nakano%2C+Masahiro&amp;rft.au=Osaka%2C+Itaru&amp;rft.au=Tajima%2C+Keisuke&amp;rft.au=Takimiya%2C+Kazuo&amp;rft.date=2014-08-18&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1021%2Fmz5004272&amp;rft.issue=9&amp;rft.jtitle=ACS+Macro+Lett.&amp;rft.pages=872&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=3" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-ReferenceB-44"><span class="mw-cite-backlink">^ <a href="#cite_ref-ReferenceB_44-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-ReferenceB_44-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Guo, Xugang; Zhou, Nanjia; Lou, Sylvia; Smith, Jeremy; Tice, Daniel; Hennek, Jonathan; Ortiz, Rocío; López Navarrete, Juan; Li, Shuyou; Strzalka, Joseph; Chen, Lin; Chang, Robert; Facchetti, Antonio; Marks, Tobin (11 August 2013). "Polymer solar cells with enhanced fill factors". <i>Nature Photonics</i>. <b>7</b> (10): 825. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2013NaPho...7..825G">2013NaPho...7..825G</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1038%2Fnphoton.2013.207">10.1038/nphoton.2013.207</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APolymer+solar+cell&amp;rft.atitle=Polymer+solar+cells+with+enhanced+fill+factors&amp;rft.au=Chang%2C+Robert&amp;rft.au=Chen%2C+Lin&amp;rft.au=Facchetti%2C+Antonio&amp;rft.aufirst=Xugang&amp;rft.au=Hennek%2C+Jonathan&amp;rft.aulast=Guo&amp;rft.au=L%C3%B3pez+Navarrete%2C+Juan&amp;rft.au=Li%2C+Shuyou&amp;rft.au=Lou%2C+Sylvia&amp;rft.au=Marks%2C+Tobin&amp;rft.au=Ortiz%2C+Roc%C3o&amp;rft.au=Smith%2C+Jeremy&amp;rft.au=Strzalka%2C+Joseph&amp;rft.au=Tice%2C+Daniel&amp;rft.au=Zhou%2C+Nanjia&amp;rft.date=2013-08-11&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F2013NaPho...7..825G&amp;rft_id=info%3Adoi%2F10.1038%2Fnphoton.2013.207&amp;rft.issue=10&amp;rft.jtitle=Nature+Photonics&amp;rft.pages=825&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=7" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-45"><span class="mw-cite-backlink"><b><a href="#cite_ref-45">^</a></b></span> <span class="reference-text">For a similar graph, see: <cite class="citation book">Hoppe, Harald; Sariciftci, N. Serdar (2008). "Polymer Solar Cells". <i>Photoresponsive Polymers II</i>. pp.&#160;1–86 (4). <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1007%2F12_2007_121">10.1007/12_2007_121</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-3-540-69452-6" title="Special:BookSources/978-3-540-69452-6">978-3-540-69452-6</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APolymer+solar+cell&amp;rft.atitle=Polymer+Solar+Cells&amp;rft.aufirst=Harald&amp;rft.aulast=Hoppe&amp;rft.au=Sariciftci%2C+N.+Serdar&amp;rft.btitle=Photoresponsive+Polymers+II&amp;rft.date=2008&amp;rft.genre=bookitem&amp;rft_id=info%3Adoi%2F10.1007%2F12_2007_121&amp;rft.isbn=978-3-540-69452-6&amp;rft.pages=1-86+%284%29&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-TR-46"><span class="mw-cite-backlink"><b><a href="#cite_ref-TR_46-0">^</a></b></span> <span class="reference-text">Kevin Bullis. <a rel="nofollow" class="external text" href="http://www.technologyreview.com/energy/21574/"><i>Mass Production of Plastic Solar Cells</i></a>, <a href="/wiki/Technology_Review" class="mw-redirect" title="Technology Review">Technology Review Magazine</a>, October 17, 2008.</span></li>
+<li id="cite_note-47"><span class="mw-cite-backlink"><b><a href="#cite_ref-47">^</a></b></span> <span class="reference-text"><cite class="citation journal">Krebs, Frederik; Tromholt, Thomas; Jørgensen, Mikkel (4 May 2010). "Upscaling of polymer solar cell fabrication using full roll-to-roll processing". <i>Nanoscale</i>. <b>2</b> (6): 873. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2010Nanos...2..873K">2010Nanos...2..873K</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1039%2FB9NR00430K">10.1039/B9NR00430K</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/20648282">20648282</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APolymer+solar+cell&amp;rft.atitle=Upscaling+of+polymer+solar+cell+fabrication+using+full+roll-to-roll+processing&amp;rft.aufirst=Frederik&amp;rft.au=J%C3%B8rgensen%2C+Mikkel&amp;rft.aulast=Krebs&amp;rft.au=Tromholt%2C+Thomas&amp;rft.date=2010-05-04&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F2010Nanos...2..873K&amp;rft_id=info%3Adoi%2F10.1039%2FB9NR00430K&amp;rft_id=info%3Apmid%2F20648282&amp;rft.issue=6&amp;rft.jtitle=Nanoscale&amp;rft.pages=873&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=2" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-mackenzie-48"><span class="mw-cite-backlink">^ <a href="#cite_ref-mackenzie_48-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-mackenzie_48-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">MacKenzie, Roderick C. I.; Shuttle, Christopher G.; Chabinyc, Michael L.; Nelson, Jenny (2012). "Extracting Microscopic Device Parameters from Transient Photocurrent Measurements of P3HT:PCBM Solar Cells". <i>Advanced Energy Materials</i>. <b>2</b> (6): 662. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1002%2Faenm.201100709">10.1002/aenm.201100709</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APolymer+solar+cell&amp;rft.atitle=Extracting+Microscopic+Device+Parameters+from+Transient+Photocurrent+Measurements+of+P3HT%3APCBM+Solar+Cells&amp;rft.au=Chabinyc%2C+Michael+L.&amp;rft.aufirst=Roderick+C.+I.&amp;rft.aulast=MacKenzie&amp;rft.au=Nelson%2C+Jenny&amp;rft.au=Shuttle%2C+Christopher+G.&amp;rft.date=2012&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1002%2Faenm.201100709&amp;rft.issue=6&amp;rft.jtitle=Advanced+Energy+Materials&amp;rft.pages=662&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=2" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Polymer_solar_cell&amp;action=edit&amp;section=13" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>N.S. Sariciftci, L. Smilowitz, A.J. Heeger,F. Wudl, Photoinduced Electron Transfer from Conducting Polymers onto Buckminsterfullerene, Science 258, (1992) 1474</li>
+<li>N.S. Sariciftci, A.J. Heeger, Photophysics, charge separation and device applications of conjugated polymer/fullerene composites, in <i>Handbook of Organic Conductive Molecules and Polymers</i>, edited by H.S.Nalwa, <b>1</b>, Wiley, Chichester, New York, 1997, Ch. 8, p.p.&#160;413–455</li>
+<li>„Plastic Solar Cells“ Christoph J. Brabec, N. Serdar Sariciftci, Jan Kees Hummelen, Advanced Functional Materials, Vol. 11 No: 1, pp.&#160;15–26 (2001)</li>
+<li>Organic Photovoltaics”, Christoph Brabec, Vladimir Dyakonov, Jürgen Parisi and Niyazi Serdar Sariciftci (eds.), Springer Verlag (2003) <a href="/wiki/Special:BookSources/354000405X" class="internal mw-magiclink-isbn">ISBN 3-540-00405X</a></li>
+<li><i>Organic Photovoltaics: Mechanisms, Materials, and Devices (Optical Engineering)</i>, (Sam-Shajing Sun and Niyazi Serdar Sariciftci (eds.), CRC Press (Taylor&amp;Francis Group) <a href="/wiki/Special:BookSources/082475963X" class="internal mw-magiclink-isbn">ISBN 0-8247-5963-X</a>, Boca Raton, 2005</li>
+<li>A. Mayer, S. Scully, B. Hardin, M. Rowell, M. McGehee, Polymer-based solar cells, Materials Today 10, (2007) 28. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2FS1369-7021%2807%2970276-6">10.1016/S1369-7021(07)70276-6</a></li>
+<li>H. Hoppe and N. S. Sariciftci, Polymer Solar Cells, p.&#160;1–86, in Photoresponsive Polymers II, Eds.: S. R. Marder and K.-S. Lee, Advances in Polymer Science, Springer, <a href="/wiki/Special:BookSources/9783540694526" class="internal mw-magiclink-isbn">ISBN 978-3-540-69452-6</a>, Berlin-Heidelberg (2008)</li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Polymer_solar_cell&amp;action=edit&amp;section=14" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://search.nrel.gov/query.html?qm=1&amp;charset=utf-8&amp;style=eere&amp;col=eren&amp;qc=eren&amp;ht=815081754&amp;ct=345728017">NREL reports</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.lios.at/">LIOS – Linzer Institut für Organische Solarzellen, Johannes Kepler Universität Linz, Österreich</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.quantsol.unibe.ch/%5Cpub%5Cpub_11.htm">Quantsol 1998</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.coursera.org/course/opv">Organic Solar Cells – Theory and Practice (Coursera)</a></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Photovoltaics" style="padding:3px">
+<table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Photovoltaics" title="Template:Photovoltaics"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Photovoltaics" title="Template talk:Photovoltaics"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Photovoltaics&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Photovoltaics" style="font-size:114%"><a href="/wiki/Photovoltaics" title="Photovoltaics">Photovoltaics</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;">Concepts</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Technology</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Photovoltaics" title="Photovoltaics">Photovoltaics</a></li>
+<li><a href="/wiki/Photoelectric_effect" title="Photoelectric effect">Photoelectric effect</a></li>
+<li><a href="/wiki/Solar_insolation" class="mw-redirect" title="Solar insolation">Solar insolation</a></li>
+<li><a href="/wiki/Solar_constant" title="Solar constant">Solar constant</a></li>
+<li><a href="/wiki/Solar_cell_efficiency" title="Solar cell efficiency">Solar cell efficiency</a></li>
+<li><a href="/wiki/Nominal_power_(photovoltaic)" title="Nominal power (photovoltaic)">Nominal power (Watt-peak)</a></li>
+<li><a href="/wiki/Thin_film_solar_cell" class="mw-redirect" title="Thin film solar cell">Thin film solar cell</a></li>
+<li><a href="/wiki/Multijunction_photovoltaic_cell" class="mw-redirect" title="Multijunction photovoltaic cell">Multijunction photovoltaic cell</a></li>
+<li><a href="/wiki/Third_generation_photovoltaic_cell" class="mw-redirect" title="Third generation photovoltaic cell">Third generation photovoltaic cell</a></li>
+<li><a href="/wiki/Solar_cell_research" title="Solar cell research">Solar cell research</a></li>
+<li><a href="/wiki/Quantum_efficiency_of_a_solar_cell" class="mw-redirect" title="Quantum efficiency of a solar cell">Quantum efficiency of a solar cell</a></li>
+<li><a href="/wiki/Thermophotovoltaic" title="Thermophotovoltaic">Thermophotovoltaic</a></li>
+<li><a href="/wiki/Thermodynamic_efficiency_limit" title="Thermodynamic efficiency limit">Thermodynamic efficiency limit</a></li>
+<li><a href="/wiki/Sun-free_photovoltaics" title="Sun-free photovoltaics">Sun-free photovoltaics</a></li>
+<li><a href="/wiki/Polarizing_organic_photovoltaics" title="Polarizing organic photovoltaics">Polarizing organic photovoltaics</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Materials</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/List_of_semiconductor_materials" title="List of semiconductor materials">List of semiconductor materials</a></li>
+<li><a href="/wiki/Crystalline_silicon" title="Crystalline silicon">Crystalline silicon (c-Si)</a></li>
+<li><a href="/wiki/Polycrystalline_silicon" title="Polycrystalline silicon">Polycrystalline silicon (multi-Si)</a></li>
+<li><a href="/wiki/Monocrystalline_silicon" title="Monocrystalline silicon">Monocrystalline silicon (mono-Si)</a></li>
+<li><a href="/wiki/Cadmium_telluride" title="Cadmium telluride">Cadmium telluride</a></li>
+<li><a href="/wiki/Copper_indium_gallium_selenide" title="Copper indium gallium selenide">Copper indium gallium selenide</a></li>
+<li><a href="/wiki/Amorphous_silicon" title="Amorphous silicon">Amorphous silicon (a-Si)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">History</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Growth_of_photovoltaics" title="Growth of photovoltaics">Growth of photovoltaics</a></li>
+<li><a href="/wiki/Timeline_of_solar_cells" title="Timeline of solar cells">Timeline of solar cells</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+<td class="navbox-image" rowspan="9" style="width:0%;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:4inch_poly_solar_cell.jpg" class="image"><img alt="4inch poly solar cell.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/4inch_poly_solar_cell.jpg/150px-4inch_poly_solar_cell.jpg" width="150" height="113" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/4inch_poly_solar_cell.jpg/225px-4inch_poly_solar_cell.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fd/4inch_poly_solar_cell.jpg/300px-4inch_poly_solar_cell.jpg 2x" data-file-width="2272" data-file-height="1704" /></a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;"><a href="/wiki/Photovoltaic_system" title="Photovoltaic system">Photovoltaic system</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;"><a href="/wiki/Solar_cell" title="Solar cell">Solar cells</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><strong class="selflink">Polymer solar cell</strong></li>
+<li><a href="/wiki/Nanocrystal_solar_cell" title="Nanocrystal solar cell">Nanocrystal solar cell</a></li>
+<li><a href="/wiki/Organic_solar_cell" title="Organic solar cell">Organic solar cell</a></li>
+<li><a href="/wiki/Quantum_dot_solar_cell" title="Quantum dot solar cell">Quantum dot solar cell</a></li>
+<li><a href="/wiki/Hybrid_solar_cell" title="Hybrid solar cell">Hybrid solar cell</a></li>
+<li><a href="/wiki/Plasmonic_solar_cell" title="Plasmonic solar cell">Plasmonic solar cell</a></li>
+<li><a href="/wiki/Carbon_nanotubes_in_photovoltaics" title="Carbon nanotubes in photovoltaics">Carbon nanotubes in photovoltaics</a></li>
+<li><a href="/wiki/Dye-sensitized_solar_cell" title="Dye-sensitized solar cell">Dye-sensitized solar cell</a></li>
+<li><a href="/wiki/Cadmium_telluride_photovoltaics" title="Cadmium telluride photovoltaics">Cadmium telluride photovoltaics</a></li>
+<li><a href="/wiki/Copper_indium_gallium_selenide_solar_cells" title="Copper indium gallium selenide solar cells">Copper indium gallium selenide solar cells</a></li>
+<li><a href="/wiki/Printed_solar_panel" class="mw-redirect" title="Printed solar panel">Printed solar panel</a></li>
+<li><a href="/wiki/Perovskite_solar_cell" title="Perovskite solar cell">Perovskite solar cell</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">System components</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Solar_panel" title="Solar panel">Solar panel</a></li>
+<li><a href="/wiki/Balance_of_system" title="Balance of system">Balance of system</a></li>
+<li><a href="/wiki/Solar_charge_controller" class="mw-redirect" title="Solar charge controller">Solar charge controller</a></li>
+<li><a href="/wiki/Solar_inverter" title="Solar inverter">Solar inverter</a></li>
+<li><a href="/wiki/Solar_micro-inverter" title="Solar micro-inverter">Solar micro-inverter</a></li>
+<li><a href="/wiki/Solar_cable" title="Solar cable">Solar cable</a></li>
+<li><a href="/wiki/Photovoltaic_mounting_system" title="Photovoltaic mounting system">Photovoltaic mounting system</a></li>
+<li><a href="/wiki/Maximum_power_point_tracker" class="mw-redirect" title="Maximum power point tracker">Maximum power point tracker</a></li>
+<li><a href="/wiki/Solar_tracker" title="Solar tracker">Solar tracker</a></li>
+<li><a href="/wiki/Solar_shingles" class="mw-redirect" title="Solar shingles">Solar shingles</a></li>
+<li><a href="/wiki/Solar_mirror#Photovoltaic_augmentation" title="Solar mirror">Solar mirror</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">System concepts</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Perturb_and_observe_method" class="mw-redirect" title="Perturb and observe method">Perturb and observe method</a></li>
+<li><a href="/wiki/Incremental_conductance_method" class="mw-redirect" title="Incremental conductance method">Incremental conductance method</a></li>
+<li><a href="/wiki/Constant_voltage_method" class="mw-redirect" title="Constant voltage method">Constant voltage method</a></li>
+<li><a href="/wiki/Fill_factor_(solar_cell)" class="mw-redirect" title="Fill factor (solar cell)">Fill factor</a></li>
+<li><a href="/wiki/Concentrated_photovoltaics" class="mw-redirect" title="Concentrated photovoltaics">Concentrated photovoltaics</a></li>
+<li><a href="/wiki/Photovoltaic_thermal_hybrid_solar_collector" title="Photovoltaic thermal hybrid solar collector">Photovoltaic thermal hybrid solar collector</a></li>
+<li><a href="/wiki/Space-based_solar_power" title="Space-based solar power">Space-based solar power</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;">Applications</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Appliances</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Solar-powered_refrigerator" title="Solar-powered refrigerator">Solar-powered refrigerator</a></li>
+<li><a href="/wiki/Solar_air_conditioning#Photovoltaic_.28PV.29_solar_cooling" title="Solar air conditioning">Solar air conditioning</a></li>
+<li><a href="/wiki/Solar_lamp" title="Solar lamp">Solar lamp</a></li>
+<li><a href="/wiki/Solar_charger" title="Solar charger">Solar charger</a></li>
+<li><a href="/wiki/Solar_backpack" title="Solar backpack">Solar backpack</a></li>
+<li><a href="/wiki/Solar_tree" title="Solar tree">Solar tree</a></li>
+<li><a href="/wiki/Solar-powered_pump" title="Solar-powered pump">Solar-powered pump</a></li>
+<li><a href="/wiki/Solar-powered_watch" title="Solar-powered watch">Solar-powered watch</a></li>
+<li><a href="/wiki/Solar_Tuki" title="Solar Tuki">Solar Tuki</a></li>
+<li><a href="/wiki/Photovoltaic_keyboard" title="Photovoltaic keyboard">Photovoltaic keyboard</a></li>
+<li><a href="/wiki/Solar_road_stud" title="Solar road stud">Solar road stud</a></li>
+<li><a href="/wiki/Solar_cell_phone_charger" title="Solar cell phone charger">Solar cell phone charger</a></li>
+<li><a href="/wiki/Solar_notebook" title="Solar notebook">Solar notebook</a></li>
+<li><a href="/wiki/Solar-powered_calculator" title="Solar-powered calculator">Solar-powered calculator</a></li>
+<li><a href="/wiki/Solar-powered_fountain" title="Solar-powered fountain">Solar-powered fountain</a></li>
+<li><a href="/wiki/Solar-powered_radio" title="Solar-powered radio">Solar-powered radio</a></li>
+<li><a href="/wiki/Solar-powered_flashlight" title="Solar-powered flashlight">Solar-powered flashlight</a></li>
+<li><a href="/wiki/Solar-powered_fan" title="Solar-powered fan">Solar-powered fan</a></li>
+<li><a href="/wiki/Solar_street_light" title="Solar street light">Solar street light</a></li>
+<li><a href="/wiki/Solar_traffic_light" title="Solar traffic light">Solar traffic light</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Land transport</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Solar_vehicle" title="Solar vehicle">Solar vehicle</a></li>
+<li><a href="/wiki/Solar_car" title="Solar car">Solar car</a></li>
+<li><a href="/wiki/Solar_roadway" class="mw-redirect" title="Solar roadway">Solar roadway</a></li>
+<li><a href="/wiki/Solar_golf_cart" title="Solar golf cart">Solar golf cart</a></li>
+<li><a href="/wiki/The_Quiet_Achiever" title="The Quiet Achiever">The Quiet Achiever</a></li>
+<li><a href="/wiki/Sunmobile" title="Sunmobile">Sunmobile</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Air transport</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Electric_aircraft" title="Electric aircraft">Electric aircraft</a></li>
+<li><a href="/wiki/Mauro_Solar_Riser" title="Mauro Solar Riser">Mauro Solar Riser</a></li>
+<li><a href="/wiki/Solar_panels_on_spacecraft" title="Solar panels on spacecraft">Solar panels on spacecraft</a></li>
+<li><a href="/wiki/Solar-Powered_Aircraft_Developments_Solar_One" title="Solar-Powered Aircraft Developments Solar One">Solar-Powered Aircraft Developments Solar One</a></li>
+<li><a href="/wiki/Gossamer_Penguin" class="mw-redirect" title="Gossamer Penguin">Gossamer Penguin</a></li>
+<li><a href="/wiki/Qinetiq_Zephyr" title="Qinetiq Zephyr">Qinetiq Zephyr</a></li>
+<li><a href="/wiki/Solar_Challenger" class="mw-redirect" title="Solar Challenger">Solar Challenger</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Water transport</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Electric_boat#Types" title="Electric boat">Solar boat</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Solar vehicle racing</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Solar_car_racing" title="Solar car racing">Solar car racing</a></li>
+<li><a href="/wiki/List_of_solar_car_teams" title="List of solar car teams">List of solar car teams</a></li>
+<li><a href="/wiki/Solar_challenge_(disambiguation)" class="mw-redirect mw-disambig" title="Solar challenge (disambiguation)">Solar challenges</a></li>
+<li><a href="/wiki/World_Solar_Challenge" title="World Solar Challenge">World Solar Challenge</a></li>
+<li><a href="/wiki/American_Solar_Challenge" title="American Solar Challenge">American Solar Challenge</a></li>
+<li><a href="/wiki/Formula_Sun_Grand_Prix" title="Formula Sun Grand Prix">Formula Sun Grand Prix</a></li>
+<li><a href="/wiki/Solar_Cup" title="Solar Cup">Solar Cup</a></li>
+<li><a href="/wiki/Frisian_Solar_Challenge" title="Frisian Solar Challenge">Frisian Solar Challenge</a></li>
+<li><a href="/wiki/Solar_Splash" title="Solar Splash">Solar Splash</a></li>
+<li><a href="/wiki/South_African_Solar_Challenge" title="South African Solar Challenge">South African Solar Challenge</a></li>
+<li><a href="/wiki/Tour_de_Sol" title="Tour de Sol">Tour de Sol</a></li>
+<li><a href="/wiki/Hunt-Winston_School_Solar_Car_Challenge" class="mw-redirect" title="Hunt-Winston School Solar Car Challenge">Hunt-Winston School Solar Car Challenge</a></li>
+<li><a href="/wiki/Victorian_Model_Solar_Vehicle_Challenge" title="Victorian Model Solar Vehicle Challenge">Victorian Model Solar Vehicle Challenge</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;"><a href="/wiki/Photovoltaic_power_station" title="Photovoltaic power station">Generation systems</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;"><a href="/wiki/Photovoltaic_power_station" title="Photovoltaic power station">PV power station</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Grid-connected_photovoltaic_power_system" title="Grid-connected photovoltaic power system">Grid-connected photovoltaic power system</a></li>
+<li><a href="/wiki/List_of_photovoltaic_power_stations" title="List of photovoltaic power stations">List of photovoltaic power stations</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Individual projects</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Alamosa_photovoltaic_power_plant" title="Alamosa photovoltaic power plant">Alamosa photovoltaic power plant</a></li>
+<li><a href="/wiki/Beneixama_photovoltaic_power_plant" title="Beneixama photovoltaic power plant">Beneixama photovoltaic power plant</a></li>
+<li><a href="/wiki/Blythe_Photovoltaic_Power_Plant" title="Blythe Photovoltaic Power Plant">Blythe Photovoltaic Power Plant</a></li>
+<li><a href="/wiki/Copper_Mountain_Solar_Facility" title="Copper Mountain Solar Facility">Copper Mountain Solar Facility</a></li>
+<li><a href="/wiki/Darro_Solar_Park" title="Darro Solar Park">Darro Solar Park</a></li>
+<li><a href="/wiki/Erlasee_Solar_Park" title="Erlasee Solar Park">Erlasee Solar Park</a></li>
+<li><a href="/wiki/Huanghe_Hydropower_Golmud_Solar_Park" title="Huanghe Hydropower Golmud Solar Park">Golmud Solar Park</a></li>
+<li><a href="/wiki/Gottelborn_Solar_Park" class="mw-redirect" title="Gottelborn Solar Park">Gottelborn Solar Park</a></li>
+<li><a href="/wiki/Guadarranque_solar_power_plant" class="mw-redirect" title="Guadarranque solar power plant">Guadarranque solar power plant</a></li>
+<li><a href="/wiki/K%C3%B6then_Solar_Park" title="Köthen Solar Park">Köthen Solar Park</a></li>
+<li><a href="/wiki/Moura_Photovoltaic_Power_Station" title="Moura Photovoltaic Power Station">Moura Photovoltaic Power Station</a></li>
+<li><a href="/wiki/Olmedilla_Photovoltaic_Park" title="Olmedilla Photovoltaic Park">Olmedilla Photovoltaic Park</a></li>
+<li><a href="/wiki/Pocking_Solar_Park" title="Pocking Solar Park">Pocking Solar Park</a></li>
+<li><a href="/wiki/Puertollano_Photovoltaic_Park" title="Puertollano Photovoltaic Park">Puertollano Photovoltaic Park</a></li>
+<li><a href="/wiki/Topaz_Solar_Farm" title="Topaz Solar Farm">Topaz Solar Farm</a></li>
+<li><a href="/wiki/Wyandot_Solar_Facility" title="Wyandot Solar Facility">Wyandot Solar Facility</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Building-mounted</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Rooftop_photovoltaic_power_station" title="Rooftop photovoltaic power station">Rooftop photovoltaic power station</a></li>
+<li><a href="/wiki/Building-integrated_photovoltaics" title="Building-integrated photovoltaics">Building-integrated photovoltaics</a></li>
+<li><a href="/wiki/Solar_Ark" title="Solar Ark">Solar Ark</a></li>
+<li><a href="/wiki/Solar_Umbrella_house" title="Solar Umbrella house">Solar Umbrella house</a></li>
+<li><a href="/wiki/Strasskirchen_Solar_Park" title="Strasskirchen Solar Park">Strasskirchen Solar Park</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;"><a href="/wiki/Solar_power_by_country" title="Solar power by country">By country</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Solar_power_in_Australia" title="Solar power in Australia">Australia</a></li>
+<li><a href="/wiki/Solar_power_in_Belgium" title="Solar power in Belgium">Belgium</a></li>
+<li><a href="/wiki/Solar_power_in_Bulgaria" title="Solar power in Bulgaria">Bulgaria</a></li>
+<li><a href="/wiki/Solar_power_in_Canada" title="Solar power in Canada">Canada</a></li>
+<li><a href="/wiki/Solar_power_in_Chile" title="Solar power in Chile">Chile</a></li>
+<li><a href="/wiki/Solar_power_in_China" title="Solar power in China">China</a></li>
+<li><a href="/wiki/Solar_power_in_the_Czech_Republic" title="Solar power in the Czech Republic">Czech Republic</a></li>
+<li><a href="/wiki/Solar_power_in_France" title="Solar power in France">France</a></li>
+<li><a href="/wiki/Solar_power_in_Germany" title="Solar power in Germany">Germany</a></li>
+<li><a href="/wiki/Solar_power_in_Greece" title="Solar power in Greece">Greece</a></li>
+<li><a href="/wiki/Solar_power_in_India" title="Solar power in India">India</a></li>
+<li><a href="/wiki/Solar_power_in_Italy" title="Solar power in Italy">Italy</a></li>
+<li><a href="/wiki/Solar_power_in_Japan" title="Solar power in Japan">Japan</a></li>
+<li><a href="/wiki/Solar_power_in_the_Netherlands" title="Solar power in the Netherlands">Netherlands</a></li>
+<li><a href="/wiki/Solar_power_in_Romania" title="Solar power in Romania">Romania</a></li>
+<li><a href="/wiki/Solar_power_in_South_Africa" title="Solar power in South Africa">South Africa</a></li>
+<li><a href="/wiki/Solar_power_in_Spain" title="Solar power in Spain">Spain</a></li>
+<li><a href="/wiki/Solar_power_in_Switzerland" title="Solar power in Switzerland">Switzerland</a></li>
+<li><a href="/wiki/Solar_power_in_Thailand" title="Solar power in Thailand">Thailand</a></li>
+<li><a href="/wiki/Solar_power_in_the_United_Kingdom" title="Solar power in the United Kingdom">United Kingdom</a></li>
+<li><a href="/wiki/Solar_power_in_the_United_States" title="Solar power in the United States">USA</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;"><a href="/wiki/List_of_photovoltaics_companies" title="List of photovoltaics companies">PV companies</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">By country</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/List_of_countries_by_photovoltaics_production" class="mw-redirect" title="List of countries by photovoltaics production">List of countries by photovoltaics production</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Individual producers</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/First_Solar" title="First Solar">First Solar</a></li>
+<li><a href="/wiki/Hanwha_Solarone" class="mw-redirect" title="Hanwha Solarone">Hanwha Solarone</a></li>
+<li><a href="/wiki/JA_Solar" class="mw-redirect" title="JA Solar">JA Solar</a></li>
+<li><a href="/wiki/Motech_Solar" title="Motech Solar">Motech Solar</a></li>
+<li><a href="/wiki/Renewable_Energy_Corporation" title="Renewable Energy Corporation">REC</a></li>
+<li><a href="/wiki/Q-Cells" title="Q-Cells">Q-Cells</a></li>
+<li><a href="/wiki/Sharp_Solar" title="Sharp Solar">Sharp</a></li>
+<li><a href="/wiki/Solar_Frontier" title="Solar Frontier">Solar Frontier</a></li>
+<li><a href="/wiki/Solyndra" title="Solyndra">Solyndra</a></li>
+<li><a href="/wiki/SUNGEN_International_Limited" title="SUNGEN International Limited">Sungen Solar</a></li>
+<li><a href="/wiki/Sunpower" class="mw-redirect" title="Sunpower">Sunpower</a></li>
+<li><a href="/wiki/Suntech" class="mw-redirect" title="Suntech">Suntech</a></li>
+<li><a href="/wiki/Trina_Solar" title="Trina Solar">Trina Solar</a></li>
+<li><a href="/wiki/Yingli_Solar" class="mw-redirect" title="Yingli Solar">Yingli Solar</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3">
+<div>
+<ul>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <b><a href="/wiki/Category:Photovoltaics" title="Category:Photovoltaics">Category</a></b></li>
+<li><img alt="Commons page" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" title="Commons page" width="12" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /> <a href="https://commons.wikimedia.org/wiki/Category:Photovoltaics" class="extiw" title="commons:Category:Photovoltaics"><b>Commons</b></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1185
+Cached time: 20170129182957
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.476 seconds
+Real time usage: 0.559 seconds
+Preprocessor visited node count: 3411/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 175165/2097152 bytes
+Template argument size: 766/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 1/500
+Lua time usage: 0.247/10.000 seconds
+Lua memory usage: 4.8 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  439.188      1 -total
+ 72.08%  316.555      1 Template:Reflist
+ 52.14%  229.005     44 Template:Cite_journal
+ 12.05%   52.933      1 Template:Merge
+  8.55%   37.539      6 Template:Navbox
+  6.73%   29.546      1 Template:Photovoltaics
+  6.44%   28.286      1 Template:Mbox
+  1.93%    8.476      2 Template:Cite_web
+  1.86%    8.178      1 Template:Portal
+  1.73%    7.614      1 Template:DMC
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1772929-0!*!0!!en!4!*!math=5 and timestamp 20170129182957 and revision id 760336480
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Polymer_solar_cell&amp;oldid=760336480">https://en.wikipedia.org/w/index.php?title=Polymer_solar_cell&amp;oldid=760336480</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Solar_cells" title="Category:Solar cells">Solar cells</a></li><li><a href="/wiki/Category:Fullerenes" title="Category:Fullerenes">Fullerenes</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">CS1 maint: Multiple names: authors list</a></li><li><a href="/wiki/Category:Articles_to_be_merged_from_March_2014" title="Category:Articles to be merged from March 2014">Articles to be merged from March 2014</a></li><li><a href="/wiki/Category:All_articles_to_be_merged" title="Category:All articles to be merged">All articles to be merged</a></li><li><a href="/wiki/Category:Pages_using_ISBN_magic_links" title="Category:Pages using ISBN magic links">Pages using ISBN magic links</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Polymer+solar+cell" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Polymer+solar+cell" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Polymer_solar_cell"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Polymer_solar_cell"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Polymer_solar_cell" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Polymer_solar_cell&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Polymer_solar_cell&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Polymer_solar_cell" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Polymer_solar_cell" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Polymer_solar_cell&amp;oldid=760336480" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Polymer_solar_cell&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q8308831" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Polymer_solar_cell&amp;id=760336480" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Polymer+solar+cell">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Polymer+solar+cell&amp;returnto=Polymer+solar+cell&amp;oldid=760336480&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Polymer_solar_cell&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/C%C3%A9lula_fotovoltaica_de_pol%C3%ADmeros" title="Célula fotovoltaica de polímeros – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Cellule_polym%C3%A8re_photovolta%C3%AFque" title="Cellule polymère photovoltaïque – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D5%8A%D5%B8%D5%AC%D5%AB%D5%B4%D5%A5%D6%80%D5%A1%D5%B5%D5%AB%D5%B6_%D5%A1%D6%80%D6%87%D5%A1%D5%B5%D5%AB%D5%B6_%D5%B4%D5%A1%D6%80%D5%BF%D5%AF%D5%B8%D6%81" title="Պոլիմերային արևային մարտկոց – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-kn"><a href="https://kn.wikipedia.org/wiki/%E0%B2%AA%E0%B2%BE%E0%B2%B2%E0%B2%BF%E0%B2%AE%E0%B2%B0%E0%B3%8D_%E0%B2%B8%E0%B3%8B%E0%B2%A8%E0%B2%BE%E0%B2%B0%E0%B3%8D_%E0%B2%B8%E0%B3%86%E0%B2%9F%E0%B3%8D" title="ಪಾಲಿಮರ್ ಸೋನಾರ್ ಸೆಟ್ – Kannada" lang="kn" hreflang="kn" class="interlanguage-link-target">ಕನ್ನಡ</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Polymeerzonnecel" title="Polymeerzonnecel – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/C%C3%A9lula_solar_polim%C3%A9rica" title="Célula solar polimérica – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BB%D0%B8%D0%BC%D0%B5%D1%80%D0%BD%D1%8B%D0%B5_%D1%81%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D1%8B%D0%B5_%D0%B1%D0%B0%D1%82%D0%B0%D1%80%D0%B5%D0%B8" title="Полимерные солнечные батареи – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BB%D1%96%D0%BC%D0%B5%D1%80%D0%BD%D1%96_%D1%81%D0%BE%D0%BD%D1%8F%D1%87%D0%BD%D1%96_%D0%B1%D0%B0%D1%82%D0%B0%D1%80%D0%B5%D1%97" title="Полімерні сонячні батареї – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q8308831#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 16 January 2017, at 10:21.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Polymer_solar_cell&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.476","walltime":"0.559","ppvisitednodes":{"value":3411,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":175165,"limit":2097152},"templateargumentsize":{"value":766,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  439.188      1 -total"," 72.08%  316.555      1 Template:Reflist"," 52.14%  229.005     44 Template:Cite_journal"," 12.05%   52.933      1 Template:Merge","  8.55%   37.539      6 Template:Navbox","  6.73%   29.546      1 Template:Photovoltaics","  6.44%   28.286      1 Template:Mbox","  1.93%    8.476      2 Template:Cite_web","  1.86%    8.178      1 Template:Portal","  1.73%    7.614      1 Template:DMC"]},"scribunto":{"limitreport-timeusage":{"value":"0.247","limit":"10.000"},"limitreport-memusage":{"value":5032742,"limit":52428800}},"cachereport":{"origin":"mw1185","timestamp":"20170129182957","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":55,"wgHostname":"mw1214"});});</script>
+	</body>
+</html>

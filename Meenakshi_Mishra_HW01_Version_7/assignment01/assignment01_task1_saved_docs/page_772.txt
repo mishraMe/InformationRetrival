@@ -1,0 +1,834 @@
+url : https://en.wikipedia.org/wiki/Micro-CHP
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Micro combined heat and power - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Micro_combined_heat_and_power","wgTitle":"Micro combined heat and power","wgCurRevisionId":756972174,"wgRevisionId":756972174,"wgArticleId":2019941,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","All articles with dead external links","Articles with dead external links from November 2016","Articles with permanently dead external links","Articles with dead external links from June 2016","CS1 Dutch-language sources (nl)","Wikipedia articles that are too technical from August 2015","All articles that are too technical","Articles needing expert attention from August 2015","All articles needing expert attention","Cogeneration","Renewable energy","Hydrogen technologies"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Micro_combined_heat_and_power","wgRelevantArticleId":2019941,"wgRequestId":"WIquWwpAMFYAAC8ZBBkAAABM","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Micro-CHP","wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgInternalRedirectTargetUrl":"/wiki/Micro_combined_heat_and_power","wgWikibaseItemId":"Q128151","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.action.view.redirect","ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.8"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Micro_combined_heat_and_power"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Micro_combined_heat_and_power&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Micro_combined_heat_and_power&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Micro_combined_heat_and_power"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Micro_combined_heat_and_power rootpage-Micro_combined_heat_and_power skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Micro combined heat and power</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"><span class="mw-redirectedfrom">  (Redirected from <a href="/w/index.php?title=Micro-CHP&amp;redirect=no" class="mw-redirect" title="Micro-CHP">Micro-CHP</a>)</span></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><table class="plainlinks metadata ambox ambox-style ambox-technical" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/60px-Edit-clear.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/80px-Edit-clear.svg.png 2x" data-file-width="48" data-file-height="48" /></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article <b>may be too <a href="https://en.wiktionary.org/wiki/technical#Adjective" class="extiw" title="wikt:technical">technical</a> for most readers to understand</b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Micro_combined_heat_and_power&amp;action=edit">improve</a> this article to <a href="/wiki/Wikipedia:Make_technical_articles_understandable" title="Wikipedia:Make technical articles understandable">make it understandable to non-experts</a>, without removing the technical details. The <a href="/wiki/Talk:Micro_combined_heat_and_power" title="Talk:Micro combined heat and power">talk page</a> may contain suggestions.</span> <small><i>(August 2015)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></span></td>
+</tr>
+</table>
+<p><b>Micro combined heat and power</b> or <b>micro-CHP</b> is an extension of the idea of <a href="/wiki/Cogeneration" title="Cogeneration">cogeneration</a> to the single/multi family home or small office building in the range of up to 50 <a href="/wiki/Kilowatt" class="mw-redirect" title="Kilowatt">kW</a>. Local generation has a higher efficiency as it lacks the 8-10% energy losses when transporting <a href="/wiki/Electricity" title="Electricity">electricity</a> over long distances and the 10–15% energy losses on <a href="/wiki/Heat_transfer" title="Heat transfer">heat transfer</a> in district heating networks due to the difference between the thermal energy carrier (hot water) and the colder external environment. The most common systems use natural gas as their primary energy source and emit <a href="/wiki/Carbon_dioxide_in_Earth%27s_atmosphere" title="Carbon dioxide in Earth's atmosphere">carbon dioxide</a>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Overview"><span class="tocnumber">1</span> <span class="toctext">Overview</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Technologies"><span class="tocnumber">2</span> <span class="toctext">Technologies</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Fuels"><span class="tocnumber">2.1</span> <span class="toctext">Fuels</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Engine_types"><span class="tocnumber">2.2</span> <span class="toctext">Engine types</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Fuel_cells"><span class="tocnumber">2.3</span> <span class="toctext">Fuel cells</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Thermoelectrics"><span class="tocnumber">2.4</span> <span class="toctext">Thermoelectrics</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Solar_micro-CHP"><span class="tocnumber">2.5</span> <span class="toctext">Solar micro-CHP</span></a>
+<ul>
+<li class="toclevel-3 tocsection-8"><a href="#CPVT"><span class="tocnumber">2.5.1</span> <span class="toctext">CPVT</span></a></li>
+<li class="toclevel-3 tocsection-9"><a href="#CHP.2BPV"><span class="tocnumber">2.5.2</span> <span class="toctext">CHP+PV</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#Net_metering"><span class="tocnumber">3</span> <span class="toctext">Net metering</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Market_status"><span class="tocnumber">4</span> <span class="toctext">Market status</span></a>
+<ul>
+<li class="toclevel-2 tocsection-12"><a href="#Japan"><span class="tocnumber">4.1</span> <span class="toctext">Japan</span></a>
+<ul>
+<li class="toclevel-3 tocsection-13"><a href="#ECOWILL"><span class="tocnumber">4.1.1</span> <span class="toctext">ECOWILL</span></a></li>
+<li class="toclevel-3 tocsection-14"><a href="#PEMFC"><span class="tocnumber">4.1.2</span> <span class="toctext">PEMFC</span></a></li>
+<li class="toclevel-3 tocsection-15"><a href="#SOFC"><span class="tocnumber">4.1.3</span> <span class="toctext">SOFC</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-16"><a href="#South_Korea"><span class="tocnumber">4.2</span> <span class="toctext">South Korea</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#Europe"><span class="tocnumber">4.3</span> <span class="toctext">Europe</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#Sweden"><span class="tocnumber">4.4</span> <span class="toctext">Sweden</span></a></li>
+<li class="toclevel-2 tocsection-19"><a href="#Germany"><span class="tocnumber">4.5</span> <span class="toctext">Germany</span></a>
+<ul>
+<li class="toclevel-3 tocsection-20"><a href="#PEMFC_2"><span class="tocnumber">4.5.1</span> <span class="toctext">PEMFC</span></a></li>
+<li class="toclevel-3 tocsection-21"><a href="#SOFC_2"><span class="tocnumber">4.5.2</span> <span class="toctext">SOFC</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-22"><a href="#UK"><span class="tocnumber">4.6</span> <span class="toctext">UK</span></a>
+<ul>
+<li class="toclevel-3 tocsection-23"><a href="#PEMFC_3"><span class="tocnumber">4.6.1</span> <span class="toctext">PEMFC</span></a></li>
+<li class="toclevel-3 tocsection-24"><a href="#SOFC_3"><span class="tocnumber">4.6.2</span> <span class="toctext">SOFC</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-25"><a href="#Denmark"><span class="tocnumber">4.7</span> <span class="toctext">Denmark</span></a></li>
+<li class="toclevel-2 tocsection-26"><a href="#The_Netherlands"><span class="tocnumber">4.8</span> <span class="toctext">The Netherlands</span></a></li>
+<li class="toclevel-2 tocsection-27"><a href="#United_States"><span class="tocnumber">4.9</span> <span class="toctext">United States</span></a></li>
+<li class="toclevel-2 tocsection-28"><a href="#Canada"><span class="tocnumber">4.10</span> <span class="toctext">Canada</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-29"><a href="#Research"><span class="tocnumber">5</span> <span class="toctext">Research</span></a></li>
+<li class="toclevel-1 tocsection-30"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-31"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-32"><a href="#Codes_and_standards"><span class="tocnumber">8</span> <span class="toctext">Codes and standards</span></a></li>
+<li class="toclevel-1 tocsection-33"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Overview">Overview</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Micro_combined_heat_and_power&amp;action=edit&amp;section=1" title="Edit section: Overview">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Combined heat and power (CHP) systems for homes or small commercial buildings are often fueled by <a href="/wiki/Natural_gas" title="Natural gas">natural gas</a> to produce electricity and heat. A micro-CHP system is a small <a href="/wiki/Fuel_cell" title="Fuel cell">fuel cell</a> or a <a href="/wiki/Heat_engine" title="Heat engine">heat engine</a> driving a generator which provide <a href="/wiki/Electric_power" title="Electric power">electric power</a> and heat for an individual building's <a href="/wiki/HVAC" title="HVAC">heating, ventilation, and air conditioning</a>. A micro-CHP may primarily follow heat demand, delivering <a href="/wiki/Electricity" title="Electricity">electricity</a> as the by-product, or may follow electrical demand to <a href="/wiki/Electricity_generation" title="Electricity generation">generate electricity</a> and heat is the by-product. When used primarily for heat in circumstances of fluctuating electrical demand, micro-CHP systems may generate more electricity than is instantly being demanded.</p>
+<p>The heat engine version is a small scale example of <a href="/wiki/Cogeneration" title="Cogeneration">cogeneration</a> schemes which have been used with large electric power plants. The purpose is to utilize more of the energy in the fuel. The reason for using such systems is that <a href="/wiki/Heat_engines" class="mw-redirect" title="Heat engines">heat engines</a>, such as <a href="/wiki/Steam_power_plant" class="mw-redirect" title="Steam power plant">steam power plants</a> which generate the electric power needed for modern life by burning fuel, are not very efficient. Due to <a href="/wiki/Carnot%27s_theorem_(thermodynamics)" title="Carnot's theorem (thermodynamics)">Carnot's theorem</a>, a heat engine cannot be 100% efficient; it cannot convert anywhere near all the heat produced from the fuel it burns into useful forms such as electricity. So heat engines always produce a surplus of low-temperature <a href="/wiki/Waste_heat" title="Waste heat">waste heat</a>, called "secondary heat" or "low-grade heat". Modern plants are limited to efficiencies of about 33–60% at most, so 40–67% of the energy is exhausted as waste heat. In the past this energy was usually wasted to the environment. <a href="/wiki/Cogeneration" title="Cogeneration">Cogeneration</a> systems, built in recent years in cold-climate countries, utilize the waste heat produced by large power plants for heating, piping hot water from the plant into buildings in the surrounding community.</p>
+<p>However, it is not practical to transport heat long distances, due to heat loss from the pipes. Since electricity can be transported practically, it is more efficient to generate the electricity near where the waste heat can be used. So in a "micro-combined heat and power system" (micro-CHP), small power plants are instead located where the secondary heat can be used, in individual buildings. Micro-CHP are defined by the EC as being of less than 50&#160;kW electrical power output.</p>
+<p>In a central power plant, the supply of "waste heat" may exceed the local heat demand. In such cases, if it is not desirable to reduce the power production, the excess waste heat must be disposed in e.g. <a href="/wiki/Cooling_tower" title="Cooling tower">cooling towers</a> or <a href="/w/index.php?title=Sea_cooling&amp;action=edit&amp;redlink=1" class="new" title="Sea cooling (page does not exist)">sea cooling</a> without being used. A way to avoid excess waste heat is to reduce the fuel input to the CHP plant, reducing both the heat and power output to balance the heat demand. In doing this, the power production is limited by the heat demand.</p>
+<p>In a traditional <a href="/wiki/Power_plant" class="mw-redirect" title="Power plant">power plant</a> delivering electricity to consumers, about 30% of the heat content of the primary heat energy source, such as <a href="/wiki/Biomass" title="Biomass">biomass</a>, <a href="/wiki/Coal" title="Coal">coal</a>, <a href="/wiki/Solar_thermal" class="mw-redirect" title="Solar thermal">solar thermal</a>, <a href="/wiki/Natural_gas" title="Natural gas">natural gas</a>, <a href="/wiki/Petroleum" title="Petroleum">petroleum</a> or <a href="/wiki/Nuclear_power" title="Nuclear power">uranium</a>, reaches the consumer, although the efficiency can be 20% for very old plants and 45% for newer gas plants. In contrast, a CHP system converts 15%–42% of the primary heat to electricity, and most of the remaining heat is captured for <a href="/wiki/Water_heating" title="Water heating">hot water</a> or <a href="/wiki/Space_heating" class="mw-redirect" title="Space heating">space heating</a>. In total, as much as 90% of the heat from the primary energy source goes to useful purposes when heat production does not exceed the demand.</p>
+<p>CHP systems are able to increase the total energy utilization of primary energy sources, such as fuel and concentrated <a href="/wiki/Solar_thermal" class="mw-redirect" title="Solar thermal">solar thermal</a> energy. Thus CHP has been steadily gaining popularity in all sectors of the energy economy, due to the increased costs of electricity and fuel, particularly fossil fuels, and due to environmental concerns, particularly <a href="/wiki/Climate_change" title="Climate change">climate change</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></p>
+<p>CHP systems have benefited the industrial sector since the beginning of the industrial revolution. For three decades, these larger CHP systems were more economically justifiable than micro-CHP, due to the <a href="/wiki/Economy_of_scale" class="mw-redirect" title="Economy of scale">economy of scale</a>. After the year 2000, micro-CHP has become cost effective in many markets around the world, due to rising energy costs. The development of micro-CHP systems has also been facilitated by recent technological developments of small heat engines. This includes improved performance and cost-effectiveness of <a href="/wiki/Fuel_cell" title="Fuel cell">fuel cells</a>, <a href="/wiki/Stirling_engine" title="Stirling engine">Stirling engines</a>, <a href="/wiki/Steam_engines" class="mw-redirect" title="Steam engines">steam engines</a>, <a href="/wiki/Gas_turbines" class="mw-redirect" title="Gas turbines">gas turbines</a>, <a href="/wiki/Diesel_engine" title="Diesel engine">diesel engines</a> and <a href="/wiki/Otto_engine" title="Otto engine">Otto engines</a>.</p>
+<p><a href="/wiki/PEMFC" class="mw-redirect" title="PEMFC">PEMFC</a> fuel cell mCHP operates at low temperature (50 to 100&#160;°C) and needs high purity hydrogen, its prone to contamination, changes are made to operate at higher temperatures and improvements on the fuel reformer. <a href="/wiki/SOFC" class="mw-redirect" title="SOFC">SOFC</a> fuel cell mCHP operates at a high temperature (500 to 1,000 °CP) and can handle different energy sources well but the high temperature requires expensive materials to handle the temperature, changes are made to operate at a lower temperature. Because of the higher temperature SOFC in general has a longer start-up time and need continuous heat output even in times when there is no thermal demand.</p>
+<p>CHP systems linked to <a href="/wiki/Absorption_chiller" class="mw-redirect" title="Absorption chiller">absorption chillers</a> can use waste heat for <a href="/wiki/Refrigeration" title="Refrigeration">refrigeration</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></p>
+<p>A 2013 UK report from Ecuity Consulting stated that MCHP is the most cost-effective method of utilising gas to generate energy at the domestic level.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></p>
+<p>Delta-ee consultants stated in 2013 that with 64% of global sales the fuel cell micro-combined heat and power passed the conventional engine-based micro-CHP systems in sales in 2012.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></p>
+<h2><span class="mw-headline" id="Technologies">Technologies</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Micro_combined_heat_and_power&amp;action=edit&amp;section=2" title="Edit section: Technologies">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Micro-CHP engine systems are currently based on several different technologies:<sup id="cite_ref-CHP_Review_2015_6-0" class="reference"><a href="#cite_note-CHP_Review_2015-6">[6]</a></sup></p>
+<ul>
+<li><a href="/wiki/Internal_combustion_engine" title="Internal combustion engine">Internal combustion engines</a></li>
+<li><a href="/wiki/Stirling_engine" title="Stirling engine">Stirling engines</a></li>
+<li><a href="/wiki/Fuel_cell" title="Fuel cell">Fuel cell</a></li>
+<li><a href="/wiki/Microturbine" class="mw-redirect" title="Microturbine">Microturbines</a></li>
+<li><a href="/wiki/Steam_engine" title="Steam engine">Steam engine</a>/<a href="/wiki/Steam_motor" title="Steam motor">Steam motor</a> (using either the traditional water or <a href="/wiki/Organic_Rankine_cycle" title="Organic Rankine cycle">organic chemicals such as refrigerants</a>)</li>
+</ul>
+<h3><span class="mw-headline" id="Fuels">Fuels</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Micro_combined_heat_and_power&amp;action=edit&amp;section=3" title="Edit section: Fuels">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>There are many types of fuels and sources of heat that may be considered for micro-CHP. The properties of these sources vary in terms of system cost, heat cost, environmental effects, convenience, ease of transportation and storage, system maintenance, and system life. Some of the heat sources and fuels that are being considered for use with micro-CHP include: <a href="/wiki/Natural_gas" title="Natural gas">natural gas</a>, <a href="/wiki/Liquefied_petroleum_gas" title="Liquefied petroleum gas">LPG</a>, <a href="/wiki/Biomass" title="Biomass">biomass</a>, vegetable oil (such as <a href="/wiki/Rapeseed" title="Rapeseed">rapeseed</a> oil), <a href="/wiki/Woodgas" class="mw-redirect" title="Woodgas">woodgas</a>, <a href="/wiki/Solar_power" title="Solar power">solar thermal</a>, and lately also <a href="/wiki/Hydrogen" title="Hydrogen">hydrogen</a>, as well as multi-fuel systems. The energy sources with the lowest emissions of particulates and net-carbon dioxide include solar power, hydrogen, biomass (with two-stage gasification into <a href="/wiki/Biogas" title="Biogas">biogas</a>), and natural gas. Due to the high efficiency of the CHP process, cogeneration has still lower carbon emissions compared to energy transformation in fossil driven boilers or thermal power plants.</p>
+<p>The majority of cogeneration systems use natural gas for fuel, because natural gas burns easily and cleanly, it can be inexpensive, it is available in most areas and is easily transported through pipelines, which already exist for many homes.</p>
+<h3><span class="mw-headline" id="Engine_types">Engine types</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Micro_combined_heat_and_power&amp;action=edit&amp;section=4" title="Edit section: Engine types">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Natural gas is suitable for <a href="/wiki/Internal_combustion_engine" title="Internal combustion engine">internal combustion engines</a>, such as <a href="/wiki/Otto_engine" title="Otto engine">Otto engine</a> and <a href="/wiki/Gas_turbine" title="Gas turbine">gas turbine</a> systems. Gas turbines are used in many small systems due to their high efficiency, small size, clean combustion, durability and low maintenance requirements. Gas turbines designed with <a href="/wiki/Foil_bearing" title="Foil bearing">foil bearings</a> and air-cooling operate without lubricating oil or coolants. The waste heat of gas turbines is mostly in the exhaust, whereas the waste heat of <a href="/wiki/Reciprocating_engine" title="Reciprocating engine">reciprocating internal combustion engines</a> is split between the exhaust and cooling system.</p>
+<p><a href="/wiki/External_combustion_engines" class="mw-redirect" title="External combustion engines">External combustion engines</a> can run on any high-temperature heat source. These engines include the <a href="/wiki/Stirling_engine" title="Stirling engine">Stirling engine</a>, hot "gas" turbocharger, and the <a href="/wiki/Steam_engine" title="Steam engine">steam engine</a>. Both range from 10%-20% efficiency, and as of 2014, small quantities are in production for micro-CHP products.</p>
+<p>Other possibilities include the <a href="/wiki/Organic_Rankine_cycle" title="Organic Rankine cycle">Organic Rankine cycle</a>, which operates at lower temperatures and pressures using low-grade heat sources. The primary advantage to this is that the equipment is essentially an air-conditioning or refrigeration unit operating as an engine, whereby the piping and other components need not be designed for extreme temperatures and pressures, reducing cost and complexity. Electrical efficiency suffers, but it is presumed that such a system would be utilizing waste heat or a heat source such as a wood stove or gas boiler that would exist anyway for purposes of space heating.</p>
+<p>The future of combined heat and power, particularly for homes and small businesses, will continue to be affected by the price of fuel, including natural gas. As fuel prices continue to climb, this will make the economics more favorable for energy conservation measures, and more <a href="/wiki/Efficient_energy_use" title="Efficient energy use">efficient energy use</a>, including CHP and micro-CHP.</p>
+<h3><span class="mw-headline" id="Fuel_cells">Fuel cells</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Micro_combined_heat_and_power&amp;action=edit&amp;section=5" title="Edit section: Fuel cells">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Fuel cells generate electricity and heat as a by product. The advantages for a <a href="/wiki/Stationary_fuel_cell_applications" title="Stationary fuel cell applications">stationary fuel cell application</a> over stirling CHP are no moving parts, less maintenance, and quieter operation. The surplus electricity can be delivered back to the grid.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></p>
+<p>PEMFC fuel cells fueled by natural gas or propane use a <a href="/wiki/Steam_reforming#Reforming_for_fuel_cells" title="Steam reforming">steam reformer</a> to convert methane in the gas supply into <a href="/wiki/Carbon_dioxide_in_Earth%27s_atmosphere" title="Carbon dioxide in Earth's atmosphere">carbon dioxide</a> and hydrogen; the hydrogen then reacts with oxygen in the fuel cell to produce electricity.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> A <a href="/wiki/PEMFC" class="mw-redirect" title="PEMFC">PEMFC</a> <a href="/wiki/Fuel_cell" title="Fuel cell">fuel cell</a> based micro-CHP has an electrical efficiency of 37% <a href="/wiki/Lower_heating_value" class="mw-redirect" title="Lower heating value">LHV</a> and 33% <a href="/wiki/Higher_heating_value" class="mw-redirect" title="Higher heating value">HHV</a> and a <a href="/wiki/Heat_recovery" class="mw-redirect" title="Heat recovery">heat recovery</a> efficiency of 52% LHV and 47% HHV with a <a href="/wiki/Service_life" title="Service life">service life</a> of 40,000 hours or 4000 start/stop cycles which is equal to 10 year use. An estimated 138,000 Fuel cell CHP systems below 1&#160;kW had been installed in Japan by the end of 2014.<sup id="cite_ref-CHP_Review_2015_6-1" class="reference"><a href="#cite_note-CHP_Review_2015-6">[6]</a></sup> Most of these CHP systems are PEMFC based (85%) and the remaining are SOFC systems.</p>
+<p>In 2013 <a href="/wiki/Service_life" title="Service life">Lifetime</a> is around 60,000 hours. For PEM fuel cell units, which shut down at night, this equates to an estimated lifetime of between ten and fifteen years.<sup id="cite_ref-fuelcelltoday.com_9-0" class="reference"><a href="#cite_note-fuelcelltoday.com-9">[9]</a></sup></p>
+<p><a href="/wiki/United_States_Department_of_Energy" title="United States Department of Energy">United States Department of Energy (DOE)</a> Technical Targets: 1–10&#160;kW residential combined heat and power fuel cells operating on <a href="/wiki/Natural_gas" title="Natural gas">natural gas</a>.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></p>
+<table class="wikitable">
+<tr>
+<th>Type</th>
+<th>2008 Status</th>
+<th>2012</th>
+<th>2015</th>
+<th>2020</th>
+</tr>
+<tr>
+<td>Electrical efficiency at rated power<sup>2</sup></td>
+<td>34%</td>
+<td>40%</td>
+<td>42.5%</td>
+<td>45%</td>
+</tr>
+<tr>
+<td>CHP energy efficiency<sup>3</sup></td>
+<td>80%</td>
+<td>85%</td>
+<td>87.5%</td>
+<td>90%</td>
+</tr>
+<tr>
+<td>Factory cost<sup>4</sup></td>
+<td>$750/kW</td>
+<td>$650/kW</td>
+<td>$550/kW</td>
+<td>$450/kW</td>
+</tr>
+<tr>
+<td>Transient response (10%–90% rated power)</td>
+<td>5 min</td>
+<td>4 min</td>
+<td>3 min</td>
+<td>2 min</td>
+</tr>
+<tr>
+<td>Start-up time from 20&#160;°C ambient temperature</td>
+<td>60 min</td>
+<td>45 min</td>
+<td>30 min</td>
+<td>20 min</td>
+</tr>
+<tr>
+<td>Degradation with cycling<sup>5</sup></td>
+<td>&lt; 2%/1000 h</td>
+<td>0.7%/1000 h</td>
+<td>0.5%/1000 h</td>
+<td>0.3%/1000 h</td>
+</tr>
+<tr>
+<td>Operating lifetime<sup>6</sup></td>
+<td>6,000 h</td>
+<td>30,000 h</td>
+<td>40,000 h</td>
+<td>60,000 h</td>
+</tr>
+<tr>
+<td>System availability</td>
+<td>97%</td>
+<td>97.5%</td>
+<td>98%</td>
+<td>99%</td>
+</tr>
+</table>
+<p><sup>1</sup>Standard utility natural gas delivered at typical residential distribution line pressures. <sup>2</sup>Regulated AC net/lower heating value of fuel. <sup>3</sup>Only heat available at 80&#160;°C or higher is included in CHP energy efficiency calculation. <sup>4</sup>Cost includes materials and labor costs to produce stack, plus any balance of plant necessary for stack operation. Cost defined at 50,000 unit/year production (250 MW in 5&#160;kW modules). <sup>5</sup>Based on operating cycle to be released in 2010. <sup>6</sup>Time until &gt;20% net power degradation.</p>
+<h3><span class="mw-headline" id="Thermoelectrics">Thermoelectrics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Micro_combined_heat_and_power&amp;action=edit&amp;section=6" title="Edit section: Thermoelectrics">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Thermoelectric" class="mw-redirect" title="Thermoelectric">Thermoelectric</a> generators operating on the <a href="/wiki/Seebeck_Effect" class="mw-redirect" title="Seebeck Effect">Seebeck Effect</a> show promise due to their total absence of moving parts. Efficiency, however, is the major concern as most thermoelectric devices fail to achieve 5% efficiency even with high temperature differences.</p>
+<h3><span class="mw-headline" id="Solar_micro-CHP">Solar micro-CHP</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Micro_combined_heat_and_power&amp;action=edit&amp;section=7" title="Edit section: Solar micro-CHP">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="CPVT">CPVT</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Micro_combined_heat_and_power&amp;action=edit&amp;section=8" title="Edit section: CPVT">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>This can be achieved by <a href="/wiki/Photovoltaic_thermal_hybrid_solar_collector" title="Photovoltaic thermal hybrid solar collector">Photovoltaic thermal hybrid solar collector</a>, another option is <b>Concentrated photovoltaics and thermal</b> (<b>CPVT</b>), also sometimes called <b>combined heat and power solar</b> (<b>CHAPS</b>), is a <a href="/wiki/Cogeneration" title="Cogeneration">cogeneration</a> technology used in concentrated photovoltaics that produce both electricity and heat in the same module. The heat may be employed in <a href="/wiki/District_heating" title="District heating">district heating</a>, <a href="/wiki/Water_heating" title="Water heating">water heating</a> and <a href="/wiki/Solar_cooling" class="mw-redirect" title="Solar cooling">air conditioning</a>, <a href="/wiki/Desalination" title="Desalination">desalination</a> or <a href="/wiki/Process_heat" class="mw-redirect" title="Process heat">process heat</a>.</p>
+<p>CPVT systems are currently in production in Europe,<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> with <a href="/wiki/Zenith_Solar" title="Zenith Solar">Zenith Solar</a> developing CPVT systems with a claimed efficiency of 72%.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup></p>
+<p><a href="/wiki/Sopogy" title="Sopogy">Sopogy</a> produces a micro <a href="/wiki/Concentrated_solar_power" title="Concentrated solar power">concentrated solar power</a> (microCSP) system based on <a href="/wiki/Parabolic_trough" title="Parabolic trough">parabolic trough</a> which can be installed above building or homes, the heat can be used for water heating or <a href="/wiki/Solar_air_conditioning" title="Solar air conditioning">solar air conditioning</a>, a <a href="/wiki/Steam_turbine" title="Steam turbine">steam turbine</a> can also be installed to produce electricity.</p>
+<h4><span class="mw-headline" id="CHP.2BPV">CHP+PV</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Micro_combined_heat_and_power&amp;action=edit&amp;section=9" title="Edit section: CHP+PV">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>The recent development of small scale CHP systems has provided the opportunity for in-house power backup of residential-scale <a href="/wiki/Photovoltaic" class="mw-redirect" title="Photovoltaic">photovoltaic</a> (PV) arrays.<sup id="cite_ref-autogenerated1947_13-0" class="reference"><a href="#cite_note-autogenerated1947-13">[13]</a></sup> The results of a recent study show that a PV+CHP hybrid system not only has the potential to radically reduce energy waste in the status quo electrical and heating systems, but it also enables the share of solar PV to be expanded by about a factor of five.<sup id="cite_ref-autogenerated1947_13-1" class="reference"><a href="#cite_note-autogenerated1947-13">[13]</a></sup> In some regions, in order to reduce waste from excess heat, an <a href="/wiki/Absorption_chiller" class="mw-redirect" title="Absorption chiller">absorption chiller</a> has been proposed to utilize the CHP-produced thermal energy for cooling of PV-CHP system.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup> These <a href="/wiki/Trigeneration" class="mw-redirect" title="Trigeneration">trigen</a>+PV systems have the potential to save even more energy.</p>
+<h2><span class="mw-headline" id="Net_metering">Net metering</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Micro_combined_heat_and_power&amp;action=edit&amp;section=10" title="Edit section: Net metering">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>To date, micro-CHP systems achieve much of their savings, and thus attractiveness to consumers, by the value of electrical energy which is replaced by the autoproduced electricity. A "generate-and-resell" or <a href="/wiki/Net_metering" title="Net metering">net metering</a> model supports this as home-generated power exceeding the instantaneous in-home needs is sold back to the electrical utility. This system is efficient because the energy used is distributed and used instantaneously over the <a href="/wiki/Electrical_grid" title="Electrical grid">electrical grid</a>. The main losses are in the transmission from the source to the consumer which will typically be less than losses incurred by storing energy locally or generating power at less than the peak efficiency of the micro-CHP system. So, from a purely technical standpoint <a href="/wiki/Dynamic_demand_(electric_power)" title="Dynamic demand (electric power)">dynamic demand management</a> and net-metering are very efficient.</p>
+<p>Another positive to net-metering is the fact that it is fairly easy to configure. The user's <a href="/wiki/Electrical_meter" class="mw-redirect" title="Electrical meter">electrical meter</a> is simply able to record electrical power exiting as well as entering the home or business. As such, it records the net amount of power entering the home. For a grid with relatively few micro-CHP users, no design changes to the electrical grid need be made. Additionally, in the <a href="/wiki/United_States" title="United States">United States</a>, federal and now many state regulations require utility operators to compensate anyone adding power to the grid. From the standpoint of grid operator, these points present operational and technical as well as administrative burdens. As a consequence, most grid operators compensate non-<a href="/wiki/Utility" title="Utility">utility</a> power-contributors at less than or equal to the rate they charge their customers. While this compensation scheme may seem almost fair at first glance, it only represents the consumer’s cost-savings of not purchasing utility power versus the true cost of generation and operation to the micro-CHP operator. Thus from the standpoint of micro-CHP operators, net-metering is not ideal.</p>
+<p>While net-metering is a very efficient mechanism for using excess energy generated by a micro-CHP system, it does have detractors. Of the detractors' main points, the first to consider is that while the main generating source on the electrical grid is a large commercial generator, net-metering generators "spill" power to the <a href="/wiki/Smart_grid" title="Smart grid">smart grid</a> in a haphazard and unpredictable fashion. However, the effect is negligible if there are only a small percentage of customers generating electricity and each of them generates a relatively small amount of electricity. When turning on an oven or space heater, about the same amount of electricity is drawn from the grid as a home generator puts out. If the percentage of homes with generating systems becomes large, then the effect on the grid may become significant. Coordination among the generating systems in homes and the rest of the grid may be necessary for reliable operation and to prevent damage to the grid.</p>
+<h2><span class="mw-headline" id="Market_status">Market status</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Micro_combined_heat_and_power&amp;action=edit&amp;section=11" title="Edit section: Market status">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Japan">Japan</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Micro_combined_heat_and_power&amp;action=edit&amp;section=12" title="Edit section: Japan">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The largest deployment of micro-CHP is in <a href="/wiki/Japan" title="Japan">Japan</a> in 2009 where over 90,000 units in place,<sup id="cite_ref-CHP_Review_2015_6-2" class="reference"><a href="#cite_note-CHP_Review_2015-6">[6]</a></sup> with the vast majority being of <a href="/wiki/Honda" title="Honda">Honda</a>'s<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup> "ECO-WILL" type.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup> Six Japanese energy companies launched the 300&#160;W–1&#160;kW <a href="/wiki/PEMFC" class="mw-redirect" title="PEMFC">PEMFC</a>/<a href="/wiki/SOFC" class="mw-redirect" title="SOFC">SOFC</a> ENE FARM<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup><sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup> product in 2009, with 3,000 installed units in 2008, a production target of 150,000 units for 2009–2010 and a target of 2,500,000 units in 2030.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup> 20,000 units where sold in 2012 overall within the Ene Farm project making an estimated total of 50,000 PEMFC and up to 5,000 SOFC installations.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup> For 2013 a state subsidy for 50,000 units is in place.<sup id="cite_ref-fuelcelltoday.com_9-1" class="reference"><a href="#cite_note-fuelcelltoday.com-9">[9]</a></sup> The ENE FARM project will pass 100.000 systems in 2014, 34.213 PEMFC and 2.224 SOFC were installed in the period 2012-2014, 30,000 units on <a href="/wiki/LNG" class="mw-redirect" title="LNG">LNG</a> and 6,000 on <a href="/wiki/Liquefied_petroleum_gas" title="Liquefied petroleum gas">LPG</a>.<sup id="cite_ref-CalluxEn1_21-0" class="reference"><a href="#cite_note-CalluxEn1-21">[21]</a></sup></p>
+<h4><span class="mw-headline" id="ECOWILL">ECOWILL</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Micro_combined_heat_and_power&amp;action=edit&amp;section=13" title="Edit section: ECOWILL">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Sold by various gas companies and as of 2013, installed in a total of 131,000 homes. Manufactured by Honda using their single cylinder EXlink engine capable of burning natural gas or propane. Each unit produces 1&#160;kW of electricity and 2.8&#160;kW of hot water.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup></p>
+<h4><span class="mw-headline" id="PEMFC">PEMFC</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Micro_combined_heat_and_power&amp;action=edit&amp;section=14" title="Edit section: PEMFC">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul>
+<li>Per December 2012, <a href="/wiki/Panasonic" title="Panasonic">Panasonic</a> and Tokyo Gas Co., Ltd. sold about 21,000 PEM Ene-Farm units in Japan for a price of $22,600 before installation.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup><sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup></li>
+<li>Toshiba and Osaka Gas Co., Ltd./Nichigas<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup> installed 6,500 PEM ENE FARM units (manufactured by Chofu Seisakusho Co., Ltd,<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup> ) per November 2011.<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[27]</a></sup></li>
+</ul>
+<h4><span class="mw-headline" id="SOFC">SOFC</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Micro_combined_heat_and_power&amp;action=edit&amp;section=15" title="Edit section: SOFC">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul>
+<li>In the middle of 2012, <a href="/wiki/Nippon_Oil" title="Nippon Oil">JX Nippon Oil Co.</a> &amp; <a href="/wiki/Sanyo" title="Sanyo">Sanyo</a> and Seibu Gas Energy Co. sold around 4,000 SOFC Ene Farm units.<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[28]</a></sup></li>
+<li><a href="/wiki/Aisin_Seiki" title="Aisin Seiki">Aisin Seiki</a> in combination with Osaka Gas, <a href="/wiki/Kyocera" title="Kyocera">Kyocera</a>, Toyota and Chofu Seisakusho started in April 2012 with the sales of the SOFC ENE-FARM Type S for around $33,500 before installation.<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">[29]</a></sup></li>
+<li><a href="/wiki/NGK" title="NGK">NGK</a> is a manufacturer of 700W-1 Kw mCHP units.<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">[30]</a></sup></li>
+<li><a href="/w/index.php?title=Miura_Kogyo&amp;action=edit&amp;redlink=1" class="new" title="Miura Kogyo (page does not exist)">Miura Kogyo</a><sup id="cite_ref-31" class="reference"><a href="#cite_note-31">[31]</a></sup> and <a href="/wiki/Sumitomo_Precision_Products" title="Sumitomo Precision Products">Sumitomo Precision Products</a> with a 4.2 Kw unit.</li>
+<li><a href="/wiki/Toto_Ltd." title="Toto Ltd.">Toto Ltd.</a><sup id="cite_ref-32" class="reference"><a href="#cite_note-32">[32]</a></sup></li>
+</ul>
+<h3><span class="mw-headline" id="South_Korea">South Korea</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Micro_combined_heat_and_power&amp;action=edit&amp;section=16" title="Edit section: South Korea">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In <a href="/wiki/South_Korea" title="South Korea">South Korea</a>, subsidies will start at 80 percent of the cost of a domestic fuel cell.<sup id="cite_ref-33" class="reference"><a href="#cite_note-33">[33]</a></sup> The <a href="/wiki/Renewable_portfolio_standard" title="Renewable portfolio standard">Renewable Portfolio Standard</a> program with <a href="/wiki/Renewable_Energy_Certificate_(United_States)" title="Renewable Energy Certificate (United States)">renewable energy certificates</a> runs from 2012 to 2022.<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">[34]</a></sup> Quota systems favor large, vertically integrated generators and multinational electric utilities, if only because certificates are generally denominated in units of one megawatt-hour. They are also more difficult to design and implement than a <a href="/wiki/Feed-in_tariff" title="Feed-in tariff">Feed-in tariff</a>.<sup id="cite_ref-wind-works.org_35-0" class="reference"><a href="#cite_note-wind-works.org-35">[35]</a></sup> Around 350 residential mCHP units where installed in 2012.<sup id="cite_ref-36" class="reference"><a href="#cite_note-36">[36]</a></sup></p>
+<ul>
+<li>PEMFC by <a href="/wiki/GS_Group" title="GS Group">GS FuelCell</a>,<sup id="cite_ref-37" class="reference"><a href="#cite_note-37">[37]</a></sup> FuelCell Power,<sup id="cite_ref-38" class="reference"><a href="#cite_note-38">[38]</a></sup> <a href="/wiki/Hyundai_Hysco" title="Hyundai Hysco">Hyundai Hysco</a><sup id="cite_ref-39" class="reference"><a href="#cite_note-39">[39]</a></sup> <a href="/wiki/Joint_venture" title="Joint venture">JV</a> with <a href="/wiki/Plug_Power" title="Plug Power">Plug Power</a>, <a href="/wiki/IHI_Corporation" title="IHI Corporation">IHI</a> and <a href="/wiki/Hyosung" title="Hyosung">Hyosung</a>,<sup id="cite_ref-40" class="reference"><a href="#cite_note-40">[40]</a></sup></li>
+<li>SOFC by <a href="/w/index.php?title=KEPRI&amp;action=edit&amp;redlink=1" class="new" title="KEPRI (page does not exist)">KEPRI</a>,<sup id="cite_ref-41" class="reference"><a href="#cite_note-41">[41]</a></sup> <a href="/wiki/LS_Group" title="LS Group">LS Industrial Systems</a> (from <a href="/wiki/ClearEdge_Power" class="mw-redirect" title="ClearEdge Power">ClearEdge Power</a>), Samsung Everland (ClearEdge Power).</li>
+<li><a href="/wiki/Molten_carbonate_fuel_cell" title="Molten carbonate fuel cell">MCFC</a> by <a href="/wiki/POSCO_Energy" class="mw-redirect" title="POSCO Energy">POSCO Energy</a> (<a href="/wiki/FuelCell_Energy" title="FuelCell Energy">FuelCell Energy</a>) <sup id="cite_ref-42" class="reference"><a href="#cite_note-42">[42]</a></sup> and <a href="/wiki/Doosan_Heavy_Industries_%26_Construction" title="Doosan Heavy Industries &amp; Construction">Doosan</a>.</li>
+<li>PAFC <a href="/wiki/Doosan_Fuel_Cell_America" title="Doosan Fuel Cell America">Doosan Fuel Cell America</a></li>
+<li>AFC <a href="/wiki/AFC_Energy" title="AFC Energy">AFC Energy</a></li>
+</ul>
+<h3><span class="mw-headline" id="Europe">Europe</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Micro_combined_heat_and_power&amp;action=edit&amp;section=17" title="Edit section: Europe">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The European <a href="/wiki/Public%E2%80%93private_partnership" title="Public–private partnership">public–private partnership</a> <a href="/wiki/Fuel_Cells_and_Hydrogen_Joint_Technology_Initiative" class="mw-redirect" title="Fuel Cells and Hydrogen Joint Technology Initiative">Fuel Cells and Hydrogen Joint Undertaking</a> <a href="/wiki/Framework_Programmes_for_Research_and_Technological_Development" title="Framework Programmes for Research and Technological Development">Seventh Framework Programme</a> project ene.field aims to deploy by 2017<sup id="cite_ref-43" class="reference"><a href="#cite_note-43">[43]</a></sup> up 1,000 residential fuel cell Combined Heat and Power (micro-CHP) installations in 12 EU member states.</p>
+<ul>
+<li>The programme brings together 9 mature European micro FC-CHP manufacturers into a common analysis framework to deliver trials across all of the available fuel cell CHP technologies. Fuel cell micro-CHP trials will be installed and actively monitored in dwellings across the range of European domestic heating markets, dwelling types and climatic zones, which will lead to an invaluable dataset on domestic energy consumption and micro-CHP applicability across Europe.</li>
+<li>The ene.field project also brings together over 30 utilities, housing providers and municipalities to bring the products to market and explore different business models for micro-CHP deployment.<sup id="cite_ref-44" class="reference"><a href="#cite_note-44">[44]</a></sup><sup id="cite_ref-45" class="reference"><a href="#cite_note-45">[45]</a></sup><sup id="cite_ref-46" class="reference"><a href="#cite_note-46">[46]</a></sup></li>
+</ul>
+<h3><span class="mw-headline" id="Sweden">Sweden</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Micro_combined_heat_and_power&amp;action=edit&amp;section=18" title="Edit section: Sweden">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Powercell Sweden is a fuel cell company that develop environmentally friendly electric generators with the unique fuel cell and reformer technology that is suitable for both existing and future fuel.</p>
+<h3><span class="mw-headline" id="Germany">Germany</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Micro_combined_heat_and_power&amp;action=edit&amp;section=19" title="Edit section: Germany">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In Germany, ca 50 MW of mCHP up to 50&#160;kW units have been installed in 2015.<sup id="cite_ref-47" class="reference"><a href="#cite_note-47">[47]</a></sup> The German government is offering large CHP incentives, including a <a href="/w/index.php?title=Market_premium&amp;action=edit&amp;redlink=1" class="new" title="Market premium (page does not exist)">market premium</a> on electricity generated by CHP and an investment bonus for micro-CHP units. The German testing project Callux has 500 mCHP installations per nov 2014.<sup id="cite_ref-CalluxEn1_21-1" class="reference"><a href="#cite_note-CalluxEn1-21">[21]</a></sup> <a href="/wiki/North-Rhine_Westphalia" class="mw-redirect" title="North-Rhine Westphalia">North-Rhine Westphalia</a> launched a 250 million subsidy program for up to 50&#160;kW lasting until 2017.<sup id="cite_ref-48" class="reference"><a href="#cite_note-48">[48]</a></sup></p>
+<h4><span class="mw-headline" id="PEMFC_2">PEMFC</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Micro_combined_heat_and_power&amp;action=edit&amp;section=20" title="Edit section: PEMFC">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul>
+<li><a href="/wiki/BDR_Thermea" title="BDR Thermea">BDR Thermea</a>/<a href="/wiki/Baxi" title="Baxi">BAXI</a> (Toshiba)</li>
+<li><a href="/wiki/Viessmann" title="Viessmann">Viessmann</a> (Panasonic)<sup id="cite_ref-49" class="reference"><a href="#cite_note-49">[49]</a></sup></li>
+<li><a href="/w/index.php?title=IRD_Fuel_Cell&amp;action=edit&amp;redlink=1" class="new" title="IRD Fuel Cell (page does not exist)">IRD Fuel Cell</a> <sup id="cite_ref-50" class="reference"><a href="#cite_note-50">[50]</a></sup></li>
+<li><a href="/w/index.php?title=Elcore&amp;action=edit&amp;redlink=1" class="new" title="Elcore (page does not exist)">Elcore</a>,<sup id="cite_ref-51" class="reference"><a href="#cite_note-51">[51]</a></sup> a 300W addon.<sup id="cite_ref-52" class="reference"><a href="#cite_note-52">[52]</a></sup></li>
+<li><a href="/wiki/Tropical_(vehicles)" title="Tropical (vehicles)">Tropical</a> <sup id="cite_ref-53" class="reference"><a href="#cite_note-53">[53]</a></sup></li>
+<li><a href="/wiki/Dantherm" title="Dantherm">Dantherm Power</a></li>
+<li><a href="/w/index.php?title=Riesaer_Brennstoffzellentechnik_GmbH&amp;action=edit&amp;redlink=1" class="new" title="Riesaer Brennstoffzellentechnik GmbH (page does not exist)">Riesaer Brennstoffzellentechnik GmbH</a> (Inhouse Engineering)<sup id="cite_ref-54" class="reference"><a href="#cite_note-54">[54]</a></sup></li>
+</ul>
+<h4><span class="mw-headline" id="SOFC_2">SOFC</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Micro_combined_heat_and_power&amp;action=edit&amp;section=21" title="Edit section: SOFC">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul>
+<li><a href="/w/index.php?title=Center_for_Fuel_Cell_Technology&amp;action=edit&amp;redlink=1" class="new" title="Center for Fuel Cell Technology (page does not exist)">Center for Fuel Cell Technology</a> (ZBT) (<a href="/wiki/Nippon_Oil" title="Nippon Oil">JX Nippon</a>)<sup id="cite_ref-55" class="reference"><a href="#cite_note-55">[55]</a></sup></li>
+<li><a href="/wiki/Ceramic_Fuel_Cells" title="Ceramic Fuel Cells">Ceramic Fuel Cells</a> installs until 2014 up to 100 SOFC units under the SOFT-PACT<sup id="cite_ref-56" class="reference"><a href="#cite_note-56">[56]</a></sup> project with E.ON in Germany and the UK. A factory in <a href="/wiki/Heinsberg" title="Heinsberg">Heinsberg</a>, Germany for the production of SOFC based micro-CHP units started in June 2009 to produce 10,000 two-kilowatt units per year.<sup id="cite_ref-57" class="reference"><a href="#cite_note-57">[57]</a></sup></li>
+<li><a href="/wiki/Vaillant_Group" title="Vaillant Group">Vaillant</a> (Sunfire/Staxera)<sup id="cite_ref-58" class="reference"><a href="#cite_note-58">[58]</a></sup></li>
+<li>Buderus/Junkers – <a href="/w/index.php?title=Bosch_Thermotechnik&amp;action=edit&amp;redlink=1" class="new" title="Bosch Thermotechnik (page does not exist)">Bosch Thermotechnik</a> (Aisin Seiki)<sup id="cite_ref-59" class="reference"><a href="#cite_note-59">[59]</a></sup></li>
+<li><a href="/w/index.php?title=SOFCpower&amp;action=edit&amp;redlink=1" class="new" title="SOFCpower (page does not exist)">SOFCpower</a>/<a href="/w/index.php?title=Ariston_(company)&amp;action=edit&amp;redlink=1" class="new" title="Ariston (company) (page does not exist)">Ariston</a></li>
+<li>Itho-Daalderop (<a href="/w/index.php?title=Ceres_Power&amp;action=edit&amp;redlink=1" class="new" title="Ceres Power (page does not exist)">Ceres Power</a>)</li>
+<li><a href="/wiki/Viessmann" title="Viessmann">Viessmann</a> (<a href="/w/index.php?title=HEXIS&amp;action=edit&amp;redlink=1" class="new" title="HEXIS (page does not exist)">HEXIS</a>),<sup id="cite_ref-60" class="reference"><a href="#cite_note-60">[60]</a></sup><sup id="cite_ref-61" class="reference"><a href="#cite_note-61">[61]</a></sup></li>
+</ul>
+<h3><span class="mw-headline" id="UK">UK</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Micro_combined_heat_and_power&amp;action=edit&amp;section=22" title="Edit section: UK">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>It is estimated that about 1,000 micro-CHP systems were in operation in the UK as of 2002. These are primarily <a href="/wiki/Applications_of_the_Stirling_engine#MicroCHP" title="Applications of the Stirling engine">Whispergen</a> using <a href="/wiki/Stirling_engine" title="Stirling engine">Stirling engines</a>, and Senertec Dachs <a href="/wiki/Reciprocating_engine" title="Reciprocating engine">reciprocating engines</a>. The market is supported by the government through regulatory work, and some government research money expended through the Energy Saving Trust and <a href="/wiki/The_Carbon_Trust" class="mw-redirect" title="The Carbon Trust">Carbon Trust</a>, which are public bodies supporting energy efficiency in the UK.<sup id="cite_ref-62" class="reference"><a href="#cite_note-62">[62]</a></sup> Effective as of 7 April 2005, the UK government has cut the VAT from 20% to 5% for micro-CHP systems, in order to support demand for this emerging technology at the expense of existing, less environmentally friendly technology. The reduction in VAT is effectively a 10.63%<sup id="cite_ref-63" class="reference"><a href="#cite_note-63">[63]</a></sup> <a href="/wiki/Subsidy" title="Subsidy">subsidy</a> for micro-CHP units over conventional systems, which will help micro-CHP units become more cost competitive, and ultimately drive micro-CHP sales in the UK. Of the 24 million households in the UK, as many as 14 to 18 million are thought to be suitable for micro-CHP units.<sup id="cite_ref-64" class="reference"><a href="#cite_note-64">[64]</a></sup> Two fuel cell varieties of mCHP co-generation units are almost ready for mainstream production and are planned for release to commercial markets in early in 2014. With the UK Government's Feed-In-Tariff available for a 10-year period, a wide uptake of the technology is anticipated.</p>
+<h4><span class="mw-headline" id="PEMFC_3">PEMFC</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Micro_combined_heat_and_power&amp;action=edit&amp;section=23" title="Edit section: PEMFC">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul>
+<li>In early 2012 less than 1000 1 kWe <a href="/wiki/Baxi" title="Baxi">Baxi</a>-Innotech <sup id="cite_ref-65" class="reference"><a href="#cite_note-65">[65]</a></sup> PEM micro-CHP units from <a href="/wiki/BDR_Thermea" title="BDR Thermea">BDR Thermea</a> were installed <sup id="cite_ref-cospp.com_66-0" class="reference"><a href="#cite_note-cospp.com-66">[66]</a></sup></li>
+<li><a href="/wiki/Intelligent_Energy" title="Intelligent Energy">IE-CHP</a></li>
+</ul>
+<h4><span class="mw-headline" id="SOFC_3">SOFC</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Micro_combined_heat_and_power&amp;action=edit&amp;section=24" title="Edit section: SOFC">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul>
+<li>A <a href="/w/index.php?title=Ceres_Power&amp;action=edit&amp;redlink=1" class="new" title="Ceres Power (page does not exist)">Ceres Power</a> factory in <a href="/wiki/Horsham" title="Horsham">Horsham</a> UK for the production of <a href="/wiki/SOFC" class="mw-redirect" title="SOFC">SOFC</a> based micro-CHP units is expected to start low-volume production in the second half of 2009<sup id="cite_ref-67" class="reference"><a href="#cite_note-67">[67]</a></sup></li>
+<li><a href="/wiki/Ceramic_Fuel_Cells" title="Ceramic Fuel Cells">Ceramic Fuel Cells</a></li>
+</ul>
+<h3><span class="mw-headline" id="Denmark">Denmark</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Micro_combined_heat_and_power&amp;action=edit&amp;section=25" title="Edit section: Denmark">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The Danish mCHP project 2007 to 2014 with 30 units is on the island of <a href="/wiki/Lolland" title="Lolland">Lolland</a> and in the western town <a href="/wiki/Varde" title="Varde">Varde</a>.<sup id="cite_ref-68" class="reference"><a href="#cite_note-68">[68]</a></sup> Denmark is currently part of the Ene.field project.</p>
+<ul>
+<li><a href="/w/index.php?title=IRD_Fuel_Cell&amp;action=edit&amp;redlink=1" class="new" title="IRD Fuel Cell (page does not exist)">IRD Fuel Cell</a></li>
+<li><a href="/wiki/Dantherm" title="Dantherm">Dantherm Power</a> (<a href="/wiki/Ballard_Power" class="mw-redirect" title="Ballard Power">Ballard Power</a>)</li>
+</ul>
+<h3><span class="mw-headline" id="The_Netherlands">The Netherlands</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Micro_combined_heat_and_power&amp;action=edit&amp;section=26" title="Edit section: The Netherlands">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The micro-CHP subsidy was ended in 2012.<sup id="cite_ref-cospp.com_66-1" class="reference"><a href="#cite_note-cospp.com-66">[66]</a></sup> To test the effects of mCHP on a <a href="/wiki/Smart_grid" title="Smart grid">smart grid</a>, 45 <a href="/wiki/Natural_gas" title="Natural gas">natural gas</a> <a href="/wiki/SOFC" class="mw-redirect" title="SOFC">SOFC</a> units (each 1,5 kWh) from Republiq Power (<a href="/wiki/Ceramic_Fuel_Cells" title="Ceramic Fuel Cells">Ceramic Fuel Cells</a>) will be placed on <a href="/wiki/Ameland" title="Ameland">Ameland</a> in 2013 to function as a <a href="/wiki/Virtual_power_plant" title="Virtual power plant">virtual power plant</a>.<sup id="cite_ref-69" class="reference"><a href="#cite_note-69">[69]</a></sup></p>
+<h3><span class="mw-headline" id="United_States">United States</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Micro_combined_heat_and_power&amp;action=edit&amp;section=27" title="Edit section: United States">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The federal government is offering a 10% tax credit for smaller CHP and micro-CHP commercial applications.</p>
+<p>In 2007, the United States company "Climate Energy" of Massachusetts introduced the "Freewatt,<sup id="cite_ref-70" class="reference"><a href="#cite_note-70">[70]</a></sup> a micro-CHP system based on a Honda MCHP engine bundled with a gas furnace (for warm air systems) or boiler (for hydronic or forced hot water heating systems). Through a pilot program scheduled for mid-2009 in the Canadian province of Ontario, the Freewatt system is being offered by home builder Eden Oak with support from ECR International, Enbridge Gas Distribution and National Grid.<sup id="cite_ref-71" class="reference"><a href="#cite_note-71">[71]</a></sup></p>
+<ul>
+<li>AFC <a href="/wiki/Doosan_Fuel_Cell_America" title="Doosan Fuel Cell America">Doosan Fuel Cell America</a></li>
+<li>PEMFC <a href="/wiki/Plug_Power" title="Plug Power">Plug Power</a> (<a href="/wiki/Ballard_Power_Systems" title="Ballard Power Systems">Ballard Power Systems</a>)</li>
+</ul>
+<h3><span class="mw-headline" id="Canada">Canada</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Micro_combined_heat_and_power&amp;action=edit&amp;section=28" title="Edit section: Canada">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>Hyteon PEM <sup id="cite_ref-72" class="reference"><a href="#cite_note-72">[72]</a></sup></li>
+</ul>
+<h2><span class="mw-headline" id="Research">Research</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Micro_combined_heat_and_power&amp;action=edit&amp;section=29" title="Edit section: Research">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Testing is underway in <a href="/wiki/Ameland" title="Ameland">Ameland</a>, the Netherlands for a three-year field testing until 2010 of <a href="/wiki/HCNG" title="HCNG">HCNG</a> were 20% hydrogen is added to the local <a href="/wiki/Compressed_natural_gas" title="Compressed natural gas">CNG</a> distribution net, the appliances involved are <a href="/wiki/Kitchen_stove" title="Kitchen stove">kitchen stoves</a>, <a href="/wiki/Condensing_boiler" title="Condensing boiler">condensing boilers</a>, and micro-CHP boilers.<sup id="cite_ref-73" class="reference"><a href="#cite_note-73">[73]</a></sup><sup id="cite_ref-74" class="reference"><a href="#cite_note-74">[74]</a></sup></p>
+<p>Micro-CHP Accelerator, a field trial performed between 2005 and 2008, studied the performance of 87 <a href="/wiki/Stirling_engine" title="Stirling engine">Stirling engine</a> and <a href="/wiki/Internal_combustion_engine" title="Internal combustion engine">internal combustion engine</a> devices in residential houses in the UK. This study found that the devices resulted in average carbon savings of 9% for houses with heat demand over 54 GJ/year.<sup id="cite_ref-75" class="reference"><a href="#cite_note-75">[75]</a></sup></p>
+<p>An ASME (American Society of Mechanical Engineers) paper fully describes the performance and operating experience with two residential sized Combined Heat and Power units which were in operation from 1979 through 1995.<sup id="cite_ref-76" class="reference"><a href="#cite_note-76">[76]</a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Micro_combined_heat_and_power&amp;action=edit&amp;section=30" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a href="/wiki/File:Crystal_energy.svg" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/29px-Crystal_energy.svg.png" width="29" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/44px-Crystal_energy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/59px-Crystal_energy.svg.png 2x" data-file-width="130" data-file-height="124" /></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Energy" title="Portal:Energy">Energy portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a href="/wiki/File:Wind-turbine-icon.svg" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/28px-Wind-turbine-icon.svg.png" width="28" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/42px-Wind-turbine-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/56px-Wind-turbine-icon.svg.png 2x" data-file-width="128" data-file-height="128" /></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Renewable_energy" title="Portal:Renewable energy">Renewable energy portal</a></span></li>
+</ul>
+</div>
+<div class="div-col columns column-count column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2;">
+<ul>
+<li><a href="/wiki/Distributed_generation" title="Distributed generation">Distributed generation</a></li>
+<li><a href="/wiki/District_heating" title="District heating">District heating</a></li>
+<li><a href="/wiki/Feed-in_tariff" title="Feed-in tariff">Feed-in tariff</a></li>
+<li><a href="/wiki/Geothermal_power_in_Iceland" title="Geothermal power in Iceland">Geothermal power in Iceland</a></li>
+<li><a href="/wiki/Grid-tied_electrical_system" title="Grid-tied electrical system">Grid-tied electrical system</a></li>
+<li><a href="/wiki/Home_fuel_cell" title="Home fuel cell">Home fuel cell</a></li>
+<li><a href="/wiki/Pinch_analysis" title="Pinch analysis">Pinch analysis</a></li>
+<li><a href="/wiki/Relative_cost_of_electricity_generated_by_different_sources" class="mw-redirect" title="Relative cost of electricity generated by different sources">Relative cost of electricity generated by different sources</a></li>
+<li><a href="/wiki/Stationary_fuel_cell_applications" title="Stationary fuel cell applications">Stationary fuel cell applications</a></li>
+<li><a href="/wiki/Timeline_of_hydrogen_technologies" title="Timeline of hydrogen technologies">Timeline of hydrogen technologies</a></li>
+<li><a href="/wiki/Trigeneration" class="mw-redirect" title="Trigeneration">Trigeneration</a></li>
+<li><a href="/wiki/Virtual_power_plant" title="Virtual power plant">Virtual power plant</a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Micro_combined_heat_and_power&amp;action=edit&amp;section=31" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation journal">Notter, Dominic A.; Kouravelou, Katerina; Karachalios, Theodoros; Daletou, Maria K.; Haberland, Nara Tudela (2015). "Life cycle assessment of PEM FC applications: electric mobility and μ-CHP". <i>Energy Environ. Sci</i>. <b>8</b> (7): 1969–1985. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1039%2FC5EE01082A">10.1039/C5EE01082A</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMicro+combined+heat+and+power&amp;rft.atitle=Life+cycle+assessment+of+PEM+FC+applications%3A+electric+mobility+and+%CE%BC-CHP&amp;rft.au=Daletou%2C+Maria+K.&amp;rft.aufirst=Dominic+A.&amp;rft.au=Haberland%2C+Nara+Tudela&amp;rft.au=Karachalios%2C+Theodoros&amp;rft.au=Kouravelou%2C+Katerina&amp;rft.aulast=Notter&amp;rft.date=2015&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1039%2FC5EE01082A&amp;rft.issue=7&amp;rft.jtitle=Energy+Environ.+Sci.&amp;rft.pages=1969-1985&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=8" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www1.eere.energy.gov/hydrogenandfuelcells/pdfs/tri-generation_fountainvalley.pdf">Tri-Generation success story</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20160304074647/https://www1.eere.energy.gov/hydrogenandfuelcells/pdfs/tri-generation_fountainvalley.pdf">Archived</a> March 4, 2016, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.ecuity.com/wp-content/uploads/2013/03/The-role-of-micro-CHP-in-a-smart-energy-world.pdf">The role of micro CHP in a smart energy world</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20160304072549/http://www.ecuity.com/wp-content/uploads/2013/03/The-role-of-micro-CHP-in-a-smart-energy-world.pdf">Archived</a> March 4, 2016, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.renewableenergyfocus.com/view/31489/micro-chp-report-powers-heated-discussion-about-uk-energy-future/">Micro CHP report powers heated discussion about UK energy future</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20160320101136/http://www.renewableenergyfocus.com/view/31489/micro-chp-report-powers-heated-discussion-about-uk-energy-future/">Archived</a> March 20, 2016, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.fuelcelltoday.com/media/1889744/fct_review_2013.pdf">The fuel cell industry review 2013</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20160414152813/http://www.fuelcelltoday.com/media/1889744/fct_review_2013.pdf">Archived</a> April 14, 2016, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span></li>
+<li id="cite_note-CHP_Review_2015-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-CHP_Review_2015_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-CHP_Review_2015_6-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-CHP_Review_2015_6-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Ellamla H.R.; Staffell, I; Bujlo, P; Pollet, BG; Pasupathi, S (28 May 2015). "Current status of fuel cell based combined heat and power systems for residential sector". <i>Journal of Power Sources</i>. <b>293</b> (C): 312–328. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2Fj.jpowsour.2015.05.050">10.1016/j.jpowsour.2015.05.050</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMicro+combined+heat+and+power&amp;rft.atitle=Current+status+of+fuel+cell+based+combined+heat+and+power+systems+for+residential+sector&amp;rft.au=Bujlo%2C+P&amp;rft.au=Ellamla+H.R.&amp;rft.au=Pasupathi%2C+S&amp;rft.au=Pollet%2C+BG&amp;rft.au=Staffell%2C+I&amp;rft.date=2015-05-28&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2Fj.jpowsour.2015.05.050&amp;rft.issue=C&amp;rft.jtitle=Journal+of+Power+Sources&amp;rft.pages=312-328&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=293" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.orbit.dtu.dk/files/10492422/FCCHP_LV.pdf">Integration of fuel cell micro-CHPs on low voltage grid: A Danish case study</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20160304072420/http://www.orbit.dtu.dk/files/10492422/FCCHP_LV.pdf">Archived</a> March 4, 2016, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.osakagas.co.jp/en/rd/fuelcell/pefc/reformed/enefarm.html">"Archived copy"</a>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20160116114226/http://www.osakagas.co.jp:80/en/rd/fuelcell/pefc/reformed/enefarm.html">Archived</a> from the original on 2016-01-16<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-08-14</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMicro+combined+heat+and+power&amp;rft.btitle=Archived+copy&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.osakagas.co.jp%2Fen%2Frd%2Ffuelcell%2Fpefc%2Freformed%2Fenefarm.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-fuelcelltoday.com-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-fuelcelltoday.com_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-fuelcelltoday.com_9-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.fuelcelltoday.com/analysis/analyst-views/2013/13-02-27-latest-developments-in-the-ene-farm-scheme">Latest developments in the Ene-Farm scheme</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20160414152815/http://www.fuelcelltoday.com/analysis/analyst-views/2013/13-02-27-latest-developments-in-the-ene-farm-scheme">Archived</a> April 14, 2016, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://energy.gov/eere/fuelcells/distributedstationary-fuel-cell-systems">DOE Distributed/Stationary fuel cell systems</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20141106063857/http://energy.gov/eere/fuelcells/distributedstationary-fuel-cell-systems">Archived</a> November 6, 2014, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.renewableenergyworld.com/rea/news/article/2008/11/researchers-explore-hybrid-concentrated-solar-energy-system-53981">Renewable Energy World-Researchers explore hybrid concentrated solar energy system</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20141220090012/http://www.renewableenergyworld.com/rea/news/article/2008/11/researchers-explore-hybrid-concentrated-solar-energy-system-53981">Archived</a> December 20, 2014, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.zenithsolar.com/content.aspx?id=290">"Zenith Solar Projects – Yavne"</a>. <i>zenithsolar.com</i>. 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">May 14,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMicro+combined+heat+and+power&amp;rft.atitle=Zenith+Solar+Projects+%93+Yavne&amp;rft.date=2011&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.zenithsolar.com%2Fcontent.aspx%3Fid%3D290&amp;rft.jtitle=zenithsolar.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-autogenerated1947-13"><span class="mw-cite-backlink">^ <a href="#cite_ref-autogenerated1947_13-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-autogenerated1947_13-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">J. M. Pearce. <a rel="nofollow" class="external text" href="http://hdl.handle.net/1974/5307">"Expanding Photovoltaic Penetration with Residential Distributed Generation from Hybrid Solar Photovoltaic + Combined Heat and Power Systems"</a>. <i>Energy</i>. <b>34</b>: 1947–1954 (2009. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2Fj.energy.2009.08.012">10.1016/j.energy.2009.08.012</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMicro+combined+heat+and+power&amp;rft.atitle=Expanding+Photovoltaic+Penetration+with+Residential+Distributed+Generation+from+Hybrid+Solar+Photovoltaic+%2B+Combined+Heat+and+Power+Systems&amp;rft.au=J.+M.+Pearce&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fhdl.handle.net%2F1974%2F5307&amp;rft_id=info%3Adoi%2F10.1016%2Fj.energy.2009.08.012&amp;rft.jtitle=Energy&amp;rft.pages=1947-1954+%282009&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=34" class="Z3988"><span style="display:none;">&#160;</span></span> <span style="position:relative; top: -2px;"><a href="/wiki/Open_access" title="open access publication - free to read"><img alt="open access publication - free to read" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/9px-Open_Access_logo_PLoS_transparent.svg.png" width="9" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/14px-Open_Access_logo_PLoS_transparent.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/18px-Open_Access_logo_PLoS_transparent.svg.png 2x" data-file-width="640" data-file-height="1000" /></a></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation journal">A. Nosrat; J. M. Pearce (2011). <a rel="nofollow" class="external text" href="http://hdl.handle.net/1974/6439">"Dispatch Strategy and Model for Hybrid Photovoltaic and Combined Heating, Cooling, and Power Systems"</a>. <i>Applied Energy</i>. <b>88</b> (9): 3270–3276. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2Fj.apenergy.2011.02.044">10.1016/j.apenergy.2011.02.044</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMicro+combined+heat+and+power&amp;rft.atitle=Dispatch+Strategy+and+Model+for+Hybrid+Photovoltaic+and+Combined+Heating%2C+Cooling%2C+and+Power+Systems&amp;rft.au=A.+Nosrat&amp;rft.au=J.+M.+Pearce&amp;rft.date=2011&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fhdl.handle.net%2F1974%2F6439&amp;rft_id=info%3Adoi%2F10.1016%2Fj.apenergy.2011.02.044&amp;rft.issue=9&amp;rft.jtitle=Applied+Energy&amp;rft.pages=3270-3276&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=88" class="Z3988"><span style="display:none;">&#160;</span></span> <span style="position:relative; top: -2px;"><a href="/wiki/Open_access" title="open access publication - free to read"><img alt="open access publication - free to read" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/9px-Open_Access_logo_PLoS_transparent.svg.png" width="9" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/14px-Open_Access_logo_PLoS_transparent.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/18px-Open_Access_logo_PLoS_transparent.svg.png 2x" data-file-width="640" data-file-height="1000" /></a></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://world.honda.com/news/2007/c070717Compact-Household-Cogeneration-Unit/">"Honda Worldwide | July 17, 2007 "Honda's Compact Household Cogeneration Unit Achieves Cumulative Sales of 50,000 units in Japan<span style="padding-right:0.2em;">"</span>"</a>. World.honda.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-06-12</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMicro+combined+heat+and+power&amp;rft.btitle=Honda+Worldwide+%26%23124%3B+July+17%2C+2007+%22Honda%99s+Compact+Household+Cogeneration+Unit+Achieves+Cumulative+Sales+of+50%2C000+units+in+Japan%22&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fworld.honda.com%2Fnews%2F2007%2Fc070717Compact-Household-Cogeneration-Unit%2F&amp;rft.pub=World.honda.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.kgu.or.kr/download.php?tb=bbs_017&amp;fn=wgcFinal00305.pdf&amp;rn=wgcFinal00305.pdf">Micro CHP in Japan</a><sup class="noprint Inline-Template"><span style="white-space: nowrap;">[<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title="&#160;Dead link since November 2016">permanent dead link</span></a></i>]</span></sup></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><span class="languageicon" style="font-size:0.95em; font-weight:bold; color:#555;">(English)</span> <a rel="nofollow" class="external text" href="http://www.jemmytex.com.tw/d_pdf/3-Tokyo%20Gas-Performance%20of%20residential%20Stationary%20PEM%20FC%20in%20actual%20and%20daily%20use%20for%20years.pdf">Japan 2005-2008 mchp</a><sup class="noprint Inline-Template"><span style="white-space: nowrap;">[<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title="&#160;Dead link since June 2016">dead link</span></a></i>]</span></sup></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.ballard.com/files/pdf/Spec_Sheets/FCgen-1030V3_docmetrics.pdf">FCgen-1030V3</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20110707205926/http://www.ballard.com/files/pdf/Spec_Sheets/FCgen-1030V3_docmetrics.pdf">Archived</a> July 7, 2011, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.tokyo-gas.co.jp/tgminutes/64.pdf">ENE FARM residential fuel cells launched</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20120616191156/http://www.tokyo-gas.co.jp/tgminutes/64.pdf">Archived</a> June 16, 2012, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.iea.org/publications/insights/insightpublications/IEAJapanScorecardMASTERFINALdraft_060913_AF.pdf">The IEA CHP and DHC Collaborative</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20160303210659/http://www.iea.org/publications/insights/insightpublications/IEAJapanScorecardMASTERFINALdraft_060913_AF.pdf">Archived</a> March 3, 2016, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span></li>
+<li id="cite_note-CalluxEn1-21"><span class="mw-cite-backlink">^ <a href="#cite_ref-CalluxEn1_21-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-CalluxEn1_21-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.hyer.eu/2014/enfarm-enefield-eneware">Enfarm enefield eneware</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20160215204028/http://www.hyer.eu/2014/enfarm-enefield-eneware">Archived</a> February 15, 2016, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://world.honda.com/power/cogenerator/">"Archived copy"</a>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20161121004839/http://world.honda.com/power/cogenerator/">Archived</a> from the original on 2016-11-21<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-03-29</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMicro+combined+heat+and+power&amp;rft.btitle=Archived+copy&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fworld.honda.com%2Fpower%2Fcogenerator%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://panasonic.co.jp/corp/news/official.data/data.dir/2013/01/en130117-5/en130117-5.html">Launch of new 'Ene-Farm' home fuel cell product more affordable and easier to install</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20140710072943/http://panasonic.co.jp/corp/news/official.data/data.dir/2013/01/en130117-5/en130117-5.html">Archived</a> July 10, 2014, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span></li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://panasonic.co.jp/ap/FC/en_doc03_02.html">Features of the Panasonic household fuel cell</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20160329121149/http://panasonic.co.jp/ap/FC/en_doc03_02.html">Archived</a> March 29, 2016, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span></li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.nichigas.co.jp/en/appliances/enefarm.html">Nichigas Ene Farm</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20131109051303/http://www.nichigas.co.jp/en/appliances/enefarm.html">Archived</a> November 9, 2013, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span></li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://techon.nikkeibp.co.jp/english/NEWS_EN/20111223/202951/?ST=english_PRINT">Toshiba revamps 'Ene Farm' residential fuel cell</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20160303231211/http://techon.nikkeibp.co.jp/english/NEWS_EN/20111223/202951/?ST=english_PRINT">Archived</a> March 3, 2016, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span></li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://techon.nikkeibp.co.jp/english/NEWS_EN/20111223/202951/">Toshiba revamps 'Ene Farm' residential fuel cell</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20160303204903/http://techon.nikkeibp.co.jp/english/NEWS_EN/20111223/202951/">Archived</a> March 3, 2016, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span></li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.fcdic.com/eng/news/201208.pdf">The latest news number 196, 2012 FCDIC</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20160305005252/http://www.fcdic.com/eng/news/201208.pdf">Archived</a> March 5, 2016, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span></li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.robaid.com/tech/ene-farm-type-s-most-efficient-residential-use-solid-oxide-fuel-cell.htm">ENE-FARM Type S</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20160317004725/http://www.robaid.com/tech/ene-farm-type-s-most-efficient-residential-use-solid-oxide-fuel-cell.htm">Archived</a> March 17, 2016, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span></li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.fuelcellseminar.com/media/5101/hrd34-3_nishijima.pdf">Development of SOFC for residential use</a><sup class="noprint Inline-Template"><span style="white-space: nowrap;">[<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title="&#160;Dead link since November 2016">permanent dead link</span></a></i>]</span></sup></span></li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.miuraz.co.jp/en/">Miura</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20160504231215/http://www.miuraz.co.jp/en/">Archived</a> May 4, 2016, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span></li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.fuelcellseminar.com/media/9333/a399_1.pdf">Toto Ltd</a><sup class="noprint Inline-Template"><span style="white-space: nowrap;">[<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title="&#160;Dead link since November 2016">permanent dead link</span></a></i>]</span></sup></span></li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.businessgreen.com/business-green/news/2248391/south-korea-unveils-80-per-cent">South Korea unveils 80 per cent subsidy for domestic fuel cells</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20100317123157/http://www.businessgreen.com/business-green/news/2248391/south-korea-unveils-80-per-cent">Archived</a> March 17, 2010, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span></li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.fuelcellseminar.com/media/5505/kim_10_19_2010.pdf">R&amp;D status and prospects on fuel cells in Korea</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20131205044729/http://www.fuelcellseminar.com/media/5505/kim_10_19_2010.pdf">Archived</a> December 5, 2013, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span></li>
+<li id="cite_note-wind-works.org-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-wind-works.org_35-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.wind-works.org/FeedLaws/RenewableEnergyPolicyMechanismsbyPaulGipe.pdf">Renewable Energy Policy Mechanisms by Paul Gipe</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20120510072741/http://www.wind-works.org/FeedLaws/RenewableEnergyPolicyMechanismsbyPaulGipe.pdf">Archived</a> May 10, 2012, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.(1.3MB)<br />
+Lauber, V. (2004). "REFIT and RPS: Options for a harmonized Community framework," Energy Policy, Vol. 32, Issue 12, pp.1405–1414.<br />
+Lauber, V. (2008). "Certificate Trading – Part of the Solution or Part of the Problem?" Ljubljana Conference on the Future of GHG Emissions Trading in the EU, March 2008. Salzburg, Austria: University of Salzburg. Retrieved 16 March 2009 at: www.uni-salzburg.at/politikwissenschaft/lauber <a rel="nofollow" class="external text" href="https://web.archive.org/web/20120510072741/http://www.wind-works.org/FeedLaws/RenewableEnergyPolicyMechanismsbyPaulGipe.pdf">Archived</a> May 10, 2012, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span></li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-36">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.fuelcelltoday.com/media/1713685/fct_review_2012.pdf">The fuel cell industry review 2012</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20160701231144/http://www.fuelcelltoday.com/media/1713685/fct_review_2012.pdf">Archived</a> July 1, 2016, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span></li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-37">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://gsfc.en.ec21.com/Small_Stationary_Fuel_Cell_System--5432929.html">GS Fuelcell Co., Ltd</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20160303220146/http://gsfc.en.ec21.com/Small_Stationary_Fuel_Cell_System--5432929.html">Archived</a> March 3, 2016, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span></li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-38">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.fuelcellpower.co.kr/eng/index.php">FuelCell Power</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20140707060623/http://www.fuelcellpower.co.kr/eng/index.php">Archived</a> July 7, 2014, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span></li>
+<li id="cite_note-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-39">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.hysco.com/eng/product/fuel_cell01.aspx">Hyundai Hysco</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20150131225251/https://www.hysco.com/eng/product/fuel_cell01.aspx">Archived</a> January 31, 2015, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span></li>
+<li id="cite_note-40"><span class="mw-cite-backlink"><b><a href="#cite_ref-40">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.hyosungpni.com/eng/product/GreenEnergy/FuelCellSystem/RND1kWLowTemperaturePEMFCSystem.jsp">Hyosung’s 1kW low temperature PEMFC System</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20160304040845/http://www.hyosungpni.com/eng/product/GreenEnergy/FuelCellSystem/RND1kWLowTemperaturePEMFCSystem.jsp">Archived</a> March 4, 2016, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span></li>
+<li id="cite_note-41"><span class="mw-cite-backlink"><b><a href="#cite_ref-41">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.kepri.re.kr/">Kepri</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20150709014608/http://www.kepri.re.kr/">Archived</a> July 9, 2015, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span></li>
+<li id="cite_note-42"><span class="mw-cite-backlink"><b><a href="#cite_ref-42">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.iphe.net/docs/Events/Japan_3-11/2%20Park_KOGAS.pdf">2009-Initial stage of commercialization of residential fuel cells in Korea</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20160304031401/http://www.iphe.net/docs/Events/Japan_3-11/2%20Park_KOGAS.pdf">Archived</a> March 4, 2016, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span></li>
+<li id="cite_note-43"><span class="mw-cite-backlink"><b><a href="#cite_ref-43">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.fch-ju.eu/sites/default/files/documents/sga2012/Presentation%20Fiona%20Riddoch-%20Session%20II.pdf">5th stakeholders general assembly of the FCH JU</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20131110030750/http://www.fch-ju.eu/sites/default/files/documents/sga2012/Presentation%20Fiona%20Riddoch-%20Session%20II.pdf">Archived</a> November 10, 2013, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span></li>
+<li id="cite_note-44"><span class="mw-cite-backlink"><b><a href="#cite_ref-44">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://enefield.eu/">ene.field</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20161002024915/http://enefield.eu/">Archived</a> October 2, 2016, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span></li>
+<li id="cite_note-45"><span class="mw-cite-backlink"><b><a href="#cite_ref-45">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.h2fc-fair.com/hm13/images/ppt/10we/1420-1.pdf">European-wide field trials for residential fuel cell micro-CHP</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20161109221035/http://www.h2fc-fair.com/hm13/images/ppt/10we/1420-1.pdf">Archived</a> November 9, 2016, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span></li>
+<li id="cite_note-46"><span class="mw-cite-backlink"><b><a href="#cite_ref-46">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://enefield.eu/wp-content/uploads/2013/04/Progress-Report-1-M1-M6-Final.pdf">ene.field Grant No 303462</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20131110070103/http://enefield.eu/wp-content/uploads/2013/04/Progress-Report-1-M1-M6-Final.pdf">Archived</a> November 10, 2013, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span></li>
+<li id="cite_note-47"><span class="mw-cite-backlink"><b><a href="#cite_ref-47">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.bafa.de/bafa/de/energie/kraft_waerme_kopplung/publikationen/statistik_kwkanlagen.xlsx">BAFA: Official statistics on CHP units commissioned per year, downloaded 2016-03-12</a><sup class="noprint Inline-Template"><span style="white-space: nowrap;">[<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title="&#160;Dead link since November 2016">permanent dead link</span></a></i>]</span></sup></span></li>
+<li id="cite_note-48"><span class="mw-cite-backlink"><b><a href="#cite_ref-48">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.hyer.eu/members/germany/nordrhein-westfalen/nordrhein-westfalen-news/north-rhine-westphalia-government-to-subsidise-fuel-cell-m-chp">North-Rhine Westphalia government launches capital subsidy for micro-CHP</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20131109085658/http://www.hyer.eu/members/germany/nordrhein-westfalen/nordrhein-westfalen-news/north-rhine-westphalia-government-to-subsidise-fuel-cell-m-chp">Archived</a> November 9, 2013, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span></li>
+<li id="cite_note-49"><span class="mw-cite-backlink"><b><a href="#cite_ref-49">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.fcdic.com/eng/news/201311.pdf">Number 211-2013 FDIC -Viesmann-Panasonic</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20141006164002/http://www.fcdic.com/eng/news/201311.pdf">Archived</a> October 6, 2014, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span></li>
+<li id="cite_note-50"><span class="mw-cite-backlink"><b><a href="#cite_ref-50">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.ird.dk/">IRD Fuel Cell</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20160327085915/http://www.ird.dk/">Archived</a> March 27, 2016, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span></li>
+<li id="cite_note-51"><span class="mw-cite-backlink"><b><a href="#cite_ref-51">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.elcomax.com/">Elcore – Elcomax</a> <sup class="noprint Inline-Template"><span style="white-space: nowrap;">[<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title="&#160;Dead link since November 2016">permanent dead link</span></a></i>]</span></sup></span></li>
+<li id="cite_note-52"><span class="mw-cite-backlink"><b><a href="#cite_ref-52">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.fuelcelltoday.com/analysis/analyst-views/2013/13-08-14-handling-the-cost-of-residential-fuel-cells">Handling the cost of residential fuel cells</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20160406165718/http://www.fuelcelltoday.com/analysis/analyst-views/2013/13-08-14-handling-the-cost-of-residential-fuel-cells">Archived</a> April 6, 2016, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span></li>
+<li id="cite_note-53"><span class="mw-cite-backlink"><b><a href="#cite_ref-53">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.tropical.gr/products/fuel-cell-power-generators/1kw-hydrogen-fc-power-generator.html">Tropical</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20160404164257/http://www.tropical.gr/products/fuel-cell-power-generators/1kw-hydrogen-fc-power-generator.html">Archived</a> April 4, 2016, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span></li>
+<li id="cite_note-54"><span class="mw-cite-backlink"><b><a href="#cite_ref-54">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.inhouse-engineering.com/en/fuel-cell-systems/products/pem-fuel-cell-stack-from-1-to-5-kw-electrical-power/">Inhouse</a><sup class="noprint Inline-Template"><span style="white-space: nowrap;">[<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title="&#160;Dead link since November 2016">permanent dead link</span></a></i>]</span></sup></span></li>
+<li id="cite_note-55"><span class="mw-cite-backlink"><b><a href="#cite_ref-55">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.zbt-duisburg.de/en/meta-menu/news-anzeige-eng/article/deutsch-japanisches-kooperationsprojekt/">ZBT</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20160327182210/http://www.zbt-duisburg.de/en/meta-menu/news-anzeige-eng/article/deutsch-japanisches-kooperationsprojekt/">Archived</a> March 27, 2016, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span></li>
+<li id="cite_note-56"><span class="mw-cite-backlink"><b><a href="#cite_ref-56">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.fch-ju.eu/project/solid-oxide-fuel-cell-micro-chp-field-trials">Solid oxide fuel cell micro-CHP field trials</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20141006093820/http://www.fch-ju.eu/project/solid-oxide-fuel-cell-micro-chp-field-trials">Archived</a> October 6, 2014, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span></li>
+<li id="cite_note-57"><span class="mw-cite-backlink"><b><a href="#cite_ref-57">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://peakenergy.blogspot.com/2008/03/cogeneration-at-home-ceramic-fuel-cells.html">Ceramic fuel cells</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20160629205741/http://peakenergy.blogspot.com/2008/03/cogeneration-at-home-ceramic-fuel-cells.html">Archived</a> June 29, 2016, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span></li>
+<li id="cite_note-58"><span class="mw-cite-backlink"><b><a href="#cite_ref-58">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.sunfire.de/en">Sunfire</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20161128121152/http://www.sunfire.de/en">Archived</a> November 28, 2016, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span></li>
+<li id="cite_note-59"><span class="mw-cite-backlink"><b><a href="#cite_ref-59">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://enefield.eu/field-trials/installations/first-buderus-ene-field-fuel-cell-system-successfully-tested-in-single-family-home/">Buderus Logapower FC10 energy centre supplies both heat and electricity</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20150209082113/http://enefield.eu/field-trials/installations/first-buderus-ene-field-fuel-cell-system-successfully-tested-in-single-family-home/">Archived</a> February 9, 2015, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span></li>
+<li id="cite_note-60"><span class="mw-cite-backlink"><b><a href="#cite_ref-60">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.hexis.com/">Hexis</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20160520130020/http://www.hexis.com/">Archived</a> May 20, 2016, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span></li>
+<li id="cite_note-61"><span class="mw-cite-backlink"><b><a href="#cite_ref-61">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://alpha.arabianindustry.com/markets/reviews/2012/nov/21/viessmann-joins-forces-to-power-fuel-cell-industry-3470701/#.VIyCocnAqT0">Viessmann has announced two separate deals with Hexis</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20160318205639/http://alpha.arabianindustry.com/markets/reviews/2012/nov/21/viessmann-joins-forces-to-power-fuel-cell-industry-3470701/#.VIyCocnAqT0">Archived</a> March 18, 2016, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span></li>
+<li id="cite_note-62"><span class="mw-cite-backlink"><b><a href="#cite_ref-62">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.chpa.co.uk/events/2006/national_conference/presentations/1400%20Ian%20Stares.pdf">CHP–The microgeneration boom?</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20090106122855/http://www.chpa.co.uk/events/2006/national_conference/presentations/1400%20Ian%20Stares.pdf">Archived</a> January 6, 2009, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span></li>
+<li id="cite_note-63"><span class="mw-cite-backlink"><b><a href="#cite_ref-63">^</a></b></span> <span class="reference-text">Not 12.5% as could be primarily thought: a subsidized system cost 105/117.5% of a normal, the différence being 12.5/117.5&#160;= 10.63%</span></li>
+<li id="cite_note-64"><span class="mw-cite-backlink"><b><a href="#cite_ref-64">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.ecuity.com/wp-content/uploads/2013/03/The-role-of-micro-CHP-in-a-smart-energy-world.pdf">The role of micro CHP in a smart energy world = March 2013</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20160304072549/http://www.ecuity.com/wp-content/uploads/2013/03/The-role-of-micro-CHP-in-a-smart-energy-world.pdf">Archived</a> March 4, 2016, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span></li>
+<li id="cite_note-65"><span class="mw-cite-backlink"><b><a href="#cite_ref-65">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.baxi-innotech.de/">BAXI-Innotech</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20150205013111/http://www.baxi-innotech.de/">Archived</a> February 5, 2015, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span></li>
+<li id="cite_note-cospp.com-66"><span class="mw-cite-backlink">^ <a href="#cite_ref-cospp.com_66-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-cospp.com_66-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.cospp.com/articles/print/volume-13/issue-3/features/micro-chp-japan-continues-to-lead-as-fuel-cells-units-emerge.html">Micro-CHP Japan continues to lead as fuel cell units emerge</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20160111154957/http://www.cospp.com/articles/print/volume-13/issue-3/features/micro-chp-japan-continues-to-lead-as-fuel-cells-units-emerge.html">Archived</a> January 11, 2016, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span></li>
+<li id="cite_note-67"><span class="mw-cite-backlink"><b><a href="#cite_ref-67">^</a></b></span> <span class="reference-text">.<a rel="nofollow" class="external text" href="http://www.renewableenergyfocus.com/view/4212/ceres-power-signs-fuel-cell-chp-assembly-deal-with-daalderop/">Ceres Power signs fuel cell CHP assembly deal with Daalderop</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20160320201821/http://www.renewableenergyfocus.com/view/4212/ceres-power-signs-fuel-cell-chp-assembly-deal-with-daalderop/">Archived</a> March 20, 2016, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span></li>
+<li id="cite_note-68"><span class="mw-cite-backlink"><b><a href="#cite_ref-68">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.fuelcellseminar.com/assets/pdf/2008/tuesday/DEM23-2_AHPederson.ppt.pdf">Demonstration of micro CHP based on Danish fuel cells</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20141106133352/http://www.fuelcellseminar.com/assets/pdf/2008/tuesday/DEM23-2_AHPederson.ppt.pdf">Archived</a> November 6, 2014, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span></li>
+<li id="cite_note-69"><span class="mw-cite-backlink"><b><a href="#cite_ref-69">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.waddenfonds.nl/fileadmin/waddenfonds/inhd_wadfonds/Projecten/pdf/bijl_PB_WF_29okt2013.pdf">"Methaanbrandstoffen op Ameland"</a> <span style="font-size:85%;">(PDF)</span> (in Dutch).</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMicro+combined+heat+and+power&amp;rft.btitle=Methaanbrandstoffen+op+Ameland&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.waddenfonds.nl%2Ffileadmin%2Fwaddenfonds%2Finhd_wadfonds%2FProjecten%2Fpdf%2Fbijl_PB_WF_29okt2013.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-70"><span class="mw-cite-backlink"><b><a href="#cite_ref-70">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.cdhenergy.com/presentations/Freewatt%20Report%20-%20October2011.pdf">ANnalysis of data collected for the Freewatt microCHP system in Syracuse, NY</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20150402133610/http://www.cdhenergy.com/presentations/Freewatt%20Report%20-%20October2011.pdf">Archived</a> April 2, 2015, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span></li>
+<li id="cite_note-71"><span class="mw-cite-backlink"><b><a href="#cite_ref-71">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.thestar.com/life/health_wellness/2008/09/20/huge_savings_claimed_by_new_system.html">"Archived copy"</a>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20150402143917/http://www.thestar.com/life/health_wellness/2008/09/20/huge_savings_claimed_by_new_system.html">Archived</a> from the original on 2015-04-02<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-03-29</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMicro+combined+heat+and+power&amp;rft.btitle=Archived+copy&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.thestar.com%2Flife%2Fhealth_wellness%2F2008%2F09%2F20%2Fhuge_savings_claimed_by_new_system.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-72"><span class="mw-cite-backlink"><b><a href="#cite_ref-72">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.hyteon.com/Hyteon-Brochure.pdf">Hyteon</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20160303224039/http://www.hyteon.com/Hyteon-Brochure.pdf">Archived</a> March 3, 2016, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span></li>
+<li id="cite_note-73"><span class="mw-cite-backlink"><b><a href="#cite_ref-73">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://corporateuk.eneco.nl/outlook_and_strategy/innovation/Pages/ThenewHReboiler.aspx">Micro-CHP</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20120227103548/http://corporateuk.eneco.nl/outlook_and_strategy/innovation/Pages/ThenewHReboiler.aspx">Archived</a> February 27, 2012, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span></li>
+<li id="cite_note-74"><span class="mw-cite-backlink"><b><a href="#cite_ref-74">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://translate.google.com/translate?u=http%3A%2F%2Fwww.waterstofvereniging.nl%2Fnieuws%2Fopinie-ameland.html&amp;sl=nl&amp;tl=en&amp;hl=en&amp;ie=UTF-8">Ameland Field testing</a><sup class="noprint Inline-Template"><span style="white-space: nowrap;">[<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title="&#160;Dead link since November 2016">permanent dead link</span></a></i>]</span></sup></span></li>
+<li id="cite_note-75"><span class="mw-cite-backlink"><b><a href="#cite_ref-75">^</a></b></span> <span class="reference-text"><cite class="citation report">Carbon Trust (2011). <a rel="nofollow" class="external text" href="http://www.carbontrust.com/media/77260/ctc788_micro-chp_accelerator.pdf">Micro-CHP Accelerator</a> <span style="font-size:85%;">(PDF)</span> (Report).</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMicro+combined+heat+and+power&amp;rft.au=Carbon+Trust&amp;rft.btitle=Micro-CHP+Accelerator&amp;rft.date=2011&amp;rft.genre=report&amp;rft_id=http%3A%2F%2Fwww.carbontrust.com%2Fmedia%2F77260%2Fctc788_micro-chp_accelerator.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-76"><span class="mw-cite-backlink"><b><a href="#cite_ref-76">^</a></b></span> <span class="reference-text">Frederick R. Rosse: <a rel="nofollow" class="external text" href="http://proceedings.asmedigitalcollection.asme.org/proceeding.aspx?articleid=1580378">EXPERIENCE WITH EARLY DISTRIBUTED GENERATION SYSTEMS</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20160314013035/http://proceedings.asmedigitalcollection.asme.org/proceeding.aspx?articleid=1580378">Archived</a> March 14, 2016, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>., Proceedings of IJPC-2003 2003 International Joint Power Conference, paper IJPGC2003-40192</span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="Codes_and_standards">Codes and standards</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Micro_combined_heat_and_power&amp;action=edit&amp;section=32" title="Edit section: Codes and standards">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/w/index.php?title=Fuel_cell_gas_appliances_up_to_70_kW&amp;action=edit&amp;redlink=1" class="new" title="Fuel cell gas appliances up to 70 kW (page does not exist)">Fuel cell gas appliances up to 70 kW</a></li>
+<li><a href="/w/index.php?title=Installation_permitting_guidance_for_hydrogen_and_fuel_cells_stationary_applications&amp;action=edit&amp;redlink=1" class="new" title="Installation permitting guidance for hydrogen and fuel cells stationary applications (page does not exist)">Installation permitting guidance for hydrogen and fuel cells stationary applications</a></li>
+<li><a href="/w/index.php?title=Standard_for_the_installation_of_stationary_fuel_cell_power_systems&amp;action=edit&amp;redlink=1" class="new" title="Standard for the installation of stationary fuel cell power systems (page does not exist)">Standard for the installation of stationary fuel cell power systems</a></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Micro_combined_heat_and_power&amp;action=edit&amp;section=33" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://enefield.eu/">Ene.field EU</a></li>
+<li><a rel="nofollow" class="external text" href="http://energy.gov/eere/fuelcells/distributedstationary-fuel-cell-systems">DOE USA fuel cells in combined heat and power</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.microchap.info/">Microchap UK</a></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Electricity_delivery" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Electricity_delivery" title="Template:Electricity delivery"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Electricity_delivery" title="Template talk:Electricity delivery"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Electricity_delivery&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Electricity_delivery" style="font-size:114%"><a href="/wiki/Electricity_delivery" title="Electricity delivery">Electricity delivery</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Concepts</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Availability_factor" title="Availability factor">Availability factor</a></li>
+<li><a href="/wiki/Automatic_generation_control" class="mw-redirect" title="Automatic generation control">Automatic generation control</a></li>
+<li><a href="/wiki/Base_load" title="Base load">Base load</a></li>
+<li><a href="/wiki/Black_start" title="Black start">Black start</a></li>
+<li><a href="/wiki/Capacity_factor" title="Capacity factor">Capacity factor</a></li>
+<li><a href="/wiki/Demand_factor" title="Demand factor">Demand factor</a></li>
+<li><a href="/wiki/Droop_speed_control" title="Droop speed control">Droop speed control</a></li>
+<li><a href="/wiki/Energy_demand_management" title="Energy demand management">Demand management</a></li>
+<li><a href="/wiki/Energy_returned_on_energy_invested" title="Energy returned on energy invested">EROEI</a></li>
+<li><a href="/wiki/Fault_(power_engineering)" title="Fault (power engineering)">Fault</a></li>
+<li><a href="/wiki/Grid_energy_storage" title="Grid energy storage">Grid storage</a></li>
+<li><a href="/wiki/Intermittent_energy_source" title="Intermittent energy source">Intermittency</a></li>
+<li><a href="/wiki/Load_factor_(electrical)" title="Load factor (electrical)">Load factor</a></li>
+<li><a href="/wiki/Load_following_power_plant" title="Load following power plant">Load following</a></li>
+<li><a href="/wiki/Nameplate_capacity" title="Nameplate capacity">Nameplate capacity</a></li>
+<li><a href="/wiki/Peak_demand" title="Peak demand">Peak demand</a></li>
+<li><a href="/wiki/Electric_power_quality" title="Electric power quality">Power quality</a></li>
+<li><a href="/wiki/Power-flow_study" title="Power-flow study">Power-flow study</a></li>
+<li><a href="/wiki/Repowering" title="Repowering">Repowering</a></li>
+<li><a href="/wiki/Variable_renewable_energy" title="Variable renewable energy">Variability</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Sources</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;width:7em;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Non-renewable_energy" class="mw-redirect" title="Non-renewable energy">Nonrenewable</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Coal" title="Coal">Coal</a></li>
+<li><a href="/wiki/Fossil_fuel_power_station" title="Fossil fuel power station">Fossil fuel power station</a></li>
+<li><a href="/wiki/Natural_gas" title="Natural gas">Natural gas</a></li>
+<li><a href="/wiki/Petroleum" title="Petroleum">Petroleum</a></li>
+<li><a href="/wiki/Nuclear_power" title="Nuclear power">Nuclear</a></li>
+<li><a href="/wiki/Oil_shale" title="Oil shale">Oil shale</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;width:7em;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Renewable_energy" title="Renewable energy">Renewable</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Biomass" title="Biomass">Biomass</a></li>
+<li><a href="/wiki/Biofuel" title="Biofuel">Biofuel</a></li>
+<li><a href="/wiki/Geothermal_power" title="Geothermal power">Geothermal</a></li>
+<li><a href="/wiki/Hydroelectricity" title="Hydroelectricity">Hydro</a></li>
+<li><a href="/wiki/Marine_energy" title="Marine energy">Marine</a>
+<ul>
+<li><a href="/wiki/Marine_current_power" title="Marine current power">Current</a></li>
+<li><a href="/wiki/Osmotic_power" title="Osmotic power">Osmotic</a></li>
+<li><a href="/wiki/Ocean_thermal_energy" class="mw-redirect" title="Ocean thermal energy">Thermal</a></li>
+<li><a href="/wiki/Tidal_power" title="Tidal power">Tidal</a></li>
+<li><a href="/wiki/Wave_power" title="Wave power">Wave</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Solar_power" title="Solar power">Solar</a></li>
+<li><a href="/wiki/Wind_power" title="Wind power">Wind</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Category:Power_station_technology" title="Category:Power station technology">Generation</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/AC_power" title="AC power">AC power</a></li>
+<li><a href="/wiki/Cogeneration" title="Cogeneration">Cogeneration</a></li>
+<li><a href="/wiki/Combined_cycle" title="Combined cycle">Combined cycle</a></li>
+<li><a href="/wiki/Cooling_tower" title="Cooling tower">Cooling tower</a></li>
+<li><a href="/wiki/Induction_generator" title="Induction generator">Induction generator</a></li>
+<li><strong class="selflink">Micro CHP</strong></li>
+<li><a href="/wiki/Microgeneration" title="Microgeneration">Microgeneration</a></li>
+<li><a href="/wiki/Rankine_cycle" title="Rankine cycle">Rankine cycle</a></li>
+<li><a href="/wiki/Three-phase_electric_power" title="Three-phase electric power">Three-phase electric power</a></li>
+<li><a href="/wiki/Virtual_power_plant" title="Virtual power plant">Virtual power plant</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">
+<div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Electric_power_transmission" title="Electric power transmission">Transmission</a><br />
+and <a href="/wiki/Electric_power_distribution" title="Electric power distribution">distribution</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Power_outage" title="Power outage">Blackout</a> (<a href="/wiki/Rolling_blackout" title="Rolling blackout">Rolling blackout</a>)</li>
+<li><a href="/wiki/Brownout_(electricity)" title="Brownout (electricity)">Brownout</a></li>
+<li><a href="/wiki/Demand_response" title="Demand response">Demand response</a></li>
+<li><a href="/wiki/Distributed_generation" title="Distributed generation">Distributed generation</a></li>
+<li><a href="/wiki/Dynamic_demand_(electric_power)" title="Dynamic demand (electric power)">Dynamic demand</a></li>
+<li><a href="/wiki/Electric_power_distribution" title="Electric power distribution">Electric power distribution</a></li>
+<li><a href="/wiki/Electric_power_system" title="Electric power system">Electric power system</a></li>
+<li><a href="/wiki/Electric_power_transmission" title="Electric power transmission">Electric power transmission</a></li>
+<li><a href="/wiki/Electrical_grid" title="Electrical grid">Electrical grid</a></li>
+<li><a href="/wiki/High-voltage_direct_current" title="High-voltage direct current">High-voltage direct current</a></li>
+<li><a href="/wiki/Load_management" title="Load management">Load management</a></li>
+<li><a href="/wiki/Pumped-storage_hydroelectricity" title="Pumped-storage hydroelectricity">Pumped hydro</a></li>
+<li><a href="/wiki/Power_station" title="Power station">Power station</a></li>
+<li><a href="/wiki/Power_storage" class="mw-redirect" title="Power storage">Power storage</a></li>
+<li><a href="/wiki/Smart_grid" title="Smart grid">Smart grid</a></li>
+<li><a href="/wiki/Electrical_substation" title="Electrical substation">Substation</a></li>
+<li><a href="/wiki/Super_grid" title="Super grid">Super grid</a></li>
+<li><a href="/wiki/Transformer" title="Transformer">Transformer</a></li>
+<li><a href="/wiki/Transmission_system_operator" title="Transmission system operator">Transmission system operator</a> (TSO)</li>
+<li><a href="/wiki/Transmission_tower" title="Transmission tower">Transmission tower</a></li>
+<li><a href="/wiki/Utility_pole" title="Utility pole">Utility pole</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">
+<div style="padding:0.1em 0;line-height:1.2em;">Protective<br />
+devices</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Arc-fault_circuit_interrupter" title="Arc-fault circuit interrupter">Arc-fault circuit interrupter</a></li>
+<li><a href="/wiki/Earth_leakage_circuit_breaker" title="Earth leakage circuit breaker">Earth leakage circuit breaker</a></li>
+<li><a href="/wiki/Residual-current_device" title="Residual-current device">Residual-current device</a> (GFI)</li>
+<li><a href="/wiki/Power-system_protection" title="Power-system protection">Power-system protection</a></li>
+<li><a href="/wiki/Protective_relay" title="Protective relay">Protective relay</a></li>
+<li><a href="/wiki/Digital_protective_relay" title="Digital protective relay">Digital protective relay</a></li>
+<li><a href="/wiki/Sulfur_hexafluoride_circuit_breaker" title="Sulfur hexafluoride circuit breaker">Sulfur hexafluoride circuit breaker</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">
+<div style="padding:0.1em 0;line-height:1.2em;">Economics<br />
+and policies</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Carbon_offset" title="Carbon offset">Carbon offset</a></li>
+<li><a href="/wiki/Cost_of_electricity_by_source" title="Cost of electricity by source">Cost of electricity by source</a></li>
+<li><a href="/wiki/Ecotax" title="Ecotax">Ecotax</a></li>
+<li><a href="/wiki/Energy_subsidies" title="Energy subsidies">Energy subsidies</a></li>
+<li><a href="/wiki/Feed-in_tariff" title="Feed-in tariff">Feed-in tariff</a></li>
+<li><a href="/wiki/Fossil-fuel_phase-out" class="mw-redirect" title="Fossil-fuel phase-out">Fossil-fuel phase-out</a></li>
+<li><a href="/wiki/Net_metering" title="Net metering">Net metering</a></li>
+<li><a href="/wiki/Pigovian_tax" title="Pigovian tax">Pigovian tax</a></li>
+<li><a href="/wiki/Renewable_Energy_Certificates" class="mw-redirect" title="Renewable Energy Certificates">Renewable Energy Certificates</a></li>
+<li><a href="/wiki/Renewable_energy_payments" class="mw-redirect" title="Renewable energy payments">Renewable energy payments</a></li>
+<li><a href="/wiki/Renewable_energy_policy" class="mw-redirect" title="Renewable energy policy">Renewable energy policy</a></li>
+<li><a href="/wiki/Spark_spread" title="Spark spread">Spark spread</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<dl>
+<dt>Categories</dt>
+<dd><a href="/wiki/Category:Electric_power_distribution" title="Category:Electric power distribution">Electric power distribution</a></dd>
+<dd><a href="/wiki/Category:Electricity_economics" title="Category:Electricity economics">Electricity economics</a></dd>
+<dd><a href="/wiki/Category:Power_station_technology" title="Category:Power station technology">Power station technology</a></dd>
+<dt>Portals</dt>
+<dd><a href="/wiki/Portal:Energy" title="Portal:Energy">Energy</a></dd>
+<dd><a href="/wiki/Portal:Renewable_energy" title="Portal:Renewable energy">Renewable energy</a></dd>
+<dd><a href="/wiki/Portal:Sustainable_development" title="Portal:Sustainable development">Sustainable development</a></dd>
+</dl>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1209
+Cached time: 20170122234109
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.400 seconds
+Real time usage: 0.466 seconds
+Preprocessor visited node count: 3463/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 90245/2097152 bytes
+Template argument size: 5341/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 5/500
+Lua time usage: 0.172/10.000 seconds
+Lua memory usage: 4.83 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  382.132      1 -total
+ 69.16%  264.265      1 Template:Reflist
+ 23.64%   90.350     57 Template:Webarchive
+ 10.75%   41.092      4 Template:Cite_journal
+ 10.72%   40.976      1 Template:Technical
+ 10.51%   40.171      8 Template:Dead_link
+  8.25%   31.541      8 Template:Fix
+  7.24%   27.660      1 Template:Ambox
+  7.16%   27.356     17 Template:Category_handler
+  6.24%   23.842      6 Template:Cite_web
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:2019941-0!*!0!!en!4!* and timestamp 20170122234109 and revision id 756972174
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Micro_combined_heat_and_power&amp;oldid=756972174">https://en.wikipedia.org/w/index.php?title=Micro_combined_heat_and_power&amp;oldid=756972174</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Cogeneration" title="Category:Cogeneration">Cogeneration</a></li><li><a href="/wiki/Category:Renewable_energy" title="Category:Renewable energy">Renewable energy</a></li><li><a href="/wiki/Category:Hydrogen_technologies" title="Category:Hydrogen technologies">Hydrogen technologies</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:All_articles_with_dead_external_links" title="Category:All articles with dead external links">All articles with dead external links</a></li><li><a href="/wiki/Category:Articles_with_dead_external_links_from_November_2016" title="Category:Articles with dead external links from November 2016">Articles with dead external links from November 2016</a></li><li><a href="/wiki/Category:Articles_with_permanently_dead_external_links" title="Category:Articles with permanently dead external links">Articles with permanently dead external links</a></li><li><a href="/wiki/Category:Articles_with_dead_external_links_from_June_2016" title="Category:Articles with dead external links from June 2016">Articles with dead external links from June 2016</a></li><li><a href="/wiki/Category:CS1_Dutch-language_sources_(nl)" title="Category:CS1 Dutch-language sources (nl)">CS1 Dutch-language sources (nl)</a></li><li><a href="/wiki/Category:Wikipedia_articles_that_are_too_technical_from_August_2015" title="Category:Wikipedia articles that are too technical from August 2015">Wikipedia articles that are too technical from August 2015</a></li><li><a href="/wiki/Category:All_articles_that_are_too_technical" title="Category:All articles that are too technical">All articles that are too technical</a></li><li><a href="/wiki/Category:Articles_needing_expert_attention_from_August_2015" title="Category:Articles needing expert attention from August 2015">Articles needing expert attention from August 2015</a></li><li><a href="/wiki/Category:All_articles_needing_expert_attention" title="Category:All articles needing expert attention">All articles needing expert attention</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Micro+combined+heat+and+power" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Micro+combined+heat+and+power" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Micro_combined_heat_and_power"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Micro_combined_heat_and_power"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Micro_combined_heat_and_power" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Micro_combined_heat_and_power&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Micro_combined_heat_and_power&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Micro_combined_heat_and_power" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Micro_combined_heat_and_power" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Micro_combined_heat_and_power&amp;oldid=756972174" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Micro_combined_heat_and_power&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q128151" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Micro_combined_heat_and_power&amp;id=756972174" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Micro+combined+heat+and+power">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Micro+combined+heat+and+power&amp;returnto=Micro+combined+heat+and+power&amp;oldid=756972174&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Micro_combined_heat_and_power&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Mikrokraftvarmeanl%C3%A6g" title="Mikrokraftvarmeanlæg – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Mikro-Kraft-W%C3%A4rme-Kopplung" title="Mikro-Kraft-Wärme-Kopplung – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Microcogeneraci%C3%B3n" title="Microcogeneración – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%DA%AF%D8%B1%D9%85%D8%A7_%D9%88_%D8%AA%D9%88%D8%A7%D9%86_%D9%85%DB%8C%DA%A9%D8%B1%D9%88%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C" title="گرما و توان میکروترکیبی – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Microcog%C3%A9n%C3%A9ration" title="Microcogénération – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Mikrokogeneracija" title="Mikrokogeneracija – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Microcogenerazione" title="Microcogenerazione – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Microwarmte-krachtkoppeling" title="Microwarmte-krachtkoppeling – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Mikrokogeneracja" title="Mikrokogeneracja – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Microcogera%C3%A7%C3%A3o" title="Microcogeração – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BC%D0%B1%D0%B8%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D1%82%D0%B5%D0%BF%D0%BB%D0%BE%D0%B2%D0%BE%D0%B9_%D0%B8_%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B9_%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D0%B8" title="Комбинированные микроисточники тепловой и электрической энергии – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q128151#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 28 December 2016, at 00:12.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Micro_combined_heat_and_power&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.400","walltime":"0.466","ppvisitednodes":{"value":3463,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":90245,"limit":2097152},"templateargumentsize":{"value":5341,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":5,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  382.132      1 -total"," 69.16%  264.265      1 Template:Reflist"," 23.64%   90.350     57 Template:Webarchive"," 10.75%   41.092      4 Template:Cite_journal"," 10.72%   40.976      1 Template:Technical"," 10.51%   40.171      8 Template:Dead_link","  8.25%   31.541      8 Template:Fix","  7.24%   27.660      1 Template:Ambox","  7.16%   27.356     17 Template:Category_handler","  6.24%   23.842      6 Template:Cite_web"]},"scribunto":{"limitreport-timeusage":{"value":"0.172","limit":"10.000"},"limitreport-memusage":{"value":5064755,"limit":52428800}},"cachereport":{"origin":"mw1209","timestamp":"20170122234109","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":59,"wgHostname":"mw1251"});});</script>
+	</body>
+</html>

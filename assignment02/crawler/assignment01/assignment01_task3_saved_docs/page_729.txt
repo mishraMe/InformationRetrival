@@ -1,0 +1,996 @@
+url : https://en.wikipedia.org/wiki/Buoyancy
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Buoyancy - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Buoyancy","wgTitle":"Buoyancy","wgCurRevisionId":758728528,"wgRevisionId":758728528,"wgArticleId":245982,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use dmy dates from June 2013","Articles needing additional references from July 2014","All articles needing additional references","Articles needing additional references from January 2016","Pages using div col with small parameter","Commons category with local link same as on Wikidata","Wikipedia articles with GND identifiers","Force","Fluid mechanics","Buoyancy"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Buoyancy","wgRelevantArticleId":245982,"wgRequestId":"WJND-ApAIDkAAGP@wz8AAABG","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q6497624","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.math.styles":"ready","ext.cite.styles":"ready","ext.tmh.thumbnail.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","ext.math.scripts","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","mw.TMHGalleryHook.js","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.scripts%2Cstyles%7Cext.tmh.thumbnail.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.9"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Buoyancy"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Buoyancy&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Buoyancy&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Buoyancy"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Buoyancy rootpage-Buoyancy skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Buoyancy</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Buoyancy&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span> <small><i>(July 2014)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></span></td>
+</tr>
+</table>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Buoyancy.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/74/Buoyancy.svg/220px-Buoyancy.svg.png" width="220" height="275" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/74/Buoyancy.svg/330px-Buoyancy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/74/Buoyancy.svg/440px-Buoyancy.svg.png 2x" data-file-width="301" data-file-height="376" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Buoyancy.svg" class="internal" title="Enlarge"></a></div>
+The forces at work in buoyancy. Note that the object is floating because the upward force of buoyancy is equal to the downward force of <a href="/wiki/Gravitation" class="mw-redirect" title="Gravitation">gravity</a>.</div>
+</div>
+</div>
+<p>In <a href="/wiki/Science" title="Science">science</a>, <b>buoyancy</b> (<span class="nowrap"><small>pronunciation:</small> <span class="IPA nopopups"><a href="/wiki/Help:IPA_for_English" title="Help:IPA for English">/<span style="border-bottom:1px dotted"><span title="/ˈ/ primary stress follows">ˈ</span><span title="'b' in 'buy'">b</span><span title="/ɔɪ/ 'oy' in 'boy'">ɔɪ</span><span title="/./ syllable break">.</span><span title="/ə/ 'a' in 'about'">ə</span><span title="'n' in 'no'">n</span><span title="optional 't'">ᵗ</span><span title="'s' in 'sigh'">s</span><span title="/i/ 'y' in 'happy'">i</span></span>/</a></span></span><sup id="cite_ref-lpd_1-0" class="reference"><a href="#cite_note-lpd-1">[1]</a></sup><sup id="cite_ref-cepd_2-0" class="reference"><a href="#cite_note-cepd-2">[2]</a></sup> or <span class="nowrap"><span class="IPA nopopups"><a href="/wiki/Help:IPA_for_English" title="Help:IPA for English">/<span style="border-bottom:1px dotted"><span title="/ˈ/ primary stress follows">ˈ</span><span title="'b' in 'buy'">b</span><span title="/uː/ long 'oo' in 'food'">uː</span><span title="/j/ 'y' in 'yes'">j</span><span title="/ə/ 'a' in 'about'">ə</span><span title="'n' in 'no'">n</span><span title="optional 't'">ᵗ</span><span title="'s' in 'sigh'">s</span><span title="/i/ 'y' in 'happy'">i</span></span>/</a></span></span>;<sup id="cite_ref-lpd_1-1" class="reference"><a href="#cite_note-lpd-1">[1]</a></sup><sup id="cite_ref-cepd_2-1" class="reference"><a href="#cite_note-cepd-2">[2]</a></sup> also known as <b>upthrust</b>) is an upward force exerted by a <a href="/wiki/Fluid" title="Fluid">fluid</a> that opposes the <a href="/wiki/Weight" title="Weight">weight</a> of an immersed object. In a column of fluid, pressure increases with depth as a result of the weight of the overlying fluid. Thus the pressure at the bottom of a column of fluid is greater than at the top of the column. Similarly, the pressure at the bottom of an object submerged in a fluid is greater than at the top of the object. This pressure difference results in a net upwards force on the object. The magnitude of that force exerted is proportional to that pressure difference, and (as explained by <a href="/wiki/Archimedes%27_principle" title="Archimedes' principle">Archimedes' principle</a>) is equivalent to the weight of the fluid that would otherwise occupy the volume of the object, i.e. the <a href="/wiki/Displacement_(fluid)" title="Displacement (fluid)">displaced</a> fluid.</p>
+<p>For this reason, an object whose density is greater than that of the fluid in which it is submerged tends to sink. If the object is either less dense than the liquid or is shaped appropriately (as in a boat), the force can keep the object afloat. This can occur only in a reference frame which either has <a href="/wiki/Gravity" title="Gravity">a gravitational field</a> or is <a href="/wiki/Acceleration" title="Acceleration">accelerating due to a force other than gravity</a> defining a "downward" direction (that is, a <a href="/wiki/Non-inertial_reference_frame" title="Non-inertial reference frame">non-inertial reference frame</a>). In a situation of fluid statics, the net upward buoyancy force is equal to the magnitude of the weight of fluid displaced by the body.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></p>
+<p>The <b>center of buoyancy</b> of an object is the <a href="/wiki/Centroid" title="Centroid">centroid</a> of the displaced volume of fluid.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Archimedes.27_principle"><span class="tocnumber">1</span> <span class="toctext">Archimedes' principle</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Forces_and_equilibrium"><span class="tocnumber">2</span> <span class="toctext">Forces and equilibrium</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Simplified_model"><span class="tocnumber">2.1</span> <span class="toctext">Simplified model</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Stability"><span class="tocnumber">2.2</span> <span class="toctext">Stability</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Compressible_fluids_and_objects"><span class="tocnumber">3</span> <span class="toctext">Compressible fluids and objects</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Compressible_objects"><span class="tocnumber">3.1</span> <span class="toctext">Compressible objects</span></a>
+<ul>
+<li class="toclevel-3 tocsection-7"><a href="#Submarines"><span class="tocnumber">3.1.1</span> <span class="toctext">Submarines</span></a></li>
+<li class="toclevel-3 tocsection-8"><a href="#Balloons"><span class="tocnumber">3.1.2</span> <span class="toctext">Balloons</span></a></li>
+<li class="toclevel-3 tocsection-9"><a href="#Divers"><span class="tocnumber">3.1.3</span> <span class="toctext">Divers</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#Density"><span class="tocnumber">4</span> <span class="toctext">Density</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Archimedes.27_principle">Archimedes' principle</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Buoyancy&amp;action=edit&amp;section=1" title="Edit section: Archimedes' principle">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Pound-coin-floating-in-mercury.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/55/Pound-coin-floating-in-mercury.jpg/220px-Pound-coin-floating-in-mercury.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/55/Pound-coin-floating-in-mercury.jpg/330px-Pound-coin-floating-in-mercury.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/55/Pound-coin-floating-in-mercury.jpg/440px-Pound-coin-floating-in-mercury.jpg 2x" data-file-width="2448" data-file-height="1836" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Pound-coin-floating-in-mercury.jpg" class="internal" title="Enlarge"></a></div>
+A metallic coin (one British <a href="/wiki/British_one_pound_coin" class="mw-redirect" title="British one pound coin">pound coin</a>) floats in <a href="/wiki/Mercury_(element)" title="Mercury (element)">mercury</a> due to the buoyancy force upon it and appears to float higher because of the <a href="/wiki/Surface_tension" title="Surface tension">surface tension</a> of the mercury.</div>
+</div>
+</div>
+<div role="note" class="hatnote">Main article: <a href="/wiki/Archimedes%27_principle" title="Archimedes' principle">Archimedes' principle</a></div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:262px;">
+<div id="mwe_player_0" class="PopUpMediaTransform" style="width:260px;" videopayload="&lt;div class=&quot;mediaContainer&quot; style=&quot;width:854px&quot;&gt;&lt;video id=&quot;mwe_player_1&quot; poster=&quot;//upload.wikimedia.org/wikipedia/commons/thumb/0/09/04._%D0%93%D0%B0%D0%BB%D0%B8%D0%BB%D0%B5%D0%B5%D0%B2%D0%BE_%D1%82%D0%BE%D0%BF%D1%87%D0%B5.ogv/854px--04._%D0%93%D0%B0%D0%BB%D0%B8%D0%BB%D0%B5%D0%B5%D0%B2%D0%BE_%D1%82%D0%BE%D0%BF%D1%87%D0%B5.ogv.jpg&quot; controls=&quot;&quot; preload=&quot;none&quot; autoplay=&quot;&quot; style=&quot;width:854px;height:480px&quot; class=&quot;kskin&quot; data-durationhint=&quot;47.338958333333&quot; data-startoffset=&quot;0&quot; data-mwtitle=&quot;04._Галилеево_топче.ogv&quot; data-mwprovider=&quot;wikimediacommons&quot;&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/0/09/04._%D0%93%D0%B0%D0%BB%D0%B8%D0%BB%D0%B5%D0%B5%D0%B2%D0%BE_%D1%82%D0%BE%D0%BF%D1%87%D0%B5.ogv&quot; type=&quot;video/ogg; codecs=&amp;quot;theora, vorbis&amp;quot;&quot; data-title=&quot;Original Ogg file, 1,920 × 1,080 (4.61 Mbps)&quot; data-shorttitle=&quot;Ogg source&quot; data-width=&quot;1920&quot; data-height=&quot;1080&quot; data-bandwidth=&quot;4606642&quot; data-framerate=&quot;23.976023976024&quot;/&gt;&lt;/video&gt;&lt;/div&gt;"><img alt="File:04. Галилеево топче.ogv" style="width:260px;height:146px" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/04._%D0%93%D0%B0%D0%BB%D0%B8%D0%BB%D0%B5%D0%B5%D0%B2%D0%BE_%D1%82%D0%BE%D0%BF%D1%87%D0%B5.ogv/260px--04._%D0%93%D0%B0%D0%BB%D0%B8%D0%BB%D0%B5%D0%B5%D0%B2%D0%BE_%D1%82%D0%BE%D0%BF%D1%87%D0%B5.ogv.jpg" /><a href="//upload.wikimedia.org/wikipedia/commons/0/09/04._%D0%93%D0%B0%D0%BB%D0%B8%D0%BB%D0%B5%D0%B5%D0%B2%D0%BE_%D1%82%D0%BE%D0%BF%D1%87%D0%B5.ogv" title="Play media" target="new"><span class="play-btn-large"><span class="mw-tmh-playtext">Play media</span></span></a></div>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:04._%D0%93%D0%B0%D0%BB%D0%B8%D0%BB%D0%B5%D0%B5%D0%B2%D0%BE_%D1%82%D0%BE%D0%BF%D1%87%D0%B5.ogv" class="internal" title="Enlarge"></a></div>
+The Galileo's Ball experiment, showing the different buoyancy of the same object, depending on its surrounding medium. The ball has certain buoyancy in <a href="/wiki/Water" title="Water">water</a>, but once <a href="/wiki/Ethanol" title="Ethanol">ethanol</a> is added (which is less dense than water), it reduces the density of the medium, thus making the ball sink furter down (reducing its buoyancy). <small>Performed by Prof. Oliver Zajkov at the Physics Institute at the <a href="/wiki/Ss._Cyril_and_Methodius_University_of_Skopje" title="Ss. Cyril and Methodius University of Skopje">Ss. Cyril and Methodius University of Skopje</a>, Macedonia.</small></div>
+</div>
+</div>
+<p>Archimedes' principle is named after <a href="/wiki/Archimedes" title="Archimedes">Archimedes</a> of <a href="/wiki/Syracuse,_Sicily" title="Syracuse, Sicily">Syracuse</a>, who first discovered this law in 212 B.C.<sup id="cite_ref-acottLaw_4-0" class="reference"><a href="#cite_note-acottLaw-4">[4]</a></sup> For objects, floating and sunken, and in gases as well as liquids (i.e. a <a href="/wiki/Fluid" title="Fluid">fluid</a>), Archimedes' principle may be stated thus in terms of forces:</p>
+<blockquote class="templatequote">
+<p>Any object, wholly or partially immersed in a fluid, is buoyed up by a force equal to the weight of the fluid displaced by the object.</p>
+<div class="templatequotecite"><cite>— <a href="/wiki/Archimedes" title="Archimedes">Archimedes</a> of <a href="/wiki/Syracuse,_Sicily" title="Syracuse, Sicily">Syracuse</a></cite></div>
+</blockquote>
+<p>with the clarifications that for a sunken object the volume of displaced fluid is the volume of the object, and for a floating object on a liquid, the weight of the displaced liquid is the weight of the object.</p>
+<p>More tersely: <b>Buoyancy = weight of displaced fluid.</b></p>
+<p>Archimedes' principle does not consider the <a href="/wiki/Surface_tension" title="Surface tension">surface tension</a> (capillarity) acting on the body,<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> but this additional force modifies only the amount of fluid displaced, so the principle that <i>Buoyancy = weight of displaced fluid</i> remains valid.</p>
+<p>The weight of the displaced fluid is directly proportional to the volume of the displaced fluid (if the surrounding fluid is of uniform density). In simple terms, the principle states that the buoyancy force on an object is equal to the weight of the fluid displaced by the object, or the density of the fluid multiplied by the submerged volume times the gravitational acceleration, g. Thus, among completely submerged objects with equal masses, objects with greater volume have greater buoyancy. This is also known as upthrust.</p>
+<p>Suppose a rock's weight is measured as 10 <a href="/wiki/Newton_(unit)" title="Newton (unit)">newtons</a> when suspended by a string in a <a href="/wiki/Vacuum" title="Vacuum">vacuum</a> with gravity acting upon it. Suppose that when the rock is lowered into water, it displaces water of weight 3 newtons. The force it then exerts on the string from which it hangs would be 10 newtons minus the 3 newtons of buoyancy force: 10&#160;−&#160;3 = 7 newtons. Buoyancy reduces the apparent weight of objects that have sunk completely to the sea floor. It is generally easier to lift an object up through the water than it is to pull it out of the water.</p>
+<p>Assuming Archimedes' principle to be reformulated as follows,</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mtext>apparent immersed weight</mtext>
+        </mrow>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mtext>weight</mtext>
+        </mrow>
+        <mo>&#x2212;<!-- − --></mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mtext>weight of displaced fluid</mtext>
+        </mrow>
+        <mspace width="thinmathspace" />
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\text{apparent immersed weight}}={\text{weight}}-{\text{weight of displaced fluid}}\,}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7156b8271fbc964e96c785b25e240c373cd70f6b" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:64.458ex; height:2.676ex;" alt="\text{apparent immersed weight} = \text{weight} - \text{weight of displaced fluid}\," /></span></dd>
+</dl>
+<p>then inserted into the quotient of weights, which has been expanded by the mutual volume</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mtext>density</mtext>
+            <mtext>density of fluid</mtext>
+          </mfrac>
+        </mrow>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mtext>weight</mtext>
+            <mtext>weight of displaced fluid</mtext>
+          </mfrac>
+        </mrow>
+        <mo>,</mo>
+        <mspace width="thinmathspace" />
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\frac {\text{density}}{\text{density of fluid}}}={\frac {\text{weight}}{\text{weight of displaced fluid}}},\,}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7598fe8316b0a044316da1f0712d417ea3f56651" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.505ex; width:45.379ex; height:6.176ex;" alt=" \frac { \text{density}} { \text{density of fluid} } = \frac { \text{weight}} { \text{weight of displaced fluid} }, \," /></span></dd>
+</dl>
+<p>yields the formula below. The density of the immersed object relative to the density of the fluid can easily be calculated without measuring any volumes.:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mtext>density of object</mtext>
+            <mtext>density of fluid</mtext>
+          </mfrac>
+        </mrow>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mtext>weight</mtext>
+            <mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mtext>weight</mtext>
+              </mrow>
+              <mo>&#x2212;<!-- − --></mo>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mtext>apparent immersed weight</mtext>
+              </mrow>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mspace width="thinmathspace" />
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\frac {\text{density of object}}{\text{density of fluid}}}={\frac {\text{weight}}{{\text{weight}}-{\text{apparent immersed weight}}}}\,}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8371d0be919a8507c4378f81a732534e52d7a4d3" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.505ex; width:58.303ex; height:6.176ex;" alt=" \frac { \text {density of object}} { \text{density of fluid} } = \frac { \text{weight}} { \text{weight} - \text{apparent immersed weight}}\," /></span></dd>
+</dl>
+<p>(This formula is used for example in describing the measuring principle of a <a href="/wiki/Dasymeter" title="Dasymeter">dasymeter</a> and of <a href="/wiki/Hydrostatic_weighing" title="Hydrostatic weighing">hydrostatic weighing</a>.)</p>
+<p>Example: If you drop wood into water, buoyancy will keep it afloat.</p>
+<p>Example: A helium balloon in a moving car. During a period of increasing speed, the air mass inside the car moves in the direction opposite to the car's acceleration (i.e., towards the rear). The balloon is also pulled this way. However, because the balloon is buoyant relative to the air, it ends up being pushed "out of the way", and will actually drift in the same direction as the car's acceleration (i.e., forward). If the car slows down, the same balloon will begin to drift backward. For the same reason, as the car goes round a curve, the balloon will drift towards the inside of the curve.</p>
+<h2><span class="mw-headline" id="Forces_and_equilibrium">Forces and equilibrium</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Buoyancy&amp;action=edit&amp;section=2" title="Edit section: Forces and equilibrium">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="plainlinks metadata ambox ambox-content ambox-Unreferenced" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This section <b>does not <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">cite</a> any <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">sources</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Buoyancy&amp;action=edit">improve this section</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and <a href="/wiki/Wikipedia:Verifiability#Burden_of_evidence" title="Wikipedia:Verifiability">removed</a>.</span> <small><i>(January 2016)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></span></td>
+</tr>
+</table>
+<p>This is the equation to calculate the pressure inside a fluid in equilibrium. The corresponding equilibrium equation is:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="bold">f</mi>
+        </mrow>
+        <mo>+</mo>
+        <mi>div</mi>
+        <mspace width="thinmathspace" />
+        <mi>&#x03C3;<!-- σ --></mi>
+        <mo>=</mo>
+        <mn>0</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \mathbf {f} +\operatorname {div} \,\sigma =0}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/704c08e426e6804eb38b58dba374fd1f1df5081c" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.505ex; width:13.509ex; height:2.343ex;" alt=" \mathbf{f}+\operatorname{div}\,\sigma=0" /></span></dd>
+</dl>
+<p>where <b>f</b> is the force density exerted by some outer field on the fluid, and <i>σ</i> is the <a href="/wiki/Cauchy_stress_tensor" title="Cauchy stress tensor">Cauchy stress tensor</a>. In this case the stress tensor is proportional to the identity tensor:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>&#x03C3;<!-- σ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>i</mi>
+            <mi>j</mi>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <mo>&#x2212;<!-- − --></mo>
+        <mi>p</mi>
+        <msub>
+          <mi>&#x03B4;<!-- δ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>i</mi>
+            <mi>j</mi>
+          </mrow>
+        </msub>
+        <mo>.</mo>
+        <mspace width="thinmathspace" />
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \sigma _{ij}=-p\delta _{ij}.\,}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a4eff92ef09898785388dbecac553ff1aa394214" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:12.516ex; height:3.009ex;" alt="\sigma_{ij}=-p\delta_{ij}.\," /></span></dd>
+</dl>
+<p>Here δ<sub>ij</sub> is the <a href="/wiki/Kronecker_delta" title="Kronecker delta">Kronecker delta</a>. Using this the above equation becomes:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="bold">f</mi>
+        </mrow>
+        <mo>=</mo>
+        <mi mathvariant="normal">&#x2207;<!-- ∇ --></mi>
+        <mi>p</mi>
+        <mo>.</mo>
+        <mspace width="thinmathspace" />
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \mathbf {f} =\nabla p.\,}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/42a776f853e91802d869b6170628641af33d999e" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:8.343ex; height:2.509ex;" alt=" \mathbf{f}=\nabla p.\," /></span></dd>
+</dl>
+<p>Assuming the outer force field is conservative, that is it can be written as the negative gradient of some scalar valued function:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="bold">f</mi>
+        </mrow>
+        <mo>=</mo>
+        <mo>&#x2212;<!-- − --></mo>
+        <mi mathvariant="normal">&#x2207;<!-- ∇ --></mi>
+        <mi mathvariant="normal">&#x03A6;<!-- Φ --></mi>
+        <mo>.</mo>
+        <mspace width="thinmathspace" />
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \mathbf {f} =-\nabla \Phi .\,}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c682f918604f924935ebd72445d32fb1195d941d" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:10.67ex; height:2.176ex;" alt="\mathbf{f}=-\nabla\Phi.\," /></span></dd>
+</dl>
+<p>Then:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi mathvariant="normal">&#x2207;<!-- ∇ --></mi>
+        <mo stretchy="false">(</mo>
+        <mi>p</mi>
+        <mo>+</mo>
+        <mi mathvariant="normal">&#x03A6;<!-- Φ --></mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mn>0</mn>
+        <mo stretchy="false">&#x27F9;<!-- ⟹ --></mo>
+        <mi>p</mi>
+        <mo>+</mo>
+        <mi mathvariant="normal">&#x03A6;<!-- Φ --></mi>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mtext>constant</mtext>
+        </mrow>
+        <mo>.</mo>
+        <mspace width="thinmathspace" />
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \nabla (p+\Phi )=0\Longrightarrow p+\Phi ={\text{constant}}.\,}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b13796697dd08e1b690c0dc481828d74a7525160" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:37.508ex; height:2.843ex;" alt=" \nabla(p+\Phi)=0 \Longrightarrow p+\Phi = \text{constant}.\," /></span></dd>
+</dl>
+<p>Therefore, the shape of the open surface of a fluid equals the equipotential plane of the applied outer conservative force field. Let the <i>z</i>-axis point downward. In this case the field is gravity, so Φ&#160;=&#160;−<i>ρ<sub>f</sub>gz</i> where <i>g</i> is the gravitational acceleration, <i>ρ<sub>f</sub></i> is the mass density of the fluid. Taking the pressure as zero at the surface, where <i>z</i> is zero, the constant will be zero, so the pressure inside the fluid, when it is subject to gravity, is</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>p</mi>
+        <mo>=</mo>
+        <msub>
+          <mi>&#x03C1;<!-- ρ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>f</mi>
+          </mrow>
+        </msub>
+        <mi>g</mi>
+        <mi>z</mi>
+        <mo>.</mo>
+        <mspace width="thinmathspace" />
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle p=\rho _{f}gz.\,}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/28057ae2943376ba4076764c7119eae322bcf2f1" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; margin-left: -0.079ex; width:9.993ex; height:2.343ex;" alt="p=\rho_f g z.\," /></span></dd>
+</dl>
+<p>So pressure increases with depth below the surface of a liquid, as <i>z</i> denotes the distance from the surface of the liquid into it. Any object with a non-zero vertical depth will have different pressures on its top and bottom, with the pressure on the bottom being greater. This difference in pressure causes the upward buoyancy forces.</p>
+<p>The buoyancy force exerted on a body can now be calculated easily, since the internal pressure of the fluid is known. The force exerted on the body can be calculated by integrating the stress tensor over the surface of the body which is in contact with the fluid:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="bold">B</mi>
+        </mrow>
+        <mo>=</mo>
+        <mo>&#x222E;</mo>
+        <mi>&#x03C3;<!-- σ --></mi>
+        <mspace width="thinmathspace" />
+        <mi>d</mi>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="bold">A</mi>
+        </mrow>
+        <mo>.</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \mathbf {B} =\oint \sigma \,d\mathbf {A} .}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d53e8b6668b8f0850ba54ec5999a6b04d8256cb4" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.338ex; width:13.252ex; height:5.843ex;" alt="\mathbf{B}=\oint \sigma \, d\mathbf{A}." /></span></dd>
+</dl>
+<p>The surface integral can be transformed into a volume integral with the help of the <a href="/wiki/Gauss_theorem" class="mw-redirect" title="Gauss theorem">Gauss theorem</a>:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="bold">B</mi>
+        </mrow>
+        <mo>=</mo>
+        <mo>&#x222B;<!-- ∫ --></mo>
+        <mi>div</mi>
+        <mo>&#x2061;<!-- ⁡ --></mo>
+        <mi>&#x03C3;<!-- σ --></mi>
+        <mspace width="thinmathspace" />
+        <mi>d</mi>
+        <mi>V</mi>
+        <mo>=</mo>
+        <mo>&#x2212;<!-- − --></mo>
+        <mo>&#x222B;<!-- ∫ --></mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="bold">f</mi>
+        </mrow>
+        <mspace width="thinmathspace" />
+        <mi>d</mi>
+        <mi>V</mi>
+        <mo>=</mo>
+        <mo>&#x2212;<!-- − --></mo>
+        <msub>
+          <mi>&#x03C1;<!-- ρ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>f</mi>
+          </mrow>
+        </msub>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="bold">g</mi>
+        </mrow>
+        <mo>&#x222B;<!-- ∫ --></mo>
+        <mspace width="thinmathspace" />
+        <mi>d</mi>
+        <mi>V</mi>
+        <mo>=</mo>
+        <mo>&#x2212;<!-- − --></mo>
+        <msub>
+          <mi>&#x03C1;<!-- ρ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>f</mi>
+          </mrow>
+        </msub>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="bold">g</mi>
+        </mrow>
+        <mi>V</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \mathbf {B} =\int \operatorname {div} \sigma \,dV=-\int \mathbf {f} \,dV=-\rho _{f}\mathbf {g} \int \,dV=-\rho _{f}\mathbf {g} V}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/59aa810e63b67d23daabe691fbd06e8879d425b5" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.338ex; width:53.777ex; height:5.843ex;" alt="\mathbf{B}=\int \operatorname{div}\sigma \, dV = -\int \mathbf{f}\, dV = -\rho_f \mathbf{g} \int\,dV=-\rho_f \mathbf{g} V" /></span></dd>
+</dl>
+<p>where <i>V</i> is the measure of the volume in contact with the fluid, that is the volume of the submerged part of the body. Since the fluid doesn't exert force on the part of the body which is outside of it.</p>
+<p>The magnitude of buoyancy force may be appreciated a bit more from the following argument. Consider any object of arbitrary shape and volume <i>V</i> surrounded by a liquid. The <a href="/wiki/Force" title="Force">force</a> the liquid exerts on an object within the liquid is equal to the weight of the liquid with a volume equal to that of the object. This force is applied in a direction opposite to gravitational force, that is of magnitude:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>B</mi>
+        <mo>=</mo>
+        <msub>
+          <mi>&#x03C1;<!-- ρ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>f</mi>
+          </mrow>
+        </msub>
+        <msub>
+          <mi>V</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mtext>disp</mtext>
+          </mrow>
+        </msub>
+        <mspace width="thinmathspace" />
+        <mi>g</mi>
+        <mo>,</mo>
+        <mspace width="thinmathspace" />
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle B=\rho _{f}V_{\text{disp}}\,g,\,}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1bfdaf869225d25b36e73474c84673290c69e24b" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:14.358ex; height:2.843ex;" alt="B = \rho_f V_\text{disp}\, g, \," /></span></dd>
+</dl>
+<p>where <i>ρ<sub>f</sub></i> is the <a href="/wiki/Density" title="Density">density</a> of the fluid, <i>V<sub>disp</sub></i> is the volume of the displaced body of liquid, and <i>g</i> is the <a href="/wiki/Gravitational_acceleration" title="Gravitational acceleration">gravitational acceleration</a> at the location in question.</p>
+<p>If this volume of liquid is replaced by a solid body of exactly the same shape, the force the liquid exerts on it must be exactly the same as above. In other words, the "buoyancy force" on a submerged body is directed in the opposite direction to gravity and is equal in magnitude to</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>B</mi>
+        <mo>=</mo>
+        <msub>
+          <mi>&#x03C1;<!-- ρ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>f</mi>
+          </mrow>
+        </msub>
+        <mi>V</mi>
+        <mi>g</mi>
+        <mo>.</mo>
+        <mspace width="thinmathspace" />
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle B=\rho _{f}Vg.\,}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1894cb9c15cec95d8b75d72de800db1da6f04d2a" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:11.208ex; height:2.843ex;" alt="B = \rho_f V g. \," /></span></dd>
+</dl>
+<p>The <a href="/wiki/Net_force" title="Net force">net force</a> on the object must be zero if it is to be a situation of fluid statics such that Archimedes principle is applicable, and is thus the sum of the buoyancy force and the object's weight</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>F</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mtext>net</mtext>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <mn>0</mn>
+        <mo>=</mo>
+        <mi>m</mi>
+        <mi>g</mi>
+        <mo>&#x2212;<!-- − --></mo>
+        <msub>
+          <mi>&#x03C1;<!-- ρ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>f</mi>
+          </mrow>
+        </msub>
+        <msub>
+          <mi>V</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mtext>disp</mtext>
+          </mrow>
+        </msub>
+        <mi>g</mi>
+        <mspace width="thinmathspace" />
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle F_{\text{net}}=0=mg-\rho _{f}V_{\text{disp}}g\,}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9acf3dc4f1a54e2227f5ea4404209a086116e9c2" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:25.892ex; height:2.843ex;" alt="F_\text{net} = 0 = m g - \rho_f V_\text{disp} g \," /></span></dd>
+</dl>
+<p>If the buoyancy of an (unrestrained and unpowered) object exceeds its weight, it tends to rise. An object whose weight exceeds its buoyancy tends to sink. Calculation of the upwards force on a submerged object during its <a href="/wiki/Acceleration" title="Acceleration">accelerating</a> period cannot be done by the Archimedes principle alone; it is necessary to consider <a href="#Beyond_Archimedes.27_principle">dynamics of an object involving buoyancy</a>. Once it fully sinks to the floor of the fluid or rises to the surface and settles, Archimedes principle can be applied alone. For a floating object, only the submerged volume displaces water. For a sunken object, the entire volume displaces water, and there will be an additional force of reaction from the solid floor.</p>
+<p>In order for Archimedes' principle to be used alone, the object in question must be in equilibrium (the sum of the forces on the object must be zero), therefore;</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>m</mi>
+        <mi>g</mi>
+        <mo>=</mo>
+        <msub>
+          <mi>&#x03C1;<!-- ρ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>f</mi>
+          </mrow>
+        </msub>
+        <msub>
+          <mi>V</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mtext>disp</mtext>
+          </mrow>
+        </msub>
+        <mi>g</mi>
+        <mo>,</mo>
+        <mspace width="thinmathspace" />
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle mg=\rho _{f}V_{\text{disp}}g,\,}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9b3f28e05170a0730fed99e1252a5ac773aaaab8" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:15.374ex; height:2.843ex;" alt="mg = \rho_f V_\text{disp} g, \," /></span></dd>
+</dl>
+<p>and therefore</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>m</mi>
+        <mo>=</mo>
+        <msub>
+          <mi>&#x03C1;<!-- ρ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>f</mi>
+          </mrow>
+        </msub>
+        <msub>
+          <mi>V</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mtext>disp</mtext>
+          </mrow>
+        </msub>
+        <mo>.</mo>
+        <mspace width="thinmathspace" />
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle m=\rho _{f}V_{\text{disp}}.\,}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b1d735720c037f2f02ecef356530e0d1ee3fab1b" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:13.121ex; height:2.843ex;" alt="m = \rho_f V_\text{disp}.  \," /></span></dd>
+</dl>
+<p>showing that the depth to which a floating object will sink, and the volume of fluid it will displace, is independent of the <a href="/wiki/Gravitational_field" title="Gravitational field">gravitational field</a> regardless of geographic location.</p>
+<dl>
+<dd>(<i>Note: If the fluid in question is <a href="/wiki/Seawater" title="Seawater">seawater</a>, it will not have the same <a href="/wiki/Density" title="Density">density</a> (</i>ρ<i>) at every location. For this reason, a ship may display a <a href="/wiki/Waterline#Load_line" title="Waterline">Plimsoll line</a>.)</i></dd>
+</dl>
+<p>It can be the case that forces other than just buoyancy and gravity come into play. This is the case if the object is restrained or if the object sinks to the solid floor. An object which tends to float requires a <a href="/wiki/Tension_(physics)" title="Tension (physics)">tension</a> restraint force T in order to remain fully submerged. An object which tends to sink will eventually have a <a href="/wiki/Normal_force" title="Normal force">normal force</a> of constraint N exerted upon it by the solid floor. The constraint force can be tension in a spring scale measuring its weight in the fluid, and is how apparent weight is defined.</p>
+<p>If the object would otherwise float, the tension to restrain it fully submerged is:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>T</mi>
+        <mo>=</mo>
+        <msub>
+          <mi>&#x03C1;<!-- ρ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>f</mi>
+          </mrow>
+        </msub>
+        <mi>V</mi>
+        <mi>g</mi>
+        <mo>&#x2212;<!-- − --></mo>
+        <mi>m</mi>
+        <mi>g</mi>
+        <mo>.</mo>
+        <mspace width="thinmathspace" />
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle T=\rho _{f}Vg-mg.\,}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/12d605c2c69b5c7cfcfaef1801e1b4639b0dfb44" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:17.108ex; height:2.843ex;" alt="T = \rho_f V g - m g . \," /></span></dd>
+</dl>
+<p>When a sinking object settles on the solid floor, it experiences a <a href="/wiki/Normal_force" title="Normal force">normal force</a> of:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>N</mi>
+        <mo>=</mo>
+        <mi>m</mi>
+        <mi>g</mi>
+        <mo>&#x2212;<!-- − --></mo>
+        <msub>
+          <mi>&#x03C1;<!-- ρ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>f</mi>
+          </mrow>
+        </msub>
+        <mi>V</mi>
+        <mi>g</mi>
+        <mo>.</mo>
+        <mspace width="thinmathspace" />
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle N=mg-\rho _{f}Vg.\,}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e8378503ba98abefdebb6fb1641e2840047e0b79" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:17.536ex; height:2.843ex;" alt="N = m g - \rho_f V g . \," /></span></dd>
+</dl>
+<p>Another possible formula for calculating buoyancy of an object is by finding the apparent weight of that particular object in the air (calculated in Newtons), and apparent weight of that object in the water (in Newtons). To find the force of buoyancy acting on the object when in air, using this particular information, this formula applies:</p>
+<dl>
+<dd>'<i><b>Buoyancy force = weight of object in empty space − weight of object immersed in fluid'</b></i></dd>
+</dl>
+<p>The final result would be measured in Newtons.</p>
+<p>Air's density is very small compared to most solids and liquids. For this reason, the weight of an object in air is approximately the same as its true weight in a vacuum. The buoyancy of air is neglected for most objects during a measurement in air because the error is usually insignificant (typically less than 0.1% except for objects of very low average density such as a balloon or light foam).</p>
+<h3><span class="mw-headline" id="Simplified_model">Simplified model</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Buoyancy&amp;action=edit&amp;section=3" title="Edit section: Simplified model">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Pressure_distribution_on_an_immersed_cube.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Pressure_distribution_on_an_immersed_cube.png/220px-Pressure_distribution_on_an_immersed_cube.png" width="220" height="147" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Pressure_distribution_on_an_immersed_cube.png/330px-Pressure_distribution_on_an_immersed_cube.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Pressure_distribution_on_an_immersed_cube.png/440px-Pressure_distribution_on_an_immersed_cube.png 2x" data-file-width="1800" data-file-height="1201" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Pressure_distribution_on_an_immersed_cube.png" class="internal" title="Enlarge"></a></div>
+Pressure distribution on an immersed cube</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Forces_on_an_immersed_cube.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Forces_on_an_immersed_cube.png/220px-Forces_on_an_immersed_cube.png" width="220" height="147" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Forces_on_an_immersed_cube.png/330px-Forces_on_an_immersed_cube.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Forces_on_an_immersed_cube.png/440px-Forces_on_an_immersed_cube.png 2x" data-file-width="1800" data-file-height="1201" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Forces_on_an_immersed_cube.png" class="internal" title="Enlarge"></a></div>
+Forces on an immersed cube</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Approximation_of_an_arbitrary_volume_as_a_group_of_cubes.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Approximation_of_an_arbitrary_volume_as_a_group_of_cubes.png/220px-Approximation_of_an_arbitrary_volume_as_a_group_of_cubes.png" width="220" height="147" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Approximation_of_an_arbitrary_volume_as_a_group_of_cubes.png/330px-Approximation_of_an_arbitrary_volume_as_a_group_of_cubes.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/26/Approximation_of_an_arbitrary_volume_as_a_group_of_cubes.png/440px-Approximation_of_an_arbitrary_volume_as_a_group_of_cubes.png 2x" data-file-width="1800" data-file-height="1201" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Approximation_of_an_arbitrary_volume_as_a_group_of_cubes.png" class="internal" title="Enlarge"></a></div>
+Approximation of an arbitrary volume as a group of cubes</div>
+</div>
+</div>
+<p>A simplified explanation for the integration of the pressure over the contact area may be stated as follows:</p>
+<p>Consider a cube immersed in a fluid with the upper surface horizontal.</p>
+<p>The sides are identical in area, and have the same depth distribution, therefore they also have the same pressure distribution, and consequently the same total force resulting from hydrostatic pressure, exerted perpendicular to the plane of the surface of each side.</p>
+<p>There are two pairs of opposing sides, therefore the resultant horizontal forces balance in both orthogonal directions, and the resultant force is zero.</p>
+<p>The upward force on the cube is the pressure on the bottom surface integrated over its area. The surface is at constant depth, so the pressure is constant. Therefore, the integral of the pressure over the area of the horizontal bottom surface of the cube is the hydrostatic pressure at that depth multiplied by the area of the bottom surface.</p>
+<p>Similarly, the downward force on the cube is the pressure on the top surface integrated over its area. The surface is at constant depth, so the pressure is constant. Therefore, the integral of the pressure over the area of the horizontal top surface of the cube is the hydrostatic pressure at that depth multiplied by the area of the top surface.</p>
+<p>As this is a cube, the top and bottom surfaces are identical in shape and area, and the pressure difference between the top and bottom of the cube is directly proportional to the depth difference, and the resultant force difference is exactly equal to the weight of the fluid that would occupy the volume of the cube in its absence.</p>
+<p>This means that the resultant upward force on the cube is equal to the weight of the fluid that would fit into the volume of the cube, and the downward force on the cube is its weight, in the absence of external forces.</p>
+<p>This analogy is valid for variations in the size of the cube.</p>
+<p>If two cubes are placed alongside each other with a face of each in contact, the pressures and resultant forces on the sides or parts thereof in contact are balanced and may be disregarded, as the contact surfaces are equal in shape, size and pressure distribution, therefore the buoyancy of two cubes in contact is the sum of the buoyancies of each cube. This analogy can be extended to an arbitrary number of cubes.</p>
+<p>An object of any shape can be approximated as a group of cubes in contact with each other, and as the size of the cube is decreased, the precision of the approximation increases. The limiting case for infinitely small cubes is the exact equivalence.</p>
+<p>Angled surfaces do not nullify the analogy as the resultant force can be split into orthogonal components and each dealt with in the same way.</p>
+<h3><span class="mw-headline" id="Stability">Stability</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Buoyancy&amp;action=edit&amp;section=4" title="Edit section: Stability">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Ship_stability.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Ship_stability.svg/220px-Ship_stability.svg.png" width="220" height="220" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Ship_stability.svg/330px-Ship_stability.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Ship_stability.svg/440px-Ship_stability.svg.png 2x" data-file-width="512" data-file-height="512" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Ship_stability.svg" class="internal" title="Enlarge"></a></div>
+Illustration of the stability of bottom-heavy (left) and top-heavy (right) ships with respect to the positions of their centres of buoyancy (CB) and gravity (CG)</div>
+</div>
+</div>
+<p>A floating object is stable if it tends to restore itself to an equilibrium position after a small displacement. For example, floating objects will generally have vertical stability, as if the object is pushed down slightly, this will create a greater buoyancy force, which, unbalanced by the weight force, will push the object back up.</p>
+<p>Rotational stability is of great importance to floating vessels. Given a small angular displacement, the vessel may return to its original position (stable), move away from its original position (unstable), or remain where it is (neutral).</p>
+<p>Rotational stability depends on the relative lines of action of forces on an object. The upward buoyancy force on an object acts through the center of buoyancy, being the <a href="/wiki/Centroid" title="Centroid">centroid</a> of the displaced volume of fluid. The weight force on the object acts through its <a href="/wiki/Center_of_mass" title="Center of mass">center of gravity</a>. A buoyant object will be stable if the center of gravity is beneath the center of buoyancy because any angular displacement will then produce a 'righting <a href="/wiki/Moment_(physics)" title="Moment (physics)">moment</a>'.</p>
+<p>The stability of a buoyant object at the surface is more complex, and it may remain stable even if the centre of gravity is above the centre of buoyancy, provided that when disturbed from the equilibrium position, the centre of buoyancy moves further to the same side that the centre of gravity moves, thus providing a positive righting moment. If this occurs, the floating object is said to have a positive <a href="/wiki/Metacentric_height" title="Metacentric height">metacentric height</a>. This situation is typically valid for a range of heel angles, beyond which the centre of buoyancy does not move enough to provide a positive righting moment, and the object becomes unstable. It is possible to shift from positive to negative or vice versa more than once during a heeling disturbance, and many shapes are stable in more than one position.</p>
+<h2><span class="mw-headline" id="Compressible_fluids_and_objects">Compressible fluids and objects</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Buoyancy&amp;action=edit&amp;section=5" title="Edit section: Compressible fluids and objects">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="plainlinks metadata ambox ambox-content ambox-Unreferenced" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This section <b>does not <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">cite</a> any <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">sources</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Buoyancy&amp;action=edit">improve this section</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and <a href="/wiki/Wikipedia:Verifiability#Burden_of_evidence" title="Wikipedia:Verifiability">removed</a>.</span> <small><i>(January 2016)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></span></td>
+</tr>
+</table>
+<p>The <a href="/wiki/Air_density" class="mw-redirect" title="Air density">atmosphere's density</a> depends upon altitude. As an <a href="/wiki/Airship" title="Airship">airship</a> rises in the atmosphere, its buoyancy decreases as the density of the surrounding air decreases. In contrast, as a <a href="/wiki/Submarine" title="Submarine">submarine</a> expels water from its buoyancy tanks, it rises because its volume is constant (the volume of water it displaces if it is fully submerged) while its mass is decreased.</p>
+<h3><span class="mw-headline" id="Compressible_objects">Compressible objects</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Buoyancy&amp;action=edit&amp;section=6" title="Edit section: Compressible objects">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>As a floating object rises or falls, the forces external to it change and, as all objects are compressible to some extent or another, so does the object's volume. Buoyancy depends on volume and so an object's buoyancy reduces if it is compressed and increases if it expands.</p>
+<p>If an object at equilibrium has a <a href="/wiki/Compressibility" title="Compressibility">compressibility</a> less than that of the surrounding fluid, the object's equilibrium is stable and it remains at rest. If, however, its compressibility is greater, its equilibrium is then <a href="/wiki/Unstable" class="mw-redirect" title="Unstable">unstable</a>, and it rises and expands on the slightest upward perturbation, or falls and compresses on the slightest downward perturbation.</p>
+<h4><span class="mw-headline" id="Submarines">Submarines</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Buoyancy&amp;action=edit&amp;section=7" title="Edit section: Submarines">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Submarines rise and dive by filling large tanks with seawater. To dive, the tanks are opened to allow air to exhaust out the top of the tanks, while the water flows in from the bottom. Once the weight has been balanced so the overall density of the submarine is equal to the water around it, it has neutral buoyancy and will remain at that depth. Most military submarines operate with a slightly negative buoyancy and maintain depth by using the "lift" of the stabilizers with forward motion.</p>
+<h4><span class="mw-headline" id="Balloons">Balloons</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Buoyancy&amp;action=edit&amp;section=8" title="Edit section: Balloons">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>The height to which a balloon rises tends to be stable. As a balloon rises it tends to increase in volume with reducing atmospheric pressure, but the balloon itself does not expand as much as the air on which it rides. The average density of the balloon decreases less than that of the surrounding air. The weight of the displaced air is reduced. A rising balloon stops rising when it and the displaced air are equal in weight. Similarly, a sinking balloon tends to stop sinking.</p>
+<h4><span class="mw-headline" id="Divers">Divers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Buoyancy&amp;action=edit&amp;section=9" title="Edit section: Divers">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Underwater divers are a common example of the problem of unstable buoyancy due to compressibility. The diver typically wears an exposure suit which relies on gas filled spaces for insulation, and may also wear a <a href="/wiki/Buoyancy_compensator_(diving)" title="Buoyancy compensator (diving)">buoyancy compensator</a>, which is a variable volume buoyancy bag which is inflated to increase buoyancy and deflated to decrease buoyancy. The desired condition is usually neutral buoyancy when the diver is swimming in mid-water, and this condition is unstable, so the diver is constantly making fine adjustments by control of lung volume, and has to adjust the contents of the buoyancy compensator if the depth varies.</p>
+<h2><span class="mw-headline" id="Density">Density</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Buoyancy&amp;action=edit&amp;section=10" title="Edit section: Density">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="plainlinks metadata ambox ambox-content ambox-Unreferenced" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This section <b>does not <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">cite</a> any <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">sources</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Buoyancy&amp;action=edit">improve this section</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and <a href="/wiki/Wikipedia:Verifiability#Burden_of_evidence" title="Wikipedia:Verifiability">removed</a>.</span> <small><i>(January 2016)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></span></td>
+</tr>
+</table>
+<div class="thumb tright">
+<div class="thumbinner" style="width:51px;"><a href="/wiki/File:Density_column.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/25/Density_column.JPG/49px-Density_column.JPG" width="49" height="125" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/25/Density_column.JPG/75px-Density_column.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/25/Density_column.JPG/99px-Density_column.JPG 2x" data-file-width="1368" data-file-height="3434" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Density_column.JPG" class="internal" title="Enlarge"></a></div>
+Density column of liquids &amp; solids: baby oil, <a href="/wiki/Rubbing_alcohol" title="Rubbing alcohol">alcohol</a> (with red <a href="/wiki/Food_coloring" title="Food coloring">food coloring</a>), vegetable oil, wax, water (with blue food coloring), &amp; aluminum.</div>
+</div>
+</div>
+<p>If the weight of an object is less than the weight of the displaced fluid when fully submerged, then the object has an average density that is less than the fluid and when fully submerged will experience a buoyancy force greater than its own weight. If the fluid has a surface, such as water in a lake or the sea, the object will float and settle at a level where it displaces the same weight of fluid as the weight of the object. If the object is immersed in the fluid, such as a submerged submarine or air in a balloon, it will tend to rise. If the object has exactly the same density as the fluid, then its buoyancy equals its weight. It will remain submerged in the fluid, but it will neither sink nor float, although a disturbance in either direction will cause it to drift away from its position. An object with a higher average density than the fluid will never experience more buoyancy than weight and it will sink. A ship will float even though it may be made of steel (which is much denser than water), because it encloses a volume of air (which is much less dense than water), and the resulting shape has an average density less than that of the water.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Buoyancy&amp;action=edit&amp;section=11" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="div-col columns column-width" style="-moz-column-width: 15em; -webkit-column-width: 15em; column-width: 15em; font-size:90%;"><a href="/wiki/File:Helmet_logo_for_Underwater_Diving_portal.png" class="image"><img alt="Helmet logo for Underwater Diving portal.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Helmet_logo_for_Underwater_Diving_portal.png/20px-Helmet_logo_for_Underwater_Diving_portal.png" width="20" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Helmet_logo_for_Underwater_Diving_portal.png/30px-Helmet_logo_for_Underwater_Diving_portal.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Helmet_logo_for_Underwater_Diving_portal.png/40px-Helmet_logo_for_Underwater_Diving_portal.png 2x" data-file-width="429" data-file-height="600" /></a> <a href="/wiki/Portal:Underwater_diving" title="Portal:Underwater diving">Underwater diving portal</a>
+<ul>
+<li><a href="/wiki/Air" class="mw-redirect" title="Air">Air</a></li>
+<li><a href="/wiki/Archimedes_paradox" class="mw-redirect" title="Archimedes paradox">Archimedes paradox</a></li>
+<li><a href="/wiki/Buoy" title="Buoy">Buoy</a></li>
+<li><a href="/wiki/Brunt%E2%80%93V%C3%A4is%C3%A4l%C3%A4_frequency" title="Brunt–Väisälä frequency">Brunt–Väisälä frequency</a></li>
+<li><a href="/wiki/Buoyancy_compensator_(diving)" title="Buoyancy compensator (diving)">Buoyancy compensator (diving)</a></li>
+<li><a href="/wiki/Buoyancy_compensator_(aviation)" title="Buoyancy compensator (aviation)">Buoyancy compensator (aviation)</a></li>
+<li><a href="/wiki/Cartesian_diver" title="Cartesian diver">Cartesian diver</a></li>
+<li><a href="/wiki/Dasymeter" title="Dasymeter">Dasymeter</a></li>
+<li><a href="/wiki/Diving_weighting_system" title="Diving weighting system">Diving weighting system</a></li>
+<li><a href="/wiki/Fluid" title="Fluid">Fluid</a></li>
+<li><a href="/wiki/Fluid_statics" class="mw-redirect" title="Fluid statics">Hydrostatics</a></li>
+<li><a href="/wiki/Galileo_thermometer" title="Galileo thermometer">Galileo thermometer</a></li>
+<li><a href="/wiki/Hull_(ship)" class="mw-redirect" title="Hull (ship)">Hull (ship)</a></li>
+<li><a href="/wiki/Hydrometer" title="Hydrometer">Hydrometer</a></li>
+<li><a href="/wiki/Hydrostatic_weighing" title="Hydrostatic weighing">Hydrostatic weighing</a></li>
+<li><a href="/wiki/Lighter_than_air" title="Lighter than air">Lighter than air</a></li>
+<li><a href="/wiki/Naval_architecture" title="Naval architecture">Naval architecture</a></li>
+<li><a href="/wiki/Plimsoll_line" class="mw-redirect" title="Plimsoll line">Plimsoll line</a></li>
+<li><a href="/wiki/Pontoon_(boat)" title="Pontoon (boat)">Pontoon</a></li>
+<li><a href="/wiki/Quicksand" title="Quicksand">Quicksand</a></li>
+<li><a href="/wiki/Salt_fingering" title="Salt fingering">Salt fingering</a></li>
+<li><a href="/wiki/Submarine" title="Submarine">Submarine</a></li>
+<li><a href="/wiki/Swim_bladder" title="Swim bladder">Swim bladder</a></li>
+<li><a href="/wiki/Thrust" title="Thrust">Thrust</a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Buoyancy&amp;action=edit&amp;section=12" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-lpd-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-lpd_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-lpd_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite id="CITEREFWells2008" class="citation">Wells, John C. (2008), <i>Longman Pronunciation Dictionary</i> (3rd ed.), Longman, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9781405881180" title="Special:BookSources/9781405881180">9781405881180</a></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABuoyancy&amp;rft.aufirst=John+C.&amp;rft.aulast=Wells&amp;rft.btitle=Longman+Pronunciation+Dictionary&amp;rft.date=2008&amp;rft.edition=3rd&amp;rft.genre=book&amp;rft.isbn=9781405881180&amp;rft.pub=Longman&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-cepd-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-cepd_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-cepd_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite id="CITEREFRoach2011" class="citation">Roach, Peter (2011), <i>Cambridge English Pronouncing Dictionary</i> (18th ed.), Cambridge: Cambridge University Press, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9780521152532" title="Special:BookSources/9780521152532">9780521152532</a></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABuoyancy&amp;rft.aufirst=Peter&amp;rft.aulast=Roach&amp;rft.btitle=Cambridge+English+Pronouncing+Dictionary&amp;rft.date=2011&amp;rft.edition=18th&amp;rft.genre=book&amp;rft.isbn=9780521152532&amp;rft.place=Cambridge&amp;rft.pub=Cambridge+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Note: In the absence of surface tension, the mass of fluid displaced is equal to the submerged volume multiplied by the fluid density. High repulsive surface tension will cause the body to float higher than expected, though the same total volume will be displaced, but at a greater distance from the object. Where there is doubt about the meaning of "volume of fluid displaced", this should be interpreted as the overflow from a full container when the object is floated in it, or as the volume of the object below the average level of the fluid.</span></li>
+<li id="cite_note-acottLaw-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-acottLaw_4-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Acott, Chris (1999). <a rel="nofollow" class="external text" href="http://archive.rubicon-foundation.org/5990">"The diving "Law-ers": A brief resume of their lives."</a>. <i><a href="/wiki/South_Pacific_Underwater_Medicine_Society" title="South Pacific Underwater Medicine Society">South Pacific Underwater Medicine Society</a> journal</i>. <b>29</b> (1). <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/0813-1988">0813-1988</a>. <a href="/wiki/OCLC" title="OCLC">OCLC</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/oclc/16986801">16986801</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2009-06-13</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABuoyancy&amp;rft.atitle=The+diving+%22Law-ers%22%3A+A+brief+resume+of+their+lives.&amp;rft.au=Acott%2C+Chris&amp;rft.date=1999&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Farchive.rubicon-foundation.org%2F5990&amp;rft_id=info%3Aoclcnum%2F16986801&amp;rft.issn=0813-1988&amp;rft.issue=1&amp;rft.jtitle=South+Pacific+Underwater+Medicine+Society+journal&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=29" class="Z3988"><span style="display:none;">&#160;</span></span>.</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.weizmann.ac.il/home/fnfal/papers/Natfloat.pdf">"Floater clustering in a standing wave: Capillarity effects drive hydrophilic or hydrophobic particles to congregate at specific points on a wave"</a> <span style="font-size:85%;">(PDF)</span>. 23 June 2005.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABuoyancy&amp;rft.btitle=Floater+clustering+in+a+standing+wave%3A+Capillarity+effects+drive+hydrophilic+or+hydrophobic+particles+to+congregate+at+specific+points+on+a+wave&amp;rft.date=2005-06-23&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.weizmann.ac.il%2Fhome%2Ffnfal%2Fpapers%2FNatfloat.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Buoyancy&amp;action=edit&amp;section=13" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tr>
+<td class="mbox-image"><a href="/wiki/File:Wiktionary-logo-v2.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Wiktionary-logo-v2.svg/40px-Wiktionary-logo-v2.svg.png" width="40" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Wiktionary-logo-v2.svg/60px-Wiktionary-logo-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/06/Wiktionary-logo-v2.svg/80px-Wiktionary-logo-v2.svg.png 2x" data-file-width="391" data-file-height="391" /></a></td>
+<td class="mbox-text plainlist">Look up <i><b><a href="https://en.wiktionary.org/wiki/Special:Search/buoyancy" class="extiw" title="wiktionary:Special:Search/buoyancy">buoyancy</a></b></i> in Wiktionary, the free dictionary.</td>
+</tr>
+</table>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tr>
+<td class="mbox-image"><a href="/wiki/File:Commons-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Buoyancy" class="extiw" title="commons:Category:Buoyancy">Buoyancy</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.newton.dep.anl.gov/askasci/phy99/phy99x88.htm">Falling in Water</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.juliantrubin.com/bigten/archimedesprinciple.html">Archimedes' Principle</a> – background and experiment</li>
+<li><a rel="nofollow" class="external text" href="http://www.buoyancyquest.com">BuoyancyQuest</a> (a website featuring buoyancy control videos)</li>
+<li><a href="/wiki/W._H._Besant" title="W. H. Besant">W. H. Besant</a> (1889) <a rel="nofollow" class="external text" href="https://books.google.com/books?id=yGIVAAAAYAAJ">Elementary Hydrostatics</a> from <a href="/wiki/Google_Books" title="Google Books">Google Books</a>.</li>
+<li><a rel="nofollow" class="external text" href="https://www.grc.nasa.gov/www/k-12/WindTunnel/Activities/buoy_Archimedes.html">NASA's definition of buoyancy</a></li>
+</ul>
+<div role="navigation" class="navbox" aria-label="Navbox" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span style="white-space:nowrap;"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/4137276-1">4137276-1</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1187
+Cached time: 20170202143644
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.212 seconds
+Real time usage: 0.370 seconds
+Preprocessor visited node count: 1248/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 38714/2097152 bytes
+Template argument size: 914/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 3/500
+Lua time usage: 0.072/10.000 seconds
+Lua memory usage: 3.52 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  214.310      1 -total
+ 24.26%   51.982      1 Template:Reflist
+ 18.43%   39.498      4 Template:Ambox
+ 15.79%   33.837      1 Template:Refimprove
+ 15.67%   33.592      2 Template:Citation
+ 10.32%   22.107      1 Template:Commons_category
+  9.64%   20.649      1 Template:Use_dmy_dates
+  7.46%   15.990      3 Template:Unreferenced_section
+  6.50%   13.923      1 Template:Quotation
+  6.07%   13.002      1 Template:Authority_control
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:245982-0!*!0!!en!4!*!math=5 and timestamp 20170202143644 and revision id 758728528
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Buoyancy&amp;oldid=758728528">https://en.wikipedia.org/w/index.php?title=Buoyancy&amp;oldid=758728528</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Force" title="Category:Force">Force</a></li><li><a href="/wiki/Category:Fluid_mechanics" title="Category:Fluid mechanics">Fluid mechanics</a></li><li><a href="/wiki/Category:Buoyancy" title="Category:Buoyancy">Buoyancy</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Use_dmy_dates_from_June_2013" title="Category:Use dmy dates from June 2013">Use dmy dates from June 2013</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_July_2014" title="Category:Articles needing additional references from July 2014">Articles needing additional references from July 2014</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_January_2016" title="Category:Articles needing additional references from January 2016">Articles needing additional references from January 2016</a></li><li><a href="/wiki/Category:Pages_using_div_col_with_small_parameter" title="Category:Pages using div col with small parameter">Pages using div col with small parameter</a></li><li><a href="/wiki/Category:Commons_category_with_local_link_same_as_on_Wikidata" title="Category:Commons category with local link same as on Wikidata">Commons category with local link same as on Wikidata</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Buoyancy" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Buoyancy" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Buoyancy"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Buoyancy"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Buoyancy" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Buoyancy&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Buoyancy&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Buoyancy" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Buoyancy" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Buoyancy&amp;oldid=758728528" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Buoyancy&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q6497624" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Buoyancy&amp;id=758728528" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Buoyancy">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Buoyancy&amp;returnto=Buoyancy&amp;oldid=758728528&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Buoyancy&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Buoyancy" hreflang="en">Wikimedia Commons</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/Dryfvermo%C3%AB" title="Dryfvermoë – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%B7%D9%81%D9%88" title="طفو – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/Ph%C3%BB-le%CC%8Dk" title="Phû-le̍k – Chinese (Min Nan)" lang="zh-min-nan" hreflang="zh-min-nan" class="interlanguage-link-target">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%9F%D0%BB%D0%B0%D0%B2%D0%B0%D0%B5%D0%BC%D0%BE%D1%81%D1%82" title="Плаваемост – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-bs"><a href="https://bs.wikipedia.org/wiki/Potisak" title="Potisak – Bosnian" lang="bs" hreflang="bs" class="interlanguage-link-target">Bosanski</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Vztlak" title="Vztlak – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-sn"><a href="https://sn.wikipedia.org/wiki/Simudzo" title="Simudzo – Shona" lang="sn" hreflang="sn" class="interlanguage-link-target">ChiShona</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Opdrift_(statisk)" title="Opdrift (statisk) – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Statischer_Auftrieb" title="Statischer Auftrieb – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/%C3%9Clesl%C3%BCkkej%C3%B5ud" title="Üleslükkejõud – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%86%CE%BD%CF%89%CF%83%CE%B7" title="Άνωση – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Flotabilidad" title="Flotabilidad – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%B4%D9%86%D8%A7%D9%88%D8%B1%DB%8C" title="شناوری – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Flottabilit%C3%A9" title="Flottabilité – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ga"><a href="https://ga.wikipedia.org/wiki/Buacacht" title="Buacacht – Irish" lang="ga" hreflang="ga" class="interlanguage-link-target">Gaeilge</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Flotabilidade" title="Flotabilidade – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EB%B6%80%EB%A0%A5" title="부력 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%89%E0%A4%A4%E0%A5%8D%E0%A4%AA%E0%A5%8D%E0%A4%B2%E0%A4%BE%E0%A4%B5%E0%A4%A8_%E0%A4%AC%E0%A4%B2" title="उत्प्लावन बल – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Uzgon" title="Uzgon – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Gaya_apung" title="Gaya apung – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Galleggiante_(fisica)" title="Galleggiante (fisica) – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%A6%D7%99%D7%A4%D7%94_(%D7%A4%D7%99%D7%96%D7%99%D7%A7%D7%94)" title="ציפה (פיזיקה) – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-ht"><a href="https://ht.wikipedia.org/wiki/Flotabilite" title="Flotabilite – Haitian Creole" lang="ht" hreflang="ht" class="interlanguage-link-target">Kreyòl ayisyen</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Felhajt%C3%B3er%C5%91_(hidrosztatika)" title="Felhajtóerő (hidrosztatika) – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-ml"><a href="https://ml.wikipedia.org/wiki/%E0%B4%AA%E0%B5%8D%E0%B4%B2%E0%B4%B5%E0%B4%95%E0%B5%8D%E0%B4%B7%E0%B4%AE%E0%B4%AC%E0%B4%B2%E0%B4%82" title="പ്ലവക്ഷമബലം – Malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target">മലയാളം</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Keapungan" title="Keapungan – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E6%B5%AE%E5%8A%9B" title="浮力 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Oppdrift" title="Oppdrift – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk bokmål</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Oppdrift" title="Oppdrift – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Si%C5%82a_wyporu" title="Siła wyporu – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Impuls%C3%A3o" title="Impulsão – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Flotabilitate" title="Flotabilitate – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9F%D0%BB%D0%B0%D0%B2%D1%83%D1%87%D0%B5%D1%81%D1%82%D1%8C" title="Плавучесть – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Buoyancy" title="Buoyancy – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Vzgon" title="Vzgon – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Uzgon" title="Uzgon – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Noste" title="Noste – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Flytkraft" title="Flytkraft – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%AE%E0%AF%87%E0%AE%B2%E0%AF%81%E0%AE%A4%E0%AF%88%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%81" title="மேலுதைப்பு – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B9%81%E0%B8%A3%E0%B8%87%E0%B8%A5%E0%B8%AD%E0%B8%A2%E0%B8%95%E0%B8%B1%E0%B8%A7" title="แรงลอยตัว – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Batmazl%C4%B1k" title="Batmazlık – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9F%D0%BB%D0%B0%D0%B2%D1%83%D1%87%D1%96%D1%81%D1%82%D1%8C" title="Плавучість – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E6%B5%AE%E5%8A%9B" title="浮力 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q6497624#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 7 January 2017, at 05:33.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Buoyancy&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.212","walltime":"0.370","ppvisitednodes":{"value":1248,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":38714,"limit":2097152},"templateargumentsize":{"value":914,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  214.310      1 -total"," 24.26%   51.982      1 Template:Reflist"," 18.43%   39.498      4 Template:Ambox"," 15.79%   33.837      1 Template:Refimprove"," 15.67%   33.592      2 Template:Citation"," 10.32%   22.107      1 Template:Commons_category","  9.64%   20.649      1 Template:Use_dmy_dates","  7.46%   15.990      3 Template:Unreferenced_section","  6.50%   13.923      1 Template:Quotation","  6.07%   13.002      1 Template:Authority_control"]},"scribunto":{"limitreport-timeusage":{"value":"0.072","limit":"10.000"},"limitreport-memusage":{"value":3687974,"limit":52428800}},"cachereport":{"origin":"mw1187","timestamp":"20170202143644","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":447,"wgHostname":"mw1187"});});</script>
+	</body>
+</html>

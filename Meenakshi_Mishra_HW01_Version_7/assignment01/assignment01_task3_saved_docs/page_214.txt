@@ -1,0 +1,877 @@
+url : https://en.wikipedia.org/wiki/CIGS_cell
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Copper indium gallium selenide solar cells - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Copper_indium_gallium_selenide_solar_cells","wgTitle":"Copper indium gallium selenide solar cells","wgCurRevisionId":752319787,"wgRevisionId":752319787,"wgArticleId":22637838,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 errors: external links","CS1 errors: dates","CS1 maint: Multiple names: authors list","Solar cells","Photovoltaics"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Copper_indium_gallium_selenide_solar_cells","wgRelevantArticleId":22637838,"wgRequestId":"WI@k9QpAIDYAAF04CLgAAABI","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"CIGS_cell","wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgInternalRedirectTargetUrl":"/wiki/Copper_indium_gallium_selenide_solar_cells","wgWikibaseItemId":"Q31887","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.action.view.redirect","ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.9"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Copper_indium_gallium_selenide_solar_cells"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Copper_indium_gallium_selenide_solar_cells&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Copper_indium_gallium_selenide_solar_cells&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Copper_indium_gallium_selenide_solar_cells"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Copper_indium_gallium_selenide_solar_cells rootpage-Copper_indium_gallium_selenide_solar_cells skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Copper indium gallium selenide solar cells</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"><span class="mw-redirectedfrom">  (Redirected from <a href="/w/index.php?title=CIGS_cell&amp;redirect=no" class="mw-redirect" title="CIGS cell">CIGS cell</a>)</span></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div class="thumb tright">
+<div class="thumbinner" style="width:302px;"><a href="/wiki/File:Cigsep.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Cigsep.jpg/300px-Cigsep.jpg" width="300" height="212" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Cigsep.jpg/450px-Cigsep.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/9/9f/Cigsep.jpg 2x" data-file-width="521" data-file-height="368" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Cigsep.jpg" class="internal" title="Enlarge"></a></div>
+CIGS cell on a flexible <a href="/wiki/Polyimide" title="Polyimide">plastic backing</a>. Other architectures use rigid CIGS panels sandwiched between two panes of glass.</div>
+</div>
+</div>
+<p>A <b>copper indium gallium selenide solar cell</b> (or <b>CIGS cell</b>, sometimes CI(G)S or CIS cell) is a <a href="/wiki/Thin-film_solar_cell" title="Thin-film solar cell">thin-film solar cell</a> used to convert sunlight into electric power. It is manufactured by depositing a thin layer of <a href="/wiki/Copper_indium_gallium_selenide" title="Copper indium gallium selenide">copper, indium, gallium and selenide</a> on glass or plastic backing, along with electrodes on the front and back to collect current. Because the material has a high <a href="/wiki/Absorption_coefficient" class="mw-redirect" title="Absorption coefficient">absorption coefficient</a> and strongly absorbs sunlight, a much thinner film is required than of other semiconductor materials.</p>
+<p>CIGS is one of three mainstream thin-film PV technologies, the other two being <a href="/wiki/Cadmium_telluride_photovoltaics" title="Cadmium telluride photovoltaics">cadmium telluride</a> and <a href="/wiki/Amorphous_silicon" title="Amorphous silicon">amorphous silicon</a>. Like these materials, CIGS layers are thin enough to be flexible, allowing them to be deposited on flexible substrates. However, as all of these technologies normally use high-temperature deposition techniques, the best performance normally comes from cells deposited on glass. Even then the performance is marginal compared to modern <a href="/wiki/Polysilicon" class="mw-redirect" title="Polysilicon">polysilicon</a>-based panels. Advances in low-temperature deposition of CIGS cells have erased much of this performance difference.</p>
+<p>Thin-film market share is stagnated at around 15 percent, leaving the rest of the PV market to conventional <a href="/wiki/Solar_cell" title="Solar cell">solar cells</a> made of <a href="/wiki/Crystalline_silicon" title="Crystalline silicon">crystalline silicon</a>. In 2013, the market share of CIGS alone was about 2 percent and all thin-film technologies combined fell below 10 percent.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> CIGS cells continue being developed, as they promise to reach silicon-like efficiencies, while maintaining their low costs, as is typical for thin-film technology.<sup id="cite_ref-spw-cigs-simplified_2-0" class="reference"><a href="#cite_note-spw-cigs-simplified-2">[2]</a></sup> Prominent <a href="/wiki/List_of_CIGS_companies" title="List of CIGS companies">manufacturers of CIGS photovoltaics</a> were the now-bankrupt companies <a href="/wiki/Nanosolar" title="Nanosolar">Nanosolar</a> and <a href="/wiki/Solyndra" title="Solyndra">Solyndra</a>. Current market leader is the Japanese company <a href="/wiki/Solar_Frontier" title="Solar Frontier">Solar Frontier</a>, producing solar modules free of any heavy metals such as cadmium or lead.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></p>
+<div class="toclimit-3">
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Properties"><span class="tocnumber">1</span> <span class="toctext">Properties</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Structure"><span class="tocnumber">2</span> <span class="toctext">Structure</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Conversion_efficiency"><span class="tocnumber">2.1</span> <span class="toctext">Conversion efficiency</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Comparison"><span class="tocnumber">2.2</span> <span class="toctext">Comparison</span></a>
+<ul>
+<li class="toclevel-3 tocsection-5"><a href="#Conventional_crystalline_silicon"><span class="tocnumber">2.2.1</span> <span class="toctext">Conventional crystalline silicon</span></a></li>
+<li class="toclevel-3 tocsection-6"><a href="#Other_thin_films"><span class="tocnumber">2.2.2</span> <span class="toctext">Other thin films</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Properties_2"><span class="tocnumber">3</span> <span class="toctext">Properties</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Production"><span class="tocnumber">4</span> <span class="toctext">Production</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#Film_production"><span class="tocnumber">4.1</span> <span class="toctext">Film production</span></a>
+<ul>
+<li class="toclevel-3 tocsection-10"><a href="#Selenization"><span class="tocnumber">4.1.1</span> <span class="toctext">Selenization</span></a></li>
+<li class="toclevel-3 tocsection-11"><a href="#Sputtering_of_metallic_layers_followed_by_selenization"><span class="tocnumber">4.1.2</span> <span class="toctext">Sputtering of metallic layers followed by selenization</span></a></li>
+<li class="toclevel-3 tocsection-12"><a href="#Chalcogenization_of_particulate_precursor_layers"><span class="tocnumber">4.1.3</span> <span class="toctext">Chalcogenization of particulate precursor layers</span></a></li>
+<li class="toclevel-3 tocsection-13"><a href="#Electrodeposition_followed_by_selenization"><span class="tocnumber">4.1.4</span> <span class="toctext">Electrodeposition followed by selenization</span></a></li>
+<li class="toclevel-3 tocsection-14"><a href="#Precursor_combination_by_wafer-bonding_inspired_technique"><span class="tocnumber">4.1.5</span> <span class="toctext">Precursor combination by wafer-bonding inspired technique</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-15"><a href="#Coevaporation"><span class="tocnumber">4.2</span> <span class="toctext">Coevaporation</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#Chemical_vapor_deposition"><span class="tocnumber">4.3</span> <span class="toctext">Chemical vapor deposition</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#Electrospray_deposition"><span class="tocnumber">4.4</span> <span class="toctext">Electrospray deposition</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-18"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-19"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-20"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+</div>
+<h2><span class="mw-headline" id="Properties">Properties</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Copper_indium_gallium_selenide_solar_cells&amp;action=edit&amp;section=1" title="Edit section: Properties">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>CIGS is a <a href="/wiki/Alkali_metal" title="Alkali metal">I</a>-<a href="/wiki/Group_3_element" title="Group 3 element">III</a>-<a href="/wiki/Group_6_element" title="Group 6 element">VI</a><sub>2</sub> compound <a href="/wiki/Semiconductor_material" class="mw-redirect" title="Semiconductor material">semiconductor material</a> composed of <a href="/wiki/Copper" title="Copper">copper</a>, <a href="/wiki/Indium" title="Indium">indium</a>, <a href="/wiki/Gallium" title="Gallium">gallium</a>, and <a href="/wiki/Selenium" title="Selenium">selenium</a>. The material is a <a href="/wiki/Solid_solution" title="Solid solution">solid solution</a> of copper indium selenide (often abbreviated "CIS") and copper gallium selenide, with a chemical formula of CuIn<sub>x</sub>Ga<sub>(1-x)</sub>Se<sub>2</sub>, where the value of x can vary from 1 (pure copper indium selenide) to 0 (pure copper gallium selenide). It is a <a href="/wiki/Tetrahedral" class="mw-redirect" title="Tetrahedral">tetrahedrally</a> <a href="/wiki/Chemical_bond" title="Chemical bond">bonded</a> semiconductor, with the <a href="/wiki/Chalcopyrite" title="Chalcopyrite">chalcopyrite</a> crystal structure. The <a href="/wiki/Bandgap" class="mw-redirect" title="Bandgap">bandgap</a> varies continuously with <i>x</i> from about 1.0 eV (for copper indium selenide) to about 1.7 eV (for copper gallium selenide).<sup id="cite_ref-str_4-0" class="reference"><a href="#cite_note-str-4">[4]</a></sup></p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:352px;"><a href="/wiki/File:CIGSdevice.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/CIGSdevice.JPG/350px-CIGSdevice.JPG" width="350" height="368" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/CIGSdevice.JPG/525px-CIGSdevice.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/d/d7/CIGSdevice.JPG 2x" data-file-width="640" data-file-height="672" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:CIGSdevice.JPG" class="internal" title="Enlarge"></a></div>
+Figure 1: Structure of a CIGS device. <a href="/wiki/Cadmium_Sulfide" class="mw-redirect" title="Cadmium Sulfide">CdS</a> is used optionally and some CIGS cells contain no <a href="/wiki/Cadmium" title="Cadmium">cadmium</a> at all.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></div>
+</div>
+</div>
+<p>CIGS has an exceptionally high absorption coefficient of more than 10<sup>5</sup>/cm for 1.5 eV and higher energy photons.<sup id="cite_ref-J._Stanbery_2002_6-0" class="reference"><a href="#cite_note-J._Stanbery_2002-6">[6]</a></sup> CIGS solar cells with efficiencies around 20% have been claimed by the <a href="/wiki/National_Renewable_Energy_Laboratory" title="National Renewable Energy Laboratory">National Renewable Energy Laboratory</a> (NREL), the <a href="/wiki/Swiss_Federal_Laboratories_for_Materials_Science_and_Technology" title="Swiss Federal Laboratories for Materials Science and Technology">Swiss Federal Laboratories for Materials Science and Technology</a> (Empa), and the German <i>Zentrum für Sonnenenergie und Wasserstoff Forschung</i> (ZSW), which is the record to date for any <a href="/wiki/Thin_film_solar_cell" class="mw-redirect" title="Thin film solar cell">thin film solar cell</a>.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></p>
+<h2><span class="mw-headline" id="Structure">Structure</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Copper_indium_gallium_selenide_solar_cells&amp;action=edit&amp;section=2" title="Edit section: Structure">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The most common device structure for CIGS solar cells is shown in the diagram <i>(see Figure 1: Structure of a CIGS device)</i>. <a href="/wiki/Soda-lime_glass" title="Soda-lime glass">Soda-lime glass</a> of about of 1–3&#160;<a href="/wiki/Milimetre" class="mw-redirect" title="Milimetre">milimetres</a> thickness is commonly used as a substrate, because the <a href="/wiki/Glass_sheet" class="mw-redirect" title="Glass sheet">glass sheets</a> contains sodium, which has been shown to yield a substantial open-circuit voltage increase,<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> notably through surface and grain boundary defects passivation.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> However, many companies are also looking at lighter and more flexible substrates such as <a href="/wiki/Polyimide" title="Polyimide">polyimide</a> or metal foils.<sup id="cite_ref-G._Dhere_2007_11-0" class="reference"><a href="#cite_note-G._Dhere_2007-11">[11]</a></sup> A <a href="/wiki/Molybdenum" title="Molybdenum">molybdenum</a> (Mo) metal layer is deposited (commonly by <a href="/wiki/Sputtering" title="Sputtering">sputtering</a>) which serves as the <a href="/wiki/Back_contact" class="mw-redirect" title="Back contact">back contact</a> and reflects most unabsorbed light back into the CIGS absorber. Following molybdenum deposition a <a href="/wiki/P-type_semiconductor" class="mw-redirect" title="P-type semiconductor">p-type</a> CIGS absorber layer is grown by one of several unique methods. A thin <a href="/wiki/N-type_semiconductor" class="mw-redirect" title="N-type semiconductor">n-type</a> buffer layer is added on top of the absorber. The buffer is typically <a href="/wiki/Cadmium_sulfide" title="Cadmium sulfide">cadmium sulfide</a> (CdS) deposited via <a href="/wiki/Chemical_bath_deposition" title="Chemical bath deposition">chemical bath deposition</a>. The buffer is overlaid with a thin, intrinsic <a href="/wiki/Zinc_oxide" title="Zinc oxide">zinc oxide</a> layer (i-ZnO) which is capped by a thicker, <a href="/wiki/Aluminum" class="mw-redirect" title="Aluminum">aluminum</a> (Al) doped ZnO layer. The i-ZnO layer is used to protect the CdS and the absorber layer from sputtering damage while depositing the ZnO:Al window layer, since the latter is usually deposited by DC sputtering, known as a damaging process.<sup id="cite_ref-i-ZnO_12-0" class="reference"><a href="#cite_note-i-ZnO-12">[12]</a></sup> The Al doped ZnO serves as a transparent conducting oxide to collect and move electrons out of the cell while absorbing as little light as possible.</p>
+<p>The CuInSe<sub>2</sub>-based materials that are of interest for photovoltaic applications include several elements from groups I, III and VI in the <a href="/wiki/Periodic_table" title="Periodic table">periodic table</a>. These semiconductors are especially attractive for solar applications because of their high optical absorption coefficients and versatile optical and electrical characteristics, which can in principle be manipulated and tuned for a specific need in a given device.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup></p>
+<h3><span class="mw-headline" id="Conversion_efficiency">Conversion efficiency</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Copper_indium_gallium_selenide_solar_cells&amp;action=edit&amp;section=3" title="Edit section: Conversion efficiency">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>CIGS is mainly used in the form of <a href="/wiki/Polycrystalline" class="mw-redirect" title="Polycrystalline">polycrystalline</a> <a href="/wiki/Thin_film" title="Thin film">thin films</a>. The best efficiency achieved as of September 2014 was 21.7%.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup> A team at the National Renewable Energy Laboratory achieved 19.9%, a record at the time,<sup id="cite_ref-19.9.25_15-0" class="reference"><a href="#cite_note-19.9.25-15">[15]</a></sup> by modifying the CIGS surface and making it look like CIS.<sup id="cite_ref-eff_16-0" class="reference"><a href="#cite_note-eff-16">[16]</a></sup> These examples were deposited on glass, which meant the products were not mechanically flexible. In 2013, scientists at the Swiss Federal Laboratories for Materials Science and Technology developed CIGS cells on flexible polymer foils with a new record efficiency of 20.4%.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup> These display both the highest efficiency and greatest flexibility.</p>
+<p>The U.S. National Renewable Energy Laboratory confirmed 13.8% module efficiency of a large-area (meter-square) production panel, and 13% total-area (and 14.2% aperture-area) efficiency with some production modules.<sup id="cite_ref-eff_16-1" class="reference"><a href="#cite_note-eff-16">[16]</a></sup> In September 2012 the German <a href="/wiki/Manz" title="Manz">Manz AG</a> presented a CIGS solar module with an efficiency of 14.6% on total module surface and 15.9% on aperture, which was produced on a mass production facility.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup> MiaSolé obtained a certified 15.7% aperture-area efficiency on a 1m<sup>2</sup> production module,<sup id="cite_ref-module_efficiency_19-0" class="reference"><a href="#cite_note-module_efficiency-19">[19]</a></sup> and <a href="/wiki/Solar_Frontier" title="Solar Frontier">Solar Frontier</a> claimed a 17.8% efficiency on a 900&#160;cm<sup>2</sup> module.<sup id="cite_ref-module_efficiency_2_20-0" class="reference"><a href="#cite_note-module_efficiency_2-20">[20]</a></sup></p>
+<p>Higher efficiencies (around 30%) can be obtained by using optics to <a href="/wiki/Concentrated_photovoltaics" class="mw-redirect" title="Concentrated photovoltaics">concentrate</a> the incident light. The use of gallium increases the optical band gap of the CIGS layer as compared to pure CIS, thus increasing the open-circuit voltage.<sup id="cite_ref-eff_16-2" class="reference"><a href="#cite_note-eff-16">[16]</a></sup><sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup> Gallium's relative abundance, compared to indium, lowers costs.</p>
+<table class="wikitable" style="text-align: center; width: 550px; margin: 0.5em auto;">
+<caption style="font-weight: normal;"><b>Lab record CIGS efficiencies by substrate</b> <sup>(a)</sup></caption>
+<tr>
+<th><a href="/wiki/Coating" title="Coating">Substrate</a></th>
+<th width="85"><a href="/wiki/Glass" title="Glass">Glass</a></th>
+<th width="85"><a href="/wiki/Steel" title="Steel">Steel</a></th>
+<th width="85"><a href="/wiki/Aluminum" class="mw-redirect" title="Aluminum">Aluminum</a></th>
+<th width="85"><a href="/wiki/Polyimide" title="Polyimide">Polymer</a></th>
+</tr>
+<tr>
+<td>Efficiency</td>
+<td>21.7%</td>
+<td>17.7%</td>
+<td>16.2%</td>
+<td>20.4%</td>
+</tr>
+<tr>
+<td>Institute</td>
+<td>ZSW <sup>(b)</sup></td>
+<td><a href="/wiki/Empa" class="mw-redirect" title="Empa">Empa</a></td>
+<td>Empa</td>
+<td>Empa</td>
+</tr>
+<tr>
+<td colspan="5" style="font-weight: normal; font-size: 0.85em; text-align: left; padding: 6px 4px 4px;"><i>Source:</i> Swissolar, <a href="/wiki/Flisom" title="Flisom">Flisom</a> – presentation November 2014<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup><br />
+<i>Note:</i> <sup>(a)</sup> lab cell with ~0.5&#160;cm<sup>2</sup>,&#160;<sup>(b)</sup> ZSW: Zentrum für Sonnenenergie- und Wasserstoff-Forschung</td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="Comparison">Comparison</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Copper_indium_gallium_selenide_solar_cells&amp;action=edit&amp;section=4" title="Edit section: Comparison">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="Conventional_crystalline_silicon">Conventional crystalline silicon</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Copper_indium_gallium_selenide_solar_cells&amp;action=edit&amp;section=5" title="Edit section: Conventional crystalline silicon">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Unlike conventional <a href="/wiki/Crystalline_silicon" title="Crystalline silicon">crystalline silicon</a> cells based on a <a href="/wiki/Homojunction" title="Homojunction">homojunction</a>, the structure of CIGS cells is a more complex <a href="/wiki/Heterojunction" title="Heterojunction">heterojunction</a> system. A <a href="/wiki/Direct_bandgap" class="mw-redirect" title="Direct bandgap">direct bandgap</a> material, CIGS has very strong light absorption and a layer of only 1–2 <a href="/wiki/Micrometers" class="mw-redirect" title="Micrometers">micrometers</a> (µm) is enough to absorb most of the sunlight. By comparison, a much greater thickness of about 160–190&#160;µm is required for crystalline silicon.</p>
+<p>The active CIGS-layer can be deposited in a <a href="/wiki/Polycrystalline" class="mw-redirect" title="Polycrystalline">polycrystalline</a> form directly onto molybdenum (Mo) <a href="/wiki/Coating" title="Coating">coated</a> on a variety of several different substrates such as glass sheets, steel bands and plastic foils made of polyimide. This uses less energy than smelting large amounts of quartz sand in electric furnaces and growing large crystals, necessary for conventional silicon cells, and thus reduces its <a href="/wiki/Crystalline_silicon#Energy_payback_time" title="Crystalline silicon">energy payback time</a> significantly. Also unlike crystalline silicon, these substrates can be <a href="/wiki/Flexible_electronics" title="Flexible electronics">flexible</a>.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup></p>
+<p>In the highly <a href="/wiki/Thin_film_solar_cell#Production.2C_cost_and_market" class="mw-redirect" title="Thin film solar cell">competitive PV industry</a>, pressure increased on <a href="/wiki/List_of_CIGS_companies" title="List of CIGS companies">CIGS manufacturers</a>, leading to the bankruptcy of several companies, as prices for conventional silicon cells declined rapidly in recent years. However, CIGS solar cells have become as <a href="/wiki/Solar_cell_efficiency#Comparison" title="Solar cell efficiency">efficient</a> as <a href="/wiki/Multicrystalline_silicon" class="mw-redirect" title="Multicrystalline silicon">multicrystalline silicon</a> cells—the most common type of solar cells. CIGS and <a href="/wiki/CdTe-PV" class="mw-redirect" title="CdTe-PV">CdTe-PV</a> remain the only two commercially successful thin-film technologies in a globally <a href="/wiki/Growth_of_photovoltaics" title="Growth of photovoltaics">fast-growing PV market</a>.</p>
+<h4><span class="mw-headline" id="Other_thin_films">Other thin films</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Copper_indium_gallium_selenide_solar_cells&amp;action=edit&amp;section=6" title="Edit section: Other thin films">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>In photovoltaics "thinness" generally is in reference to so-called "first generation" high-efficiency silicon cells, which are manufactured from bulk wafers hundreds of micrometers thick.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup> Thin films sacrifice some light gathering efficiency but use less material.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup> In CIGS the efficiency tradeoff is less severe than in silicon. The record efficiencies for thin film CIGS cells are slightly lower than that of CIGS for lab-scale top performance cells. In 2008, CIGS efficiency was by far the highest compared with those achieved by other thin film technologies such as <a href="/wiki/Cadmium_telluride_photovoltaics" title="Cadmium telluride photovoltaics">cadmium telluride photovoltaics</a> (CdTe) or <a href="/wiki/Amorphous_silicon" title="Amorphous silicon">amorphous silicon</a> (a-Si).<sup id="cite_ref-19.9.25_15-1" class="reference"><a href="#cite_note-19.9.25-15">[15]</a></sup> CIS and CGS solar cells offer total area efficiencies of 15.0% and 9.5%,<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup> respectively. In 2015, the gap with the other thin film technologies has been closed, with record cell efficiencies in laboratories of 21.5% for CdTe (FirstSolar) and 21.7% for CIGS (ZSW). <i>(See also <a href="/wiki/File:Best_Research-Cell_Efficiencies.png" title="File:Best Research-Cell Efficiencies.png">NREL best research cell efficiency chart</a>.<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[27]</a></sup>)</i></p>
+<h2><span class="mw-headline" id="Properties_2">Properties</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Copper_indium_gallium_selenide_solar_cells&amp;action=edit&amp;section=7" title="Edit section: Properties">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>All high performance CIGS absorbers in solar cells have similarities independent of production technique. First, they are <a href="/wiki/Polycrystalline" class="mw-redirect" title="Polycrystalline">polycrystalline</a> α-phase which has the <a href="/wiki/Chalcopyrite" title="Chalcopyrite">chalcopyrite</a> crystal structure shown in Figure 3. The second property is an overall <a href="/wiki/Copper" title="Copper">Cu</a> deficiency.<sup id="cite_ref-M._Kemell_2005_28-0" class="reference"><a href="#cite_note-M._Kemell_2005-28">[28]</a></sup> Cu deficiency increases the <a href="/wiki/Majority_carrier" class="mw-redirect" title="Majority carrier">majority carrier</a> (hole) concentration by increasing the number of (electron-accepting) Cu vacancies. When CIGS films are In rich (Cu deficient) the film's surface layer forms an ordered defect compound (ODC) with a <a href="/wiki/Stoichiometry" title="Stoichiometry">stoichiometry</a> of Cu(In,Ga)<sub>3</sub>Se<sub>5</sub>. The ODC is n-type, forming a p-n homojunction in the film at the interface between the α phase and the ODC. The <a href="/wiki/Carrier_generation_and_recombination" title="Carrier generation and recombination">recombination velocity</a> at the CIGS/CdS interface is decreased by the homojunction's presence. The drop in interface recombination attributable to ODC formation is demonstrated by experiments which have shown that recombination in the bulk of the film is the main loss mechanism in Cu deficient films, while in Cu rich films the main loss is at the CIGS/CdS interface.<sup id="cite_ref-M._Kemell_2005_28-1" class="reference"><a href="#cite_note-M._Kemell_2005-28">[28]</a></sup><sup id="cite_ref-A._Ihlal_2007_29-0" class="reference"><a href="#cite_note-A._Ihlal_2007-29">[29]</a></sup></p>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:302px;"><a href="/wiki/File:Chalcopyrite-unit-cell-3D-balls.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/50/Chalcopyrite-unit-cell-3D-balls.png/300px-Chalcopyrite-unit-cell-3D-balls.png" width="300" height="189" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/50/Chalcopyrite-unit-cell-3D-balls.png/450px-Chalcopyrite-unit-cell-3D-balls.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/50/Chalcopyrite-unit-cell-3D-balls.png/600px-Chalcopyrite-unit-cell-3D-balls.png 2x" data-file-width="1100" data-file-height="693" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Chalcopyrite-unit-cell-3D-balls.png" class="internal" title="Enlarge"></a></div>
+Figure 3: CIGS unit cell. Red = Cu, Yellow = Se, Blue = In/Ga</div>
+</div>
+</div>
+<p>Sodium incorporation is necessary for optimal performance. Ideal Na concentration is considered to be approximately 0.1%. Na is commonly supplied by the <a href="/wiki/Soda-lime_glass" title="Soda-lime glass">soda-lime glass</a> substrate, but in processes that do not use this substrate the Na must be deliberately added. Na's beneficial effects include increases in p-type <a href="/wiki/Electrical_conductivity" class="mw-redirect" title="Electrical conductivity">conductivity</a>, <a href="/wiki/Texture_(crystalline)" title="Texture (crystalline)">texture</a>, and average grain size. Furthermore, Na incorporation allows for performance to be maintained over larger <a href="/wiki/Stoichiometric" class="mw-redirect" title="Stoichiometric">stoichiometric</a> deviations.<sup id="cite_ref-J._Stanbery_2002_6-1" class="reference"><a href="#cite_note-J._Stanbery_2002-6">[6]</a></sup> Simulations have predicted that Na on an In site creates a shallow acceptor level and that Na serves to remove In on Cu defects (donors), but reasons for these benefits are controversial. Na is also credited with catalyzing <a href="/wiki/Oxygen" title="Oxygen">oxygen</a> absorption. Oxygen passivates Se vacancies that act as compensating donors and recombination centers.</p>
+<p>Alloying CIS (CuInSe<sub>2</sub>) with CGS (CuGaSe<sub>2</sub>) increases in the bandgap. To reach the ideal bandgap for a single junction solar cell, 1.5 eV, a Ga/(In+Ga) ratio of roughly 0.7 is optimal. However, at ratios above ~0.3, device performance drops off. Industry currently targets the 0.3 Ga/(In+Ga) ratio, resulting in bandgaps between 1.1 and 1.2 eV. The decreasing performance has been postulated to be a result of CGS not forming the ODC, which is necessary for a good interface with CdS.<sup id="cite_ref-M._Kemell_2005_28-2" class="reference"><a href="#cite_note-M._Kemell_2005-28">[28]</a></sup></p>
+<p>The highest efficiency devices show substantial texturing, or preferred <a href="/wiki/Crystallographic" class="mw-redirect" title="Crystallographic">crystallographic</a> orientation. A (204) surface orientation is observed in the best quality devices.<sup id="cite_ref-J._Stanbery_2002_6-2" class="reference"><a href="#cite_note-J._Stanbery_2002-6">[6]</a></sup> A smooth absorber surface is preferred to maximize the ratio of the illuminated area to the area of the interface. The area of the interface increases with roughness while illuminated area remains constant, decreasing <a href="/wiki/Open_circuit_voltage" class="mw-redirect" title="Open circuit voltage">open circuit voltage</a> (V<sub>OC</sub>). Studies have also linked an increase in defect density to decreased V<sub>OC</sub>. Recombination in CIGS has been suggested to be dominated by non-radiative processes. Theoretically, recombination can be controlled by engineering the film, and is extrinsic to the material.<sup id="cite_ref-L._Repins_2006_30-0" class="reference"><a href="#cite_note-L._Repins_2006-30">[30]</a></sup></p>
+<h2><span class="mw-headline" id="Production">Production</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Copper_indium_gallium_selenide_solar_cells&amp;action=edit&amp;section=8" title="Edit section: Production">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Film_production">Film production</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Copper_indium_gallium_selenide_solar_cells&amp;action=edit&amp;section=9" title="Edit section: Film production">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The most common <a href="/wiki/Vacuum" title="Vacuum">vacuum</a>-based process is to co-evaporate or co-sputter copper, gallium, and indium onto a substrate at room temperature, then anneal the resulting film with a selenide vapor. An alternative process is to co-evaporate copper, gallium, indium and selenium onto a heated substrate.</p>
+<p>A non-vacuum-based alternative process deposits <a href="/wiki/Nanoparticle" title="Nanoparticle">nanoparticles</a> of the <a href="/wiki/Precursor_(chemistry)" title="Precursor (chemistry)">precursor</a> materials on the <a href="/wiki/Substrate_(materials_science)" class="mw-redirect" title="Substrate (materials science)">substrate</a> and then <a href="/wiki/Sinters" class="mw-redirect" title="Sinters">sinters</a> them <a href="/wiki/In_situ" title="In situ">in situ</a>. <a href="/wiki/Electroplating" title="Electroplating">Electroplating</a> is another low cost alternative to apply the CIGS layer.</p>
+<p>The following sections outline the various techniques for precursor deposition processing, including sputtering of metallic layers at low temperatures, printing of inks containing <a href="/wiki/Nanoparticles" class="mw-redirect" title="Nanoparticles">nanoparticles</a>, <a href="/wiki/Electrophoretic_deposition" title="Electrophoretic deposition">electrodeposition</a>, and a technique inspired by wafer-bonding.</p>
+<h4><span class="mw-headline" id="Selenization">Selenization</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Copper_indium_gallium_selenide_solar_cells&amp;action=edit&amp;section=10" title="Edit section: Selenization">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>The Se supply and selenization environment is important in determining the properties and quality of the film. When Se is supplied in the gas phase (for example as H<sub>2</sub>Se or elemental Se) at high temperatures, the Se becomes incorporated into the film by absorption and subsequent diffusion. During this step, called chalcogenization, complex interactions occur to form a <a href="/wiki/Chalcogenide" title="Chalcogenide">chalcogenide</a>. These interactions include formation of Cu-In-Ga <a href="/wiki/Intermetallic" title="Intermetallic">intermetallic</a> alloys, formation of intermediate metal-selenide binary compounds and phase separation of various stoichiometric CIGS compounds. Because of the variety and complexity of the reactions, the properties of the CIGS film are difficult to control.<sup id="cite_ref-J._Stanbery_2002_6-3" class="reference"><a href="#cite_note-J._Stanbery_2002-6">[6]</a></sup></p>
+<p>The Se source affects the resulting film properties. H<sub>2</sub>Se offers the fastest Se incorporation into the absorber; 50 at% Se can be achieved in CIGS films at temperatures as low as 400&#160;°C. By comparison, elemental Se only achieves full incorporation with reaction temperatures above 500&#160;°C. Films formed at lower temperatures from elemental Se were Se deficient, but had multiple phases including metal selenides and various <a href="/wiki/Alloys" class="mw-redirect" title="Alloys">alloys</a>. Use of H<sub>2</sub>Se provides the best compositional uniformity and the largest grain sizes. However, H<sub>2</sub>Se is highly toxic and is classified as an <a href="/wiki/Environmental_hazard" title="Environmental hazard">environmental hazard</a>.</p>
+<h4><span class="mw-headline" id="Sputtering_of_metallic_layers_followed_by_selenization">Sputtering of metallic layers followed by selenization</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Copper_indium_gallium_selenide_solar_cells&amp;action=edit&amp;section=11" title="Edit section: Sputtering of metallic layers followed by selenization">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>In this method a metal film of Cu, In and Ga is sputtered at or near room temperature and reacted in a Se atmosphere at high temperature. This process has higher throughput than coevaporation and compositional uniformity can be more easily achieved.</p>
+<p>Sputtering a stacked multilayer of metal – for example a Cu/In/Ga/Cu/In/Ga... structure – produces a smoother surface and better crystallinity in the absorber compared to a simple bilayer (Cu-Ga alloy/In) or trilayer (Cu/In/Ga) sputtering. These attributes result in higher efficiency devices, but forming the multilayer is a more complicated deposition process and did not merit the extra equipment or the added process complexity.<sup id="cite_ref-M._Kemell_2005_28-3" class="reference"><a href="#cite_note-M._Kemell_2005-28">[28]</a></sup> Additionally, the reaction rates of Cu/Ga and Cu/In layers with Se are different. If the reaction temperature is not high enough, or not held long enough, CIS and CGS form as separate phases.</p>
+<p>Companies currently that used similar processes include Showa Shell, <a href="/wiki/Saint-Gobain#Innovative_Materials" title="Saint-Gobain">Avancis</a> (now an affiliate of <a href="/wiki/Saint-Gobain" title="Saint-Gobain">Saint-Gobain</a> Group<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">[31]</a></sup>), <a href="/wiki/Miasol%C3%A9" title="Miasolé">Miasolé</a>, Honda Soltec, and Energy Photovoltaics (EPV).<sup id="cite_ref-S._Ulal_2008_32-0" class="reference"><a href="#cite_note-S._Ulal_2008-32">[32]</a></sup> Showa Shell sputtered a Cu-Ga alloy layer and an In layer, followed by selenization in H<sub>2</sub>Se and sulfurization in H<sub>2</sub>S. The sulfurization step appears to passivate the surface in a way similar to CdS in most other cells. Thus, the buffer layer used is Cd-free, eliminating any environmental impact of Cd. Showa Shell reported a maximum module efficiency of 13.6% with an average of 11.3% for 3600&#160;cm<sup>2</sup> substrates.<sup id="cite_ref-G._Dhere_2007_11-1" class="reference"><a href="#cite_note-G._Dhere_2007-11">[11]</a></sup> Shell Solar uses the same technique as Showa Shell to create the absorber; however, their CdS layer comes from chemical vapor deposition. Modules sold by Shell Solar claim 9.4% module efficiency.</p>
+<p>Miasole had procured venture capital funds for its process and scale up. However, little is known about their process beyond their stated efficiency of 9 to 10% for modules.</p>
+<p>EPV uses a hybrid between coevaporation and sputtering in which In and Ga are evaporated in a Se atmosphere. This is followed by Cu sputtering and selenization. Finally, In and Ga are again evaporated in the presence of Se. Based on Hall measurements, these films have a low carrier concentration and relatively high mobility. EPV films have a low defect concentration.</p>
+<h4><span class="mw-headline" id="Chalcogenization_of_particulate_precursor_layers">Chalcogenization of particulate precursor layers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Copper_indium_gallium_selenide_solar_cells&amp;action=edit&amp;section=12" title="Edit section: Chalcogenization of particulate precursor layers">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>In this method, metal or metal-oxide nanoparticles are used as the precursors for CIGS growth. These nanoparticles are generally suspended in a water based solution and then applied to large areas by various methods, such as printing. The film is then dehydrated and, if the precursors are metal-oxides, reduced in a H<sub>2</sub>/N<sub>2</sub> atmosphere. Following dehydration, the remaining porous film is <a href="/wiki/Sintered" class="mw-redirect" title="Sintered">sintered</a> and selenized at temperatures greater than 400&#160;°C.<sup id="cite_ref-M._Kemell_2005_28-4" class="reference"><a href="#cite_note-M._Kemell_2005-28">[28]</a></sup><sup id="cite_ref-L._Repins_2006_30-1" class="reference"><a href="#cite_note-L._Repins_2006-30">[30]</a></sup><sup id="cite_ref-K._Derbyshire_2008_33-0" class="reference"><a href="#cite_note-K._Derbyshire_2008-33">[33]</a></sup></p>
+<p><a href="/wiki/Nanosolar" title="Nanosolar">Nanosolar</a> and <a href="/wiki/International_Solar_Electric_Technology" title="International Solar Electric Technology">International Solar Electric Technology</a> (ISET) unsuccessfully attempted to scale up this process.<sup id="cite_ref-G._Dhere_2007_11-2" class="reference"><a href="#cite_note-G._Dhere_2007-11">[11]</a></sup> ISET uses oxide particles, while Nanosolar did not discuss its ink. The advantages of this process include uniformity over large areas, non-vacuum or low-vacuum equipment and adaptability to <a href="/wiki/Roll-to-roll" class="mw-redirect" title="Roll-to-roll">roll-to-roll</a> manufacturing. When compared to laminar metal precursor layers, sintered nanoparticles selenize more rapidly. The increased rate is a result of the greater surface area associated with <a href="/wiki/Porosity" title="Porosity">porosity</a>. Porosity produces rougher absorber surfaces. Use of particulate precursors allows for printing on a large variety of substrates with materials utilization of 90% or more. Little research and development supported this technique.</p>
+<p>Nanosolar reported a cell (not module) efficiency of 14%, however this was not verified by any <a href="/wiki/National_laboratory" class="mw-redirect" title="National laboratory">national laboratory</a> testing, nor did they allow onsite inspections. In independent testing<sup id="cite_ref-L._Repins_2006_30-2" class="reference"><a href="#cite_note-L._Repins_2006-30">[30]</a></sup> ISET's absorber had the 2nd lowest efficiency at 8.6%. However, all the modules that beat ISET's module were coevaporated, a process which has manufacturing disadvantages and higher costs. ISET's sample suffered most from low V<sub>OC</sub> and low <a href="/wiki/Fill_factor_(solar_cell)" class="mw-redirect" title="Fill factor (solar cell)">fill factor</a>, indicative of a rough surface and/or a high number of defects aiding recombination. Related to these issues, the film had poor transport properties including a low Hall mobility and short carrier lifetime.</p>
+<h4><span class="mw-headline" id="Electrodeposition_followed_by_selenization">Electrodeposition followed by selenization</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Copper_indium_gallium_selenide_solar_cells&amp;action=edit&amp;section=13" title="Edit section: Electrodeposition followed by selenization">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Precursors can be deposited by electrodeposition. Two methodologies exist: deposition of elemental layered structures and simultaneous deposition of all elements (including Se). Both methods require thermal treatment in a Se atmosphere to make device quality films. Because electrodeposition requires conductive <a href="/wiki/Electrodes" class="mw-redirect" title="Electrodes">electrodes</a>, metal foils are a logical substrate. Electrodeposition of elemental layers is similar to the sputtering of elemental layers.</p>
+<p>Simultaneous deposition employs a working electrode (<a href="/wiki/Cathode" title="Cathode">cathode</a>), a counter electrode (<a href="/wiki/Anode" title="Anode">anode</a>), and a reference electrode as in Figure 4. A metal foil substrate is used as the working electrode in industrial processes. An inert material provides the counter electrode, and the reference electrode measures and controls the potential. The reference electrode allows the process to be performed potentiostatically, allowing control of the substrate's potential.<sup id="cite_ref-M._Kemell_2005_28-5" class="reference"><a href="#cite_note-M._Kemell_2005-28">[28]</a></sup></p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:352px;"><a href="/wiki/File:CIGSfigure4.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/29/CIGSfigure4.png/350px-CIGSfigure4.png" width="350" height="217" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/29/CIGSfigure4.png/525px-CIGSfigure4.png 1.5x, //upload.wikimedia.org/wikipedia/commons/2/29/CIGSfigure4.png 2x" data-file-width="546" data-file-height="339" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:CIGSfigure4.png" class="internal" title="Enlarge"></a></div>
+Figure 4: CIGS electrodeposition apparatus</div>
+</div>
+</div>
+<p>Simultaneous electrodeposition must overcome the fact that the elements' standard reduction potentials are not equal, causing preferential deposition of a single element. This problem is commonly alleviated by adding countering ions into solution for each ion to be deposited (Cu<sup>2+</sup>, Se<sup>4+</sup>, In<sup>3+</sup>, and Ga<sup>3+</sup>), thus changing that ion's reduction potential. Further, the Cu-Se system has a complicated behavior and the film's composition depends on the Se<sup>4+</sup>/Cu<sup>2+</sup> ion flux ratio which can vary over the film surface. This requires the precursor concentrations and deposition potential, to be optimized. Even with optimization, reproducibility is low over large areas due to composition variations and potential drops along the substrate.</p>
+<p>The resulting films have small grains, are Cu-rich, and generally contain Cu<sub>2-x</sub>Se<sub>x</sub> phases along with impurities from the solution. <a href="/wiki/Annealing_(metallurgy)" title="Annealing (metallurgy)">Annealing</a> is required to improve crystallinity. Efficiencies higher than 7%, a stoichiometry correction are required. The correction was originally done via high temperature physical vapor deposition, which is not practical in industry.</p>
+<p><a href="/wiki/Solopower" class="mw-redirect" title="Solopower">Solopower</a> is currently producing cells with &gt;13.7% conversion efficiency as per NREL.<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">[34]</a></sup></p>
+<h4><span class="mw-headline" id="Precursor_combination_by_wafer-bonding_inspired_technique">Precursor combination by wafer-bonding inspired technique</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Copper_indium_gallium_selenide_solar_cells&amp;action=edit&amp;section=14" title="Edit section: Precursor combination by wafer-bonding inspired technique">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div class="thumb tright">
+<div class="thumbinner" style="width:352px;"><a href="/wiki/File:WikiFig6.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/15/WikiFig6.jpg/350px-WikiFig6.jpg" width="350" height="74" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/1/15/WikiFig6.jpg 1.5x" data-file-width="405" data-file-height="86" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:WikiFig6.jpg" class="internal" title="Enlarge"></a></div>
+Figure 5: Schematic of wafer-bonding inspired technique</div>
+</div>
+</div>
+<p>In this process, two different precursor films are deposited separately on a substrate and a superstrate. The films are pressed together and heated to release the film from the reusable superstrate, leaving a CIGS absorber on the substrate (Figure 5). <a href="/wiki/Heliovolt" class="mw-redirect" title="Heliovolt">Heliovolt</a> patented this procedure and named it the FASST process. In principle, the precursors can be deposited at low temperature using low-cost deposition techniques, lowering module cost. However, the first generations of products use higher temperature PVD methods and do not achieve full cost cutting potential. Flexible substrates could eventually be used in this process.</p>
+<p>Typical film characteristics are not known outside of the company, as no research has been conducted by independently funded laboratories. However, Heliovolt claimed a top cell efficiency of 12.2%.</p>
+<h3><span class="mw-headline" id="Coevaporation">Coevaporation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Copper_indium_gallium_selenide_solar_cells&amp;action=edit&amp;section=15" title="Edit section: Coevaporation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Coevaporation, or codeposition, is the most prevalent CIGS fabrication technique. <a href="/wiki/Boeing" title="Boeing">Boeing</a>'s coevaporation process deposits bilayers of CIGS with different stoichiometries onto a heated substrate and allows them to intermix.</p>
+<p>NREL developed another process that involves three deposition steps and produced the current CIGS efficiency record holder at 20.3%. The first step in NREL's method is codeposition of In, Ga, and Se. This is followed by Cu and Se deposited at a higher temperature to allow for diffusion and intermixing of the elements. In the final stage In, Ga, and Se are again deposited to make the overall composition Cu deficient.<sup id="cite_ref-M._Kemell_2005_28-6" class="reference"><a href="#cite_note-M._Kemell_2005-28">[28]</a></sup></p>
+<p><a href="/wiki/W%C3%BCrth_Solar" class="mw-redirect" title="Würth Solar">Würth Solar</a> began producing CIGS cells using an inline coevaporation system in 2005 with module efficiencies between 11% and 12%. They opened another production facility and continued to improve efficiency and yield. Other companies scaling up coevaporation processes include <a href="/wiki/Global_Solar" class="mw-redirect" title="Global Solar">Global Solar</a> and <a href="/wiki/Ascent_Solar" title="Ascent Solar">Ascent Solar</a>.<sup id="cite_ref-S._Ulal_2008_32-1" class="reference"><a href="#cite_note-S._Ulal_2008-32">[32]</a></sup> Global Solar used an inline three stage deposition process. In all of the steps Se is supplied in excess in the vapor phase. In and Ga are first evaporated followed by Cu and then by In and Ga to make the film Cu deficient. These films performed quite favorably in relation to other manufacturers and to absorbers grown at NREL and the Institute for Energy Conversion (IEC).<sup id="cite_ref-L._Repins_2006_30-3" class="reference"><a href="#cite_note-L._Repins_2006-30">[30]</a></sup> However, modules of Global Solar’s films did not perform as well. The property in which the module most obviously under-performed was a low V<sub>OC</sub>, which is characteristic of high defect density and high recombination velocities. Global Solar’s absorber layer outperformed the NREL absorber in carrier lifetime and hall mobility. However, as completed cells the NREL sample performed better. This is evidence of a poor CIGS/CdS interface, possibly due to the lack of an ODC surface layer on the Global Solar film.</p>
+<p>Disadvantages include uniformity issues over large areas and the related difficulty of coevaporating elements in an inline system. Also, high growth temperatures raise the thermal budget and costs. Additionally, coevaporation is plagued by low material utilization (deposition on chamber walls instead of the substrate, especially for selenium) and expensive vacuum equipment.<sup id="cite_ref-G._Dhere_2007_11-3" class="reference"><a href="#cite_note-G._Dhere_2007-11">[11]</a></sup><sup id="cite_ref-K._Derbyshire_2008_33-1" class="reference"><a href="#cite_note-K._Derbyshire_2008-33">[33]</a></sup> A way to enhance Se utilisation is via a thermal or plasma-enhanced selenium-cracking process,<sup id="cite_ref-35" class="reference"><a href="#cite_note-35">[35]</a></sup><sup id="cite_ref-36" class="reference"><a href="#cite_note-36">[36]</a></sup> which can be coupled with an <a href="/wiki/Ion_beam" title="Ion beam">ion beam source</a> for <a href="/wiki/Ion_beam_assisted_deposition" class="mw-redirect" title="Ion beam assisted deposition">ion beam assisted deposition</a>.<sup id="cite_ref-Solarion_AG_37-0" class="reference"><a href="#cite_note-Solarion_AG-37">[37]</a></sup></p>
+<h3><span class="mw-headline" id="Chemical_vapor_deposition">Chemical vapor deposition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Copper_indium_gallium_selenide_solar_cells&amp;action=edit&amp;section=16" title="Edit section: Chemical vapor deposition">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Chemical_vapor_deposition" title="Chemical vapor deposition">Chemical vapor deposition</a> (CVD) has been implemented in multiple ways for the deposition of CIGS. Processes include atmosphere pressure metal organic CVD (AP-<a href="/wiki/MOCVD" class="mw-redirect" title="MOCVD">MOCVD</a>), plasma-enhanced CVD (<a href="/wiki/PECVD" class="mw-redirect" title="PECVD">PECVD</a>), low-pressure MOCVD (LP-MOCVD), and aerosol assisted MOCVD (AA-MOCVD). Research is attempting to switch from dual-source precursors to single-source precursors.<sup id="cite_ref-M._Kemell_2005_28-7" class="reference"><a href="#cite_note-M._Kemell_2005-28">[28]</a></sup> Multiple source precursors must be homogeneously mixed and the flow rates of the precursors have to be kept at the proper stoichiometry. Single-source precursor methods do not suffer from these drawbacks and should enable better control of film composition.</p>
+<p>As of 2014 CVD was not used for commercial CIGS synthesis. CVD produced films have low efficiency and a low V<sub>OC</sub>, partially a result of a high defect concentration. Additionally, film surfaces are generally quite rough which serves to further decrease the V<sub>OC</sub>. However, the requisite Cu deficiency has been achieved using AA-MOCVD along with a (112) crystal orientation.</p>
+<p>CVD deposition temperatures are lower than those used for other processes such as co-evaporation and selenization of metallic precursors. Therefore, CVD has a lower thermal budget and lower costs. Potential manufacturing problems include difficulties converting CVD to an inline process as well as the expense of handling volatile precursors.</p>
+<h3><span class="mw-headline" id="Electrospray_deposition">Electrospray deposition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Copper_indium_gallium_selenide_solar_cells&amp;action=edit&amp;section=17" title="Edit section: Electrospray deposition">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>CIS films can be produced by <a href="/wiki/Electrospray" title="Electrospray">electrospray</a> deposition. The technique involves the electric field assisted spraying of ink containing CIS nano-particles onto the substrate directly and then sintering in an inert environment.<sup id="cite_ref-38" class="reference"><a href="#cite_note-38">[38]</a></sup> The main advantage of this technique is that the process takes place at room temperature and it is possible to attach this process with some continuous or mass production system like roll-to-roll production mechanism.<sup id="cite_ref-39" class="reference"><a href="#cite_note-39">[39]</a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Copper_indium_gallium_selenide_solar_cells&amp;action=edit&amp;section=18" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a href="/wiki/File:Wind-turbine-icon.svg" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/28px-Wind-turbine-icon.svg.png" width="28" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/42px-Wind-turbine-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/56px-Wind-turbine-icon.svg.png 2x" data-file-width="128" data-file-height="128" /></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Renewable_energy" title="Portal:Renewable energy">Renewable energy portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a href="/wiki/File:Crystal_energy.svg" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/29px-Crystal_energy.svg.png" width="29" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/44px-Crystal_energy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/59px-Crystal_energy.svg.png 2x" data-file-width="130" data-file-height="124" /></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Energy" title="Portal:Energy">Energy portal</a></span></li>
+</ul>
+</div>
+<ul>
+<li><a href="/wiki/List_of_CIGS_companies" title="List of CIGS companies">List of CIGS companies</a></li>
+<li><a href="/wiki/CZTS" title="CZTS">CZTS</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Copper_indium_gallium_selenide_solar_cells&amp;action=edit&amp;section=19" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 32em; -webkit-column-width: 32em; column-width: 32em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.ise.fraunhofer.de/en/downloads-englisch/pdf-files-englisch/photovoltaics-report-slides.pdf">Photovoltaics Report, Fraunhofer ISE, July 28, 2014, pages 18,19</a></span></li>
+<li id="cite_note-spw-cigs-simplified-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-spw-cigs-simplified_2-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Andorka, Frank (2014-01-08). <a rel="nofollow" class="external text" href="http://www.solarpowerworldonline.com/2014/01/cigs-solar-cells-simplified/">"CIGS Solar Cells, Simplified"</a>. <i><a rel="nofollow" class="external free" href="http://www.solarpowerworldonline.com/">http://www.solarpowerworldonline.com/</a></i>. Solar Power World. <a rel="nofollow" class="external text" href="http://www.webcitation.org/6Rsia8Mv2?url=http://www.solarpowerworldonline.com/2014/01/cigs-solar-cells-simplified/">Archived</a> from the original on 16 August 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">16 August</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACopper+indium+gallium+selenide+solar+cells&amp;rft.atitle=CIGS+Solar+Cells%2C+Simplified&amp;rft.aufirst=Frank&amp;rft.aulast=Andorka&amp;rft.date=2014-01-08&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.solarpowerworldonline.com%2F2014%2F01%2Fcigs-solar-cells-simplified%2F&amp;rft.jtitle=http%3A%2F%2Fwww.solarpowerworldonline.com%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span> <span style="font-size:100%" class="error citation-comment">External link in <code style="color:inherit; border:inherit; padding:inherit;">|website=</code> (<a href="/wiki/Help:CS1_errors#param_has_ext_link" title="Help:CS1 errors">help</a>)</span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.solar-frontier.com/eng/technology/Ecology/index.html">"CIS – Ecology"</a>. <i>Solar Frontier</i><span class="reference-accessdate">. Retrieved July 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACopper+indium+gallium+selenide+solar+cells&amp;rft.atitle=CIS+%93+Ecology&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.solar-frontier.com%2Feng%2Ftechnology%2FEcology%2Findex.html&amp;rft.jtitle=Solar+Frontier&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span> <span style="font-size:100%" class="error citation-comment">Check date values in: <code style="color:inherit; border:inherit; padding:inherit;">|access-date=</code> (<a href="/wiki/Help:CS1_errors#bad_date" title="Help:CS1 errors">help</a>)</span></span></li>
+<li id="cite_note-str-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-str_4-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Tinoco, T.; Rincón, C.; Quintero, M.; Pérez, G. Sánchez (1991). "Phase Diagram and Optical Energy Gaps for CuInyGa1−ySe2 Alloys". <i>Physica Status Solidi (a)</i>. <b>124</b> (2): 427. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/1991PSSAR.124..427T">1991PSSAR.124..427T</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1002%2Fpssa.2211240206">10.1002/pssa.2211240206</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACopper+indium+gallium+selenide+solar+cells&amp;rft.atitle=Phase+Diagram+and+Optical+Energy+Gaps+for+CuInyGa1%88%92ySe2+Alloys&amp;rft.aufirst=T.&amp;rft.aulast=Tinoco&amp;rft.au=P%C3%A9rez%2C+G.+S%C3%A1nchez&amp;rft.au=Quintero%2C+M.&amp;rft.au=Rinc%C3%B3n%2C+C.&amp;rft.date=1991&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F1991PSSAR.124..427T&amp;rft_id=info%3Adoi%2F10.1002%2Fpssa.2211240206&amp;rft.issue=2&amp;rft.jtitle=Physica+Status+Solidi+%28a%29&amp;rft.pages=427&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=124" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Solar-Frontier.com <a rel="nofollow" class="external text" href="http://www.solar-frontier.com/eng/cis/index.html">CIS Advantages</a></span></li>
+<li id="cite_note-J._Stanbery_2002-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-J._Stanbery_2002_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-J._Stanbery_2002_6-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-J._Stanbery_2002_6-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-J._Stanbery_2002_6-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Stanbery, B. J. (2002). "Copper Indium Selenides and Related Materials for Photovoltaic Devices". <i>Critical Reviews in Solid State and Materials Science</i>. <b>27</b> (2): 73. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2002CRSSM..27...73S">2002CRSSM..27...73S</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1080%2F20014091104215">10.1080/20014091104215</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACopper+indium+gallium+selenide+solar+cells&amp;rft.atitle=Copper+Indium+Selenides+and+Related+Materials+for+Photovoltaic+Devices&amp;rft.au=Stanbery%2C+B.+J.&amp;rft.date=2002&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F2002CRSSM..27...73S&amp;rft_id=info%3Adoi%2F10.1080%2F20014091104215&amp;rft.issue=2&amp;rft.jtitle=Critical+Reviews+in+Solid+State+and+Materials+Science&amp;rft.pages=73&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=27" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation journal">Repins, I.; Contreras, Miguel A.; Egaas, Brian; Dehart, Clay; Scharf, John; Perkins, Craig L.; To, Bobby; Noufi, Rommel (2008). "19.9%-efficient ZnO/CdS/CuInGaSe2 solar cell with 81.2% fill factor". <i>Progress in Photovoltaics: Research and Applications</i>. <b>16</b> (3): 235. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1002%2Fpip.822">10.1002/pip.822</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACopper+indium+gallium+selenide+solar+cells&amp;rft.atitle=19.9%25-efficient+ZnO%2FCdS%2FCuInGaSe2+solar+cell+with+81.2%25+fill+factor&amp;rft.au=Contreras%2C+Miguel+A.&amp;rft.au=Dehart%2C+Clay&amp;rft.au=Egaas%2C+Brian&amp;rft.au=Noufi%2C+Rommel&amp;rft.au=Perkins%2C+Craig+L.&amp;rft.au=Repins%2C+I.&amp;rft.au=Scharf%2C+John&amp;rft.au=To%2C+Bobby&amp;rft.date=2008&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1002%2Fpip.822&amp;rft.issue=3&amp;rft.jtitle=Progress+in+Photovoltaics%3A+Research+and+Applications&amp;rft.pages=235&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=16" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.zsw-bw.de/index.php?id=109&amp;L=1">ZSW: Press Releases</a>. Zsw-bw.de. Retrieved on 2011-09-13.</span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation journal">Hedström J.; Ohlsen H.; Bodegard M.; Kylner A.; Stolt L.; Hariskos D.; Ruckh M.; Schock H.W. (1993). "ZnO/CdS/Cu(In,Ga)Se2 thin film solar cells with improved performance". <i>Proceedings of 23rd IEEE Photovoltaic Specialists Conference</i>: 364–371. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1109%2FPVSC.1993.347154">10.1109/PVSC.1993.347154</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-7803-1220-1" title="Special:BookSources/0-7803-1220-1">0-7803-1220-1</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACopper+indium+gallium+selenide+solar+cells&amp;rft.atitle=ZnO%2FCdS%2FCu%28In%2CGa%29Se2+thin+film+solar+cells+with+improved+performance&amp;rft.au=Bodegard+M.&amp;rft.au=Hariskos+D.&amp;rft.au=Hedstr%C3%B6m+J.&amp;rft.au=Kylner+A.&amp;rft.au=Ohlsen+H.&amp;rft.au=Ruckh+M.&amp;rft.au=Schock+H.W.&amp;rft.au=Stolt+L.&amp;rft.date=1993&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1109%2FPVSC.1993.347154&amp;rft.isbn=0-7803-1220-1&amp;rft.jtitle=Proceedings+of+23rd+IEEE+Photovoltaic+Specialists+Conference&amp;rft.pages=364-371&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation journal">Kronik L.; Cahen D.; Schock H.W. (1998). "Effects of sodium on polycrystalline Cu(In,Ga)Se2 and its solar cell performance". <i>Advanced Materials</i>. <b>10</b>: 31–36. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1002%2F%28SICI%291521-4095%28199801%2910%3A1%3C31%3A%3AAID-ADMA31%3E3.0.CO%3B2-3">10.1002/(SICI)1521-4095(199801)10:1&lt;31::AID-ADMA31&gt;3.0.CO;2-3</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACopper+indium+gallium+selenide+solar+cells&amp;rft.atitle=Effects+of+sodium+on+polycrystalline+Cu%28In%2CGa%29Se2+and+its+solar+cell+performance&amp;rft.au=Cahen+D.&amp;rft.au=Kronik+L.&amp;rft.au=Schock+H.W.&amp;rft.date=1998&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1002%2F%28SICI%291521-4095%28199801%2910%3A1%3C31%3A%3AAID-ADMA31%3E3.0.CO%3B2-3&amp;rft.jtitle=Advanced+Materials&amp;rft.pages=31-36&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=10" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-G._Dhere_2007-11"><span class="mw-cite-backlink">^ <a href="#cite_ref-G._Dhere_2007_11-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-G._Dhere_2007_11-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-G._Dhere_2007_11-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-G._Dhere_2007_11-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Dhere, Neelkanth G. (2007). "Toward GW/year of CIGS production within the next decade". <i>Solar Energy Materials and Solar Cells</i>. <b>91</b> (15–16): 1376. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2Fj.solmat.2007.04.003">10.1016/j.solmat.2007.04.003</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACopper+indium+gallium+selenide+solar+cells&amp;rft.atitle=Toward+GW%2Fyear+of+CIGS+production+within+the+next+decade&amp;rft.aufirst=Neelkanth+G.&amp;rft.aulast=Dhere&amp;rft.date=2007&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2Fj.solmat.2007.04.003&amp;rft.issue=15%9316&amp;rft.jtitle=Solar+Energy+Materials+and+Solar+Cells&amp;rft.pages=1376&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=91" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-i-ZnO-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-i-ZnO_12-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Cooray N. F.; Kushiya K., Fujimaki A.,Sugiyama I., Miura T., Okumura D., Sato M., Ooshita M. and Yamase O. (1997). "Large area ZnO films optimized for graded band-gap Cu(InGa)Se2-based thin-film mini-modules". <i>Solar Energy Materials and Solar Cells</i>. <b>49</b>: 291–297. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2FS0927-0248%2897%2900055-X">10.1016/S0927-0248(97)00055-X</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACopper+indium+gallium+selenide+solar+cells&amp;rft.atitle=Large+area+ZnO+films+optimized+for+graded+band-gap+Cu%28InGa%29Se2-based+thin-film+mini-modules&amp;rft.au=Cooray+N.+F.%3B+Kushiya+K.%2C+Fujimaki+A.%2CSugiyama+I.%2C+Miura+T.%2C+Okumura+D.%2C+Sato+M.%2C+Ooshita+M.++and+Yamase+O.&amp;rft.date=1997&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2FS0927-0248%2897%2900055-X&amp;rft.jtitle=Solar+Energy+Materials+and+Solar+Cells&amp;rft.pages=291-297&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=49" class="Z3988"><span style="display:none;">&#160;</span></span> <span class="citation-comment" style="display:none; color:#33aa33">CS1 maint: Multiple names: authors list (<a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">link</a>)</span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">"Thin film CuInSe2/Cd(Zn)S Heterojunction Solar Cell&#160;: Characterization and Modeling", Murat Nezir Eron, PhD. Thesis, Drexel University, 1984, Philadelphia</span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.zsw-bw.de/en/support/press-releases/press-detail/zsw-brings-world-record-back-to-stuttgart.html">http://www.zsw-bw.de/en/support/press-releases/press-detail/zsw-brings-world-record-back-to-stuttgart.html</a></span></li>
+<li id="cite_note-19.9.25-15"><span class="mw-cite-backlink">^ <a href="#cite_ref-19.9.25_15-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-19.9.25_15-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.nrel.gov/docs/fy08osti/42539.pdf">"Characterization of 19.9%-Efficient CIGS Absorbers"</a> <span style="font-size:85%;">(PDF)</span>. National Renewable Energy Laboratory. May 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">10 February</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACopper+indium+gallium+selenide+solar+cells&amp;rft.btitle=Characterization+of+19.9%25-Efficient+CIGS+Absorbers&amp;rft.date=2008-05&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.nrel.gov%2Fdocs%2Ffy08osti%2F42539.pdf&amp;rft.pub=National+Renewable+Energy+Laboratory&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-eff-16"><span class="mw-cite-backlink">^ <a href="#cite_ref-eff_16-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-eff_16-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-eff_16-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.aps.org/units/gera/meetings/march10/upload/CarlsonAPS3-14-10.pdf">"The status and future of the photovoltaics industry"</a> <span style="font-size:85%;">(PDF)</span>. David E. Carlson Chief Scientist BP Solar 14 March 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">10 February</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACopper+indium+gallium+selenide+solar+cells&amp;rft.btitle=The+status+and+future+of+the+photovoltaics+industry&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.aps.org%2Funits%2Fgera%2Fmeetings%2Fmarch10%2Fupload%2FCarlsonAPS3-14-10.pdf&amp;rft.pub=David+E.+Carlson+Chief+Scientist+BP+Solar+14+March+2010&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.empa.ch/plugin/template/empa/3/131438/---/l=2">"Empa takes thin film solar cells to a new level – A new world record for solar cell efficiency"</a>. <i>Empa</i>. 18 January 2013<span class="reference-accessdate">. Retrieved July 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACopper+indium+gallium+selenide+solar+cells&amp;rft.atitle=Empa+takes+thin+film+solar+cells+to+a+new+level+%93+A+new+world+record+for+solar+cell+efficiency&amp;rft.date=2013-01-18&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.empa.ch%2Fplugin%2Ftemplate%2Fempa%2F3%2F131438%2F---%2Fl%3D2&amp;rft.jtitle=Empa&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span> <span style="font-size:100%" class="error citation-comment">Check date values in: <code style="color:inherit; border:inherit; padding:inherit;">|access-date=</code> (<a href="/wiki/Help:CS1_errors#bad_date" title="Help:CS1 errors">help</a>)</span></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.solarplaza.com/top10-cigs-module-efficiency/">Top 10 World's Most Efficient CI(G)S Modules</a>. Solarplaza.com. Retrieved on 2013-02-18.</span></li>
+<li id="cite_note-module_efficiency-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-module_efficiency_19-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Miasole. <a rel="nofollow" class="external text" href="http://www.miasole.com/sites/default/files/MiaSole_release_Dec_02_2010.pdf">"MiaSolé Achieves 15.7% Efficiency with Commercial-Scale CIGS Thin Film Solar Modules"</a> <span style="font-size:85%;">(PDF)</span><span class="reference-accessdate">. Retrieved <span class="nowrap">30 November</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACopper+indium+gallium+selenide+solar+cells&amp;rft.au=Miasole&amp;rft.btitle=MiaSol%C3%A9+Achieves+15.7%25+Efficiency+with+Commercial-Scale+CIGS+Thin+Film+Solar+Modules&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.miasole.com%2Fsites%2Fdefault%2Ffiles%2FMiaSole_release_Dec_02_2010.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-module_efficiency_2-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-module_efficiency_2_20-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Solar Frontier. <a rel="nofollow" class="external text" href="http://www.solar-frontier.com/eng/news/2012/C002980.html">"Solar Frontier Sets New Efficiency World Record"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">30 November</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACopper+indium+gallium+selenide+solar+cells&amp;rft.au=Solar+Frontier&amp;rft.btitle=Solar+Frontier+Sets+New+Efficiency+World+Record&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.solar-frontier.com%2Feng%2Fnews%2F2012%2FC002980.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://159.226.64.60/fckeditor/UserFiles/File/tyndc/reference/19909584825552.pdf">"Solar cell efficiency tables Ver.33"</a> <span style="font-size:85%;">(PDF)</span>. National Institute of Advanced Industrial Science and Technology (AIST)<span class="reference-accessdate">. Retrieved <span class="nowrap">10 February</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACopper+indium+gallium+selenide+solar+cells&amp;rft.btitle=Solar+cell+efficiency+tables+Ver.33&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2F159.226.64.60%2Ffckeditor%2FUserFiles%2FFile%2Ftyndc%2Freference%2F19909584825552.pdf&amp;rft.pub=National+Institute+of+Advanced+Industrial+Science+and+Technology+%28AIST%29&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.swissolar.ch/fileadmin/user_upload/Tagungen/PV-Tagung_14/5.4_Flisom_Flexible_PV_from_Lab_to_Fab_U_Ruehle.pdf">"Flisom: Flexible PV from Lab to Fab"</a> <span style="font-size:85%;">(PDF)</span>. <i>Flisom AG</i>. 4 November 2014. p.&#160;4.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACopper+indium+gallium+selenide+solar+cells&amp;rft.atitle=Flisom%3A+Flexible+PV+from+Lab+to+Fab&amp;rft.date=2014-11-04&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.swissolar.ch%2Ffileadmin%2Fuser_upload%2FTagungen%2FPV-Tagung_14%2F5.4_Flisom_Flexible_PV_from_Lab_to_Fab_U_Ruehle.pdf&amp;rft.jtitle=Flisom+AG&amp;rft.pages=4&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.rsc.org/chemistryworld/Issues/2008/February/FirstSalesForWorldsCheapestSolarCells.asp">"First sales for 'world's cheapest solar cells<span style="padding-right:0.2em;">'</span>"</a>. Chemistry world February 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">6 April</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACopper+indium+gallium+selenide+solar+cells&amp;rft.btitle=First+sales+for+%27world%27s+cheapest+solar+cells%27&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.rsc.org%2Fchemistryworld%2FIssues%2F2008%2FFebruary%2FFirstSalesForWorldsCheapestSolarCells.asp&amp;rft.pub=Chemistry+world+February+2008&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><span class="citation patent"><a rel="nofollow" class="external text" href="https://worldwide.espacenet.com/textdoc?DB=EPODOC&amp;IDX=US20090223551">US 20090223551</a></span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Apatent&amp;rft.number=20090223551&amp;rft.cc=US&amp;rft.title="><span style="display: none;">&#160;</span></span> patent</span></li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><cite class="citation journal">Nurul Amziah Md Yunus; Nik Hasniza Nik Aman; Nima Khoshsirat (2015). "Comparison between thin-film solar cells and copper–indium–gallium–diselenide in Southeast Asia". <i>IET Renewable Power Generation</i>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1049%2Fiet-rpg.2015.0114">10.1049/iet-rpg.2015.0114</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACopper+indium+gallium+selenide+solar+cells&amp;rft.atitle=Comparison+between+thin-film+solar+cells+and+copper%93indium%93gallium%93diselenide+in+Southeast+Asia&amp;rft.au=Nik+Hasniza+Nik+Aman&amp;rft.au=Nima+Khoshsirat&amp;rft.au=Nurul+Amziah+Md+Yunus&amp;rft.date=2015&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1049%2Fiet-rpg.2015.0114&amp;rft.jtitle=IET+Renewable+Power+Generation&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><cite class="citation journal">Young, D. L.; Keane, James; Duda, Anna; Abushama, Jehad A. M.; Perkins, Craig L.; Romero, Manuel; Noufi, Rommel (2003). "Improved performance in ZnO/CdS/CuGaSe2 thin-film solar cells". <i>Progress in Photovoltaics: Research and Applications</i>. <b>11</b> (8): 535. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1002%2Fpip.516">10.1002/pip.516</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACopper+indium+gallium+selenide+solar+cells&amp;rft.atitle=Improved+performance+in+ZnO%2FCdS%2FCuGaSe2+thin-film+solar+cells&amp;rft.au=Abushama%2C+Jehad+A.+M.&amp;rft.au=Duda%2C+Anna&amp;rft.au=Keane%2C+James&amp;rft.au=Noufi%2C+Rommel&amp;rft.au=Perkins%2C+Craig+L.&amp;rft.au=Romero%2C+Manuel&amp;rft.au=Young%2C+D.+L.&amp;rft.date=2003&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1002%2Fpip.516&amp;rft.issue=8&amp;rft.jtitle=Progress+in+Photovoltaics%3A+Research+and+Applications&amp;rft.pages=535&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=11" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text">NREL chart of Best Research Cell Efficiencies <a rel="nofollow" class="external free" href="http://www.nrel.gov/ncpv/images/efficiency_chart.jpg">http://www.nrel.gov/ncpv/images/efficiency_chart.jpg</a></span></li>
+<li id="cite_note-M._Kemell_2005-28"><span class="mw-cite-backlink">^ <a href="#cite_ref-M._Kemell_2005_28-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-M._Kemell_2005_28-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-M._Kemell_2005_28-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-M._Kemell_2005_28-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-M._Kemell_2005_28-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-M._Kemell_2005_28-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-M._Kemell_2005_28-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-M._Kemell_2005_28-7"><sup><i><b>h</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Kemell, Marianna; Ritala, Mikko; Leskelä, Markku (2005). "Thin Film Deposition Methods for CuInSe2 Solar Cells". <i>Critical Reviews in Solid State and Materials Sciences</i>. <b>30</b>: 1. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2005CRSSM..30....1K">2005CRSSM..30....1K</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1080%2F10408430590918341">10.1080/10408430590918341</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACopper+indium+gallium+selenide+solar+cells&amp;rft.atitle=Thin+Film+Deposition+Methods+for+CuInSe2+Solar+Cells&amp;rft.aufirst=Marianna&amp;rft.aulast=Kemell&amp;rft.au=Leskel%C3%A4%2C+Markku&amp;rft.au=Ritala%2C+Mikko&amp;rft.date=2005&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F2005CRSSM..30....1K&amp;rft_id=info%3Adoi%2F10.1080%2F10408430590918341&amp;rft.jtitle=Critical+Reviews+in+Solid+State+and+Materials+Sciences&amp;rft.pages=1&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=30" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-A._Ihlal_2007-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-A._Ihlal_2007_29-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Ihlal, A; Bouabid, K; Soubane, D; Nya, M; Aittalebali, O; Amira, Y; Outzourhit, A; Nouet, G (2007). "Comparative study of sputtered and electrodeposited CI(S,Se) and CIGSe thin films". <i>Thin Solid Films</i>. <b>515</b> (15): 5852. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2007TSF...515.5852I">2007TSF...515.5852I</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2Fj.tsf.2006.12.136">10.1016/j.tsf.2006.12.136</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACopper+indium+gallium+selenide+solar+cells&amp;rft.atitle=Comparative+study+of+sputtered+and+electrodeposited+CI%28S%2CSe%29+and+CIGSe+thin+films&amp;rft.au=Aittalebali%2C+O&amp;rft.au=Amira%2C+Y&amp;rft.au=Bouabid%2C+K&amp;rft.aufirst=A&amp;rft.aulast=Ihlal&amp;rft.au=Nouet%2C+G&amp;rft.au=Nya%2C+M&amp;rft.au=Outzourhit%2C+A&amp;rft.au=Soubane%2C+D&amp;rft.date=2007&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F2007TSF...515.5852I&amp;rft_id=info%3Adoi%2F10.1016%2Fj.tsf.2006.12.136&amp;rft.issue=15&amp;rft.jtitle=Thin+Solid+Films&amp;rft.pages=5852&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=515" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-L._Repins_2006-30"><span class="mw-cite-backlink">^ <a href="#cite_ref-L._Repins_2006_30-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-L._Repins_2006_30-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-L._Repins_2006_30-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-L._Repins_2006_30-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Repins, I. L.; Stanbery, B. J.; Young, D. L.; Li, S. S.; Metzger, W. K.; Perkins, C. L.; Shafarman, W. N.; Beck, M. E.; Chen, L.; Kapur, V. K.; Tarrant, D.; Gonzalez, M. D.; Jensen, D. G.; Anderson, T. J.; Wang, X.; Kerr, L. L.; Keyes, B.; Asher, S.; Delahoy, A.; von Roedern, B. (2006). "Comparison of device performance and measured transport parameters in widely-varying Cu(In,Ga) (Se,S) solar cells". <i>Progress in Photovoltaics: Research and Applications</i>. <b>14</b>: 25. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1002%2Fpip.654">10.1002/pip.654</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACopper+indium+gallium+selenide+solar+cells&amp;rft.atitle=Comparison+of+device+performance+and+measured+transport+parameters+in+widely-varying+Cu%28In%2CGa%29+%28Se%2CS%29+solar+cells&amp;rft.au=Anderson%2C+T.+J.&amp;rft.au=Asher%2C+S.&amp;rft.au=Beck%2C+M.+E.&amp;rft.au=Chen%2C+L.&amp;rft.au=Delahoy%2C+A.&amp;rft.aufirst=I.+L.&amp;rft.au=Gonzalez%2C+M.+D.&amp;rft.au=Jensen%2C+D.+G.&amp;rft.au=Kapur%2C+V.+K.&amp;rft.au=Kerr%2C+L.+L.&amp;rft.au=Keyes%2C+B.&amp;rft.aulast=Repins&amp;rft.au=Li%2C+S.+S.&amp;rft.au=Metzger%2C+W.+K.&amp;rft.au=Perkins%2C+C.+L.&amp;rft.au=Shafarman%2C+W.+N.&amp;rft.au=Stanbery%2C+B.+J.&amp;rft.au=Tarrant%2C+D.&amp;rft.au=von+Roedern%2C+B.&amp;rft.au=Wang%2C+X.&amp;rft.au=Young%2C+D.+L.&amp;rft.date=2006&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1002%2Fpip.654&amp;rft.jtitle=Progress+in+Photovoltaics%3A+Research+and+Applications&amp;rft.pages=25&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=14" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.avancis.de/en/company/about-avancis/avancis-history/">"Avancis History"</a>. avancis.de<span class="reference-accessdate">. Retrieved <span class="nowrap">25 August</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACopper+indium+gallium+selenide+solar+cells&amp;rft.btitle=Avancis+History&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.avancis.de%2Fen%2Fcompany%2Fabout-avancis%2Favancis-history%2F&amp;rft.pub=avancis.de&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-S._Ulal_2008-32"><span class="mw-cite-backlink">^ <a href="#cite_ref-S._Ulal_2008_32-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-S._Ulal_2008_32-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Ulal, H. S.; von Roedern, B. (2008). <a rel="nofollow" class="external text" href="http://www.electroiq.com/articles/sst/print/volume-51/issue-2/features/thin-film-technology/critical-issues-for-commercialization-of-thin-film-pv-technologies.html">"Critical Issues for Commercialization of Thin-Film PV Technologies"</a>. <i>Solid State Technology</i>. <b>51</b> (2): 52–54.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACopper+indium+gallium+selenide+solar+cells&amp;rft.atitle=Critical+Issues+for+Commercialization+of+Thin-Film+PV+Technologies&amp;rft.au=Ulal%2C+H.+S.&amp;rft.au=von+Roedern%2C+B.&amp;rft.date=2008&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.electroiq.com%2Farticles%2Fsst%2Fprint%2Fvolume-51%2Fissue-2%2Ffeatures%2Fthin-film-technology%2Fcritical-issues-for-commercialization-of-thin-film-pv-technologies.html&amp;rft.issue=2&amp;rft.jtitle=Solid+State+Technology&amp;rft.pages=52-54&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=51" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-K._Derbyshire_2008-33"><span class="mw-cite-backlink">^ <a href="#cite_ref-K._Derbyshire_2008_33-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-K._Derbyshire_2008_33-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Derbyshire, K. (2008). <a rel="nofollow" class="external text" href="http://www.electroiq.com/articles/sst/print/volume-51/issue-8/features/cover-article/public-policy-for-engineers-solar-industry-depends-on-policymakersrsquo-goodwill.html">"Public policy for engineers: solar industry depends on policymakers' goodwill"</a>. <i>Solid State Technology</i>. <b>51</b>: 32.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACopper+indium+gallium+selenide+solar+cells&amp;rft.atitle=Public+policy+for+engineers%3A+solar+industry+depends+on+policymakers%27+goodwill&amp;rft.au=Derbyshire%2C+K.&amp;rft.date=2008&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.electroiq.com%2Farticles%2Fsst%2Fprint%2Fvolume-51%2Fissue-8%2Ffeatures%2Fcover-article%2Fpublic-policy-for-engineers-solar-industry-depends-on-policymakersrsquo-goodwill.html&amp;rft.jtitle=Solid+State+Technology&amp;rft.pages=32&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=51" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://solopower.com/our-difference/engineering-design">[1]</a></span></li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text"><cite class="citation journal">Ishizuka, S.; Yamada, Akimasa; Shibata, Hajime; Fons, Paul; Sakurai, Keiichiro; Matsubara, Koji; Niki, Shigeru (2009). "Large grain CIGS thin film growth using a Se-radical beam source". <i>Solar Energy Materials &amp; Solar Cells</i>. <b>93</b> (6–7): 792. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2Fj.solmat.2008.09.043">10.1016/j.solmat.2008.09.043</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACopper+indium+gallium+selenide+solar+cells&amp;rft.atitle=Large+grain+CIGS+thin+film+growth+using+a+Se-radical+beam+source&amp;rft.au=Fons%2C+Paul&amp;rft.au=Ishizuka%2C+S.&amp;rft.au=Matsubara%2C+Koji&amp;rft.au=Niki%2C+Shigeru&amp;rft.au=Sakurai%2C+Keiichiro&amp;rft.au=Shibata%2C+Hajime&amp;rft.au=Yamada%2C+Akimasa&amp;rft.date=2009&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2Fj.solmat.2008.09.043&amp;rft.issue=6%937&amp;rft.jtitle=Solar+Energy+Materials+%26+Solar+Cells&amp;rft.pages=792&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=93" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-36">^</a></b></span> <span class="reference-text"><cite class="citation journal">Kawamura, M.; Fujita, Toshiyuki; Yamada, Akira; Konagai, Makoto (2009). "CIGS thin-film solar cells grown with cracked selenium". <i>Journal of Crystal Growth</i>. <b>311</b> (3): 753. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2009JCrGr.311..753K">2009JCrGr.311..753K</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2Fj.jcrysgro.2008.09.091">10.1016/j.jcrysgro.2008.09.091</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACopper+indium+gallium+selenide+solar+cells&amp;rft.atitle=CIGS+thin-film+solar+cells+grown+with+cracked+selenium&amp;rft.au=Fujita%2C+Toshiyuki&amp;rft.au=Kawamura%2C+M.&amp;rft.au=Konagai%2C+Makoto&amp;rft.au=Yamada%2C+Akira&amp;rft.date=2009&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F2009JCrGr.311..753K&amp;rft_id=info%3Adoi%2F10.1016%2Fj.jcrysgro.2008.09.091&amp;rft.issue=3&amp;rft.jtitle=Journal+of+Crystal+Growth&amp;rft.pages=753&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=311" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Solarion_AG-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-Solarion_AG_37-0">^</a></b></span> <span class="reference-text">Solarion AG (2009-10-07): <i><a rel="nofollow" class="external text" href="http://www.solarion.net/assets/files/SOLARION%20Press%20Release%20eng%20world%20record.pdf">World record: 13.4&#160;% conversion efficiency in solar cells on plastic film</a>.</i> (press release)</span></li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-38">^</a></b></span> <span class="reference-text"><cite class="citation journal">Muhammad, Nauman Malik; Sundharam, Sridharan; Dang, Hyun-Woo; Lee, Ayoung; Ryu, Beyoung-Hwan; Choi, Kyung-Hyun (2011). "CIS layer deposition through electrospray process for solar cell fabrication". <i>Current Applied Physics</i>. <b>11</b>: S68. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2011CAP....11S..68M">2011CAP....11S..68M</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2Fj.cap.2010.11.059">10.1016/j.cap.2010.11.059</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACopper+indium+gallium+selenide+solar+cells&amp;rft.atitle=CIS+layer+deposition+through+electrospray+process+for+solar+cell+fabrication&amp;rft.au=Choi%2C+Kyung-Hyun&amp;rft.au=Dang%2C+Hyun-Woo&amp;rft.aufirst=Nauman+Malik&amp;rft.aulast=Muhammad&amp;rft.au=Lee%2C+Ayoung&amp;rft.au=Ryu%2C+Beyoung-Hwan&amp;rft.au=Sundharam%2C+Sridharan&amp;rft.date=2011&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F2011CAP....11S..68M&amp;rft_id=info%3Adoi%2F10.1016%2Fj.cap.2010.11.059&amp;rft.jtitle=Current+Applied+Physics&amp;rft.pages=S68&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=11" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-39">^</a></b></span> <span class="reference-text"><cite class="citation journal">Choi, Kyung-Hyun; Muhammad, Nauman Malik; Dang, Hyun-Woo; Lee, Ayoung; Hwang, Jin-Soo; Nam, Jong Won; Ryu, Beyoung-Hwan (2011). "Electrospray deposition of thin copper-indium-diselenide films". <i>International Journal of Materials Research</i>. <b>102</b> (10): 1252. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.3139%2F146.110581">10.3139/146.110581</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACopper+indium+gallium+selenide+solar+cells&amp;rft.atitle=Electrospray+deposition+of+thin+copper-indium-diselenide+films&amp;rft.au=Dang%2C+Hyun-Woo&amp;rft.aufirst=Kyung-Hyun&amp;rft.au=Hwang%2C+Jin-Soo&amp;rft.aulast=Choi&amp;rft.au=Lee%2C+Ayoung&amp;rft.au=Muhammad%2C+Nauman+Malik&amp;rft.au=Nam%2C+Jong+Won&amp;rft.au=Ryu%2C+Beyoung-Hwan&amp;rft.date=2011&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.3139%2F146.110581&amp;rft.issue=10&amp;rft.jtitle=International+Journal+of+Materials+Research&amp;rft.pages=1252&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=102" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Copper_indium_gallium_selenide_solar_cells&amp;action=edit&amp;section=20" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.nrel.gov/pv/thin_film/pn_techbased_copper_indium_diselenide.html">Copper Indium Diselenide</a> Publications, Presentations, and News Database of the <a href="/wiki/National_Renewable_Energy_Laboratory" title="National Renewable Energy Laboratory">National Renewable Energy Laboratory</a>.</li>
+<li><a rel="nofollow" class="external text" href="http://www.solarindustrymag.com/e107_plugins/content/content.php?content.2222">World's Largest CIGS Solar Array Operational In Arizona</a>.</li>
+<li>Michael Kanellos <a rel="nofollow" class="external text" href="http://archive.is/20130102061837/http://msn-cnet.com.com/Silicon+vs.+CIGS+With+solar+energy,+the+issue+is+material/2100-1008_3-6121488.html">Silicon vs. CIGS: With solar energy, the issue is material</a> October 2, 2006 CNET News.com</li>
+<li><a rel="nofollow" class="external text" href="http://www.renewableenergymagazine.com/paginas/Contenidosecciones.asp?ID=15&amp;Cod=5767&amp;Nombre=PV+solar">CIGS to emerge as the major thin-film photovoltaic technology by 2020</a></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Photovoltaics" style="padding:3px">
+<table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Photovoltaics" title="Template:Photovoltaics"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Photovoltaics" title="Template talk:Photovoltaics"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Photovoltaics&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Photovoltaics" style="font-size:114%"><a href="/wiki/Photovoltaics" title="Photovoltaics">Photovoltaics</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;">Concepts</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Technology</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Photovoltaics" title="Photovoltaics">Photovoltaics</a></li>
+<li><a href="/wiki/Photoelectric_effect" title="Photoelectric effect">Photoelectric effect</a></li>
+<li><a href="/wiki/Solar_insolation" class="mw-redirect" title="Solar insolation">Solar insolation</a></li>
+<li><a href="/wiki/Solar_constant" title="Solar constant">Solar constant</a></li>
+<li><a href="/wiki/Solar_cell_efficiency" title="Solar cell efficiency">Solar cell efficiency</a></li>
+<li><a href="/wiki/Nominal_power_(photovoltaic)" title="Nominal power (photovoltaic)">Nominal power (Watt-peak)</a></li>
+<li><a href="/wiki/Thin_film_solar_cell" class="mw-redirect" title="Thin film solar cell">Thin film solar cell</a></li>
+<li><a href="/wiki/Multijunction_photovoltaic_cell" class="mw-redirect" title="Multijunction photovoltaic cell">Multijunction photovoltaic cell</a></li>
+<li><a href="/wiki/Third_generation_photovoltaic_cell" class="mw-redirect" title="Third generation photovoltaic cell">Third generation photovoltaic cell</a></li>
+<li><a href="/wiki/Solar_cell_research" title="Solar cell research">Solar cell research</a></li>
+<li><a href="/wiki/Quantum_efficiency_of_a_solar_cell" class="mw-redirect" title="Quantum efficiency of a solar cell">Quantum efficiency of a solar cell</a></li>
+<li><a href="/wiki/Thermophotovoltaic" title="Thermophotovoltaic">Thermophotovoltaic</a></li>
+<li><a href="/wiki/Thermodynamic_efficiency_limit" title="Thermodynamic efficiency limit">Thermodynamic efficiency limit</a></li>
+<li><a href="/wiki/Sun-free_photovoltaics" title="Sun-free photovoltaics">Sun-free photovoltaics</a></li>
+<li><a href="/wiki/Polarizing_organic_photovoltaics" title="Polarizing organic photovoltaics">Polarizing organic photovoltaics</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Materials</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/List_of_semiconductor_materials" title="List of semiconductor materials">List of semiconductor materials</a></li>
+<li><a href="/wiki/Crystalline_silicon" title="Crystalline silicon">Crystalline silicon (c-Si)</a></li>
+<li><a href="/wiki/Polycrystalline_silicon" title="Polycrystalline silicon">Polycrystalline silicon (multi-Si)</a></li>
+<li><a href="/wiki/Monocrystalline_silicon" title="Monocrystalline silicon">Monocrystalline silicon (mono-Si)</a></li>
+<li><a href="/wiki/Cadmium_telluride" title="Cadmium telluride">Cadmium telluride</a></li>
+<li><a href="/wiki/Copper_indium_gallium_selenide" title="Copper indium gallium selenide">Copper indium gallium selenide</a></li>
+<li><a href="/wiki/Amorphous_silicon" title="Amorphous silicon">Amorphous silicon (a-Si)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">History</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Growth_of_photovoltaics" title="Growth of photovoltaics">Growth of photovoltaics</a></li>
+<li><a href="/wiki/Timeline_of_solar_cells" title="Timeline of solar cells">Timeline of solar cells</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+<td class="navbox-image" rowspan="9" style="width:0%;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:4inch_poly_solar_cell.jpg" class="image"><img alt="4inch poly solar cell.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/4inch_poly_solar_cell.jpg/150px-4inch_poly_solar_cell.jpg" width="150" height="113" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/4inch_poly_solar_cell.jpg/225px-4inch_poly_solar_cell.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fd/4inch_poly_solar_cell.jpg/300px-4inch_poly_solar_cell.jpg 2x" data-file-width="2272" data-file-height="1704" /></a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;"><a href="/wiki/Photovoltaic_system" title="Photovoltaic system">Photovoltaic system</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;"><a href="/wiki/Solar_cell" title="Solar cell">Solar cells</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Polymer_solar_cell" title="Polymer solar cell">Polymer solar cell</a></li>
+<li><a href="/wiki/Nanocrystal_solar_cell" title="Nanocrystal solar cell">Nanocrystal solar cell</a></li>
+<li><a href="/wiki/Organic_solar_cell" title="Organic solar cell">Organic solar cell</a></li>
+<li><a href="/wiki/Quantum_dot_solar_cell" title="Quantum dot solar cell">Quantum dot solar cell</a></li>
+<li><a href="/wiki/Hybrid_solar_cell" title="Hybrid solar cell">Hybrid solar cell</a></li>
+<li><a href="/wiki/Plasmonic_solar_cell" title="Plasmonic solar cell">Plasmonic solar cell</a></li>
+<li><a href="/wiki/Carbon_nanotubes_in_photovoltaics" title="Carbon nanotubes in photovoltaics">Carbon nanotubes in photovoltaics</a></li>
+<li><a href="/wiki/Dye-sensitized_solar_cell" title="Dye-sensitized solar cell">Dye-sensitized solar cell</a></li>
+<li><a href="/wiki/Cadmium_telluride_photovoltaics" title="Cadmium telluride photovoltaics">Cadmium telluride photovoltaics</a></li>
+<li><strong class="selflink">Copper indium gallium selenide solar cells</strong></li>
+<li><a href="/wiki/Printed_solar_panel" class="mw-redirect" title="Printed solar panel">Printed solar panel</a></li>
+<li><a href="/wiki/Perovskite_solar_cell" title="Perovskite solar cell">Perovskite solar cell</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">System components</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Solar_panel" title="Solar panel">Solar panel</a></li>
+<li><a href="/wiki/Balance_of_system" title="Balance of system">Balance of system</a></li>
+<li><a href="/wiki/Solar_charge_controller" class="mw-redirect" title="Solar charge controller">Solar charge controller</a></li>
+<li><a href="/wiki/Solar_inverter" title="Solar inverter">Solar inverter</a></li>
+<li><a href="/wiki/Solar_micro-inverter" title="Solar micro-inverter">Solar micro-inverter</a></li>
+<li><a href="/wiki/Solar_cable" title="Solar cable">Solar cable</a></li>
+<li><a href="/wiki/Photovoltaic_mounting_system" title="Photovoltaic mounting system">Photovoltaic mounting system</a></li>
+<li><a href="/wiki/Maximum_power_point_tracker" class="mw-redirect" title="Maximum power point tracker">Maximum power point tracker</a></li>
+<li><a href="/wiki/Solar_tracker" title="Solar tracker">Solar tracker</a></li>
+<li><a href="/wiki/Solar_shingles" class="mw-redirect" title="Solar shingles">Solar shingles</a></li>
+<li><a href="/wiki/Solar_mirror#Photovoltaic_augmentation" title="Solar mirror">Solar mirror</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">System concepts</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Perturb_and_observe_method" class="mw-redirect" title="Perturb and observe method">Perturb and observe method</a></li>
+<li><a href="/wiki/Incremental_conductance_method" class="mw-redirect" title="Incremental conductance method">Incremental conductance method</a></li>
+<li><a href="/wiki/Constant_voltage_method" class="mw-redirect" title="Constant voltage method">Constant voltage method</a></li>
+<li><a href="/wiki/Fill_factor_(solar_cell)" class="mw-redirect" title="Fill factor (solar cell)">Fill factor</a></li>
+<li><a href="/wiki/Concentrated_photovoltaics" class="mw-redirect" title="Concentrated photovoltaics">Concentrated photovoltaics</a></li>
+<li><a href="/wiki/Photovoltaic_thermal_hybrid_solar_collector" title="Photovoltaic thermal hybrid solar collector">Photovoltaic thermal hybrid solar collector</a></li>
+<li><a href="/wiki/Space-based_solar_power" title="Space-based solar power">Space-based solar power</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;">Applications</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Appliances</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Solar-powered_refrigerator" title="Solar-powered refrigerator">Solar-powered refrigerator</a></li>
+<li><a href="/wiki/Solar_air_conditioning#Photovoltaic_.28PV.29_solar_cooling" title="Solar air conditioning">Solar air conditioning</a></li>
+<li><a href="/wiki/Solar_lamp" title="Solar lamp">Solar lamp</a></li>
+<li><a href="/wiki/Solar_charger" title="Solar charger">Solar charger</a></li>
+<li><a href="/wiki/Solar_backpack" title="Solar backpack">Solar backpack</a></li>
+<li><a href="/wiki/Solar_tree" title="Solar tree">Solar tree</a></li>
+<li><a href="/wiki/Solar-powered_pump" title="Solar-powered pump">Solar-powered pump</a></li>
+<li><a href="/wiki/Solar-powered_watch" title="Solar-powered watch">Solar-powered watch</a></li>
+<li><a href="/wiki/Solar_Tuki" title="Solar Tuki">Solar Tuki</a></li>
+<li><a href="/wiki/Photovoltaic_keyboard" title="Photovoltaic keyboard">Photovoltaic keyboard</a></li>
+<li><a href="/wiki/Solar_road_stud" title="Solar road stud">Solar road stud</a></li>
+<li><a href="/wiki/Solar_cell_phone_charger" title="Solar cell phone charger">Solar cell phone charger</a></li>
+<li><a href="/wiki/Solar_notebook" title="Solar notebook">Solar notebook</a></li>
+<li><a href="/wiki/Solar-powered_calculator" title="Solar-powered calculator">Solar-powered calculator</a></li>
+<li><a href="/wiki/Solar-powered_fountain" title="Solar-powered fountain">Solar-powered fountain</a></li>
+<li><a href="/wiki/Solar-powered_radio" title="Solar-powered radio">Solar-powered radio</a></li>
+<li><a href="/wiki/Solar-powered_flashlight" title="Solar-powered flashlight">Solar-powered flashlight</a></li>
+<li><a href="/wiki/Solar-powered_fan" title="Solar-powered fan">Solar-powered fan</a></li>
+<li><a href="/wiki/Solar_street_light" title="Solar street light">Solar street light</a></li>
+<li><a href="/wiki/Solar_traffic_light" title="Solar traffic light">Solar traffic light</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Land transport</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Solar_vehicle" title="Solar vehicle">Solar vehicle</a></li>
+<li><a href="/wiki/Solar_car" title="Solar car">Solar car</a></li>
+<li><a href="/wiki/Solar_roadway" class="mw-redirect" title="Solar roadway">Solar roadway</a></li>
+<li><a href="/wiki/Solar_golf_cart" title="Solar golf cart">Solar golf cart</a></li>
+<li><a href="/wiki/The_Quiet_Achiever" title="The Quiet Achiever">The Quiet Achiever</a></li>
+<li><a href="/wiki/Sunmobile" title="Sunmobile">Sunmobile</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Air transport</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Electric_aircraft" title="Electric aircraft">Electric aircraft</a></li>
+<li><a href="/wiki/Mauro_Solar_Riser" title="Mauro Solar Riser">Mauro Solar Riser</a></li>
+<li><a href="/wiki/Solar_panels_on_spacecraft" title="Solar panels on spacecraft">Solar panels on spacecraft</a></li>
+<li><a href="/wiki/Solar-Powered_Aircraft_Developments_Solar_One" title="Solar-Powered Aircraft Developments Solar One">Solar-Powered Aircraft Developments Solar One</a></li>
+<li><a href="/wiki/Gossamer_Penguin" class="mw-redirect" title="Gossamer Penguin">Gossamer Penguin</a></li>
+<li><a href="/wiki/Qinetiq_Zephyr" title="Qinetiq Zephyr">Qinetiq Zephyr</a></li>
+<li><a href="/wiki/Solar_Challenger" class="mw-redirect" title="Solar Challenger">Solar Challenger</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Water transport</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Electric_boat#Types" title="Electric boat">Solar boat</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Solar vehicle racing</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Solar_car_racing" title="Solar car racing">Solar car racing</a></li>
+<li><a href="/wiki/List_of_solar_car_teams" title="List of solar car teams">List of solar car teams</a></li>
+<li><a href="/wiki/Solar_challenge_(disambiguation)" class="mw-redirect mw-disambig" title="Solar challenge (disambiguation)">Solar challenges</a></li>
+<li><a href="/wiki/World_Solar_Challenge" title="World Solar Challenge">World Solar Challenge</a></li>
+<li><a href="/wiki/American_Solar_Challenge" title="American Solar Challenge">American Solar Challenge</a></li>
+<li><a href="/wiki/Formula_Sun_Grand_Prix" title="Formula Sun Grand Prix">Formula Sun Grand Prix</a></li>
+<li><a href="/wiki/Solar_Cup" title="Solar Cup">Solar Cup</a></li>
+<li><a href="/wiki/Frisian_Solar_Challenge" title="Frisian Solar Challenge">Frisian Solar Challenge</a></li>
+<li><a href="/wiki/Solar_Splash" title="Solar Splash">Solar Splash</a></li>
+<li><a href="/wiki/South_African_Solar_Challenge" title="South African Solar Challenge">South African Solar Challenge</a></li>
+<li><a href="/wiki/Tour_de_Sol" title="Tour de Sol">Tour de Sol</a></li>
+<li><a href="/wiki/Hunt-Winston_School_Solar_Car_Challenge" class="mw-redirect" title="Hunt-Winston School Solar Car Challenge">Hunt-Winston School Solar Car Challenge</a></li>
+<li><a href="/wiki/Victorian_Model_Solar_Vehicle_Challenge" title="Victorian Model Solar Vehicle Challenge">Victorian Model Solar Vehicle Challenge</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;"><a href="/wiki/Photovoltaic_power_station" title="Photovoltaic power station">Generation systems</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;"><a href="/wiki/Photovoltaic_power_station" title="Photovoltaic power station">PV power station</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Grid-connected_photovoltaic_power_system" title="Grid-connected photovoltaic power system">Grid-connected photovoltaic power system</a></li>
+<li><a href="/wiki/List_of_photovoltaic_power_stations" title="List of photovoltaic power stations">List of photovoltaic power stations</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Individual projects</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Alamosa_photovoltaic_power_plant" title="Alamosa photovoltaic power plant">Alamosa photovoltaic power plant</a></li>
+<li><a href="/wiki/Beneixama_photovoltaic_power_plant" title="Beneixama photovoltaic power plant">Beneixama photovoltaic power plant</a></li>
+<li><a href="/wiki/Blythe_Photovoltaic_Power_Plant" title="Blythe Photovoltaic Power Plant">Blythe Photovoltaic Power Plant</a></li>
+<li><a href="/wiki/Copper_Mountain_Solar_Facility" title="Copper Mountain Solar Facility">Copper Mountain Solar Facility</a></li>
+<li><a href="/wiki/Darro_Solar_Park" title="Darro Solar Park">Darro Solar Park</a></li>
+<li><a href="/wiki/Erlasee_Solar_Park" title="Erlasee Solar Park">Erlasee Solar Park</a></li>
+<li><a href="/wiki/Huanghe_Hydropower_Golmud_Solar_Park" title="Huanghe Hydropower Golmud Solar Park">Golmud Solar Park</a></li>
+<li><a href="/wiki/Gottelborn_Solar_Park" class="mw-redirect" title="Gottelborn Solar Park">Gottelborn Solar Park</a></li>
+<li><a href="/wiki/Guadarranque_solar_power_plant" class="mw-redirect" title="Guadarranque solar power plant">Guadarranque solar power plant</a></li>
+<li><a href="/wiki/K%C3%B6then_Solar_Park" title="Köthen Solar Park">Köthen Solar Park</a></li>
+<li><a href="/wiki/Moura_Photovoltaic_Power_Station" title="Moura Photovoltaic Power Station">Moura Photovoltaic Power Station</a></li>
+<li><a href="/wiki/Olmedilla_Photovoltaic_Park" title="Olmedilla Photovoltaic Park">Olmedilla Photovoltaic Park</a></li>
+<li><a href="/wiki/Pocking_Solar_Park" title="Pocking Solar Park">Pocking Solar Park</a></li>
+<li><a href="/wiki/Puertollano_Photovoltaic_Park" title="Puertollano Photovoltaic Park">Puertollano Photovoltaic Park</a></li>
+<li><a href="/wiki/Topaz_Solar_Farm" title="Topaz Solar Farm">Topaz Solar Farm</a></li>
+<li><a href="/wiki/Wyandot_Solar_Facility" title="Wyandot Solar Facility">Wyandot Solar Facility</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Building-mounted</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Rooftop_photovoltaic_power_station" title="Rooftop photovoltaic power station">Rooftop photovoltaic power station</a></li>
+<li><a href="/wiki/Building-integrated_photovoltaics" title="Building-integrated photovoltaics">Building-integrated photovoltaics</a></li>
+<li><a href="/wiki/Solar_Ark" title="Solar Ark">Solar Ark</a></li>
+<li><a href="/wiki/Solar_Umbrella_house" title="Solar Umbrella house">Solar Umbrella house</a></li>
+<li><a href="/wiki/Strasskirchen_Solar_Park" title="Strasskirchen Solar Park">Strasskirchen Solar Park</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;"><a href="/wiki/Solar_power_by_country" title="Solar power by country">By country</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Solar_power_in_Australia" title="Solar power in Australia">Australia</a></li>
+<li><a href="/wiki/Solar_power_in_Belgium" title="Solar power in Belgium">Belgium</a></li>
+<li><a href="/wiki/Solar_power_in_Bulgaria" title="Solar power in Bulgaria">Bulgaria</a></li>
+<li><a href="/wiki/Solar_power_in_Canada" title="Solar power in Canada">Canada</a></li>
+<li><a href="/wiki/Solar_power_in_Chile" title="Solar power in Chile">Chile</a></li>
+<li><a href="/wiki/Solar_power_in_China" title="Solar power in China">China</a></li>
+<li><a href="/wiki/Solar_power_in_the_Czech_Republic" title="Solar power in the Czech Republic">Czech Republic</a></li>
+<li><a href="/wiki/Solar_power_in_France" title="Solar power in France">France</a></li>
+<li><a href="/wiki/Solar_power_in_Germany" title="Solar power in Germany">Germany</a></li>
+<li><a href="/wiki/Solar_power_in_Greece" title="Solar power in Greece">Greece</a></li>
+<li><a href="/wiki/Solar_power_in_India" title="Solar power in India">India</a></li>
+<li><a href="/wiki/Solar_power_in_Italy" title="Solar power in Italy">Italy</a></li>
+<li><a href="/wiki/Solar_power_in_Japan" title="Solar power in Japan">Japan</a></li>
+<li><a href="/wiki/Solar_power_in_the_Netherlands" title="Solar power in the Netherlands">Netherlands</a></li>
+<li><a href="/wiki/Solar_power_in_Romania" title="Solar power in Romania">Romania</a></li>
+<li><a href="/wiki/Solar_power_in_South_Africa" title="Solar power in South Africa">South Africa</a></li>
+<li><a href="/wiki/Solar_power_in_Spain" title="Solar power in Spain">Spain</a></li>
+<li><a href="/wiki/Solar_power_in_Switzerland" title="Solar power in Switzerland">Switzerland</a></li>
+<li><a href="/wiki/Solar_power_in_Thailand" title="Solar power in Thailand">Thailand</a></li>
+<li><a href="/wiki/Solar_power_in_the_United_Kingdom" title="Solar power in the United Kingdom">United Kingdom</a></li>
+<li><a href="/wiki/Solar_power_in_the_United_States" title="Solar power in the United States">USA</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;"><a href="/wiki/List_of_photovoltaics_companies" title="List of photovoltaics companies">PV companies</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">By country</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/List_of_countries_by_photovoltaics_production" class="mw-redirect" title="List of countries by photovoltaics production">List of countries by photovoltaics production</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Individual producers</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/First_Solar" title="First Solar">First Solar</a></li>
+<li><a href="/wiki/Hanwha_Solarone" class="mw-redirect" title="Hanwha Solarone">Hanwha Solarone</a></li>
+<li><a href="/wiki/JA_Solar" class="mw-redirect" title="JA Solar">JA Solar</a></li>
+<li><a href="/wiki/Motech_Solar" title="Motech Solar">Motech Solar</a></li>
+<li><a href="/wiki/Renewable_Energy_Corporation" title="Renewable Energy Corporation">REC</a></li>
+<li><a href="/wiki/Q-Cells" title="Q-Cells">Q-Cells</a></li>
+<li><a href="/wiki/Sharp_Solar" title="Sharp Solar">Sharp</a></li>
+<li><a href="/wiki/Solar_Frontier" title="Solar Frontier">Solar Frontier</a></li>
+<li><a href="/wiki/Solyndra" title="Solyndra">Solyndra</a></li>
+<li><a href="/wiki/SUNGEN_International_Limited" title="SUNGEN International Limited">Sungen Solar</a></li>
+<li><a href="/wiki/Sunpower" class="mw-redirect" title="Sunpower">Sunpower</a></li>
+<li><a href="/wiki/Suntech" class="mw-redirect" title="Suntech">Suntech</a></li>
+<li><a href="/wiki/Trina_Solar" title="Trina Solar">Trina Solar</a></li>
+<li><a href="/wiki/Yingli_Solar" class="mw-redirect" title="Yingli Solar">Yingli Solar</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3">
+<div>
+<ul>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <b><a href="/wiki/Category:Photovoltaics" title="Category:Photovoltaics">Category</a></b></li>
+<li><img alt="Commons page" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" title="Commons page" width="12" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /> <a href="https://commons.wikimedia.org/wiki/Category:Photovoltaics" class="extiw" title="commons:Category:Photovoltaics"><b>Commons</b></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1270
+Cached time: 20170116080627
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.364 seconds
+Real time usage: 0.415 seconds
+Preprocessor visited node count: 2250/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 125273/2097152 bytes
+Template argument size: 332/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 0/500
+Lua time usage: 0.163/10.000 seconds
+Lua memory usage: 3.37 MB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  311.971      1 - -total
+ 72.37%  225.766      1 - Template:Reflist
+ 27.25%   84.998     18 - Template:Cite_journal
+ 25.26%   78.804     11 - Template:Cite_web
+ 14.00%   43.664      6 - Template:Navbox
+ 11.07%   34.539      1 - Template:Photovoltaics
+  5.91%   18.451      1 - Template:Portal
+  5.91%   18.448      1 - Template:Patent
+  3.30%   10.289      1 - Template:Cite_patent
+  2.38%    7.430      2 - Template:Icon
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:22637838-0!*!0!!en!4!* and timestamp 20170116080627 and revision id 752319787
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Copper_indium_gallium_selenide_solar_cells&amp;oldid=752319787">https://en.wikipedia.org/w/index.php?title=Copper_indium_gallium_selenide_solar_cells&amp;oldid=752319787</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Solar_cells" title="Category:Solar cells">Solar cells</a></li><li><a href="/wiki/Category:Photovoltaics" title="Category:Photovoltaics">Photovoltaics</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_errors:_external_links" title="Category:CS1 errors: external links">CS1 errors: external links</a></li><li><a href="/wiki/Category:CS1_errors:_dates" title="Category:CS1 errors: dates">CS1 errors: dates</a></li><li><a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">CS1 maint: Multiple names: authors list</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Copper+indium+gallium+selenide+solar+cells" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Copper+indium+gallium+selenide+solar+cells" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Copper_indium_gallium_selenide_solar_cells"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Copper_indium_gallium_selenide_solar_cells"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Copper_indium_gallium_selenide_solar_cells" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Copper_indium_gallium_selenide_solar_cells&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Copper_indium_gallium_selenide_solar_cells&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Copper_indium_gallium_selenide_solar_cells" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Copper_indium_gallium_selenide_solar_cells" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Copper_indium_gallium_selenide_solar_cells&amp;oldid=752319787" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Copper_indium_gallium_selenide_solar_cells&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q31887" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Copper_indium_gallium_selenide_solar_cells&amp;id=752319787" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Copper+indium+gallium+selenide+solar+cells">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Copper+indium+gallium+selenide+solar+cells&amp;returnto=Copper+indium+gallium+selenide+solar+cells&amp;oldid=752319787&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Copper_indium_gallium_selenide_solar_cells&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%B3%D9%8A%D9%84%D9%8A%D9%86%D9%8A%D8%AF_%D9%86%D8%AD%D8%A7%D8%B3_%D8%A5%D9%86%D8%AF%D9%8A%D9%88%D9%85_%D8%BA%D8%A7%D9%84%D9%8A%D9%88%D9%85" title="سيلينيد نحاس إنديوم غاليوم – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/CIGS-Solarzelle" title="CIGS-Solarzelle – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Cellule_CIGS" title="Cellule CIGS – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ga"><a href="https://ga.wikipedia.org/wiki/Cill_seil%C3%A9iniam" title="Cill seiléiniam – Irish" lang="ga" hreflang="ga" class="interlanguage-link-target">Gaeilge</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Modulo_fotovoltaico_CIGS" title="Modulo fotovoltaico CIGS – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/C%C3%A9lula_solar_CIGS" title="Célula solar CIGS – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q31887#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 30 November 2016, at 16:36.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Copper_indium_gallium_selenide_solar_cells&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":66,"wgHostname":"mw1184"});});</script>
+	</body>
+</html>

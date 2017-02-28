@@ -1,0 +1,684 @@
+url : https://en.wikipedia.org/wiki/Pigovian_tax
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Pigovian tax - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Pigovian_tax","wgTitle":"Pigovian tax","wgCurRevisionId":758283042,"wgRevisionId":758283042,"wgArticleId":372081,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia articles needing style editing from April 2016","All articles needing style editing","All articles with failed verification","Articles with failed verification from June 2013","All articles with unsourced statements","Articles with unsourced statements from May 2012","Articles with unsourced statements from November 2012","Market failure","Ecotax","Ecological economics","1920 in economics"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Pigovian_tax","wgRelevantArticleId":372081,"wgRequestId":"WJEctgpAIDMAAEuwQTIAAAAS","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q931921","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.9"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Pigovian_tax"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Pigovian_tax&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Pigovian_tax&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Pigovian_tax"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Pigovian_tax rootpage-Pigovian_tax skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Pigovian tax</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><table class="plainlinks metadata ambox ambox-style ambox-Tone" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/60px-Edit-clear.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/80px-Edit-clear.svg.png 2x" data-file-width="48" data-file-height="48" /></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article's <b>tone or style may not reflect the <a href="/wiki/Wikipedia:Writing_better_articles#Tone" title="Wikipedia:Writing better articles">encyclopedic tone</a> used on Wikipedia</b>. <span class="hide-when-compact">See Wikipedia's <a href="/wiki/Wikipedia:Writing_better_articles#Tone" title="Wikipedia:Writing better articles">guide to writing better articles</a> for suggestions.</span> <small><i>(April 2016)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></span></td>
+</tr>
+</table>
+<table class="vertical-navbox nowraplinks hlist" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%">
+<tr>
+<th style="padding:0.2em 0.4em 0.2em;font-size:145%;line-height:1.2em"><a href="/wiki/Tax" title="Tax">Taxation</a></th>
+</tr>
+<tr>
+<td style="padding:0.2em 0 0.4em"><a href="/wiki/File:Ireland_1959_Impressed_Duty_Stamp.jpg" class="image"><img alt="Ireland 1959 Impressed Duty Stamp.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Ireland_1959_Impressed_Duty_Stamp.jpg/100px-Ireland_1959_Impressed_Duty_Stamp.jpg" width="100" height="156" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Ireland_1959_Impressed_Duty_Stamp.jpg/150px-Ireland_1959_Impressed_Duty_Stamp.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Ireland_1959_Impressed_Duty_Stamp.jpg/200px-Ireland_1959_Impressed_Duty_Stamp.jpg 2x" data-file-width="307" data-file-height="480" /></a></td>
+</tr>
+<tr>
+<td style="padding:0.3em 0.4em 0.3em;font-weight:bold;border-top: 1px solid #aaa; border-bottom: 1px solid #aaa;">An aspect of <a href="/wiki/Fiscal_policy" title="Fiscal policy">fiscal policy</a></td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left"><a href="/wiki/Tax_policy" title="Tax policy">Policies</a></div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul>
+<li><a href="/wiki/Government_revenue" title="Government revenue">Government revenue</a></li>
+<li><a href="/wiki/Tax_revenue" title="Tax revenue">Tax revenue</a></li>
+<li><a href="/wiki/Non-tax_revenue" title="Non-tax revenue">Non-tax revenue</a></li>
+<li><a href="/wiki/Tax_law" title="Tax law">Tax law</a></li>
+<li><a href="/wiki/Tax_bracket" title="Tax bracket">Tax bracket</a></li>
+<li><a href="/wiki/Income_tax_threshold" title="Income tax threshold">Tax threshold</a></li>
+<li><a href="/wiki/Tax_exemption" title="Tax exemption">Exemption</a></li>
+<li><a href="/wiki/Tax_credit" title="Tax credit">Credit</a></li>
+<li><a href="/wiki/Tax_deduction" title="Tax deduction">Deduction</a></li>
+<li><a href="/wiki/Tax_shift" title="Tax shift">Tax shift</a></li>
+<li><a href="/wiki/Tax_cut" title="Tax cut">Tax cut</a></li>
+<li><a href="/wiki/Tax_holiday" title="Tax holiday">Tax holiday</a></li>
+<li><a href="/wiki/Tax_advantage" title="Tax advantage">Tax advantage</a></li>
+<li><a href="/wiki/Tax_incentive" title="Tax incentive">Tax incentive</a></li>
+<li><a href="/wiki/Tax_reform" title="Tax reform">Tax reform</a></li>
+<li><a href="/wiki/Tax_harmonization" title="Tax harmonization">Tax harmonization</a></li>
+<li><a href="/wiki/Tax_competition" title="Tax competition">Tax competition</a></li>
+<li><a href="/wiki/Double_taxation" title="Double taxation">Double taxation</a></li>
+<li><a href="/wiki/No_taxation_without_representation" title="No taxation without representation">Representation</a></li>
+<li><a href="/wiki/Taxpayer_groups" title="Taxpayer groups">Unions</a></li>
+<li><a href="/wiki/Medical_savings_account" title="Medical savings account">Medical savings account</a></li>
+<li><a href="/wiki/Tax,_tariff_and_trade" class="mw-redirect" title="Tax, tariff and trade">Tax, tariff and trade</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left"><a href="/wiki/Tax#Economics_of_taxation" title="Tax">Economics</a></div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul>
+<li><a href="/wiki/Effect_of_taxes_and_subsidies_on_price" title="Effect of taxes and subsidies on price">Price effect</a></li>
+<li><a href="/wiki/Excess_burden_of_taxation" title="Excess burden of taxation">Excess burden</a></li>
+<li><a href="/wiki/Tax_incidence" title="Tax incidence">Tax incidence</a></li>
+<li><a href="/wiki/Laffer_curve" title="Laffer curve">Laffer curve</a></li>
+<li><a href="/wiki/Optimal_tax" title="Optimal tax">Optimal tax</a></li>
+<li><a href="/wiki/Theory_of_taxation" title="Theory of taxation">Theory</a></li>
+<li><a href="/wiki/Optimal_capital_income_taxation" title="Optimal capital income taxation">Optimal capital income taxation</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left"><a href="/wiki/Tax_collection" class="mw-redirect" title="Tax collection">Collection</a></div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul>
+<li><a href="/wiki/Revenue_service" title="Revenue service">Revenue service</a></li>
+<li><a href="/wiki/Revenue_stamp" title="Revenue stamp">Revenue stamp</a></li>
+<li><a href="/wiki/Tax_assessment" title="Tax assessment">Tax assessment</a></li>
+<li><a href="/wiki/Taxable_income" title="Taxable income">Taxable income</a></li>
+<li><a href="/wiki/Tax_lien" title="Tax lien">Tax lien</a></li>
+<li><a href="/wiki/Tax_refund" title="Tax refund">Tax refund</a></li>
+<li><a href="/wiki/Tax_shield" title="Tax shield">Tax shield</a></li>
+<li><a href="/wiki/Tax_residence" title="Tax residence">Tax residence</a></li>
+<li><a href="/wiki/Tax_preparation" title="Tax preparation">Tax preparation</a></li>
+<li><a href="/wiki/Tax_investigation" title="Tax investigation">Tax investigation</a></li>
+<li><a href="/wiki/Tax_shelter" title="Tax shelter">Tax shelter</a></li>
+<li><a href="/wiki/Privatized_tax_collection" title="Privatized tax collection">Private tax collection</a></li>
+<li><a href="/wiki/Tax_farming" class="mw-redirect" title="Tax farming">Tax farming</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left"><a href="/wiki/Tax_noncompliance" title="Tax noncompliance">Noncompliance</a></div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul>
+<li><a href="/wiki/Tax_avoidance" title="Tax avoidance">Tax avoidance</a></li>
+<li><a href="/wiki/Tax_evasion" title="Tax evasion">Tax evasion</a></li>
+<li><a href="/wiki/Tax_resistance" title="Tax resistance">Tax resistance</a></li>
+<li><a href="/wiki/Tax_haven" title="Tax haven">Tax haven</a></li>
+<li><a href="/wiki/Smuggling" title="Smuggling">Smuggling</a></li>
+<li><a href="/wiki/Black_market" title="Black market">Black market</a></li>
+<li><a href="/wiki/Transfer_mispricing" title="Transfer mispricing">Transfer mispricing</a></li>
+<li><a href="/wiki/Unreported_employment" title="Unreported employment">Unreported employment</a></li>
+<li><a href="/wiki/Tax_shelter" title="Tax shelter">Tax shelter</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left">Distribution</div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul>
+<li><a href="/wiki/Tax_rate" title="Tax rate">Tax rate</a></li>
+<li><a href="/wiki/Progressive_tax" title="Progressive tax">Progressive</a></li>
+<li><a href="/wiki/Regressive_tax" title="Regressive tax">Regressive</a></li>
+<li><a href="/wiki/Proportional_tax" title="Proportional tax">Proportional</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left"><a href="/wiki/List_of_taxes" title="List of taxes">Types</a></div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul>
+<li><a href="/wiki/Direct_tax" title="Direct tax">Direct</a></li>
+<li><a href="/wiki/Indirect_tax" title="Indirect tax">Indirect</a></li>
+<li><a href="/wiki/Per_unit_tax" title="Per unit tax">Per unit</a></li>
+<li><a href="/wiki/Ad_valorem_tax" title="Ad valorem tax">Ad valorem</a></li>
+<li><a href="/wiki/Tax_in_rem" class="mw-redirect" title="Tax in rem">In rem</a></li>
+<li><a href="/wiki/Capital_gains_tax" title="Capital gains tax">Capital gains</a></li>
+<li><a href="/wiki/Carbon_tax" title="Carbon tax">Carbon</a></li>
+<li><a href="/wiki/Consumption_tax" title="Consumption tax">Consumption</a></li>
+<li><a href="/wiki/Dividend_tax" title="Dividend tax">Dividend</a></li>
+<li><a href="/wiki/Ecotax" title="Ecotax">Ecotax</a></li>
+<li><a href="/wiki/Excise" title="Excise">Excise</a></li>
+<li><a href="/wiki/Fuel_tax" title="Fuel tax">Fuel</a></li>
+<li><a href="/wiki/Georgism" title="Georgism">Georgist</a></li>
+<li><a href="/wiki/Gift_tax" title="Gift tax">Gift</a></li>
+<li><a href="/wiki/Gross_receipts_tax" title="Gross receipts tax">Gross receipts</a></li>
+<li><a href="/wiki/Income_tax" title="Income tax">Income</a></li>
+<li><a href="/wiki/Inheritance_tax" title="Inheritance tax">Inheritance (estate)</a></li>
+<li><a href="/wiki/Land_value_tax" title="Land value tax">Land value</a></li>
+<li><a href="/wiki/Payroll_tax" title="Payroll tax">Payroll</a></li>
+<li><strong class="selflink">Pigovian</strong></li>
+<li><a href="/wiki/Property_tax" title="Property tax">Property</a></li>
+<li><a href="/wiki/Sales_tax" title="Sales tax">Sales</a></li>
+<li><a href="/wiki/Sin_tax" title="Sin tax">Sin</a></li>
+<li><a href="/wiki/Single_tax" title="Single tax">Single</a></li>
+<li><a href="/wiki/Stamp_duty" title="Stamp duty">Stamp</a></li>
+<li><a href="/wiki/Steering_tax" title="Steering tax">Steering</a></li>
+<li><a href="/wiki/Turnover_tax" title="Turnover tax">Turnover</a></li>
+<li><a href="/wiki/Value_added_tax" class="mw-redirect" title="Value added tax">Value-added (VAT)</a></li>
+<li><a href="/wiki/Corporate_tax" title="Corporate tax">Corporate profit</a></li>
+<li><a href="/wiki/Excess_profits_tax" title="Excess profits tax">Excess profits</a></li>
+<li><a href="/wiki/Windfall_profits_tax" title="Windfall profits tax">Windfall profits</a></li>
+<li><a href="/wiki/Negative_income_tax" title="Negative income tax">Negative (income)</a></li>
+<li><a href="/wiki/Flat_tax" title="Flat tax">Flat</a></li>
+<li><a href="/wiki/Wealth_tax" title="Wealth tax">Wealth</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left"><a href="/wiki/International_taxation" title="International taxation">International</a></div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul>
+<li><a href="/wiki/Financial_transaction_tax" title="Financial transaction tax">Financial transaction tax</a></li>
+<li><a href="/wiki/Currency_transaction_tax" title="Currency transaction tax">Currency transaction tax</a></li>
+<li><a href="/wiki/Tobin_tax" title="Tobin tax">Tobin tax</a></li>
+<li><a href="/wiki/Spahn_tax" title="Spahn tax">Spahn tax</a></li>
+<li><a href="/wiki/Tax_equalization" title="Tax equalization">Tax equalization</a></li>
+<li><a href="/wiki/Tax_treaty" title="Tax treaty">Tax treaty</a></li>
+<li><a href="/wiki/Permanent_establishment" title="Permanent establishment">Permanent establishment</a></li>
+<li><a href="/wiki/Transfer_pricing" title="Transfer pricing">Transfer pricing</a></li>
+<li><a href="/wiki/European_Union_financial_transaction_tax" title="European Union financial transaction tax">European Union FTT</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left"><a href="/wiki/Trade" title="Trade">Trade</a></div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul>
+<li><a href="/wiki/Customs" title="Customs">Custom</a></li>
+<li><a href="/wiki/Duty_(economics)" title="Duty (economics)">Duty</a></li>
+<li><a href="/wiki/Tariff" title="Tariff">Tariff</a>
+<ul>
+<li><a href="/wiki/Import" title="Import">Import</a></li>
+<li><a href="/wiki/Export" title="Export">Export</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Customs_war" title="Customs war">Tariff war</a></li>
+<li><a href="/wiki/Free_trade" title="Free trade">Free trade</a></li>
+<li><a href="/wiki/Free_trade_zone" class="mw-redirect" title="Free trade zone">Free trade zone</a></li>
+<li><a href="/wiki/Trade_agreement" title="Trade agreement">Trade agreement</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left"><a href="/wiki/Religion" title="Religion">Religious</a></div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul>
+<li><a href="/wiki/Church_tax" title="Church tax">Church tax</a></li>
+<li><a href="/wiki/Eight_per_thousand" title="Eight per thousand">Eight per thousand</a></li>
+<li><a href="/wiki/Teind" title="Teind">Teind</a></li>
+<li><a href="/wiki/Tithe" title="Tithe">Tithe</a></li>
+<li><a href="/wiki/Fiscus_Judaicus" title="Fiscus Judaicus">Fiscus Judaicus</a></li>
+<li><a href="/wiki/Leibzoll" title="Leibzoll">Leibzoll</a></li>
+<li><a href="/wiki/Temple_tax" title="Temple tax">Temple tax</a></li>
+<li><a href="/wiki/Tolerance_tax" title="Tolerance tax">Tolerance tax</a></li>
+<li><a href="/wiki/Jizya" title="Jizya">Jizya</a></li>
+<li><a href="/wiki/Kharaj" title="Kharaj">Kharaj</a></li>
+<li><a href="/wiki/Khums" title="Khums">Khums</a></li>
+<li><a href="/wiki/Nisab" title="Nisab">Nisab</a></li>
+<li><a href="/wiki/Zakat" title="Zakat">Zakat</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left"><a href="/wiki/Category:Taxation_by_country" title="Category:Taxation by country">By country</a></div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul>
+<li><a href="/wiki/List_of_countries_by_tax_rates" title="List of countries by tax rates">List of countries by tax rates</a></li>
+<li><a href="/wiki/List_of_countries_by_tax_revenue_as_percentage_of_GDP" title="List of countries by tax revenue as percentage of GDP">Tax revenues as %GDP</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/Tax_system_in_Albania" class="mw-redirect" title="Tax system in Albania">Albania</a></li>
+<li><a href="/wiki/Taxation_in_Algeria" title="Taxation in Algeria">Algeria</a></li>
+<li><a href="/wiki/Taxation_in_Argentina" title="Taxation in Argentina">Argentina</a></li>
+<li><a href="/wiki/Taxation_in_Australia" title="Taxation in Australia">Australia</a></li>
+<li><a href="/wiki/Taxation_in_Azerbaijan" title="Taxation in Azerbaijan">Azerbaijan</a></li>
+<li><a href="/wiki/Taxation_in_Bangladesh" title="Taxation in Bangladesh">Bangladesh</a></li>
+<li><a href="/wiki/Taxation_in_Bhutan" title="Taxation in Bhutan">Bhutan</a></li>
+<li><a href="/wiki/Taxation_in_Bulgaria" title="Taxation in Bulgaria">Bulgaria</a></li>
+<li><a href="/wiki/Taxation_in_Canada" title="Taxation in Canada">Canada</a></li>
+<li><a href="/wiki/Taxation_in_the_People%27s_Republic_of_China" class="mw-redirect" title="Taxation in the People's Republic of China">China</a></li>
+<li><a href="/wiki/Taxation_in_Colombia" title="Taxation in Colombia">Colombia</a></li>
+<li><a href="/wiki/Taxation_in_France" title="Taxation in France">France</a></li>
+<li><a href="/wiki/Taxation_in_Germany" title="Taxation in Germany">Germany</a></li>
+<li><a href="/wiki/Taxation_in_Greece" title="Taxation in Greece">Greece</a></li>
+<li><a href="/wiki/Taxation_in_Iceland" title="Taxation in Iceland">Iceland</a></li>
+<li><a href="/wiki/Taxation_in_India" title="Taxation in India">India</a></li>
+<li><a href="/wiki/Taxation_in_Indonesia" title="Taxation in Indonesia">Indonesia</a></li>
+<li><a href="/wiki/Taxation_in_Iran" title="Taxation in Iran">Iran</a></li>
+<li><a href="/wiki/Taxation_in_the_Republic_of_Ireland" title="Taxation in the Republic of Ireland">Ireland</a></li>
+<li><a href="/wiki/Taxation_in_Israel" title="Taxation in Israel">Israel</a></li>
+<li><a href="/wiki/Taxation_in_Italy" title="Taxation in Italy">Italy</a></li>
+<li><a href="/wiki/Taxation_in_Japan" title="Taxation in Japan">Japan</a></li>
+<li><a href="/wiki/Taxation_in_Kazakhstan" title="Taxation in Kazakhstan">Kazakhstan</a></li>
+<li><a href="/wiki/Taxation_in_Lithuania" title="Taxation in Lithuania">Lithuania</a></li>
+<li><a href="/wiki/Taxation_in_Malta" title="Taxation in Malta">Malta</a></li>
+<li><a href="/wiki/Taxation_in_Namibia" title="Taxation in Namibia">Namibia</a></li>
+<li><a href="/wiki/Taxation_in_the_Netherlands" title="Taxation in the Netherlands">Netherlands</a></li>
+<li><a href="/wiki/Taxation_in_New_Zealand" title="Taxation in New Zealand">New Zealand</a></li>
+<li><a href="/wiki/Taxation_in_Norway" title="Taxation in Norway">Norway</a></li>
+<li><a href="/wiki/Taxation_in_Pakistan" title="Taxation in Pakistan">Pakistan</a></li>
+<li><a href="/wiki/Taxation_in_the_Palestinian_territories" class="mw-redirect" title="Taxation in the Palestinian territories">Palestinian territories</a></li>
+<li><a href="/wiki/Taxation_in_Peru" title="Taxation in Peru">Peru</a></li>
+<li><a href="/wiki/Taxation_in_the_Philippines" title="Taxation in the Philippines">Philippines</a></li>
+<li><a href="/wiki/Taxation_in_Poland" title="Taxation in Poland">Poland</a></li>
+<li><a href="/wiki/Taxation_in_Russia" title="Taxation in Russia">Russia</a></li>
+<li><a href="/wiki/Taxation_in_Singapore" class="mw-redirect" title="Taxation in Singapore">Singapore</a></li>
+<li><a href="/wiki/Taxation_in_South_Africa" title="Taxation in South Africa">South Africa</a></li>
+<li><a href="/wiki/Taxation_in_Sweden" title="Taxation in Sweden">Sweden</a></li>
+<li><a href="/wiki/Taxation_in_Switzerland" title="Taxation in Switzerland">Switzerland</a></li>
+<li><a href="/wiki/Taxation_in_Tanzania" title="Taxation in Tanzania">Tanzania</a></li>
+<li><a href="/wiki/Taxation_in_the_United_Kingdom" title="Taxation in the United Kingdom">United Kingdom</a></li>
+<li><a href="/wiki/Taxation_in_the_United_States" title="Taxation in the United States">United States</a></li>
+<li><a href="/wiki/Taxation_in_Uruguay" title="Taxation in Uruguay">Uruguay</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;font-size:115%;padding-top: 0.6em;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Taxation" title="Template:Taxation"><abbr title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Taxation" title="Template talk:Taxation"><abbr title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Taxation&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<p>A <b>Pigovian tax</b> (also spelled <b>Pigouvian tax</b>) is a <a href="/wiki/Tax" title="Tax">tax</a> levied on any market activity that generates negative <a href="/wiki/Externality" title="Externality">externalities</a> (costs not internalized in the market price). The tax is intended to correct an inefficient <a href="/wiki/Economic_equilibrium" title="Economic equilibrium">market outcome</a>, and does so by being set equal to the social cost of the negative externalities. In the presence of negative externalities, the <a href="/wiki/Social_cost" title="Social cost">social cost</a> of a market activity is not covered by the private cost of the activity. In such a case, the market outcome is not <a href="/wiki/Economic_efficiency" title="Economic efficiency">efficient</a> and may lead to over-consumption of the product.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> An often-cited example of such an externality is environmental pollution.<sup id="cite_ref-Baumol1972_2-0" class="reference"><a href="#cite_note-Baumol1972-2">[2]</a></sup></p>
+<p>In the presence of positive externalities, i.e., public benefits from a market activity, those who receive the benefit do not pay for it and the market may under-supply the product. Similar logic suggests the creation of a <b>Pigovian subsidy</b> to make the users pay for the extra benefit and spur more production.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> An example sometimes cited is a <a href="/wiki/Subsidy" title="Subsidy">subsidy</a> for provision of flu vaccine.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></p>
+<p>Pigovian taxes are named after English <a href="/wiki/Economist" title="Economist">economist</a> <a href="/wiki/Arthur_Cecil_Pigou" title="Arthur Cecil Pigou">Arthur Pigou</a> who also developed the concept of economic externalities. <a href="/wiki/William_Baumol" title="William Baumol">William Baumol</a> was instrumental in framing Pigou's work in modern economics.<sup id="cite_ref-Baumol1972_2-1" class="reference"><a href="#cite_note-Baumol1972-2">[2]</a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Pigou.27s_original_argument"><span class="tocnumber">1</span> <span class="toctext">Pigou's original argument</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Working_of_the_Pigovian_tax"><span class="tocnumber">2</span> <span class="toctext">Working of the Pigovian tax</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Lump-sum_tax_subsidy"><span class="tocnumber">3</span> <span class="toctext">Lump-sum tax subsidy</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Double-dividend_hypothesis"><span class="tocnumber">4</span> <span class="toctext">Double-dividend hypothesis</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Pigovian_tax_and_distortionary_taxation"><span class="tocnumber">5</span> <span class="toctext">Pigovian tax and distortionary taxation</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Alternatives"><span class="tocnumber">6</span> <span class="toctext">Alternatives</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#No_intervention_.28direct_negotiation_between_parties.29"><span class="tocnumber">6.1</span> <span class="toctext">No intervention (direct negotiation between parties)</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Firm_limits"><span class="tocnumber">6.2</span> <span class="toctext">Firm limits</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Cap_and_trade"><span class="tocnumber">6.3</span> <span class="toctext">Cap and trade</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#Criticisms"><span class="tocnumber">7</span> <span class="toctext">Criticisms</span></a>
+<ul>
+<li class="toclevel-2 tocsection-11"><a href="#Measurement_problem"><span class="tocnumber">7.1</span> <span class="toctext">Measurement problem</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Reciprocal_cost_problem"><span class="tocnumber">7.2</span> <span class="toctext">Reciprocal cost problem</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Political_problem"><span class="tocnumber">7.3</span> <span class="toctext">Political problem</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-14"><a href="#See_also"><span class="tocnumber">8</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#References"><span class="tocnumber">9</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#Further_reading"><span class="tocnumber">10</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#External_links"><span class="tocnumber">11</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Pigou.27s_original_argument">Pigou's original argument</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pigovian_tax&amp;action=edit&amp;section=1" title="Edit section: Pigou's original argument">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In 1920, British economist Arthur C. Pigou wrote <i>The Economics of Welfare</i>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> In it, Pigou argues that industrialists seek their own marginal private interest. When the marginal social interest diverges from the marginal private interest, the industrialist has no incentive to internalize the cost of the marginal social cost. Conversely, Pigou argues, if an industry produces a marginal social benefit, the individuals receiving the benefit have no incentive to pay for that service. Pigou refers to these situations as incidental uncharged disservices and incidental uncharged services, respectively.</p>
+<p>Pigou provides numerous illustrations of incidental uncharged disservices. For example, if a contractor builds a factory in the middle of a crowded neighborhood, the factory causes these incidental uncharged disservices: higher congestion, loss of light, and a loss of health for the neighbors. He also references businesses that sell alcohol. The sale of alcohol necessitates higher costs in policemen and prisons, Pigou argues, because of the crime associated with alcohol. In other words, the net private product of alcohol businesses is peculiarly large relative to the net social product of the same business. He suggests that this is why most countries tax alcohol businesses.</p>
+<p>The divergence between the marginal private interest and the marginal social interest produces two primary results. First, as already noted, the party receiving the social benefit does not pay for it, and the one creating the social harm does not pay for it. Second, when the marginal social cost exceeds the private marginal benefit, the cost-creator over-produces the product. Ultimately, because <a href="/wiki/Pecuniary_externality" title="Pecuniary externality">non-pecuniary externalities</a> overestimate the social value, they are over-produced.</p>
+<p>To deal with over-production, Pigou recommends a tax placed on the offending producer. If the government can accurately gauge the social cost, the tax could equalize the marginal private cost and the marginal social cost. In more specific terms, the producer would have to pay for the non-pecuniary externality that it created. This would effectively reduce the quantity of the product produced, moving the economy back to a healthy equilibrium.</p>
+<h2><span class="mw-headline" id="Working_of_the_Pigovian_tax">Working of the Pigovian tax</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pigovian_tax&amp;action=edit&amp;section=2" title="Edit section: Working of the Pigovian tax">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Social_cost_with_tax.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Social_cost_with_tax.svg/220px-Social_cost_with_tax.svg.png" width="220" height="141" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Social_cost_with_tax.svg/330px-Social_cost_with_tax.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Social_cost_with_tax.svg/440px-Social_cost_with_tax.svg.png 2x" data-file-width="500" data-file-height="320" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Social_cost_with_tax.svg" class="internal" title="Enlarge"></a></div>
+Pigovian tax effect on output</div>
+</div>
+</div>
+<p>The diagram illustrates the working of a Pigovian tax. A tax shifts the marginal private cost curve up by the amount of the tax. If the tax is placed on the quantity of emissions from the factory, the producers have an incentive to reduce output to the socially optimum level. If the tax is placed on the percentage of emissions per unit of production, the factory has the incentive to change to cleaner processes or technology.</p>
+<h2><span class="mw-headline" id="Lump-sum_tax_subsidy">Lump-sum tax subsidy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pigovian_tax&amp;action=edit&amp;section=3" title="Edit section: Lump-sum tax subsidy">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In 1980, a new critique of Pigovian taxes emerged from <a href="/w/index.php?title=Dennis_Carlton&amp;action=edit&amp;redlink=1" class="new" title="Dennis Carlton (page does not exist)">Dennis Carlton</a> and <a href="/wiki/Glenn_Loury" title="Glenn Loury">Glenn Loury</a>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> They argued that Pigovian taxes alone would not create an efficient outcome in the long-run, because the taxes controlled only the scale of the individual firms, not the number of firms in the particular industry. In the case of pollution, if the firms each produced a fraction of what they produced before, but the number of firms increased exponentially, the amount of pollution would still increase. To prevent this, Carlton and Loury recommend a policy with the potential to regulate the number of firms in an industry: lump-sum taxes or lump-sum subsidies.</p>
+<p>Carlton and Loury present four basic arguments in their article. First, Pigovian taxes work in the short-term, because the number of firms cannot vary. Second, Pigovian taxes do not work in the long-term because the number of firms can vary. Third, an industry with a specific number of firms and scale can achieve the long-run social optimum (LRSO). The best option is to add an entry tax for potential firms and a subsidy for current firms to restrict a movement in the number of firms. Fourth, it is possible for a tax policy to create a LRSO.</p>
+<p>Robert Kohn responded to this article in "The Limitations of Pigouvian Taxes as a Long-Run Remedy for Externalities: Comment," saying that a Pigovian tax on pollution emissions can, in fact, create the long-run social optimum without a lump-sum tax-subsidy.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> Carlton and Loury responded the same month, clarifying that they were discussing a Pigovian tax on output; whereas, Kohn was discussing a Pigovian tax on emissions.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> Carlton and Loury provide numerical proofs as to why these are different. Ultimately, they argue that there are some cases in which a single tax on emissions will produce the LRSO and others in which a single tax on output will attain the LRSO. Either case only works with the taxes properly determined.</p>
+<h2><span class="mw-headline" id="Double-dividend_hypothesis">Double-dividend hypothesis</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pigovian_tax&amp;action=edit&amp;section=4" title="Edit section: Double-dividend hypothesis">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The double-dividend hypothesis proposes that a revenue-neutral substitution of environmental taxes for revenue-raising taxes might offer two benefits. The idea was first advanced by Tullock (1967) in a paper titled 'Excess Benefit'.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> The first benefit (or dividend) is the benefit or welfare gain resulting from an improvement in the environment (less pollution), and the second dividend or benefit is due to a reduction in the distortions of the revenue-raising tax system, which also produces an improvement in welfare. This idea received scant attention until the early 1990s, when the economics of climate change attracted attention to the topic of environmental taxes. The term 'double dividend' became widely used following its introduction by David Pearce in 1991. Pearce noted that estimates of the marginal excess burden (marginal distortionary cost) of existing levels of taxation in the US economy are between 20 and 50 cents per dollar of revenue collected. Because the revenue from the carbon tax would be recycled (used to lower preexisting and distorting taxes), the policy would be revenue-neutral, and the secondary benefit from revenue recycling would justify an even higher carbon tax. It is generally accepted now that the magnitude of the "revenue-recycling" benefit is lower than the 20–50 cents per dollar of revenue, but there are differing views on whether the second effect is positive or negative. The line of argument suggesting that the second “benefit” is negative proposes a previously unrecognized “tax interaction effect” (Bovenberg and de Mooij 1994).<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></p>
+<p>In a 1997 paper, Don Fullerton and Gilbert E. Metcalf evaluated the double dividend hypothesis.<sup id="cite_ref-Fullerton_42_11-0" class="reference"><a href="#cite_note-Fullerton_42-11">[11]</a></sup> They define the double-dividend hypothesis as the theory that environmental taxes can improve the environment and increase economic efficiency simultaneously. Either motivation can legitimately support a tax reform. The first dividend intuitively makes sense: decreasing pollutant emissions improves the environment. The improvement in economic efficiency results from a shift away from distorting taxes such as the income tax. Fullerton and Metcalf note that for every $1 extracted in taxes, a $1.35 burden falls on the economy. In a sense, the private sector must swallow a 35 cent excess burden for no particular reason. The second dividend aims to eliminate some of this excess burden.</p>
+<p>Tempting as it may be to try, Fullerton and Metcalf argue, the validity of the double-dividend theory cannot be established as a whole. An observer must evaluate each circumstance individually. Fullerton and Metcalf do provide guidelines for this analysis. Two questions help shape this analysis: what is the status quo? What are the specifics of the reform? The amount and nature of the current taxes, permits, and regulations greatly influence the results of the additional tax. Also, where the tax revenue goes greatly affects the success of the tax.</p>
+<p>Secondly, Fullerton and Metcalf say the previous literature on Pigovian taxes focused too heavily on the revenue dividend and too lightly on the environmental dividend of environmental taxes. Their predecessors naively value revenue too much, Fullerton and Metcalf argue, because they fail to recognize that all taxes impose costs on someone. These taxes could outweigh the environmental benefit. Thus, the government must use the Pigovian tax revenue to lower another tax if it wants to minimize the economic damage of a tax.</p>
+<p>Fullerton and Metcalf also mention that the effectiveness of any sort of Pigovian tax depends on whether it supplements or replaces an existing pollution regulation. If the tax replaces a pollution regulation, it will most likely be environmentally neutral, even if it is revenue-positive. If it supplements the regulation, it may or may not be environmentally and revenue-neutral, depending on the effectiveness of the original regulation. The status quo substantially affects the outcome of a proposed tax.</p>
+<h2><span class="mw-headline" id="Pigovian_tax_and_distortionary_taxation">Pigovian tax and distortionary taxation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pigovian_tax&amp;action=edit&amp;section=5" title="Edit section: Pigovian tax and distortionary taxation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Lans_Bovenberg" title="Lans Bovenberg">A. Lans Bovenberg</a> and Ruud A. Mooij argue that there is a first-best case scenario and a second-best case scenario in their article “Environmental Levies and Distortionary Taxation."<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> In the first-best case, the government does not need to get revenue from distortionary taxes such as the income tax, and the Pigovian tax can create the long-run social optimum. In the real world, second-best case, the status quo includes an income tax that distorts the labor supply. In this situation, Bovenberg and Mooij write that the best tax comes in below the level of the Pigovian tax.</p>
+<p>Bovenberg and Mooij establish that households consume a dirty good (D) and a clean good (C). If the government taxes D, it can use the earned revenue to lower the labor income tax. At the same time, the tax levied on the firm will increase the price of D. The lowered income tax and the higher consumer prices even each other out, stabilizing the real net wage. But because C’s price has not changed and it can substitute for D, consumers will buy C instead of D. Suddenly the government’s environmental tax base has eroded and its revenue with it. The government then cannot afford to keep the labor income tax down. Bovenberg and Mooij posit that the increase in the price of goods will outweigh the slight decrease in the income tax. Labor and leisure become more interchangeable the lower the real net wage (or after-tax wage) falls. With this decrease in the real net wage, more people leave the job market. Ultimately, labor bears the cost of all public goods.</p>
+<p>Goulder, Parry, and Burtraw agree that the net social welfare after the implementation of a tax hinges on the preexisting tax rate. Don Fullerton agreed with this analysis in 1997 in his article “Environmental Levies and Distortionary Taxation: Comment.”<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup> He added that lowering the income tax and taxing the dirty good equates with raising the labor tax and subsidizing the clean product. These two polices create the same effects, Fullerton says.</p>
+<p>In 1998, Fullerton and Gilbert E. Metcalf explain this theory more thoroughly. They begin by defining terms. The gross wage reflects the pre-tax wage a laborer receives.<sup id="cite_ref-Fullerton_42_11-1" class="reference"><a href="#cite_note-Fullerton_42-11">[11]</a></sup> The simplest form of the net wage is the pre-tax wage minus the income tax. In reality, however, the net wage is the gross wage times one minus the tax rate, all divided by the price of consumption goods. With the status quo income tax, <a href="/wiki/Deadweight_loss" title="Deadweight loss">deadweight loss</a> exists. Any addition to the price of consumption goods or an increase in the income tax extends the deadweight loss further. Either of these scenarios lowers the net wage, reducing the supply of labor offered. Supply of labor decreases because of the labor/leisure interchange. If someone gets paid very little, he or she may decide it is no longer worth his or her time to continue in that job. Thus, employment decreases. If the Pigovian tax, which increases the price of consumption goods, replaces the income tax, Fullerton argues that the net wage is not affected.</p>
+<p>This rejection of the double dividend hypothesis found in the “tax interaction” literature was met with surprise and skepticism among economists for a variety of reasons. There are multiple sources of ambiguity, differing definitions of what constitutes a ‘double dividend’, and confusion caused when comparing models with direct versus indirect tax programs, reliance on comparisons with an unreliable benchmark, and misinterpretation of notation in the literature.</p>
+<p>Although the central question for the double dividend hypothesis and the tax interaction literature has been whether the welfare gains from environmental taxation in a second-best world are larger or smaller than in a first-best setting, the Tax Interaction literature takes this central question and frames it indirectly, by asking whether the second-best optimal environmental tax is higher or lower than the first-best Pigouvian rate. This question, too, is not answered directly, because the first-best Pigouvian rate is replaced by a definition of marginal social damages, the value of which changes with the tax level and tax program normalization. This becomes an unreliable and shifting benchmark (Jaeger 2011).<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup></p>
+<p>In retrospect, three factors contributed to misleading interpretations in the TI literature: an algebraic error, the use of an unreliable benchmark, and unrecognized compounding or double taxation. As a result, the conclusion that a large, previously unnoticed distortionary tax interaction effect existed can be seen as partly due to misinterpretations (Jaeger 2013).<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup> Despite these sources of confusion, it remains the case that a) the possibility of a double dividend depends on specifics specific to the demands and the economy in which an environmental tax is being considered, and b) that the efficiency gains with revenue recycling will be greater, potentially significantly greater, than when revenues are not collected and used to reduce pre-existing revenue-raising taxes. Various research studies using numerical models find evidence in support of the double dividend hypothesis (Jorgensen et al., 2013).<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup></p>
+<p>Despite recent controversy on this topic, the conclusions that can be drawn are in keeping with economic intuition. Environmental and revenue-raising taxes are complementary tools for achieving two different kinds of government goals: the provision of public goods with revenue-motivated taxes and the protection of environmental quality with corrective taxes. Indeed, the joint pursuit of these two goals through taxation can enable government to justify doing more of each by making the optimal environmental tax higher than it would be otherwise, and by lowering the distortionary cost of financing the provision of public goods.</p>
+<h2><span class="mw-headline" id="Alternatives">Alternatives</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pigovian_tax&amp;action=edit&amp;section=6" title="Edit section: Alternatives">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Pigovian tax is a method commonly used by governments as it has relatively low transaction costs associated with implementation. Other methods such as command and control regulations or subsidies assume that the government has a complete knowledge of the market, which is almost never the case, and can often lead to inefficiencies and market failure through rent seeking behavior by individuals and firms.</p>
+<h3><span class="mw-headline" id="No_intervention_.28direct_negotiation_between_parties.29">No intervention (direct negotiation between parties)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pigovian_tax&amp;action=edit&amp;section=7" title="Edit section: No intervention (direct negotiation between parties)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Economist <a href="/wiki/Ronald_Coase" title="Ronald Coase">Ronald Coase</a> argued that individuals can come to an agreement with an efficient result without the need for a third party when transaction costs are low.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup> He says it is less expensive and less difficult for two neighbors to come to an agreement about a fence, the amount of noise, or the amount of smoke than it is for these two neighbors to approach a third party to solve the situation for them. Even when several parties are involved, outside interference could result in an inefficient outcome.</p>
+<p>Yet, in dynamic settings Coasean bargaining ex post may lead to inefficient investments ex ante (the so-called <a href="/wiki/Hold-up_problem" title="Hold-up problem">hold-up problem</a>). For this reason, some authors have argued that unconstrained Coasean bargaining may actually justify Pigouvian taxation.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup><sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup></p>
+<h3><span class="mw-headline" id="Firm_limits">Firm limits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pigovian_tax&amp;action=edit&amp;section=8" title="Edit section: Firm limits">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Instead of taxing the negative externality producer, government could regulate the production of that negative externality. Fullerton and Metcalf argue that restricting the amount of pollution that all firms in an industry can produce will indirectly reduce the output of all firms.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup><sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability"><span title="The material near this tag failed verification of its source citation(s). (June 2013)">not in citation given</span></a></i>]</sup> This comprehensive supply reduction will automatically raise the consumption price of the good. These types of command-and-control restrictions stimulate cartel-like profits. Fullerton and Metcalf assert that production costs do not change, and assert that the companies can earn profits over and above what is earned before the regulations even with selling a lower quantity of goods. If the production cost of all firms increased simultaneously due to a regulation, the firms may be able to increase the price uniformly. They do not consider the elasticity of products and that's effect on the quantity of demand and the industry's final profits.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (May 2012)">citation needed</span></a></i>]</sup></p>
+<h3><span class="mw-headline" id="Cap_and_trade">Cap and trade</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pigovian_tax&amp;action=edit&amp;section=9" title="Edit section: Cap and trade">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote">Main article: <a href="/wiki/Emissions_trading" title="Emissions trading">Emissions trading</a></div>
+<p>Another alternative to applying Pigovian taxation is for government to place a limit on the total amount of the production of the output causing the negative externality and create a market for rights to generate that specific output. In the United States since the late 1970s, and in other developed nations since the 1980s, the concept of a market for "pollution rights" has emerged. Giving out the rights for free (or at less than market price) allows polluters to lose less profit or even gain profits (by selling their rights) relative to the unaltered market case.</p>
+<p>Goulder, Perry, and Burtraw suggest that selling permits to firms is the best option, but recognize that many firms in the status quo are grandfathered in, meaning they are given exemptions.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup> The authors include an example of the U.S. regulations in coal-fired electrical power plants that require the reduction of 10 million tons of sulfur dioxide emissions. They estimate that more than half of the $907 million preexisting taxes could have been eliminated by auctioning off the permits rather than grandfathering them.</p>
+<h2><span class="mw-headline" id="Criticisms">Criticisms</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pigovian_tax&amp;action=edit&amp;section=10" title="Edit section: Criticisms">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Most of the criticism of the Pigovian tax relates to the determination of the tax and the implementation. Pigou and <a href="/wiki/Friedrich_Hayek" title="Friedrich Hayek">Friedrich Hayek</a> point out that the assumption that the government can determine the marginal social cost of a negative externality and convert that amount into a monetary value is a weakness of the Pigovian tax. <a href="/wiki/William_Baumol" title="William Baumol">William Baumol</a> suggests that the measurement of social cost is almost impossible. <a href="/wiki/Ronald_Coase" title="Ronald Coase">Ronald Coase</a> argues that all social costs are reciprocal in nature, so, once the tax is set, it must not be changed. Others point out that political factors can complicate the implementation of a Pigovian tax.</p>
+<h3><span class="mw-headline" id="Measurement_problem">Measurement problem</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pigovian_tax&amp;action=edit&amp;section=11" title="Edit section: Measurement problem">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Arthur Pigou said: "It must be confessed, however, that we seldom know enough to decide in what fields and to what extent the State, on account of [the gaps between private and public costs] could interfere with individual choice."<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup> In other words, the economist's blackboard "model" assumes knowledge we don't possess&#160;–  it's a model with assumed "givens" which are in fact <i>not</i> given to anyone. <a href="/wiki/Friedrich_Hayek" title="Friedrich Hayek">Friedrich Hayek</a> would argue that this is knowledge which could not be provided as a "given" by any "method" yet discovered, due to insuperable cognitive limits.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (November 2012)">citation needed</span></a></i>]</sup></p>
+<p><a href="/wiki/William_Baumol" title="William Baumol">William Baumol</a> as well as Polodoo (2008) have argued that it is extraordinarily difficult to measure the social costs of any externality, especially because many costs are psychological and individual.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup> Even if a measurement of the psychological effect of some externality did exist, it would be impossible to collect that data for all individuals affected and then find the optimum output level. Since it is not possible to find the optimum output level, it is not possible to find the optimum Pigovian tax level to achieve that optimum. In the end, Baumol argues that the best solution is to set a minimum standard of acceptability for negative externalities, and create tax systems to achieve those minimum standards. Baumol points out that government committees have a tradition of agreeing on minimum standards, so the practicality of this solution is reasonable.</p>
+<p><a href="/wiki/Peter_Boettke" title="Peter Boettke">Peter Boettke</a> brings forth that "The Pigouvian remedy was to bring marginal private costs (subjectively understood) into line with marginal social costs (objectively understood). The problem, <a href="/wiki/James_M._Buchanan" title="James M. Buchanan">James M. Buchanan</a> pointed out, was that the analyst had to specify the conditions under which objectively measurable costs could be ascertained by economic and policy actors. In general competitive equilibrium there are also no deviations between marginal private costs and marginal social costs. In other words, Buchanan (like <a href="/wiki/Ronald_Coase" title="Ronald Coase">Ronald Coase</a>) pointed out that Pigovian tax remedies are either possible and redundant, or impossible to set because the conditions presupposed for their establishment either eliminate their necessity or (if absent) preclude their enactment." In other words, "<a href="/w/index.php?title=Karen_I._Vaughn&amp;action=edit&amp;redlink=1" class="new" title="Karen I. Vaughn (page does not exist)">Karen I. Vaughn</a> has pointed out the dilemma involved in this situation. To calculate the appropriate corrective tax, the policymaker must know the equilibrium price; yet the situation demanding correction implies a disequilibrium situation."<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup><sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup></p>
+<h3><span class="mw-headline" id="Reciprocal_cost_problem">Reciprocal cost problem</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pigovian_tax&amp;action=edit&amp;section=12" title="Edit section: Reciprocal cost problem">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Ronald_Coase" title="Ronald Coase">Ronald Coase</a> argues that the tax placed on an industry creating a negative externality should not be changed after it is implemented.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup> The crux of his argument is that all social costs are reciprocal in nature. Coase argues that a factory emitting smoke is not entirely responsible for the social harm of smoky air. If the factory were not there, no one would suffer from smoky air, and if the people were not there, no one would suffer from smoky air. Because of this reciprocity of harm, Coase argues that neither party bears sole responsibility for the social harm, so neither party should pay the full cost.</p>
+<p>The social harm gets worse, Coase argues, if only one offender pays for the social harm. If the smoke-emitting factory must pay dearly for all its smoke, it will reduce its quantity of production or buy the necessary technology to reduce its smoke rate. With the advent of clean air, neighbors may move into the area. This immediately increases the marginal social cost of smoke, which would require a tax increase on the factory. Essentially, each time the tax increases, the population increases and the marginal cost of the status quo increases again, so the factory is punished for making conditions good enough that people want to move there.</p>
+<p>One complexity of this situation is the multiple local maxima, or the interchangeable best-case scenarios. It all hinges on the numbers. If the cost of abating all smoke is more than the cost to move the neighbors out, the neighbors should move out and let the factory continue emitting smoke. On the other hand, if it costs less to abate the smoke than to move the neighbors, then the factory ought to pay the tax or buy the clean technology to provide clean air for the surrounding residents. Once the optimum solution is implemented, Coase argues that the tax should not change, regardless of changing circumstances. In this case, if a tax is imposed on the factory and some more neighbors move in, the factory tax should not increase.</p>
+<h3><span class="mw-headline" id="Political_problem">Political problem</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pigovian_tax&amp;action=edit&amp;section=13" title="Edit section: Political problem">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Political factors such as lobbying of government by <a href="/wiki/Polluter" class="mw-redirect" title="Polluter">polluters</a> may also tend to reduce the level of the tax levied, which will tend to reduce the mitigating effect of the tax; lobbying of government by special interests who calculate the negative utility of the externality higher than others may also tend to increase the level of the tax levied, which will tend to result in a sub-optimal level of production.</p>
+<p>Political factors can result in complementary problems when pollution opponents assert irrationally high levels of harm or operate from a hidden agenda of extirpating the polluting agent regardless of the prospects for regulating it to cause minimal harm; regulators are then driven to set absurdly high tax levels, possibly high enough to effectively prohibit operation.</p>
+<p>Similarly, lobbyists whose agendas are entirely orthogonal to pollution reduction per se might intervene with regulators to drive tax rates higher or lower, thus preventing optimal operation of the tax. Likely instances of such include organizations intending to lower the polluter's market value as part of a pending plan to buy out its parent entity. Alternatively there might be efforts to drive the polluter's market value higher prior to its sale. Familiar real-world examples of groups intervening for reason unrelated to pollution reduction include opponents of the polluter's (or the polluter's parent organization's) labor practices and groups with seemingly religious opposition to anything connected to nuclear energy.</p>
+<p>Earl A. Thompson and Ronald Batchelder cited one political problem with Pigovian taxes being that if a firm can influence the tax rate or regulations put on it, the results will not be as certain as Pigou and Baumol suggested.<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[27]</a></sup> Baumol responded to this, saying that almost all discussions on Pigovian taxes include the assumption of pure competition.<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[28]</a></sup> This certainly does alter the scenario, but the literature had not ignored it; it had merely used a different set of assumptions.</p>
+<p>Thomas A. Barthold argues in 1994 that actual policy decisions often come from budget requirements, not concern for the environment.<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">[29]</a></sup> The taxes do not always parallel raw economic theory because social benefits and costs are hard to measure. He uses the 1989 Montreal Protocol as an example. President George H. W. Bush signed this protocol that allowed either a permit auction or a tax on ozone-depleting chemicals. Barthold attributes the decision to implement the tax to the pressure on the Ways and Means committee to come up with more consistent revenue.</p>
+<p>The tax policy also did not accord with basic common sense economic principles. For one, it makes sense to impose a tax on the industry that creates the pollution problem, on the activity that emits the harmful chemicals. This particular activity happened to be the use of automobiles with leaky compressor systems, but because of the high administration cost of taxing that many people, the government decided to tax the producers of those chemicals, though they contributed nothing to the actual problems of chlorofluorocarbons in the atmosphere.</p>
+<p>Another evidence of the alternative motivations for this policy is the fact that the base tax increases annually. Does the harm from chlorofluorocarbons increase every year and in the same increment? Who is to say that $1.37 per pound of chlorofluorocarbons is an accurate description of the marginal social cost of pollution? The conspicuous hike in the tax in 1992 that equalized the Energy Policy Act’s budget ignited Barthold’s suspicions. Additionally, exporting firms should not receive exemptions from environmental taxes simply because they are exporting goods. If the motivation for this tax was simply the first dividend, environmental improvement, then all firms, whether or not they export, would be taxed.</p>
+<p>Aside from this frustration, Barthold noted that politicians often prefer regulations with obvious benefits and hidden costs over regulations with hidden benefits and obvious costs. This is one reason why politicians often prefer to hand out permits to firms rather than impose a tax on them, even though the tax is more economically efficient. Free permits create winners of grandfathered firms and losers of the consumer who has to pay more for the same product. According to Barthold, taxation makes losers of the factory producers and indirect winners of the consumers.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pigovian_tax&amp;action=edit&amp;section=14" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="div-col columns column-count column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2;">
+<ul>
+<li><a href="/wiki/Carbon_tax" title="Carbon tax">Carbon tax</a></li>
+<li><a href="/wiki/Carbon_trading" class="mw-redirect" title="Carbon trading">Carbon trading</a></li>
+<li><a href="/wiki/Container_deposit_legislation" title="Container deposit legislation">Container deposit legislation</a></li>
+<li><a href="/wiki/Deposit-refund_system" title="Deposit-refund system">Deposit-refund system</a></li>
+<li><a href="/wiki/Ecotax" title="Ecotax">Ecotax</a></li>
+<li><a href="/wiki/Fat_tax" title="Fat tax">Fat tax</a></li>
+<li><a href="/wiki/Georgism" title="Georgism">Georgism</a> and <a href="/wiki/Geolibertarianism" title="Geolibertarianism">geolibertarianism</a></li>
+<li><a href="/wiki/Land_value_tax" title="Land value tax">Land value tax</a></li>
+<li><a href="/wiki/Pigou_Club" title="Pigou Club">Pigou Club</a> (also called "UDAY" parties in Asia)</li>
+<li><a href="/wiki/Priority_Sector_Lending_Certificates" title="Priority Sector Lending Certificates">Priority Sector Lending Certificates</a></li>
+<li><a href="/wiki/Polluter_pays_principle" title="Polluter pays principle">Polluter pays principle</a></li>
+<li><a href="/wiki/Sin_tax" title="Sin tax">Sin tax</a></li>
+<li><a href="/wiki/Social_cost#Pigouvian_taxes" title="Social cost">Social cost</a></li>
+<li><a href="/wiki/Soda_tax" class="mw-redirect" title="Soda tax">Soda tax</a></li>
+<li><a href="/wiki/Tax_choice" title="Tax choice">Tax choice</a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pigovian_tax&amp;action=edit&amp;section=15" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a href="/wiki/Agnar_Sandmo" title="Agnar Sandmo">Sandmo, Agnar</a> (2008). "Pigouvian taxes," <i><a href="/wiki/The_New_Palgrave_Dictionary_of_Economics" title="The New Palgrave Dictionary of Economics">The New Palgrave Dictionary of Economics</a></i>, 2nd Edition. <a rel="nofollow" class="external text" href="http://www.dictionaryofeconomics.com/article?id=pde2008_P000351">Abstract.</a></span></li>
+<li id="cite_note-Baumol1972-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-Baumol1972_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Baumol1972_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite id="CITEREFBaumol1972" class="citation"><a href="/wiki/William_J._Baumol" class="mw-redirect" title="William J. Baumol">Baumol, W. J.</a> (1972), "On Taxation and the Control of Externalities", <i>American Economic Review</i>, <b>62</b> (3): <a rel="nofollow" class="external text" href="http://stuff.mit.edu/afs/sipb/user/kolya/afs/root.afs/athena/dept/cron/project/urban-sustainability/Discouraging%20Driving_Patrick%20Lynch/Misc/Baumol%20On%20Taxation%20and%20Control%20of%20Externalities.pdf">307–322</a></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APigovian+tax&amp;rft.atitle=On+Taxation+and+the+Control+of+Externalities&amp;rft.aufirst=W.+J.&amp;rft.aulast=Baumol&amp;rft.date=1972&amp;rft.genre=article&amp;rft.issue=3&amp;rft.jtitle=American+Economic+Review&amp;rft.pages=307-322&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=62" class="Z3988"><span style="display:none;">&#160;</span></span>.</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Turvey, Ralph (1963). "On Divergences between Social Cost and Private Cost," Economica<i>, N.S., 30(119), pp. <a rel="nofollow" class="external text" href="http://www.jstor.org/discover/10.2307/2601550?uid=3739936&amp;uid=2&amp;uid=4&amp;uid=3739256&amp;sid=21101938505647">309</a>–313.</i></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">• Carlton, Dennis W., and <a href="/wiki/Glenn_C._Loury" class="mw-redirect" title="Glenn C. Loury">Glenn C. Loury</a> (1980). "The Limitations of Pigouvian Taxes as a Long-Run Remedy for Externalities," <i><a href="/wiki/Quarterly_Journal_of_Economics" title="Quarterly Journal of Economics">Quarterly Journal of Economics</a></i>, 95(3), pp. <a rel="nofollow" class="external text" href="http://www.jstor.org/discover/10.2307/1885093?uid=3739936&amp;uid=2&amp;uid=4&amp;uid=3739256&amp;sid=21101798807531">559</a>–566.<br />
+&#160;&#160; • Althouse, Benjamin M., Theodore C. Bergstrom, and <a href="/wiki/Carl_Bergstrom" title="Carl Bergstrom">Carl T. Bergstrom</a> (2010). "A Public Choice Framework for Controlling Transmissible and Evolving Diseases," <i>Proceedings of the National Academy of Sciences</i>,January 26; 107(suppl. 1), pp. <a rel="nofollow" class="external text" href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2868281/">1696–1701.</a></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation book">Pigou, A. C. (1920). <i>The Economics of Welfare</i>. London: Macmillan.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APigovian+tax&amp;rft.aufirst=A.+C.&amp;rft.aulast=Pigou&amp;rft.btitle=The+Economics+of+Welfare&amp;rft.date=1920&amp;rft.genre=book&amp;rft.place=London&amp;rft.pub=Macmillan&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation journal">Carlton, Dennis W.; Loury, Glenn C. (1980). "The Limitations of Pigouvian Taxes as a Long-Run Remedy for Externalities". <i><a href="/wiki/Quarterly_Journal_of_Economics" title="Quarterly Journal of Economics">Quarterly Journal of Economics</a></i>. <b>95</b> (3): 559–566. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.2307%2F1885093">10.2307/1885093</a>. <a href="/wiki/JSTOR" title="JSTOR">JSTOR</a>&#160;<a rel="nofollow" class="external text" href="//www.jstor.org/stable/1885093">1885093</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APigovian+tax&amp;rft.atitle=The+Limitations+of+Pigouvian+Taxes+as+a+Long-Run+Remedy+for+Externalities&amp;rft.aufirst=Dennis+W.&amp;rft.aulast=Carlton&amp;rft.au=Loury%2C+Glenn+C.&amp;rft.date=1980&amp;rft.genre=article&amp;rft_id=%2F%2Fwww.jstor.org%2Fstable%2F1885093&amp;rft_id=info%3Adoi%2F10.2307%2F1885093&amp;rft.issue=3&amp;rft.jtitle=Quarterly+Journal+of+Economics&amp;rft.pages=559-566&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=95" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation journal">Kohn, Robert E. (1986). "The Limitations of Pigouvian Taxes as a Long-Run Remedy for Externalities: Comment". <i>Quarterly Journal of Economics</i>. <b>101</b> (3): 625–630. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.2307%2F1885700">10.2307/1885700</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APigovian+tax&amp;rft.atitle=The+Limitations+of+Pigouvian+Taxes+as+a+Long-Run+Remedy+for+Externalities%3A+Comment&amp;rft.aufirst=Robert+E.&amp;rft.aulast=Kohn&amp;rft.date=1986&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.2307%2F1885700&amp;rft.issue=3&amp;rft.jtitle=Quarterly+Journal+of+Economics&amp;rft.pages=625-630&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=101" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation journal">Carlton, Dennis W.; Loury, Glenn C. (1986). "The Limitation of Pigouvian Taxes as a Long-Run Remedy for Externalities: An Extension of Results". <i>Quarterly Journal of Economics</i>. <b>101</b> (3): 631–634. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.2307%2F1885701">10.2307/1885701</a>. <a href="/wiki/JSTOR" title="JSTOR">JSTOR</a>&#160;<a rel="nofollow" class="external text" href="//www.jstor.org/stable/1885701">1885701</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APigovian+tax&amp;rft.atitle=The+Limitation+of+Pigouvian+Taxes+as+a+Long-Run+Remedy+for+Externalities%3A+An+Extension+of+Results&amp;rft.aufirst=Dennis+W.&amp;rft.aulast=Carlton&amp;rft.au=Loury%2C+Glenn+C.&amp;rft.date=1986&amp;rft.genre=article&amp;rft_id=%2F%2Fwww.jstor.org%2Fstable%2F1885701&amp;rft_id=info%3Adoi%2F10.2307%2F1885701&amp;rft.issue=3&amp;rft.jtitle=Quarterly+Journal+of+Economics&amp;rft.pages=631-634&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=101" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">Tullock, G. (1967), "Excess benefit", Water Resources Research, 3, 643–44.</span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">Bovenberg, A.L. and R.A. de Mooij (1994), ‘Environmental levies and distortionary taxation’, Ameri¬can Economic Review, 94 (4), 1085–89.</span></li>
+<li id="cite_note-Fullerton_42-11"><span class="mw-cite-backlink">^ <a href="#cite_ref-Fullerton_42_11-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Fullerton_42_11-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Fullerton, Don; Gilbert E. Metcalf (September 1997). <a rel="nofollow" class="external text" href="http://ssrn.com/abstract=225957">"Environmental Taxes and the Double-Dividend Hypothesis: Did You Really Expect Something for Nothing?"</a>. <i>NBER Working Papers</i> (w6199): 42<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-11-30</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APigovian+tax&amp;rft.atitle=Environmental+Taxes+and+the+Double-Dividend+Hypothesis%3A+Did+You+Really+Expect+Something+for+Nothing%3F&amp;rft.aufirst=Don&amp;rft.au=Gilbert+E.+Metcalf&amp;rft.aulast=Fullerton&amp;rft.date=1997-09&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fssrn.com%2Fabstract%3D225957&amp;rft.issue=w6199&amp;rft.jtitle=NBER+Working+Papers&amp;rft.pages=42&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">Bovenberg, A. Lans and de Mooij, Ruud A. (1994). "Environmental Levies and Distortionary Taxation," The American Economic Review, 84(4): 1085–1089.</span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">Fullerton, Don (1997). "Environmental Levies and Distortionary Taxation: Comment," The American Economic Review, 87(1): 245–251.</span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text">Jaeger, W.K. (2011), ‘The welfare effects of environmental taxation’, Environmental and Resource Economics, 49 (1), 101–19.</span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text">Jaeger, William K., 2013. The Double Dividend Debate. In Handbook of Research on Environmental Taxation (Janet E. Milne and Mikael S. Anderson editors). Edward Elgar Publishing.</span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text">Jorgenson, Dale W., et al. Double dividend: Environmental taxes and fiscal reform in the United States. MIT Press, 2013.</span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text">Coase, Ronald H. (1960). "The Problem of Social Cost". Journal of Law and Economics 3 (1): 1–44.</span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation journal">Rosenkranz, Stephanie; Schmitz, Patrick W. (2007). <a rel="nofollow" class="external text" href="http://onlinelibrary.wiley.com/doi/10.1111/j.1468-0335.2006.00556.x/abstract">"Can Coasean Bargaining Justify Pigouvian Taxation?"</a>. <i>Economica</i>. <b>74</b> (296): 573–585. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1111%2Fj.1468-0335.2006.00556.x">10.1111/j.1468-0335.2006.00556.x</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/1468-0335">1468-0335</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APigovian+tax&amp;rft.atitle=Can+Coasean+Bargaining+Justify+Pigouvian+Taxation%3F&amp;rft.aufirst=Stephanie&amp;rft.aulast=Rosenkranz&amp;rft.au=Schmitz%2C+Patrick+W.&amp;rft.date=2007&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fonlinelibrary.wiley.com%2Fdoi%2F10.1111%2Fj.1468-0335.2006.00556.x%2Fabstract&amp;rft_id=info%3Adoi%2F10.1111%2Fj.1468-0335.2006.00556.x&amp;rft.issn=1468-0335&amp;rft.issue=296&amp;rft.jtitle=Economica&amp;rft.pages=573-585&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=74" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation journal">Antràs, Pol; Staiger, Robert W (2012). <a rel="nofollow" class="external text" href="http://pubs.aeaweb.org/doi/abs/10.1257/aer.102.7.3140">"Offshoring and the Role of Trade Agreements"</a>. <i>American Economic Review</i>. <b>102</b> (7): 3140–3183. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1257%2Faer.102.7.3140">10.1257/aer.102.7.3140</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/0002-8282">0002-8282</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APigovian+tax&amp;rft.atitle=Offshoring+and+the+Role+of+Trade+Agreements&amp;rft.aufirst=Pol&amp;rft.aulast=Antr%C3%A0s&amp;rft.au=Staiger%2C+Robert+W&amp;rft.date=2012&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fpubs.aeaweb.org%2Fdoi%2Fabs%2F10.1257%2Faer.102.7.3140&amp;rft_id=info%3Adoi%2F10.1257%2Faer.102.7.3140&amp;rft.issn=0002-8282&amp;rft.issue=7&amp;rft.jtitle=American+Economic+Review&amp;rft.pages=3140-3183&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=102" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text">Fullerton, Don and Metcalf, Gilbert (1998). "<a rel="nofollow" class="external text" href="http://ase.tufts.edu/econ/papers/9706.pdf">Environmental Taxes and the Double-Dividend Hypothesis: Did You Really Expect Something for Nothing?</a>" Chicago-Kent Law Review, 73: 221–256.</span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text">Goulder, Lawrence H., Parry, Ian W.H., and Burtraw, Dallas (1997). "Revenue-raising versus other approaches to environmental protection: The critical significance of preexisting tax distortions," The RAND Journal of Economics, 28(4): 708–731.</span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text">Pigou, A.C., (1954) Some Aspects of the Welfare State. Diogenes 7 (6).</span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text">Baumol, William J. (1972). "On Taxation and the Control of Externalities," The American Economic Review, 62(3): 307–322.</span></li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite class="citation journal">Vaughn, Karen (January 1980). "Does it Matter That Costs Are Subjective?". <i>Southern Economic Journal</i>. <b>46</b> (3): 702–715. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.2307%2F1057140">10.2307/1057140</a>. <a href="/wiki/JSTOR" title="JSTOR">JSTOR</a>&#160;<a rel="nofollow" class="external text" href="//www.jstor.org/stable/1057140">1057140</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APigovian+tax&amp;rft.atitle=Does+it+Matter+That+Costs+Are+Subjective%3F&amp;rft.aufirst=Karen&amp;rft.aulast=Vaughn&amp;rft.date=1980-01&amp;rft.genre=article&amp;rft_id=%2F%2Fwww.jstor.org%2Fstable%2F1057140&amp;rft_id=info%3Adoi%2F10.2307%2F1057140&amp;rft.issue=3&amp;rft.jtitle=Southern+Economic+Journal&amp;rft.pages=702-715&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=46" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><cite class="citation book">Boettke, Peter (2012). <i>Living Economics</i>. The Independent Institute, Universidad Francisco Marroquin. pp.&#160;254–255. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9781598130751" title="Special:BookSources/9781598130751">9781598130751</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APigovian+tax&amp;rft.aufirst=Peter&amp;rft.aulast=Boettke&amp;rft.btitle=Living+Economics&amp;rft.date=2012&amp;rft.genre=book&amp;rft.isbn=9781598130751&amp;rft.pages=254-255&amp;rft.pub=The+Independent+Institute%2C+Universidad+Francisco+Marroquin&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text">Coase, Ronald (1960), "The Problem of Social Cost", Journal of Law and Economics 3 (1): 1–44.</span></li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><cite class="citation journal">Tietenberg, T. H. (1974-06-01). "On Taxation and the Control of Externalities: Comment". <i>The American Economic Review</i>. <b>64</b> (3): 462–466. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.2307%2F1808900">10.2307/1808900</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/0002-8282">0002-8282</a>. <a href="/wiki/JSTOR" title="JSTOR">JSTOR</a>&#160;<a rel="nofollow" class="external text" href="//www.jstor.org/stable/1808900">1808900</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APigovian+tax&amp;rft.atitle=On+Taxation+and+the+Control+of+Externalities%3A+Comment&amp;rft.aufirst=T.+H.&amp;rft.aulast=Tietenberg&amp;rft.date=1974-06-01&amp;rft.genre=article&amp;rft_id=%2F%2Fwww.jstor.org%2Fstable%2F1808900&amp;rft_id=info%3Adoi%2F10.2307%2F1808900&amp;rft.issn=0002-8282&amp;rft.issue=3&amp;rft.jtitle=The+American+Economic+Review&amp;rft.pages=462-466&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=64" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><cite class="citation journal">Baumol, William J. (1974-06-01). "On Taxation and the Control of Externalities: Reply". <i>The American Economic Review</i>. <b>64</b> (3): 472. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.2307%2F1808902">10.2307/1808902</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/0002-8282">0002-8282</a>. <a href="/wiki/JSTOR" title="JSTOR">JSTOR</a>&#160;<a rel="nofollow" class="external text" href="//www.jstor.org/stable/1808902">1808902</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APigovian+tax&amp;rft.atitle=On+Taxation+and+the+Control+of+Externalities%3A+Reply&amp;rft.aufirst=William+J.&amp;rft.aulast=Baumol&amp;rft.date=1974-06-01&amp;rft.genre=article&amp;rft_id=%2F%2Fwww.jstor.org%2Fstable%2F1808902&amp;rft_id=info%3Adoi%2F10.2307%2F1808902&amp;rft.issn=0002-8282&amp;rft.issue=3&amp;rft.jtitle=The+American+Economic+Review&amp;rft.pages=472&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=64" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text">Barthold, Thomas A. (1994). "Issues in the Design of Environmental Excise Taxes," The Journal of Economic Perspectives, 8(1): 133–151.</span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pigovian_tax&amp;action=edit&amp;section=16" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><cite id="CITEREFMankiw2001" class="citation"><a href="/wiki/N._Gregory_Mankiw" class="mw-redirect" title="N. Gregory Mankiw">Mankiw, N. Gregory</a> (2001), <i>Principles of Economics</i> (Second ed.), Fort Worth: Harcourt College Publishers, p.&#160;216, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-03-025951-7" title="Special:BookSources/0-03-025951-7">0-03-025951-7</a></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APigovian+tax&amp;rft.aufirst=N.+Gregory&amp;rft.aulast=Mankiw&amp;rft.btitle=Principles+of+Economics&amp;rft.date=2001&amp;rft.edition=Second&amp;rft.genre=book&amp;rft.isbn=0-03-025951-7&amp;rft.pages=216&amp;rft.place=Fort+Worth&amp;rft.pub=Harcourt+College+Publishers&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span>.</li>
+<li>Pigou, A.C. "<a rel="nofollow" class="external text" href="http://www.econlib.org/library/NPDBooks/Pigou/pgEW20.html#Part%20II,%20Chapter%209%7CPart">II, Chapter IX: Divergences Between Marginal Social Net Product and Marginal Private Net Product</a>" in <i>The Economics of Welfare</i> (1932)</li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pigovian_tax&amp;action=edit&amp;section=17" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://econblog.aplia.com/2006/10/cheap-gas-hurts.html">Cheap Gas Hurts (from a welfare analysis perspective)</a> from <a href="/wiki/Aplia" title="Aplia">Aplia</a> Econ Blog</li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1206
+Cached time: 20170104144916
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.540 seconds
+Real time usage: 0.647 seconds
+Preprocessor visited node count: 1485/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 63260/2097152 bytes
+Template argument size: 3134/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 4/500
+Lua time usage: 0.231/10.000 seconds
+Lua memory usage: 3.95 MB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  493.393      1 - -total
+ 43.46%  214.444      1 - Template:Reflist
+ 18.63%   91.924      3 - Template:Fix
+ 16.27%   80.299      2 - Template:Citation
+ 15.82%   78.079      9 - Template:Cite_journal
+ 15.23%   75.144      1 - Template:Tone
+ 11.41%   56.275      1 - Template:Failed_verification
+ 11.27%   55.593      3 - Template:Delink
+  9.63%   47.522      2 - Template:Citation_needed
+  9.22%   45.501      1 - Template:Ambox
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:372081-0!*!0!!en!4!* and timestamp 20170104144917 and revision id 758283042
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Pigovian_tax&amp;oldid=758283042">https://en.wikipedia.org/w/index.php?title=Pigovian_tax&amp;oldid=758283042</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Market_failure" title="Category:Market failure">Market failure</a></li><li><a href="/wiki/Category:Ecotax" title="Category:Ecotax">Ecotax</a></li><li><a href="/wiki/Category:Ecological_economics" title="Category:Ecological economics">Ecological economics</a></li><li><a href="/wiki/Category:1920_in_economics" title="Category:1920 in economics">1920 in economics</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Wikipedia_articles_needing_style_editing_from_April_2016" title="Category:Wikipedia articles needing style editing from April 2016">Wikipedia articles needing style editing from April 2016</a></li><li><a href="/wiki/Category:All_articles_needing_style_editing" title="Category:All articles needing style editing">All articles needing style editing</a></li><li><a href="/wiki/Category:All_articles_with_failed_verification" title="Category:All articles with failed verification">All articles with failed verification</a></li><li><a href="/wiki/Category:Articles_with_failed_verification_from_June_2013" title="Category:Articles with failed verification from June 2013">Articles with failed verification from June 2013</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_May_2012" title="Category:Articles with unsourced statements from May 2012">Articles with unsourced statements from May 2012</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_November_2012" title="Category:Articles with unsourced statements from November 2012">Articles with unsourced statements from November 2012</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Pigovian+tax" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Pigovian+tax" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Pigovian_tax"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Pigovian_tax"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Pigovian_tax" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Pigovian_tax&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Pigovian_tax&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Pigovian_tax" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Pigovian_tax" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Pigovian_tax&amp;oldid=758283042" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Pigovian_tax&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q931921" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Pigovian_tax&amp;id=758283042" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Pigovian+tax">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Pigovian+tax&amp;returnto=Pigovian+tax&amp;oldid=758283042&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Pigovian_tax&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Pigouova_da%C5%88" title="Pigouova daň – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Pigou-Steuer" title="Pigou-Steuer – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Pigou_maks" title="Pigou maks – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Impuesto_pigouviano" title="Impuesto pigouviano – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Taxe_pigouvienne" title="Taxe pigouvienne – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Imposto_Pigouviano" title="Imposto Pigouviano – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Imposta_pigouviana" title="Imposta pigouviana – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%9E%D7%A1_%D7%A4%D7%99%D7%92%D7%95%D7%91%D7%99%D7%90%D7%A0%D7%99" title="מס פיגוביאני – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Pigou-ad%C3%B3" title="Pigou-adó – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Pigouviaanse_belasting" title="Pigouviaanse belasting – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%94%E3%82%B0%E3%83%BC%E7%A8%8E" title="ピグー税 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Pigouskatt" title="Pigouskatt – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk bokmål</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Podatek_Pigou" title="Podatek Pigou – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Imposto_pigouviano" title="Imposto pigouviano – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Haittavero" title="Haittavero – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Pigouviansk_skatt" title="Pigouviansk skatt – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Pigou_vergisi" title="Pigou vergisi – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9F%D0%BE%D0%B4%D0%B0%D1%82%D0%BE%D0%BA_%D0%9F%D1%96%D2%91%D1%83" title="Податок Піґу – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q931921#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 4 January 2017, at 14:49.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Pigovian_tax&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":59,"wgHostname":"mw1181"});});</script>
+	</body>
+</html>

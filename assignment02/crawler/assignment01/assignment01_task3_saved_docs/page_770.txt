@@ -1,0 +1,772 @@
+url : https://en.wikipedia.org/wiki/Standard_solar_model
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Standard solar model - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Standard_solar_model","wgTitle":"Standard solar model","wgCurRevisionId":750381870,"wgRevisionId":750381870,"wgArticleId":5894781,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with unsourced statements","Articles with unsourced statements from April 2011","Astrophysics","Specific models","Sun","Stellar evolution"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Standard_solar_model","wgRelevantArticleId":5894781,"wgRequestId":"WI9dQwpAADoAAGokp5cAAACA","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q2719897","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","ext.math.scripts","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.9"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Standard_solar_model"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Standard_solar_model&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Standard_solar_model&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Standard_solar_model"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Standard_solar_model rootpage-Standard_solar_model skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Standard solar model</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><p>The <b>standard solar model</b> (SSM) is a mathematical treatment of the Sun as a <a href="/wiki/Spherical" class="mw-redirect" title="Spherical">spherical</a> ball of gas (in varying states of <a href="/wiki/Ionisation" class="mw-redirect" title="Ionisation">ionisation</a>, with the hydrogen in the deep interior being a completely ionised <a href="/wiki/Plasma_(physics)" title="Plasma (physics)">plasma</a>). This model, technically the <a href="/wiki/Spherically_symmetric" class="mw-redirect" title="Spherically symmetric">spherically symmetric</a> <a href="/wiki/Quasistatic_equilibrium" class="mw-redirect" title="Quasistatic equilibrium">quasi-static</a> model of a star, has <a href="/wiki/Stellar_structure" title="Stellar structure">stellar structure</a> described by several differential equations derived from basic physical principles. The model is constrained by <a href="/wiki/Boundary_conditions" class="mw-redirect" title="Boundary conditions">boundary conditions</a>, namely the luminosity, radius, age and composition of the Sun, which are well determined. The age of the Sun cannot be measured directly; one way to estimate it is from the age of the oldest meteorites, and models of the evolution of the Solar System.<sup id="cite_ref-Guenther_1995_1-0" class="reference"><a href="#cite_note-Guenther_1995-1">[1]</a></sup> The composition in the photosphere of the modern-day Sun, by mass, is 74.9% hydrogen and 23.8% helium.<sup id="cite_ref-lodders_2-0" class="reference"><a href="#cite_note-lodders-2">[2]</a></sup> All heavier elements, called <i><a href="/wiki/Metallicity" title="Metallicity">metals</a></i> in astronomy, account for less than 2&#160;percent of the mass. The SSM is used to test the validity of stellar evolution theory. In fact, the only way to determine the two free parameters of the stellar evolution model, the helium abundance and the <a href="/wiki/Mixing_length_theory" class="mw-redirect" title="Mixing length theory">mixing length</a> parameter (used to model convection in the Sun), are to adjust the SSM to "fit" the observed Sun.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#A_calibrated_solar_model"><span class="tocnumber">1</span> <span class="toctext">A calibrated solar model</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Numerical_modelling_of_the_stellar_structure_equations"><span class="tocnumber">2</span> <span class="toctext">Numerical modelling of the stellar structure equations</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Evolution_of_the_Sun"><span class="tocnumber">3</span> <span class="toctext">Evolution of the Sun</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Purpose_of_the_standard_solar_model"><span class="tocnumber">4</span> <span class="toctext">Purpose of the standard solar model</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Energy_transport_in_the_Sun"><span class="tocnumber">5</span> <span class="toctext">Energy transport in the Sun</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Simulations_of_near-surface_convection"><span class="tocnumber">6</span> <span class="toctext">Simulations of near-surface convection</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Equations_of_state"><span class="tocnumber">7</span> <span class="toctext">Equations of state</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Helioseismology"><span class="tocnumber">8</span> <span class="toctext">Helioseismology</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Neutrino_production"><span class="tocnumber">9</span> <span class="toctext">Neutrino production</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Neutrino_detection"><span class="tocnumber">10</span> <span class="toctext">Neutrino detection</span></a>
+<ul>
+<li class="toclevel-2 tocsection-11"><a href="#History"><span class="tocnumber">10.1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#hep_neutrinos"><span class="tocnumber">10.2</span> <span class="toctext">hep neutrinos</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#CNO_neutrinos"><span class="tocnumber">10.3</span> <span class="toctext">CNO neutrinos</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Future_experiments"><span class="tocnumber">10.4</span> <span class="toctext">Future experiments</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-15"><a href="#Core_temperature_prediction"><span class="tocnumber">11</span> <span class="toctext">Core temperature prediction</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#Lithium_depletion_at_the_solar_surface"><span class="tocnumber">12</span> <span class="toctext">Lithium depletion at the solar surface</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#See_also"><span class="tocnumber">13</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#References"><span class="tocnumber">14</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-19"><a href="#External_links"><span class="tocnumber">15</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="A_calibrated_solar_model">A calibrated solar model</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Standard_solar_model&amp;action=edit&amp;section=1" title="Edit section: A calibrated solar model">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A star is considered to be at zero age (protostellar) when it is assumed to have a homogeneous composition and to be just beginning to derive most of its luminosity from nuclear reactions (so neglecting the period of contraction from a cloud of gas and dust). To obtain the SSM, a one <a href="/wiki/Solar_mass" title="Solar mass">solar mass</a> (<a href="/wiki/Solar_mass" title="Solar mass"><i>M</i><sub>☉</sub></a>) stellar model at zero age is <a href="/wiki/Stellar_evolution" title="Stellar evolution">evolved</a> numerically to the age of the Sun. The abundance of elements in the zero age solar model is estimated from primordial meteorites.<sup id="cite_ref-lodders_2-1" class="reference"><a href="#cite_note-lodders-2">[2]</a></sup> Along with this abundance information, a reasonable guess at the zero-age luminosity (such as the present-day Sun's luminosity) is then converted by an iterative procedure into the correct value for the model, and the temperature, pressure and density throughout the model calculated by solving the equations of stellar structure numerically assuming the star to be in a <a href="/wiki/Steady_state" title="Steady state">steady state</a>. The model is then evolved numerically up to the age of the Sun. Any discrepancy from the measured values of the Sun's luminosity, surface abundances, etc. can then be used to refine the model. For example, since the Sun formed, the helium and heavy elements have settled out of the photosphere by diffusion. As a result, the Solar photosphere now contains about 87% as much helium and heavy elements as the protostellar photosphere had; the protostellar Solar photosphere was 71.1% hydrogen, 27.4% helium, and 1.5% metals.<sup id="cite_ref-lodders_2-2" class="reference"><a href="#cite_note-lodders-2">[2]</a></sup> A measure of heavy-element settling by diffusion is required for a more accurate model.</p>
+<h2><span class="mw-headline" id="Numerical_modelling_of_the_stellar_structure_equations">Numerical modelling of the stellar structure equations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Standard_solar_model&amp;action=edit&amp;section=2" title="Edit section: Numerical modelling of the stellar structure equations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote">Main article: <a href="/wiki/Stellar_structure" title="Stellar structure">stellar structure</a></div>
+<p>The differential equations of stellar structure, such as the equation of hydrostatic equilibrium, are integrated numerically. The differential equations are approximated by <a href="/wiki/Difference_equations" class="mw-redirect" title="Difference equations">difference equations</a>. The star is imagined to be made up of spherically symmetric shells and the numerical integration carried out in finite steps making use of the <a href="/wiki/Equation_of_state" title="Equation of state">equations of state</a>, giving relationships for the pressure, the opacity and the energy generation rate in terms of the density, temperature and composition.<sup id="cite_ref-Ostlie_3-0" class="reference"><a href="#cite_note-Ostlie-3">[3]</a></sup></p>
+<h2><span class="mw-headline" id="Evolution_of_the_Sun">Evolution of the Sun</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Standard_solar_model&amp;action=edit&amp;section=3" title="Edit section: Evolution of the Sun">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote">Main article: <a href="/wiki/Stellar_evolution" title="Stellar evolution">stellar evolution</a></div>
+<div role="note" class="hatnote">See also: <a href="/wiki/Sun" title="Sun">sun</a></div>
+<p>Nuclear reactions in the core of the Sun change its composition, by converting <a href="/wiki/Hydrogen" title="Hydrogen">hydrogen</a> nuclei into <a href="/wiki/Helium" title="Helium">helium</a> nuclei by the <a href="/wiki/Proton-proton_chain" class="mw-redirect" title="Proton-proton chain">proton-proton chain</a> and (to a lesser extent in the Sun than in more massive stars) the <a href="/wiki/CNO_cycle" title="CNO cycle">CNO cycle</a>. This increases the mean molecular weight in the core of the Sun, which should lead to a decrease in pressure. This does not happen as instead the core contracts. By the <a href="/wiki/Virial_theorem" title="Virial theorem">Virial Theorem</a> half of the gravitational <a href="/wiki/Potential_energy" title="Potential energy">potential energy</a> released by this contraction goes towards raising the temperature of the core, and the other half is radiated away. By the <a href="/wiki/Ideal_gas_law" title="Ideal gas law">ideal gas law</a> this increase in temperature also increases the pressure and restores the balance of <a href="/wiki/Hydrostatic_equilibrium" title="Hydrostatic equilibrium">hydrostatic equilibrium</a>. The luminosity of the Sun is increased by the temperature rise, increasing the rate of nuclear reactions. The outer layers expand to compensate for the increased temperature and pressure gradients, so the radius also increases.<sup id="cite_ref-Ostlie_3-1" class="reference"><a href="#cite_note-Ostlie-3">[3]</a></sup></p>
+<p>No star is completely static, but stars stay on the main sequence (burning hydrogen in the core) for long periods. In the case of the Sun, it has been on the main sequence for roughly 4.6 billion years, and will become a red giant in roughly 6.5 billion years<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> for a total main sequence lifetime of roughly 11 billion (10<sup>10</sup>) years. Thus the assumption of <a href="/wiki/Steady_state" title="Steady state">steady state</a> is a very good approximation<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (April 2011)">citation needed</span></a></i>]</sup>. For simplicity, the stellar structure equations are written without explicit time dependence, with the exception of the luminosity gradient equation:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mi>d</mi>
+              <mi>L</mi>
+            </mrow>
+            <mrow>
+              <mi>d</mi>
+              <mi>r</mi>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mo>=</mo>
+        <mn>4</mn>
+        <mi>&#x03C0;<!-- π --></mi>
+        <msup>
+          <mi>r</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msup>
+        <mi>&#x03C1;<!-- ρ --></mi>
+        <mrow>
+          <mo>(</mo>
+          <mi>&#x03F5;<!-- ϵ --></mi>
+          <mo>&#x2212;<!-- − --></mo>
+          <msub>
+            <mi>&#x03F5;<!-- ϵ --></mi>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mi>&#x03BD;<!-- ν --></mi>
+            </mrow>
+          </msub>
+          <mo>)</mo>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\frac {dL}{dr}}=4\pi r^{2}\rho \left(\epsilon -\epsilon _{\nu }\right)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/391c92e3b5acd529a9e1623cedbbcdbcb505d3f1" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.005ex; width:20.701ex; height:5.509ex;" alt="\frac{dL}{dr} = 4 \pi r^2 \rho \left( \epsilon - \epsilon_\nu \right)" /></span></dd>
+</dl>
+<p>Here L is the luminosity, ε is the nuclear energy generation rate per unit mass and ε<sub>ν</sub> is the luminosity due to neutrino emission (see <a href="#Energy_transport_in_the_Sun">below</a> for the other quantities). The slow evolution of the Sun on the main sequence is then determined by the change in the nuclear species (principally hydrogen being consumed and helium being produced). The rates of the various nuclear reactions are estimated from particle physics experiments at high energies, which are extrapolated back to the lower energies of stellar interiors (the Sun burns hydrogen rather slowly). Historically, errors in the nuclear reaction rates have been one of the biggest sources of error in stellar modelling. Computers are employed to calculate the varying abundances (usually by mass fraction) of the nuclear species. A particular species will have a rate of production and a rate of destruction, so both are needed to calculate its abundance over time, at varying conditions of temperature and density. Since there are many nuclear species, a computerised <a href="/w/index.php?title=Reaction_network&amp;action=edit&amp;redlink=1" class="new" title="Reaction network (page does not exist)">reaction network</a> is needed to keep track of how all the abundances vary together.</p>
+<p>According to the <a href="/wiki/Vogt-Russell_theorem" title="Vogt-Russell theorem">Vogt-Russell theorem</a>, the mass and the composition structure throughout a star uniquely determine its radius, luminosity, and internal structure, as well as its subsequent evolution (though this "theorem" was only intended to apply to the slow, stable phases of stellar evolution and certainly does not apply to the transitions between stages and rapid evolutionary stages).<sup id="cite_ref-Ostlie_3-2" class="reference"><a href="#cite_note-Ostlie-3">[3]</a></sup> The information about the varying abundances of nuclear species over time, along with the equations of state, is sufficient for a numerical solution by taking sufficiently small time increments and using iteration to find the unique internal structure of the star at each stage.</p>
+<h2><span class="mw-headline" id="Purpose_of_the_standard_solar_model">Purpose of the standard solar model</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Standard_solar_model&amp;action=edit&amp;section=4" title="Edit section: Purpose of the standard solar model">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The SSM serves two purposes:</p>
+<ul>
+<li>it provides estimates for the helium abundance and mixing length parameter by forcing the stellar model to have the correct luminosity and radius at the Sun's age,</li>
+<li>it provides a way to evaluate more complex models with additional physics, such as rotation, magnetic fields and diffusion or improvements to the treatment of convection, such as modelling turbulence, and convective overshooting.</li>
+</ul>
+<p>Like the <a href="/wiki/Standard_Model" title="Standard Model">Standard Model</a> of <a href="/wiki/Particle_physics" title="Particle physics">particle physics</a> and the <a href="/wiki/Physical_cosmology" title="Physical cosmology">standard cosmology</a> model the SSM changes over time in response to relevant new <a href="/wiki/Theoretical_physics" title="Theoretical physics">theoretical</a> or <a href="/wiki/Experimental_physics" title="Experimental physics">experimental physics</a> discoveries.</p>
+<h2><span class="mw-headline" id="Energy_transport_in_the_Sun">Energy transport in the Sun</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Standard_solar_model&amp;action=edit&amp;section=5" title="Edit section: Energy transport in the Sun">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>As described in the <a href="/wiki/Sun" title="Sun">Sun</a> article, the Sun has a radiative core and a convective outer envelope. In the core, the luminosity due to nuclear reactions is transmitted to outer layers principally by radiation. However, in the outer layers the temperature gradient is so great that radiation cannot transport enough energy. As a result, thermal convection occurs as thermal columns carry hot material to the surface (photosphere) of the Sun. Once the material cools off at the surface, it plunges back downward to the base of the convection zone, to receive more heat from the top of the radiative zone.</p>
+<p>In a solar model, as described in <a href="/wiki/Stellar_structure" title="Stellar structure">stellar structure</a>, one considers the <a href="/wiki/Density" title="Density">density</a> <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mstyle displaystyle="false" scriptlevel="1">
+          <mi>&#x03C1;<!-- ρ --></mi>
+          <mo stretchy="false">(</mo>
+          <mi>r</mi>
+          <mo stretchy="false">)</mo>
+        </mstyle>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \scriptstyle \rho (r)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b9069e618d362755ca24bebf0f2fadab2721bb59" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:2.9ex; height:2.176ex;" alt="\scriptstyle\rho(r)" /></span>, <a href="/wiki/Temperature" title="Temperature">temperature</a> T(r), total <a href="/wiki/Pressure" title="Pressure">pressure</a> (matter plus radiation) P(r), <a href="/wiki/Luminosity" title="Luminosity">luminosity</a> l(r) and energy generation rate per unit mass ε(r) in a spherical shell of a thickness dr at a distance r from the center of the star.</p>
+<p>Radiative transport of energy is described by the radiative temperature gradient equation:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mtext>d</mtext>
+              </mrow>
+              <mi>T</mi>
+            </mrow>
+            <mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mtext>d</mtext>
+              </mrow>
+              <mi>r</mi>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mo>=</mo>
+        <mo>&#x2212;<!-- − --></mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mn>3</mn>
+              <mi>&#x03BA;<!-- κ --></mi>
+              <mi>&#x03C1;<!-- ρ --></mi>
+              <mi>l</mi>
+            </mrow>
+            <mrow>
+              <mn>16</mn>
+              <mi>&#x03C0;<!-- π --></mi>
+              <msup>
+                <mi>r</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mn>2</mn>
+                </mrow>
+              </msup>
+              <mi>&#x03C3;<!-- σ --></mi>
+              <msup>
+                <mi>T</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mn>3</mn>
+                </mrow>
+              </msup>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mo>,</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {{\mbox{d}}T \over {\mbox{d}}r}=-{3\kappa \rho l \over 16\pi r^{2}\sigma T^{3}},}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b306ff4697e890a7d4c331216e93572f6500c76c" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.171ex; width:20.148ex; height:5.843ex;" alt="{\displaystyle {{\mbox{d}}T \over {\mbox{d}}r}=-{3\kappa \rho l \over 16\pi r^{2}\sigma T^{3}},}" /></span></dd>
+</dl>
+<p>where κ is the <a href="/wiki/Opacity_(optics)" title="Opacity (optics)">opacity</a> of the matter, σ is the <a href="/wiki/Stefan-Boltzmann_constant" class="mw-redirect" title="Stefan-Boltzmann constant">Stefan-Boltzmann constant</a>, and the <a href="/wiki/Boltzmann_constant" title="Boltzmann constant">Boltzmann constant</a> is set to one.</p>
+<p>Convection is described using <a href="/wiki/Mixing_length_theory" class="mw-redirect" title="Mixing length theory">mixing length theory</a><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> and the corresponding temperature gradient equation (for <a href="/wiki/Adiabatic_process" title="Adiabatic process">adiabatic</a> convection) is:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mtext>d</mtext>
+              </mrow>
+              <mi>T</mi>
+            </mrow>
+            <mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mtext>d</mtext>
+              </mrow>
+              <mi>r</mi>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mo>=</mo>
+        <mrow>
+          <mo>(</mo>
+          <mn>1</mn>
+          <mo>&#x2212;<!-- − --></mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mfrac>
+              <mn>1</mn>
+              <mi>&#x03B3;<!-- γ --></mi>
+            </mfrac>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mi>T</mi>
+            <mi>P</mi>
+          </mfrac>
+        </mrow>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mtext>d</mtext>
+              </mrow>
+              <mi>P</mi>
+            </mrow>
+            <mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mtext>d</mtext>
+              </mrow>
+              <mi>r</mi>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mo>,</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {{\mbox{d}}T \over {\mbox{d}}r}=\left(1-{1 \over \gamma }\right){T \over P}{{\mbox{d}}P \over {\mbox{d}}r},}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2c30d55917e4e53bfca0068b3cc43d3b99fe0775" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.505ex; width:24.001ex; height:6.176ex;" alt=" {\mbox{d} T \over \mbox{d} r} = \left(1 - {1 \over \gamma} \right) {T \over P } { \mbox{d} P \over \mbox{d} r}," /></span></dd>
+</dl>
+<p>where γ = c<sub>p</sub> / c<sub>v</sub> is the <a href="/wiki/Adiabatic_index" class="mw-redirect" title="Adiabatic index">adiabatic index</a>, the ratio of <a href="/wiki/Specific_heat" class="mw-redirect" title="Specific heat">specific heats</a> in the gas. (For a fully ionized <a href="/wiki/Ideal_gas" title="Ideal gas">ideal gas</a>, γ = 5/3.)</p>
+<p>Near the base of the Sun's convection zone, the convection is adiabatic, but near the surface of the Sun, convection is not adiabatic.</p>
+<h2><span class="mw-headline" id="Simulations_of_near-surface_convection">Simulations of near-surface convection</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Standard_solar_model&amp;action=edit&amp;section=6" title="Edit section: Simulations of near-surface convection">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A more realistic description of the uppermost part of the convection zone is possible through detailed three-dimensional and time-dependent <a href="/wiki/Fluid_dynamics" title="Fluid dynamics">hydrodynamical</a> simulations, taking into account <a href="/wiki/Radiative_transfer" title="Radiative transfer">radiative transfer</a> in the atmosphere.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> Such simulations successfully reproduce the observed surface structure of <a href="/wiki/Solar_granulation" class="mw-redirect" title="Solar granulation">solar granulation</a>,<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> as well as detailed profiles of lines in the solar radiative spectrum, without the use of parametrized models of <a href="/wiki/Turbulence" title="Turbulence">turbulence</a>.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> The simulations only cover a very small fraction of the solar radius, and are evidently far too time-consuming to be included in general solar modeling. Extrapolation of an averaged simulation through the <a href="/wiki/Adiabatic_process" title="Adiabatic process">adiabatic</a> part of the convection zone by means of a model based on the mixing-length description, demonstrated that the <a href="/wiki/Adiabatic_process#Graphing_adiabats" title="Adiabatic process">adiabat</a> predicted by the simulation was essentially consistent with the depth of the solar convection zone as determined from <a href="/wiki/Helioseismology" title="Helioseismology">helioseismology</a>.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> An extension of mixing-length theory, including effects of turbulent pressure and <a href="/wiki/Kinetic_energy" title="Kinetic energy">kinetic energy</a>, based on numerical simulations of near-surface convection, has been developed.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></p>
+<p>This section is adapted from the <a href="/wiki/J%C3%B8rgen_Christensen-Dalsgaard" title="Jørgen Christensen-Dalsgaard">Christensen-Dalsgaard</a> review of helioseismology, Chapter IV.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></p>
+<h2><span class="mw-headline" id="Equations_of_state">Equations of state</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Standard_solar_model&amp;action=edit&amp;section=7" title="Edit section: Equations of state">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The numerical solution of the differential equations of stellar structure requires <a href="/wiki/Equation_of_state" title="Equation of state">equations of state</a> for the pressure, opacity and energy generation rate, as described in <a href="/wiki/Stellar_structure" title="Stellar structure">stellar structure</a>, which relate these variables to the density, temperature and composition.</p>
+<h2><span class="mw-headline" id="Helioseismology">Helioseismology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Standard_solar_model&amp;action=edit&amp;section=8" title="Edit section: Helioseismology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote">Main article: <a href="/wiki/Helioseismology" title="Helioseismology">Helioseismology</a></div>
+<p>Helioseismology is the study of the wave oscillations in the Sun. Changes in the propagation of these waves through the Sun reveal inner structures and allow astrophysicists to develop extremely detailed profiles of the interior conditions of the Sun. In particular, the location of the convection zone in the outer layers of the Sun can be measured, and information about the core of the Sun provides a method, using the SSM, to calculate the age of the Sun, independently of the method of inferring the age of the Sun from that of the oldest meteorites.<sup id="cite_ref-bonannoetal2002_12-0" class="reference"><a href="#cite_note-bonannoetal2002-12">[12]</a></sup> This is another example of how the SSM can be refined.</p>
+<h2><span class="mw-headline" id="Neutrino_production">Neutrino production</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Standard_solar_model&amp;action=edit&amp;section=9" title="Edit section: Neutrino production">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:402px;"><a href="/wiki/File:Bahcall-Serenelli_2005.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/c/c9/Bahcall-Serenelli_2005.jpg" width="400" height="294" class="thumbimage" data-file-width="400" data-file-height="294" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Bahcall-Serenelli_2005.jpg" class="internal" title="Enlarge"></a></div>
+Neutrino flux at Earth predicted by the standard solar model of 2005. The neutrinos produced in the pp chain are shown in black, neutrinos produced by the CNO cycle are shown in blue. The solar neutrino spectrum predicted by the BS05(OP) standard solar model. The neutrino fluxes from continuum sources are given in units of number cm<sup>−2</sup> s<sup>−1</sup> MeV<sup>−1</sup> at one astronomical unit, and the line fluxes are given in number cm<sup>−2</sup> s<sup>−1</sup>.</div>
+</div>
+</div>
+<p>Hydrogen is fused into helium through several different interactions in the Sun. The vast majority of <a href="/wiki/Neutrino" title="Neutrino">neutrinos</a> are produced through the <a href="/wiki/Pp_chain" class="mw-redirect" title="Pp chain">pp chain</a>, a process in which four protons are combined to produce two <a href="/wiki/Proton" title="Proton">protons</a>, two <a href="/wiki/Neutron" title="Neutron">neutrons</a>, two <a href="/wiki/Positron" title="Positron">positrons</a>, and two electron neutrinos. Neutrinos are also produced by the <a href="/wiki/CNO_cycle" title="CNO cycle">CNO cycle</a>, but that process is considerably less important in the Sun than in other stars.</p>
+<p>Most of the neutrinos produced in the Sun come from the first step of the pp chain but their energy is so low (&lt;0.425 <a href="/wiki/MeV" class="mw-redirect" title="MeV">MeV</a>)<sup id="cite_ref-Bahcall_13-0" class="reference"><a href="#cite_note-Bahcall-13">[13]</a></sup> they are very difficult to detect. A rare side branch of the pp chain produces the "<a href="/wiki/Boron" title="Boron">boron</a>-8" neutrinos with a maximum energy of roughly 15 MeV, and these are the easiest neutrinos to detect. A very rare interaction in the pp chain produces the <a href="/wiki/Proton%E2%80%93proton_chain_reaction#The_pp_IV_.28Hep.29_branch" title="Proton–proton chain reaction">"hep" neutrinos</a>, the highest energy neutrinos predicted to be produced by the Sun. They are predicted to have a maximum energy of about 18 MeV.</p>
+<p>All of the interactions described above produce neutrinos with a <a href="/wiki/Spectrum" title="Spectrum">spectrum</a> of energies. The <a href="/wiki/Electron_capture" title="Electron capture">electron capture</a> of <sup>7</sup>Be produces neutrinos at either roughly 0.862 MeV (~90%) or 0.384 MeV (~10%).<sup id="cite_ref-Bahcall_13-1" class="reference"><a href="#cite_note-Bahcall-13">[13]</a></sup></p>
+<h2><span class="mw-headline" id="Neutrino_detection">Neutrino detection</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Standard_solar_model&amp;action=edit&amp;section=10" title="Edit section: Neutrino detection">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The weakness of the neutrino's interactions with other particles means that most neutrinos produced in the core of the Sun can <a href="/wiki/Transparency_(optics)" class="mw-redirect" title="Transparency (optics)">pass all the way through the Sun without being absorbed</a>. It is possible, therefore, to observe the core of the Sun directly by detecting these neutrinos.</p>
+<h3><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Standard_solar_model&amp;action=edit&amp;section=11" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote">Main article: <a href="/wiki/Solar_neutrino_problem" title="Solar neutrino problem">solar neutrino problem</a></div>
+<p>The first experiment to successfully detect cosmic neutrinos was <a href="/wiki/Raymond_Davis_Jr." title="Raymond Davis Jr.">Ray Davis's</a> <a href="/wiki/Homestake_Experiment" class="mw-redirect" title="Homestake Experiment">chlorine experiment</a>, in which neutrinos were detected by observing the <a href="/wiki/Nuclear_transmutation" title="Nuclear transmutation">conversion</a> of <a href="/wiki/Chlorine" title="Chlorine">chlorine</a> <a href="/wiki/Atomic_nucleus" title="Atomic nucleus">nuclei</a> to radioactive <a href="/wiki/Argon" title="Argon">argon</a> in a large <a href="/wiki/Chemical_tank" title="Chemical tank">tank</a> of <a href="/wiki/Perchloroethylene" class="mw-redirect" title="Perchloroethylene">perchloroethylene</a>. This was a reaction channel expected for neutrinos, but since only the number of argon decays was counted, it did not give any directional information, such as where the neutrinos came from. The experiment found about 1/3 as many neutrinos as were predicted by the standard solar model of the time, and this problem became known as the <a href="/wiki/Solar_neutrino_problem" title="Solar neutrino problem">solar neutrino problem</a>.</p>
+<p>While it is now known that the chlorine experiment detected neutrinos, some physicists at the time were suspicious of the experiment, mainly because they did not trust such radiochemical techniques. Unambiguous detection of solar neutrinos was provided by the <a href="/wiki/Kamiokande-II" class="mw-redirect" title="Kamiokande-II">Kamiokande-II</a> experiment, a <a href="/wiki/Water" title="Water">water</a> <a href="/wiki/Cerenkov" class="mw-redirect" title="Cerenkov">Cerenkov</a> detector with a low enough energy threshold to detect neutrinos through neutrino-electron <a href="/wiki/Elastic_scattering" title="Elastic scattering">elastic scattering</a>. In the elastic scattering interaction the electrons coming out of the point of reaction strongly point in the direction that the neutrino was travelling, away from the Sun. This ability to "point back" at the Sun was the first conclusive evidence that the Sun is powered by nuclear interactions in the core. While the neutrinos observed in Kamiokande-II were clearly from the Sun, the rate of neutrino interactions was again suppressed compared to theory at the time. Even worse, the Kamiokande-II experiment measured about 1/2 the predicted flux, rather than the chlorine experiment's 1/3.</p>
+<p>The solution to the solar neutrino problem was finally experimentally determined by the <a href="/wiki/Sudbury_Neutrino_Observatory" title="Sudbury Neutrino Observatory">Sudbury Neutrino Observatory</a>. The radiochemical experiments were only sensitive to electron neutrinos, and the signal in the water Cerenkov experiments was dominated by the electron neutrino signal. The SNO experiment, by contrast, had sensitivity to all three neutrino flavours. By simultaneously measuring the electron neutrino and total neutrino fluxes the experiment demonstrated that the suppression was due to the <a href="/wiki/MSW_effect" class="mw-redirect" title="MSW effect">MSW effect</a>, the conversion of electron neutrinos from their pure flavour state into the second neutrino mass eigenstate as they passed through a <a href="/wiki/Resonance" title="Resonance">resonance</a> due to the changing density of the Sun. The resonance is energy dependent, and "turns on" near 2MeV.<sup id="cite_ref-Bahcall_13-2" class="reference"><a href="#cite_note-Bahcall-13">[13]</a></sup> The water Cerenkov detectors only detect neutrinos above about 5MeV, while the radiochemical experiments were sensitive to lower energy (0.8MeV for <a href="/wiki/Chlorine" title="Chlorine">chlorine</a>, 0.2MeV for <a href="/wiki/Gallium" title="Gallium">gallium</a>), and this turned out to be the source of the difference in the observed neutrino rates at the two types of experiments.</p>
+<h3><span class="mw-headline" id="hep_neutrinos">hep neutrinos</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Standard_solar_model&amp;action=edit&amp;section=12" title="Edit section: hep neutrinos">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The highest energy neutrinos have not yet been observed due to their small flux compared to the boron-8 neutrinos, so thus far only limits have been placed on the flux. No experiment yet has had enough <a href="/wiki/Sensitivity_(electronics)" title="Sensitivity (electronics)">sensitivity</a> to observe the flux predicted by the SSM.</p>
+<h3><span class="mw-headline" id="CNO_neutrinos">CNO neutrinos</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Standard_solar_model&amp;action=edit&amp;section=13" title="Edit section: CNO neutrinos">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Neutrinos from a secondary cycle of solar energy generation – i.e., the CNO-neutrinos – are also expected to provide observable events below 1 MeV. They have not yet been observed due to experimental noise (background). Future ultra-pure scintillator detectors should allow us to probe the flux predicted by the SSM. This should be possible thanks to SNO+ and, on the longer term, thanks to LENA, two detectors that will be larger but will use the same principles of Borexino.</p>
+<h3><span class="mw-headline" id="Future_experiments">Future experiments</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Standard_solar_model&amp;action=edit&amp;section=14" title="Edit section: Future experiments">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>While radiochemical experiments have in some sense observed the pp and Be7 neutrinos they have measured only integral fluxes. The "<a href="/wiki/Holy_grail" class="mw-redirect" title="Holy grail">holy grail</a>" of solar neutrino experiments would detect the Be7 neutrinos with a detector that is sensitive to the individual neutrino energies. This experiment would test the MSW hypothesis by searching for the turn-on of the MSW effect. Some <a href="/wiki/Exotic_matter" title="Exotic matter">exotic</a> models are still capable of explaining the solar neutrino deficit, so the observation of the MSW turn on would, in effect, finally solve the solar neutrino problem.</p>
+<h2><span class="mw-headline" id="Core_temperature_prediction">Core temperature prediction</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Standard_solar_model&amp;action=edit&amp;section=15" title="Edit section: Core temperature prediction">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The flux of boron-8 neutrinos is highly sensitive to the temperature of the core of the Sun, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>&#x03D5;<!-- ϕ --></mi>
+        <msup>
+          <mo stretchy="false">(</mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>8</mn>
+          </mrow>
+        </msup>
+        <mi>B</mi>
+        <mo stretchy="false">)</mo>
+        <mo>&#x221D;<!-- ∝ --></mo>
+        <msup>
+          <mi>T</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>25</mn>
+          </mrow>
+        </msup>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \phi (^{8}B)\propto T^{25}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/cf7b923feb8c25141c7876e046dc36eeada725df" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:12.793ex; height:3.176ex;" alt="\phi(^8B) \propto T^{25}" /></span>.<sup id="cite_ref-Bahcall_Tsun_14-0" class="reference"><a href="#cite_note-Bahcall_Tsun-14">[14]</a></sup> For this reason, a precise measurement of the boron-8 neutrino flux can be used in the framework of the standard solar model as a measurement of the temperature of the core of the Sun. This estimate was performed by Fiorentini and Ricci after the first SNO results were <a href="/wiki/Peer_review" title="Peer review">published</a>, and they obtained a temperature of <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>T</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mtext>sun</mtext>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <mn>15.7</mn>
+        <mo>&#x00D7;<!-- × --></mo>
+        <msup>
+          <mn>10</mn>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>6</mn>
+          </mrow>
+        </msup>
+        <mspace width="thickmathspace" />
+        <mrow class="MJX-TeXAtom-ORD">
+          <mtext>K</mtext>
+        </mrow>
+        <mspace width="thickmathspace" />
+        <mo>&#x00B1;<!-- ± --></mo>
+        <mn>1</mn>
+        <mi mathvariant="normal">&#x0025;<!-- % --></mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle T_{\text{sun}}=15.7\times 10^{6}\;{\text{K}}\;\pm 1\%}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6eb054d7b2695fcccd009cf9a8b209f7700e2949" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:26.72ex; height:3.009ex;" alt=" T_\text{sun} = 15.7 \times 10^6 \; \text{K} \; \pm 1\% " /></span> from a determined neutrino flux of 5.2·10<sup>6</sup>/cm<sup>2</sup>·s.<sup id="cite_ref-Fiorentini_15-0" class="reference"><a href="#cite_note-Fiorentini-15">[15]</a></sup></p>
+<h2><span class="mw-headline" id="Lithium_depletion_at_the_solar_surface">Lithium depletion at the solar surface</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Standard_solar_model&amp;action=edit&amp;section=16" title="Edit section: Lithium depletion at the solar surface">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Stellar_structure" title="Stellar structure">Stellar models</a> of the Sun's evolution predict the solar surface chemical abundance pretty well except for <a href="/wiki/Lithium" title="Lithium">lithium</a> (Li). The surface abundance of Li on the Sun is 140 times less than the <a href="/wiki/Protostar" title="Protostar">protosolar</a> value (i.e. the primordial abundance at the Sun's birth),<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup> yet the temperature at the base of the surface convective zone is not hot enough to burn – and hence deplete – Li.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup> This is known as the solar lithium problem. A large range of Li abundances is observed in solar-type stars of the same age, mass, and metallicity as the Sun. Observations of an unbiased sample of stars of this type with or without observed planets (<a href="/wiki/Exoplanets" class="mw-redirect" title="Exoplanets">exoplanets</a>) showed that the known planet-bearing stars have less than one per cent of the primordial Li abundance, and of the remainder half had ten times as much Li. It is hypothesised that the presence of planets may increase the amount of mixing and deepen the convective zone to such an extent that the Li can be burned. A possible mechanism for this is the idea that the planets affect the angular momentum evolution of the star, thus changing the rotation of the star relative to similar stars without planets; in the case of the Sun slowing its rotation.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup> More research is needed to discover where and when the fault in the modelling lies. Given the precision of <a href="/wiki/Helioseismology" title="Helioseismology">helioseismic</a> probes of the interior of the modern-day Sun, it is likely that the modelling of the protostellar Sun needs to be adjusted.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Standard_solar_model&amp;action=edit&amp;section=17" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a href="/wiki/File:He1523a.jpg" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/He1523a.jpg/24px-He1523a.jpg" width="24" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/He1523a.jpg/36px-He1523a.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5f/He1523a.jpg/49px-He1523a.jpg 2x" data-file-width="180" data-file-height="207" /></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Star" title="Portal:Star">Star portal</a></span></li>
+</ul>
+</div>
+<ul>
+<li><a href="/wiki/Star" title="Star">Star</a></li>
+<li><a href="/wiki/Stellar_evolution" title="Stellar evolution">Stellar evolution</a></li>
+<li><a href="/wiki/Stellar_structure" title="Stellar structure">Stellar structure</a></li>
+<li><a href="/wiki/Protostar" title="Protostar">Protostar</a></li>
+<li><a href="/wiki/Helioseismology" title="Helioseismology">Helioseismology</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Standard_solar_model&amp;action=edit&amp;section=18" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-Guenther_1995-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-Guenther_1995_1-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Guenther, D.B. (April 1989). "Age of the sun". <i>Astrophysical Journal</i>. <b>339</b>: 1156–1159. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/1989ApJ...339.1156G">1989ApJ...339.1156G</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1086%2F167370">10.1086/167370</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStandard+solar+model&amp;rft.atitle=Age+of+the+sun&amp;rft.au=Guenther%2C+D.B.&amp;rft.date=1989-04&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F1989ApJ...339.1156G&amp;rft_id=info%3Adoi%2F10.1086%2F167370&amp;rft.jtitle=Astrophysical+Journal&amp;rft.pages=1156-1159&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=339" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-lodders-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-lodders_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-lodders_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-lodders_2-2"><sup><i><b>c</b></i></sup></a></span>
+<ul>
+<li><span class="reference-text"><cite id="CITEREFLodders2003" class="citation journal">Lodders, Katharina (July 10, 2003). <a rel="nofollow" class="external text" href="http://weft.astro.washington.edu/courses/astro557/LODDERS.pdf">"Solar System Abundances and Condensation Temperatures of the Elements"</a> <span style="font-size:85%;">(PDF)</span>. <i>The Astrophysical Journal</i>. The American Astronomical Society. <b>591</b> (2): 1220–1247. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2003ApJ...591.1220L">2003ApJ...591.1220L</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1086%2F375492">10.1086/375492</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStandard+solar+model&amp;rft.atitle=Solar+System+Abundances+and+Condensation+Temperatures+of+the+Elements&amp;rft.aufirst=Katharina&amp;rft.aulast=Lodders&amp;rft.date=2003-07-10&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fweft.astro.washington.edu%2Fcourses%2Fastro557%2FLODDERS.pdf&amp;rft_id=info%3Abibcode%2F2003ApJ...591.1220L&amp;rft_id=info%3Adoi%2F10.1086%2F375492&amp;rft.issue=2&amp;rft.jtitle=The+Astrophysical+Journal&amp;rft.pages=1220-1247&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=591" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li><cite class="citation journal">Lodders, K. (2003). <a rel="nofollow" class="external text" href="http://www.lpi.usra.edu/meetings/metsoc2003/pdf/5272.pdf">"Abundances and Condensation Temperatures of the Elements"</a> <span style="font-size:85%;">(PDF)</span>. <i><a href="/wiki/Meteoritics_%26_Planetary_Science" title="Meteoritics &amp; Planetary Science">Meteoritics &amp; Planetary Science</a></i>. <b>38</b> (suppl): 5272. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2003M&amp;PSA..38.5272L">2003M&amp;PSA..38.5272L</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStandard+solar+model&amp;rft.atitle=Abundances+and+Condensation+Temperatures+of+the+Elements&amp;rft.aufirst=K.&amp;rft.aulast=Lodders&amp;rft.date=2003&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.lpi.usra.edu%2Fmeetings%2Fmetsoc2003%2Fpdf%2F5272.pdf&amp;rft_id=info%3Abibcode%2F2003M%26PSA..38.5272L&amp;rft.issue=suppl&amp;rft.jtitle=Meteoritics+%26+Planetary+Science&amp;rft.pages=5272&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=38" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+</li>
+<li id="cite_note-Ostlie-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-Ostlie_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Ostlie_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Ostlie_3-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">Ostlie, Dale A. and Carrol, Bradley W., <a rel="nofollow" class="external text" href="http://www.amazon.com/Introduction-Modern-Astrophysics-Bradley-Carroll/dp/0805304029/ref=pd_bxgy_b_text_b"><i>An introduction to Modern Stellar Astrophysics</i></a>, Addison-Wesley (2007)</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation journal">Sackmann, I.-Juliana; Boothroyd, Arnold I.; Kraemer, Kathleen E. (November 1993). "Our Sun. III. Present and Future". <i>Astrophysical Journal</i>. <b>418</b>: 457–468. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/1993ApJ...418..457S">1993ApJ...418..457S</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1086%2F173407">10.1086/173407</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStandard+solar+model&amp;rft.atitle=Our+Sun.+III.+Present+and+Future&amp;rft.au=Boothroyd%2C+Arnold+I.&amp;rft.aufirst=I.-Juliana&amp;rft.au=Kraemer%2C+Kathleen+E.&amp;rft.aulast=Sackmann&amp;rft.date=1993-11&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F1993ApJ...418..457S&amp;rft_id=info%3Adoi%2F10.1086%2F173407&amp;rft.jtitle=Astrophysical+Journal&amp;rft.pages=457-468&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=418" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation book">Hansen, Carl J.; Kawaler, Steven D.; Trimble, Virginia (2004). <i>Stellar Interiors</i> (2nd ed.). Springer. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-387-20089-4" title="Special:BookSources/0-387-20089-4">0-387-20089-4</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStandard+solar+model&amp;rft.aufirst=Carl+J.&amp;rft.au=Kawaler%2C+Steven+D.&amp;rft.aulast=Hansen&amp;rft.au=Trimble%2C+Virginia&amp;rft.btitle=Stellar+Interiors&amp;rft.date=2004&amp;rft.edition=2nd&amp;rft.genre=book&amp;rft.isbn=0-387-20089-4&amp;rft.pub=Springer&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation journal">Stein, R.F. &amp; Nordlund, A. (May 1998). "Simulations of Solar Granulation. I. General Properties". <i>Astrophysical Journal</i>. <b>499</b> (2): 914–+. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/1998ApJ...499..914S">1998ApJ...499..914S</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1086%2F305678">10.1086/305678</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStandard+solar+model&amp;rft.atitle=Simulations+of+Solar+Granulation.+I.+General+Properties&amp;rft.au=Nordlund%2C+A.&amp;rft.au=Stein%2C+R.F.&amp;rft.date=1998-05&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F1998ApJ...499..914S&amp;rft_id=info%3Adoi%2F10.1086%2F305678&amp;rft.issue=2&amp;rft.jtitle=Astrophysical+Journal&amp;rft.pages=914-%2B&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=499" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation journal">Nordlund, A. &amp; Stein, R. (December 1997). F.P. Pijpers; J. Christensen-Dalsgaard &amp; C.S. Rosenthal, eds. "Stellar Convection; general properties". Astrophysics and Space Science Library. <b>225</b>: 79–103. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/1997ASSL..225...79N">1997ASSL..225...79N</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1007%2F978-94-011-5167-2_9">10.1007/978-94-011-5167-2_9</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStandard+solar+model&amp;rft.atitle=Stellar+Convection%3B+general+properties&amp;rft.au=Nordlund%2C+A.&amp;rft.au=Stein%2C+R.&amp;rft.date=1997-12&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F1997ASSL..225...79N&amp;rft_id=info%3Adoi%2F10.1007%2F978-94-011-5167-2_9&amp;rft.pages=79-103&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=225" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation journal">Asplund, M.; et al. (July 2000). "Line formation in solar granulation. I. Fe line shapes, shifts and asymmetries". <i>Astronomy and Astrophysics</i>. <b>359</b>: 729–742. <a href="/wiki/ArXiv" title="ArXiv">arXiv</a>:<span class="plainlinks"><a rel="nofollow" class="external text" href="//arxiv.org/abs/astro-ph/0005320">astro-ph/0005320</a><span style="margin-left:0.1em"><img alt="Freely accessible" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" title="Freely accessible" width="9" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" data-file-width="512" data-file-height="813" /></span></span>. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2000A&amp;A...359..729A">2000A&amp;A...359..729A</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStandard+solar+model&amp;rft.atitle=Line+formation+in+solar+granulation.+I.+Fe+line+shapes%2C+shifts+and+asymmetries&amp;rft.au=Asplund%2C+M.&amp;rft.date=2000-07&amp;rft.genre=article&amp;rft_id=info%3Aarxiv%2Fastro-ph%2F0005320&amp;rft_id=info%3Abibcode%2F2000A%26A...359..729A&amp;rft.jtitle=Astronomy+and+Astrophysics&amp;rft.pages=729-742&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=359" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation journal">Rosenthal, C.S.; et al. (November 1999). "Convective contributions to the frequencies of solar oscillations". <i>Astronomy and Astrophysics</i>. <b>351</b>: 689–700. <a href="/wiki/ArXiv" title="ArXiv">arXiv</a>:<span class="plainlinks"><a rel="nofollow" class="external text" href="//arxiv.org/abs/astro-ph/9803206">astro-ph/9803206</a><span style="margin-left:0.1em"><img alt="Freely accessible" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" title="Freely accessible" width="9" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" data-file-width="512" data-file-height="813" /></span></span>. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/1999A&amp;A...351..689R">1999A&amp;A...351..689R</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStandard+solar+model&amp;rft.atitle=Convective+contributions+to+the+frequencies+of+solar+oscillations&amp;rft.au=Rosenthal%2C+C.S.&amp;rft.date=1999-11&amp;rft.genre=article&amp;rft_id=info%3Aarxiv%2Fastro-ph%2F9803206&amp;rft_id=info%3Abibcode%2F1999A%26A...351..689R&amp;rft.jtitle=Astronomy+and+Astrophysics&amp;rft.pages=689-700&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=351" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation journal">Li, L.H.; et al. (March 2002). "Inclusion of Turbulence in Solar Modeling". <i>The Astrophysical Journal</i>. <b>567</b> (2): 1192–1201. <a href="/wiki/ArXiv" title="ArXiv">arXiv</a>:<span class="plainlinks"><a rel="nofollow" class="external text" href="//arxiv.org/abs/astro-ph/0109078">astro-ph/0109078</a><span style="margin-left:0.1em"><img alt="Freely accessible" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" title="Freely accessible" width="9" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" data-file-width="512" data-file-height="813" /></span></span>. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2002ApJ...567.1192L">2002ApJ...567.1192L</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1086%2F338352">10.1086/338352</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStandard+solar+model&amp;rft.atitle=Inclusion+of+Turbulence+in+Solar+Modeling&amp;rft.au=Li%2C+L.H.&amp;rft.date=2002-03&amp;rft.genre=article&amp;rft_id=info%3Aarxiv%2Fastro-ph%2F0109078&amp;rft_id=info%3Abibcode%2F2002ApJ...567.1192L&amp;rft_id=info%3Adoi%2F10.1086%2F338352&amp;rft.issue=2&amp;rft.jtitle=The+Astrophysical+Journal&amp;rft.pages=1192-1201&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=567" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation journal">Christensen-Dalsgaard, J. (November 2002). "Helioseismology". <i>Reviews of Modern Physics</i>. <b>74</b> (4): 1073–1129. <a href="/wiki/ArXiv" title="ArXiv">arXiv</a>:<span class="plainlinks"><a rel="nofollow" class="external text" href="//arxiv.org/abs/astro-ph/0207403">astro-ph/0207403</a><span style="margin-left:0.1em"><img alt="Freely accessible" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" title="Freely accessible" width="9" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" data-file-width="512" data-file-height="813" /></span></span>. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2002RvMP...74.1073C">2002RvMP...74.1073C</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1103%2FRevModPhys.74.1073">10.1103/RevModPhys.74.1073</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStandard+solar+model&amp;rft.atitle=Helioseismology&amp;rft.au=Christensen-Dalsgaard%2C+J.&amp;rft.date=2002-11&amp;rft.genre=article&amp;rft_id=info%3Aarxiv%2Fastro-ph%2F0207403&amp;rft_id=info%3Abibcode%2F2002RvMP...74.1073C&amp;rft_id=info%3Adoi%2F10.1103%2FRevModPhys.74.1073&amp;rft.issue=4&amp;rft.jtitle=Reviews+of+Modern+Physics&amp;rft.pages=1073-1129&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=74" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-bonannoetal2002-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-bonannoetal2002_12-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">A. Bonanno; H. Schlattl; L. Paternò (2002). "The age of the Sun and the relativistic corrections in the EOS". <i>Astronomy and Astrophysics</i>. <b>390</b> (3): 1115. <a href="/wiki/ArXiv" title="ArXiv">arXiv</a>:<span class="plainlinks"><a rel="nofollow" class="external text" href="//arxiv.org/abs/astro-ph/0204331">astro-ph/0204331</a><span style="margin-left:0.1em"><img alt="Freely accessible" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" title="Freely accessible" width="9" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" data-file-width="512" data-file-height="813" /></span></span>. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2002A&amp;A...390.1115B">2002A&amp;A...390.1115B</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1051%2F0004-6361%3A20020749">10.1051/0004-6361:20020749</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStandard+solar+model&amp;rft.atitle=The+age+of+the+Sun+and+the+relativistic+corrections+in+the+EOS&amp;rft.au=A.+Bonanno&amp;rft.au=H.+Schlattl&amp;rft.au=L.+Patern%C3%B2&amp;rft.date=2002&amp;rft.genre=article&amp;rft_id=info%3Aarxiv%2Fastro-ph%2F0204331&amp;rft_id=info%3Abibcode%2F2002A%26A...390.1115B&amp;rft_id=info%3Adoi%2F10.1051%2F0004-6361%3A20020749&amp;rft.issue=3&amp;rft.jtitle=Astronomy+and+Astrophysics&amp;rft.pages=1115&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=390" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Bahcall-13"><span class="mw-cite-backlink">^ <a href="#cite_ref-Bahcall_13-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Bahcall_13-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Bahcall_13-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a href="/wiki/John_N._Bahcall" title="John N. Bahcall">Bahcall, John</a>. <a rel="nofollow" class="external text" href="http://www.sns.ias.edu/~jnb/SNviewgraphs/snviewgraphs.html">"Solar Neutrino Viewgraphs"</a>. <a href="/wiki/Institute_for_Advanced_Study" title="Institute for Advanced Study">Institute for Advanced Study</a> School of Natural Science<span class="reference-accessdate">. Retrieved <span class="nowrap">2006-07-11</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStandard+solar+model&amp;rft.aufirst=John&amp;rft.aulast=Bahcall&amp;rft.btitle=Solar+Neutrino+Viewgraphs&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.sns.ias.edu%2F~jnb%2FSNviewgraphs%2Fsnviewgraphs.html&amp;rft.pub=Institute+for+Advanced+Study+School+of+Natural+Science&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Bahcall_Tsun-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-Bahcall_Tsun_14-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Bahcall, John (2002). "How many σ's is the solar neutrino effect?". <i><a href="/wiki/Physical_Review_C" class="mw-redirect" title="Physical Review C">Physical Review C</a></i>. <b>65</b> (1): 015802. <a href="/wiki/ArXiv" title="ArXiv">arXiv</a>:<span class="plainlinks"><a rel="nofollow" class="external text" href="//arxiv.org/abs/hep-ph/0108147">hep-ph/0108147</a><span style="margin-left:0.1em"><img alt="Freely accessible" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" title="Freely accessible" width="9" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" data-file-width="512" data-file-height="813" /></span></span>. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2002PhRvC..65a5802B">2002PhRvC..65a5802B</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1103%2FPhysRevC.65.015802">10.1103/PhysRevC.65.015802</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStandard+solar+model&amp;rft.atitle=How+many+%CF%83%99s+is+the+solar+neutrino+effect%3F&amp;rft.aufirst=John&amp;rft.aulast=Bahcall&amp;rft.date=2002&amp;rft.genre=article&amp;rft_id=info%3Aarxiv%2Fhep-ph%2F0108147&amp;rft_id=info%3Abibcode%2F2002PhRvC..65a5802B&amp;rft_id=info%3Adoi%2F10.1103%2FPhysRevC.65.015802&amp;rft.issue=1&amp;rft.jtitle=Physical+Review+C&amp;rft.pages=015802&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=65" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Fiorentini-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-Fiorentini_15-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Fiorentini, G.; B. Ricci (2002). "What have we learnt about the Sun from the measurement of the 8B neutrino flux?". <i><a href="/wiki/Physics_Letters_B" class="mw-redirect" title="Physics Letters B">Physics Letters B</a></i>. <b>526</b> (3–4): 186–190. <a href="/wiki/ArXiv" title="ArXiv">arXiv</a>:<span class="plainlinks"><a rel="nofollow" class="external text" href="//arxiv.org/abs/astro-ph/0111334">astro-ph/0111334</a><span style="margin-left:0.1em"><img alt="Freely accessible" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" title="Freely accessible" width="9" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" data-file-width="512" data-file-height="813" /></span></span>. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2002PhLB..526..186F">2002PhLB..526..186F</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2FS0370-2693%2802%2901159-0">10.1016/S0370-2693(02)01159-0</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStandard+solar+model&amp;rft.atitle=What+have+we+learnt+about+the+Sun+from+the+measurement+of+the+8B+neutrino+flux%3F&amp;rft.au=B.+Ricci&amp;rft.aufirst=G.&amp;rft.aulast=Fiorentini&amp;rft.date=2002&amp;rft.genre=article&amp;rft_id=info%3Aarxiv%2Fastro-ph%2F0111334&amp;rft_id=info%3Abibcode%2F2002PhLB..526..186F&amp;rft_id=info%3Adoi%2F10.1016%2FS0370-2693%2802%2901159-0&amp;rft.issue=3%934&amp;rft.jtitle=Physics+Letters+B&amp;rft.pages=186-190&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=526" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation journal">Anders, E. &amp; Grevesse, N. (January 1989). "Abundances of the elements – Meteoritic and solar". <i>Geochimica et Cosmochimica Acta</i>. <b>53</b> (1): 197–214. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/1989GeCoA..53..197A">1989GeCoA..53..197A</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2F0016-7037%2889%2990286-X">10.1016/0016-7037(89)90286-X</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStandard+solar+model&amp;rft.atitle=Abundances+of+the+elements+%93+Meteoritic+and+solar&amp;rft.au=Anders%2C+E.&amp;rft.au=Grevesse%2C+N.&amp;rft.date=1989-01&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F1989GeCoA..53..197A&amp;rft_id=info%3Adoi%2F10.1016%2F0016-7037%2889%2990286-X&amp;rft.issue=1&amp;rft.jtitle=Geochimica+et+Cosmochimica+Acta&amp;rft.pages=197-214&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=53" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text">Maeder, A., <a rel="nofollow" class="external text" href="https://books.google.com/books?id=akDVteYDC1kC&amp;dq=Physics,+Formation+and+Evolution+of+Rotating+Stars.&amp;printsec=frontcover#v=snippet&amp;q=surface%20lithium%20abundance&amp;f=false">Physics, Formation and Evolution of Rotating Stars.</a> Astron. And Astrophys. Library, Springer Berlin Heidelberg, (2009).</span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation journal">Israelian, G.; et al. (November 2009). "Enhanced lithium depletion in Sun-like stars with orbiting planets". <i>Nature</i>. <b>462</b> (7270): 189–191. <a href="/wiki/ArXiv" title="ArXiv">arXiv</a>:<span class="plainlinks"><a rel="nofollow" class="external text" href="//arxiv.org/abs/0911.4198">0911.4198</a><span style="margin-left:0.1em"><img alt="Freely accessible" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" title="Freely accessible" width="9" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" data-file-width="512" data-file-height="813" /></span></span>. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2009Natur.462..189I">2009Natur.462..189I</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1038%2Fnature08483">10.1038/nature08483</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/19907489">19907489</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStandard+solar+model&amp;rft.atitle=Enhanced+lithium+depletion+in+Sun-like+stars+with+orbiting+planets&amp;rft.au=Israelian%2C+G.&amp;rft.date=2009-11&amp;rft.genre=article&amp;rft_id=info%3Aarxiv%2F0911.4198&amp;rft_id=info%3Abibcode%2F2009Natur.462..189I&amp;rft_id=info%3Adoi%2F10.1038%2Fnature08483&amp;rft_id=info%3Apmid%2F19907489&amp;rft.issue=7270&amp;rft.jtitle=Nature&amp;rft.pages=189-191&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=462" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Standard_solar_model&amp;action=edit&amp;section=19" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.ap.stmarys.ca/~guenther/evolution/ssm1998.html">Description of the SSM by David Guenther</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.sns.ias.edu/~jnb/Papers/Preprints/Neutrino2002/paper.pdf">Solar Models: An Historical Overview by John N. Bahcall</a></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="The_Sun" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3" style="text-align: center;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:The_Sun" title="Template:The Sun"><abbr title="View this template" style="text-align: center;;;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:The_Sun" title="Template talk:The Sun"><abbr title="Discuss this template" style="text-align: center;;;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:The_Sun&amp;action=edit"><abbr title="Edit this template" style="text-align: center;;;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="The_Sun" style="font-size:114%"><a href="/wiki/Sun" title="Sun">The Sun</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align: center;"><strong class="selflink">Internal structure</strong></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Solar_core" title="Solar core">Core</a></li>
+<li><a href="/wiki/Radiation_zone" title="Radiation zone">Radiation zone</a></li>
+<li><a href="/wiki/Tachocline" title="Tachocline">Tachocline</a></li>
+<li><a href="/wiki/Convection_zone" title="Convection zone">Convection zone</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="9" style="width:0%;padding:0px 0px 0px 2px">
+<div>
+<div class="floatright"><a href="/wiki/File:Sun_in_February.jpg" class="image"><img alt="Sun in February.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Sun_in_February.jpg/155px-Sun_in_February.jpg" width="155" height="155" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Sun_in_February.jpg/233px-Sun_in_February.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Sun_in_February.jpg/310px-Sun_in_February.jpg 2x" data-file-width="2632" data-file-height="2632" /></a></div>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align: center;"><a href="/wiki/Stellar_atmosphere" title="Stellar atmosphere">Atmosphere</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;text-align: center;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Photosphere" title="Photosphere">Photosphere</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Supergranulation" title="Supergranulation">Supergranulation</a></li>
+<li><a href="/wiki/Granule_(solar_physics)" title="Granule (solar physics)">Granule</a></li>
+<li><a href="/wiki/Facula" title="Facula">Faculae</a></li>
+<li><a href="/wiki/Sunspot" title="Sunspot">Sunspot</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;text-align: center;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Chromosphere" title="Chromosphere">Chromosphere</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Plage_(astronomy)" title="Plage (astronomy)">Plage</a></li>
+<li><a href="/wiki/Spicule_(solar_physics)" title="Spicule (solar physics)">Spicule</a></li>
+<li><a href="/wiki/Moreton_wave" title="Moreton wave">Moreton wave</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;text-align: center;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Corona" title="Corona">Corona</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Solar_transition_region" title="Solar transition region">Transition region</a></li>
+<li><a href="/wiki/Coronal_hole" title="Coronal hole">Coronal hole</a></li>
+<li><a href="/wiki/Coronal_loop" title="Coronal loop">Coronal loop</a></li>
+<li><a href="/wiki/Coronal_mass_ejection" title="Coronal mass ejection">Coronal mass ejection</a></li>
+<li><a href="/wiki/Solar_prominence" title="Solar prominence">Prominence</a></li>
+<li><a href="/wiki/Helmet_streamer" title="Helmet streamer">Helmet streamer</a></li>
+<li><a href="/wiki/Supra-arcade_downflows" title="Supra-arcade downflows">Supra-arcade downflows</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align: center;"><a href="/wiki/Solar_variation" class="mw-redirect" title="Solar variation">Variation</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Solar_cycle" title="Solar cycle">Solar cycle</a>
+<ul>
+<li><a href="/wiki/List_of_solar_cycles" title="List of solar cycles">List of solar cycles</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Solar_maximum" title="Solar maximum">Solar maximum</a></li>
+<li><a href="/wiki/Solar_minimum" title="Solar minimum">Solar minimum</a></li>
+<li><a href="/wiki/Wolf_number" title="Wolf number">Wolf number</a></li>
+<li><a href="/wiki/Solar_wind" title="Solar wind">Solar wind</a></li>
+<li><a href="/wiki/Solar_flare" title="Solar flare">Flare</a></li>
+<li><a href="/wiki/Helioseismology" title="Helioseismology">Helioseismology</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align: center;"><a href="/wiki/Heliosphere" title="Heliosphere">Heliosphere</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Heliospheric_current_sheet" title="Heliospheric current sheet">Current sheet</a></li>
+<li><a href="/wiki/Heliosphere#Termination_shock" title="Heliosphere">Termination shock</a></li>
+<li><a href="/wiki/Heliosphere#Heliosheath" title="Heliosphere">Heliosheath</a></li>
+<li><a href="/wiki/Heliosphere#Heliopause" title="Heliosphere">Heliopause</a></li>
+<li><a href="/wiki/Bow_shock" class="mw-redirect" title="Bow shock">Bow shock</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align: center;">Related topics</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Solar_activity" class="mw-redirect" title="Solar activity">Solar activity</a></li>
+<li><a href="/wiki/Solar_astronomy" class="mw-redirect" title="Solar astronomy">Solar astronomy</a></li>
+<li><a href="/wiki/Solar_dynamo" title="Solar dynamo">Solar dynamo</a></li>
+<li><a href="/wiki/Solar_eclipse" title="Solar eclipse">Eclipse</a></li>
+<li><a href="/wiki/Solar_energy" title="Solar energy">Solar energy</a></li>
+<li><a href="/wiki/Solar_observation" title="Solar observation">Solar observation</a></li>
+<li><a href="/wiki/Solar_physics" title="Solar physics">Solar physics</a></li>
+<li><a href="/wiki/Solar_System" title="Solar System">Solar System</a></li>
+<li><a href="/wiki/Solar_telescope" title="Solar telescope">Solar telescope</a></li>
+<li><a href="/wiki/Solar_time" title="Solar time">Solar time</a></li>
+<li><strong class="selflink">Standard solar model</strong></li>
+<li><a href="/wiki/Sunlight" title="Sunlight">Radiation</a></li>
+<li><a href="/wiki/Solar_neutrino" title="Solar neutrino">Solar neutrino</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3" style="text-align: center;">
+<div>
+<ul>
+<li><a href="/wiki/Stellar_classification" title="Stellar classification">Spectral class</a>: <a href="/wiki/G-type_main-sequence_star" title="G-type main-sequence star">G2V</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1263
+Cached time: 20170130153532
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.228 seconds
+Real time usage: 0.326 seconds
+Preprocessor visited node count: 1657/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 58984/2097152 bytes
+Template argument size: 972/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 1/500
+Lua time usage: 0.096/10.000 seconds
+Lua memory usage: 4.77 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  222.105      1 -total
+ 52.61%  116.841      1 Template:Reflist
+ 33.61%   74.656     15 Template:Cite_journal
+ 16.30%   36.209      1 Template:Citation_needed
+ 14.64%   32.511      1 Template:Fix
+ 10.24%   22.751      2 Template:Navbox
+ 10.09%   22.409      4 Template:Main
+  9.62%   21.377      2 Template:Category_handler
+  9.01%   20.021      1 Template:The_Sun
+  4.40%    9.770      1 Template:Portal
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:5894781-0!*!0!!en!4!*!math=5 and timestamp 20170130153531 and revision id 750381870
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Standard_solar_model&amp;oldid=750381870">https://en.wikipedia.org/w/index.php?title=Standard_solar_model&amp;oldid=750381870</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Astrophysics" title="Category:Astrophysics">Astrophysics</a></li><li><a href="/wiki/Category:Specific_models" title="Category:Specific models">Specific models</a></li><li><a href="/wiki/Category:Sun" title="Category:Sun">Sun</a></li><li><a href="/wiki/Category:Stellar_evolution" title="Category:Stellar evolution">Stellar evolution</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_April_2011" title="Category:Articles with unsourced statements from April 2011">Articles with unsourced statements from April 2011</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Standard+solar+model" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Standard+solar+model" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Standard_solar_model"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Standard_solar_model"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Standard_solar_model" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Standard_solar_model&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Standard_solar_model&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Standard_solar_model" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Standard_solar_model" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Standard_solar_model&amp;oldid=750381870" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Standard_solar_model&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q2719897" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Standard_solar_model&amp;id=750381870" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Standard+solar+model">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Standard+solar+model&amp;returnto=Standard+solar+model&amp;oldid=750381870&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Standard_solar_model&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-wikiversity"><a href="https://en.wikiversity.org/wiki/Stars/Sun/Standard_models" hreflang="en">Wikiversity</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Model_solar_est%C3%A0ndard" title="Model solar estàndard – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Modelo_solar_est%C3%A1ndar" title="Modelo solar estándar – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Modello_Solare_Standard" title="Modello Solare Standard – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Standard_solmodell" title="Standard solmodell – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk bokmål</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Modelo_solar_padr%C3%A3o" title="Modelo solar padrão – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Modelul_standard_solar" title="Modelul standard solar – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Standart_solar_model" title="Standart solar model – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E6%A8%99%E6%BA%96%E5%A4%AA%E9%99%BD%E6%A8%A1%E5%9E%8B" title="標準太陽模型 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q2719897#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 19 November 2016, at 10:51.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Standard_solar_model&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.228","walltime":"0.326","ppvisitednodes":{"value":1657,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":58984,"limit":2097152},"templateargumentsize":{"value":972,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  222.105      1 -total"," 52.61%  116.841      1 Template:Reflist"," 33.61%   74.656     15 Template:Cite_journal"," 16.30%   36.209      1 Template:Citation_needed"," 14.64%   32.511      1 Template:Fix"," 10.24%   22.751      2 Template:Navbox"," 10.09%   22.409      4 Template:Main","  9.62%   21.377      2 Template:Category_handler","  9.01%   20.021      1 Template:The_Sun","  4.40%    9.770      1 Template:Portal"]},"scribunto":{"limitreport-timeusage":{"value":"0.096","limit":"10.000"},"limitreport-memusage":{"value":5003658,"limit":52428800}},"cachereport":{"origin":"mw1263","timestamp":"20170130153532","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":401,"wgHostname":"mw1263"});});</script>
+	</body>
+</html>

@@ -1,0 +1,543 @@
+url : https://en.wikipedia.org/wiki/Thermophotovoltaic
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Thermophotovoltaic - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Thermophotovoltaic","wgTitle":"Thermophotovoltaic","wgCurRevisionId":754362513,"wgRevisionId":754362513,"wgArticleId":2937772,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: Multiple names: authors list","CS1 errors: chapter ignored","Articles to be split from January 2016","All articles to be split","Thermodynamics","Electricity","Photovoltaics"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Thermophotovoltaic","wgRelevantArticleId":2937772,"wgRequestId":"WI6OAwpAAEIAAeefItcAAACM","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q2944104","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","ext.math.scripts","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.9"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Thermophotovoltaic"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Thermophotovoltaic&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Thermophotovoltaic&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Thermophotovoltaic"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Thermophotovoltaic rootpage-Thermophotovoltaic skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Thermophotovoltaic</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><p><b>Thermophotovoltaic</b> (TPV) energy conversion is a direct conversion process from heat to <a href="/wiki/Electricity" title="Electricity">electricity</a> via <a href="/wiki/Photon" title="Photon">photons</a>. A basic thermophotovoltaic system consists of a <a href="/wiki/Thermal" title="Thermal">thermal</a> <a href="/wiki/Anode" title="Anode">emitter</a> and a <a href="/wiki/Photovoltaic" class="mw-redirect" title="Photovoltaic">photovoltaic</a> <a href="/wiki/Diode" title="Diode">diode</a> cell.</p>
+<p>The <a href="/wiki/Temperature" title="Temperature">temperature</a> of the thermal emitter varies between different systems from about 900&#160;°C to about 1300&#160;°C, although in principle TPV devices can extract energy from any emitter with temperature elevated above that of the photovoltaic device (forming an optical <a href="/wiki/Heat_engine" title="Heat engine">heat engine</a>). The emitter can be a piece of solid material or a specially engineered structure.<a href="/wiki/Thermal_radiation" title="Thermal radiation">Thermal emission</a> is the spontaneous emission of photons due to thermal motion of charges in the material. For normal TPV temperatures, this radiation is mostly at <a href="/wiki/Near_infrared" class="mw-redirect" title="Near infrared">near infrared</a> and <a href="/wiki/Infrared" title="Infrared">infrared</a> <a href="/wiki/Frequencies" class="mw-redirect" title="Frequencies">frequencies</a>. The photovoltaic diodes can absorb some of these radiated photons and convert them into free <a href="/wiki/Charge_carrier" title="Charge carrier">charge carriers</a>, that is electricity.</p>
+<p>Thermophotovoltaic systems have few, if any, <a href="/wiki/Moving_parts" title="Moving parts">moving parts</a> and are therefore very quiet and require low maintenance. These properties make thermophotovoltaic systems suitable for remote-site and portable electricity-generating applications. Their <a href="/wiki/Energy_conversion_efficiency" title="Energy conversion efficiency">efficiency</a>-<a href="/wiki/Cost" title="Cost">cost</a> properties, however, are often rather poor compared to other electricity-generating technologies. Current research in the area aims at increasing the system efficiencies while keeping the system cost low.</p>
+<p>In the design of a TPV system, it is usually desired to match the optical properties of thermal emission (<a href="/wiki/Wavelength" title="Wavelength">wavelength</a>, <a href="/wiki/Polarization_(waves)" title="Polarization (waves)">polarization</a>, direction) with the most efficient conversion characteristics of the photovoltaic cell, since unconverted thermal emission is a major source of inefficiency. Most groups focus on <a href="/wiki/Gallium_antimonide" title="Gallium antimonide">gallium antimonide</a> (GaSb) cells. <a href="/wiki/Germanium" title="Germanium">Germanium</a> (Ge) is also suitable.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Much research and development in TPVs therefore concerns methods for controlling the emitter's properties.</p>
+<p>TPV cells have often been proposed as auxiliary power conversion devices for regeneration of lost heat in other power generation systems, such as steam turbine systems or solar cells.</p>
+<p>A prototype TPV hybrid car was even built, the "Viking 29"<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> (TPV) powered automobile, designed and built by the Vehicle Research Institute (VRI) at <a href="/wiki/Western_Washington_University" title="Western Washington University">Western Washington University</a>.</p>
+<p>TPV research is a very active area. Among others, the <a href="/wiki/University_of_Houston" title="University of Houston">University of Houston</a> TPV Radioisotope Power Conversion Technology development effort is aiming at combining thermophotovoltaic cell concurrently with <a href="/wiki/Thermocouple" title="Thermocouple">thermocouples</a> to provide a 3 to 4-fold improvement in system efficiency over current <a href="/wiki/Radioisotope_thermoelectric_generator" title="Radioisotope thermoelectric generator">radioisotope thermoelectric generators</a>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Background"><span class="tocnumber">2</span> <span class="toctext">Background</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Efficiency"><span class="tocnumber">3</span> <span class="toctext">Efficiency</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Emitters"><span class="tocnumber">3.1</span> <span class="toctext">Emitters</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Filters"><span class="tocnumber">3.2</span> <span class="toctext">Filters</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Converters"><span class="tocnumber">3.3</span> <span class="toctext">Converters</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Geometry"><span class="tocnumber">3.4</span> <span class="toctext">Geometry</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Blackbody_radiation"><span class="tocnumber">4</span> <span class="toctext">Blackbody radiation</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Active_components_and_materials_selection"><span class="tocnumber">5</span> <span class="toctext">Active components and materials selection</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="#Emitters_2"><span class="tocnumber">5.1</span> <span class="toctext">Emitters</span></a>
+<ul>
+<li class="toclevel-3 tocsection-11"><a href="#Polycrystalline_silicon_carbide"><span class="tocnumber">5.1.1</span> <span class="toctext">Polycrystalline silicon carbide</span></a></li>
+<li class="toclevel-3 tocsection-12"><a href="#Tungsten"><span class="tocnumber">5.1.2</span> <span class="toctext">Tungsten</span></a></li>
+<li class="toclevel-3 tocsection-13"><a href="#Rare-earth_oxides"><span class="tocnumber">5.1.3</span> <span class="toctext">Rare-earth oxides</span></a></li>
+<li class="toclevel-3 tocsection-14"><a href="#Photonic_crystals"><span class="tocnumber">5.1.4</span> <span class="toctext">Photonic crystals</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-15"><a href="#Photovoltaic_cells"><span class="tocnumber">5.2</span> <span class="toctext">Photovoltaic cells</span></a>
+<ul>
+<li class="toclevel-3 tocsection-16"><a href="#Silicon"><span class="tocnumber">5.2.1</span> <span class="toctext">Silicon</span></a></li>
+<li class="toclevel-3 tocsection-17"><a href="#Germanium"><span class="tocnumber">5.2.2</span> <span class="toctext">Germanium</span></a></li>
+<li class="toclevel-3 tocsection-18"><a href="#Gallium_antimonide"><span class="tocnumber">5.2.3</span> <span class="toctext">Gallium antimonide</span></a></li>
+<li class="toclevel-3 tocsection-19"><a href="#Indium_gallium_arsenide_antimonide"><span class="tocnumber">5.2.4</span> <span class="toctext">Indium gallium arsenide antimonide</span></a></li>
+<li class="toclevel-3 tocsection-20"><a href="#Indium_gallium_arsenide"><span class="tocnumber">5.2.5</span> <span class="toctext">Indium gallium arsenide</span></a></li>
+<li class="toclevel-3 tocsection-21"><a href="#Indium_phosphide_arsenide_antimonide"><span class="tocnumber">5.2.6</span> <span class="toctext">Indium phosphide arsenide antimonide</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-22"><a href="#Applications_of_thermophotovoltaics"><span class="tocnumber">6</span> <span class="toctext">Applications of thermophotovoltaics</span></a>
+<ul>
+<li class="toclevel-2 tocsection-23"><a href="#Government_applications"><span class="tocnumber">6.1</span> <span class="toctext">Government applications</span></a>
+<ul>
+<li class="toclevel-3 tocsection-24"><a href="#Man-portable_power"><span class="tocnumber">6.1.1</span> <span class="toctext">Man-portable power</span></a></li>
+<li class="toclevel-3 tocsection-25"><a href="#Spacecraft"><span class="tocnumber">6.1.2</span> <span class="toctext">Spacecraft</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-26"><a href="#Commercial_applications"><span class="tocnumber">6.2</span> <span class="toctext">Commercial applications</span></a>
+<ul>
+<li class="toclevel-3 tocsection-27"><a href="#Off-grid_generators"><span class="tocnumber">6.2.1</span> <span class="toctext">Off-grid generators</span></a></li>
+<li class="toclevel-3 tocsection-28"><a href="#Recreational_vehicles"><span class="tocnumber">6.2.2</span> <span class="toctext">Recreational vehicles</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-29"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-30"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thermophotovoltaic&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Though <a href="/wiki/Henry_Kolm" title="Henry Kolm">Henry Kolm</a> had constructed an elementary TPV system at <a href="/wiki/MIT" class="mw-redirect" title="MIT">MIT</a> in 1956, <a href="/wiki/Pierre_Aigrain" title="Pierre Aigrain">Pierre Aigrain</a> is widely cited as the inventor of TPV based on the content of some lectures he gave at MIT between 1960–1961 which, unlike Kolm's system, led to research and development.<sup id="cite_ref-Nelson_3-0" class="reference"><a href="#cite_note-Nelson-3">[3]</a></sup> A review of the historical development of TPV is presented in Nelson (2003).<sup id="cite_ref-Nelson_3-1" class="reference"><a href="#cite_note-Nelson-3">[3]</a></sup></p>
+<h2><span class="mw-headline" id="Background">Background</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thermophotovoltaic&amp;action=edit&amp;section=2" title="Edit section: Background">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Thermophotovoltaics (TPVs) are a class of power generating systems that are used to convert thermal energy into electrical energy. They consist of, at a minimum, an emitter and a photovoltaic power converter. However, most TPV systems also include additional components such as concentrators, filters and reflectors. The basic principle of operation is similar to that of traditional photovoltaics (PV) where a <a href="/wiki/P-n_junction" class="mw-redirect" title="P-n junction">p-n junction</a> is used to absorb <a href="/wiki/Optical_power" title="Optical power">optical energy</a>, generate and separate electron/hole pairs, and in doing so convert that energy into electrical power. The difference is that the optical energy is not directly generated by the Sun, but instead by a material at high temperature (termed the emitter), causing it to emit light. In this way thermal energy is converted to electrical energy.</p>
+<p>The emitter can be heated by sunlight or combustion. In this sense, TPVs provide a great deal of versatility in potential fuels. In the case of solar TPVs, extremely large concentrators are needed to provide reasonable temperatures for efficient operation.</p>
+<p>Vast improvements can be made on this basic concept by taking advantage of filters or selective emitters to create emissions in a narrow wavelength range that is optimized for the specific photovoltaic (PV) converter used in the system. In this way TPVs can overcome a fundamental challenge for traditional PVs, making efficient use of the entire solar spectrum. For blackbody emitters, photons with energy less than the <a href="/wiki/Bandgap" class="mw-redirect" title="Bandgap">bandgap</a> of the converter cannot be absorbed to generate electron-hole pairs, and are either reflected and lost or pass through the cell. Photons with energy above the bandgap can be absorbed, but the excess energy, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi mathvariant="normal">&#x0394;<!-- Δ --></mi>
+        <mi>G</mi>
+        <mo>=</mo>
+        <msub>
+          <mi>E</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>p</mi>
+            <mi>h</mi>
+            <mi>o</mi>
+            <mi>t</mi>
+            <mi>o</mi>
+            <mi>n</mi>
+          </mrow>
+        </msub>
+        <mo>&#x2212;<!-- − --></mo>
+        <msub>
+          <mi>E</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>g</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \Delta G=E_{photon}-E_{g}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e52dbe95f6933b8a376c4da691eae2c40b22f93a" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:19.448ex; height:3.009ex;" alt="\Delta G = E_{photon} - E_{g} " /></span>, is again lost, generating undesirable heating in the cell. In the case of TPVs, similar issues can exist, but the use of either selective emitters (emissivity over only a narrow wavelength range), or optical filters that only pass a narrow range of wavelengths and reflect all others, can be used to generate emission spectra that can be optimally converted by the PV device.</p>
+<p>To achieve the maximum efficiency, all photons should be converted. A process often termed photon recycling can be used to approach this. Here reflectors are placed behind the converter and anywhere else in the system that photons might not be efficiently directed to the collector. These photons are directed back to the concentrator where they can be converted, or back to the emitter, where they can be reabsorbed to generate heat and additional photons. An idealized TPV system would use photon recycling and selective emission to convert all photons into electricity.</p>
+<h2><span class="mw-headline" id="Efficiency">Efficiency</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thermophotovoltaic&amp;action=edit&amp;section=3" title="Edit section: Efficiency">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>To understand the overall benefit of TPV systems, a discussion of the basic principles of efficiency in TPVs is useful. The absolute upper limit for efficiency in TPVs (and all systems that convert heat energy to work) is the <a href="/wiki/Carnot_efficiency" class="mw-redirect" title="Carnot efficiency">Carnot efficiency</a>, that of an ideal heat engine. This efficiency is given by:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>&#x03B7;<!-- η --></mi>
+        <mo>=</mo>
+        <mn>1</mn>
+        <mo>&#x2212;<!-- − --></mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <msub>
+              <mi>T</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi>c</mi>
+                <mi>e</mi>
+                <mi>l</mi>
+                <mi>l</mi>
+              </mrow>
+            </msub>
+            <msub>
+              <mi>T</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi>e</mi>
+                <mi>m</mi>
+                <mi>i</mi>
+                <mi>t</mi>
+              </mrow>
+            </msub>
+          </mfrac>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \eta =1-{\frac {T_{cell}}{T_{emit}}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/430ca594d73468a78277323ec48e5f690ad29495" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.338ex; width:14.149ex; height:5.843ex;" alt="\eta = 1 - \frac{T_{cell}}{T_{emit}}" /></span></dd>
+</dl>
+<p>where T<sub>cell</sub> is the temperature of the PV converter. For the best reasonable values in a practical system, T<sub>cell</sub>~300K and T<sub>emit</sub>~1800, giving a maximum efficiency of ~83%. This limit sets the upper limit for the system efficiency. At 83% efficiency, all heat energy is converted to radiation by the emitter which is then converted by the PV into electrical energy without losses, such as thermalization or <a href="/wiki/Joule_heating" title="Joule heating">Joule heating</a>. At the maximum efficiency, we also assume that there is no entropy change, which is only possible if the emitter and cell are at the same temperature. Still, as an upper limit, it is useful. Because of the complexity of TPV systems and the many sources of inefficiency, more accurate models for efficiency become quite complicated, but a discussion of the various sources of inefficiency that cause real systems to fall far short of this limit is worthwhile.</p>
+<h3><span class="mw-headline" id="Emitters">Emitters</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thermophotovoltaic&amp;action=edit&amp;section=4" title="Edit section: Emitters">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>For the emitter, deviations from perfect absorbing and perfect blackbody behavior lead to light losses. For the case of selective emitters, any light emitted at wavelengths not matched to the bandgap energy of the PV may not be efficiently converted (for reasons discussed above) and leads to reduced efficiency. In particular, emissions associated with phonon resonances are difficult to avoid for wavelengths in the deep IR, which cannot be practically converted. Ideally, an emitter will not emit in this range, and energy will only be converted at wavelengths that are easily converted.</p>
+<h3><span class="mw-headline" id="Filters">Filters</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thermophotovoltaic&amp;action=edit&amp;section=5" title="Edit section: Filters">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>For blackbody emitters or imperfect selective emitters, filters are needed to reflect non-ideal wavelengths back to the emitter. In practice, these filters are rarely perfect. Any light that is absorbed or scattered and not redirected to the emitter or the converter is lost. Additionally, practical filters often reflect a small percentage of light in desired wavelength ranges or transmit light of non-ideal wavelengths. Both can lead to inefficiencies.</p>
+<h3><span class="mw-headline" id="Converters">Converters</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thermophotovoltaic&amp;action=edit&amp;section=6" title="Edit section: Converters">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Even for systems where only light of optimal wavelengths is passed to the converter, inefficiencies associated with non-radiative recombination and <a href="/wiki/Joule_heating" title="Joule heating">ohmic losses</a> exist. Since these losses can depend on the intensity of light incident on the cell, real systems must consider the intensity produced by a given set of conditions (emitter material, filter, <a href="/wiki/Operating_temperature" title="Operating temperature">operating temperature</a>).</p>
+<h3><span class="mw-headline" id="Geometry">Geometry</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thermophotovoltaic&amp;action=edit&amp;section=7" title="Edit section: Geometry">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In an ideal system, the emitter would be surrounded by PV converters so no light is lost. However, realistically, geometries must accommodate the input energy (fuel injection or input light) used to heat the emitter. Additionally, high costs prohibit the placement of converters everywhere. When the emitter reemits light, anything that does not travel to the converters is lost. Mirrors can be used to redirect some of this light back to the emitter; however, the mirrors may have their own losses.</p>
+<h2><span class="mw-headline" id="Blackbody_radiation">Blackbody radiation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thermophotovoltaic&amp;action=edit&amp;section=8" title="Edit section: Blackbody radiation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>To understand some of the practical demands of real TPV components, looking at some basic numbers is useful. For the purposes of these arguments we will discuss blackbody emitters where photon recirculation is achieved via filters; however, similar concepts can be applied towards selective emission emitters. <a href="/wiki/Planck%27s_law" title="Planck's law">Planck's law</a> states that a blackbody will emit light with a spectrum given by:</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msup>
+          <mi>I</mi>
+          <mo>&#x2032;</mo>
+        </msup>
+        <mo stretchy="false">(</mo>
+        <mi>&#x03BB;<!-- λ --></mi>
+        <mo>,</mo>
+        <mi>T</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mn>2</mn>
+              <mi>h</mi>
+              <msup>
+                <mi>c</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mn>2</mn>
+                </mrow>
+              </msup>
+            </mrow>
+            <msup>
+              <mi>&#x03BB;<!-- λ --></mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mn>5</mn>
+              </mrow>
+            </msup>
+          </mfrac>
+        </mrow>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mn>1</mn>
+            <mrow>
+              <msup>
+                <mi>e</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mfrac>
+                    <mrow>
+                      <mi>h</mi>
+                      <mi>c</mi>
+                    </mrow>
+                    <mrow>
+                      <mi>&#x03BB;<!-- λ --></mi>
+                      <mi>k</mi>
+                      <mi>T</mi>
+                    </mrow>
+                  </mfrac>
+                </mrow>
+              </msup>
+              <mo>&#x2212;<!-- − --></mo>
+              <mn>1</mn>
+            </mrow>
+          </mfrac>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle I'(\lambda ,T)={\frac {2hc^{2}}{\lambda ^{5}}}{\frac {1}{e^{\frac {hc}{\lambda kT}}-1}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5664aeea1d63e921fa0dc154a10103d8ab5d37c8" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -3.505ex; width:25.805ex; height:7.343ex;" alt="I&#039;(\lambda,T) =\frac{2 hc^2}{\lambda^5}\frac{1}{ e^{\frac{hc}{\lambda kT}}-1}" /></span></p>
+<p>where I' is the flux of light of a specific wavelength, λ, given in units of 1/m<sup>3</sup>/s. Here, h is <a href="/wiki/Planck_constant" title="Planck constant">Planck constant</a>, k is <a href="/wiki/Boltzmann_constant" title="Boltzmann constant">Boltzmann constant</a>, c is the speed of light, and T<sub>emit</sub> is the temperature of the emitter. Thus, the flux of light with wavelengths in a specific range can be found by integrating over the range. The peak wavelength is determined by the temperature, T<sub>emit</sub> based on <a href="/wiki/Wien%27s_displacement_law" title="Wien's displacement law">Wien's displacement law</a>:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>&#x03BB;<!-- λ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mrow class="MJX-TeXAtom-ORD">
+              <mi mathvariant="normal">m</mi>
+              <mi mathvariant="normal">a</mi>
+              <mi mathvariant="normal">x</mi>
+            </mrow>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mi>b</mi>
+            <mi>T</mi>
+          </mfrac>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \lambda _{\mathrm {max} }={\frac {b}{T}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/151dbd80f353bf33caf38757105b01395092f8af" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.838ex; width:10.271ex; height:5.343ex;" alt="\lambda_{\mathrm{max}} = \frac{b}{T} " /></span></dd>
+</dl>
+<p>where b is Wien's displacement constant. For most materials, the maximum temperature an emitter can stably operate at is about 1800&#160;°C. This corresponds to an intensity which is peaked at λ~1600&#160;nm or an energy of ~0.75 eV. For more reasonable operation temperatures of 1200&#160;°C, this drops to ~0.5 eV. These energies dictate the range of bandgaps that are needed for practical TPV converters (though the peak spectral power is slightly higher). Traditional PV materials such as Si (1.1 eV) and GaAs (1.4 eV) are substantially less practical for TPV systems, as the intensity of the blackbody spectrum is extremely low at these energies for emitters at realistic temperatures.</p>
+<h2><span class="mw-headline" id="Active_components_and_materials_selection">Active components and materials selection</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thermophotovoltaic&amp;action=edit&amp;section=9" title="Edit section: Active components and materials selection">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Emitters_2">Emitters</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thermophotovoltaic&amp;action=edit&amp;section=10" title="Edit section: Emitters">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Efficiency, temperature resistance, and cost are the three major factors when choosing the radiator for TPVs. Efficiency is determined by energy absorbed relative to total incoming radiation. Ability to operate at high temperatures is a crucial factor because efficiency increases with operating temperature. As emitter temperature increases, the blackbody radiation shifts to shorter wavelengths, allowing for more efficient absorption by photovoltaic cells. Lastly, cost is a major limitation in commercialization of TPVs.</p>
+<h4><span class="mw-headline" id="Polycrystalline_silicon_carbide">Polycrystalline silicon carbide</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thermophotovoltaic&amp;action=edit&amp;section=11" title="Edit section: Polycrystalline silicon carbide">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Polycrystalline <a href="/wiki/Silicon_carbide" title="Silicon carbide">silicon carbide</a> (SiC) is the most commonly used emitter for burner TPVs. SiC is thermally stable to ~1700&#160;°C. However, SiC radiates much of its energy in the long wavelength regime, far lower in energy than even the narrowest bandgap photovoltaic. This radiation, in turn, is not converted into electrical energy. However, non-absorbing selective filters in front of the PV,<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> or mirrors deposited on the back side of the PV<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> can be used to reflect the long wavelengths back to the emitter, thereby recycling the unconverted energy. In addition, polycrystalline SiC is extremely cheap to manufacture, making it a good choice for commercial applications.</p>
+<h4><span class="mw-headline" id="Tungsten">Tungsten</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thermophotovoltaic&amp;action=edit&amp;section=12" title="Edit section: Tungsten">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Refractory metals are often used as selective emitters for burner TPVs with <a href="/wiki/Tungsten" title="Tungsten">tungsten</a> being the most common choice. Tungsten has higher emissivity in the visible and near-IR range of 0.45 to 0.47 and a low emissivity of 0.1 to 0.2 in the IR region.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> The emitter is usually in the shape of a cylinder with a sealed bottom, which can be considered a cavity. The emitter is attached to the back of a thermal absorber such as SiC and maintains the same temperature. Emission occurs in the visible and near IR range which can be readily converted by the PV to electrical energy.</p>
+<h4><span class="mw-headline" id="Rare-earth_oxides">Rare-earth oxides</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thermophotovoltaic&amp;action=edit&amp;section=13" title="Edit section: Rare-earth oxides">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Rare-earth oxides such as <a href="/wiki/Ytterbium" title="Ytterbium">ytterbium</a> oxide (Yb<sub>2</sub>O<sub>3</sub>) and <a href="/wiki/Erbium" title="Erbium">erbium</a> oxide (Er<sub>2</sub>O<sub>3</sub>) are the most commonly used selective emitters for TPVs. These oxides emit a narrow band of wavelengths in the near-infrared region, allowing the tailoring of the emission spectra to better fit the absorbance characteristics of a particular PV cell. The peak of the emission spectrum occurs at 1.29 eV for Yb<sub>2</sub>O<sub>3</sub> and 0.827 eV for Er<sub>2</sub>O<sub>3</sub>. As a result, Yb<sub>2</sub>O<sub>3</sub> can be used a selective emitter for Si PV cells and Er<sub>2</sub>O<sub>3</sub>, for GaSb or InGaAs. However, the slight mismatch between the emission peaks and band gap of the absorber results in a significant loss of efficiency. In addition, selective emission only becomes significant at 1100&#160;°C and increases with temperature, per Planck's Law. At reasonable operating temperatures (below 1700&#160;°C), selective emission of rare-earth oxides is fairly low, resulting in a further decrease in efficiency. Currently, only 13% efficiency has been achieved with Yb<sub>2</sub>O<sub>3</sub> and silicon PV cells. In general selective emitters have had limited success. More often filters are used with blackbody emitters to pass wavelengths matched to the bandgap of the PV and reflect mismatched wavelengths back to the emitter.</p>
+<h4><span class="mw-headline" id="Photonic_crystals">Photonic crystals</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thermophotovoltaic&amp;action=edit&amp;section=14" title="Edit section: Photonic crystals">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p><a href="/wiki/Photonic_crystals" class="mw-redirect" title="Photonic crystals">Photonic crystals</a> are a class of novel periodic materials that allow the precise control of electromagnetic wave properties. These materials give rise to the photonic bandgap (PBG). In the spectral range of the PBG, electromagnetic waves cannot propagate. The engineering of these materials allows some ability to tailor their emission and absorption properties, allowing for more effective design of selective emitters. Selective emitters with peaks at higher energy than the blackbody peak (for practical TPV temperatures) allow for wider bandgap converters. These converters are traditionally cheaper to manufacture and less temperature sensitive. Recently, researchers at Sandia Labs have demonstrated a high-efficiency (34% of light emitted from PBG selective emitter can be converted to electricity) TPV emitter using tungsten photonic crystals.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> However, manufacturing of these devices is difficult and not currently commercially feasible.</p>
+<h3><span class="mw-headline" id="Photovoltaic_cells">Photovoltaic cells</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thermophotovoltaic&amp;action=edit&amp;section=15" title="Edit section: Photovoltaic cells">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="Silicon">Silicon</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thermophotovoltaic&amp;action=edit&amp;section=16" title="Edit section: Silicon">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Early work in TPVs focused on the use of Si PVs. Silicon's commercial availability, extremely low cost, scalability, and ease of manufacture makes this material an extremely appealing candidate. However, the relative wide bandgap of Si (1.1eV) is not ideal for use with a blackbody emitter at lower operating temperatures. Calculations using Planck's law, which describes the blackbody spectrum as a function of temperature, indicates that Si PVs would only be feasible at temperatures much higher than 2000 K. No emitter has been demonstrated that can operate at these temperatures. These engineering difficulties led to the pursuit of lower-bandgap semiconductor PVs for conversion of the blackbody spectrum.</p>
+<p>However, using selective radiators with Si PVs is still a possibility. Selective radiators would eliminate high and low energy photons, reducing heat generated. Ideally, selective radiators would emit no radiation above and below the band edge of the PV converter, increasing conversion efficiency significantly. However, selective emitters today are far from ideal. Consequently, no efficient TPVs have been realized using a Si PVs.</p>
+<h4><span class="mw-headline" id="Germanium">Germanium</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thermophotovoltaic&amp;action=edit&amp;section=17" title="Edit section: Germanium">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Early investigations into low bandgap semiconductors focused on germanium (Ge). Ge has a bandgap of 0.66 eV, allowing for conversion of a much higher fraction of incoming radiation. However, poor performance was observed due the extremely high <a href="/wiki/Effective_mass_(solid-state_physics)" title="Effective mass (solid-state physics)">effective electron mass</a> of Ge. Compared to III-V semiconductors, Ge's high electron effective mass leads to a high density of states in the conduction band and therefore a high intrinsic carrier concentration. As a result, Ge diodes have fast decaying "dark" current and therefore, a low open-circuit voltage. In addition, surface passivation of germanium has proven extremely difficult. These reasons make germanium an unlikely candidate for use in TPVs.</p>
+<h4><span class="mw-headline" id="Gallium_antimonide">Gallium antimonide</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thermophotovoltaic&amp;action=edit&amp;section=18" title="Edit section: Gallium antimonide">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>The <a href="/wiki/Gallium_antimonide" title="Gallium antimonide">gallium antimonide</a> (GaSb) PV cell, invented in 1989,<sup id="cite_ref-Fraas_8-0" class="reference"><a href="#cite_note-Fraas-8">[8]</a></sup> is the basis of most PV cells in modern TPV systems. GaSb is a III-V semiconductor with the <a href="/wiki/Zinc_blende" class="mw-redirect" title="Zinc blende">zinc blende</a> crystal structure. The GaSb cell is recognized a key development in the TPV community owing to its narrow bandgap of 0.72 eV. This allows GaSb to respond to light at longer wavelengths than the conventional silicon solar cell thus enabling higher power densities when used in conjunction with manmade emission sources. A solar cell with 35% efficiency was demonstrated by the inventors at Boeing in 1989 using a bilayer PV with GaAs and GaSb,<sup id="cite_ref-Fraas_8-1" class="reference"><a href="#cite_note-Fraas-8">[8]</a></sup> setting the world record for <a href="/wiki/Solar_cell_efficiency" title="Solar cell efficiency">solar cell efficiency</a>.</p>
+<p>The manufacturing process for the GaSb PV cell is quite simple. <a href="/wiki/Czochralski_process" title="Czochralski process">Czochralski</a> Te-doped n-type GaSb wafers are readily commercially available. Vapor-based Zn diffusion is then carried out at elevated temperatures ~450&#160;°C to allow for p-type doping. Lastly, front and back electrical contacts are patterned using traditional photolithography techniques and an anti-reflective coating is deposited. Current efficiencies are estimated at ~20% using a 1000&#160;°C blackbody spectrum.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> The radiative limit for efficiency of the GaSb cell in this setup is 52%, so vast improvements can still be made.</p>
+<h4><span class="mw-headline" id="Indium_gallium_arsenide_antimonide">Indium gallium arsenide antimonide</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thermophotovoltaic&amp;action=edit&amp;section=19" title="Edit section: Indium gallium arsenide antimonide">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<table class="plainlinks metadata ambox ambox-move" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Split-arrows.svg/50px-Split-arrows.svg.png" width="50" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Split-arrows.svg/75px-Split-arrows.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Split-arrows.svg/100px-Split-arrows.svg.png 2x" data-file-width="60" data-file-height="20" /></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">It has been suggested that this section be <a href="/wiki/Wikipedia:Splitting" title="Wikipedia:Splitting">split</a> out into another article. (<a href="/wiki/Talk:Thermophotovoltaic" title="Talk:Thermophotovoltaic">Discuss</a>) <small><i>(January 2016)</i></small></span></td>
+</tr>
+</table>
+<p>Indium gallium arsenide antimonide (InGaAsSb) is a compound III-V semiconductor. (In<sub>x</sub>Ga<sub>1−x</sub>As<sub>y</sub>Sb<sub>1−y</sub>) The addition of GaAs allows for a narrower bandgap (0.5 to 0.6 eV), and therefore better absorption of long wavelengths. Specifically, the bandgap has been engineered to 0.55 eV. With this bandgap, the compounded achieved a photon-weighted internal quantum efficiency of 79% with a fill factor of 65% for a blackbody at 1100&#160;°C.<sup id="cite_ref-Charache_10-0" class="reference"><a href="#cite_note-Charache-10">[10]</a></sup> This was for a device grown on a GaSb substrate by <a href="/wiki/Organometallic_vapour_phase_epitaxy" class="mw-redirect" title="Organometallic vapour phase epitaxy">organometallic vapour phase epitaxy</a> (OMVPE). Devices have also been grown by <a href="/wiki/Molecular_beam_epitaxy" title="Molecular beam epitaxy">molecular beam epitaxy</a> (MBE) and <a href="/wiki/Liquid_phase_epitaxy" class="mw-redirect" title="Liquid phase epitaxy">liquid phase epitaxy</a> (LPE). The internal quantum efficiencies (IQE) of these devices have all been impressive. The IQE of the LPE-grown devices are approaching 90% while devices grown by the other two techniques exceed 95%.<sup id="cite_ref-Wang_11-0" class="reference"><a href="#cite_note-Wang-11">[11]</a></sup> The largest problem with InGaAsSb cells is phase separation. Compositional inconsistencies throughout the device and are extremely detrimental to its performance. When phase separation can be avoided, the IQE and fill factor of InGaAsSb are approaching theoretical limits in wavelength ranges near the bandgap energy, however, the V<sub>oc</sub>/E<sub>g</sub> ratio is far from the ideal.<sup id="cite_ref-Wang_11-1" class="reference"><a href="#cite_note-Wang-11">[11]</a></sup> Improving this ratio through photon recycling and tandem cell structures would be the next area in which the performance of this material could be significantly improved. In addition, current methods to manufacture InGaAsSb PVs are expensive and not commercially viable.</p>
+<h4><span class="mw-headline" id="Indium_gallium_arsenide">Indium gallium arsenide</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thermophotovoltaic&amp;action=edit&amp;section=20" title="Edit section: Indium gallium arsenide">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p><a href="/wiki/Indium_gallium_arsenide" title="Indium gallium arsenide">Indium gallium arsenide</a> (InGaAs) is also a compound III-V semiconductor. It can be applied in two ways for use in TPVs. When lattice-matched to an InP substrate, InGaAs has a bandgap of 0.74 eV, which is not an improvement on traditional GaSb. Devices of this configuration have been produced with a fill factor of 69% and an efficiency of 15%.<sup id="cite_ref-Karlina_12-0" class="reference"><a href="#cite_note-Karlina-12">[12]</a></sup> However, to absorb higher wavelength photons, the bandgap may be engineered by changing the ratio of In to Ga. The range of bandgaps for this system is from about 0.4 to 1.4 eV. However, these different structures cause strain with the InP substrate. This can be controlled with graded layers of InGaAs with different compositions. This was done to develop of device with a quantum efficiency of 68% and a fill factor of 68% grown by molecular beam epitaxy.<sup id="cite_ref-Charache_10-1" class="reference"><a href="#cite_note-Charache-10">[10]</a></sup> This device also had a bandgap of 0.55 eV achieved in the compound In<sub>0.68</sub>Ga<sub>0.33</sub>As. InGaAs has the advantage of being a well-developed material. InGaAs can also be made to lattice match perfectly with Ge resulting in very low defect densities. Being able to use Ge as a substrate is a significant advantage over more expensive or harder to produce substrates.</p>
+<h4><span class="mw-headline" id="Indium_phosphide_arsenide_antimonide">Indium phosphide arsenide antimonide</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thermophotovoltaic&amp;action=edit&amp;section=21" title="Edit section: Indium phosphide arsenide antimonide">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>The InPAsSb quaternary alloy has been grown by both OMVPE and LPE. When lattice-matched to InAs, it has a bandgap in the range 0.3–0.55 eV. The benefits of a TPV system with such a low band gap have not been studied significantly. Therefore, cells incorporating InPAsSb have not been optimized and do not yet have very competitive properties and performance. The longest spectral response from an InPAsSb cell studied was out to 4.3 μm with a maximum response at 3 μm.<sup id="cite_ref-Wang_11-2" class="reference"><a href="#cite_note-Wang-11">[11]</a></sup> While this is a promising material in the very low bandgap range, it has yet to be developed. For this and other extremely low-bandgap materials, high IQE for long wavelengths is hard to achieve due to an increase in <a href="/wiki/Auger_recombination" class="mw-redirect" title="Auger recombination">Auger recombination</a>.</p>
+<h2><span class="mw-headline" id="Applications_of_thermophotovoltaics">Applications of thermophotovoltaics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thermophotovoltaic&amp;action=edit&amp;section=22" title="Edit section: Applications of thermophotovoltaics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>TPVs have significant promise for efficient and economically viable power systems for both military and commercial applications. Compared to traditional nonrenewable energy sources, burner TPVs have little NO<sub>x</sub> emissions and are virtually silent. Solar TPVs, on the other hand, are a source of entirely renewable energy with no emissions. Compared to photovoltaics, TPVs can be more efficient owing to recycling of unabsorbed photons. However, the structure of TPVs is more complex, and losses at each energy conversion step can result in a lower efficiency than that of photovoltaics. Further developments must be made to the absorber/emitter and PV cell to realize its full potential as a renewable energy source. Unlike PVs, however, when TPVs are used with a burner source, they provide on-demand energy. As a result, no form of energy storage is needed. In addition, owing to the PV's proximity to the radiative source, TPVs can generate current densities 300 times that of conventional PVs.</p>
+<h3><span class="mw-headline" id="Government_applications">Government applications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thermophotovoltaic&amp;action=edit&amp;section=23" title="Edit section: Government applications">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="Man-portable_power">Man-portable power</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thermophotovoltaic&amp;action=edit&amp;section=24" title="Edit section: Man-portable power">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>With the increased usage of electronics on the battlefield, there is a need to provide portable power sources to soldiers. Conventional diesel generators are far too heavy for personal use in the field. Scalability allows TPVs to be smaller and lighter than conventional generators. In addition TPVs have very little emission and are silent, making it feasible for tactical field application. Multifuel operation is another potential future benefit.</p>
+<p>Early investigations into TPVs in the 1970s proved to be impossible due to PV limitations. However, with the realization of the GaSb photocell, a renewed effort in the 1990s produced greater results. In early 2001, JX Crystals delivered a TPV based battery charger to the Army that produced an output of 230 W by burning propane. This prototype utilized SiC emitter operating at 1250&#160;°C and GaSb photocells and was approximately 0.5 m tall.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup> The power source had an efficiency of 2.5%, calculated by the ratio of the power generated to the thermal energy of the fuel burned. This is too low for practical use on the battlefield. To increase efficiency, narrow-band emitters would need to be realized and the temperature of the burner would need to be raised. To accommodate this, further thermal management steps, such as water cooling or coolant boiling, must be implemented. Although many successful proof-of-concept prototypes have been demonstrated, no portable TPV power sources have been developed for troop testing or battlefield implementation.</p>
+<h4><span class="mw-headline" id="Spacecraft">Spacecraft</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thermophotovoltaic&amp;action=edit&amp;section=25" title="Edit section: Spacecraft">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>For space travel power generation systems are needed that provide consistent and reliable power without requiring storage of large amounts of fuel. As a result, solar and <a href="/wiki/Radioisotope" class="mw-redirect" title="Radioisotope">radioisotope</a> fuels (extremely high power density and long lifetime) are ideal sources of energy. TPVs have been proposed as sources for conversion for each. In the case of solar energy, orbital spacecraft may be better locations for the large and potentially cumbersome concentrators required for practical TPVs. However, because of weight considerations and inefficiencies associated with the somewhat more complicated design of TPVs, conventional PVs will almost surely be more effective for these applications. If the efficiency of individual components can be improved to the point that TPVs can offer substantially higher conversion efficiencies than PVs owing to photon recycling, then they might become useful for solar conversion in space.</p>
+<p>Probably more interesting is the prospect of using TPVs for conversion of radioisotope energy. The output of isotopes is already thermal energy, so in this sense TPVs are optimal. In the past thermoelectricity, which is also direct thermal to electrical conversion with no moving parts, has been used because of the extremely low TPV efficiencies compared to the ~10% of thermoelectric converters.<sup id="cite_ref-Teofilo_14-0" class="reference"><a href="#cite_note-Teofilo-14">[14]</a></sup> <a href="/wiki/Stirling_engines" class="mw-redirect" title="Stirling engines">Stirling engines</a> have also been considered, but are undesirable due to reliability concerns, which are unacceptable for space missions, despite improved conversion efficiencies (&gt;20%).<sup id="cite_ref-Wilt_15-0" class="reference"><a href="#cite_note-Wilt-15">[15]</a></sup> However, with the recent advances in small-bandgap PVs critical for effective operation, TPVs are becoming more promising candidates. For example, a TPV radioisotope converter with a 20% efficiency was demonstrated that uses a tungsten emitter heated to 1350 K, with tandem filters and a 0.6 eV bandgap InGaAs PV converter (cooled to room temperature). About 30% of the lost energy was due to the optical cavity and filters. The remainder was due to the efficiency of the PV converter.<sup id="cite_ref-Wilt_15-1" class="reference"><a href="#cite_note-Wilt-15">[15]</a></sup></p>
+<p>Low-temperature operation of the converter is critical to the efficiency of TPV. Heating PV converters increases their dark current, thereby reducing the overall efficiency. For all TPV systems, the converter will be heated by the radiation from the emitter. In terrestrial systems it is reasonable to dissipate this heat without using additional energy by heat sinking the converter. However, space is an isolated system, and such heat sinks are not practical. Therefore, it is critical to develop innovative solutions to efficiently remove that heat, or optimized TPV cells that can operate efficiently with higher temperature converters. Both represent substantial challenges. Despite this, TPVs offer substantial promise for use in future space travel.<sup id="cite_ref-Teofilo_14-1" class="reference"><a href="#cite_note-Teofilo-14">[14]</a></sup></p>
+<h3><span class="mw-headline" id="Commercial_applications">Commercial applications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thermophotovoltaic&amp;action=edit&amp;section=26" title="Edit section: Commercial applications">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="Off-grid_generators">Off-grid generators</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thermophotovoltaic&amp;action=edit&amp;section=27" title="Edit section: Off-grid generators">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Many homes in North America as well as developing countries are located in remote regions not connected to the power grid. Where available, power line extensions can be extremely expensive and impractical. TPVs can provide a continuous supply of power in off-grid homes. Traditional PVs on the other hand, would not provide sufficient power during the winter months and nighttime, while TPVs can utilize alternative fuels to augment solar-only production</p>
+<p>The greatest advantage for TPV generators is cogeneration of heat and power. In cold climates, it can function as both a heater or stove and a power generator. JX Crystals has developed a prototype TPV heating stove and generator. It burns natural gas and uses a SiC source emitter operating at 1250&#160;°C and GaSb photocell to output 25,000 <a href="/wiki/British_thermal_unit" title="British thermal unit">BTU</a>/hr simultaneously generating 100 W. However, costs must be significantly reduced to render it commercially viable.</p>
+<p>When a furnace is used as a heater and a generator, it is called <a href="/wiki/Combined_heat_and_power" class="mw-redirect" title="Combined heat and power">combined heat and power</a> (CHP). Many TPV CHP scenarios have been theorized but a generator using boiling coolant was found most cost efficient.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup> The proposed CHP would utilize a SiC IR emitter operating at 1425&#160;°C and GaSb photocells cooled by boiling coolant. The TPV CHP would output 85,000 BTU/hr and generate 1.5&#160;kW. The estimated efficiency would be 12.3% and the investment would be 0.08 €/kWh provided that the lifetime of the CHP furnace is 20 years. The estimated cost of other non-TPV CHPs are 0.12 €/kWh for gas engine CHP and 0.16 €/kWh for fuel cell CHP. This proposed furnace has not been developed because there is comparatively a very small market for off-grid power generation and no funding is available to develop a GaSb PV array cooled by boiling liquid.</p>
+<h4><span class="mw-headline" id="Recreational_vehicles">Recreational vehicles</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thermophotovoltaic&amp;action=edit&amp;section=28" title="Edit section: Recreational vehicles">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>TPVs have been proposed for use in recreational vehicles. With the advent of hybrid and other electrically powered vehicles, power generators with electrical outputs have become more interesting. In particular the versatility of TPVs for fuel choice and the ability to use multiple fuel sources makes them interesting as a wider variety of fuels are being with better sustainability are being investigated today. Furthermore, the silent operation of TPVs would both allow the generation of electricity when the use of noisy conventional generators is not allowed, and not disturb others when the use of generators is permitted. However, the emitter temperatures required for practical efficiencies make TPVs on this scale extremely unlikely.<sup id="cite_ref-Coutts_17-0" class="reference"><a href="#cite_note-Coutts-17">[17]</a></sup></p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thermophotovoltaic&amp;action=edit&amp;section=29" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 35em; -webkit-column-width: 35em; column-width: 35em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web">Poortmans, Jef. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20071013061056/http://www.imec.be/wwwinter/energy/space_main.shtml">"IMEC website: Photovoltaic Stacks"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.imec.be/wwwinter/energy/space_main.shtml">the original</a> on 2007-10-13<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-02-17</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThermophotovoltaic&amp;rft.aufirst=Jef&amp;rft.aulast=Poortmans&amp;rft.btitle=IMEC+website%3A+Photovoltaic+Stacks&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.imec.be%2Fwwwinter%2Fenergy%2Fspace_main.shtml&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web">Seal, M.R. <a rel="nofollow" class="external text" href="http://vri.etec.wwu.edu/tpv_paper.html">"WWU VRI website: Viking 29 – A Thermophotovoltaic Hybrid Vehicle Designed and Built at Western Washington University"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2010-11-12</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThermophotovoltaic&amp;rft.aufirst=M.R.&amp;rft.aulast=Seal&amp;rft.btitle=WWU+VRI+website%3A+Viking+29+%93+A+Thermophotovoltaic+Hybrid+Vehicle+Designed+and+Built+at+Western+Washington+University&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fvri.etec.wwu.edu%2Ftpv_paper.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Nelson-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-Nelson_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Nelson_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Nelson, R.E. (2003). "A brief history of thermophotovoltaic development". <i>Semiconductor Science and Technology</i>. <b>18</b> (5): S141–S143. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2003SeScT..18S.141N">2003SeScT..18S.141N</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1088%2F0268-1242%2F18%2F5%2F301">10.1088/0268-1242/18/5/301</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThermophotovoltaic&amp;rft.atitle=A+brief+history+of+thermophotovoltaic+development&amp;rft.aufirst=R.E.&amp;rft.aulast=Nelson&amp;rft.date=2003&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F2003SeScT..18S.141N&amp;rft_id=info%3Adoi%2F10.1088%2F0268-1242%2F18%2F5%2F301&amp;rft.issue=5&amp;rft.jtitle=Semiconductor+Science+and+Technology&amp;rft.pages=S141-S143&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=18" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Horne E. (2002). Hybrid thermophotovoltaic power systems. Final report by EDTEK Inc. for the California energy commission.</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation journal">Bitnar, B. (2003). <a rel="nofollow" class="external text" href="http://klaihem.tripod.com/Aoucher_aSiGe/bitnar.pdf">"Silicon, germanium and silicon/germanium photocells for thermophotovoltaics applications"</a> <span style="font-size:85%;">(PDF)</span>. <i>Semiconductor Science and Technology</i>. <b>18</b> (5): S221. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2003SeScT..18S.221B">2003SeScT..18S.221B</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1088%2F0268-1242%2F18%2F5%2F312">10.1088/0268-1242/18/5/312</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThermophotovoltaic&amp;rft.atitle=Silicon%2C+germanium+and+silicon%2Fgermanium+photocells+for+thermophotovoltaics+applications&amp;rft.au=Bitnar%2C+B.&amp;rft.date=2003&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fklaihem.tripod.com%2FAoucher_aSiGe%2Fbitnar.pdf&amp;rft_id=info%3Abibcode%2F2003SeScT..18S.221B&amp;rft_id=info%3Adoi%2F10.1088%2F0268-1242%2F18%2F5%2F312&amp;rft.issue=5&amp;rft.jtitle=Semiconductor+Science+and+Technology&amp;rft.pages=S221&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=18" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Malyshev, V. I. (1979). Introduction to Experimental Spectroscopy (in Russian) Nauka, Moscow.</span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation journal">Lin, S. Y., Moreno, J. and Fleming, J. G. (2003). "Three-dimensional photonic-crystal emitter for thermal photovoltaic power generation". <i>Applied Physics Letters</i>. <b>83</b> (2): 380. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2003ApPhL..83..380L">2003ApPhL..83..380L</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1063%2F1.1592614">10.1063/1.1592614</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThermophotovoltaic&amp;rft.atitle=Three-dimensional+photonic-crystal+emitter+for+thermal+photovoltaic+power+generation&amp;rft.au=Lin%2C+S.+Y.%2C+Moreno%2C+J.+and+Fleming%2C+J.+G.&amp;rft.date=2003&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F2003ApPhL..83..380L&amp;rft_id=info%3Adoi%2F10.1063%2F1.1592614&amp;rft.issue=2&amp;rft.jtitle=Applied+Physics+Letters&amp;rft.pages=380&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=83" class="Z3988"><span style="display:none;">&#160;</span></span> <span class="citation-comment" style="display:none; color:#33aa33">CS1 maint: Multiple names: authors list (<a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">link</a>)</span></span></li>
+<li id="cite_note-Fraas-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-Fraas_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Fraas_8-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Fraas, L.M., Avery, J.E., Sundaram, V.S., Dinh, V.T., Davenport, T.M. and Yerkes, J.W. (1990). "IEEE Conference on Photovoltaic Specialists": 190. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1109%2FPVSC.1990.111616">10.1109/PVSC.1990.111616</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThermophotovoltaic&amp;rft.atitle=IEEE+Conference+on+Photovoltaic+Specialists&amp;rft.au=Fraas%2C+L.M.%2C+Avery%2C+J.E.%2C+Sundaram%2C+V.S.%2C+Dinh%2C+V.T.%2C+Davenport%2C+T.M.+and+Yerkes%2C+J.W.&amp;rft.date=1990&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1109%2FPVSC.1990.111616&amp;rft.pages=190&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span> <span style="font-size:100%" class="error citation-comment"><code style="color:inherit; border:inherit; padding:inherit;">|chapter=</code> ignored (<a href="/wiki/Help:CS1_errors#chapter_ignored" title="Help:CS1 errors">help</a>)</span> <span class="citation-comment" style="display:none; color:#33aa33">CS1 maint: Multiple names: authors list (<a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">link</a>)</span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation journal">Algora, C. &amp; Martin, D. (2003). "Modelling and Manufacturing GaSb TPV". <i>THERMOPHOTOVOLTAIC GENERATION OF ELECTRICITY: Fifth Conference on Thermophotovoltaic Generation of Electricity. AIP Conference Proceedings</i>. <b>653</b>: 452. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2003AIPC..653..452A">2003AIPC..653..452A</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1063%2F1.1539400">10.1063/1.1539400</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThermophotovoltaic&amp;rft.atitle=Modelling+and+Manufacturing+GaSb+TPV&amp;rft.au=Algora%2C+C.&amp;rft.au=Martin%2C+D.&amp;rft.date=2003&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F2003AIPC..653..452A&amp;rft_id=info%3Adoi%2F10.1063%2F1.1539400&amp;rft.jtitle=THERMOPHOTOVOLTAIC+GENERATION+OF+ELECTRICITY%3A+Fifth+Conference+on+Thermophotovoltaic+Generation+of+Electricity.++AIP+Conference+Proceedings&amp;rft.pages=452&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=653" class="Z3988"><span style="display:none;">&#160;</span></span> <span style="font-size:100%" class="error citation-comment"><code style="color:inherit; border:inherit; padding:inherit;">|chapter=</code> ignored (<a href="/wiki/Help:CS1_errors#chapter_ignored" title="Help:CS1 errors">help</a>)</span></span></li>
+<li id="cite_note-Charache-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-Charache_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Charache_10-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Charache, G. W.; Egley, J. L.; Depoy, D. M.; Danielson, L. R.; Freeman, M. J.; Dziendziel, R. J.; Moynihan, J. F.; Baldasaro, P. F.; et al. (1998). "Infrared Materials for Thermophotovoltaic Applications". <i>Journal of Electronic Materials</i>. <b>27</b> (9): 1038. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/1998JEMat..27.1038C">1998JEMat..27.1038C</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1007%2Fs11664-998-0160-x">10.1007/s11664-998-0160-x</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThermophotovoltaic&amp;rft.atitle=Infrared+Materials+for+Thermophotovoltaic+Applications&amp;rft.au=Baldasaro%2C+P.+F.&amp;rft.au=Campbell%2C+B.+C.&amp;rft.au=Choi%2C+H.+K.&amp;rft.au=Colter%2C+P.&amp;rft.au=Danielson%2C+L.+R.&amp;rft.au=Depoy%2C+D.+M.&amp;rft.au=Dziendziel%2C+R.+J.&amp;rft.au=Egley%2C+J.+L.&amp;rft.au=Fahey%2C+R.+E.&amp;rft.aufirst=G.+W.&amp;rft.au=Freeman%2C+M.+J.&amp;rft.aulast=Charache&amp;rft.au=Moynihan%2C+J.+F.&amp;rft.au=Sharps%2C+P.&amp;rft.au=Timmons%2C+M.&amp;rft.au=Turner%2C+G.+W.&amp;rft.au=Wang%2C+C.+A.&amp;rft.au=Wojtczuk%2C+S.+J.&amp;rft.au=Zhang%2C+K.&amp;rft.date=1998&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F1998JEMat..27.1038C&amp;rft_id=info%3Adoi%2F10.1007%2Fs11664-998-0160-x&amp;rft.issue=9&amp;rft.jtitle=Journal+of+Electronic+Materials&amp;rft.pages=1038&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=27" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Wang-11"><span class="mw-cite-backlink">^ <a href="#cite_ref-Wang_11-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Wang_11-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Wang_11-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Wang, C.A. (2004). "Antimony-based III-V thermophotovoltaic materials and devices". <i>THERMOPHOTOVOLTAIC GENERATION OF ELECTRICITY: Sixth Conference on Thermophotovoltaic Generation of Electricity: TPV6. AIP Conference Proceedings</i>. <b>738</b>: 255. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2004AIPC..738..255W">2004AIPC..738..255W</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1063%2F1.1841902">10.1063/1.1841902</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThermophotovoltaic&amp;rft.atitle=Antimony-based+III-V+thermophotovoltaic+materials+and+devices&amp;rft.au=Wang%2C+C.A.&amp;rft.date=2004&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F2004AIPC..738..255W&amp;rft_id=info%3Adoi%2F10.1063%2F1.1841902&amp;rft.jtitle=THERMOPHOTOVOLTAIC+GENERATION+OF+ELECTRICITY%3A+Sixth+Conference+on+Thermophotovoltaic+Generation+of+Electricity%3A+TPV6.++AIP+Conference+Proceedings&amp;rft.pages=255&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=738" class="Z3988"><span style="display:none;">&#160;</span></span> <span style="font-size:100%" class="error citation-comment"><code style="color:inherit; border:inherit; padding:inherit;">|chapter=</code> ignored (<a href="/wiki/Help:CS1_errors#chapter_ignored" title="Help:CS1 errors">help</a>)</span></span></li>
+<li id="cite_note-Karlina-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-Karlina_12-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Karlina, L.B., Kulagina, M.M., Timoshina, N.Kh., Vlasov, A.S. and Andreev, V.M. (2007). "In<sub>0.53</sub>Ga<sub>0.47</sub>As/InP conventional and inverted thermophotovoltaic cells with back surface reflector". <i>THERMOPHOTOVOLTAIC GENERATION OF ELECTRICITY: TPV7: Seventh World Conference on Thermophotovoltaic Generation of Electricity. AIP Conference Proceedings</i>. <b>890</b>: 182. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2007AIPC..890..182K">2007AIPC..890..182K</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1063%2F1.2711735">10.1063/1.2711735</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThermophotovoltaic&amp;rft.atitle=In%3Csub%3E0.53%3C%2Fsub%3EGa%3Csub%3E0.47%3C%2Fsub%3EAs%2FInP+conventional+and+inverted+thermophotovoltaic+cells+with+back+surface+reflector&amp;rft.au=Karlina%2C+L.B.%2C+Kulagina%2C+M.M.%2C+Timoshina%2C+N.Kh.%2C+Vlasov%2C+A.S.+and+Andreev%2C+V.M.&amp;rft.date=2007&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F2007AIPC..890..182K&amp;rft_id=info%3Adoi%2F10.1063%2F1.2711735&amp;rft.jtitle=THERMOPHOTOVOLTAIC+GENERATION+OF+ELECTRICITY%3A+TPV7%3A+Seventh+World+Conference+on+Thermophotovoltaic+Generation+of+Electricity.++AIP+Conference+Proceedings&amp;rft.pages=182&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=890" class="Z3988"><span style="display:none;">&#160;</span></span> <span style="font-size:100%" class="error citation-comment"><code style="color:inherit; border:inherit; padding:inherit;">|chapter=</code> ignored (<a href="/wiki/Help:CS1_errors#chapter_ignored" title="Help:CS1 errors">help</a>)</span> <span class="citation-comment" style="display:none; color:#33aa33">CS1 maint: Multiple names: authors list (<a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">link</a>)</span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation journal">Guazzoni, G. &amp; Matthews, S. (2004). "AIP Conference Proceedings". <i>THERMOPHOTOVOLTAIC GENERATION OF ELECTRICITY: Sixth Conference on Thermophotovoltaic Generation of Electricity: TPV6. AIP Conference Proceedings</i>. <b>738</b>: 3. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2004AIPC..738....3G">2004AIPC..738....3G</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1063%2F1.1841874">10.1063/1.1841874</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThermophotovoltaic&amp;rft.atitle=AIP+Conference+Proceedings&amp;rft.au=Guazzoni%2C+G.&amp;rft.au=Matthews%2C+S.&amp;rft.date=2004&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F2004AIPC..738....3G&amp;rft_id=info%3Adoi%2F10.1063%2F1.1841874&amp;rft.jtitle=THERMOPHOTOVOLTAIC+GENERATION+OF+ELECTRICITY%3A+Sixth+Conference+on+Thermophotovoltaic+Generation+of+Electricity%3A+TPV6.++AIP+Conference+Proceedings&amp;rft.pages=3&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=738" class="Z3988"><span style="display:none;">&#160;</span></span> <span style="font-size:100%" class="error citation-comment"><code style="color:inherit; border:inherit; padding:inherit;">|chapter=</code> ignored (<a href="/wiki/Help:CS1_errors#chapter_ignored" title="Help:CS1 errors">help</a>)</span></span></li>
+<li id="cite_note-Teofilo-14"><span class="mw-cite-backlink">^ <a href="#cite_ref-Teofilo_14-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Teofilo_14-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Teofilo, V.L., Choong, P., Chang, J., Tseng, Y.L., and Ermer, S. (2008). "Thermophotovoltaic Energy Conversion for Space". <i>Journal of Physical Chemistry C</i>. <b>112</b> (21): 7841. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1021%2Fjp711315c">10.1021/jp711315c</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThermophotovoltaic&amp;rft.atitle=Thermophotovoltaic+Energy+Conversion+for+Space&amp;rft.au=Teofilo%2C+V.L.%2C+Choong%2C+P.%2C+Chang%2C+J.%2C+Tseng%2C+Y.L.%2C+and+Ermer%2C+S.&amp;rft.date=2008&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1021%2Fjp711315c&amp;rft.issue=21&amp;rft.jtitle=Journal+of+Physical+Chemistry+C&amp;rft.pages=7841&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=112" class="Z3988"><span style="display:none;">&#160;</span></span> <span class="citation-comment" style="display:none; color:#33aa33">CS1 maint: Multiple names: authors list (<a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">link</a>)</span></span></li>
+<li id="cite_note-Wilt-15"><span class="mw-cite-backlink">^ <a href="#cite_ref-Wilt_15-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Wilt_15-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Wilt, D., Chubb, D., Wolford, D., Magari, P. and Crowley, C. (2007). "AIP Conference Proceedings". <i>THERMOPHOTOVOLTAIC GENERATION OF ELECTRICITY: TPV7: Seventh World Conference on Thermophotovoltaic Generation of Electricity. AIP Conference Proceedings</i>. <b>890</b>: 335. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2007AIPC..890..335W">2007AIPC..890..335W</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1063%2F1.2711751">10.1063/1.2711751</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThermophotovoltaic&amp;rft.atitle=AIP+Conference+Proceedings&amp;rft.au=Wilt%2C+D.%2C+Chubb%2C+D.%2C+Wolford%2C+D.%2C+Magari%2C+P.+and+Crowley%2C+C.&amp;rft.date=2007&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F2007AIPC..890..335W&amp;rft_id=info%3Adoi%2F10.1063%2F1.2711751&amp;rft.jtitle=THERMOPHOTOVOLTAIC+GENERATION+OF+ELECTRICITY%3A+TPV7%3A+Seventh+World+Conference+on+Thermophotovoltaic+Generation+of+Electricity.++AIP+Conference+Proceedings&amp;rft.pages=335&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=890" class="Z3988"><span style="display:none;">&#160;</span></span> <span style="font-size:100%" class="error citation-comment"><code style="color:inherit; border:inherit; padding:inherit;">|chapter=</code> ignored (<a href="/wiki/Help:CS1_errors#chapter_ignored" title="Help:CS1 errors">help</a>)</span> <span class="citation-comment" style="display:none; color:#33aa33">CS1 maint: Multiple names: authors list (<a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">link</a>)</span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation journal">Palfinger, G., Bitnar, B., Durisch, W., Mayor, J.C., Grützmacher, D. and Gobrecht, J. (2003). "Cost estimate of electricity produced by TPV". <i>Semiconductor Science and Technology</i>. <b>18</b> (5): S254. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2003SeScT..18S.254P">2003SeScT..18S.254P</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1088%2F0268-1242%2F18%2F5%2F317">10.1088/0268-1242/18/5/317</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThermophotovoltaic&amp;rft.atitle=Cost+estimate+of+electricity+produced+by+TPV&amp;rft.au=Palfinger%2C+G.%2C+Bitnar%2C+B.%2C+Durisch%2C+W.%2C+Mayor%2C+J.C.%2C+Gr%C3%BCtzmacher%2C+D.+and+Gobrecht%2C+J.&amp;rft.date=2003&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F2003SeScT..18S.254P&amp;rft_id=info%3Adoi%2F10.1088%2F0268-1242%2F18%2F5%2F317&amp;rft.issue=5&amp;rft.jtitle=Semiconductor+Science+and+Technology&amp;rft.pages=S254&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=18" class="Z3988"><span style="display:none;">&#160;</span></span> <span class="citation-comment" style="display:none; color:#33aa33">CS1 maint: Multiple names: authors list (<a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">link</a>)</span></span></li>
+<li id="cite_note-Coutts-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-Coutts_17-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Coutts, T. J. (1997). "AIP Conference Proceedings". <i>Future generation photovoltaic technologies. AIP Conference Proceedings</i>. <b>404</b>: 217. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/1997AIPC..404..217C">1997AIPC..404..217C</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1063%2F1.53449">10.1063/1.53449</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThermophotovoltaic&amp;rft.atitle=AIP+Conference+Proceedings&amp;rft.au=Coutts%2C+T.+J.&amp;rft.date=1997&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F1997AIPC..404..217C&amp;rft_id=info%3Adoi%2F10.1063%2F1.53449&amp;rft.jtitle=Future+generation+photovoltaic+technologies.++AIP+Conference+Proceedings&amp;rft.pages=217&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=404" class="Z3988"><span style="display:none;">&#160;</span></span> <span style="font-size:100%" class="error citation-comment"><code style="color:inherit; border:inherit; padding:inherit;">|chapter=</code> ignored (<a href="/wiki/Help:CS1_errors#chapter_ignored" title="Help:CS1 errors">help</a>)</span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thermophotovoltaic&amp;action=edit&amp;section=30" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a href="/wiki/File:Wind-turbine-icon.svg" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/28px-Wind-turbine-icon.svg.png" width="28" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/42px-Wind-turbine-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/56px-Wind-turbine-icon.svg.png 2x" data-file-width="128" data-file-height="128" /></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Renewable_energy" title="Portal:Renewable energy">Renewable energy portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a href="/wiki/File:Crystal_energy.svg" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/29px-Crystal_energy.svg.png" width="29" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/44px-Crystal_energy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/59px-Crystal_energy.svg.png 2x" data-file-width="130" data-file-height="124" /></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Energy" title="Portal:Energy">Energy portal</a></span></li>
+</ul>
+</div>
+<ul>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20061003183249/http://proceedings.aip.org/proceedings/confproceed/738.jsp">6th International Conference on Thermophotovoltaic Generation of Electricity</a></li>
+<li><a rel="nofollow" class="external text" href="http://gltrs.grc.nasa.gov/reports/2005/TM-2005-213981.pdf">NASA Radioisotope Power Conversion Technology NRA Overview</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.technologyreview.com/read_article.aspx?id=16945&amp;ch=nanotech">New thermophotovoltaic materials could replace alternators in cars and save fuel</a></li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1271
+Cached time: 20170130005115
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.212 seconds
+Real time usage: 0.284 seconds
+Preprocessor visited node count: 1113/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 42647/2097152 bytes
+Template argument size: 323/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 1/500
+Lua time usage: 0.090/10.000 seconds
+Lua memory usage: 3.79 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  187.236      1 -total
+ 57.61%  107.858      1 Template:Reflist
+ 32.99%   61.769      1 Template:Split_section
+ 27.09%   50.731     13 Template:Cite_journal
+ 22.40%   41.933      1 Template:Split_portions
+ 18.46%   34.562      2 Template:Cite_web
+ 14.52%   27.180      1 Template:Ambox
+  5.31%    9.943      1 Template:DMCA
+  5.08%    9.509      1 Template:Portal
+  4.57%    8.554      1 Template:Dated_maintenance_category
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:2937772-0!*!0!!en!4!*!math=5 and timestamp 20170130005115 and revision id 754362513
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Thermophotovoltaic&amp;oldid=754362513">https://en.wikipedia.org/w/index.php?title=Thermophotovoltaic&amp;oldid=754362513</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Thermodynamics" title="Category:Thermodynamics">Thermodynamics</a></li><li><a href="/wiki/Category:Electricity" title="Category:Electricity">Electricity</a></li><li><a href="/wiki/Category:Photovoltaics" title="Category:Photovoltaics">Photovoltaics</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">CS1 maint: Multiple names: authors list</a></li><li><a href="/wiki/Category:CS1_errors:_chapter_ignored" title="Category:CS1 errors: chapter ignored">CS1 errors: chapter ignored</a></li><li><a href="/wiki/Category:Articles_to_be_split_from_January_2016" title="Category:Articles to be split from January 2016">Articles to be split from January 2016</a></li><li><a href="/wiki/Category:All_articles_to_be_split" title="Category:All articles to be split">All articles to be split</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Thermophotovoltaic" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Thermophotovoltaic" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Thermophotovoltaic"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Thermophotovoltaic"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Thermophotovoltaic" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Thermophotovoltaic&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Thermophotovoltaic&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Thermophotovoltaic" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Thermophotovoltaic" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Thermophotovoltaic&amp;oldid=754362513" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Thermophotovoltaic&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q2944104" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Thermophotovoltaic&amp;id=754362513" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Thermophotovoltaic">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Thermophotovoltaic&amp;returnto=Thermophotovoltaic&amp;oldid=754362513&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Thermophotovoltaic&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Termofotovoltaika" title="Termofotovoltaika – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Termofotovoltaico" title="Termofotovoltaico – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Cellule_thermophotovolta%C3%AFque" title="Cellule thermophotovoltaïque – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Termofotovoltick%C3%BD_%C4%8Dl%C3%A1nok" title="Termofotovoltický článok – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Termofotovoltaika" title="Termofotovoltaika – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Termofotovoltaik" title="Termofotovoltaik – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q2944104#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 12 December 2016, at 06:58.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Thermophotovoltaic&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.212","walltime":"0.284","ppvisitednodes":{"value":1113,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":42647,"limit":2097152},"templateargumentsize":{"value":323,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  187.236      1 -total"," 57.61%  107.858      1 Template:Reflist"," 32.99%   61.769      1 Template:Split_section"," 27.09%   50.731     13 Template:Cite_journal"," 22.40%   41.933      1 Template:Split_portions"," 18.46%   34.562      2 Template:Cite_web"," 14.52%   27.180      1 Template:Ambox","  5.31%    9.943      1 Template:DMCA","  5.08%    9.509      1 Template:Portal","  4.57%    8.554      1 Template:Dated_maintenance_category"]},"scribunto":{"limitreport-timeusage":{"value":"0.090","limit":"10.000"},"limitreport-memusage":{"value":3969272,"limit":52428800}},"cachereport":{"origin":"mw1271","timestamp":"20170130005115","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":392,"wgHostname":"mw1271"});});</script>
+	</body>
+</html>

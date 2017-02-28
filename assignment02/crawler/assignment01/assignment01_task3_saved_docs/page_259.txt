@@ -1,0 +1,754 @@
+url : https://en.wikipedia.org/wiki/Flow_battery
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Flow battery - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Flow_battery","wgTitle":"Flow battery","wgCurRevisionId":761405588,"wgRevisionId":761405588,"wgArticleId":3133405,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages with citations lacking titles","Webarchive template wayback links","Use dmy dates from November 2014","All articles with unsourced statements","Articles with unsourced statements from September 2015","Fuel cells","Battery types"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Flow_battery","wgRelevantArticleId":3133405,"wgRequestId":"WI7prApAICgAADFuw7AAAABB","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q907511","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.9"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Flow_battery"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Flow_battery&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Flow_battery&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Flow_battery"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Flow_battery rootpage-Flow_battery skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Flow battery</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Redox_Flow_Battery_English.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Redox_Flow_Battery_English.png/220px-Redox_Flow_Battery_English.png" width="220" height="211" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Redox_Flow_Battery_English.png/330px-Redox_Flow_Battery_English.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/26/Redox_Flow_Battery_English.png/440px-Redox_Flow_Battery_English.png 2x" data-file-width="938" data-file-height="899" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Redox_Flow_Battery_English.png" class="internal" title="Enlarge"></a></div>
+A typical flow battery consists of two tanks of liquids which are pumped past a membrane held between two electrodes.</div>
+</div>
+</div>
+<p>A <b>flow battery</b>, or <b>redox flow battery</b> (after <i>reduction–oxidation</i>), is a type of <a href="/wiki/Rechargeable_battery" title="Rechargeable battery">rechargeable battery</a> where rechargeability is provided by two chemical components <a href="/wiki/Solution" title="Solution">dissolved</a> in liquids contained within the system and separated by a membrane.<sup id="cite_ref-journal.frontiersin.org_1-0" class="reference"><a href="#cite_note-journal.frontiersin.org-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <a href="/wiki/Ion_exchange" title="Ion exchange">Ion exchange</a> (providing flow of electric current) occurs through the membrane while both liquids circulate in their own respective space. <a href="/wiki/Electrode_potential#Potential_difference_of_a_cell_assembled_of_two_electrodes" title="Electrode potential">Cell voltage</a> is chemically determined by the <a href="/wiki/Nernst_equation" title="Nernst equation">Nernst equation</a> and ranges, in practical applications, from 1.0 to 2.2 <a href="/wiki/Volt" title="Volt">volts</a>. The performance of these devices is governed by the considerations of <a href="/wiki/Electrochemical_engineering" title="Electrochemical engineering">electrochemical engineering</a>.</p>
+<p>A flow battery is technically akin both to a <a href="/wiki/Fuel_cell" title="Fuel cell">fuel cell</a> and an <a href="/wiki/Electrochemical_cell" title="Electrochemical cell">electrochemical accumulator cell</a> (electrochemical reversibility). While it has technical advantages such as potentially separable liquid tanks and near unlimited longevity over most conventional rechargeables, current implementations are comparatively less powerful and require more sophisticated electronics.</p>
+<p>The energy capacity is a function of the electrolyte volume (amount of liquid electrolyte) and the power a function of the surface area of the <a href="/wiki/Electrode" title="Electrode">electrodes</a>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Construction_principle"><span class="tocnumber">1</span> <span class="toctext">Construction principle</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Types"><span class="tocnumber">2</span> <span class="toctext">Types</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Redox"><span class="tocnumber">2.1</span> <span class="toctext">Redox</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Hybrid"><span class="tocnumber">2.2</span> <span class="toctext">Hybrid</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Membraneless"><span class="tocnumber">2.3</span> <span class="toctext">Membraneless</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Organic"><span class="tocnumber">2.4</span> <span class="toctext">Organic</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Metal_hydride"><span class="tocnumber">2.5</span> <span class="toctext">Metal hydride</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Nano-network"><span class="tocnumber">2.6</span> <span class="toctext">Nano-network</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Semi-solid"><span class="tocnumber">2.7</span> <span class="toctext">Semi-solid</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#Chemistries"><span class="tocnumber">3</span> <span class="toctext">Chemistries</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Advantages_and_disadvantages"><span class="tocnumber">4</span> <span class="toctext">Advantages and disadvantages</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Applications"><span class="tocnumber">5</span> <span class="toctext">Applications</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Construction_principle">Construction principle</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Flow_battery&amp;action=edit&amp;section=1" title="Edit section: Construction principle">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A flow battery is a rechargeable <a href="/wiki/Fuel_cell" title="Fuel cell">fuel cell</a> in which an <a href="/wiki/Electrolyte" title="Electrolyte">electrolyte</a> containing one or more dissolved electroactive elements flows through an <a href="/wiki/Electrochemical_cell" title="Electrochemical cell">electrochemical cell</a> that reversibly converts <a href="/wiki/Chemical_energy" title="Chemical energy">chemical energy</a> directly to <a href="/wiki/Electricity" title="Electricity">electricity</a> (electroactive elements are "elements in solution that can take part in an electrode reaction or that can be <a href="/wiki/Adsorption" title="Adsorption">adsorbed</a> on the electrode"<sup id="cite_ref-Science-Dictionary_3-0" class="reference"><a href="#cite_note-Science-Dictionary-3">[3]</a></sup>). Additional electrolyte is stored externally, generally in tanks, and is usually pumped through the cell (or cells) of the reactor, although gravity feed systems are also known.<sup id="cite_ref-Fujii_4-0" class="reference"><a href="#cite_note-Fujii-4">[4]</a></sup> Flow batteries can be rapidly "recharged" by replacing the electrolyte liquid (in a similar way to refilling fuel tanks for <a href="/wiki/Internal_combustion_engine" title="Internal combustion engine">internal combustion engines</a>) while simultaneously recovering the spent material for re-energization.</p>
+<p>In other words, a flow battery is just like an <a href="/wiki/Electrochemical_cell" title="Electrochemical cell">electrochemical cell</a>, with the exception that the ionic solution (<a href="/wiki/Electrolyte" title="Electrolyte">electrolyte</a>) is not stored in the cell around the electrodes. Rather, the ionic solution is stored outside of the cell, and can be fed into the cell in order to generate electricity. The total amount of electricity that can be generated depends on the size of the storage tanks.</p>
+<h2><span class="mw-headline" id="Types">Types</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Flow_battery&amp;action=edit&amp;section=2" title="Edit section: Types">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Different classes of flow cells (batteries) have been developed,<sup id="cite_ref-Noack_5-0" class="reference"><a href="#cite_note-Noack-5">[5]</a></sup> including <a href="/wiki/Redox" title="Redox">redox</a>, hybrid and membraneless. The fundamental difference between conventional batteries and flow cells is that energy is stored not as the <a href="/wiki/Electrode" title="Electrode">electrode</a> material in conventional batteries but as the <a href="/wiki/Electrolyte" title="Electrolyte">electrolyte</a> in flow cells.</p>
+<h3><span class="mw-headline" id="Redox">Redox</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Flow_battery&amp;action=edit&amp;section=3" title="Edit section: Redox">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The <a href="/wiki/Redox" title="Redox">redox</a> (reduction–oxidation) cell is a reversible cell in which electrochemical components are dissolved in the electrolyte. Redox flow batteries are rechargeable (<a href="/wiki/Secondary_battery" class="mw-redirect" title="Secondary battery">secondary cells</a>).<sup id="cite_ref-LindenReddy_6-0" class="reference"><a href="#cite_note-LindenReddy-6">[6]</a></sup> Because they employ <a href="/wiki/Electron_transfer#Heterogeneous_electron_transfer" title="Electron transfer">heterogeneous electron transfer</a> rather than <a href="/wiki/Chemical_reaction#Solid-state_reactions" title="Chemical reaction">solid-state diffusion</a> or <a href="/wiki/Lithium_ion#Charge_and_discharge" class="mw-redirect" title="Lithium ion">intercalation</a> they are more appropriately called <a href="/wiki/Fuel_cell" title="Fuel cell">fuel cell</a>s than batteries. In industrial practice, fuel cells are usually, and unnecessarily, considered to be primary cells, such as the <span class="chemf nowrap">H<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><br />
+2</span></span>/<span class="chemf nowrap">O<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><br />
+2</span></span> system. The <a href="/wiki/Unitized_regenerative_fuel_cell" title="Unitized regenerative fuel cell">unitized regenerative fuel cell</a> on <a href="/wiki/NASA" title="NASA">NASA</a>'s <a href="/wiki/Helios_Prototype" title="Helios Prototype">Helios Prototype</a> is another reversible fuel cell. The <a href="/wiki/European_Patent_Organisation" title="European Patent Organisation">European Patent Organisation</a> classifies redox flow cells (H01M8/18C4) as a sub-class of regenerative fuel cells (H01M8/18). Examples of redox flow batteries are the <a href="/wiki/Vanadium_redox_battery" title="Vanadium redox battery">Vanadium redox flow battery</a>, <a href="/wiki/Polysulfide_bromide_battery" title="Polysulfide bromide battery">polysulfide bromide battery</a> (Regenesys), and uranium redox flow battery.<sup id="cite_ref-Shiokawa_7-0" class="reference"><a href="#cite_note-Shiokawa-7">[7]</a></sup> Redox fuel cells are less common commercially although many systems have been proposed.<sup id="cite_ref-Borchers_8-0" class="reference"><a href="#cite_note-Borchers-8">[8]</a></sup><sup id="cite_ref-Nernst_9-0" class="reference"><a href="#cite_note-Nernst-9">[9]</a></sup><sup id="cite_ref-Keefer_10-0" class="reference"><a href="#cite_note-Keefer-10">[10]</a></sup><sup id="cite_ref-Kummer_and_Oei_1982_11-0" class="reference"><a href="#cite_note-Kummer_and_Oei_1982-11">[11]</a></sup></p>
+<p>Researchers announced a prototype, <a href="/wiki/Zinc" title="Zinc">zinc</a>-<a href="/wiki/Polyiodide" title="Polyiodide">polyiodide</a> flow battery with an energy density of 167 Wh/l (<a href="/wiki/Watt-hours" class="mw-redirect" title="Watt-hours">watt-hours</a> per <a href="/wiki/Liter" class="mw-redirect" title="Liter">liter</a>). Older zinc-bromide cells reach 70 Wh/l. For comparison, <a href="/wiki/Lithium_iron_phosphate_battery" title="Lithium iron phosphate battery">lithium iron phosphate batteries</a> store 233 Wh/l. The zinc-polyiodide battery is claimed to be safer than other flow batteries given its absence of acidic electrolytes, nonflammability and operating range of −4 to 122&#160;°F (−20 to 50&#160;°C) that does not require extensive cooling circuitry, which would add weight and occupy space. One unresolved issue is zinc build-up on the negative electrode that permeated the membrane, reducing efficiency. Because of the Zn dendrite formation, the Zn-halide batteries cannot operate at high current density (&gt; 20 mA/cm<sup>2</sup>) and thus have limited power density. Adding alcohol to the electrolyte of the ZnI battery can slightly control the problem.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup></p>
+<p>When the battery is fully discharged, both tanks hold the same electrolyte solution: a mixture of positively charged zinc ions (<span class="chemf nowrap">Zn<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1em;font-size:80%;text-align:left">2+<br /></span></span>) and negatively charged iodide ion, I-. When charged, one tank holds another negative ion, polyiodide, I3-. The battery produces power by pumping liquid from external tanks into the battery's stack area where the liquids are mixed. Inside the stack, zinc ions pass through a selective membrane and change into metallic zinc on the stack's negative side.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup></p>
+<p>Traditional flow battery chemistries have both low specific energy (which makes them too heavy for fully electric vehicles) and low specific power (which makes them too expensive for stationary energy storage). However, recently a high areal power of 1.4 W/cm2 was demonstrated for hydrogen-bromine flow batteries, and a specific energy (530 Wh/kg at the tank level) was shown for hydrogen-bromate flow batteries<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup><sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup><sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup></p>
+<p>In 2015 a system was demonstrated using organic polymers and a saline solution with a <a href="/wiki/Cellulose" title="Cellulose">cellulose</a> membrane. The prototype withstood 10000 charging cycles while retaining substantial capacity. The energy density was 10 Wh/l.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup> Current density reached 100 milliamperes/cm2.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup></p>
+<h3><span class="mw-headline" id="Hybrid">Hybrid</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Flow_battery&amp;action=edit&amp;section=4" title="Edit section: Hybrid">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The hybrid flow battery uses one or more electroactive components deposited as a solid layer.<sup id="cite_ref-Bartolozzi_19-0" class="reference"><a href="#cite_note-Bartolozzi-19">[19]</a></sup> In this case, the electrochemical cell contains one battery electrode and one fuel cell electrode. This type is limited in energy by the surface area of the electrode.</p>
+<p>Hybrid flow batteries include the <a href="/wiki/Zinc-bromine_flow_battery" class="mw-redirect" title="Zinc-bromine flow battery">zinc-bromine</a>, <a href="/wiki/Zinc_cerium_redox_flow_battery" class="mw-redirect" title="Zinc cerium redox flow battery">zinc–cerium</a><sup id="cite_ref-PKLeung_20-0" class="reference"><a href="#cite_note-PKLeung-20">[20]</a></sup> and <a href="/wiki/Lead%E2%80%93acid_battery" title="Lead–acid battery">lead–acid</a> flow batteries.</p>
+<h3><span class="mw-headline" id="Membraneless">Membraneless</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Flow_battery&amp;action=edit&amp;section=5" title="Edit section: Membraneless">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>This battery employs a phenomenon called <a href="/wiki/Laminar_flow" title="Laminar flow">laminar flow</a> in which two liquids are pumped through a channel. They undergo electrochemical reactions to store or release energy. The solutions stream through in parallel, with little mixing. The flow naturally separates the liquids, eliminating the need for a membrane.<sup id="cite_ref-Kurzweil_21-0" class="reference"><a href="#cite_note-Kurzweil-21">[21]</a></sup></p>
+<p>Membranes are often the most costly component and the most unreliable components of batteries, as they can corrode with repeated exposure to certain reactants. The absence of a membrane enabled the use of a liquid bromine solution and hydrogen. This combination is problematic when membranes are used, because they form <a href="/wiki/Hydrobromic_acid" title="Hydrobromic acid">hydrobromic acid</a> that can destroy the membrane. Both materials are available at low cost.<sup id="cite_ref-Braff_22-0" class="reference"><a href="#cite_note-Braff-22">[22]</a></sup></p>
+<p>The design uses a small channel between two electrodes. Liquid bromine flows through the channel over a graphite cathode and hydrobromic acid flows under a porous anode. At the same time, hydrogen gas flows across the anode. The chemical reaction can be reversed to recharge the battery—a first for any membraneless design.<sup id="cite_ref-Braff_22-1" class="reference"><a href="#cite_note-Braff-22">[22]</a></sup> One such membraneless flow battery published in August 2013 produced a maximum power density of 7950&#160;W/m<sup>2</sup>, three times as much <a href="/wiki/Power_density" title="Power density">power</a> as other membraneless systems— and an order of magnitude higher than lithium-ion batteries.<sup id="cite_ref-Braff_22-2" class="reference"><a href="#cite_note-Braff-22">[22]</a></sup></p>
+<h3><span class="mw-headline" id="Organic">Organic</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Flow_battery&amp;action=edit&amp;section=6" title="Edit section: Organic">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Compared to traditional aqueous inorganic redox flow batteries such as vanadium redox flow batteries and Zn-Br2 batteries, that have been developed for decades, organic redox flow batteries have emerged since 2009 and hold great promise to overcome major drawbacks preventing economical and extensive deployment of traditional inorganic redox flow batteries. The primary merit of organic redox flow batteries lies in using sustainable and tunable organic redox active molecules, free of resource limitations and enabling unlimited combinations of anode and cathode materials.</p>
+<p>Organic redox flow batteries should be classified into two categories: Aqueous Organic Redox Flow Batteries (AORFBs) and Non-aqueous Organic Redox Flow Batteries (NAORFBs). AORFBs use water as solvent for electrolyte materials while NAORFBs employ organic solvents to dissolve redox active materials. Depending on using one or two organic redox active electrolytes as anode and/or cathode, AORFBs and NAORFBs can be further divided into total organic systems and hybrid organic systems that use inorganic materials for anode or cathode. The proof of concept of AORFBs was demonstrated before NAORFBs. In larger-scale energy storage, AORFBs hold much greater potential than NAORFBs because of the former's lower cost, higher current and power performance, as well as safety advantages of aqueous over non-aqueous electrolytes. NAORFBs may find their place in limited special applications for their higher energy density than AORFBs though more challenges are to be overcome in terms of safety, cost of organic solvents, radical induced side reactions, electrolyte crossover and limited life time. The content below mainly covers the representative studies on AORFBs.</p>
+<p>The very first studies using simple <a href="/wiki/Quinone" title="Quinone">quinone</a> compounds for AORFBs were reported by Wen et al from China in 2009 <sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup> and 2010.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup> In their studies, 1,2-dihydrobenzoquinone-3,5-disulfonic acid (BQDS) or 1,4-dihydrobenzoquinone-2-sulfonic acid (BQS) were employed as cathode and conventional Pb/PbSO4 as anolyte in an acid AORFB. These first AORFBs are hybrid systems as they only use organic redox active materials for cathode side while using Pb/PbSO4 for anode side. Each of the carbon-based molecules holds two units of electrical charge, compared with one unit in conventional batteries, implying that a battery could store twice as much energy in a given volume. <a href="/wiki/Quinone" title="Quinone">Quinone</a> compounds have been widely used in many research fields and their synthesis has been well established. However, to develop highly water soluble <a href="/wiki/Quinone" title="Quinone">quinone</a> compounds with optimized reduction or oxidation potential is not straightforward. PbSO4 is a toxic electrolyte used in traditional lead-acid batteries.</p>
+<p>In 2014, researchers including Aziz from Harvard University announced the use of 9,10-anthraquinone-2,7-disulphonic acid (AQDS), a <a href="/wiki/Quinone" title="Quinone">quinone</a>, as a charge carrier in metal-free flow batteries.<sup id="cite_ref-Wald_25-0" class="reference"><a href="#cite_note-Wald-25">[25]</a></sup> AQDS undergoes rapid, reversible two-electron/two-proton reduction on a glassy carbon <a href="/wiki/Electrode" title="Electrode">electrode</a> in <a href="/wiki/Sulphuric_acid" class="mw-redirect" title="Sulphuric acid">sulphuric acid</a>. An aqueous flow battery with inexpensive carbon electrodes, combining the quinone/hydroquinone couple with the <span class="chemf nowrap">Br<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><br />
+2</span></span>/<span class="chemf nowrap">Br<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1em;font-size:80%;text-align:left">−<br /></span></span> <a href="/wiki/Redox" title="Redox">redox</a> couple, yields a peak galvanic <a href="/wiki/Power_density" title="Power density">power density</a> exceeding 6,000&#160;W/m<sup>2</sup> at 13,000&#160;A/m<sup>2</sup>. Cycling showed &gt;99 per cent storage capacity retention per cycle. Volumetric energy density was over 20&#160;Wh/l.<sup id="cite_ref-greencar_26-0" class="reference"><a href="#cite_note-greencar-26">[26]</a></sup> The organic anthraquinone species can be synthesized from inexpensive commodity chemicals. This organic approach permits tuning of the reduction potential and solubility by adding functional groups. Adding two hydroxy groups to AQDS increases the open circuit potential of the cell by 11%.<sup id="cite_ref-Husk_27-0" class="reference"><a href="#cite_note-Husk-27">[27]</a></sup> The major concern of this work is the use of toxic Br2 electrolyte and its crossover behavior can lower the battery's energy efficiency.</p>
+<p>In 2014, another example was reported by Narayanan and Yang et al from University of Southern Califonia using anthraquinone-2-sulfonic acid or anthraquinone-2,6-disulfonic acid on the negative side and 1,2-dihydrobenzoquinone- 3,5-disulfonic acid on the positive side avoiding the use of hazardous inorganic materials such as Br2. The battery was claimed to last for 1,000 cycles without degradation although no official data were published.<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[28]</a></sup> While this total organic system appears robust, it has a low cell voltage (ca. 0.55 V) and a low energy density (&lt; 4 Wh/L).</p>
+<p>In 2015, Harvard researchers improved the chemistry and replaced the hydrobromic acid used as an electrolyte with a far less toxic alkaline solution (1M <a href="/wiki/Potassium_Hydroxide" class="mw-redirect" title="Potassium Hydroxide">KOH</a>) and <a href="/wiki/Ferrocyanide" title="Ferrocyanide">ferrocyanide</a>.<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">[29]</a></sup> The higher <a href="/wiki/PH" title="PH">pH</a> is less corrosive, allowing the use of inexpensive polymer tanks. The increased electrical resistance in the membrane was compensated by increasing the voltage. The cell voltage was 1.2.<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">[30]</a></sup><sup id="cite_ref-31" class="reference"><a href="#cite_note-31">[31]</a></sup> The cell's efficiency exceeded 99%, while round-trip efficiency measured 84%. The battery has an expected lifetime of at least 1,000 cycles. Its theoretic energy density was 19 Wh per liter.<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">[32]</a></sup> <a href="/wiki/Ferrocyanide" title="Ferrocyanide">Ferrocyanide</a>'s chemically stability in high pH KOH solution without forming Fe(OH)2 or Fe(OH)3 needs to be verified before scale-up.</p>
+<p>In 2015, <a rel="nofollow" class="external text" href="http://www.tianbiaoliu.org">Liu</a> and Wang et al from Utah State University and Pacific Northwest National Laboratory announced another project of a totally organic AORFB employing <a href="/wiki/Paraquat" title="Paraquat">methyl viologen</a> as <a href="/wiki/Anolyte" class="mw-redirect" title="Anolyte">anolyte</a> and 4-hydroxy-<a href="/wiki/2,2,6,6-Tetramethylpiperidine" title="2,2,6,6-Tetramethylpiperidine">2,2,6,6-tetramethylpiperidin</a>-1-oxyl as catholyte, plus cheap, non-crossive sodium chloride and a low-cost anion exchange membrane to enable charging and discharging. This MV/TEMPO AORFB has the highest cell voltage, 1.25 V, and, possibly, lowest capital cost ($180/kWh) reported for AORFBs. The water-based liquid electrolytes were designed as a drop-in replacement for current systems without replacing existing infrastructure. A 600-milliwatt test battery was stable for 100 cycles with nearly 100 percent efficiency at current densities ranging from 20 to 100 mA per square centimeter, with optimal performance rated at 40-50 mA, at which about 70 percent of the battery's original voltage was retained.<sup id="cite_ref-33" class="reference"><a href="#cite_note-33">[33]</a></sup><sup id="cite_ref-34" class="reference"><a href="#cite_note-34">[34]</a></sup> The significance of the research is that neutral AORFBs can be more environmentally friendly than acid or alkaline AORFBs while showing electrochemical performance comparable to corrosive acidic or alkaline RFBs. The MV/TEMPO AORFB has an energy density of 8.4 Wh/L with the limitation on the TEMPO side. The next step is to identify a high capacity catholyte to match MV (ca. 3.5 M solubility in water, 93.8 Ah/L).</p>
+<p>A new flow-battery concept that is based on redox active, organic polymers based on viologen and TEMPO and dialysis membranes was announced in 2015 (group of Prof. Dr. <a href="/wiki/Ulrich_S._Schubert" title="Ulrich S. Schubert">Ulrich S. Schubert</a>). The polymer-based redox-flow battery (pRFB) uses functionalized macromolecules (similar to acrylic glass or <a href="/wiki/Styrofoam" title="Styrofoam">Styrofoam</a>) being dissolved in water as active material for the anode as well as the cathode. Thereby, metals and strongly corrosive electrolytes – like vanadium salts in sulfuric acid – are avoided and simple dialysis membranes can be employed. The membrane, which separates the cathode and the anode of the flow cell, works like a strainer and is produced much more easily and at lower cost than conventional ion-selective membranes. It retains the big “spaghetti”-like polymer molecules, while allowing the small counterions to pass.<sup id="cite_ref-35" class="reference"><a href="#cite_note-35">[35]</a></sup> The concept may solve the high cost of traditional Nafion membrane but the design and synthesis of redox active polymer with high solubility in water is not trivial.</p>
+<h3><span class="mw-headline" id="Metal_hydride">Metal hydride</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Flow_battery&amp;action=edit&amp;section=7" title="Edit section: Metal hydride">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Proton flow batteries integrate a <a href="/wiki/Metal_hydride" class="mw-redirect" title="Metal hydride">metal hydride</a> storage electrode into a reversible <a href="/wiki/Proton_exchange_membrane" title="Proton exchange membrane">proton exchange membrane</a> (PEM) <a href="/wiki/Fuel_cell" title="Fuel cell">fuel cell</a>. During charging, PFB combines hydrogen ions produced from splitting water with electrons and metal particles in one electrode of a fuel cell. The energy is stored in the form of a solid-state metal hydride. Discharge produces electricity and water when the process is reversed and the protons are combined with ambient oxygen. Metals less expensive than lithium can be used and provide greater energy density than lithium cells.<sup id="cite_ref-Quick_36-0" class="reference"><a href="#cite_note-Quick-36">[36]</a></sup><sup id="cite_ref-Andrews_37-0" class="reference"><a href="#cite_note-Andrews-37">[37]</a></sup></p>
+<h3><span class="mw-headline" id="Nano-network">Nano-network</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Flow_battery&amp;action=edit&amp;section=8" title="Edit section: Nano-network">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In 2014 a technology was announced that uses lithium–sulfur chemistry arranged in a network of nanoparticles. The network eliminates the requirement that charge moves in and out of particles that are in direct contact with a conducting plate. Instead, the nanoparticle network allows electricity to flow throughout the liquid. This allows more energy to be extracted.<sup id="cite_ref-MITTech_38-0" class="reference"><a href="#cite_note-MITTech-38">[38]</a></sup></p>
+<h3><span class="mw-headline" id="Semi-solid">Semi-solid</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Flow_battery&amp;action=edit&amp;section=9" title="Edit section: Semi-solid">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In a semi-solid flow cell, the positive and negative electrodes are composed of particles suspended in a carrier liquid. The positive and negative suspensions are stored in separate tanks and pumped through separate pipes into a stack of adjacent reaction chambers, where they are separated by a barrier such as a thin, porous membrane. The approach combines the basic structure of aqueous-flow batteries, which use electrode material dissolved in a liquid electrolyte, with the chemistry of lithium-ion batteries. Dissolving a material changes its chemical behavior significantly. However, suspending bits of solid material preserves the solid's characteristics. The result is a viscous suspension that flows like <a href="/wiki/Molasses" title="Molasses">molasses</a>.<sup id="cite_ref-39" class="reference"><a href="#cite_note-39">[39]</a></sup></p>
+<h2><span class="mw-headline" id="Chemistries">Chemistries</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Flow_battery&amp;action=edit&amp;section=10" title="Edit section: Chemistries">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>There is a wide range of chemistries that have been tried for flow batteries.<sup id="cite_ref-journal.frontiersin.org_1-1" class="reference"><a href="#cite_note-journal.frontiersin.org-1">[1]</a></sup></p>
+<table class="wikitable sortable">
+<tr>
+<th>Couple</th>
+<th>Max. cell voltage (V)</th>
+<th>Average electrode power density (W/m<sup>2</sup>)</th>
+<th>Average fluid energy density (W·h/kg)</th>
+<th>cycles</th>
+</tr>
+<tr>
+<td><a href="/wiki/Hydrogen" title="Hydrogen">Hydrogen</a>–<a href="/w/index.php?title=Lithium_bromate&amp;action=edit&amp;redlink=1" class="new" title="Lithium bromate (page does not exist)">lithium bromate</a></td>
+<td>1.1</td>
+<td>15,000</td>
+<td>750</td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/wiki/Hydrogen" title="Hydrogen">Hydrogen</a>–<a href="/wiki/Lithium_chlorate" title="Lithium chlorate">lithium chlorate</a></td>
+<td>1.4</td>
+<td>10,000</td>
+<td>1400</td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/wiki/Bromine" title="Bromine">Bromine</a>-<a href="/wiki/Hydrogen" title="Hydrogen">hydrogen</a></td>
+<td>1.07</td>
+<td>7,950</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Iron–<a href="/wiki/Tin" title="Tin">tin</a></td>
+<td>0.62</td>
+<td>&lt;200</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Iron–<a href="/wiki/Titanium" title="Titanium">titanium</a></td>
+<td>0.43</td>
+<td>&lt;200</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Iron–<a href="/wiki/Chromium" title="Chromium">chrome</a></td>
+<td>1.07</td>
+<td>&lt;200</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Organic (2013)</td>
+<td>0.8</td>
+<td>13000</td>
+<td>21.4 Wh/L</td>
+<td>10</td>
+</tr>
+<tr>
+<td>Organic (2015)</td>
+<td>1.2</td>
+<td></td>
+<td>7.1 Wh/L</td>
+<td>100</td>
+</tr>
+<tr>
+<td>MV-TEMPO</td>
+<td>1.25</td>
+<td></td>
+<td>8.4 Wh/L</td>
+<td>100</td>
+</tr>
+<tr>
+<td><a href="/wiki/Vanadium_redox_battery" title="Vanadium redox battery">Vanadium–vanadium (sulphate)</a></td>
+<td>1.4</td>
+<td>~800</td>
+<td>25 Wh/L</td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/wiki/Vanadium_redox_battery" title="Vanadium redox battery">Vanadium–vanadium (bromide)</a></td>
+<td></td>
+<td></td>
+<td>50 Wh/L</td>
+<td>2000<sup id="cite_ref-journal.frontiersin.org_1-2" class="reference"><a href="#cite_note-journal.frontiersin.org-1">[1]</a></sup></td>
+</tr>
+<tr>
+<td><a href="/wiki/Polysulfide_bromide_battery" title="Polysulfide bromide battery">Sodium–bromine polysulfide</a></td>
+<td>1.54</td>
+<td>~800</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/wiki/Zinc%E2%80%93bromine_battery" title="Zinc–bromine battery">Zinc–bromine</a></td>
+<td>1.85</td>
+<td>~1,000</td>
+<td>75</td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/wiki/Lead%E2%80%93acid_battery" title="Lead–acid battery">Lead–acid (methanesulfonate)</a></td>
+<td>1.82</td>
+<td>~1,000</td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/wiki/Zinc_cerium_redox_flow_battery" class="mw-redirect" title="Zinc cerium redox flow battery">Zinc–cerium (methanesulfonate)</a></td>
+<td>2.43</td>
+<td>&lt;1,200–2,500</td>
+<td></td>
+<td></td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Advantages_and_disadvantages">Advantages and disadvantages</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Flow_battery&amp;action=edit&amp;section=11" title="Edit section: Advantages and disadvantages">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Redox flow batteries, and to a lesser extent hybrid flow batteries, have the advantages of flexible layout (due to separation of the power and energy components), long cycle life (because there are no solid-to-solid <a href="/wiki/Phase_transition" title="Phase transition">phase transitions</a>), quick response times, no need for "equalisation" charging (the overcharging of a battery to ensure all cells have an equal charge) and no harmful emissions. Some types also offer easy state-of-charge determination (through voltage dependence on charge), low maintenance and tolerance to overcharge/overdischarge. Compared to solid-state rechargeable batteries such as Li ion, RFBs, and ARFBs in particular, can operate at much higher current and power densities. These technical merits make redox flow batteries a well-suited option for large-scale energy storage.</p>
+<p>On the negative side, the <a href="/wiki/Energy_density" title="Energy density">energy densities</a> vary considerably but are, in general, lower compared to portable batteries, such as the <a href="/wiki/Li-ion" class="mw-redirect" title="Li-ion">Li-ion</a>.</p>
+<h2><span class="mw-headline" id="Applications">Applications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Flow_battery&amp;action=edit&amp;section=12" title="Edit section: Applications">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Flow batteries are normally considered for relatively large (1&#160;kWh – 10&#160;MWh) stationary applications. These are for</p>
+<ul>
+<li><a href="/wiki/Load_balancing_(electrical_power)" title="Load balancing (electrical power)">Load balancing</a> – where the battery is connected to an <a href="/wiki/Electrical_grid" title="Electrical grid">electrical grid</a> to store excess electrical power during off-peak hours and release electrical power during peak demand periods. The common problem limiting the use of most flow battery chemistries in this application is their low areal power (operating current density) which translates into a high cost of power.</li>
+<li>Storing energy from renewable sources such as <a href="/wiki/Wind_farm" title="Wind farm">wind</a> or solar for discharge during periods of peak demand.<sup id="cite_ref-REDT_40-0" class="reference"><a href="#cite_note-REDT-40">[40]</a></sup></li>
+<li>Peak shaving, where spikes of demand are met by the battery.<sup id="cite_ref-redflow_41-0" class="reference"><a href="#cite_note-redflow-41">[41]</a></sup></li>
+<li><a href="/wiki/Uninterruptible_power_supply" title="Uninterruptible power supply">UPS</a>, where the battery is used if the main power fails to provide an uninterrupted supply.</li>
+<li><a href="/wiki/Electric_power_conversion" title="Electric power conversion">Power conversion</a> – because all cells share the same electrolyte/s. Therefore, the electrolyte/s may be charged using a given number of cells and discharged with a different number. Because the <a href="/wiki/Voltage" title="Voltage">voltage</a> of the battery is proportional to the number of cells used the battery can therefore act as a very powerful <a href="/wiki/DC%E2%80%93DC_converter" class="mw-redirect" title="DC–DC converter">DC–DC converter</a>. In addition, if the number of cells is continuously changed (on the input and/or output side) <a href="/wiki/Electric_power_conversion" title="Electric power conversion">power conversion</a> can also be AC/DC, AC/AC, or DC–AC with the frequency limited by that of the switching gear.<sup id="cite_ref-Spaziente_42-0" class="reference"><a href="#cite_note-Spaziente-42">[42]</a></sup></li>
+<li><a href="/wiki/Electric_vehicle" title="Electric vehicle">Electric vehicles</a> – Because flow batteries can be rapidly "recharged" by replacing the electrolyte, they can be used for applications where the vehicle needs to take on energy as fast as a combustion engined vehicle.<sup id="cite_ref-EVRS_43-0" class="reference"><a href="#cite_note-EVRS-43">[43]</a></sup><sup id="cite_ref-EVRSfox_44-0" class="reference"><a href="#cite_note-EVRSfox-44">[44]</a></sup> A common problem found with most RFB chemistries in the EV applications is their low energy density which translated into a short driving range. Flow batteries based on highly soluble halates are a notable exception.<sup id="cite_ref-sse_45-0" class="reference"><a href="#cite_note-sse-45">[45]</a></sup></li>
+<li><a href="/wiki/Stand-alone_power_system" title="Stand-alone power system">Stand-alone power system</a> – An example of this is in cellphone base stations where no grid power is available. The battery can be used alongside solar or wind power sources to compensate for their fluctuating power levels and alongside a generator to make the most efficient use of it to save fuel.<sup id="cite_ref-deeya_46-0" class="reference"><a href="#cite_note-deeya-46">[46]</a></sup><sup id="cite_ref-sandia_47-0" class="reference"><a href="#cite_note-sandia-47">[47]</a></sup> Currently, flow batteries are being used in solar micro grid applications throughout the Caribbean.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (September 2015)">citation needed</span></a></i>]</sup></li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Flow_battery&amp;action=edit&amp;section=13" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a href="/wiki/File:Crystal_energy.svg" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/29px-Crystal_energy.svg.png" width="29" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/44px-Crystal_energy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/59px-Crystal_energy.svg.png 2x" data-file-width="130" data-file-height="124" /></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Energy" title="Portal:Energy">Energy portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a href="/wiki/File:Wind-turbine-icon.svg" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/28px-Wind-turbine-icon.svg.png" width="28" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/42px-Wind-turbine-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/56px-Wind-turbine-icon.svg.png 2x" data-file-width="128" data-file-height="128" /></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Renewable_energy" title="Portal:Renewable energy">Renewable energy portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a href="/wiki/File:Sustainable_development.svg" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/32px-Sustainable_development.svg.png" width="32" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/48px-Sustainable_development.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/64px-Sustainable_development.svg.png 2x" data-file-width="800" data-file-height="510" /></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Sustainable_development" title="Portal:Sustainable development">Sustainable development portal</a></span></li>
+</ul>
+</div>
+<div class="div-col columns column-count column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2;">
+<ul>
+<li><a href="/wiki/Glossary_of_fuel_cell_terms" title="Glossary of fuel cell terms">Glossary of fuel cell terms</a></li>
+<li><a href="/wiki/Hydrogen_technologies" title="Hydrogen technologies">Hydrogen technologies</a></li>
+<li><a href="/wiki/Load_balancing_(electrical_power)" title="Load balancing (electrical power)">Load balancing</a></li>
+<li><a href="/wiki/Polysulfide_bromide_battery" title="Polysulfide bromide battery">Polysulfide bromide battery</a></li>
+<li><a href="/wiki/Redox_electrode" class="mw-redirect" title="Redox electrode">Redox electrode</a></li>
+<li><a href="/wiki/Vanadium_redox_battery" title="Vanadium redox battery">Vanadium redox flow battery</a></li>
+<li><a href="/w/index.php?title=Zinc%E2%80%93cerium_redox_flow_battery&amp;action=edit&amp;redlink=1" class="new" title="Zinc–cerium redox flow battery (page does not exist)">Zinc–cerium hybrid flow battery</a></li>
+<li><a href="/w/index.php?title=Zinc%E2%80%93bromine_flow_battery&amp;action=edit&amp;redlink=1" class="new" title="Zinc–bromine flow battery (page does not exist)">Zinc–bromine hybrid flow battery</a></li>
+<li><a href="/wiki/Hydrogen_bromine_battery" title="Hydrogen bromine battery">Hydrogen bromine battery</a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Flow_battery&amp;action=edit&amp;section=14" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-journal.frontiersin.org-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-journal.frontiersin.org_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-journal.frontiersin.org_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-journal.frontiersin.org_1-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Badwal, Sukhvinder P. S.; Giddey, Sarbjit S.; Munnings, Christopher; Bhatt, Anand I.; Hollenkamp, Anthony F. (24 September 2014). <a rel="nofollow" class="external text" href="http://journal.frontiersin.org/Journal/10.3389/fchem.2014.00079/abstract">"Emerging electrochemical energy conversion and storage technologies"</a>. <i>Frontiers in Chemistry</i>. <b>2</b>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.3389%2Ffchem.2014.00079">10.3389/fchem.2014.00079</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<span class="plainlinks"><a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC4174133">4174133</a><span style="margin-left:0.1em"><img alt="Freely accessible" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" title="Freely accessible" width="9" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" data-file-width="512" data-file-height="813" /></span></span>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/25309898">25309898</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFlow+battery&amp;rft.atitle=Emerging+electrochemical+energy+conversion+and+storage+technologies&amp;rft.au=Bhatt%2C+Anand+I.&amp;rft.aufirst=Sukhvinder+P.+S.&amp;rft.au=Giddey%2C+Sarbjit+S.&amp;rft.au=Hollenkamp%2C+Anthony+F.&amp;rft.aulast=Badwal&amp;rft.au=Munnings%2C+Christopher&amp;rft.date=2014-09-24&amp;rft.genre=article&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC4174133&amp;rft_id=http%3A%2F%2Fjournal.frontiersin.org%2FJournal%2F10.3389%2Ffchem.2014.00079%2Fabstract&amp;rft_id=info%3Adoi%2F10.3389%2Ffchem.2014.00079&amp;rft_id=info%3Apmid%2F25309898&amp;rft.jtitle=Frontiers+in+Chemistry&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=2" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite id="CITEREFAlottoGuarnieriMoro2014" class="citation journal">Alotto, P.; Guarnieri, M.; Moro, F. (2014). "Redox Flow Batteries for the storage of renewable energy: a review". <i>Renewable &amp; Sustainable Energy Reviews</i>. <b>29</b>: 325–335. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2Fj.rser.2013.08.001">10.1016/j.rser.2013.08.001</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFlow+battery&amp;rft.atitle=Redox+Flow+Batteries+for+the+storage+of+renewable+energy%3A+a+review&amp;rft.aufirst=P.&amp;rft.au=Guarnieri%2C+M.&amp;rft.aulast=Alotto&amp;rft.au=Moro%2C+F.&amp;rft.date=2014&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2Fj.rser.2013.08.001&amp;rft.jtitle=Renewable+%26+Sustainable+Energy+Reviews&amp;rft.pages=325-335&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=29" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Science-Dictionary-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-Science-Dictionary_3-0">^</a></b></span> <span class="reference-text">Science-Dictionary.org. "<a rel="nofollow" class="external text" href="http://chemistry.science-dictionary.org/Electrochemistry-Dictionary/electroactive_substance%7Cpublisher=Science-Dictionary.org">Electroactive Substance</a>" 14 May 2013.</span></li>
+<li id="cite_note-Fujii-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-Fujii_4-0">^</a></b></span> <span class="reference-text">T. Fujii, T. Hirose, and N. Kondou, in <span class="citation patent"><a rel="nofollow" class="external text" href="https://worldwide.espacenet.com/textdoc?DB=EPODOC&amp;IDX=JP55096569">JP patent 55096569</a></span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Apatent&amp;rft.number=55096569&amp;rft.cc=JP&amp;rft.title="><span style="display: none;">&#160;</span></span> (1979), to Meidensha Electric Mfg. Co. Ltd.</span></li>
+<li id="cite_note-Noack-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-Noack_5-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Noack, J.; Roznyatovskaya, N.; Herr, T.; Fischer, P. (2015). "The Chemistry of Redox-Flow Batteries.". <i>Angew. Chem. Int. Ed</i>. <b>54</b>: 9776–9809. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1002%2Fanie.201410823">10.1002/anie.201410823</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFlow+battery&amp;rft.atitle=The+Chemistry+of+Redox-Flow+Batteries.&amp;rft.aufirst=J.&amp;rft.au=Fischer%2C+P.&amp;rft.au=Herr%2C+T.&amp;rft.aulast=Noack&amp;rft.au=Roznyatovskaya%2C+N.&amp;rft.date=2015&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1002%2Fanie.201410823&amp;rft.jtitle=Angew.+Chem.+Int.+Ed.&amp;rft.pages=9776-9809&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=54" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-LindenReddy-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-LindenReddy_6-0">^</a></b></span> <span class="reference-text">Linden, D.; Reddy, T.B. (2002). Handbook of Batteries (Eds.). McGraw-Hill.</span></li>
+<li id="cite_note-Shiokawa-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-Shiokawa_7-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Shiokawa, Y.; Yamana, H.; Moriyama, H. (2000). "An Application of Actinide Elements for a Redox Flow Battery". <i>Journal of Nuclear Science and Technology</i>. <b>37</b> (3): 253–256. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1080%2F18811248.2000.9714891">10.1080/18811248.2000.9714891</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFlow+battery&amp;rft.atitle=An+Application+of+Actinide+Elements+for+a+Redox+Flow+Battery&amp;rft.aufirst=Y.&amp;rft.aulast=Shiokawa&amp;rft.au=Moriyama%2C+H.&amp;rft.au=Yamana%2C+H.&amp;rft.date=2000&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1080%2F18811248.2000.9714891&amp;rft.issue=3&amp;rft.jtitle=Journal+of+Nuclear+Science+and+Technology&amp;rft.pages=253-256&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=37" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Borchers-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-Borchers_8-0">^</a></b></span> <span class="reference-text">W. Borchers, in <span class="citation patent"><a rel="nofollow" class="external text" href="https://worldwide.espacenet.com/textdoc?DB=EPODOC&amp;IDX=US567959">US patent 567959</a></span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Apatent&amp;rft.number=567959&amp;rft.cc=US&amp;rft.title="><span style="display: none;">&#160;</span></span> (1894)</span></li>
+<li id="cite_note-Nernst-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-Nernst_9-0">^</a></b></span> <span class="reference-text">W. Nernst, in <span class="citation patent"><a rel="nofollow" class="external text" href="https://worldwide.espacenet.com/textdoc?DB=EPODOC&amp;IDX=DE264026">DE patent 264026</a></span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Apatent&amp;rft.number=264026&amp;rft.cc=DE&amp;rft.title="><span style="display: none;">&#160;</span></span> (1912)</span></li>
+<li id="cite_note-Keefer-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-Keefer_10-0">^</a></b></span> <span class="reference-text">R. M. Keefer, in <span class="citation patent"><a rel="nofollow" class="external text" href="https://worldwide.espacenet.com/textdoc?DB=EPODOC&amp;IDX=US3682704">US patent 3682704</a></span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Apatent&amp;rft.number=3682704&amp;rft.cc=US&amp;rft.title="><span style="display: none;">&#160;</span></span> (1970), to Electrocell Ltd.</span></li>
+<li id="cite_note-Kummer_and_Oei_1982-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-Kummer_and_Oei_1982_11-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Kummer, J. T.; Oei, D. -G. (1985). "A chemically regenerative redox fuel cell. II". <i>Journal of Applied Electrochemistry</i>. <b>15</b> (4): 619–629. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1007%2FBF01059304">10.1007/BF01059304</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFlow+battery&amp;rft.atitle=A+chemically+regenerative+redox+fuel+cell.+II&amp;rft.aufirst=J.+T.&amp;rft.aulast=Kummer&amp;rft.au=Oei%2C+D.+-G.&amp;rft.date=1985&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1007%2FBF01059304&amp;rft.issue=4&amp;rft.jtitle=Journal+of+Applied+Electrochemistry&amp;rft.pages=619-629&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=15" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation news">Borghino, Dario (27 February 2015). "High-performance flow battery could rival lithium-ions for EVs and grid storage". Gizmag.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFlow+battery&amp;rft.atitle=High-performance+flow+battery+could+rival+lithium-ions+for+EVs+and+grid+storage&amp;rft.aufirst=Dario&amp;rft.aulast=Borghino&amp;rft.date=2015-02-27&amp;rft.genre=article&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation news">White, Frances (2015-02-25). <a rel="nofollow" class="external text" href="http://www.rdmag.com/videos/2015/02/new-flow-battery-keep-big-cities-lit-green-and-safe">"New flow battery to keep big cities lit, green and safe"</a>. R&amp;D.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFlow+battery&amp;rft.atitle=New+flow+battery+to+keep+big+cities+lit%2C+green+and+safe&amp;rft.aufirst=Frances&amp;rft.aulast=White&amp;rft.date=2015-02-25&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.rdmag.com%2Fvideos%2F2015%2F02%2Fnew-flow-battery-keep-big-cities-lit-green-and-safe&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation journal"><a rel="nofollow" class="external text" href="http://onlinelibrary.wiley.com/doi/10.1002/cplu.201402043/suppinfo">"Cyclic Performance Analysis of Hydrogen/Bromine Flow Batteries for Grid-Scale Energy Storage"</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1002%2Fcplu.201402043%2Fsuppinfo">10.1002/cplu.201402043/suppinfo</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFlow+battery&amp;rft.atitle=Cyclic+Performance+Analysis+of+Hydrogen%2FBromine+Flow+Batteries+for+Grid-Scale+Energy+Storage&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fonlinelibrary.wiley.com%2Fdoi%2F10.1002%2Fcplu.201402043%2Fsuppinfo&amp;rft_id=info%3Adoi%2F10.1002%2Fcplu.201402043%2Fsuppinfo&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation journal"><a rel="nofollow" class="external text" href="http://link.springer.com/article/10.1134%2FS1023193513120069#/page-1">"Hydrogen-halogen electrochemical cells: A review of applications and technologies"</a>. <i>Russian Journal of Electrochemistry</i>. <b>50</b>: 301–316. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1134%2FS1023193513120069">10.1134/S1023193513120069</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFlow+battery&amp;rft.atitle=Hydrogen-halogen+electrochemical+cells%3A+A+review+of+applications+and+technologies&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Flink.springer.com%2Farticle%2F10.1134%252FS1023193513120069%23%2Fpage-1&amp;rft_id=info%3Adoi%2F10.1134%2FS1023193513120069&amp;rft.jtitle=Russian+Journal+of+Electrochemistry&amp;rft.pages=301-316&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=50" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation journal"><a rel="nofollow" class="external text" href="http://link.springer.com/article/10.1007/s10008-015-2805-z?no-access=true">"Energy cycle based on a high specific energy aqueous flow battery and its potential use for fully electric vehicles and for direct solar-to-chemical energy conversion"</a>. <i>Journal of Solid State Electrochemistry</i>. <b>19</b>: 2711–2722. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1007%2Fs10008-015-2805-z">10.1007/s10008-015-2805-z</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFlow+battery&amp;rft.atitle=Energy+cycle+based+on+a+high+specific+energy+aqueous+flow+battery+and+its+potential+use+for+fully+electric+vehicles+and+for+direct+solar-to-chemical+energy+conversion&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs10008-015-2805-z%3Fno-access%3Dtrue&amp;rft_id=info%3Adoi%2F10.1007%2Fs10008-015-2805-z&amp;rft.jtitle=Journal+of+Solid+State+Electrochemistry&amp;rft.pages=2711-2722&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=19" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://phys.org/news/2015-10-chemists-redox-flow-battery-based-polymers.html">"Chemists present an innovative redox-flow battery based on organic polymers and water"</a>. <i>phys.org</i>. Phys.org. October 21, 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-12-06</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFlow+battery&amp;rft.atitle=Chemists+present+an+innovative+redox-flow+battery+based+on+organic+polymers+and+water&amp;rft.date=2015-10-21&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fphys.org%2Fnews%2F2015-10-chemists-redox-flow-battery-based-polymers.html&amp;rft.jtitle=phys.org&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation journal">Janoschka, Tobias; Martin, Norbert; Martin, Udo; Friebe, Christian; Morgenstern, Sabine; Hiller, Hannes; Hager, Martin D.; Schubert, Ulrich S. <a rel="nofollow" class="external text" href="http://www.nature.com/doifinder/10.1038/nature15746">"An aqueous, polymer-based redox-flow battery using non-corrosive, safe, and low-cost materials"</a>. <i>Nature</i>. <b>527</b> (7576): 78–81. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1038%2Fnature15746">10.1038/nature15746</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFlow+battery&amp;rft.atitle=An+aqueous%2C+polymer-based+redox-flow+battery+using+non-corrosive%2C+safe%2C+and+low-cost+materials&amp;rft.aufirst=Tobias&amp;rft.au=Friebe%2C+Christian&amp;rft.au=Hager%2C+Martin+D.&amp;rft.au=Hiller%2C+Hannes&amp;rft.aulast=Janoschka&amp;rft.au=Martin%2C+Norbert&amp;rft.au=Martin%2C+Udo&amp;rft.au=Morgenstern%2C+Sabine&amp;rft.au=Schubert%2C+Ulrich+S.&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.nature.com%2Fdoifinder%2F10.1038%2Fnature15746&amp;rft_id=info%3Adoi%2F10.1038%2Fnature15746&amp;rft.issue=7576&amp;rft.jtitle=Nature&amp;rft.pages=78-81&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=527" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Bartolozzi-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-Bartolozzi_19-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Bartolozzi, M. (1989). "Development of redox flow batteries. A historical bibliography". <i>Journal of Power Sources</i>. <b>27</b> (3): 219–234. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2F0378-7753%2889%2980037-0">10.1016/0378-7753(89)80037-0</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFlow+battery&amp;rft.atitle=Development+of+redox+flow+batteries.+A+historical+bibliography&amp;rft.aufirst=M.&amp;rft.aulast=Bartolozzi&amp;rft.date=1989&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2F0378-7753%2889%2980037-0&amp;rft.issue=3&amp;rft.jtitle=Journal+of+Power+Sources&amp;rft.pages=219-234&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=27" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-PKLeung-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-PKLeung_20-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Leung, P. K.; Ponce-De-León, C.; Low, C. T. J.; Shah, A. A.; Walsh, F. C. (2011). "Characterization of a zinc–cerium flow battery". <i>Journal of Power Sources</i>. <b>196</b> (11): 5174–5185. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2Fj.jpowsour.2011.01.095">10.1016/j.jpowsour.2011.01.095</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFlow+battery&amp;rft.atitle=Characterization+of+a+zinc%93cerium+flow+battery&amp;rft.aufirst=P.+K.&amp;rft.aulast=Leung&amp;rft.au=Low%2C+C.+T.+J.&amp;rft.au=Ponce-De-Le%C3%B3n%2C+C.&amp;rft.au=Shah%2C+A.+A.&amp;rft.au=Walsh%2C+F.+C.&amp;rft.date=2011&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2Fj.jpowsour.2011.01.095&amp;rft.issue=11&amp;rft.jtitle=Journal+of+Power+Sources&amp;rft.pages=5174-5185&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=196" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Kurzweil-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-Kurzweil_21-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.kurzweilai.net/new-rechargeable-flow-battery-enables-cheaper-large-scale-energy-storage">"New rechargeable flow battery enables cheaper, large-scale energy storage"</a>. KurzweilAI. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1038%2Fncomms3346">10.1038/ncomms3346</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2013-08-20</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFlow+battery&amp;rft.btitle=New+rechargeable+flow+battery+enables+cheaper%2C+large-scale+energy+storage&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.kurzweilai.net%2Fnew-rechargeable-flow-battery-enables-cheaper-large-scale-energy-storage&amp;rft_id=info%3Adoi%2F10.1038%2Fncomms3346&amp;rft.pub=KurzweilAI&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Braff-22"><span class="mw-cite-backlink">^ <a href="#cite_ref-Braff_22-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Braff_22-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Braff_22-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Braff, W. A.; Bazant, M. Z.; Buie, C. R. (2013). "Membrane-less hydrogen bromine flow battery". <i>Nature Communications</i>. <b>4</b>: 2346. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1038%2Fncomms3346">10.1038/ncomms3346</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/23949161">23949161</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFlow+battery&amp;rft.atitle=Membrane-less+hydrogen+bromine+flow+battery&amp;rft.au=Bazant%2C+M.+Z.&amp;rft.au=Buie%2C+C.+R.&amp;rft.aufirst=W.+A.&amp;rft.aulast=Braff&amp;rft.date=2013&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1038%2Fncomms3346&amp;rft_id=info%3Apmid%2F23949161&amp;rft.jtitle=Nature+Communications&amp;rft.pages=2346&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=4" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text">Xu, Y.; Wen, Y.; Cheng, J.; Yanga, Y.; Xie, Z.; Cao, G. In <i>World Non-Grid-Connected Wind Power and Energy Conference, 2009. WNWEC 2009</i> IEEE: Nanjing, China, 2009, p 1.</span></li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite class="citation journal">Xu, Y.; Wen, Y.-H.; Cheng, J.; Cao, G.-P.; Yang, Y.-S. (2010). <i>Electrochim. Acta</i>. <b>55</b>: 715.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFlow+battery&amp;rft.au=Cao%2C+G.-P.&amp;rft.au=Cheng%2C+J.&amp;rft.aufirst=Y.&amp;rft.aulast=Xu&amp;rft.au=Wen%2C+Y.-H.&amp;rft.au=Yang%2C+Y.-S.&amp;rft.date=2010&amp;rft.genre=article&amp;rft.jtitle=Electrochim.+Acta&amp;rft.pages=715&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=55" class="Z3988"><span style="display:none;">&#160;</span></span> <span style="font-size:100%" class="error citation-comment">Missing or empty <code style="color:inherit; border:inherit; padding:inherit;">|title=</code> (<a href="/wiki/Help:CS1_errors#citation_missing_title" title="Help:CS1 errors">help</a>)</span></span></li>
+<li id="cite_note-Wald-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-Wald_25-0">^</a></b></span> <span class="reference-text"><cite class="citation news">WALD, MATTHEW L. (8 January 2014). <a rel="nofollow" class="external text" href="http://www.nytimes.com/2014/01/09/business/energy-environment/from-harvard-a-cheaper-storage-battery.html">"From Harvard, a Cheaper Storage Battery"</a>. New York Times<span class="reference-accessdate">. Retrieved <span class="nowrap">10 January</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFlow+battery&amp;rft.atitle=From+Harvard%2C+a+Cheaper+Storage+Battery&amp;rft.aufirst=MATTHEW+L.&amp;rft.aulast=WALD&amp;rft.date=2014-01-08&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.nytimes.com%2F2014%2F01%2F09%2Fbusiness%2Fenergy-environment%2Ffrom-harvard-a-cheaper-storage-battery.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-greencar-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-greencar_26-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.greencarcongress.com/2014/01/20140111-qbfb.html">"Harvard team demonstrates new metal-free organic–inorganic aqueous flow battery; potential breakthrough for low-cost grid-scale storage"</a>. 11 January 2014.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFlow+battery&amp;rft.btitle=Harvard+team+demonstrates+new+metal-free+organic%93inorganic+aqueous+flow+battery%3B+potential+breakthrough+for+low-cost+grid-scale+storage&amp;rft.date=2014-01-11&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.greencarcongress.com%2F2014%2F01%2F20140111-qbfb.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Husk-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-Husk_27-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Huskinson, B.; Marshak, M. P.; Suh, C.; Er, S. L.; Gerhardt, M. R.; Galvin, C. J.; Chen, X.; Aspuru-Guzik, A. N.; Gordon, R. G.; Aziz, M. J. (2014). "A metal-free organic–inorganic aqueous flow battery". <i>Nature</i>. <b>505</b> (7482): 195–198. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1038%2Fnature12909">10.1038/nature12909</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/24402280">24402280</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFlow+battery&amp;rft.atitle=A+metal-free+organic%93inorganic+aqueous+flow+battery&amp;rft.au=Aspuru-Guzik%2C+A.+N.&amp;rft.au=Aziz%2C+M.+J.&amp;rft.au=Chen%2C+X.&amp;rft.au=Er%2C+S.+L.&amp;rft.aufirst=B.&amp;rft.au=Galvin%2C+C.+J.&amp;rft.au=Gerhardt%2C+M.+R.&amp;rft.au=Gordon%2C+R.+G.&amp;rft.aulast=Huskinson&amp;rft.au=Marshak%2C+M.+P.&amp;rft.au=Suh%2C+C.&amp;rft.date=2014&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1038%2Fnature12909&amp;rft_id=info%3Apmid%2F24402280&amp;rft.issue=7482&amp;rft.jtitle=Nature&amp;rft.pages=195-198&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=505" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><cite class="citation web">Szondy, David (29 June 2014). <a rel="nofollow" class="external text" href="http://www.gizmag.com/organic-redox-flow-battery/32739">"New water-based organic battery is cheap, rechargeable and eco-friendly"</a>. Gizmag.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFlow+battery&amp;rft.aufirst=David&amp;rft.aulast=Szondy&amp;rft.btitle=New+water-based+organic+battery+is+cheap%2C+rechargeable+and+eco-friendly&amp;rft.date=2014-06-29&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.gizmag.com%2Forganic-redox-flow-battery%2F32739&amp;rft.pub=Gizmag&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://phys.org/news/2015-09-rechargeable-battery-power-home-rooftop.html">"A rechargeable battery to power a home from rooftop solar panels"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFlow+battery&amp;rft.btitle=A+rechargeable+battery+to+power+a+home+from+rooftop+solar+panels&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fphys.org%2Fnews%2F2015-09-rechargeable-battery-power-home-rooftop.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><cite class="citation web">Matthew Gunther,ChemistryWorld. <a rel="nofollow" class="external text" href="http://www.scientificamerican.com/article/flow-battery-could-smooth-irregular-wind-and-solar-energy-supply/">"Flow Battery Could Smooth Irregular Wind and Solar Energy Supply"</a>. <i>Scientific American</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFlow+battery&amp;rft.atitle=Flow+Battery+Could+Smooth+Irregular+Wind+and+Solar+Energy+Supply&amp;rft.au=Matthew+Gunther%2CChemistryWorld&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.scientificamerican.com%2Farticle%2Fflow-battery-could-smooth-irregular-wind-and-solar-energy-supply%2F&amp;rft.jtitle=Scientific+American&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text">Alkaline quinone flow battery Lin et al. Science 2015 349 (6255), p. 1529</span></li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><cite class="citation web">Borghino, Dario (September 30, 2015). <a rel="nofollow" class="external text" href="http://www.gizmag.com/alkaline-flow-battery/39606/">"Greener, safer flow battery could store renewable energy on the cheap"</a>. <i>www.gizmag.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2015-12-08</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFlow+battery&amp;rft.atitle=Greener%2C+safer+flow+battery+could+store+renewable+energy+on+the+cheap&amp;rft.aufirst=Dario&amp;rft.aulast=Borghino&amp;rft.date=2015-09-30&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.gizmag.com%2Falkaline-flow-battery%2F39606%2F&amp;rft.jtitle=www.gizmag.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><cite class="citation web">Moss, Richard (2015-12-22). <a rel="nofollow" class="external text" href="http://www.gizmag.com/pnnl-low-cost-sustainable-flow-battery/41028">"New flow battery projected to cost 60% less than existing standard"</a>. <i>www.gizmag.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2015-12-23</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFlow+battery&amp;rft.atitle=New+flow+battery+projected+to+cost+60%25+less+than+existing+standard&amp;rft.aufirst=Richard&amp;rft.aulast=Moss&amp;rft.date=2015-12-22&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.gizmag.com%2Fpnnl-low-cost-sustainable-flow-battery%2F41028&amp;rft.jtitle=www.gizmag.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><cite class="citation journal">Liu, Tianbiao; Wei, Xiaoliang; Nie, Zimin; Sprenkle, Vincent; Wang, Wei (2015-11-01). <a rel="nofollow" class="external text" href="http://onlinelibrary.wiley.com/doi/10.1002/aenm.201501449/abstract">"A Total Organic Aqueous Redox Flow Battery Employing a Low Cost and Sustainable Methyl Viologen Anolyte and 4-HO-TEMPO Catholyte"</a>. <i>Advanced Energy Materials</i>. <b>6</b>: 1501449. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1002%2Faenm.201501449">10.1002/aenm.201501449</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/1614-6840">1614-6840</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFlow+battery&amp;rft.atitle=A+Total+Organic+Aqueous+Redox+Flow+Battery+Employing+a+Low+Cost+and+Sustainable+Methyl+Viologen+Anolyte+and+4-HO-TEMPO+Catholyte&amp;rft.aufirst=Tianbiao&amp;rft.aulast=Liu&amp;rft.au=Nie%2C+Zimin&amp;rft.au=Sprenkle%2C+Vincent&amp;rft.au=Wang%2C+Wei&amp;rft.au=Wei%2C+Xiaoliang&amp;rft.date=2015-11-01&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fonlinelibrary.wiley.com%2Fdoi%2F10.1002%2Faenm.201501449%2Fabstract&amp;rft_id=info%3Adoi%2F10.1002%2Faenm.201501449&amp;rft.issn=1614-6840&amp;rft.jtitle=Advanced+Energy+Materials&amp;rft.pages=1501449&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=6" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text">Tobias Janoschka, Norbert Martin, Udo Martin, Christian Friebe, Sabine Morgenstern, Hannes Hiller, Martin D. Hager, Ulrich S. Schubert (2015). "An aqueous, polymer-based redox-flow battery using non-corrosive, safe, and low-cost materials". <i>Nature</i>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1038%2Fnature15746">10.1038/nature15746</a></span></li>
+<li id="cite_note-Quick-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-Quick_36-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.gizmag.com/proton-flow-battery-hydrogen-electricity-rmit/30818">"Proton flow battery simplifies hydrogen power"</a>. Gizmag.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-02-13</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFlow+battery&amp;rft.btitle=Proton+flow+battery+simplifies+hydrogen+power&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.gizmag.com%2Fproton-flow-battery-hydrogen-electricity-rmit%2F30818&amp;rft.pub=Gizmag.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Andrews-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-Andrews_37-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Andrews, J.; Seif Mohammadi, S. (2014). "Towards a 'proton flow battery': Investigation of a reversible PEM fuel cell with integrated metal-hydride hydrogen storage". <i>International Journal of Hydrogen Energy</i>. <b>39</b> (4): 1740–1751. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2Fj.ijhydene.2013.11.010">10.1016/j.ijhydene.2013.11.010</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFlow+battery&amp;rft.atitle=Towards+a+%27proton+flow+battery%27%3A+Investigation+of+a+reversible+PEM+fuel+cell+with+integrated+metal-hydride+hydrogen+storage&amp;rft.aufirst=J.&amp;rft.aulast=Andrews&amp;rft.au=Seif+Mohammadi%2C+S.&amp;rft.date=2014&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2Fj.ijhydene.2013.11.010&amp;rft.issue=4&amp;rft.jtitle=International+Journal+of+Hydrogen+Energy&amp;rft.pages=1740-1751&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=39" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-MITTech-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-MITTech_38-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Kevin Bullis (24 April 2014). <a rel="nofollow" class="external text" href="http://www.technologyreview.com/news/526811/nanoparticle-networks-promise-cheaper-batteries-for-storing-renewable-energy">"Nanoparticle Networks Promise Cheaper Batteries for Storing Renewable Energy"</a>. <i>MIT Technology Review</i><span class="reference-accessdate">. Retrieved <span class="nowrap">24 September</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFlow+battery&amp;rft.atitle=Nanoparticle+Networks+Promise+Cheaper+Batteries+for+Storing+Renewable+Energy&amp;rft.au=Kevin+Bullis&amp;rft.date=2014-04-24&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.technologyreview.com%2Fnews%2F526811%2Fnanoparticle-networks-promise-cheaper-batteries-for-storing-renewable-energy&amp;rft.jtitle=MIT+Technology+Review&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-39">^</a></b></span> <span class="reference-text"><cite class="citation news">Chandler, David L. (23 August 2011). <a rel="nofollow" class="external text" href="http://www.technologyreview.com/article/425107/go-with-the-flow/">"Go with the Flow - Cambridge Crude"</a>. <i><a href="/wiki/Technology_Review" class="mw-redirect" title="Technology Review">Technology Review</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFlow+battery&amp;rft.atitle=Go+with+the+Flow+-+Cambridge+Crude&amp;rft.aufirst=David+L.&amp;rft.aulast=Chandler&amp;rft.date=2011-08-23&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.technologyreview.com%2Farticle%2F425107%2Fgo-with-the-flow%2F&amp;rft.jtitle=Technology+Review&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-REDT-40"><span class="mw-cite-backlink"><b><a href="#cite_ref-REDT_40-0">^</a></b></span> <span class="reference-text"><cite class="citation web">REDT Energy. <a rel="nofollow" class="external text" href="http://www.redtenergy.com/applications/renewable-energy">"Storing Renewable Energy"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFlow+battery&amp;rft.au=REDT+Energy&amp;rft.btitle=Storing+Renewable+Energy&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.redtenergy.com%2Fapplications%2Frenewable-energy&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-redflow-41"><span class="mw-cite-backlink"><b><a href="#cite_ref-redflow_41-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://www.redflow.com.au/DNSP.htm">[1]</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20100209050109/http://www.redflow.com.au/DNSP.htm">Archived</a> 9 February 2010 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span></li>
+<li id="cite_note-Spaziente-42"><span class="mw-cite-backlink"><b><a href="#cite_ref-Spaziente_42-0">^</a></b></span> <span class="reference-text">P. M. Spaziante, K. Kampanatsanyakorn, and A. Zocchi, in <span class="citation patent"><a rel="nofollow" class="external text" href="https://worldwide.espacenet.com/textdoc?DB=EPODOC&amp;IDX=WO03043170">WO patent 03043170</a></span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Apatent&amp;rft.number=03043170&amp;rft.cc=WO&amp;rft.title="><span style="display: none;">&#160;</span></span> (2001), to Squirrel Holdings Ltd.</span></li>
+<li id="cite_note-EVRS-43"><span class="mw-cite-backlink"><b><a href="#cite_ref-EVRS_43-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.poweringnow.com/applications/electric-vehicles">"Electric Vehicle Refuelling System (EVRS) used in conjunction with Vanadium Redox Flow Technology"</a>. <i>REDT Energy Storage</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFlow+battery&amp;rft.atitle=Electric+Vehicle+Refuelling+System+%28EVRS%29+used+in+conjunction+with+Vanadium+Redox+Flow+Technology&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.poweringnow.com%2Fapplications%2Felectric-vehicles&amp;rft.jtitle=REDT+Energy+Storage&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-EVRSfox-44"><span class="mw-cite-backlink"><b><a href="#cite_ref-EVRSfox_44-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Antony Ingram. <a rel="nofollow" class="external text" href="http://www.foxnews.com/leisure/2014/07/18/nanoflowcell-powered-quant-e-limo-approved-for-german-road-trials/?intcmp=obnetwork">"nanoFLOWCELL-powered Quant e-Limo approved for german road trials"</a>. <i>Fox News</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFlow+battery&amp;rft.atitle=nanoFLOWCELL-powered+Quant+e-Limo+approved+for+german+road+trials&amp;rft.au=Antony+Ingram&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.foxnews.com%2Fleisure%2F2014%2F07%2F18%2Fnanoflowcell-powered-quant-e-limo-approved-for-german-road-trials%2F%3Fintcmp%3Dobnetwork&amp;rft.jtitle=Fox+News&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-sse-45"><span class="mw-cite-backlink"><b><a href="#cite_ref-sse_45-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Tolmachev, Yuriy V.; Piatkivskyi, Andrii; Ryzhov, Victor V.; Konev, Dmitry V.; Vorotyntsev, Mikhail A. (2015). <a rel="nofollow" class="external text" href="http://link.springer.com/article/10.1007/s10008-015-2805-z?no-access=true">"Energy cycle based on a high specific energy aqueous flow battery and its potential use for fully electric vehicles and for direct solar-to-chemical energy conversion"</a>. <i>Journal of Solid State Electrochemistry</i>. <b>19</b> (9): 2711–2722. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1007%2Fs10008-015-2805-z">10.1007/s10008-015-2805-z</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFlow+battery&amp;rft.atitle=Energy+cycle+based+on+a+high+specific+energy+aqueous+flow+battery+and+its+potential+use+for+fully+electric+vehicles+and+for+direct+solar-to-chemical+energy+conversion&amp;rft.aufirst=Yuriy+V.&amp;rft.au=Konev%2C+Dmitry+V.&amp;rft.aulast=Tolmachev&amp;rft.au=Piatkivskyi%2C+Andrii&amp;rft.au=Ryzhov%2C+Victor+V.&amp;rft.au=Vorotyntsev%2C+Mikhail+A.&amp;rft.date=2015&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs10008-015-2805-z%3Fno-access%3Dtrue&amp;rft_id=info%3Adoi%2F10.1007%2Fs10008-015-2805-z&amp;rft.issue=9&amp;rft.jtitle=Journal+of+Solid+State+Electrochemistry&amp;rft.pages=2711-2722&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=19" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-deeya-46"><span class="mw-cite-backlink"><b><a href="#cite_ref-deeya_46-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=GbLRKN3srUs"><span class="plainlinks">Talk by John Davis of Deeya energy about their flow battery's use in the telecomms industry</span></a> on <a href="/wiki/YouTube" title="YouTube">YouTube</a></span></li>
+<li id="cite_note-sandia-47"><span class="mw-cite-backlink"><b><a href="#cite_ref-sandia_47-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.sandia.gov/ess/publications/SAND2013-2818C.pdf">Performance Testing of Zinc-Bromine Flow Batteries for Remote Telecom Sites</a></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Flow_battery&amp;action=edit&amp;section=15" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.mpoweruk.com/flow.htm">Electropaedia on Flow Batteries</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.imr-oarai.jp/en/research/research4-5.html">Research on the uranium redox flow battery</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=lAW-mMsCNlU"><span class="plainlinks">How flow batteries work</span></a> on <a href="/wiki/YouTube" title="YouTube">YouTube</a></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Galvanic_cells" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Galvanic_cells" title="Template:Galvanic cells"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Galvanic_cells" title="Template talk:Galvanic cells"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Galvanic_cells&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Galvanic_cells" style="font-size:114%"><a href="/wiki/Galvanic_cell" title="Galvanic cell">Galvanic cells</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Types</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Voltaic_pile" title="Voltaic pile">Voltaic pile</a></li>
+<li><a href="/wiki/Battery_(electricity)" title="Battery (electricity)">Battery</a>
+<ul>
+<li><strong class="selflink">Flow battery</strong></li>
+<li><a href="/wiki/Trough_battery" title="Trough battery">Trough battery</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Concentration_cell" title="Concentration cell">Concentration cell</a></li>
+<li><a href="/wiki/Fuel_cell" title="Fuel cell">Fuel cell</a></li>
+<li><a href="/wiki/Thermogalvanic_cell" title="Thermogalvanic cell">Thermogalvanic cell</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="7" style="width:0%;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:Galvanic_Cell.svg" class="image" title="Galvanic cell"><img alt="Galvanic cell" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Galvanic_Cell.svg/150px-Galvanic_Cell.svg.png" width="150" height="159" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Galvanic_Cell.svg/225px-Galvanic_Cell.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Galvanic_Cell.svg/300px-Galvanic_Cell.svg.png 2x" data-file-width="376" data-file-height="399" /></a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">
+<div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Primary_cell" title="Primary cell">Primary cell<br />
+<small><span style="font-weight:normal;">(non-rechargable)</span></small></a></div>
+</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Alkaline_battery" title="Alkaline battery">Alkaline</a></li>
+<li><a href="/wiki/Aluminium%E2%80%93air_battery" title="Aluminium–air battery">Aluminium–air</a></li>
+<li><a href="/wiki/Bunsen_cell" title="Bunsen cell">Bunsen</a></li>
+<li><a href="/wiki/Chromic_acid_cell" title="Chromic acid cell">Chromic acid</a></li>
+<li><a href="/wiki/Clark_cell" title="Clark cell">Clark</a></li>
+<li><a href="/wiki/Daniell_cell" title="Daniell cell">Daniell</a></li>
+<li><a href="/wiki/Dry_cell" title="Dry cell">Dry</a></li>
+<li><a href="/wiki/Edison-Lalande_cell" class="mw-redirect" title="Edison-Lalande cell">Edison-Lalande</a></li>
+<li><a href="/wiki/Grove_cell" title="Grove cell">Grove</a></li>
+<li><a href="/wiki/Leclanch%C3%A9_cell" title="Leclanché cell">Leclanché</a></li>
+<li><a href="/wiki/Lithium_battery" title="Lithium battery">Lithium</a></li>
+<li><a href="/wiki/Mercury_battery" title="Mercury battery">Mercury</a></li>
+<li><a href="/wiki/Nickel_oxyhydroxide_battery" title="Nickel oxyhydroxide battery">Nickel oxyhydroxide</a></li>
+<li><a href="/wiki/Silicon%E2%80%93air_battery" title="Silicon–air battery">Silicon–air</a></li>
+<li><a href="/wiki/Silver-oxide_battery" title="Silver-oxide battery">Silver oxide</a></li>
+<li><a href="/wiki/Weston_cell" title="Weston cell">Weston</a></li>
+<li><a href="/wiki/Zamboni_pile" title="Zamboni pile">Zamboni</a></li>
+<li><a href="/wiki/Zinc%E2%80%93air_battery" title="Zinc–air battery">Zinc–air</a></li>
+<li><a href="/wiki/Zinc%E2%80%93carbon_battery" title="Zinc–carbon battery">Zinc–carbon</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">
+<div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Rechargeable_battery" title="Rechargeable battery">Secondary cell<br />
+<small><span style="font-weight:normal;">(rechargeable)</span></small></a></div>
+</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Automotive_battery" title="Automotive battery">Automotive</a></li>
+<li><a href="/wiki/Lead%E2%80%93acid_battery" title="Lead–acid battery">Lead–acid</a>
+<ul>
+<li><a href="/wiki/VRLA_battery" title="VRLA battery">gel&#160;/ VRLA</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Lithium%E2%80%93air_battery" title="Lithium–air battery">Lithium–air</a></li>
+<li><a href="/wiki/Lithium-ion_battery" title="Lithium-ion battery">Lithium–ion</a>
+<ul>
+<li><a href="/wiki/Lithium_polymer_battery" title="Lithium polymer battery">Lithium polymer</a></li>
+<li><a href="/wiki/Lithium_iron_phosphate_battery" title="Lithium iron phosphate battery">Lithium iron phosphate</a></li>
+<li><a href="/wiki/Lithium%E2%80%93titanate_battery" title="Lithium–titanate battery">Lithium titanate</a></li>
+<li><a href="/wiki/Lithium%E2%80%93sulfur_battery" title="Lithium–sulfur battery">Lithium–sulfur</a></li>
+<li><a href="/wiki/Dual_carbon_battery" title="Dual carbon battery">Dual carbon battery</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Molten_salt_battery" title="Molten salt battery">Molten salt</a></li>
+<li><a href="/wiki/Nanopore_battery" title="Nanopore battery">Nanopore</a></li>
+<li><a href="/wiki/Nanowire_battery" title="Nanowire battery">Nanowire</a></li>
+<li><a href="/wiki/Nickel%E2%80%93cadmium_battery" title="Nickel–cadmium battery">Nickel–cadmium</a></li>
+<li><a href="/wiki/Nickel%E2%80%93hydrogen_battery" title="Nickel–hydrogen battery">Nickel–hydrogen</a></li>
+<li><a href="/wiki/Nickel%E2%80%93iron_battery" title="Nickel–iron battery">Nickel–iron</a></li>
+<li><a href="/wiki/Nickel%E2%80%93lithium_battery" title="Nickel–lithium battery">Nickel–lithium</a></li>
+<li><a href="/wiki/Nickel%E2%80%93metal_hydride_battery" title="Nickel–metal hydride battery">Nickel–metal hydride</a></li>
+<li><a href="/wiki/Nickel%E2%80%93zinc_battery" title="Nickel–zinc battery">Nickel–zinc</a></li>
+<li><a href="/wiki/Polysulfide_bromide_battery" title="Polysulfide bromide battery">Polysulfide bromide</a></li>
+<li><a href="/wiki/Potassium-ion_battery" title="Potassium-ion battery">Potassium-ion</a></li>
+<li><a href="/wiki/Rechargeable_alkaline_battery" title="Rechargeable alkaline battery">Rechargeable alkaline</a></li>
+<li><a href="/wiki/Sodium-ion_battery" title="Sodium-ion battery">Sodium-ion</a></li>
+<li><a href="/wiki/Sodium%E2%80%93sulfur_battery" title="Sodium–sulfur battery">Sodium–sulfur</a></li>
+<li><a href="/wiki/Vanadium_redox_battery" title="Vanadium redox battery">Vanadium redox</a></li>
+<li><a href="/wiki/Zinc%E2%80%93bromine_battery" title="Zinc–bromine battery">Zinc–bromine</a></li>
+<li><a href="/wiki/Zinc%E2%80%93cerium_battery" title="Zinc–cerium battery">Zinc–cerium</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Cell parts</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Anode" title="Anode">Anode</a></li>
+<li><a href="/wiki/Binder_(material)" title="Binder (material)">Binder</a></li>
+<li><a href="/wiki/Catalysis" title="Catalysis">Catalyst</a></li>
+<li><a href="/wiki/Cathode" title="Cathode">Cathode</a></li>
+<li><a href="/wiki/Electrode" title="Electrode">Electrode</a></li>
+<li><a href="/wiki/Electrolyte" title="Electrolyte">Electrolyte</a></li>
+<li><a href="/wiki/Half-cell" title="Half-cell">Half-cell</a></li>
+<li><a href="/wiki/Ion" title="Ion">Ions</a></li>
+<li><a href="/wiki/Salt_bridge" title="Salt bridge">Salt bridge</a></li>
+<li><a href="/wiki/Semipermeable_membrane" title="Semipermeable membrane">Semipermeable membrane</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Fuel_cells" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Fuel_cells" title="Template:Fuel cells"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Fuel_cells" title="Template talk:Fuel cells"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Fuel_cells&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Fuel_cells" style="font-size:114%"><a href="/wiki/Fuel_cell" title="Fuel cell">Fuel cells</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">By electrolyte</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Alkaline_fuel_cell" title="Alkaline fuel cell">Alkaline fuel cell</a></li>
+<li><a href="/wiki/Molten_carbonate_fuel_cell" title="Molten carbonate fuel cell">Molten carbonate fuel cell</a></li>
+<li><a href="/wiki/Phosphoric_acid_fuel_cell" title="Phosphoric acid fuel cell">Phosphoric acid fuel cell</a></li>
+<li><a href="/wiki/Proton_exchange_membrane_fuel_cell" title="Proton exchange membrane fuel cell">Proton exchange membrane fuel cell</a></li>
+<li><a href="/wiki/Solid_oxide_fuel_cell" title="Solid oxide fuel cell">Solid oxide fuel cell</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">By fuel</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Direct-ethanol_fuel_cell" title="Direct-ethanol fuel cell">Direct-ethanol fuel cell</a></li>
+<li><a href="/wiki/Direct_methanol_fuel_cell" title="Direct methanol fuel cell">Direct methanol fuel cell</a></li>
+<li><a href="/wiki/Formic_acid_fuel_cell" title="Formic acid fuel cell">Formic acid fuel cell</a></li>
+<li><a href="/wiki/Reformed_methanol_fuel_cell" title="Reformed methanol fuel cell">Reformed methanol fuel cell</a></li>
+<li><a href="/wiki/Zinc%E2%80%93air_battery" title="Zinc–air battery">Zinc-air battery</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Biofuel cells</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Enzymatic_biofuel_cell" title="Enzymatic biofuel cell">Enzymatic biofuel cell</a></li>
+<li><a href="/wiki/Microbial_fuel_cell" title="Microbial fuel cell">Microbial fuel cell</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Others</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Osmotic_power" title="Osmotic power">Blue energy</a></li>
+<li><a href="/wiki/Direct_borohydride_fuel_cell" title="Direct borohydride fuel cell">Direct borohydride fuel cell</a></li>
+<li><a href="/wiki/Direct_carbon_fuel_cell" title="Direct carbon fuel cell">Direct carbon fuel cell</a></li>
+<li><a href="/wiki/Electro-galvanic_fuel_cell" title="Electro-galvanic fuel cell">Electro-galvanic fuel cell</a></li>
+<li><strong class="selflink">Flow battery</strong></li>
+<li><a href="/wiki/Membraneless_Fuel_Cells" title="Membraneless Fuel Cells">Membraneless Fuel Cells</a></li>
+<li><a href="/wiki/Metal_hydride_fuel_cell" title="Metal hydride fuel cell">Metal hydride fuel cell</a></li>
+<li><a href="/wiki/Photoelectrochemical_cell" title="Photoelectrochemical cell">Photoelectrochemical cell</a></li>
+<li><a href="/wiki/Protonic_ceramic_fuel_cell" title="Protonic ceramic fuel cell">Protonic ceramic fuel cell</a></li>
+<li><a href="/wiki/Regenerative_fuel_cell" title="Regenerative fuel cell">Regenerative fuel cell</a></li>
+<li><a href="/wiki/Solid_oxide_electrolyser_cell" title="Solid oxide electrolyser cell">Solid oxide electrolyser cell</a></li>
+<li><a href="/wiki/Unitized_regenerative_fuel_cell" title="Unitized regenerative fuel cell">Unitized regenerative fuel cell</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Hydrogen" title="Hydrogen">Hydrogen</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Hydrogen_economy" title="Hydrogen economy">Economy</a></li>
+<li><a href="/wiki/Hydrogen_storage" title="Hydrogen storage">Storage</a></li>
+<li><a href="/wiki/Hydrogen_station" title="Hydrogen station">Station</a></li>
+<li><a href="/wiki/Hydrogen_vehicle" title="Hydrogen vehicle">Vehicle</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><a href="/wiki/Glossary_of_fuel_cell_terms" title="Glossary of fuel cell terms">Glossary</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div style="clear:both;"></div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1170
+Cached time: 20170130072220
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.428 seconds
+Real time usage: 0.511 seconds
+Preprocessor visited node count: 3975/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 106424/2097152 bytes
+Template argument size: 6092/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 2/500
+Lua time usage: 0.181/10.000 seconds
+Lua memory usage: 7.57 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  443.501      1 -total
+ 54.19%  240.335      1 Template:Reflist
+ 20.72%   91.895     17 Template:Cite_journal
+  9.55%   42.346     13 Template:Cite_web
+  8.37%   37.117      1 Template:Citation_needed
+  7.79%   34.555      1 Template:Fix
+  6.27%   27.794      1 Template:Convert
+  6.03%   26.757      5 Template:Chem
+  5.36%   23.774      1 Template:Use_dmy_dates
+  4.99%   22.150      5 Template:Chem/link
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:3133405-0!*!0!!en!4!* and timestamp 20170130072220 and revision id 761405588
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Flow_battery&amp;oldid=761405588">https://en.wikipedia.org/w/index.php?title=Flow_battery&amp;oldid=761405588</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Fuel_cells" title="Category:Fuel cells">Fuel cells</a></li><li><a href="/wiki/Category:Battery_types" title="Category:Battery types">Battery types</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Pages_with_citations_lacking_titles" title="Category:Pages with citations lacking titles">Pages with citations lacking titles</a></li><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_November_2014" title="Category:Use dmy dates from November 2014">Use dmy dates from November 2014</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_September_2015" title="Category:Articles with unsourced statements from September 2015">Articles with unsourced statements from September 2015</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Flow+battery" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Flow+battery" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Flow_battery"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Flow_battery"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Flow_battery" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Flow_battery&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Flow_battery&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Flow_battery" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Flow_battery" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Flow_battery&amp;oldid=761405588" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Flow_battery&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q907511" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Flow_battery&amp;id=761405588" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Flow+battery">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Flow+battery&amp;returnto=Flow+battery&amp;oldid=761405588&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Flow_battery&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Redox-flow-celle" title="Redox-flow-celle – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Redox-Flow-Batterie" title="Redox-Flow-Batterie – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/L%C3%A4bivooluelement" title="Läbivooluelement – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Bater%C3%ADa_de_flujo" title="Batería de flujo – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Batterie_%C3%A0_flux" title="Batterie à flux – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Batteria_di_flusso" title="Batteria di flusso – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Baterie_cu_curgere" title="Baterie cu curgere – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Virtausakku" title="Virtausakku – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Fl%C3%B6desbatteri" title="Flödesbatteri – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E6%B6%B2%E6%B5%81%E9%9B%BB%E6%B1%A0" title="液流電池 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q907511#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 22 January 2017, at 20:38.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Flow_battery&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.428","walltime":"0.511","ppvisitednodes":{"value":3975,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":106424,"limit":2097152},"templateargumentsize":{"value":6092,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  443.501      1 -total"," 54.19%  240.335      1 Template:Reflist"," 20.72%   91.895     17 Template:Cite_journal","  9.55%   42.346     13 Template:Cite_web","  8.37%   37.117      1 Template:Citation_needed","  7.79%   34.555      1 Template:Fix","  6.27%   27.794      1 Template:Convert","  6.03%   26.757      5 Template:Chem","  5.36%   23.774      1 Template:Use_dmy_dates","  4.99%   22.150      5 Template:Chem/link"]},"scribunto":{"limitreport-timeusage":{"value":"0.181","limit":"10.000"},"limitreport-memusage":{"value":7935812,"limit":52428800}},"cachereport":{"origin":"mw1170","timestamp":"20170130072220","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":618,"wgHostname":"mw1170"});});</script>
+	</body>
+</html>

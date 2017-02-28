@@ -1,0 +1,24 @@
+As we know, the two lists are of size 1000 each
+Both of them are already sorted in the order of relevence with their seed topics. 
+
+In order to merge both the lists into one list of at most 1000 links
+
+Say List for SustainableEnergy is L1
+and List for SolarPower is L2
+and the result list is of size 1000
+
+Then, every time we take one element from L1 and L2 
+untill the result size reaches 1000
+compare if they are same
+>>>>if yes
+       we discard one of them and 
+       check if it already is in result list 
+          if yes >>> discard the link and continue
+          if no  >>> save the link and continue
+>>>>if no
+     check for both individually if they exist in the result list 
+     if they do then discard them and continue
+     if they don't then save them in the result and continue
+
+then output result list
+

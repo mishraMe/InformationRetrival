@@ -1,0 +1,2135 @@
+url : https://en.wikipedia.org/wiki/Rankine_cycle
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Rankine cycle - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Rankine_cycle","wgTitle":"Rankine cycle","wgCurRevisionId":760691681,"wgRevisionId":760691681,"wgArticleId":660657,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Commons category with page title same as on Wikidata","Pages using ISBN magic links","Thermodynamic cycles","Scottish inventions"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Rankine_cycle","wgRelevantArticleId":660657,"wgRequestId":"WIU-8QpAAD4AARB6rVkAAABA","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q215612","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.math.styles":"ready","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.math.scripts","ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.scripts%2Cstyles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.8"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Rankine_cycle"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Rankine_cycle&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Rankine_cycle&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Rankine_cycle"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Rankine_cycle rootpage-Rankine_cycle skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Rankine cycle</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><table class="vertical-navbox nowraplinks plainlist" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%">
+<tr>
+<th style="padding:0.2em 0.4em 0.2em;font-size:145%;line-height:1.2em;padding-bottom:0.3em;border-bottom:1px solid #aaa;"><a href="/wiki/Thermodynamics" title="Thermodynamics">Thermodynamics</a></th>
+</tr>
+<tr>
+<td style="padding:0.2em 0 0.4em;display:block;margin:0.3em 0 0.4em;"><a href="/wiki/Carnot_heat_engine" title="Carnot heat engine"><img alt="Carnot heat engine 2.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Carnot_heat_engine_2.svg/220px-Carnot_heat_engine_2.svg.png" width="220" height="97" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Carnot_heat_engine_2.svg/330px-Carnot_heat_engine_2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/22/Carnot_heat_engine_2.svg/440px-Carnot_heat_engine_2.svg.png 2x" data-file-width="840" data-file-height="370" /></a>
+<div style="padding-top:0.2em;line-height:1.2em">The classical <a href="/wiki/Carnot_heat_engine" title="Carnot heat engine">Carnot heat engine</a></div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf;text-align:center;">Branches</div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Thermodynamics" title="Thermodynamics">Classical</a></li>
+<li><a href="/wiki/Statistical_mechanics" title="Statistical mechanics">Statistical</a></li>
+<li><a href="/wiki/Chemical_thermodynamics" title="Chemical thermodynamics">Chemical</a></li>
+</ul>
+</div>
+<ul>
+<li><a href="/wiki/Equilibrium_thermodynamics" title="Equilibrium thermodynamics">Equilibrium</a>&#160;/ <a href="/wiki/Non-equilibrium_thermodynamics" title="Non-equilibrium thermodynamics">Non-equilibrium</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf;text-align:center;"><a href="/wiki/Laws_of_thermodynamics" title="Laws of thermodynamics">Laws</a></div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Zeroth_law_of_thermodynamics" title="Zeroth law of thermodynamics">Zeroth</a></li>
+<li><a href="/wiki/First_law_of_thermodynamics" title="First law of thermodynamics">First</a></li>
+<li><a href="/wiki/Second_law_of_thermodynamics" title="Second law of thermodynamics">Second</a></li>
+<li><a href="/wiki/Third_law_of_thermodynamics" title="Third law of thermodynamics">Third</a></li>
+</ul>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf;text-align:center;"><a href="/wiki/Thermodynamic_system" title="Thermodynamic system">Systems</a></div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;border-collapse:collapse; border-spacing:0px; border:none; width:100%; margin:0px; font-size:100%; clear:none; float:none">
+<tr>
+<th style="padding:0.1em;background:#eaeaff;font-style:italic;"><a href="/wiki/Thermodynamic_state" title="Thermodynamic state">State</a></th>
+</tr>
+<tr>
+<td class="hlist" style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/Equation_of_state" title="Equation of state">Equation of state</a></li>
+<li><a href="/wiki/Ideal_gas" title="Ideal gas">Ideal gas</a></li>
+<li><a href="/wiki/Real_gas" title="Real gas">Real gas</a></li>
+<li><a href="/wiki/State_of_matter" title="State of matter">State of matter</a></li>
+<li><a href="/wiki/Thermodynamic_equilibrium" title="Thermodynamic equilibrium">Equilibrium</a></li>
+<li><a href="/wiki/Control_volume" title="Control volume">Control volume</a></li>
+<li><a href="/wiki/Thermodynamic_instruments" title="Thermodynamic instruments">Instruments</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background:#eaeaff;font-style:italic;"><a href="/wiki/Thermodynamic_process" title="Thermodynamic process">Processes</a></th>
+</tr>
+<tr>
+<td class="hlist" style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/Isobaric_process" title="Isobaric process">Isobaric</a></li>
+<li><a href="/wiki/Isochoric_process" title="Isochoric process">Isochoric</a></li>
+<li><a href="/wiki/Isothermal_process" title="Isothermal process">Isothermal</a></li>
+<li><a href="/wiki/Adiabatic_process" title="Adiabatic process">Adiabatic</a></li>
+<li><a href="/wiki/Isentropic_process" title="Isentropic process">Isentropic</a></li>
+<li><a href="/wiki/Isenthalpic_process" title="Isenthalpic process">Isenthalpic</a></li>
+<li><a href="/wiki/Quasistatic_process" title="Quasistatic process">Quasistatic</a></li>
+<li><a href="/wiki/Polytropic_process" title="Polytropic process">Polytropic</a></li>
+<li><a href="/wiki/Free_expansion" title="Free expansion">Free expansion</a></li>
+<li><a href="/wiki/Reversible_process_(thermodynamics)" title="Reversible process (thermodynamics)">Reversibility</a></li>
+<li><a href="/wiki/Irreversible_process" title="Irreversible process">Irreversibility</a></li>
+<li><a href="/wiki/Endoreversible_thermodynamics" title="Endoreversible thermodynamics">Endoreversibility</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background:#eaeaff;font-style:italic;"><a href="/wiki/Thermodynamic_cycle" title="Thermodynamic cycle">Cycles</a></th>
+</tr>
+<tr>
+<td class="hlist" style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/Heat_engine" title="Heat engine">Heat engines</a></li>
+<li><a href="/wiki/Heat_pump_and_refrigeration_cycle" title="Heat pump and refrigeration cycle">Heat pumps</a></li>
+<li><a href="/wiki/Thermal_efficiency" title="Thermal efficiency">Thermal efficiency</a></li>
+</ul>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf;text-align:center;"><a href="/wiki/List_of_thermodynamic_properties" title="List of thermodynamic properties">System properties</a></div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<div style="font-size:90%;padding-bottom:0.2em;border-bottom:1px solid #aaa;">Note: <a href="/wiki/Conjugate_variables_(thermodynamics)" title="Conjugate variables (thermodynamics)">Conjugate variables</a> in <i>italics</i></div>
+<table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;border-collapse:collapse; border-spacing:0px; border:none; width:100%; margin:0px; font-size:100%; clear:none; float:none;margin-top:0.4em;">
+<tr>
+<td style="padding:0 0.1em 0.4em;padding-bottom:0.7em;">
+<ul>
+<li><a href="/wiki/Thermodynamic_diagrams" title="Thermodynamic diagrams">Property diagrams</a></li>
+<li><a href="/wiki/Intensive_and_extensive_properties" title="Intensive and extensive properties">Intensive and extensive properties</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background:#eaeaff;font-style:italic;"><a href="/wiki/State_function" title="State function">Functions of state</a></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;padding-bottom:0.7em;">
+<ul>
+<li><a href="/wiki/Thermodynamic_temperature" title="Thermodynamic temperature">Temperature</a>&#160;/ <i><a href="/wiki/Entropy" title="Entropy">Entropy</a></i>&#160;(<a href="/wiki/Introduction_to_entropy" title="Introduction to entropy">introduction</a>)</li>
+<li><a href="/wiki/Pressure" title="Pressure">Pressure</a>&#160;/ <i><a href="/wiki/Volume_(thermodynamics)" title="Volume (thermodynamics)">Volume</a></i></li>
+<li><a href="/wiki/Chemical_potential" title="Chemical potential">Chemical potential</a>&#160;/ <i><a href="/wiki/Particle_number" title="Particle number">Particle number</a></i></li>
+<li><a href="/wiki/Vapor_quality" title="Vapor quality">Vapor quality</a></li>
+<li><a href="/wiki/Reduced_properties" title="Reduced properties">Reduced properties</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background:#eaeaff;font-style:italic;"><a href="/wiki/Process_function" title="Process function">Process functions</a></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;padding-bottom:0.7em;;padding-bottom:0.4em;">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Work_(thermodynamics)" title="Work (thermodynamics)">Work</a></li>
+<li><a href="/wiki/Heat" title="Heat">Heat</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf;text-align:center;"><a href="/wiki/Material_properties_(thermodynamics)" title="Material properties (thermodynamics)">Material properties</a></div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul>
+<li><a href="/wiki/Thermodynamic_databases_for_pure_substances" title="Thermodynamic databases for pure substances">Property databases</a></li>
+</ul>
+<div style="font-size:90%;margin-top:0.4em;border-top:1px solid #aaa;text-align:center;">
+<table>
+<tr>
+<td style="vertical-align:middle; text-align:right"><a href="/wiki/Heat_capacity" title="Heat capacity">Specific heat capacity</a>&#160;</td>
+<td style="vertical-align:middle; text-align:left"><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>c</mi>
+        <mo>=</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle c=}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/891d40a9b18752b04065caee655d008b3ec11428" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:3.481ex; height:1.676ex;" alt="c=" /></span></td>
+<td>
+<table>
+<tr>
+<td><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>T</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle T}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ec7200acd984a1d3a3d7dc455e262fbe54f7f6e0" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.647ex; height:2.176ex;" alt="T" /></span></td>
+<td><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi mathvariant="normal">&#x2202;<!-- ∂ --></mi>
+        <mi>S</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \partial S}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c609f4d3c5692ea4495479ef47594dc67f9fa464" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:2.838ex; height:2.343ex;" alt="\partial S" /></span></td>
+</tr>
+<tr>
+<td style="border-top:solid 1px black;"><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>N</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle N}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f5e3890c981ae85503089652feb48b191b57aae3" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:2.074ex; height:2.176ex;" alt="N" /></span></td>
+<td style="border-top:solid 1px black;"><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi mathvariant="normal">&#x2202;<!-- ∂ --></mi>
+        <mi>T</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \partial T}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/504aa558fff3d00d10b03cadb1085cb0b7bdc631" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:2.975ex; height:2.343ex;" alt="\partial T" /></span></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style="vertical-align:middle; text-align:right"><a href="/wiki/Compressibility" title="Compressibility">Compressibility</a>&#160;</td>
+<td style="vertical-align:middle; text-align:left"><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>&#x03B2;<!-- β --></mi>
+        <mo>=</mo>
+        <mo>&#x2212;<!-- − --></mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \beta =-}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b01c042bf1456bd4d2a8caed1f4912820a7ecbb3" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:6.27ex; height:2.509ex;" alt="\beta =-" /></span></td>
+<td>
+<table>
+<tr>
+<td><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mn>1</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle 1}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/92d98b82a3778f043108d4e20960a9193df57cbf" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.173ex; height:2.176ex;" alt="1" /></span></td>
+<td><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi mathvariant="normal">&#x2202;<!-- ∂ --></mi>
+        <mi>V</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \partial V}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0cecdd9d069fa84159940068fc11a91b6b3b9ee4" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:3.126ex; height:2.343ex;" alt="\partial V" /></span></td>
+</tr>
+<tr>
+<td style="border-top:solid 1px black;"><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>V</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle V}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/af0f6064540e84211d0ffe4dac72098adfa52845" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.798ex; height:2.176ex;" alt="V" /></span></td>
+<td style="border-top:solid 1px black;"><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi mathvariant="normal">&#x2202;<!-- ∂ --></mi>
+        <mi>p</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \partial p}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ebc4a48eb2412f08b54fe438b5139c88f9cfa372" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:2.508ex; height:2.676ex;" alt="\partial p" /></span></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style="vertical-align:middle; text-align:right"><a href="/wiki/Thermal_expansion" title="Thermal expansion">Thermal expansion</a>&#160;</td>
+<td style="vertical-align:middle; text-align:left"><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>&#x03B1;<!-- α --></mi>
+        <mo>=</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \alpha =}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a92d4583d351f08c1c70985f0c843b2fff1b01e7" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:3.962ex; height:1.676ex;" alt="\alpha =" /></span></td>
+<td>
+<table>
+<tr>
+<td><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mn>1</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle 1}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/92d98b82a3778f043108d4e20960a9193df57cbf" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.173ex; height:2.176ex;" alt="1" /></span></td>
+<td><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi mathvariant="normal">&#x2202;<!-- ∂ --></mi>
+        <mi>V</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \partial V}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0cecdd9d069fa84159940068fc11a91b6b3b9ee4" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:3.126ex; height:2.343ex;" alt="\partial V" /></span></td>
+</tr>
+<tr>
+<td style="border-top:solid 1px black;"><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>V</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle V}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/af0f6064540e84211d0ffe4dac72098adfa52845" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.798ex; height:2.176ex;" alt="V" /></span></td>
+<td style="border-top:solid 1px black;"><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi mathvariant="normal">&#x2202;<!-- ∂ --></mi>
+        <mi>T</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \partial T}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/504aa558fff3d00d10b03cadb1085cb0b7bdc631" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:2.975ex; height:2.343ex;" alt="\partial T" /></span></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf;text-align:center;"><a href="/wiki/Thermodynamic_equations" title="Thermodynamic equations">Equations</a></div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Carnot%27s_theorem_(thermodynamics)" title="Carnot's theorem (thermodynamics)">Carnot's theorem</a></li>
+<li><a href="/wiki/Clausius_theorem" title="Clausius theorem">Clausius theorem</a></li>
+<li><a href="/wiki/Fundamental_thermodynamic_relation" title="Fundamental thermodynamic relation">Fundamental relation</a></li>
+<li><a href="/wiki/Ideal_gas_law" title="Ideal gas law">Ideal gas law</a></li>
+</ul>
+</div>
+<ul>
+<li><a href="/wiki/Maxwell_relations" title="Maxwell relations">Maxwell relations</a></li>
+<li><a href="/wiki/Onsager_reciprocal_relations" title="Onsager reciprocal relations">Onsager reciprocal relations</a></li>
+<li><a href="/wiki/Bridgman%27s_thermodynamic_equations" title="Bridgman's thermodynamic equations">Bridgman's equations</a></li>
+<li><i><a href="/wiki/Table_of_thermodynamic_equations" title="Table of thermodynamic equations">Table of thermodynamic equations</a></i></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf;text-align:center;"><a href="/wiki/Thermodynamic_potential" title="Thermodynamic potential">Potentials</a></div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Thermodynamic_free_energy" title="Thermodynamic free energy">Free energy</a></li>
+<li><a href="/wiki/Free_entropy" title="Free entropy">Free entropy</a></li>
+</ul>
+</div>
+<div class="plainlist">
+<ul>
+<li style="font-size:110%;line-height:1.6em;padding-bottom:0.5em;"><a href="/wiki/Internal_energy" title="Internal energy">Internal energy</a><br />
+<span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>U</mi>
+        <mo stretchy="false">(</mo>
+        <mi>S</mi>
+        <mo>,</mo>
+        <mi>V</mi>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle U(S,V)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/921f33f9c6551562ec836007b035c2de6323d2d6" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:7.975ex; height:2.843ex;" alt="U(S,V)" /></span></li>
+<li style="font-size:110%;line-height:1.6em;padding-bottom:0.5em;"><a href="/wiki/Enthalpy" title="Enthalpy">Enthalpy</a><br />
+<span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>H</mi>
+        <mo stretchy="false">(</mo>
+        <mi>S</mi>
+        <mo>,</mo>
+        <mi>p</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mi>U</mi>
+        <mo>+</mo>
+        <mi>p</mi>
+        <mi>V</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle H(S,p)=U+pV}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6407d78e5f39d07f70e2414a92e08e2e068519f3" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:18.369ex; height:2.843ex;" alt="H(S,p)=U+pV" /></span></li>
+<li style="font-size:110%;line-height:1.6em;padding-bottom:0.5em;"><a href="/wiki/Helmholtz_free_energy" title="Helmholtz free energy">Helmholtz free energy</a><br />
+<span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>A</mi>
+        <mo stretchy="false">(</mo>
+        <mi>T</mi>
+        <mo>,</mo>
+        <mi>V</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mi>U</mi>
+        <mo>&#x2212;<!-- − --></mo>
+        <mi>T</mi>
+        <mi>S</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle A(T,V)=U-TS}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5e93692f031ba6484d82731c54db83a69daed3f0" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:18.982ex; height:2.843ex;" alt="A(T,V)=U-TS" /></span></li>
+<li style="font-size:110%;line-height:1.6em;padding-bottom:0.5em;"><a href="/wiki/Gibbs_free_energy" title="Gibbs free energy">Gibbs free energy</a><br />
+<span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>G</mi>
+        <mo stretchy="false">(</mo>
+        <mi>T</mi>
+        <mo>,</mo>
+        <mi>p</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mi>H</mi>
+        <mo>&#x2212;<!-- − --></mo>
+        <mi>T</mi>
+        <mi>S</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle G(T,p)=H-TS}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8dd7a8f0b8ae04963da133e3b202432e1b6caed4" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:18.729ex; height:2.843ex;" alt="G(T,p)=H-TS" /></span></li>
+</ul>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf;text-align:center;">
+<div class="hlist">
+<ul>
+<li>History</li>
+<li>Culture</li>
+</ul>
+</div>
+</div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;border-collapse:collapse; border-spacing:0px; border:none; width:100%; margin:0px; font-size:100%; clear:none; float:none">
+<tr>
+<th style="padding:0.1em;background:#eaeaff;font-style:italic;">History</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/History_of_thermodynamics" title="History of thermodynamics">General</a></li>
+<li><a href="/wiki/History_of_heat" title="History of heat">Heat</a></li>
+<li><a href="/wiki/History_of_entropy" title="History of entropy">Entropy</a></li>
+<li><a href="/wiki/Gas_laws" title="Gas laws">Gas laws</a></li>
+</ul>
+</div>
+<ul>
+<li><a href="/wiki/History_of_perpetual_motion_machines" title="History of perpetual motion machines">"Perpetual motion" machines</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background:#eaeaff;font-style:italic;"><a href="/wiki/Philosophy_of_thermal_and_statistical_physics" title="Philosophy of thermal and statistical physics">Philosophy</a></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Entropy_(arrow_of_time)" title="Entropy (arrow of time)">Entropy and time</a></li>
+<li><a href="/wiki/Entropy_and_life" title="Entropy and life">Entropy and life</a></li>
+<li><a href="/wiki/Brownian_ratchet" title="Brownian ratchet">Brownian ratchet</a></li>
+<li><a href="/wiki/Maxwell%27s_demon" title="Maxwell's demon">Maxwell's demon</a></li>
+<li><a href="/wiki/Heat_death_paradox" title="Heat death paradox">Heat death paradox</a></li>
+<li><a href="/wiki/Loschmidt%27s_paradox" title="Loschmidt's paradox">Loschmidt's paradox</a></li>
+<li><a href="/wiki/Synergetics_(Haken)" title="Synergetics (Haken)">Synergetics</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background:#eaeaff;font-style:italic;">Theories</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Caloric_theory" title="Caloric theory">Caloric theory</a></li>
+<li><a href="/wiki/Theory_of_heat" title="Theory of heat">Theory of heat</a></li>
+</ul>
+</div>
+<ul>
+<li><a href="/wiki/Vis_viva" title="Vis viva"><i>Vis viva</i> <span style="font-size:90%;">("living force")</span></a></li>
+<li><a href="/wiki/Mechanical_equivalent_of_heat" title="Mechanical equivalent of heat">Mechanical equivalent of heat</a></li>
+<li><a href="/wiki/Motive_power" title="Motive power">Motive power</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background:#eaeaff;font-style:italic;"><a href="/wiki/List_of_important_publications_in_physics" title="List of important publications in physics">Key publications</a></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<ul>
+<li>
+<div style="padding:0.2em 0.4em; line-height:1.2em;">"<a href="/wiki/An_Experimental_Enquiry_Concerning_the_Source_of_the_Heat_which_is_Excited_by_Friction" title="An Experimental Enquiry Concerning the Source of the Heat which is Excited by Friction">An Experimental Enquiry<br />
+Concerning ... Heat</a>"</div>
+</li>
+<li>
+<div style="padding:0.2em 0.4em; line-height:1.2em;">"<a href="/wiki/On_the_Equilibrium_of_Heterogeneous_Substances" title="On the Equilibrium of Heterogeneous Substances">On the Equilibrium of<br />
+Heterogeneous Substances</a>"</div>
+</li>
+<li>
+<div style="padding:0.2em 0.4em; line-height:1.2em;">"<a href="/wiki/Reflections_on_the_Motive_Power_of_Fire" title="Reflections on the Motive Power of Fire">Reflections on the<br />
+Motive Power of Fire</a>"</div>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background:#eaeaff;font-style:italic;">Timelines</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Timeline_of_thermodynamics" title="Timeline of thermodynamics">Thermodynamics</a></li>
+<li><a href="/wiki/Timeline_of_heat_engine_technology" title="Timeline of heat engine technology">Heat engines</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background:#eaeaff;font-style:italic;">
+<div class="hlist">
+<ul>
+<li>Art</li>
+<li>Education</li>
+</ul>
+</div>
+</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/Maxwell%27s_thermodynamic_surface" title="Maxwell's thermodynamic surface">Maxwell's thermodynamic surface</a></li>
+<li><a href="/wiki/Entropy_(energy_dispersal)" title="Entropy (energy dispersal)">Entropy as energy dispersal</a></li>
+</ul>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf;text-align:center;">Scientists</div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Daniel_Bernoulli" title="Daniel Bernoulli">Bernoulli</a></li>
+<li><a href="/wiki/Nicolas_L%C3%A9onard_Sadi_Carnot" title="Nicolas Léonard Sadi Carnot">Carnot</a></li>
+<li><a href="/wiki/Beno%C3%AEt_Paul_%C3%89mile_Clapeyron" title="Benoît Paul Émile Clapeyron">Clapeyron</a></li>
+<li><a href="/wiki/Rudolf_Clausius" title="Rudolf Clausius">Clausius</a></li>
+<li><a href="/wiki/Constantin_Carath%C3%A9odory" title="Constantin Carathéodory">Carathéodory</a></li>
+<li><a href="/wiki/Pierre_Duhem" title="Pierre Duhem">Duhem</a></li>
+<li><a href="/wiki/Josiah_Willard_Gibbs" title="Josiah Willard Gibbs">Gibbs</a></li>
+<li><a href="/wiki/Hermann_von_Helmholtz" title="Hermann von Helmholtz">von Helmholtz</a></li>
+<li><a href="/wiki/James_Prescott_Joule" title="James Prescott Joule">Joule</a></li>
+<li><a href="/wiki/James_Clerk_Maxwell" title="James Clerk Maxwell">Maxwell</a></li>
+<li><a href="/wiki/Julius_von_Mayer" title="Julius von Mayer">von Mayer</a></li>
+<li><a href="/wiki/Lars_Onsager" title="Lars Onsager">Onsager</a></li>
+<li><a href="/wiki/William_John_Macquorn_Rankine" title="William John Macquorn Rankine">Rankine</a></li>
+<li><a href="/wiki/John_Smeaton" title="John Smeaton">Smeaton</a></li>
+<li><a href="/wiki/Georg_Ernst_Stahl" title="Georg Ernst Stahl">Stahl</a></li>
+<li><a href="/wiki/Benjamin_Thompson" title="Benjamin Thompson">Thompson</a></li>
+<li><a href="/wiki/William_Thomson,_1st_Baron_Kelvin" title="William Thomson, 1st Baron Kelvin">Thomson</a></li>
+<li><a href="/wiki/John_James_Waterston" title="John James Waterston">Waterston</a></li>
+</ul>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0.3em 0.4em 0.3em;font-weight:bold;border-top: 1px solid #aaa; border-bottom: 1px solid #aaa;"><a href="/wiki/Book:Thermodynamics" title="Book:Thermodynamics">Book:Thermodynamics</a></td>
+</tr>
+<tr>
+<td style="text-align:right;font-size:115%;padding-top: 0.6em;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Thermodynamics" title="Template:Thermodynamics"><abbr title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Thermodynamics" title="Template talk:Thermodynamics"><abbr title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Thermodynamics&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<p>The <i><b>Rankine cycle</b></i> is a model that is used to predict the performance of steam turbine systems. The Rankine cycle is an idealized <a href="/wiki/Thermodynamic_cycle" title="Thermodynamic cycle">thermodynamic cycle</a> of a <a href="/wiki/Heat_engine" title="Heat engine">heat engine</a> that converts heat into mechanical work. The heat is supplied externally to a closed loop, which usually uses water as the <a href="/wiki/Working_fluid" title="Working fluid">working fluid</a>. It is named after <a href="/wiki/William_John_Macquorn_Rankine" title="William John Macquorn Rankine">William John Macquorn Rankine</a>, a Scottish <a href="/wiki/Polymath" title="Polymath">polymath</a> and <a href="/wiki/Glasgow_University" class="mw-redirect" title="Glasgow University">Glasgow University</a> professor.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Description"><span class="tocnumber">1</span> <span class="toctext">Description</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#The_four_processes_in_the_Rankine_cycle"><span class="tocnumber">2</span> <span class="toctext">The four processes in the Rankine cycle</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Variables"><span class="tocnumber">3</span> <span class="toctext">Variables</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Equations"><span class="tocnumber">4</span> <span class="toctext">Equations</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Real_Rankine_cycle_.28non-ideal.29"><span class="tocnumber">5</span> <span class="toctext">Real Rankine cycle (non-ideal)</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Variations_of_the_basic_Rankine_cycle"><span class="tocnumber">6</span> <span class="toctext">Variations of the basic Rankine cycle</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Rankine_cycle_with_reheat"><span class="tocnumber">6.1</span> <span class="toctext">Rankine cycle with reheat</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Regenerative_Rankine_cycle"><span class="tocnumber">6.2</span> <span class="toctext">Regenerative Rankine cycle</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Organic_Rankine_cycle"><span class="tocnumber">7</span> <span class="toctext">Organic Rankine cycle</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Supercritical_Rankine_cycle"><span class="tocnumber">8</span> <span class="toctext">Supercritical Rankine cycle</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#References"><span class="tocnumber">9</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Description">Description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rankine_cycle&amp;action=edit&amp;section=1" title="Edit section: Description">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:332px;"><a href="/wiki/File:Rankine_cycle_layout.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Rankine_cycle_layout.png/330px-Rankine_cycle_layout.png" width="330" height="214" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Rankine_cycle_layout.png/495px-Rankine_cycle_layout.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/00/Rankine_cycle_layout.png/660px-Rankine_cycle_layout.png 2x" data-file-width="1850" data-file-height="1200" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Rankine_cycle_layout.png" class="internal" title="Enlarge"></a></div>
+Physical layout of the four main devices used in the Rankine cycle</div>
+</div>
+</div>
+<p>The Rankine cycle closely describes the process by which steam-operated <a href="/wiki/Heat_engine" title="Heat engine">heat engines</a> commonly found in thermal <a href="/wiki/Power_station" title="Power station">power generation plants</a> generate power. The heat sources used in these power plants are usually <a href="/wiki/Nuclear_power" title="Nuclear power">nuclear fission</a> or the combustion of fossil fuels such as <a href="/wiki/Coal" title="Coal">coal</a>, <a href="/wiki/Natural_gas" title="Natural gas">natural gas</a>, and <a href="/wiki/Fuel_oil" title="Fuel oil">oil</a>.</p>
+<p>The efficiency of the Rankine cycle is limited by the high heat of vaporization of the working fluid. Also, unless the pressure and temperature reach <a href="/wiki/Supercritical_fluid" title="Supercritical fluid">super critical</a> levels in the steam boiler, the temperature range the cycle can operate over is quite small: steam turbine entry temperatures are typically around 565&#160;°C and steam condenser temperatures are around 30&#160;°C. This gives a theoretical maximum <a href="/wiki/Carnot_efficiency" class="mw-redirect" title="Carnot efficiency">Carnot efficiency</a> for the steam turbine alone of about 63,8% compared with an actual overall thermal efficiency of up to 42% for a modern coal-fired power station. This low steam turbine entry temperature (compared to a <a href="/wiki/Gas_turbine" title="Gas turbine">gas turbine</a>) is why the Rankine (steam) cycle is often used as a bottoming cycle to recover otherwise rejected heat in <a href="/wiki/Combined_cycle" title="Combined cycle">combined-cycle gas turbine</a> power stations.</p>
+<p>The working fluid in a Rankine cycle follows a closed loop and is reused constantly. The water <a href="/wiki/Vapor" title="Vapor">vapor</a> with condensed droplets often seen billowing from power stations is created by the cooling systems (not directly from the closed-loop Rankine power cycle) and represents the means for (low temperature) waste heat to exit the system, allowing for the addition of (higher temperature) heat that can then be converted to useful work (power). This 'exhaust' heat is represented by the "Q<sub>out</sub>" flowing out of the lower side of the cycle shown in the T/s diagram below. <a href="/wiki/Cooling_tower" title="Cooling tower">Cooling towers</a> operate as large heat exchangers by absorbing the latent <a href="/wiki/Heat_of_vaporization" class="mw-redirect" title="Heat of vaporization">heat of vaporization</a> of the working fluid and simultaneously evaporating cooling water to the atmosphere. While many substances could be used as the working fluid in the Rankine cycle, water is usually the fluid of choice due to its favorable properties, such as its non-toxic and unreactive chemistry, abundance, and low cost, as well as its <a href="/wiki/Properties_of_water#Heat_capacity_and_heats_of_vaporization_and_fusion" title="Properties of water">thermodynamic properties</a>. By condensing the working steam vapor to a liquid the pressure at the turbine outlet is lowered and the energy required by the feed pump consumes only 1% to 3% of the turbine output power and these factors contribute to a higher efficiency for the cycle. The benefit of this is offset by the low temperatures of steam admitted to the turbine(s). <a href="/wiki/Gas_turbine" title="Gas turbine">Gas turbines</a>, for instance, have turbine entry temperatures approaching 1500°C. However, the thermal efficiency of actual large steam power stations and large modern gas turbine stations are similar.</p>
+<h2><span class="mw-headline" id="The_four_processes_in_the_Rankine_cycle">The four processes in the Rankine cycle</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rankine_cycle&amp;action=edit&amp;section=2" title="Edit section: The four processes in the Rankine cycle">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="center">
+<div class="thumb tnone">
+<div class="thumbinner" style="width:502px;"><a href="/wiki/File:Rankine_cycle_Ts.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Rankine_cycle_Ts.png/500px-Rankine_cycle_Ts.png" width="500" height="322" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Rankine_cycle_Ts.png/750px-Rankine_cycle_Ts.png 1.5x, //upload.wikimedia.org/wikipedia/commons/b/be/Rankine_cycle_Ts.png 2x" data-file-width="929" data-file-height="598" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Rankine_cycle_Ts.png" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/T-s_diagram" class="mw-redirect" title="T-s diagram">T-s diagram</a> of a typical Rankine cycle operating between pressures of 0.06bar and 50bar</div>
+</div>
+</div>
+</div>
+<p>There are four processes in the Rankine cycle. These states are identified by numbers (in brown) in the above T-s diagram.</p>
+<ul>
+<li><b>Process 1-2</b>: The working fluid is pumped from low to high pressure. As the fluid is a liquid at this stage, the pump requires little input energy.</li>
+<li><b>Process 2-3</b>: The high pressure liquid enters a boiler where it is heated at constant pressure by an external heat source to become a dry saturated vapour. The input energy required can be easily calculated graphically, using an <a href="/wiki/Enthalpy-entropy_chart" class="mw-redirect" title="Enthalpy-entropy chart">enthalpy-entropy chart</a> (aka <a href="/wiki/H-s_chart" class="mw-redirect" title="H-s chart">h-s chart</a> or <a href="/wiki/Mollier_diagram" class="mw-redirect" title="Mollier diagram">Mollier diagram</a>), or numerically, using <a href="/wiki/Steam_table" class="mw-redirect" title="Steam table">steam tables</a>.</li>
+<li><b>Process 3-4</b>: The dry saturated vapour expands through a <a href="/wiki/Turbine" title="Turbine">turbine</a>, generating power. This decreases the temperature and pressure of the vapour, and some condensation may occur. The output in this process can be easily calculated using the chart or tables noted above.</li>
+<li><b>Process 4-1</b>: The wet vapour then enters a <a href="/wiki/Surface_condenser" title="Surface condenser">condenser</a> where it is condensed at a constant pressure to become a <a href="/wiki/Boiling_point" title="Boiling point">saturated liquid</a>.</li>
+</ul>
+<p>In an ideal Rankine cycle the pump and turbine would be <a href="/wiki/Isentropic" class="mw-redirect" title="Isentropic">isentropic</a>, i.e., the pump and turbine would generate no entropy and hence maximize the net work output. Processes 1-2 and 3-4 would be represented by vertical lines on the <a href="/wiki/T-s_diagram" class="mw-redirect" title="T-s diagram">T-s diagram</a> and more closely resemble that of the Carnot cycle. The Rankine cycle shown here prevents the vapor ending up in the superheat region after the expansion in the turbine, <sup class="reference" id="ref__Van_Wyllen_a"><a href="#endnote_Van_Wyllen_a">[1]</a></sup> which reduces the energy removed by the condensers.</p>
+<p>The actual vapor power cycle differs from the ideal Rankine cycle because of irreversibilities in the inherent components caused by fluid friction and heat loss to the surroundings; fluid friction causes pressure drops in the boiler, the condenser, and the piping between the components, and as a result the steam leaves the boiler at a lower pressure; heat loss reduces the net work output, thus heat addition to the steam in the boiler is required to maintain the same level of net work output.</p>
+<h2><span class="mw-headline" id="Variables">Variables</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rankine_cycle&amp;action=edit&amp;section=3" title="Edit section: Variables">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table border="0" cellspacing="8">
+<tr>
+<td><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mrow class="MJX-TeXAtom-ORD">
+            <mover>
+              <mi>Q</mi>
+              <mo>&#x02D9;<!-- ˙ --></mo>
+            </mover>
+          </mrow>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\dot {Q}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/14ef647ca15bb236a9473fcbe17f16fe87c95ab4" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:1.849ex; height:3.176ex;" alt="{\dot {Q}}" /></span></td>
+<td>Heat flow rate to or from the system (energy per unit time)</td>
+</tr>
+<tr>
+<td><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mrow class="MJX-TeXAtom-ORD">
+            <mover>
+              <mi>m</mi>
+              <mo>&#x02D9;<!-- ˙ --></mo>
+            </mover>
+          </mrow>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\dot {m}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ad59b9876301e8fb75b9ddbf08de594b87251d3b" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:2.051ex; height:2.176ex;" alt="{\dot {m}}" /></span></td>
+<td><a href="/wiki/Mass_flow_rate" title="Mass flow rate">Mass flow rate</a> (mass per unit time)</td>
+</tr>
+<tr>
+<td><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mrow class="MJX-TeXAtom-ORD">
+            <mover>
+              <mi>W</mi>
+              <mo>&#x02D9;<!-- ˙ --></mo>
+            </mover>
+          </mrow>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\dot {W}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/033b2aefefce183ef59e457085f84f9f6a6cef67" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:2.446ex; height:2.843ex;" alt="\dot{W}" /></span></td>
+<td>Mechanical <a href="/wiki/Power_(physics)" title="Power (physics)">power</a> consumed by or provided to the system (energy per unit time)</td>
+</tr>
+<tr>
+<td><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>&#x03B7;<!-- η --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>t</mi>
+            <mi>h</mi>
+            <mi>e</mi>
+            <mi>r</mi>
+            <mi>m</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \eta _{therm}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ed28a285a22e06be9c6ac5f183359866f030e887" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:5.926ex; height:2.176ex;" alt="\eta_{therm}" /></span></td>
+<td>Thermodynamic efficiency of the process (net power output per heat input, dimensionless)</td>
+</tr>
+<tr>
+<td><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>&#x03B7;<!-- η --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>p</mi>
+            <mi>u</mi>
+            <mi>m</mi>
+            <mi>p</mi>
+          </mrow>
+        </msub>
+        <mo>,</mo>
+        <msub>
+          <mi>&#x03B7;<!-- η --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>t</mi>
+            <mi>u</mi>
+            <mi>r</mi>
+            <mi>b</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \eta _{pump},\eta _{turb}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4c406fb5613575045dbc742ff6af83cd8983bf21" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:10.918ex; height:2.343ex;" alt="\eta_{pump},\eta_{turb}" /></span></td>
+<td>Isentropic efficiency of the compression (feed pump) and expansion (turbine) processes, dimensionless</td>
+</tr>
+<tr>
+<td><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>h</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>1</mn>
+          </mrow>
+        </msub>
+        <mo>,</mo>
+        <msub>
+          <mi>h</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msub>
+        <mo>,</mo>
+        <msub>
+          <mi>h</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>3</mn>
+          </mrow>
+        </msub>
+        <mo>,</mo>
+        <msub>
+          <mi>h</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>4</mn>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle h_{1},h_{2},h_{3},h_{4}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/bce2e94086e52b44c0b7496fe83051c3bada14c9" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:12.777ex; height:2.509ex;" alt="h_1, h_2, h_3, h_4" /></span></td>
+<td>The "specific <a href="/wiki/Enthalpy" title="Enthalpy">enthalpies</a>" at indicated points on the <a href="/wiki/T-S_diagram" class="mw-redirect" title="T-S diagram">T-S diagram</a></td>
+</tr>
+<tr>
+<td><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>h</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>4</mn>
+            <mi>s</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle h_{4s}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5b10b8f9c8a162907ead9f8cc0307d32e4f92731" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:3.19ex; height:2.509ex;" alt="h_{4s}" /></span></td>
+<td>The final "specific <a href="/wiki/Enthalpy" title="Enthalpy">enthalpy</a>" of the fluid if the turbine were <a href="/wiki/Isentropic" class="mw-redirect" title="Isentropic">isentropic</a></td>
+</tr>
+<tr>
+<td><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>p</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>1</mn>
+          </mrow>
+        </msub>
+        <mo>,</mo>
+        <msub>
+          <mi>p</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle p_{1},p_{2}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e4d0cc608181855fb8882bbc2e95d7d4bfbc697f" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; margin-left: -0.079ex; width:5.606ex; height:2.009ex;" alt="p_1, p_2" /></span></td>
+<td>The pressures before and after the compression process</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Equations">Equations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rankine_cycle&amp;action=edit&amp;section=4" title="Edit section: Equations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In general, the efficiency of a simple rankine cycle can be written as:</p>
+<dl>
+<dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>&#x03B7;<!-- η --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>t</mi>
+            <mi>h</mi>
+            <mi>e</mi>
+            <mi>r</mi>
+            <mi>m</mi>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <msub>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mover>
+                      <mi>W</mi>
+                      <mo>&#x02D9;<!-- ˙ --></mo>
+                    </mover>
+                  </mrow>
+                </mrow>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi>t</mi>
+                  <mi>h</mi>
+                  <mi>e</mi>
+                  <mi>r</mi>
+                  <mi>m</mi>
+                  <mi>a</mi>
+                  <mi>l</mi>
+                </mrow>
+              </msub>
+              <mo>&#x2212;<!-- − --></mo>
+              <msub>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mover>
+                      <mi>W</mi>
+                      <mo>&#x02D9;<!-- ˙ --></mo>
+                    </mover>
+                  </mrow>
+                </mrow>
+                <mrow class="MJX-TeXAtom-ORD">
+
+                </mrow>
+              </msub>
+            </mrow>
+            <msub>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mover>
+                    <mi>Q</mi>
+                    <mo>&#x02D9;<!-- ˙ --></mo>
+                  </mover>
+                </mrow>
+              </mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi>i</mi>
+                <mi>n</mi>
+              </mrow>
+            </msub>
+          </mfrac>
+        </mrow>
+        <mo>&#x2248;<!-- ≈ --></mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <msub>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mover>
+                    <mi>W</mi>
+                    <mo>&#x02D9;<!-- ˙ --></mo>
+                  </mover>
+                </mrow>
+              </mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi>t</mi>
+                <mi>u</mi>
+                <mi>r</mi>
+                <mi>b</mi>
+              </mrow>
+            </msub>
+            <msub>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mover>
+                    <mi>Q</mi>
+                    <mo>&#x02D9;<!-- ˙ --></mo>
+                  </mover>
+                </mrow>
+              </mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi>i</mi>
+                <mi>n</mi>
+              </mrow>
+            </msub>
+          </mfrac>
+        </mrow>
+        <mo>.</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \eta _{therm}={\frac {{\dot {W}}_{thermal}-{\dot {W}}_{}}{{\dot {Q}}_{in}}}\approx {\frac {{\dot {W}}_{turb}}{{\dot {Q}}_{in}}}.}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/77bb340b78cd4a84f66838f636ad974066d6218d" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -3.171ex; width:34.039ex; height:7.176ex;" alt="\eta _{{therm}}={\frac  {{\dot  {W}}_{{thermal}}-{\dot  {W}}_{{}}}{{\dot  {Q}}_{{in}}}}\approx {\frac  {{\dot  {W}}_{{turb}}}{{\dot  {Q}}_{{in}}}}." /></span></dd>
+</dl>
+<p>Each of the next four equations<sup class="reference" id="ref__Van_rankine_a"><a href="#endnote_Van_rankine_a">[1]</a></sup> is derived from the <a href="/wiki/Energy" title="Energy">energy</a> and <a href="/wiki/Mass_balance" title="Mass balance">mass balance</a> for a control volume. <span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>&#x03B7;<!-- η --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>t</mi>
+            <mi>h</mi>
+            <mi>e</mi>
+            <mi>r</mi>
+            <mi>m</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \eta _{therm}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ed28a285a22e06be9c6ac5f183359866f030e887" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:5.926ex; height:2.176ex;" alt="\eta_{therm}" /></span> defines the <a href="/wiki/Thermodynamic_efficiency" class="mw-redirect" title="Thermodynamic efficiency">thermodynamic efficiency</a> of the cycle as the ratio of net power output to heat input. As the work required by the pump is often around 1% of the turbine work output, it can be simplified.</p>
+<dl>
+<dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <msub>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mover>
+                    <mi>Q</mi>
+                    <mo>&#x02D9;<!-- ˙ --></mo>
+                  </mover>
+                </mrow>
+              </mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi>i</mi>
+                <mi>n</mi>
+              </mrow>
+            </msub>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mover>
+                <mi>m</mi>
+                <mo>&#x02D9;<!-- ˙ --></mo>
+              </mover>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mo>=</mo>
+        <msub>
+          <mi>h</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>3</mn>
+          </mrow>
+        </msub>
+        <mo>&#x2212;<!-- − --></mo>
+        <msub>
+          <mi>h</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\frac {{\dot {Q}}_{in}}{\dot {m}}}=h_{3}-h_{2}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a5fe5d2ff20ff3bfdd5a40cac3aa810722d55890" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.005ex; width:15.267ex; height:6.343ex;" alt="\frac{\dot{Q}_{in}}{\dot{m}}=h_3-h_2" /></span></dd>
+</dl>
+<dl>
+<dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <msub>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mover>
+                    <mi>Q</mi>
+                    <mo>&#x02D9;<!-- ˙ --></mo>
+                  </mover>
+                </mrow>
+              </mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi>o</mi>
+                <mi>u</mi>
+                <mi>t</mi>
+              </mrow>
+            </msub>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mover>
+                <mi>m</mi>
+                <mo>&#x02D9;<!-- ˙ --></mo>
+              </mover>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mo>=</mo>
+        <msub>
+          <mi>h</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>4</mn>
+          </mrow>
+        </msub>
+        <mo>&#x2212;<!-- − --></mo>
+        <msub>
+          <mi>h</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>1</mn>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\frac {{\dot {Q}}_{out}}{\dot {m}}}=h_{4}-h_{1}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4f1914f96455d74c327eb135bf05b6129784cc2b" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.005ex; width:16.052ex; height:6.343ex;" alt="\frac{\dot{Q}_{out}}{\dot{m}}=h_4-h_1" /></span></dd>
+</dl>
+<dl>
+<dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <msub>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mover>
+                    <mi>W</mi>
+                    <mo>&#x02D9;<!-- ˙ --></mo>
+                  </mover>
+                </mrow>
+              </mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi>p</mi>
+                <mi>u</mi>
+                <mi>m</mi>
+                <mi>p</mi>
+              </mrow>
+            </msub>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mover>
+                <mi>m</mi>
+                <mo>&#x02D9;<!-- ˙ --></mo>
+              </mover>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mo>=</mo>
+        <msub>
+          <mi>h</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msub>
+        <mo>&#x2212;<!-- − --></mo>
+        <msub>
+          <mi>h</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>1</mn>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\frac {{\dot {W}}_{pump}}{\dot {m}}}=h_{2}-h_{1}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4c2c2ccdc2ec27dcb326e25031ca77f6944d6c58" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.005ex; width:18.362ex; height:6.343ex;" alt="\frac{\dot{W}_{pump}}{\dot{m}}=h_2-h_1" /></span></dd>
+</dl>
+<dl>
+<dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <msub>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mover>
+                    <mi>W</mi>
+                    <mo>&#x02D9;<!-- ˙ --></mo>
+                  </mover>
+                </mrow>
+              </mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi>t</mi>
+                <mi>u</mi>
+                <mi>r</mi>
+                <mi>b</mi>
+                <mi>i</mi>
+                <mi>n</mi>
+                <mi>e</mi>
+              </mrow>
+            </msub>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mover>
+                <mi>m</mi>
+                <mo>&#x02D9;<!-- ˙ --></mo>
+              </mover>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mo>=</mo>
+        <msub>
+          <mi>h</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>3</mn>
+          </mrow>
+        </msub>
+        <mo>&#x2212;<!-- − --></mo>
+        <msub>
+          <mi>h</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>4</mn>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\frac {{\dot {W}}_{turbine}}{\dot {m}}}=h_{3}-h_{4}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5262f9968f6e2ae7515f42402d6eb268f533f12a" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.005ex; width:19.648ex; height:6.009ex;" alt="\frac{\dot{W}_{turbine}}{\dot{m}}=h_3-h_4" /></span></dd>
+</dl>
+<p>When dealing with the efficiencies of the turbines and pumps, an adjustment to the work terms must be made.</p>
+<dl>
+<dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <msub>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mover>
+                    <mi>W</mi>
+                    <mo>&#x02D9;<!-- ˙ --></mo>
+                  </mover>
+                </mrow>
+              </mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi>p</mi>
+                <mi>u</mi>
+                <mi>m</mi>
+                <mi>p</mi>
+              </mrow>
+            </msub>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mover>
+                <mi>m</mi>
+                <mo>&#x02D9;<!-- ˙ --></mo>
+              </mover>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mo>=</mo>
+        <msub>
+          <mi>h</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msub>
+        <mo>&#x2212;<!-- − --></mo>
+        <msub>
+          <mi>h</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>1</mn>
+          </mrow>
+        </msub>
+        <mo>&#x2248;<!-- ≈ --></mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <msub>
+                <mi>v</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mn>1</mn>
+                </mrow>
+              </msub>
+              <mi mathvariant="normal">&#x0394;<!-- Δ --></mi>
+              <mi>p</mi>
+            </mrow>
+            <msub>
+              <mi>&#x03B7;<!-- η --></mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi>p</mi>
+                <mi>u</mi>
+                <mi>m</mi>
+                <mi>p</mi>
+              </mrow>
+            </msub>
+          </mfrac>
+        </mrow>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <msub>
+                <mi>v</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mn>1</mn>
+                </mrow>
+              </msub>
+              <mo stretchy="false">(</mo>
+              <msub>
+                <mi>p</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mn>2</mn>
+                </mrow>
+              </msub>
+              <mo>&#x2212;<!-- − --></mo>
+              <msub>
+                <mi>p</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mn>1</mn>
+                </mrow>
+              </msub>
+              <mo stretchy="false">)</mo>
+            </mrow>
+            <msub>
+              <mi>&#x03B7;<!-- η --></mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi>p</mi>
+                <mi>u</mi>
+                <mi>m</mi>
+                <mi>p</mi>
+              </mrow>
+            </msub>
+          </mfrac>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\frac {{\dot {W}}_{pump}}{\dot {m}}}=h_{2}-h_{1}\approx {\frac {v_{1}\Delta p}{\eta _{pump}}}={\frac {v_{1}(p_{2}-p_{1})}{\eta _{pump}}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9328db306f8f3b927fd2f24aa8bce0f16526f01f" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.505ex; width:43.081ex; height:6.843ex;" alt=" \frac{\dot{W}_{pump}}{\dot{m}} = h_2 - h_1 \approx \frac{v_1 \Delta p}{\eta_{pump}} = \frac{v_1 ( p_2 - p_1 )}{\eta_{pump}}" /></span></dd>
+</dl>
+<dl>
+<dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <msub>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mover>
+                    <mi>W</mi>
+                    <mo>&#x02D9;<!-- ˙ --></mo>
+                  </mover>
+                </mrow>
+              </mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi>t</mi>
+                <mi>u</mi>
+                <mi>r</mi>
+                <mi>b</mi>
+                <mi>i</mi>
+                <mi>n</mi>
+                <mi>e</mi>
+              </mrow>
+            </msub>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mover>
+                <mi>m</mi>
+                <mo>&#x02D9;<!-- ˙ --></mo>
+              </mover>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mo>=</mo>
+        <msub>
+          <mi>h</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>3</mn>
+          </mrow>
+        </msub>
+        <mo>&#x2212;<!-- − --></mo>
+        <msub>
+          <mi>h</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>4</mn>
+          </mrow>
+        </msub>
+        <mo>&#x2248;<!-- ≈ --></mo>
+        <mo stretchy="false">(</mo>
+        <msub>
+          <mi>h</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>3</mn>
+          </mrow>
+        </msub>
+        <mo>&#x2212;<!-- − --></mo>
+        <msub>
+          <mi>h</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>4</mn>
+          </mrow>
+        </msub>
+        <mo stretchy="false">)</mo>
+        <msub>
+          <mi>&#x03B7;<!-- η --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>t</mi>
+            <mi>u</mi>
+            <mi>r</mi>
+            <mi>b</mi>
+            <mi>i</mi>
+            <mi>n</mi>
+            <mi>e</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\frac {{\dot {W}}_{turbine}}{\dot {m}}}=h_{3}-h_{4}\approx (h_{3}-h_{4})\eta _{turbine}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2488126b7da707636da80fc3a0b67943ed19b6e6" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.005ex; width:39.011ex; height:6.009ex;" alt=" \frac{\dot{W}_{turbine}}{\dot{m}} = h_3-h_4 \approx (h_3-h_4) \eta_{turbine} " /></span></dd>
+</dl>
+<h2><span class="mw-headline" id="Real_Rankine_cycle_.28non-ideal.29">Real Rankine cycle (non-ideal)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rankine_cycle&amp;action=edit&amp;section=5" title="Edit section: Real Rankine cycle (non-ideal)">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:252px;"><a href="/wiki/File:Rankine_cycle_with_superheat.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Rankine_cycle_with_superheat.jpg/250px-Rankine_cycle_with_superheat.jpg" width="250" height="278" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Rankine_cycle_with_superheat.jpg/375px-Rankine_cycle_with_superheat.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Rankine_cycle_with_superheat.jpg/500px-Rankine_cycle_with_superheat.jpg 2x" data-file-width="544" data-file-height="604" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Rankine_cycle_with_superheat.jpg" class="internal" title="Enlarge"></a></div>
+Rankine cycle with superheat</div>
+</div>
+</div>
+<p>In a real power plant cycle (the name 'Rankine' cycle is used only for the ideal cycle), the compression by the <a href="/wiki/Pump" title="Pump">pump</a> and the expansion in the <a href="/wiki/Turbine" title="Turbine">turbine</a> are not isentropic. In other words, these processes are non-reversible and <a href="/wiki/Entropy" title="Entropy">entropy</a> is increased during the two processes. This somewhat increases the <a href="/wiki/Power_(physics)" title="Power (physics)">power</a> required by the pump and decreases the power generated by the turbine.</p>
+<p>In particular the efficiency of the steam turbine will be limited by water droplet formation. As the water condenses, water droplets hit the turbine blades at high speed causing pitting and erosion, gradually decreasing the life of turbine blades and efficiency of the turbine. The easiest way to overcome this problem is by superheating the steam. On the <a href="/wiki/Ts_diagram" class="mw-redirect" title="Ts diagram">Ts diagram</a> above, state 3 is above a two phase region of steam and water so after expansion the steam will be very wet. By superheating, state 3 will move to the right of the diagram and hence produce a drier steam after expansion.</p>
+<h2><span class="mw-headline" id="Variations_of_the_basic_Rankine_cycle">Variations of the basic Rankine cycle</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rankine_cycle&amp;action=edit&amp;section=6" title="Edit section: Variations of the basic Rankine cycle">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The overall <a href="/wiki/Thermodynamic_efficiency" class="mw-redirect" title="Thermodynamic efficiency">thermodynamic efficiency</a> can be increased by raising the average <a href="/wiki/Heat" title="Heat">heat</a> input <a href="/wiki/Temperature" title="Temperature">temperature</a> <span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow>
+          <mo>(</mo>
+          <msub>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mrow class="MJX-TeXAtom-ORD">
+                <mover>
+                  <mi>T</mi>
+                  <mo stretchy="false">&#x00AF;<!-- ¯ --></mo>
+                </mover>
+              </mrow>
+            </mrow>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi class="MJX-tex-mathit" mathvariant="italic">i</mi>
+                <mi class="MJX-tex-mathit" mathvariant="italic">n</mi>
+              </mrow>
+            </mrow>
+          </msub>
+          <mo>=</mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mfrac>
+              <mrow>
+                <msubsup>
+                  <mo>&#x222B;<!-- ∫ --></mo>
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mn>2</mn>
+                  </mrow>
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mn>3</mn>
+                  </mrow>
+                </msubsup>
+                <mi>T</mi>
+                <mspace width="thinmathspace" />
+                <mi>d</mi>
+                <mi>Q</mi>
+              </mrow>
+              <msub>
+                <mi>Q</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mi class="MJX-tex-mathit" mathvariant="italic">i</mi>
+                    <mi class="MJX-tex-mathit" mathvariant="italic">n</mi>
+                  </mrow>
+                </mrow>
+              </msub>
+            </mfrac>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \left({\bar {T}}_{\mathit {in}}={\frac {\int _{2}^{3}T\,dQ}{Q_{\mathit {in}}}}\right)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e0eef8d8bf3f64ce4e388074f6350a78d3b1c689" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -3.171ex; width:19.19ex; height:7.843ex;" alt="\left({\bar  {T}}_{{\mathit  {in}}}={\frac  {\int _{2}^{3}T\,dQ}{Q_{{\mathit  {in}}}}}\right)" /></span> of that cycle. Increasing the temperature of the steam into the superheat region is a simple way of doing this. There are also variations of the basic Rankine cycle which are designed to raise the thermal efficiency of the cycle in this way; two of these are described below.</p>
+<h3><span class="mw-headline" id="Rankine_cycle_with_reheat">Rankine cycle with reheat</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rankine_cycle&amp;action=edit&amp;section=7" title="Edit section: Rankine cycle with reheat">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:252px;"><a href="/wiki/File:Rankine_cycle_with_reheat.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Rankine_cycle_with_reheat.jpg/250px-Rankine_cycle_with_reheat.jpg" width="250" height="281" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Rankine_cycle_with_reheat.jpg/375px-Rankine_cycle_with_reheat.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/f/f5/Rankine_cycle_with_reheat.jpg 2x" data-file-width="400" data-file-height="450" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Rankine_cycle_with_reheat.jpg" class="internal" title="Enlarge"></a></div>
+Rankine cycle with reheat</div>
+</div>
+</div>
+<p>The purpose of a reheating cycle is to remove the moisture carried by the steam at the final stages of the expansion process. In this variation, two <a href="/wiki/Turbine" title="Turbine">turbines</a> work in series. The first accepts <a href="/wiki/Vaporization" title="Vaporization">vapor</a> from the <a href="/wiki/Boiler" title="Boiler">boiler</a> at high pressure. After the vapor has passed through the first turbine, it re-enters the boiler and is reheated before passing through a second, lower-pressure, turbine. The reheat temperatures are very close or equal to the inlet temperatures, whereas the optimum reheat pressure needed is only one fourth of the original boiler pressure. Among other advantages, this prevents the vapor from <a href="/wiki/Condensation" title="Condensation">condensing</a> during its expansion and thereby damaging the turbine blades, and improves the efficiency of the cycle, because more of the heat flow into the cycle occurs at higher temperature. The reheat cycle was first introduced in the 1920s, but was not operational for long due to technical difficulties. In the 1940s, it was reintroduced with the increasing manufacture of high-pressure <a href="/wiki/Boiler" title="Boiler">boilers</a>, and eventually double reheating was introduced in the 1950s. The idea behind double reheating is to increase the average temperature. It was observed that more than two stages of reheating are unnecessary, since the next stage increases the cycle efficiency only half as much as the preceding stage. Today, double reheating is commonly used in power plants that operate under supercritical pressure.</p>
+<h3><span class="mw-headline" id="Regenerative_Rankine_cycle">Regenerative Rankine cycle</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rankine_cycle&amp;action=edit&amp;section=8" title="Edit section: Regenerative Rankine cycle">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:252px;"><a href="/wiki/File:Regenerative_rankine_cycle.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Regenerative_rankine_cycle.jpg/250px-Regenerative_rankine_cycle.jpg" width="250" height="284" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Regenerative_rankine_cycle.jpg/375px-Regenerative_rankine_cycle.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/7/73/Regenerative_rankine_cycle.jpg 2x" data-file-width="409" data-file-height="464" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Regenerative_rankine_cycle.jpg" class="internal" title="Enlarge"></a></div>
+Regenerative Rankine cycle</div>
+</div>
+</div>
+<p>The regenerative Rankine cycle is so named because after emerging from the condenser (possibly as a <a href="/wiki/Subcooled_liquid" class="mw-redirect" title="Subcooled liquid">subcooled liquid</a>) the working fluid is heated by <a href="/wiki/Steam" title="Steam">steam</a> tapped from the hot portion of the cycle. On the diagram shown, the fluid at 2 is mixed with the fluid at 4 (both at the same pressure) to end up with the saturated liquid at 7. This is called "direct contact heating". The Regenerative Rankine cycle (with minor variants) is commonly used in real power stations.</p>
+<p>Another variation sends <i>bleed steam</i> from between turbine stages to <a href="/wiki/Feedwater_heater" title="Feedwater heater">feedwater heaters</a> to preheat the water on its way from the condenser to the boiler. These heaters do not mix the input steam and condensate, function as an ordinary tubular heat exchanger, and are named "closed feedwater heaters".</p>
+<p>Regeneration increases the cycle heat input temperature by eliminating the addition of heat from the boiler/fuel source at the relatively low feedwater temperatures that would exist without regenerative feedwater heating. This improves the efficiency of the cycle, as more of the heat flow into the cycle occurs at higher temperature.</p>
+<h2><span class="mw-headline" id="Organic_Rankine_cycle">Organic Rankine cycle</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rankine_cycle&amp;action=edit&amp;section=9" title="Edit section: Organic Rankine cycle">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote">Main article: <a href="/wiki/Organic_Rankine_cycle" title="Organic Rankine cycle">Organic Rankine cycle</a></div>
+<p>The organic Rankine cycle (ORC) uses an organic fluid such as <a href="/wiki/Pentane" title="Pentane">n-pentane</a><sup id="cite_ref-Canada04_1-0" class="reference"><a href="#cite_note-Canada04-1">[1]</a></sup> or <a href="/wiki/Toluene" title="Toluene">toluene</a><sup id="cite_ref-Batton2000_2-0" class="reference"><a href="#cite_note-Batton2000-2">[2]</a></sup> in place of water and steam. This allows use of lower-temperature heat sources, such as <a href="/wiki/Solar_ponds" class="mw-redirect" title="Solar ponds">solar ponds</a>, which typically operate at around 70–90 °C.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> The <a href="/wiki/Thermodynamic_efficiency" class="mw-redirect" title="Thermodynamic efficiency">efficiency</a> of the cycle is much lower as a result of the lower temperature range, but this can be worthwhile because of the lower cost involved in gathering heat at this lower temperature. Alternatively, fluids can be used that have boiling points above water, and this may have thermodynamic benefits. See, for example, <a href="/wiki/Mercury_vapour_turbine" title="Mercury vapour turbine">mercury vapour turbine</a>.</p>
+<p>The Rankine cycle does not restrict the working fluid in its definition, so the name “organic cycle” is simply a marketing concept and the cycle should not be regarded as a separate thermodynamic cycle.</p>
+<h2><span class="mw-headline" id="Supercritical_Rankine_cycle">Supercritical Rankine cycle</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rankine_cycle&amp;action=edit&amp;section=10" title="Edit section: Supercritical Rankine cycle">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Rankine cycle applied using a <a href="/wiki/Supercritical_fluid" title="Supercritical fluid">supercritical fluid</a><sup id="cite_ref-RGSC_.28GRANEX.29_Rankine_cycle_4-0" class="reference"><a href="#cite_note-RGSC_.28GRANEX.29_Rankine_cycle-4">[4]</a></sup> combines the concepts of heat regeneration and supercritical Rankine cycle into a unified process called the Regenerative Supercritical Cycle (RGSC) cycle. It is optimised for temperature sources 125 - 450°C.</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rankine_cycle&amp;action=edit&amp;section=11" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tr>
+<td class="mbox-image"><a href="/wiki/File:Commons-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Rankine_cycle" class="extiw" title="commons:Category:Rankine cycle">Rankine cycle</a></b></i>.</td>
+</tr>
+</table>
+<ol class="references">
+<li id="cite_note-Canada04-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-Canada04_1-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Canada, Scott; G. Cohen; R. Cable; D. Brosseau; H. Price (2004-10-25). <a rel="nofollow" class="external text" href="http://www.nrel.gov/csp/troughnet/pdfs/37077.pdf">"Parabolic Trough Organic Rankine Cycle Solar Power Plant"</a> <span style="font-size:85%;">(PDF)</span>. <i>2004 DOE Solar Energy Technologies</i>. Denver, Colorado: US Department of Energy NREL<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-03-17</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARankine+cycle&amp;rft.atitle=Parabolic+Trough+Organic+Rankine+Cycle+Solar+Power+Plant&amp;rft.au=D.+Brosseau&amp;rft.aufirst=Scott&amp;rft.au=G.+Cohen&amp;rft.au=H.+Price&amp;rft.aulast=Canada&amp;rft.au=R.+Cable&amp;rft.date=2004-10-25&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.nrel.gov%2Fcsp%2Ftroughnet%2Fpdfs%2F37077.pdf&amp;rft.jtitle=2004+DOE+Solar+Energy+Technologies&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Batton2000-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-Batton2000_2-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Batton, Bill (2000-06-18). <a rel="nofollow" class="external text" href="http://www.nrel.gov/csp/troughnet/pdfs/batton_orc.pdf">"Organic Rankine Cycle Engines for Solar Power"</a> <span style="font-size:85%;">(PDF)</span>. <i>Solar 2000 conference</i>. Barber-Nichols, Inc<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-03-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARankine+cycle&amp;rft.atitle=Organic+Rankine+Cycle+Engines+for+Solar+Power&amp;rft.aufirst=Bill&amp;rft.aulast=Batton&amp;rft.date=2000-06-18&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.nrel.gov%2Fcsp%2Ftroughnet%2Fpdfs%2Fbatton_orc.pdf&amp;rft.jtitle=Solar+2000+conference&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Nielsen et al., 2005, Proc. Int. Solar Energy Soc.</span></li>
+<li id="cite_note-RGSC_.28GRANEX.29_Rankine_cycle-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-RGSC_.28GRANEX.29_Rankine_cycle_4-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Moghtaderi, Behdad (2009). <a rel="nofollow" class="external text" href="http://nova.newcastle.edu.au/vital/access/manager/Repository?exact=subject%3A%22waste+heat+recovery%22">"An Overview of GRANEX Technology for Geothermal Power Generation and Waste Heat Recovery"</a>. <i>Australian Geothermal Energy Conference 2009</i>. , Inc.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARankine+cycle&amp;rft.atitle=An+Overview+of+GRANEX+Technology+for+Geothermal+Power+Generation+and+Waste+Heat+Recovery&amp;rft.aufirst=Behdad&amp;rft.aulast=Moghtaderi&amp;rft.date=2009&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fnova.newcastle.edu.au%2Fvital%2Faccess%2Fmanager%2FRepository%3Fexact%3Dsubject%253A%2522waste%2Bheat%2Brecovery%2522&amp;rft.jtitle=Australian+Geothermal+Energy+Conference+2009&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+<ul>
+<li><cite id="endnote_Van_Wyllen_a" style="font-style: normal;"><b><a href="#ref_Van_Wyllen_a">^</a></b></cite>Van Wyllen 'Fundamentals of thermodynamics' (<a href="/wiki/Special:BookSources/8521203276" class="internal mw-magiclink-isbn">ISBN 85-212-0327-6</a>)</li>
+<li><cite id="endnote_Wong_a" style="font-style: normal;"><b><a href="#ref_Wong_a">^</a></b></cite>Wong 'Thermodynamics for Engineers',2nd Ed.,2012, CRC Press, Taylor &amp; Francis, Boca Raton, London, New York. (<a href="/wiki/Special:BookSources/9781439845592" class="internal mw-magiclink-isbn">ISBN 978-1-4398-4559-2</a>)</li>
+<li>Moran &amp; Shapiro 'Fundamentals of Engineering Thermodynamics' (<a href="/wiki/Special:BookSources/0471274712" class="internal mw-magiclink-isbn">ISBN 0-471-27471-2</a>)</li>
+<li><a class="external text" href="http://wikibooks.org/wiki/Engineering_Thermodynamics/Applications#Rankine_Cycle">Wikibooks Engineering Thermodynamics</a></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Thermodynamic_cycles" style="padding:3px">
+<table class="nowraplinks collapsible expanded navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Thermodynamic_cycles" title="Template:Thermodynamic cycles"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Thermodynamic_cycles" title="Template talk:Thermodynamic cycles"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Thermodynamic_cycles&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Thermodynamic_cycles" style="font-size:114%"><a href="/wiki/Thermodynamic_cycle" title="Thermodynamic cycle">Thermodynamic cycles</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/External_combustion" class="mw-redirect" title="External combustion">External combustion</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="font-weight:normal;">
+<div style="padding:0.1em 0;line-height:1.2em;">Without phase change<br />
+(<a href="/wiki/Hot_air_engine" title="Hot air engine">hot air engines</a>)</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Brayton_cycle#Reverse_Brayton_cycle" title="Brayton cycle">Bell Coleman</a></li>
+<li><a href="/wiki/Brayton_cycle" title="Brayton cycle">Brayton / Joule</a></li>
+<li><a href="/wiki/Carnot_cycle" title="Carnot cycle">Carnot</a></li>
+<li><a href="/wiki/Ericsson_cycle" title="Ericsson cycle">Ericsson</a></li>
+<li><a href="/wiki/Stirling_cycle" title="Stirling cycle">Stirling</a></li>
+<li><a href="/wiki/Pseudo_Stirling_cycle" title="Pseudo Stirling cycle">Stirling (pseudo / adiabatic)</a></li>
+<li><a href="/wiki/Stoddard_cycle" class="mw-redirect" title="Stoddard cycle">Stoddard</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="font-weight:normal;">With phase change</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Kalina_cycle" title="Kalina cycle">Kalina</a></li>
+<li><a href="/wiki/Hygroscopic_cycle" title="Hygroscopic cycle">Hygroscopic</a></li>
+<li><strong class="selflink">Rankine</strong> (<a href="/wiki/Organic_Rankine_cycle" title="Organic Rankine cycle">Organic Rankine</a>)</li>
+<li><a href="/wiki/Regenerative_cycle" class="mw-redirect" title="Regenerative cycle">Regenerative</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Internal_combustion" class="mw-redirect" title="Internal combustion">Internal combustion</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Atkinson_cycle" title="Atkinson cycle">Atkinson</a></li>
+<li><a href="/wiki/Brayton_cycle" title="Brayton cycle">Brayton / Joule</a></li>
+<li><a href="/wiki/Diesel_cycle" title="Diesel cycle">Diesel</a></li>
+<li><a href="/wiki/Expander_cycle_(rocket)" class="mw-redirect" title="Expander cycle (rocket)">Expander</a></li>
+<li><a href="/wiki/Gas-generator_cycle_(rocket)" class="mw-redirect" title="Gas-generator cycle (rocket)">Gas-generator</a></li>
+<li><a href="/wiki/Homogeneous_charge_compression_ignition" title="Homogeneous charge compression ignition">Homogeneous charge compression ignition</a></li>
+<li><a href="/wiki/Lenoir_cycle" title="Lenoir cycle">Lenoir</a></li>
+<li><a href="/wiki/Miller_cycle" title="Miller cycle">Miller</a></li>
+<li><a href="/wiki/Otto_cycle" title="Otto cycle">Otto</a></li>
+<li><a href="/wiki/Scuderi_cycle" title="Scuderi cycle">Scuderi</a></li>
+<li><a href="/wiki/Staged_combustion_cycle_(rocket)" class="mw-redirect" title="Staged combustion cycle (rocket)">Staged combustion</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Mixed</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Combined_cycle" title="Combined cycle">Combined</a></li>
+<li><a href="/wiki/High-efficiency_hybrid_cycle" title="High-efficiency hybrid cycle">HEHC</a></li>
+<li><a href="/wiki/Mixed/dual_cycle" title="Mixed/dual cycle">Mixed / Dual</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Heat_pump_and_refrigeration_cycle" title="Heat pump and refrigeration cycle">Refrigeration</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Hampson%E2%80%93Linde_cycle" title="Hampson–Linde cycle">Hampson–Linde</a></li>
+<li><a href="/wiki/Kleemenko_cycle" title="Kleemenko cycle">Kleemenko</a></li>
+<li><a href="/wiki/Pulse_tube_refrigerator" title="Pulse tube refrigerator">Pulse tube</a></li>
+<li><a href="/wiki/Regenerative_cooling" title="Regenerative cooling">Regenerative cooling</a></li>
+<li><a href="/wiki/Transcritical_cycle" title="Transcritical cycle">Transcritical</a></li>
+<li><a href="/wiki/Absorption_refrigerator" title="Absorption refrigerator">Vapor absorption</a></li>
+<li><a href="/wiki/Vapor-compression_refrigeration" title="Vapor-compression refrigeration">Vapor-compression</a></li>
+<li><a href="/wiki/Siemens_cycle" title="Siemens cycle">Siemens</a></li>
+<li><a href="/wiki/Vuilleumier_cycle" title="Vuilleumier cycle">Vuilleumier</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Uncategorized</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Barton_evaporation_engine" title="Barton evaporation engine">Barton</a></li>
+<li><a href="/wiki/Humphrey_cycle" title="Humphrey cycle">Humphrey</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Electricity_delivery" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Electricity_delivery" title="Template:Electricity delivery"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Electricity_delivery" title="Template talk:Electricity delivery"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Electricity_delivery&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Electricity_delivery" style="font-size:114%"><a href="/wiki/Electricity_delivery" title="Electricity delivery">Electricity delivery</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Concepts</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Availability_factor" title="Availability factor">Availability factor</a></li>
+<li><a href="/wiki/Automatic_generation_control" class="mw-redirect" title="Automatic generation control">Automatic generation control</a></li>
+<li><a href="/wiki/Base_load" title="Base load">Base load</a></li>
+<li><a href="/wiki/Black_start" title="Black start">Black start</a></li>
+<li><a href="/wiki/Capacity_factor" title="Capacity factor">Capacity factor</a></li>
+<li><a href="/wiki/Demand_factor" title="Demand factor">Demand factor</a></li>
+<li><a href="/wiki/Droop_speed_control" title="Droop speed control">Droop speed control</a></li>
+<li><a href="/wiki/Energy_demand_management" title="Energy demand management">Demand management</a></li>
+<li><a href="/wiki/Energy_returned_on_energy_invested" title="Energy returned on energy invested">EROEI</a></li>
+<li><a href="/wiki/Fault_(power_engineering)" title="Fault (power engineering)">Fault</a></li>
+<li><a href="/wiki/Grid_energy_storage" title="Grid energy storage">Grid storage</a></li>
+<li><a href="/wiki/Intermittent_energy_source" title="Intermittent energy source">Intermittency</a></li>
+<li><a href="/wiki/Load_factor_(electrical)" title="Load factor (electrical)">Load factor</a></li>
+<li><a href="/wiki/Load_following_power_plant" title="Load following power plant">Load following</a></li>
+<li><a href="/wiki/Nameplate_capacity" title="Nameplate capacity">Nameplate capacity</a></li>
+<li><a href="/wiki/Peak_demand" title="Peak demand">Peak demand</a></li>
+<li><a href="/wiki/Electric_power_quality" title="Electric power quality">Power quality</a></li>
+<li><a href="/wiki/Power-flow_study" title="Power-flow study">Power-flow study</a></li>
+<li><a href="/wiki/Repowering" title="Repowering">Repowering</a></li>
+<li><a href="/wiki/Variable_renewable_energy" title="Variable renewable energy">Variability</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Sources</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;width:7em;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Non-renewable_energy" class="mw-redirect" title="Non-renewable energy">Nonrenewable</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Coal" title="Coal">Coal</a></li>
+<li><a href="/wiki/Fossil_fuel_power_station" title="Fossil fuel power station">Fossil fuel power station</a></li>
+<li><a href="/wiki/Natural_gas" title="Natural gas">Natural gas</a></li>
+<li><a href="/wiki/Petroleum" title="Petroleum">Petroleum</a></li>
+<li><a href="/wiki/Nuclear_power" title="Nuclear power">Nuclear</a></li>
+<li><a href="/wiki/Oil_shale" title="Oil shale">Oil shale</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;width:7em;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Renewable_energy" title="Renewable energy">Renewable</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Biomass" title="Biomass">Biomass</a></li>
+<li><a href="/wiki/Biofuel" title="Biofuel">Biofuel</a></li>
+<li><a href="/wiki/Geothermal_power" title="Geothermal power">Geothermal</a></li>
+<li><a href="/wiki/Hydroelectricity" title="Hydroelectricity">Hydro</a></li>
+<li><a href="/wiki/Marine_energy" title="Marine energy">Marine</a>
+<ul>
+<li><a href="/wiki/Marine_current_power" title="Marine current power">Current</a></li>
+<li><a href="/wiki/Osmotic_power" title="Osmotic power">Osmotic</a></li>
+<li><a href="/wiki/Ocean_thermal_energy" class="mw-redirect" title="Ocean thermal energy">Thermal</a></li>
+<li><a href="/wiki/Tidal_power" title="Tidal power">Tidal</a></li>
+<li><a href="/wiki/Wave_power" title="Wave power">Wave</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Solar_power" title="Solar power">Solar</a></li>
+<li><a href="/wiki/Wind_power" title="Wind power">Wind</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Category:Power_station_technology" title="Category:Power station technology">Generation</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/AC_power" title="AC power">AC power</a></li>
+<li><a href="/wiki/Cogeneration" title="Cogeneration">Cogeneration</a></li>
+<li><a href="/wiki/Combined_cycle" title="Combined cycle">Combined cycle</a></li>
+<li><a href="/wiki/Cooling_tower" title="Cooling tower">Cooling tower</a></li>
+<li><a href="/wiki/Induction_generator" title="Induction generator">Induction generator</a></li>
+<li><a href="/wiki/Micro_combined_heat_and_power" title="Micro combined heat and power">Micro CHP</a></li>
+<li><a href="/wiki/Microgeneration" title="Microgeneration">Microgeneration</a></li>
+<li><strong class="selflink">Rankine cycle</strong></li>
+<li><a href="/wiki/Three-phase_electric_power" title="Three-phase electric power">Three-phase electric power</a></li>
+<li><a href="/wiki/Virtual_power_plant" title="Virtual power plant">Virtual power plant</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">
+<div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Electric_power_transmission" title="Electric power transmission">Transmission</a><br />
+and <a href="/wiki/Electric_power_distribution" title="Electric power distribution">distribution</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Power_outage" title="Power outage">Blackout</a> (<a href="/wiki/Rolling_blackout" title="Rolling blackout">Rolling blackout</a>)</li>
+<li><a href="/wiki/Brownout_(electricity)" title="Brownout (electricity)">Brownout</a></li>
+<li><a href="/wiki/Demand_response" title="Demand response">Demand response</a></li>
+<li><a href="/wiki/Distributed_generation" title="Distributed generation">Distributed generation</a></li>
+<li><a href="/wiki/Dynamic_demand_(electric_power)" title="Dynamic demand (electric power)">Dynamic demand</a></li>
+<li><a href="/wiki/Electric_power_distribution" title="Electric power distribution">Electric power distribution</a></li>
+<li><a href="/wiki/Electric_power_system" title="Electric power system">Electric power system</a></li>
+<li><a href="/wiki/Electric_power_transmission" title="Electric power transmission">Electric power transmission</a></li>
+<li><a href="/wiki/Electrical_grid" title="Electrical grid">Electrical grid</a></li>
+<li><a href="/wiki/High-voltage_direct_current" title="High-voltage direct current">High-voltage direct current</a></li>
+<li><a href="/wiki/Load_management" title="Load management">Load management</a></li>
+<li><a href="/wiki/Pumped-storage_hydroelectricity" title="Pumped-storage hydroelectricity">Pumped hydro</a></li>
+<li><a href="/wiki/Power_station" title="Power station">Power station</a></li>
+<li><a href="/wiki/Power_storage" class="mw-redirect" title="Power storage">Power storage</a></li>
+<li><a href="/wiki/Smart_grid" title="Smart grid">Smart grid</a></li>
+<li><a href="/wiki/Electrical_substation" title="Electrical substation">Substation</a></li>
+<li><a href="/wiki/Super_grid" title="Super grid">Super grid</a></li>
+<li><a href="/wiki/Transformer" title="Transformer">Transformer</a></li>
+<li><a href="/wiki/Transmission_system_operator" title="Transmission system operator">Transmission system operator</a> (TSO)</li>
+<li><a href="/wiki/Transmission_tower" title="Transmission tower">Transmission tower</a></li>
+<li><a href="/wiki/Utility_pole" title="Utility pole">Utility pole</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">
+<div style="padding:0.1em 0;line-height:1.2em;">Protective<br />
+devices</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Arc-fault_circuit_interrupter" title="Arc-fault circuit interrupter">Arc-fault circuit interrupter</a></li>
+<li><a href="/wiki/Earth_leakage_circuit_breaker" title="Earth leakage circuit breaker">Earth leakage circuit breaker</a></li>
+<li><a href="/wiki/Residual-current_device" title="Residual-current device">Residual-current device</a> (GFI)</li>
+<li><a href="/wiki/Power-system_protection" title="Power-system protection">Power-system protection</a></li>
+<li><a href="/wiki/Protective_relay" title="Protective relay">Protective relay</a></li>
+<li><a href="/wiki/Digital_protective_relay" title="Digital protective relay">Digital protective relay</a></li>
+<li><a href="/wiki/Sulfur_hexafluoride_circuit_breaker" title="Sulfur hexafluoride circuit breaker">Sulfur hexafluoride circuit breaker</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">
+<div style="padding:0.1em 0;line-height:1.2em;">Economics<br />
+and policies</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Carbon_offset" title="Carbon offset">Carbon offset</a></li>
+<li><a href="/wiki/Cost_of_electricity_by_source" title="Cost of electricity by source">Cost of electricity by source</a></li>
+<li><a href="/wiki/Ecotax" title="Ecotax">Ecotax</a></li>
+<li><a href="/wiki/Energy_subsidies" title="Energy subsidies">Energy subsidies</a></li>
+<li><a href="/wiki/Feed-in_tariff" title="Feed-in tariff">Feed-in tariff</a></li>
+<li><a href="/wiki/Fossil-fuel_phase-out" class="mw-redirect" title="Fossil-fuel phase-out">Fossil-fuel phase-out</a></li>
+<li><a href="/wiki/Net_metering" title="Net metering">Net metering</a></li>
+<li><a href="/wiki/Pigovian_tax" title="Pigovian tax">Pigovian tax</a></li>
+<li><a href="/wiki/Renewable_Energy_Certificates" class="mw-redirect" title="Renewable Energy Certificates">Renewable Energy Certificates</a></li>
+<li><a href="/wiki/Renewable_energy_payments" class="mw-redirect" title="Renewable energy payments">Renewable energy payments</a></li>
+<li><a href="/wiki/Renewable_energy_policy" class="mw-redirect" title="Renewable energy policy">Renewable energy policy</a></li>
+<li><a href="/wiki/Spark_spread" title="Spark spread">Spark spread</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<dl>
+<dt>Categories</dt>
+<dd><a href="/wiki/Category:Electric_power_distribution" title="Category:Electric power distribution">Electric power distribution</a></dd>
+<dd><a href="/wiki/Category:Electricity_economics" title="Category:Electricity economics">Electricity economics</a></dd>
+<dd><a href="/wiki/Category:Power_station_technology" title="Category:Power station technology">Power station technology</a></dd>
+<dt>Portals</dt>
+<dd><a href="/wiki/Portal:Energy" title="Portal:Energy">Energy</a></dd>
+<dd><a href="/wiki/Portal:Renewable_energy" title="Portal:Renewable energy">Renewable energy</a></dd>
+<dd><a href="/wiki/Portal:Sustainable_development" title="Portal:Sustainable development">Sustainable development</a></dd>
+</dl>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1267
+Cached time: 20170122232745
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.232 seconds
+Real time usage: 0.391 seconds
+Preprocessor visited node count: 1477/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 92630/2097152 bytes
+Template argument size: 1401/2097152 bytes
+Highest expansion depth: 10/40
+Expensive parser function count: 0/500
+Lua time usage: 0.051/10.000 seconds
+Lua memory usage: 2.54 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  162.528      1 -total
+ 35.14%   57.111      1 Template:Thermodynamics
+ 18.95%   30.796      1 Template:Cite_journal
+ 16.39%   26.632      4 Template:Navbox
+ 14.35%   23.315      1 Template:Commons_category
+ 12.47%   20.268      1 Template:Commons
+ 11.61%   18.866      1 Template:Sister_project
+ 10.44%   16.965      1 Template:Side_box
+  8.65%   14.062      1 Template:Electricity_generation
+  8.43%   13.695      3 Template:Sidebar
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:660657-0!*!0!!en!4!*!math=5 and timestamp 20170122232745 and revision id 760691681
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Rankine_cycle&amp;oldid=760691681">https://en.wikipedia.org/w/index.php?title=Rankine_cycle&amp;oldid=760691681</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Thermodynamic_cycles" title="Category:Thermodynamic cycles">Thermodynamic cycles</a></li><li><a href="/wiki/Category:Scottish_inventions" title="Category:Scottish inventions">Scottish inventions</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Commons_category_with_page_title_same_as_on_Wikidata" title="Category:Commons category with page title same as on Wikidata">Commons category with page title same as on Wikidata</a></li><li><a href="/wiki/Category:Pages_using_ISBN_magic_links" title="Category:Pages using ISBN magic links">Pages using ISBN magic links</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Rankine+cycle" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Rankine+cycle" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Rankine_cycle"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Rankine_cycle"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Rankine_cycle" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Rankine_cycle&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Rankine_cycle&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Rankine_cycle" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Rankine_cycle" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Rankine_cycle&amp;oldid=760691681" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Rankine_cycle&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q215612" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Rankine_cycle&amp;id=760691681" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Rankine+cycle">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Rankine+cycle&amp;returnto=Rankine+cycle&amp;oldid=760691681&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Rankine_cycle&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Rankine_cycle" hreflang="en">Wikimedia Commons</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%AF%D9%88%D8%B1%D8%A9_%D8%B1%D8%A7%D9%86%D9%83%D9%86" title="دورة رانكن – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Cicle_de_Rankine" title="Cicle de Rankine – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Clausius-Rankine-Kreisprozess" title="Clausius-Rankine-Kreisprozess – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Ciclo_de_Rankine" title="Ciclo de Rankine – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%DA%86%D8%B1%D8%AE%D9%87_%D8%B1%D8%A7%D9%86%DA%A9%DB%8C%D9%86" title="چرخه رانکین – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Cycle_de_Rankine" title="Cycle de Rankine – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Ciclo_de_Rankine" title="Ciclo de Rankine – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EB%9E%AD%ED%82%A8_%EC%82%AC%EC%9D%B4%ED%81%B4" title="랭킨 사이클 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Rankineov_ciklus" title="Rankineov ciklus – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Siklus_Rankine" title="Siklus Rankine – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Ciclo_di_Rankine" title="Ciclo di Rankine – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%9E%D7%A2%D7%92%D7%9C_%D7%A8%D7%A0%D7%A7%D7%99%D7%9F" title="מעגל רנקין – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Rankine_ciklas" title="Rankine ciklas – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Rankine-ciklus" title="Rankine-ciklus – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-mr"><a href="https://mr.wikipedia.org/wiki/%E0%A4%B0%E0%A4%81%E0%A4%95%E0%A4%BE%E0%A4%87%E0%A4%A8_%E0%A4%9A%E0%A4%95%E0%A5%8D%E0%A4%B0" title="रँकाइन चक्र – Marathi" lang="mr" hreflang="mr" class="interlanguage-link-target">मराठी</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Kitaran_Rankine" title="Kitaran Rankine – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-my"><a href="https://my.wikipedia.org/wiki/%E1%80%9B%E1%80%94%E1%80%BA%E1%80%80%E1%80%AD%E1%80%AF%E1%80%84%E1%80%BA%E1%80%B8%E1%80%86%E1%80%AD%E1%80%AF%E1%80%84%E1%80%BA%E1%80%80%E1%80%9A%E1%80%BA" title="ရန်ကိုင်းဆိုင်ကယ် – Burmese" lang="my" hreflang="my" class="interlanguage-link-target">မြန်မာဘာသာ</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Rankine-proces" title="Rankine-proces – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB" title="ランキンサイクル – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Clausius%E2%80%93Rankine-prosessen" title="Clausius–Rankine-prosessen – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Obieg_Rankine%E2%80%99a" title="Obieg Rankine’a – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Ciclo_Rankine" title="Ciclo Rankine – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Ciclul_Clausius-Rankine" title="Ciclul Clausius-Rankine – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A6%D0%B8%D0%BA%D0%BB_%D0%A0%D0%B5%D0%BD%D0%BA%D0%B8%D0%BD%D0%B0" title="Цикл Ренкина – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-si"><a href="https://si.wikipedia.org/wiki/%E0%B6%BB%E0%B7%90%E0%B6%B1%E0%B7%8A%E0%B6%9A%E0%B6%BA%E0%B7%92%E0%B6%B1%E0%B7%8A_%E0%B6%A0%E0%B6%9A%E0%B7%8A%E2%80%8D%E0%B6%BB%E0%B6%BA" title="රැන්කයින් චක්‍රය – Sinhala" lang="si" hreflang="si" class="interlanguage-link-target">සිංහල</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Rankinecykel" title="Rankinecykel – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%B0%E0%AF%87%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AE%BF%E0%AE%A9%E0%AF%8D_%E0%AE%9A%E0%AF%81%E0%AE%B4%E0%AE%B1%E0%AF%8D%E0%AE%9A%E0%AE%BF" title="ரேங்கின் சுழற்சி – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Rankine_%C3%A7evrimi" title="Rankine çevrimi – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%A6%D0%B8%D0%BA%D0%BB_%D0%A0%D0%B0%D0%BD%D0%BA%D1%96%D0%BD%D0%B0" title="Цикл Ранкіна – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E6%9C%97%E8%82%AF%E5%BE%AA%E7%8E%AF" title="朗肯循环 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q215612#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 18 January 2017, at 14:45.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Rankine_cycle&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.232","walltime":"0.391","ppvisitednodes":{"value":1477,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":92630,"limit":2097152},"templateargumentsize":{"value":1401,"limit":2097152},"expansiondepth":{"value":10,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  162.528      1 -total"," 35.14%   57.111      1 Template:Thermodynamics"," 18.95%   30.796      1 Template:Cite_journal"," 16.39%   26.632      4 Template:Navbox"," 14.35%   23.315      1 Template:Commons_category"," 12.47%   20.268      1 Template:Commons"," 11.61%   18.866      1 Template:Sister_project"," 10.44%   16.965      1 Template:Side_box","  8.65%   14.062      1 Template:Electricity_generation","  8.43%   13.695      3 Template:Sidebar"]},"scribunto":{"limitreport-timeusage":{"value":"0.051","limit":"10.000"},"limitreport-memusage":{"value":2665944,"limit":52428800}},"cachereport":{"origin":"mw1267","timestamp":"20170122232745","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":480,"wgHostname":"mw1267"});});</script>
+	</body>
+</html>

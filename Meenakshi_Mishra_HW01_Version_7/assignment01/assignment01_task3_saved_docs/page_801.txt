@@ -1,0 +1,761 @@
+url : https://en.wikipedia.org/wiki/Helioseismology
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Helioseismology - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Helioseismology","wgTitle":"Helioseismology","wgCurRevisionId":763309276,"wgRevisionId":763309276,"wgArticleId":408801,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: Multiple names: authors list","CS1 maint: Explicit use of et al.","Commons category with local link same as on Wikidata","Fields of seismology","Sun","Stellar phenomena","Asteroseismology"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Helioseismology","wgRelevantArticleId":408801,"wgRequestId":"WJNEjQpAME8AAALeZloAAAAF","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q1068381","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","ext.math.scripts","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.9"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Helioseismology"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Helioseismology&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Helioseismology&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Helioseismology"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Helioseismology rootpage-Helioseismology skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Helioseismology</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div class="thumb tright">
+<div class="thumbinner" style="width:327px;"><a href="/wiki/File:Helioseismology_pmode1.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Helioseismology_pmode1.png/325px-Helioseismology_pmode1.png" width="325" height="325" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/e/ec/Helioseismology_pmode1.png 1.5x" data-file-width="340" data-file-height="340" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Helioseismology_pmode1.png" class="internal" title="Enlarge"></a></div>
+A computer-generated image showing the pattern of a p-mode solar acoustic oscillation both in the interior and on the surface of the sun. (<i>l</i>=20, <i>m</i>=16, and <i>n</i>=14.) Note that the increase in the speed of sound as waves approach the center of the sun causes a corresponding increase in the acoustic wavelength.</div>
+</div>
+</div>
+<p><b>Helioseismology</b> is the process of inferring the internal structure and kinematics of the <a href="/wiki/Sun" title="Sun">Sun</a> via of the propagation of seismic waves, particularly <a href="/wiki/Acoustics" title="Acoustics">acoustic</a> waves (<a href="/wiki/P_wave" class="mw-redirect" title="P wave">p waves</a>) and surface <a href="/wiki/Gravity_wave" title="Gravity wave">gravity waves</a> (f waves)<sup id="cite_ref-Deubner1984_1-0" class="reference"><a href="#cite_note-Deubner1984-1">[1]</a></sup>. It was developed by analogy to geoseismology (originally called simply <a href="/wiki/Seismology" title="Seismology">seismology</a>), and subsequently there emerged <a href="/wiki/Asteroseismology" title="Asteroseismology">asteroseismology</a> <sup id="cite_ref-Gough1985_2-0" class="reference"><a href="#cite_note-Gough1985-2">[2]</a></sup>, in which seismic waves are analysed to constrain the internal structures of other stars. Because the sun is fluid, to a first approximation it cannot support shear waves (<a href="/wiki/S-waves" class="mw-redirect" title="S-waves">s-waves</a>), unlike the <a href="/wiki/Seismic_wave" title="Seismic wave">seismic waves on Earth</a>. An exception is the magneto-acoustic waves which appear to be important only in the atmosphere<sup id="cite_ref-Roberts1989_3-0" class="reference"><a href="#cite_note-Roberts1989-3">[3]</a></sup>. The helioseismic waves are generated by the turbulence in the <a href="/wiki/Convection_zone" title="Convection zone">convection zone</a> immediately beneath the sun's surface<sup id="cite_ref-Keeley1977_4-0" class="reference"><a href="#cite_note-Keeley1977-4">[4]</a></sup>. Certain frequencies are amplified by constructive interference, leading to resonance. In other words, the turbulence "rings" the sun like a bell. The resonant waves are reflected near the photosphere, the visible surface of the sun, where they can be observed. The oscillations are detectable in almost any time series of solar images, but are best observed by measuring the <a href="/wiki/Doppler_shift" class="mw-redirect" title="Doppler shift">Doppler shift</a> of atmospheric absorption lines. Details of the propagation of the seismic waves through the Sun, inferred from the resonant frequencies, reveal the Sun's inner structure, allowing <a href="/wiki/Astrophysicist" class="mw-redirect" title="Astrophysicist">astrophysicists</a> to develop an extremely detailed representation of the hydrostatic stratification <sup id="cite_ref-jcd1985_5-0" class="reference"><a href="#cite_note-jcd1985-5">[5]</a></sup> and the internal angular velocity <sup id="cite_ref-duvall1984_6-0" class="reference"><a href="#cite_note-duvall1984-6">[6]</a></sup>. That has permitted the evaluation of the quadrupole moment of the external gravitational potential, J_2=2 x 10^{-7}, which is a more accurate and more robust procedure than trying to infer it from the oblateness of the visible disc. Together with measurements of the orbits of Mercury and of spacecraft, this result is consistent with General Relativity.</p>
+<p>Helioseismology has been able to rule out the possibility that the <a href="/wiki/Solar_neutrino_problem" title="Solar neutrino problem">solar neutrino problem</a> was a result of incorrect static models of the interior of the Sun <sup id="cite_ref-Gough1991_7-0" class="reference"><a href="#cite_note-Gough1991-7">[7]</a></sup> <sup id="cite_ref-Bahcall1997_8-0" class="reference"><a href="#cite_note-Bahcall1997-8">[8]</a></sup> <sup id="cite_ref-Gough1999_9-0" class="reference"><a href="#cite_note-Gough1999-9">[9]</a></sup>. Features revealed by helioseismology include that the outer convective zone and the inner radiative zone rotate differently, which is thought by some to generate the main magnetic field at least in the outer layers of the Sun by a <a href="/wiki/Dynamo_theory" title="Dynamo theory">dynamo effect</a>,<sup id="cite_ref-Thompson2003_10-0" class="reference"><a href="#cite_note-Thompson2003-10">[10]</a></sup><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup>. Broadly speaking, the angular velocity of the convection zone decreases from equator to the poles, varying only weakly with depth; the radiative envelope beneath rotates almost uniformly. These two regions are separated by a shear layer called the <a href="/wiki/Tachocline" title="Tachocline">tachocline</a><sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup><sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup> , which is too thin to be resolved directly by seismological analysis alone. The convective zone has "<a href="/wiki/Jet_stream" title="Jet stream">jet streams</a>" of plasma (called torsional oscillations) thousands of kilometers below the surface<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup>. The jet streams form broad fronts at the equator, breaking into smaller cyclonic storms at high latitudes. Torsional oscillations are the time variation in solar <a href="/wiki/Differential_rotation" title="Differential rotation">differential rotation</a>. They are alternating bands of faster and slower rotation. So far there is no generally accepted theoretical explanation for them, even though a close relation to the <a href="/wiki/Solar_cycle" title="Solar cycle">solar cycle</a> is evident, as they have a period of eleven years, as was known since they were first observed in 1980.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup></p>
+<p>Helioseismology can also be used to image the far side of the Sun from the Earth,<sup id="cite_ref-Braun2001_16-0" class="reference"><a href="#cite_note-Braun2001-16">[16]</a></sup> including <a href="/wiki/Sunspot" title="Sunspot">sunspots</a>. In simple terms, sunspots both absorb and deflect helioseismic waves, causing a seismic deficit where next they encounter the photosphere. <sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup> To facilitate spaceweather forecasting, seismic images of the central portion of the solar far side have been produced nearly continuously since late 2000 by analysing data from the <a href="/wiki/Solar_and_Heliospheric_Observatory" title="Solar and Heliospheric Observatory">SOHO spacecraft</a>, and since 2001 the entire far side has been imaged with these data.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Types_of_solar_oscillation"><span class="tocnumber">1</span> <span class="toctext">Types of solar oscillation</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Analysis_of_oscillation_data"><span class="tocnumber">2</span> <span class="toctext">Analysis of oscillation data</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Inversion"><span class="tocnumber">3</span> <span class="toctext">Inversion</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Internal_structure"><span class="tocnumber">4</span> <span class="toctext">Internal structure</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Helioseismic_dating"><span class="tocnumber">5</span> <span class="toctext">Helioseismic dating</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Local_helioseismology"><span class="tocnumber">6</span> <span class="toctext">Local helioseismology</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Jet_stream_movement_may_affect_solar_cycle"><span class="tocnumber">7</span> <span class="toctext">Jet stream movement may affect solar cycle</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#See_also"><span class="tocnumber">8</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">9</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#External_links"><span class="tocnumber">10</span> <span class="toctext">External links</span></a>
+<ul>
+<li class="toclevel-2 tocsection-11"><a href="#Satellite_instruments"><span class="tocnumber">10.1</span> <span class="toctext">Satellite instruments</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Ground-based_instruments"><span class="tocnumber">10.2</span> <span class="toctext">Ground-based instruments</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Types_of_solar_oscillation">Types of solar oscillation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Helioseismology&amp;action=edit&amp;section=1" title="Edit section: Types of solar oscillation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:327px;"><a href="/wiki/File:Helioseismology_GOLFpmode.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Helioseismology_GOLFpmode.png/325px-Helioseismology_GOLFpmode.png" width="325" height="260" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Helioseismology_GOLFpmode.png/488px-Helioseismology_GOLFpmode.png 1.5x, //upload.wikimedia.org/wikipedia/commons/0/0d/Helioseismology_GOLFpmode.png 2x" data-file-width="512" data-file-height="409" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Helioseismology_GOLFpmode.png" class="internal" title="Enlarge"></a></div>
+Low-resolution solar oscillation spectrum taken by the <a href="/wiki/Solar_and_Heliospheric_Observatory" title="Solar and Heliospheric Observatory">GOLF</a> instrument between 19 February and 25 March 1996. The horizontal axis is frequency in millihertz, or thousandths of a hertz (mHz), the vertical axis is power density. The "5-minute oscillation" is the series of p-mode lines on the right between about 2 and 7 mHz.</div>
+</div>
+</div>
+<p>Individual oscillations in the Sun are <a href="/wiki/Damping" class="mw-redirect" title="Damping">damped</a>; in the absence of continual excitation they would die out in a few days. Resonating interference between propagating waves produces global <a href="/wiki/Standing_waves" class="mw-redirect" title="Standing waves">standing waves</a>, known also as <a href="/wiki/Normal_modes" class="mw-redirect" title="Normal modes">normal modes</a>. Analysis of these modes constitutes the discipline of <i>global helioseismology</i>.</p>
+<p>Solar oscillation modes are divided up into three basic categories, according to their dominant restoring force: pressure dominates in p modes, and buoyancy in gravity modes, both internal (g modes) and surface (f modes):</p>
+<ul>
+<li><b>p-mode</b> dynamics is determined by the variation of the speed of sound inside the sun. Oscillations with amplitudes great enough to be detectable have frequencies between about 1 and 5 mHz, and are particularly strong in the 2-4 mHz range, where they are often referred to as "5-minute oscillations". (Note: 5 minutes per cycle is 1/300 cycles per second = 3.33 mHz.) At the solar surface, individual p modes have velocity amplitudes of order 10 cm/s, implying displacement amplitudes of a few meters and causing intensity fluctuations of a few parts per million, and are readily detectable with <a href="/wiki/Dopplergraph" title="Dopplergraph">Doppler imaging</a> or sensitive <a href="/wiki/Spectral_line" title="Spectral line">spectral line</a> intensity imaging. Thousands of p modes of high and intermediate degree l (see <a href="#Analysis_of_oscillation_data">below</a> for the wavenumber degree l) have been detected by both GONG and the Michelson Doppler Imager (MDI) instrument aboard the <a href="/wiki/Solar_and_Heliospheric_Observatory" title="Solar and Heliospheric Observatory">SOHO spacecraft</a>, with those of degree l below 200 clearly separated and higher degree modes ridged together<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup>. Modes of very low degree have been observed most successfully in light integrated over the entire image of the Sun, by both ground-based networks of observatories such as BiSON<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup> distributed about the world to obtain continuous temporal coverage, and by the GOLF instrument aboard the <a href="/wiki/Solar_and_Heliospheric_Observatory" title="Solar and Heliospheric Observatory">SOHO spacecraft</a><sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup>.</li>
+<li><b>g modes</b> are standing internal gravity waves whose principal restoring force is negative buoyancy of vertically displaced material, hence the name "g mode". They are of relatively low frequency (0-0.4 mHz). They are confined either to the interior of the sun below the convection zone (the inner 70 per cent by radius), or to the atmosphere. Because they cannot propagate through convectively unstable regions (in which the temperature gradient exceeds the <a href="/wiki/Adiabatic_lapse_rate" class="mw-redirect" title="Adiabatic lapse rate">adiabatic lapse rate</a>, buoyancy is positive and the force on a displaced element of fluid is not restoring), the former are practically unobservable at the surface. The g modes are said to be <a href="/wiki/Evanescent_wave" class="mw-redirect" title="Evanescent wave">evanescent</a> in the convection zone, and are thought to have residual velocity amplitudes of only millimeters per second at the photosphere, though perhaps they are more prominent as temperature perturbations<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup>. Since the 1980s, there have been several claims of g-mode detection, including one claimed in 2007 using the GOLF data<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup>. At the GONG2008 / SOHO XXI conference held in Boulder, the <a href="/wiki/Phoebus_group" title="Phoebus group">Phoebus group</a> reported that it could not confirm these findings, putting an upper limit of 3&#160;mm/s on g-mode amplitudes, right at the detection limit of the GOLF instrument. The <a href="/wiki/Phoebus_group" title="Phoebus group">Phoebus group</a> has recently published a review of the current state of g-mode knowledge.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup></li>
+<li><b>f modes</b> are surface gravity waves, and, aside from the modes of lowest degree l, are confined to the near-surface layers of the Sun, penetrating to a depth of about R/l beneath the photosphere, where R is the radius of the Sun. The frequencies of high-degree f modes are determined essentially by just the the surface gravity and the horizontal wavelength, and depend only very weakly on the structure of the Sun. Their terrestrial counterparts are <a href="/wiki/Dispersion" class="mw-disambig" title="Dispersion">deep water waves</a>, and in the limit of high degree l they share the same dispersion relation. Deviations from that limiting relation provide information principally about the density stratification of the surface layers of the Sun. Doppler shifts brought about by advection have been measured by MDI (see <a href="#Analysis_of_oscillation_data">below</a>), to set constraints on the horizontal subsurface flow<sup id="cite_ref-Corbard2002_24-0" class="reference"><a href="#cite_note-Corbard2002-24">[24]</a></sup></li>
+</ul>
+<h2><span class="mw-headline" id="Analysis_of_oscillation_data">Analysis of oscillation data</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Helioseismology&amp;action=edit&amp;section=2" title="Edit section: Analysis of oscillation data">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:MDI_medium_angular_degree_power_spectrum.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/MDI_medium_angular_degree_power_spectrum.png/220px-MDI_medium_angular_degree_power_spectrum.png" width="220" height="198" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/MDI_medium_angular_degree_power_spectrum.png/330px-MDI_medium_angular_degree_power_spectrum.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/75/MDI_medium_angular_degree_power_spectrum.png/440px-MDI_medium_angular_degree_power_spectrum.png 2x" data-file-width="666" data-file-height="600" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:MDI_medium_angular_degree_power_spectrum.png" class="internal" title="Enlarge"></a></div>
+Power spectrum of medium angular degree (<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mn>0</mn>
+        <mo>&#x2264;<!-- ≤ --></mo>
+        <mi>&#x2113;<!-- ℓ --></mi>
+        <mo>&lt;</mo>
+        <mn>300</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle 0\leq \ell &lt;300}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d472de7163ae76beee15f201af53d72075ee5ecb" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:11.89ex; height:2.509ex;" alt="{\displaystyle 0\leq \ell &lt;300}" /></span>) solar oscillations, computed for 144 days of data from the MDI instrument aboard <a href="/wiki/Solar_and_Heliospheric_Observatory" title="Solar and Heliospheric Observatory">SOHO</a>.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup> The colour scale is logarithmic and saturated at one hundredth the maximum power in the signal, to make the modes more visible. The low-frequency region is dominated by the signal of granulation. As the angular degree increases, the individual mode frequencies converge onto clear ridges, each corresponding to a sequence of low-order modes.</div>
+</div>
+</div>
+<p>The data from time-series of solar spectra show all the oscillations overlapping. Thousands of modes have been detected (with the true number perhaps being in the millions). The mathematical technique of <a href="/wiki/Fourier_analysis" title="Fourier analysis">Fourier analysis</a> is used to recover information about individual modes from this mass of data. The idea is that any periodic function <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>f</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle f}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/132e57acb643253e7810ee9702d9581f159a1c61" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:1.289ex; height:2.509ex;" alt="f" /></span> can be written as a sum of multiples of the simplest periodic functions, which are <a href="/wiki/Sine" title="Sine">sines</a> and <a href="/wiki/Cosine" class="mw-redirect" title="Cosine">cosines</a> (of different <a href="/wiki/Frequencies" class="mw-redirect" title="Frequencies">frequencies</a>). To find out how much (the <a href="/wiki/Amplitude" title="Amplitude">amplitude</a>) of each simple function goes into <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>f</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle f}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/132e57acb643253e7810ee9702d9581f159a1c61" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:1.289ex; height:2.509ex;" alt="f" /></span>, one applies the <a href="/wiki/Fourier_transform" title="Fourier transform">Fourier transform</a>: at each point the value of this transform is obtained by computing a particular integral involving a modified version of <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>f</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle f}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/132e57acb643253e7810ee9702d9581f159a1c61" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:1.289ex; height:2.509ex;" alt="f" /></span>.</p>
+<p>The simplest modes to analyse are the radial ones; however most solar modes are non-radial. A nonradial mode is characterized by three wavenumbers: the spherical-harmonic degree <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>l</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle l}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/829091f745070b9eb97a80244129025440a1cfac" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:0.704ex; height:2.176ex;" alt="l" /></span> and azimuthal order <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>m</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle m}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0a07d98bb302f3856cbabc47b2b9016692e3f7bc" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:2.051ex; height:1.676ex;" alt="m" /></span> which determine the behaviour of the mode over the surface of the star and the radial order <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>n</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle n}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a601995d55609f2d9f5e233e36fbe9ea26011b3b" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.405ex; height:1.676ex;" alt="n" /></span> which reflects the properties in the radial direction (see the diagram on the top right for an example). Note that if the Sun were <a href="/wiki/Spherically_symmetric" class="mw-redirect" title="Spherically symmetric">spherically symmetric</a>, the azimuthal order would exhibit <a href="/wiki/Degeneracy_(mathematics)" title="Degeneracy (mathematics)">degeneracy</a>; however the rotation of the Sun (along with other perturbations), which leads to an equatorial bulge, lifts this degeneracy. By convention, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>n</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle n}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a601995d55609f2d9f5e233e36fbe9ea26011b3b" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.405ex; height:1.676ex;" alt="n" /></span> corresponds to the number of nodes of the radial <a href="/wiki/Eigenfunction" title="Eigenfunction">eigenfunction</a>, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>l</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle l}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/829091f745070b9eb97a80244129025440a1cfac" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:0.704ex; height:2.176ex;" alt="l" /></span> indicates the total number of <a href="/wiki/Nodal_line" class="mw-redirect" title="Nodal line">nodal lines</a> on spheres, and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>m</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle m}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0a07d98bb302f3856cbabc47b2b9016692e3f7bc" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:2.051ex; height:1.676ex;" alt="m" /></span> tells how many of these nodal lines cross the equator.</p>
+<p>In general the frequencies <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>&#x03C9;<!-- ω --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>n</mi>
+            <mi>l</mi>
+            <mi>m</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \omega _{nlm}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/146dc5682e917e1259cba4e2c264e54b50881162" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:4.63ex; height:2.009ex;" alt="\omega _{{nlm}}" /></span> of stellar oscillations depend on all three wave numbers. It is convenient, however, to <a href="/wiki/Frequency_separation" title="Frequency separation">separate the frequency</a> into the <i>multiplet</i> frequency <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>&#x03C9;<!-- ω --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>n</mi>
+            <mi>l</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \omega _{nl}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d88ca7c450b7779a92b02bd45dc10bb3b7fdca35" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:3.18ex; height:2.009ex;" alt="\omega _{{nl}}" /></span>, obtained as a suitable average over azimuthal order <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>m</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle m}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0a07d98bb302f3856cbabc47b2b9016692e3f7bc" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:2.051ex; height:1.676ex;" alt="m" /></span> and corresponding to the spherically symmetric structure of the star, and the <i>frequency splitting</i> <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>&#x03B4;<!-- δ --></mi>
+        <msub>
+          <mi>&#x03C9;<!-- ω --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>n</mi>
+            <mi>l</mi>
+            <mi>m</mi>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <msub>
+          <mi>&#x03C9;<!-- ω --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>n</mi>
+            <mi>l</mi>
+            <mi>m</mi>
+          </mrow>
+        </msub>
+        <mo>&#x2212;<!-- − --></mo>
+        <msub>
+          <mi>&#x03C9;<!-- ω --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>n</mi>
+            <mi>l</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \delta \omega _{nlm}=\omega _{nlm}-\omega _{nl}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5ac041408cc088d2325e087eb6f804e6ee7c7d7b" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:19.458ex; height:2.676ex;" alt="{\displaystyle \delta \omega _{nlm}=\omega _{nlm}-\omega _{nl}}" /></span>.</p>
+<p>Analyses of oscillation data must attempt to separate these different frequency components. In the case of the Sun the oscillations can be observed directly as functions of position on the solar disk as well as time. Thus here it is possible to analyze their spatial properties. This is done by means of a generalized 2-dimensional <a href="/wiki/Fourier_transform" title="Fourier transform">Fourier transform</a> in position on the solar surface, to isolate particular values of <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>l</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle l}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/829091f745070b9eb97a80244129025440a1cfac" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:0.704ex; height:2.176ex;" alt="l" /></span> and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>m</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle m}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0a07d98bb302f3856cbabc47b2b9016692e3f7bc" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:2.051ex; height:1.676ex;" alt="m" /></span>. This is followed by a Fourier transform in time which isolates the frequencies of the modes of that type. In fact, the average over the stellar surface implicit in observations of stellar oscillations can be thought of as one example of such a spatial Fourier transform.</p>
+<p>Note that the oscillation data, rather than a continuous function, amount to values constrained by experimental error evaluated at a grid of positions and times. When computing transforms, values of this "function" outside this grid have to be interpolated and the integrals approximated by finite sums, a process inevitably introducing further errors. Details of the numerical methods used are included with the transformed data for purposes of comparison and constraining errors.</p>
+<p>This discussion is adapted from the <a href="/wiki/Christensen-Dalsgaard" class="mw-redirect" title="Christensen-Dalsgaard">Jørgen Christensen-Dalsgaard</a> lecture notes on stellar oscillations.<sup id="cite_ref-Dalsgaard2003_26-0" class="reference"><a href="#cite_note-Dalsgaard2003-26">[26]</a></sup></p>
+<h2><span class="mw-headline" id="Inversion">Inversion</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Helioseismology&amp;action=edit&amp;section=3" title="Edit section: Inversion">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:299px;"><a href="/wiki/File:Tachocline.gif" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/8/86/Tachocline.gif" width="297" height="314" class="thumbimage" data-file-width="297" data-file-height="314" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Tachocline.gif" class="internal" title="Enlarge"></a></div>
+Internal rotation in the Sun, showing differential rotation in the outer convective region and almost uniform rotation in the central radiative region. The transition between these regions is called the tachocline.</div>
+</div>
+</div>
+<p>Information about helioseismic waves (such as mode frequencies and frequency-splitting) collected by transforming the oscillation data can be used to infer numerical details of internal features of the Sun such as the internal sound speed and the internal <a href="/wiki/Differential_rotation" title="Differential rotation">differential rotation</a>. Equations and analytic relations such as integrals can be manipulated to relate the desired internal properties to the transformed data. The numerical methods used are adapted to the particular internal features examined so as to extract the maximum amount of information, with the least error, from the oscillations about the internal features. This process is termed <i>helioseismic inversion</i>.</p>
+<p>As an example in slightly more detail, the oscillation frequency splitting can be related, via an integral, to the angular velocity within the sun.<sup id="cite_ref-Dalsgaard2003_26-1" class="reference"><a href="#cite_note-Dalsgaard2003-26">[26]</a></sup></p>
+<h2><span class="mw-headline" id="Internal_structure">Internal structure</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Helioseismology&amp;action=edit&amp;section=4" title="Edit section: Internal structure">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Helioseismic observations reveal the inner uniformly rotating zone and the <a href="/wiki/Differential_rotation" title="Differential rotation">differentially rotating</a> envelope of the Sun, roughly corresponding to the <a href="/wiki/Radiation_zone" title="Radiation zone">radiation</a> and <a href="/wiki/Convection_zone" title="Convection zone">convection</a> zones, respectively.<sup id="cite_ref-Thompson2003_10-1" class="reference"><a href="#cite_note-Thompson2003-10">[10]</a></sup> See the diagram on the right. The transition layer is called the <a href="/wiki/Tachocline" title="Tachocline">tachocline</a>.</p>
+<h2><span class="mw-headline" id="Helioseismic_dating">Helioseismic dating</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Helioseismology&amp;action=edit&amp;section=5" title="Edit section: Helioseismic dating">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The age of the sun can be inferred with helioseismic studies.<sup id="cite_ref-bonannoetal2002_27-0" class="reference"><a href="#cite_note-bonannoetal2002-27">[27]</a></sup> This is because the propagation of acoustic waves deep within the sun depends on the composition of the sun, in particular the relative abundance of helium and hydrogen in the core. Since the sun has been fusing hydrogen into helium throughout its lifetime, the present day abundance of helium in the core can be used to infer the age of the sun, using <a href="/wiki/Stellar_structure" title="Stellar structure">numerical models of stellar evolution</a> applied to the Sun (<a href="/wiki/Standard_solar_model" title="Standard solar model">standard solar model</a>). This method provides verification of the age of the solar system gathered from the radiometric dating of meteorites.<sup id="cite_ref-Guenther1995_28-0" class="reference"><a href="#cite_note-Guenther1995-28">[28]</a></sup></p>
+<h2><span class="mw-headline" id="Local_helioseismology">Local helioseismology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Helioseismology&amp;action=edit&amp;section=6" title="Edit section: Local helioseismology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The goal of <i>local helioseismology</i>, a term first used in 1993,<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">[29]</a></sup> is to interpret the full wave field observed at the surface, not just the mode (more precisely, <a href="/wiki/Eigenmode" class="mw-redirect" title="Eigenmode">eigenmode</a>) frequencies. Another way to look at it, is that global helioseismology studies standing waves of the entire Sun and local helioseismology studies propagating waves in parts of the Sun. A variety of solar phenomena are being studied, including <a href="/wiki/Sunspots" class="mw-redirect" title="Sunspots">sunspots</a>, <a href="/wiki/Plage_(astronomy)" title="Plage (astronomy)">plage</a>, <a href="/wiki/Supergranulation" title="Supergranulation">supergranulation</a>, giant cell convection, magnetically active region evolution, <a href="/wiki/Meridional" class="mw-redirect" title="Meridional">meridional</a> circulation, and <a href="/wiki/Solar_rotation" title="Solar rotation">solar rotation</a>.<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">[30]</a></sup> Local helioseismology provides a three-dimensional view of the solar interior, which is important to understand large-scale flows, magnetic structures, and their interactions in the solar interior.</p>
+<p>There are many techniques used in this new and expanding field, which include:</p>
+<ul>
+<li>Fourier–Hankel spectral method, first introduced by Braun and Duvall,<sup id="cite_ref-Braun1987_31-0" class="reference"><a href="#cite_note-Braun1987-31">[31]</a></sup> was originally used to search for wave absorption by sunspots.</li>
+<li>Ring-diagram analysis, first introduced by F. Hill,<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">[32]</a></sup> is used to infer the speed and direction of horizontal flows below the solar surface by observing the Doppler shifts of ambient acoustic waves from power spectra of solar oscillations computed over patches of the solar surface (typically 15° × 15°). Thus ring analysis is a generalization of global helioseismology applied to local areas on the Sun (as opposed to half of the Sun). For example, sound speed and <a href="/wiki/Adiabatic_index" class="mw-redirect" title="Adiabatic index">adiabatic index</a> can be compared within magnetically active and inactive (<b>quiet Sun</b>) regions.<sup id="cite_ref-33" class="reference"><a href="#cite_note-33">[33]</a></sup></li>
+<li>Time-distance helioseismology, introduced by Duvall et al.,<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">[34]</a></sup> aims to measure and interpret the travel times of solar waves between any two locations on the solar surface. A travel time anomaly contains the seismic signature of buried inhomogeneities within the proximity of the ray path that connects two surface locations. An inverse problem must then be solved to infer the local structure and dynamics of the solar interior.<sup id="cite_ref-Jensen2003_35-0" class="reference"><a href="#cite_note-Jensen2003-35">[35]</a></sup></li>
+<li>Helioseismic holography, introduced in detail by Lindsey and Braun for the purpose of far-side (magnetic) imaging,<sup id="cite_ref-Braun2001_16-1" class="reference"><a href="#cite_note-Braun2001-16">[16]</a></sup> a special case of phase-sensitive holography. The idea is to use the wavefield on the visible disk to learn about active regions on the far side of the Sun. The basic idea in helioseismic holography is that the wavefield, e.g., the line-of-sight Doppler velocity observed at the solar surface, can be used to make an estimate of the wavefield at any location in the solar interior at any instant in time. In this sense, holography is much like <a href="/wiki/Seismic_migration" title="Seismic migration">seismic migration</a>, a technique in geophysics that has been in use since the 1940s. As another example, this technique has been used to give a seismic image of a solar flare.<sup id="cite_ref-36" class="reference"><a href="#cite_note-36">[36]</a></sup> Acoustic holography, applied to MDI data, is ideal for the detection of sources and sinks of acoustic waves on the Sun. Braun and Fan <sup id="cite_ref-37" class="reference"><a href="#cite_note-37">[37]</a></sup> discovered a region of lower acoustic emission in the 3 – 4 mHz frequency band which extends far beyond the sunspots (the ‘acoustic moat’). Acoustic moats extend beyond magnetic regions into the quiet Sun. In addition, Braun and Lindsey <sup id="cite_ref-38" class="reference"><a href="#cite_note-38">[38]</a></sup> discovered high-frequency emission (‘acoustic glories’) surrounding active regions.</li>
+<li>Direct modelling, after Woodard.<sup id="cite_ref-Woodard2002_39-0" class="reference"><a href="#cite_note-Woodard2002-39">[39]</a></sup> Here the idea is to estimate subsurface flows from direct inversion of the frequency-wavenumber correlations seen in the wavefield in the Fourier domain. Woodard<sup id="cite_ref-Woodard2002_39-1" class="reference"><a href="#cite_note-Woodard2002-39">[39]</a></sup> gave a practical demonstration of the ability of the technique to recover near-surface flows from the f-mode part of the spectrum.</li>
+</ul>
+<p>This section is adapted from Laurent Gizon and Aaron C. Birch, "Local Helioseismology", Living Rev. Solar Phys. 2, (2005), 6. <a rel="nofollow" class="external text" href="http://solarphysics.livingreviews.org/Articles/lrsp-2005-6/">online article</a> (cited on November 22, 2009).</p>
+<h2><span class="mw-headline" id="Jet_stream_movement_may_affect_solar_cycle">Jet stream movement may affect solar cycle</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Helioseismology&amp;action=edit&amp;section=7" title="Edit section: Jet stream movement may affect solar cycle">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>An internal jet stream moving behind schedule may explain the delayed start to the solar cycle in 2009.<sup id="cite_ref-40" class="reference"><a href="#cite_note-40">[40]</a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Helioseismology&amp;action=edit&amp;section=8" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/160-minute_solar_cycle" title="160-minute solar cycle">160-minute solar cycle</a></li>
+<li><a href="/wiki/Asteroseismology" title="Asteroseismology">Asteroseismology</a></li>
+<li><a href="/wiki/Differential_rotation" title="Differential rotation">Differential rotation</a></li>
+<li><a href="/wiki/Diskoseismology" class="mw-redirect" title="Diskoseismology">Diskoseismology</a></li>
+<li><a href="/wiki/Magnetogravity_wave" title="Magnetogravity wave">Magnetogravity wave</a></li>
+<li><a href="/wiki/Moreton_wave" title="Moreton wave">Moreton wave</a></li>
+<li><a href="/wiki/Solar_neutrino_problem" title="Solar neutrino problem">Solar neutrino problem</a></li>
+<li><a href="/wiki/Solar_tower_(astronomy)" title="Solar tower (astronomy)">Solar tower (astronomy)</a></li>
+<li><a href="/wiki/Stellar_rotation" title="Stellar rotation">Stellar rotation</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Helioseismology&amp;action=edit&amp;section=9" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-Deubner1984-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-Deubner1984_1-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Deubner, F.L.; Gough, D.O. (1984). "Helioseismology: Oscillations as a Diagnostic of the Solar Interior". <i>Annual Reviews of Astronomy and Astrophysics</i>. <b>22</b>: 593–619. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/1984ARA&amp;A..22..593D">1984ARA&amp;A..22..593D</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1146%2Fannurev.aa.22.090184.003113">10.1146/annurev.aa.22.090184.003113</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHelioseismology&amp;rft.atitle=Helioseismology%3A+Oscillations+as+a+Diagnostic+of+the+Solar+Interior&amp;rft.au=Deubner%2C+F.L.&amp;rft.au=Gough%2C+D.O.&amp;rft.date=1984&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F1984ARA%26A..22..593D&amp;rft_id=info%3Adoi%2F10.1146%2Fannurev.aa.22.090184.003113&amp;rft.jtitle=Annual+Reviews+of+Astronomy+and+Astrophysics&amp;rft.pages=593-619&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=22" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Gough1985-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-Gough1985_2-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Gough, D.O. (1985). "Beginnings of asteroseismology". <i>Nature</i>. <b>314</b>: 14–15. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/1985Natur.314...14G">1985Natur.314...14G</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1038%2F314014a0">10.1038/314014a0</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHelioseismology&amp;rft.atitle=Beginnings+of+asteroseismology&amp;rft.au=Gough%2C+D.O.&amp;rft.date=1985&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F1985Natur.314...14G&amp;rft_id=info%3Adoi%2F10.1038%2F314014a0&amp;rft.jtitle=Nature&amp;rft.pages=14-15&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=314" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Roberts1989-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-Roberts1989_3-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Campbell, W.R.; Roberts, B. (March 1989). "The influence of a chromospheric magnetic field on the solar p- and f-modes". <i>Astrophysical Journal</i>. <b>338</b>: 538–556. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/1989ApJ...338..538C">1989ApJ...338..538C</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1086%2F167216">10.1086/167216</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHelioseismology&amp;rft.atitle=The+influence+of+a+chromospheric+magnetic+field+on+the+solar+p-+and+f-modes&amp;rft.au=Campbell%2C+W.R.&amp;rft.au=Roberts%2C+B.&amp;rft.date=1989-03&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F1989ApJ...338..538C&amp;rft_id=info%3Adoi%2F10.1086%2F167216&amp;rft.jtitle=Astrophysical+Journal&amp;rft.pages=538-556&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=338" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Keeley1977-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-Keeley1977_4-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Goldreich, P.; Keeley, D.A. (February 1977). "Solar seismology. II - The stochastic excitation of the solar p-modes by turbulent convection". <i>Astrophysical Journal</i>. <b>212</b>: 243–251. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/1977ApJ...212..243G">1977ApJ...212..243G</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1086%2F155043">10.1086/155043</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHelioseismology&amp;rft.atitle=Solar+seismology.+II+-+The+stochastic+excitation+of+the+solar+p-modes+by+turbulent+convection&amp;rft.au=Goldreich%2C+P.&amp;rft.au=Keeley%2C+D.A.&amp;rft.date=1977-02&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F1977ApJ...212..243G&amp;rft_id=info%3Adoi%2F10.1086%2F155043&amp;rft.jtitle=Astrophysical+Journal&amp;rft.pages=243-251&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=212" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-jcd1985-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-jcd1985_5-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">ChristensenDalsgaard, J.; Duvall Jr., T.L.; Gough, D.O.; Harvey, J.W.; Rhodes Jr, E.J. (May 1985). "Speed of sound in the solar interior". <i>Nature</i>. <b>315</b>: 378–382. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/1985Natur.315..378C">1985Natur.315..378C</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1038%2F315378a0">10.1038/315378a0</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHelioseismology&amp;rft.atitle=Speed+of+sound+in+the+solar+interior&amp;rft.au=ChristensenDalsgaard%2C+J.&amp;rft.au=Duvall+Jr.%2C+T.L.&amp;rft.au=Gough%2C+D.O.&amp;rft.au=Harvey%2C+J.W.&amp;rft.au=Rhodes+Jr%2C+E.J.&amp;rft.date=1985-05&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F1985Natur.315..378C&amp;rft_id=info%3Adoi%2F10.1038%2F315378a0&amp;rft.jtitle=Nature&amp;rft.pages=378-382&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=315" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-duvall1984-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-duvall1984_6-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Duvall Jr., T.L.; Dziembowski, W.A.; Goode, P.R.; Gough, D.O.; Harvey, J.W.; Leibacher, J.W. (July 1984). "Internal rotation of the sun". <i>Nature</i>. <b>310</b>: 22–25. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/1984Natur.310...22D">1984Natur.310...22D</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1038%2F310022a0">10.1038/310022a0</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHelioseismology&amp;rft.atitle=Internal+rotation+of+the+sun&amp;rft.au=Duvall+Jr.%2C+T.L.&amp;rft.au=Dziembowski%2C+W.A.&amp;rft.au=Goode%2C+P.R.&amp;rft.au=Gough%2C+D.O.&amp;rft.au=Harvey%2C+J.W.&amp;rft.au=Leibacher%2C+J.W.&amp;rft.date=1984-07&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F1984Natur.310...22D&amp;rft_id=info%3Adoi%2F10.1038%2F310022a0&amp;rft.jtitle=Nature&amp;rft.pages=22-25&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=310" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Gough1991-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-Gough1991_7-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Gough, D.O. (1991). "Seismic constraints on the solar neutrino problem". <i>Annals of the New York Academy of Sciences</i>. <b>647</b>: 199–217. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/1991NYASA.647..199G">1991NYASA.647..199G</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1111%2Fj.1749-6632.1991.tb32171.x">10.1111/j.1749-6632.1991.tb32171.x</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHelioseismology&amp;rft.atitle=Seismic+constraints+on+the+solar+neutrino+problem&amp;rft.au=Gough%2C+D.O.&amp;rft.date=1991&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F1991NYASA.647..199G&amp;rft_id=info%3Adoi%2F10.1111%2Fj.1749-6632.1991.tb32171.x&amp;rft.jtitle=Annals+of+the+New+York+Academy+of+Sciences&amp;rft.pages=199-217&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=647" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Bahcall1997-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-Bahcall1997_8-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Bahcall, J.N.; Pinsonneault, M.H.; Basu, S.; Christensen-Dalsgaard, J. (January 1997). "Are Standard Solar Models Reliable?". <i>Physical Review Letters</i>. <b>78</b> (2): 171–174. <a href="/wiki/ArXiv" title="ArXiv">arXiv</a>:<span class="plainlinks"><a rel="nofollow" class="external text" href="//arxiv.org/abs/astro-ph/9610250">astro-ph/9610250</a><span style="margin-left:0.1em"><img alt="Freely accessible" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" title="Freely accessible" width="9" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" data-file-width="512" data-file-height="813" /></span></span>. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/1997PhRvL..78..171B">1997PhRvL..78..171B</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1103%2FPhysRevLett.78.171">10.1103/PhysRevLett.78.171</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHelioseismology&amp;rft.atitle=Are+Standard+Solar+Models+Reliable%3F&amp;rft.au=Bahcall%2C+J.N.&amp;rft.au=Basu%2C+S.&amp;rft.au=Christensen-Dalsgaard%2C+J.&amp;rft.au=Pinsonneault%2C+M.H.&amp;rft.date=1997-01&amp;rft.genre=article&amp;rft_id=info%3Aarxiv%2Fastro-ph%2F9610250&amp;rft_id=info%3Abibcode%2F1997PhRvL..78..171B&amp;rft_id=info%3Adoi%2F10.1103%2FPhysRevLett.78.171&amp;rft.issue=2&amp;rft.jtitle=Physical+Review+Letters&amp;rft.pages=171-174&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=78" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Gough1999-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-Gough1999_9-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Gough, D.O. (May 1999). "Helioseismology and solar neutrinos". <i>Nuclear Physics B Proc. Suppl</i>. <b>77</b>: 81–88. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/1999NuPhS..77...81G">1999NuPhS..77...81G</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2FS0920-5632%2899%2900401-6">10.1016/S0920-5632(99)00401-6</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHelioseismology&amp;rft.atitle=Helioseismology+and+solar+neutrinos&amp;rft.au=Gough%2C+D.O.&amp;rft.date=1999-05&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F1999NuPhS..77...81G&amp;rft_id=info%3Adoi%2F10.1016%2FS0920-5632%2899%2900401-6&amp;rft.jtitle=Nuclear+Physics+B+Proc.+Suppl.&amp;rft.pages=81-88&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=77" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Thompson2003-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-Thompson2003_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Thompson2003_10-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Thompson, M.J.; Christensen-Dalsgaard, J.; Miesch, M.S.; Toomre, J. (2003). "The Internal Rotation of the Sun". <i>Annual Review of Astronomy &amp; Astrophysics</i>. <b>41</b> (1): 599–643. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2003ARA&amp;A..41..599T">2003ARA&amp;A..41..599T</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1146%2Fannurev.astro.41.011802.094848">10.1146/annurev.astro.41.011802.094848</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHelioseismology&amp;rft.atitle=The+Internal+Rotation+of+the+Sun&amp;rft.au=Christensen-Dalsgaard%2C+J.&amp;rft.au=Miesch%2C+M.S.&amp;rft.au=Thompson%2C+M.J.&amp;rft.au=Toomre%2C+J.&amp;rft.date=2003&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F2003ARA%26A..41..599T&amp;rft_id=info%3Adoi%2F10.1146%2Fannurev.astro.41.011802.094848&amp;rft.issue=1&amp;rft.jtitle=Annual+Review+of+Astronomy+%26+Astrophysics&amp;rft.pages=599-643&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=41" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation journal">Ossendrijver, M. (2003). "The solar dynamo". <i>The Astronomy and Astrophysics Review</i>. <b>11</b> (4): 287–367. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2003A&amp;ARv..11..287O">2003A&amp;ARv..11..287O</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1007%2Fs00159-003-0019-3">10.1007/s00159-003-0019-3</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHelioseismology&amp;rft.atitle=The+solar+dynamo&amp;rft.au=Ossendrijver%2C+M.&amp;rft.date=2003&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F2003A%26ARv..11..287O&amp;rft_id=info%3Adoi%2F10.1007%2Fs00159-003-0019-3&amp;rft.issue=4&amp;rft.jtitle=The+Astronomy+and+Astrophysics+Review&amp;rft.pages=287-367&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=11" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation journal">Spiegel, E.A.; Zahn, J.-P. (November 1992). "The solar tachocline". <i>Astronomy and Astrophysics</i>. <b>265</b>: 106–114. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/1992A&amp;A...265..106S">1992A&amp;A...265..106S</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHelioseismology&amp;rft.atitle=The+solar+tachocline&amp;rft.au=Spiegel%2C+E.A.&amp;rft.au=Zahn%2C+J.-P.&amp;rft.date=1992-11&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F1992A%26A...265..106S&amp;rft.jtitle=Astronomy+and+Astrophysics&amp;rft.pages=106-114&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=265" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation journal">Gough, D.O.; McIntyre, M.E. (August 1998). "Inevitability of a magnetic field in the Sun's radiative interior". <i>Nature</i>. <b>394</b>: 755–757. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/1998Natur.394..755G">1998Natur.394..755G</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1038%2F29472">10.1038/29472</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHelioseismology&amp;rft.atitle=Inevitability+of+a+magnetic+field+in+the+Sun%27s+radiative+interior&amp;rft.au=Gough%2C+D.O.&amp;rft.au=McIntyre%2C+M.E.&amp;rft.date=1998-08&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F1998Natur.394..755G&amp;rft_id=info%3Adoi%2F10.1038%2F29472&amp;rft.jtitle=Nature&amp;rft.pages=755-757&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=394" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation journal">Vorontsov, S.V.; Christensen-Dalsgaard, J.; Schou, J.; Strakhov, V.N.; Thompson, M.J. (April 2002). "Helioseismic Measurement of Solar Torsional Oscillations". <i>Science</i>. <b>296</b> (5565): 101–103. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2002Sci...296..101V">2002Sci...296..101V</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1126%2Fscience.1069190">10.1126/science.1069190</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/11935019">11935019</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHelioseismology&amp;rft.atitle=Helioseismic+Measurement+of+Solar+Torsional+Oscillations&amp;rft.au=Christensen-Dalsgaard%2C+J.&amp;rft.au=Schou%2C+J.&amp;rft.au=Strakhov%2C+V.N.&amp;rft.au=Thompson%2C+M.J.&amp;rft.au=Vorontsov%2C+S.V.&amp;rft.date=2002-04&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F2002Sci...296..101V&amp;rft_id=info%3Adoi%2F10.1126%2Fscience.1069190&amp;rft_id=info%3Apmid%2F11935019&amp;rft.issue=5565&amp;rft.jtitle=Science&amp;rft.pages=101-103&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=296" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation journal">Howard, R.; Labonte, B.J. (July 1980). "The sun is observed to be a torsional oscillator with a period of 11 years". <i>Astrophysical Journal</i>. <b>239</b>: L33–L36. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/1980ApJ...239L..33H">1980ApJ...239L..33H</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1086%2F183286">10.1086/183286</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHelioseismology&amp;rft.atitle=The+sun+is+observed+to+be+a+torsional+oscillator+with+a+period+of+11+years&amp;rft.au=Howard%2C+R.&amp;rft.au=Labonte%2C+B.J.&amp;rft.date=1980-07&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F1980ApJ...239L..33H&amp;rft_id=info%3Adoi%2F10.1086%2F183286&amp;rft.jtitle=Astrophysical+Journal&amp;rft.pages=L33-L36&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=239" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Braun2001-16"><span class="mw-cite-backlink">^ <a href="#cite_ref-Braun2001_16-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Braun2001_16-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Braun, D.C.; Lindsey, C. (October 2001). "Seismic Imaging of the Far Hemisphere of the Sun". <i>The Astrophysical Journal</i>. <b>560</b> (2): L189–L192. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2001ApJ...560L.189B">2001ApJ...560L.189B</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1086%2F324323">10.1086/324323</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHelioseismology&amp;rft.atitle=Seismic+Imaging+of+the+Far+Hemisphere+of+the+Sun&amp;rft.au=Braun%2C+D.C.&amp;rft.au=Lindsey%2C+C.&amp;rft.date=2001-10&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F2001ApJ...560L.189B&amp;rft_id=info%3Adoi%2F10.1086%2F324323&amp;rft.issue=2&amp;rft.jtitle=The+Astrophysical+Journal&amp;rft.pages=L189-L192&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=560" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation journal">Lindsey, C.; Braun, D.C. (March 1990). "Helioseismic imaging of sunspots at their antipodes". <i>Solar Physics</i>. <b>126</b> (1): 101–115. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/1990SoPh..126..101L">1990SoPh..126..101L</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1007%2FBF00158301">10.1007/BF00158301</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHelioseismology&amp;rft.atitle=Helioseismic+imaging+of+sunspots+at+their+antipodes&amp;rft.au=Braun%2C+D.C.&amp;rft.au=Lindsey%2C+C.&amp;rft.date=1990-03&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F1990SoPh..126..101L&amp;rft_id=info%3Adoi%2F10.1007%2FBF00158301&amp;rft.issue=1&amp;rft.jtitle=Solar+Physics&amp;rft.pages=101-115&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=126" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation journal">Rabello-Soares, M.C.; Korzennik, S.G.; Schou, J. (January 2001). "The determination of MDI high-degree mode frequencies". <i>In: Proceedings of the SOHO 10/GONG 2000 Workshop: Helio- and asteroseismology at the dawn of the millennium</i>. ESA Special Publication. <b>464</b>: 129–136. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2001ESASP.464..129R">2001ESASP.464..129R</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHelioseismology&amp;rft.atitle=The+determination+of+MDI+high-degree+mode+frequencies&amp;rft.au=Korzennik%2C+S.G.&amp;rft.au=Rabello-Soares%2C+M.C.&amp;rft.au=Schou%2C+J.&amp;rft.date=2001-01&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F2001ESASP.464..129R&amp;rft.jtitle=In%3A+Proceedings+of+the+SOHO+10%2FGONG+2000+Workshop%3A+Helio-+and+asteroseismology+at+the+dawn+of+the+millennium&amp;rft.pages=129-136&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=464" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation journal">Elsworth, Y.P; Howe, R.; Isaak, G.R.; McLeod, C,P.; New, R. (July 1991). "Low-l p-mode solar eigenfrequency measurements from the Birmingham Network". <i>Monthly Notices of the Royal Astronomical Society</i>. <b>251</b>: 7P–9P. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/1991MNRAS.251P...7E">1991MNRAS.251P...7E</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1093%2Fmnras%2F251.1.7P">10.1093/mnras/251.1.7P</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHelioseismology&amp;rft.atitle=Low-l+p-mode+solar+eigenfrequency+measurements+from+the+Birmingham+Network&amp;rft.au=Elsworth%2C+Y.P&amp;rft.au=Howe%2C+R.&amp;rft.au=Isaak%2C+G.R.&amp;rft.au=McLeod%2C+C%2CP.&amp;rft.au=New%2C+R.&amp;rft.date=1991-07&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F1991MNRAS.251P...7E&amp;rft_id=info%3Adoi%2F10.1093%2Fmnras%2F251.1.7P&amp;rft.jtitle=Monthly+Notices+of+the+Royal+Astronomical+Society&amp;rft.pages=7P-9P&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=251" class="Z3988"><span style="display:none;">&#160;</span></span> <span class="citation-comment" style="display:none; color:#33aa33">CS1 maint: Multiple names: authors list (<a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">link</a>)</span></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation journal">Garcia, R.A.; Regulo, C.; Turck-Chieze, S.; Bertello, L.; Kosovichev, A.G.; Brun, A.S.; Couvidat, S.; Henney, C.J.; Lazrek, M.; Ulrich, R.K.; Varadi, F. (May 2001). "Low-Degree Low-Order Solar p Modes As Seen By GOLF On board SOHO". <i>Solar Physics</i>. <b>20</b>: 361–379. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2001SoPh..200..361G">2001SoPh..200..361G</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1023%2FA%3A1010344721148">10.1023/A:1010344721148</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHelioseismology&amp;rft.atitle=Low-Degree+Low-Order+Solar+p+Modes+As+Seen+By+GOLF+On+board+SOHO&amp;rft.au=Bertello%2C+L.&amp;rft.au=Brun%2C+A.S.&amp;rft.au=Couvidat%2C+S.&amp;rft.au=Garcia%2C+R.A.&amp;rft.au=Henney%2C+C.J.&amp;rft.au=Kosovichev%2C+A.G.&amp;rft.au=Lazrek%2C+M.&amp;rft.au=Regulo%2C+C.&amp;rft.au=Turck-Chieze%2C+S.&amp;rft.au=Ulrich%2C+R.K.&amp;rft.au=Varadi%2C+F.&amp;rft.date=2001-05&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F2001SoPh..200..361G&amp;rft_id=info%3Adoi%2F10.1023%2FA%3A1010344721148&amp;rft.jtitle=Solar+Physics&amp;rft.pages=361-379&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=20" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.springerlink.com/content/xt03jqk462770337/">http://www.springerlink.com/content/xt03jqk462770337/</a></span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation journal">Garcia, R.A.; Turck-Chieze, S.; Jimenez-Reyes, S.J.; Ballot, J.; Palle, P.L.; Eff-Darwich, A.; Mathur, S.; Provost, J. (June 2007). "Tracking Solar Gravity Modes: The Dynamics of the Solar Core". <i>Science</i>. <b>316</b> (5831): 1591–. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2007Sci...316.1591G">2007Sci...316.1591G</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1126%2Fscience.1140598">10.1126/science.1140598</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/17478682">17478682</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHelioseismology&amp;rft.atitle=Tracking+Solar+Gravity+Modes%3A+The+Dynamics+of+the+Solar+Core&amp;rft.au=Ballot%2C+J.&amp;rft.au=Eff-Darwich%2C+A.&amp;rft.au=Garcia%2C+R.A.&amp;rft.au=Jimenez-Reyes%2C+S.J.&amp;rft.au=Mathur%2C+S.&amp;rft.au=Palle%2C+P.L.&amp;rft.au=Provost%2C+J.&amp;rft.au=Turck-Chieze%2C+S.&amp;rft.date=2007-06&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F2007Sci...316.1591G&amp;rft_id=info%3Adoi%2F10.1126%2Fscience.1140598&amp;rft_id=info%3Apmid%2F17478682&amp;rft.issue=5831&amp;rft.jtitle=Science&amp;rft.pages=1591-&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=316" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation journal">Appourchaux, T.; Belkacem, K.; Broomhall, A. M.; Chaplin, W. J.; Gough, D. O.; Houdek, G.; Provost, J.; Baudin, F.; Boumier, P.; <a href="/wiki/Yvonne_Elsworth" title="Yvonne Elsworth">Elsworth, Y.</a>; García, R. A.; Andersen, B.; Finsterle, W.; Fröhlich, C.; Gabriel, A.; Grec, G.; Jiménez, A.; Kosovichev, A.; Sekii, T.; Toutain, T.; Turck-Chièze, S. (October 2009). "The quest for the solar g modes". <i>The Astronomy and Astrophysics Review</i>. <b>0910</b>: 848. <a href="/wiki/ArXiv" title="ArXiv">arXiv</a>:<span class="plainlinks"><a rel="nofollow" class="external text" href="//arxiv.org/abs/0910.0848">0910.0848</a><span style="margin-left:0.1em"><img alt="Freely accessible" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" title="Freely accessible" width="9" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" data-file-width="512" data-file-height="813" /></span></span> [<a rel="nofollow" class="external text" href="//arxiv.org/archive/astro-ph.SR">astro-ph.SR</a>]. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2010A&amp;ARv..18..197A">2010A&amp;ARv..18..197A</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1007%2Fs00159-009-0027-z">10.1007/s00159-009-0027-z</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHelioseismology&amp;rft.atitle=The+quest+for+the+solar+g+modes&amp;rft.au=Andersen%2C+B.&amp;rft.au=Baudin%2C+F.&amp;rft.au=Belkacem%2C+K.&amp;rft.au=Boumier%2C+P.&amp;rft.au=Broomhall%2C+A.+M.&amp;rft.au=Chaplin%2C+W.+J.&amp;rft.au=Elsworth%2C+Y.&amp;rft.au=Finsterle%2C+W.&amp;rft.aufirst=T.&amp;rft.au=Fr%C3%B6hlich%2C+C.&amp;rft.au=Gabriel%2C+A.&amp;rft.au=Garc%C3a%2C+R.+A.&amp;rft.au=Gough%2C+D.+O.&amp;rft.au=Grec%2C+G.&amp;rft.au=Houdek%2C+G.&amp;rft.au=Jim%C3%A9nez%2C+A.&amp;rft.au=Kosovichev%2C+A.&amp;rft.aulast=Appourchaux&amp;rft.au=Provost%2C+J.&amp;rft.au=Sekii%2C+T.&amp;rft.au=Toutain%2C+T.&amp;rft.au=Turck-Chi%C3%A8ze%2C+S.&amp;rft.date=2009-10&amp;rft.genre=article&amp;rft_id=info%3Aarxiv%2F0910.0848&amp;rft_id=info%3Abibcode%2F2010A%26ARv..18..197A&amp;rft_id=info%3Adoi%2F10.1007%2Fs00159-009-0027-z&amp;rft.jtitle=The+Astronomy+and+Astrophysics+Review&amp;rft.pages=848&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=0910" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Corbard2002-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-Corbard2002_24-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Corbard, T.; Thompson, M.J. (February 2002). "The subsurface radial gradient of solar angular velocity from MDI f-mode observations". <i>Solar Physics</i>. <b>205</b> (2): 211–229. <a href="/wiki/ArXiv" title="ArXiv">arXiv</a>:<span class="plainlinks"><a rel="nofollow" class="external text" href="//arxiv.org/abs/astro-ph/0110361">astro-ph/0110361</a><span style="margin-left:0.1em"><img alt="Freely accessible" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" title="Freely accessible" width="9" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" data-file-width="512" data-file-height="813" /></span></span>. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2002SoPh..205..211C">2002SoPh..205..211C</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1023%2FA%3A1014224523374">10.1023/A:1014224523374</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHelioseismology&amp;rft.atitle=The+subsurface+radial+gradient+of+solar+angular+velocity+from+MDI+f-mode+observations&amp;rft.au=Corbard%2C+T.&amp;rft.au=Thompson%2C+M.J.&amp;rft.date=2002-02&amp;rft.genre=article&amp;rft_id=info%3Aarxiv%2Fastro-ph%2F0110361&amp;rft_id=info%3Abibcode%2F2002SoPh..205..211C&amp;rft_id=info%3Adoi%2F10.1023%2FA%3A1014224523374&amp;rft.issue=2&amp;rft.jtitle=Solar+Physics&amp;rft.pages=211-229&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=205" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><cite id="CITEREFRhodesKosovichevSchou1997" class="citation">Rhodes, Jr. E. J.; Kosovichev, A. G.; Schou, J.; et al. (1997), "Measurements of Frequencies of Solar Oscillations from the MDI Medium-l Program", <i>Solar Physics</i>, <b>175</b>: 287, <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/1997SoPh..175..287R">1997SoPh..175..287R</a></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHelioseismology&amp;rft.atitle=Measurements+of+Frequencies+of+Solar+Oscillations+from+the+MDI+Medium-l+Program&amp;rft.aufirst=Jr.+E.+J.&amp;rft.au=Kosovichev%2C+A.+G.&amp;rft.aulast=Rhodes&amp;rft.au=Schou%2C+J.&amp;rft.date=1997&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F1997SoPh..175..287R&amp;rft.jtitle=Solar+Physics&amp;rft.pages=287&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=175" class="Z3988"><span style="display:none;">&#160;</span></span> <span class="citation-comment" style="display:none; color:#33aa33">CS1 maint: Explicit use of et al. (<a href="/wiki/Category:CS1_maint:_Explicit_use_of_et_al." title="Category:CS1 maint: Explicit use of et al.">link</a>)</span></span></li>
+<li id="cite_note-Dalsgaard2003-26"><span class="mw-cite-backlink">^ <a href="#cite_ref-Dalsgaard2003_26-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Dalsgaard2003_26-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Christensen-Dalsgaard, J., 2003, <a rel="nofollow" class="external text" href="http://www.phys.au.dk/~jcd/oscilnotes/">Lecture Notes on Stellar Oscillations. Fifth Edition</a>, lecture notes, University of Aarhus. Retrieved November 2009.</span></li>
+<li id="cite_note-bonannoetal2002-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-bonannoetal2002_27-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Bonanno, A.; Schlattl, H.; Paternò, L. (2002). "The age of the Sun and the relativistic corrections in the EOS". <i>Astronomy and Astrophysics</i>. <b>390</b> (3): 1115–1118. <a href="/wiki/ArXiv" title="ArXiv">arXiv</a>:<span class="plainlinks"><a rel="nofollow" class="external text" href="//arxiv.org/abs/astro-ph/0204331">astro-ph/0204331</a><span style="margin-left:0.1em"><img alt="Freely accessible" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" title="Freely accessible" width="9" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" data-file-width="512" data-file-height="813" /></span></span>. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2002A&amp;A...390.1115B">2002A&amp;A...390.1115B</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1051%2F0004-6361%3A20020749">10.1051/0004-6361:20020749</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHelioseismology&amp;rft.atitle=The+age+of+the+Sun+and+the+relativistic+corrections+in+the+EOS&amp;rft.aufirst=A.&amp;rft.aulast=Bonanno&amp;rft.au=Patern%C3%B2%2C+L.&amp;rft.au=Schlattl%2C+H.&amp;rft.date=2002&amp;rft.genre=article&amp;rft_id=info%3Aarxiv%2Fastro-ph%2F0204331&amp;rft_id=info%3Abibcode%2F2002A%26A...390.1115B&amp;rft_id=info%3Adoi%2F10.1051%2F0004-6361%3A20020749&amp;rft.issue=3&amp;rft.jtitle=Astronomy+and+Astrophysics&amp;rft.pages=1115-1118&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=390" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Guenther1995-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-Guenther1995_28-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Guenther, D.B. (April 1989). "Age of the sun". <i>Astrophysical Journal</i>. <b>339</b>: 1156–1159. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/1989ApJ...339.1156G">1989ApJ...339.1156G</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1086%2F167370">10.1086/167370</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHelioseismology&amp;rft.atitle=Age+of+the+sun&amp;rft.au=Guenther%2C+D.B.&amp;rft.date=1989-04&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F1989ApJ...339.1156G&amp;rft_id=info%3Adoi%2F10.1086%2F167370&amp;rft.jtitle=Astrophysical+Journal&amp;rft.pages=1156-1159&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=339" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><cite class="citation journal">Lindsey, C.; Braun, D.C.; Jefferies, S.M. (January 1993). T.M. Brown, ed. "<span style="padding-left:0.2em;">"</span>Local Helioseismology of Subsurface Structure" in "GONG 1992. Seismic Investigation of the Sun and Stars<span style="padding-right:0.2em;">"</span>". <i>GONG 1992. Seismic Investigation of the Sun and Stars. Proceedings of a Conference held in Boulder</i>. Astronomical Society of the Pacific Conference Series. <b>42</b>: 81–84. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/1993ASPC...42...81L">1993ASPC...42...81L</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-937707-61-9" title="Special:BookSources/0-937707-61-9">0-937707-61-9</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHelioseismology&amp;rft.atitle=%22Local+Helioseismology+of+Subsurface+Structure%22+in+%22GONG+1992.+Seismic+Investigation+of+the+Sun+and+Stars%22&amp;rft.au=Braun%2C+D.C.&amp;rft.au=Jefferies%2C+S.M.&amp;rft.au=Lindsey%2C+C.&amp;rft.date=1993-01&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F1993ASPC...42...81L&amp;rft.isbn=0-937707-61-9&amp;rft.jtitle=GONG+1992.+Seismic+Investigation+of+the+Sun+and+Stars.+Proceedings+of+a+Conference+held+in+Boulder&amp;rft.pages=81-84&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=42" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><cite class="citation journal">Duvall, Jr.; T.L. (1998). S. Korzennik, ed. "<span style="padding-left:0.2em;">"</span>Recent Results and Theoretical Advances in Local Helioseismology" in "Structure and Dynamics of the Interior of the Sun and Sun-like Stars<span style="padding-right:0.2em;">"</span>". <i>Structure and Dynamics of the Interior of the Sun and Sun-like Stars SOHO 6/GONG 98 Workshop Abstract</i>. ESA Special Publication. <b>418</b>: 581–585. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/1998ESASP.418..581D">1998ESASP.418..581D</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHelioseismology&amp;rft.atitle=%22Recent+Results+and+Theoretical+Advances+in+Local+Helioseismology%22+in+%22Structure+and+Dynamics+of+the+Interior+of+the+Sun+and+Sun-like+Stars%22&amp;rft.au=Duvall%2C+Jr.&amp;rft.au=T.L.&amp;rft.date=1998&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F1998ESASP.418..581D&amp;rft.jtitle=Structure+and+Dynamics+of+the+Interior+of+the+Sun+and+Sun-like+Stars+SOHO+6%2FGONG+98+Workshop+Abstract&amp;rft.pages=581-585&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=418" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Braun1987-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-Braun1987_31-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Braun, D.C.; Duvall, Jr., T.L.; Labonte, B.J. (August 1987). "Acoustic absorption by sunspots". <i>Astrophysical Journal</i>. <b>319</b>: L27–L31. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/1987ApJ...319L..27B">1987ApJ...319L..27B</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1086%2F184949">10.1086/184949</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHelioseismology&amp;rft.atitle=Acoustic+absorption+by+sunspots&amp;rft.au=Braun%2C+D.C.&amp;rft.au=Duvall%2C+Jr.%2C+T.L.&amp;rft.au=Labonte%2C+B.J.&amp;rft.date=1987-08&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F1987ApJ...319L..27B&amp;rft_id=info%3Adoi%2F10.1086%2F184949&amp;rft.jtitle=Astrophysical+Journal&amp;rft.pages=L27-L31&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=319" class="Z3988"><span style="display:none;">&#160;</span></span> <span class="citation-comment" style="display:none; color:#33aa33">CS1 maint: Multiple names: authors list (<a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">link</a>)</span></span></li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><cite class="citation journal">Hill, F. (October 1988). "Rings and trumpets - Three-dimensional power spectra of solar oscillations". <i>Astrophysical Journal</i>. <b>333</b>: 996–1013. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/1988ApJ...333..996H">1988ApJ...333..996H</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1086%2F166807">10.1086/166807</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHelioseismology&amp;rft.atitle=Rings+and+trumpets+-+Three-dimensional+power+spectra+of+solar+oscillations&amp;rft.au=Hill%2C+F.&amp;rft.date=1988-10&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F1988ApJ...333..996H&amp;rft_id=info%3Adoi%2F10.1086%2F166807&amp;rft.jtitle=Astrophysical+Journal&amp;rft.pages=996-1013&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=333" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><cite class="citation journal">Basu, S.; Antia, H.M.; Bogart, R.S. (August 2004). "Ring-Diagram Analysis of the Structure of Solar Active Regions". <i>The Astrophysical Journal</i>. <b>610</b> (2): 1157–1168. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2004ApJ...610.1157B">2004ApJ...610.1157B</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1086%2F421843">10.1086/421843</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHelioseismology&amp;rft.atitle=Ring-Diagram+Analysis+of+the+Structure+of+Solar+Active+Regions&amp;rft.au=Antia%2C+H.M.&amp;rft.au=Basu%2C+S.&amp;rft.au=Bogart%2C+R.S.&amp;rft.date=2004-08&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F2004ApJ...610.1157B&amp;rft_id=info%3Adoi%2F10.1086%2F421843&amp;rft.issue=2&amp;rft.jtitle=The+Astrophysical+Journal&amp;rft.pages=1157-1168&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=610" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><cite class="citation journal">Duvall, Jr., T.L.; Jefferies, S.M.; Harvey, J.W.; Pomerantz, M.A. (April 1993). "Time-distance helioseismology". <i>Nature</i>. <b>362</b> (6419): 430–432. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/1993Natur.362..430D">1993Natur.362..430D</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1038%2F362430a0">10.1038/362430a0</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHelioseismology&amp;rft.atitle=Time-distance+helioseismology&amp;rft.au=Duvall%2C+Jr.%2C+T.L.&amp;rft.au=Harvey%2C+J.W.&amp;rft.au=Jefferies%2C+S.M.&amp;rft.au=Pomerantz%2C+M.A.&amp;rft.date=1993-04&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F1993Natur.362..430D&amp;rft_id=info%3Adoi%2F10.1038%2F362430a0&amp;rft.issue=6419&amp;rft.jtitle=Nature&amp;rft.pages=430-432&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=362" class="Z3988"><span style="display:none;">&#160;</span></span> <span class="citation-comment" style="display:none; color:#33aa33">CS1 maint: Multiple names: authors list (<a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">link</a>)</span></span></li>
+<li id="cite_note-Jensen2003-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-Jensen2003_35-0">^</a></b></span> <span class="reference-text">Jensen, J.M., 2003, <a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/full/2003ESASP.517...61J">Time-distance: what does it tell us?</a>, in Local and Global Helioseismology: The Present and Future, (Ed.) Sawaya-Lacoste, H., Proceedings of SOHO 12/GONG+ 2002, 27 October - 1 November 2002, Big Bear Lake, California, U.S.A., vol. SP-517 of ESA Conference Proceedings, pp. 61–70, ESA Publications Division, Noordwijk</span></li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-36">^</a></b></span> <span class="reference-text"><cite class="citation journal">Donea, A.-C.; Braun, D.C.; Lindsey, C. (March 1999). "Seismic Images of a Solar Flare". <i>The Astrophysical Journal</i>. <b>513</b> (2): L143–L146. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/1999ApJ...513L.143D">1999ApJ...513L.143D</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1086%2F311915">10.1086/311915</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHelioseismology&amp;rft.atitle=Seismic+Images+of+a+Solar+Flare&amp;rft.au=Braun%2C+D.C.&amp;rft.au=Donea%2C+A.-C.&amp;rft.au=Lindsey%2C+C.&amp;rft.date=1999-03&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F1999ApJ...513L.143D&amp;rft_id=info%3Adoi%2F10.1086%2F311915&amp;rft.issue=2&amp;rft.jtitle=The+Astrophysical+Journal&amp;rft.pages=L143-L146&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=513" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-37">^</a></b></span> <span class="reference-text"><cite class="citation journal">Braun, D.C.; Fan, Y. (November 1998). "Helioseismic Measurements of the Subsurface Meridional Flow". <i>The Astrophysical Journal</i>. <b>508</b> (1): L105–L108. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/1998ApJ...508L.105B">1998ApJ...508L.105B</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1086%2F311727">10.1086/311727</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHelioseismology&amp;rft.atitle=Helioseismic+Measurements+of+the+Subsurface+Meridional+Flow&amp;rft.au=Braun%2C+D.C.&amp;rft.au=Fan%2C+Y.&amp;rft.date=1998-11&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F1998ApJ...508L.105B&amp;rft_id=info%3Adoi%2F10.1086%2F311727&amp;rft.issue=1&amp;rft.jtitle=The+Astrophysical+Journal&amp;rft.pages=L105-L108&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=508" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-38">^</a></b></span> <span class="reference-text"><cite class="citation journal">Braun, D.C.; Lindsey, C. (March 1999). "Helioseismic Images of an Active Region Complex". <i>The Astrophysical Journal</i>. <b>513</b> (1): L79–L82. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/1999ApJ...513L..79B">1999ApJ...513L..79B</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1086%2F311897">10.1086/311897</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHelioseismology&amp;rft.atitle=Helioseismic+Images+of+an+Active+Region+Complex&amp;rft.au=Braun%2C+D.C.&amp;rft.au=Lindsey%2C+C.&amp;rft.date=1999-03&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F1999ApJ...513L..79B&amp;rft_id=info%3Adoi%2F10.1086%2F311897&amp;rft.issue=1&amp;rft.jtitle=The+Astrophysical+Journal&amp;rft.pages=L79-L82&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=513" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Woodard2002-39"><span class="mw-cite-backlink">^ <a href="#cite_ref-Woodard2002_39-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Woodard2002_39-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Woodard, M.F. (January 2002). "Solar Subsurface Flow Inferred Directly from Frequency-Wavenumber Correlations in the Seismic Velocity Field". <i>The Astrophysical Journal</i>. <b>565</b> (1): 634–639. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2002ApJ...565..634W">2002ApJ...565..634W</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1086%2F324546">10.1086/324546</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHelioseismology&amp;rft.atitle=Solar+Subsurface+Flow+Inferred+Directly+from+Frequency-Wavenumber+Correlations+in+the+Seismic+Velocity+Field&amp;rft.au=Woodard%2C+M.F.&amp;rft.date=2002-01&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F2002ApJ...565..634W&amp;rft_id=info%3Adoi%2F10.1086%2F324546&amp;rft.issue=1&amp;rft.jtitle=The+Astrophysical+Journal&amp;rft.pages=634-639&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=565" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-40"><span class="mw-cite-backlink"><b><a href="#cite_ref-40">^</a></b></span> <span class="reference-text"><cite class="citation web">Minard, Anne. <a rel="nofollow" class="external text" href="http://www.universetoday.com/32642/the-case-of-the-missing-sunspots-solved/">"The Case of the Missing Sunspots: Solved?"</a>. Universe Today.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHelioseismology&amp;rft.aufirst=Anne&amp;rft.aulast=Minard&amp;rft.btitle=The+Case+of+the+Missing+Sunspots%3A+Solved%3F&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.universetoday.com%2F32642%2Fthe-case-of-the-missing-sunspots-solved%2F&amp;rft.pub=Universe+Today&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Helioseismology&amp;action=edit&amp;section=10" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tr>
+<td class="mbox-image"><a href="/wiki/File:Commons-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Helioseismology" class="extiw" title="commons:Category:Helioseismology">Helioseismology</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://ast.phys.au.dk/helio_outreach/english/">Non-technical description of helio- and asteroseismology</a> retrieved November 2009</li>
+<li>Laurent Gizon and Aaron C. Birch, "Local Helioseismology", <i>Living Rev. Solar Phys.</i> 2 (2005) 6, url:<a rel="nofollow" class="external free" href="http://www.livingreviews.org/lrsp-2005-6">http://www.livingreviews.org/lrsp-2005-6</a> doi:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.12942/lrsp-2005-6">10.12942/lrsp-2005-6</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.nsf.gov/news/news_summ.jsp?cntn_id=105844&amp;org=olpa&amp;from=news">Scientists Issue Unprecedented Forecast of Next Sunspot Cycle</a> National Science Foundation press release, March 6, 2006</li>
+<li>Mark S. Miesch, "Large-Scale Dynamics of the Convection Zone and Tachocline", <i>Living Rev. Solar Phys.</i> 2 (2005) 1, url:<a rel="nofollow" class="external free" href="http://www.livingreviews.org/lrsp-2005-6">http://www.livingreviews.org/lrsp-2005-6</a> doi:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.12942/lrsp-2005-1">10.12942/lrsp-2005-1</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.helas-eu.org/">European Helio- and Asteroseismology Network (HELAS)</a></li>
+<li><a rel="nofollow" class="external text" href="http://soi.stanford.edu/data/full_farside/">Farside and Earthside images of the Sun</a></li>
+<li><a rel="nofollow" class="external text" href="http://solarphysics.livingreviews.org/">Living Reviews in Solar Physics</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.mps.mpg.de/helioseismology-asteroseismology/research">Helioseismology and Asteroseismology</a> at <a href="/wiki/Max_Planck_Institute_for_Solar_System_Research" title="Max Planck Institute for Solar System Research">MPS</a></li>
+</ul>
+<h3><span class="mw-headline" id="Satellite_instruments">Satellite instruments</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Helioseismology&amp;action=edit&amp;section=11" title="Edit section: Satellite instruments">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.ias.u-psud.fr/virgo">VIRGO</a></li>
+<li><a rel="nofollow" class="external text" href="http://soi.stanford.edu">SOI/MDI</a></li>
+<li><a rel="nofollow" class="external text" href="http://hmi.stanford.edu/">SDO/HMI</a></li>
+<li><a rel="nofollow" class="external text" href="http://sunland.gsfc.nasa.gov/smex/trace/">TRACE</a></li>
+</ul>
+<h3><span class="mw-headline" id="Ground-based_instruments">Ground-based instruments</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Helioseismology&amp;action=edit&amp;section=12" title="Edit section: Ground-based instruments">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://bison.ph.bham.ac.uk/">BiSON</a></li>
+<li>Mark-1</li>
+<li><a rel="nofollow" class="external text" href="http://gong.nso.edu/">GONG</a></li>
+<li><a rel="nofollow" class="external text" href="http://physics.usc.edu/solar">HiDHN</a></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="The_Sun" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3" style="text-align: center;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:The_Sun" title="Template:The Sun"><abbr title="View this template" style="text-align: center;;;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:The_Sun" title="Template talk:The Sun"><abbr title="Discuss this template" style="text-align: center;;;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:The_Sun&amp;action=edit"><abbr title="Edit this template" style="text-align: center;;;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="The_Sun" style="font-size:114%"><a href="/wiki/Sun" title="Sun">The Sun</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align: center;"><a href="/wiki/Standard_solar_model" title="Standard solar model">Internal structure</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Solar_core" title="Solar core">Core</a></li>
+<li><a href="/wiki/Radiation_zone" title="Radiation zone">Radiation zone</a></li>
+<li><a href="/wiki/Tachocline" title="Tachocline">Tachocline</a></li>
+<li><a href="/wiki/Convection_zone" title="Convection zone">Convection zone</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="9" style="width:0%;padding:0px 0px 0px 2px">
+<div>
+<div class="floatright"><a href="/wiki/File:Sun_in_February.jpg" class="image"><img alt="Sun in February.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Sun_in_February.jpg/155px-Sun_in_February.jpg" width="155" height="155" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Sun_in_February.jpg/233px-Sun_in_February.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Sun_in_February.jpg/310px-Sun_in_February.jpg 2x" data-file-width="2632" data-file-height="2632" /></a></div>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align: center;"><a href="/wiki/Stellar_atmosphere" title="Stellar atmosphere">Atmosphere</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;text-align: center;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Photosphere" title="Photosphere">Photosphere</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Supergranulation" title="Supergranulation">Supergranulation</a></li>
+<li><a href="/wiki/Granule_(solar_physics)" title="Granule (solar physics)">Granule</a></li>
+<li><a href="/wiki/Facula" title="Facula">Faculae</a></li>
+<li><a href="/wiki/Sunspot" title="Sunspot">Sunspot</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;text-align: center;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Chromosphere" title="Chromosphere">Chromosphere</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Plage_(astronomy)" title="Plage (astronomy)">Plage</a></li>
+<li><a href="/wiki/Spicule_(solar_physics)" title="Spicule (solar physics)">Spicule</a></li>
+<li><a href="/wiki/Moreton_wave" title="Moreton wave">Moreton wave</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;text-align: center;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Corona" title="Corona">Corona</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Solar_transition_region" title="Solar transition region">Transition region</a></li>
+<li><a href="/wiki/Coronal_hole" title="Coronal hole">Coronal hole</a></li>
+<li><a href="/wiki/Coronal_loop" title="Coronal loop">Coronal loop</a></li>
+<li><a href="/wiki/Coronal_mass_ejection" title="Coronal mass ejection">Coronal mass ejection</a></li>
+<li><a href="/wiki/Solar_prominence" title="Solar prominence">Prominence</a></li>
+<li><a href="/wiki/Helmet_streamer" title="Helmet streamer">Helmet streamer</a></li>
+<li><a href="/wiki/Supra-arcade_downflows" title="Supra-arcade downflows">Supra-arcade downflows</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align: center;"><a href="/wiki/Solar_variation" class="mw-redirect" title="Solar variation">Variation</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Solar_cycle" title="Solar cycle">Solar cycle</a>
+<ul>
+<li><a href="/wiki/List_of_solar_cycles" title="List of solar cycles">List of solar cycles</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Solar_maximum" title="Solar maximum">Solar maximum</a></li>
+<li><a href="/wiki/Solar_minimum" title="Solar minimum">Solar minimum</a></li>
+<li><a href="/wiki/Wolf_number" title="Wolf number">Wolf number</a></li>
+<li><a href="/wiki/Solar_wind" title="Solar wind">Solar wind</a></li>
+<li><a href="/wiki/Solar_flare" title="Solar flare">Flare</a></li>
+<li><strong class="selflink">Helioseismology</strong></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align: center;"><a href="/wiki/Heliosphere" title="Heliosphere">Heliosphere</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Heliospheric_current_sheet" title="Heliospheric current sheet">Current sheet</a></li>
+<li><a href="/wiki/Heliosphere#Termination_shock" title="Heliosphere">Termination shock</a></li>
+<li><a href="/wiki/Heliosphere#Heliosheath" title="Heliosphere">Heliosheath</a></li>
+<li><a href="/wiki/Heliosphere#Heliopause" title="Heliosphere">Heliopause</a></li>
+<li><a href="/wiki/Bow_shock" class="mw-redirect" title="Bow shock">Bow shock</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align: center;">Related topics</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Solar_activity" class="mw-redirect" title="Solar activity">Solar activity</a></li>
+<li><a href="/wiki/Solar_astronomy" class="mw-redirect" title="Solar astronomy">Solar astronomy</a></li>
+<li><a href="/wiki/Solar_dynamo" title="Solar dynamo">Solar dynamo</a></li>
+<li><a href="/wiki/Solar_eclipse" title="Solar eclipse">Eclipse</a></li>
+<li><a href="/wiki/Solar_energy" title="Solar energy">Solar energy</a></li>
+<li><a href="/wiki/Solar_observation" title="Solar observation">Solar observation</a></li>
+<li><a href="/wiki/Solar_physics" title="Solar physics">Solar physics</a></li>
+<li><a href="/wiki/Solar_System" title="Solar System">Solar System</a></li>
+<li><a href="/wiki/Solar_telescope" title="Solar telescope">Solar telescope</a></li>
+<li><a href="/wiki/Solar_time" title="Solar time">Solar time</a></li>
+<li><a href="/wiki/Standard_solar_model" title="Standard solar model">Standard solar model</a></li>
+<li><a href="/wiki/Sunlight" title="Sunlight">Radiation</a></li>
+<li><a href="/wiki/Solar_neutrino" title="Solar neutrino">Solar neutrino</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3" style="text-align: center;">
+<div>
+<ul>
+<li><a href="/wiki/Stellar_classification" title="Stellar classification">Spectral class</a>: <a href="/wiki/G-type_main-sequence_star" title="G-type main-sequence star">G2V</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1194
+Cached time: 20170202143836
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.520 seconds
+Real time usage: 0.712 seconds
+Preprocessor visited node count: 2463/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 98740/2097152 bytes
+Template argument size: 739/2097152 bytes
+Highest expansion depth: 9/40
+Expensive parser function count: 0/500
+Lua time usage: 0.234/10.000 seconds
+Lua memory usage: 2.98 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  407.634      1 -total
+ 83.89%  341.979      1 Template:Reflist
+ 62.10%  253.123     35 Template:Cite_journal
+  8.65%   35.244      2 Template:Navbox
+  8.32%   33.931      1 Template:Commons_category
+  7.71%   31.421      1 Template:The_Sun
+  3.21%   13.073      1 Template:Navbox_subgroup
+  2.59%   10.559      1 Template:Citation
+  2.51%   10.240      1 Template:Commons
+  2.09%    8.512      1 Template:Sister_project
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:408801-0!*!0!!en!4!*!math=5 and timestamp 20170202143843 and revision id 763309276
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Helioseismology&amp;oldid=763309276">https://en.wikipedia.org/w/index.php?title=Helioseismology&amp;oldid=763309276</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Fields_of_seismology" title="Category:Fields of seismology">Fields of seismology</a></li><li><a href="/wiki/Category:Sun" title="Category:Sun">Sun</a></li><li><a href="/wiki/Category:Stellar_phenomena" title="Category:Stellar phenomena">Stellar phenomena</a></li><li><a href="/wiki/Category:Asteroseismology" title="Category:Asteroseismology">Asteroseismology</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">CS1 maint: Multiple names: authors list</a></li><li><a href="/wiki/Category:CS1_maint:_Explicit_use_of_et_al." title="Category:CS1 maint: Explicit use of et al.">CS1 maint: Explicit use of et al.</a></li><li><a href="/wiki/Category:Commons_category_with_local_link_same_as_on_Wikidata" title="Category:Commons category with local link same as on Wikidata">Commons category with local link same as on Wikidata</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Helioseismology" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Helioseismology" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Helioseismology"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Helioseismology"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Helioseismology" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Helioseismology&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Helioseismology&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Helioseismology" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Helioseismology" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Helioseismology&amp;oldid=763309276" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Helioseismology&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q1068381" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Helioseismology&amp;id=763309276" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Helioseismology">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Helioseismology&amp;returnto=Helioseismology&amp;oldid=763309276&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Helioseismology&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Helioseismology" hreflang="en">Wikimedia Commons</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Heliosismologia" title="Heliosismologia – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Helioseismologie" title="Helioseismologie – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%97%CE%BB%CE%B9%CE%BF%CF%83%CE%B5%CE%B9%CF%83%CE%BC%CE%BF%CE%BB%CE%BF%CE%B3%CE%AF%CE%B1" title="Ηλιοσεισμολογία – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Heliosismolog%C3%ADa" title="Heliosismología – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%84%D8%B1%D8%B2%D9%87%E2%80%8C%D8%B4%D9%86%D8%A7%D8%B3%DB%8C_%D8%AE%D9%88%D8%B1%D8%B4%DB%8C%D8%AF%DB%8C" title="لرزه‌شناسی خورشیدی – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/H%C3%A9liosismologie" title="Héliosismologie – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%9D%BC%EC%A7%84%ED%95%99" title="일진학 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/S%C3%B3lskj%C3%A1lftafr%C3%A6%C3%B0i" title="Sólskjálftafræði – Icelandic" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Eliosismologia" title="Eliosismologia – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-ky"><a href="https://ky.wikipedia.org/wiki/%D0%93%D0%B5%D0%BB%D0%B8%D0%BE%D1%81%D0%B5%D0%B9%D1%81%D0%BC%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" title="Гелиосейсмология – Kyrgyz" lang="ky" hreflang="ky" class="interlanguage-link-target">Кыргызча</a></li><li class="interlanguage-link interwiki-lb"><a href="https://lb.wikipedia.org/wiki/Helioseismologie" title="Helioseismologie – Luxembourgish" lang="lb" hreflang="lb" class="interlanguage-link-target">Lëtzebuergesch</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Helioseismologie" title="Helioseismologie – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E6%97%A5%E9%9C%87%E5%AD%A6" title="日震学 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Helioseismologi" title="Helioseismologi – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk bokmål</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Helioseismologi" title="Helioseismologi – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Heliosejsmologia" title="Heliosejsmologia – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Heliosismologia" title="Heliosismologia – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Helioseismologie" title="Helioseismologie – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%A5%D0%B5%D0%BB%D0%B8%D0%BE%D1%81%D0%B5%D0%B8%D0%B7%D0%BC%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%98%D0%B0" title="Хелиосеизмологија – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Helioseizmologija" title="Helioseizmologija – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%93%D0%B5%D0%BB%D1%96%D0%BE%D1%81%D0%B5%D0%B9%D1%81%D0%BC%D0%BE%D0%BB%D0%BE%D0%B3%D1%96%D1%8F" title="Геліосейсмологія – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E6%97%A5%E9%9C%87%E5%AD%B8" title="日震學 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q1068381#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 2 February 2017, at 14:38.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Helioseismology&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.520","walltime":"0.712","ppvisitednodes":{"value":2463,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":98740,"limit":2097152},"templateargumentsize":{"value":739,"limit":2097152},"expansiondepth":{"value":9,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  407.634      1 -total"," 83.89%  341.979      1 Template:Reflist"," 62.10%  253.123     35 Template:Cite_journal","  8.65%   35.244      2 Template:Navbox","  8.32%   33.931      1 Template:Commons_category","  7.71%   31.421      1 Template:The_Sun","  3.21%   13.073      1 Template:Navbox_subgroup","  2.59%   10.559      1 Template:Citation","  2.51%   10.240      1 Template:Commons","  2.09%    8.512      1 Template:Sister_project"]},"scribunto":{"limitreport-timeusage":{"value":"0.234","limit":"10.000"},"limitreport-memusage":{"value":3123271,"limit":52428800}},"cachereport":{"origin":"mw1194","timestamp":"20170202143836","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":56,"wgHostname":"mw1244"});});</script>
+	</body>
+</html>

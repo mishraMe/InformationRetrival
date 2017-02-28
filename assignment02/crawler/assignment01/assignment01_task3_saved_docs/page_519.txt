@@ -1,0 +1,664 @@
+url : https://en.wikipedia.org/wiki/Demand_response
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Demand response - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Demand_response","wgTitle":"Demand response","wgCurRevisionId":760474895,"wgRevisionId":760474895,"wgArticleId":2696466,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with Wayback Machine links","Articles lacking in-text citations from July 2011","All articles lacking in-text citations","Electricity economics","Electrical grid"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Demand_response","wgRelevantArticleId":2696466,"wgRequestId":"WJOawwpAAEYAANGEmr4AAABE","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q5255048","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.9"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Demand_response"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Demand_response&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Demand_response&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Demand_response"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Demand_response rootpage-Demand_response skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Demand response</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div role="note" class="hatnote">This article is about the electrical concept. For the transport concept, see <a href="/wiki/Demand_responsive_transport" title="Demand responsive transport">Demand responsive transport</a>.</div>
+<table class="plainlinks metadata ambox ambox-style ambox-More_footnotes" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/40px-Text_document_with_red_question_mark.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/60px-Text_document_with_red_question_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/80px-Text_document_with_red_question_mark.svg.png 2x" data-file-width="48" data-file-height="48" /></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article includes a <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">list of references</a>, but <b>its sources remain unclear</b> because it has <b>insufficient <a href="/wiki/Wikipedia:Citing_sources#Inline_citations" title="Wikipedia:Citing sources">inline citations</a></b>. <span class="hide-when-compact">Please help to <a href="/wiki/Wikipedia:WikiProject_Fact_and_Reference_Check" title="Wikipedia:WikiProject Fact and Reference Check">improve</a> this article by <a href="/wiki/Wikipedia:When_to_cite" title="Wikipedia:When to cite">introducing</a> more precise citations.</span> <small><i>(July 2011)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></span></td>
+</tr>
+</table>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Dryer_with_smart_load_control_switch.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Dryer_with_smart_load_control_switch.jpg/220px-Dryer_with_smart_load_control_switch.jpg" width="220" height="309" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Dryer_with_smart_load_control_switch.jpg/330px-Dryer_with_smart_load_control_switch.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Dryer_with_smart_load_control_switch.jpg/440px-Dryer_with_smart_load_control_switch.jpg 2x" data-file-width="521" data-file-height="731" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Dryer_with_smart_load_control_switch.jpg" class="internal" title="Enlarge"></a></div>
+A clothes dryer using a <a href="/wiki/Load_control_switch" title="Load control switch">demand response switch</a> to reduce peak demand</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Load_diagram.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Load_diagram.png/220px-Load_diagram.png" width="220" height="192" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Load_diagram.png/330px-Load_diagram.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/70/Load_diagram.png/440px-Load_diagram.png 2x" data-file-width="678" data-file-height="593" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Load_diagram.png" class="internal" title="Enlarge"></a></div>
+Daily load diagram; Blue shows real load usage and green shows ideal load.</div>
+</div>
+</div>
+<p><b>Demand response</b> is a change in the power consumption of an <a href="/wiki/Electric_utility" title="Electric utility">electric utility</a> customer to better match the demand for power with the supply. Electric energy can not be easily stored, so utilities have traditionally matched demand and supply by throttling the production rate of their <a href="/wiki/Power_plant" class="mw-redirect" title="Power plant">power plants</a>, taking generating units on or off line, or importing power from other utilities. There are limits to what can be achieved on the supply side, because some generating units can take a long time to come up to full power, some units may be very expensive to operate, and demand can at times be greater than the capacity of all the available power plants put together. Demand response seeks to adjust the demand for power instead of adjusting the supply.</p>
+<p>Utilities may signal demand requests to their customers in a variety of ways, including simple off-peak metering, in which power is cheaper at certain times of the day, and <a href="/wiki/Smart_meter" title="Smart meter">smart metering</a>, in which explicit requests or changes in price can be communicated to customers.</p>
+<p>The customer may adjust power demand by postponing some tasks that require large amounts of electric power, or may decide to pay a higher price for their electricity. Some customers may switch part of their consumption to alternate sources, such as on-site diesel generators.</p>
+<p>In many respects, demand response can be put simply as a technology-enabled economic rationing system for electric power supply. In demand response, voluntary rationing is accomplished by price incentives—offering lower net unit pricing in exchange for reduced power consumption in peak periods. The direct implication is that users of electric power capacity not reducing usage (load) during peak periods will pay "surge" unit prices, whether directly, or factored into general rates.</p>
+<p>Involuntary rationing, if employed, would be accomplished via rolling blackouts during peak load periods. Practically speaking, summer heat waves and winter deep freezes might be characterized by planned power outages for consumers and businesses if voluntary rationing via incentives fail to reduce load adequately to match total power supply.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Background"><span class="tocnumber">1</span> <span class="toctext">Background</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Smart_grid_application"><span class="tocnumber">2</span> <span class="toctext">Smart grid application</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Electricity_pricing"><span class="tocnumber">3</span> <span class="toctext">Electricity pricing</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Electricity_grids_and_peak_demand_response"><span class="tocnumber">4</span> <span class="toctext">Electricity grids and peak demand response</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Load_shedding"><span class="tocnumber">5</span> <span class="toctext">Load shedding</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Incentives_to_shed_loads"><span class="tocnumber">6</span> <span class="toctext">Incentives to shed loads</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Application_for_intermittent_renewable_distributed_energy_resources"><span class="tocnumber">7</span> <span class="toctext">Application for intermittent renewable distributed energy resources</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Technologies_for_demand_reduction"><span class="tocnumber">8</span> <span class="toctext">Technologies for demand reduction</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Industrial_customers"><span class="tocnumber">9</span> <span class="toctext">Industrial customers</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Short-term_inconvenience_for_long-term_benefits"><span class="tocnumber">10</span> <span class="toctext">Short-term inconvenience for long-term benefits</span></a>
+<ul>
+<li class="toclevel-2 tocsection-11"><a href="#Importance_for_the_operation_of_electricity_markets"><span class="tocnumber">10.1</span> <span class="toctext">Importance for the operation of electricity markets</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#US_Energy_Policy_Act_regarding_demand_response"><span class="tocnumber">11</span> <span class="toctext">US Energy Policy Act regarding demand response</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Demand_reduction_and_the_use_of_diesel_generators_in_the_UK_National_Grid"><span class="tocnumber">12</span> <span class="toctext">Demand reduction and the use of diesel generators in the UK National Grid</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#See_also"><span class="tocnumber">13</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#References"><span class="tocnumber">14</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Background">Background</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Demand_response&amp;action=edit&amp;section=1" title="Edit section: Background">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>According to the <a href="/wiki/Federal_Energy_Regulatory_Commission" title="Federal Energy Regulatory Commission">Federal Energy Regulatory Commission</a>, demand response (DR) is defined as:<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> “Changes in electric usage by end-use customers from their normal consumption patterns in response to changes in the price of electricity over time, or to incentive payments designed to induce lower electricity use at times of high wholesale market prices or when system reliability is jeopardized.” DR includes all intentional modifications to consumption patterns of electricity to induce customers that are intended to alter the timing, level of instantaneous demand, or the total electricity consumption.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> It is expected that demand response programs will be designed to decrease electricity consumption or shift it from on-peak to off-peak periods depending on consumers’ preferences and lifestyles.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Demand Response can be defined as "a wide range of actions which can be taken at the customer side of the electricity meter in response to particular conditions within the electricity system (such as peak period network congestion or high prices)".<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Demand response is a reduction in demand designed to reduce peak demand or avoid system emergencies. Hence, demand response can be a more cost-effective alternative than adding generation capabilities to meet the peak and or occasional demand spikes. The underlying objective of DR is to actively engage customers in modifying their consumption in response to pricing signals. The goal is to reflect supply expectations through consumer <a href="/wiki/Price_signal" title="Price signal">price signals</a> or controls and enable dynamic changes in consumption relative to price.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></p>
+<p>In electricity grids, DR is similar to <a href="/wiki/Dynamic_demand_(electric_power)" title="Dynamic demand (electric power)">dynamic demand</a> mechanisms to manage customer consumption of electricity in response to supply conditions, for example, having electricity customers reduce their consumption at critical times or in response to market prices.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> The difference is that demand response mechanisms respond to explicit requests to shut off, whereas dynamic demand devices passively shut off when stress in the grid is sensed. Demand response can involve actually curtailing power used or by starting on-site generation which may or may not be connected in parallel with the grid.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> This is a quite different concept from <a href="/wiki/Efficient_energy_use" title="Efficient energy use">energy efficiency</a>, which means using less power to perform the same tasks, on a continuous basis or whenever that task is performed. At the same time, demand response is a component of smart energy demand, which also includes energy efficiency, home and building energy management, <a href="/wiki/Distributed_Energy_Resources" class="mw-redirect" title="Distributed Energy Resources">distributed renewable resources</a>, and electric vehicle charging.<sup id="cite_ref-bookSG_8-0" class="reference"><a href="#cite_note-bookSG-8">[8]</a></sup></p>
+<p>Current demand response schemes are implemented with large and small commercial as well as residential customers, often through the use of dedicated control systems to shed loads in response to a request by a utility or market price conditions. Services (lights, machines, air conditioning) are reduced according to a preplanned load prioritization scheme during the critical time frames. An alternative to load shedding is on-site generation of electricity to supplement the <a href="/wiki/Electrical_grid" title="Electrical grid">power grid</a>. Under conditions of tight electricity supply, demand response can significantly decrease the peak price and, in general, electricity price volatility.</p>
+<p>Demand response is generally used to refer to mechanisms used to encourage consumers to reduce demand, thereby reducing the <a href="/wiki/Peak_demand" title="Peak demand">peak demand</a> for electricity. Since electrical generation and transmission systems are generally sized to correspond to peak demand (plus margin for forecasting error and unforeseen events), lowering peak demand reduces overall plant and <a href="/wiki/Capital_cost" title="Capital cost">capital cost</a> requirements. Depending on the configuration of generation capacity, however, demand response may also be used to increase demand (load) at times of high production and low demand. Some systems may thereby encourage <a href="/wiki/Energy_storage" title="Energy storage">energy storage</a> to <a href="/wiki/Arbitrage" title="Arbitrage">arbitrage</a> between periods of low and high demand (or low and high prices).</p>
+<p>There are three types of demand response - emergency demand response, economic demand response and ancillary services demand response.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> Emergency demand response is employed to avoid involuntary service interruptions during times of supply scarcity. Economic demand response is employed to allow electricity customers to curtail their consumption when the productive or convenience of consuming that electricity is worth less to them than paying for the electricity. Ancillary services demand response consists of a number of specialty services that are needed to ensure the secure operation of the transmission grid and which have traditionally been provided by generators.</p>
+<h2><span class="mw-headline" id="Smart_grid_application">Smart grid application</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Demand_response&amp;action=edit&amp;section=2" title="Edit section: Smart grid application">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Smart_grid" title="Smart grid">Smart grid</a> applications improve the ability of electricity producers and consumers to communicate with one another and make decisions about how and when to produce and consume electrical power.<sup id="cite_ref-bookSG_8-1" class="reference"><a href="#cite_note-bookSG-8">[8]</a></sup><sup id="cite_ref-ReferenceA_10-0" class="reference"><a href="#cite_note-ReferenceA-10">[10]</a></sup> This emerging technology will allow customers to shift from an event-based demand response where the utility requests the shedding of load, towards a more 24/7-based demand response where the customer sees incentives for controlling load all the time. Although this back-and-forth dialogue increases the opportunities for demand response, customers are still largely influenced by economic incentives and are reluctant to relinquish total control of their assets to utility companies.<sup id="cite_ref-jrcSG_11-0" class="reference"><a href="#cite_note-jrcSG-11">[11]</a></sup></p>
+<p>One advantage of a smart grid application is time-based pricing. Customers who traditionally pay a fixed rate for consumed energy (<a href="/wiki/KWh" class="mw-redirect" title="KWh">kWh</a>) and requested <a href="/wiki/Peak_load" class="mw-redirect" title="Peak load">peak load</a> can set their threshold and adjust their usage to take advantage of fluctuating prices. This may require the use of an energy management system to control appliances and equipment and can involve economies of scale. Another advantage, mainly for large customers with generation, is being able to closely monitor, shift, and balance load in a way that allows the customer to save peak load and not only save on kWh and kW/month but be able to trade what they have saved in an energy market. Again this involves sophisticated energy management systems, incentives, and a viable trading market.</p>
+<p>Smart grid applications increase the opportunities for demand response by providing <a href="/wiki/Real-time_computing" title="Real-time computing">real time</a> data to producers and consumers, but the economic and environmental incentives remain the driving force behind the practice.</p>
+<h2><span class="mw-headline" id="Electricity_pricing">Electricity pricing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Demand_response&amp;action=edit&amp;section=3" title="Edit section: Electricity pricing">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:452px;"><a href="/wiki/File:Demand_response.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/Demand_response.png/450px-Demand_response.png" width="450" height="296" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/Demand_response.png/675px-Demand_response.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/43/Demand_response.png/900px-Demand_response.png 2x" data-file-width="1083" data-file-height="713" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Demand_response.png" class="internal" title="Enlarge"></a></div>
+Explanation of demand response effects on a quantity (Q) - price (P) graph. Under inelastic demand (D1) extremely high price (P1) may result on a strained <a href="/wiki/Electricity_market" title="Electricity market">electricity market</a>.<br />
+If demand response measures are employed the demand becomes more elastic (D2). A much lower price will result in the market (P2).<br />
+<br />
+It is estimated<sup id="cite_ref-IEA-billing-2003_12-0" class="reference"><a href="#cite_note-IEA-billing-2003-12">[12]</a></sup> that a 5% lowering of demand would result in a 50% price reduction during the peak hours of the <a href="/wiki/California_electricity_crisis" title="California electricity crisis">California electricity crisis</a> in 2000/2001. The market also becomes more resilient to intentional withdrawal of offers from the supply side.</div>
+</div>
+</div>
+<p>In most electric power systems, some or all consumers pay a fixed price per unit of electricity independent of the cost of production at the time of consumption. The consumer price may be established by the government or a regulator, and typically represents an average cost per <a href="/wiki/Unit_of_production" class="mw-redirect" title="Unit of production">unit of production</a> over a given timeframe (for example, a year). Consumption therefore is not sensitive to the cost of production in the short term (e.g. on an hourly basis). In economic terms, consumers' usage of electricity is <a href="/wiki/Elasticity_(economics)" title="Elasticity (economics)">inelastic</a> in short time frames since the consumers do not face the actual price of production; if consumers were to face the short run costs of production they would be more inclined to change their use of electricity in reaction to those price signals. A pure economist might extrapolate the concept to hypothesize that consumers served under these fixed rate tariffs are endowed with theoretical "call options" on electricity, though in reality, like any other business the customer is simply buying what is on offer at the agreed price.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup> A customer in a department store buying a $10 item at 9.00 am might notice 10 sales staff on the floor but only one occupied serving him or her, while at 3.00 pm the customer could buy the same $10 article and notice all 10 sales staff occupied. In a similar manner, the department store cost of sales at 9.00 am might therefore be 5-10 times that of its cost of sales at 3.00 pm, but it would be far-fetched to claim that the customer, by not paying significantly more for the article at 9.00 am than at 3.00 pm, had a 'call option' on the $10 article.</p>
+<p>In virtually all power systems electricity is produced by generators that are dispatched in merit order, i.e., generators with the lowest marginal cost (lowest variable cost of production) are used first, followed by the next cheapest, etc., until the instantaneous electricity demand is satisfied. In most power systems the wholesale price of electricity will be equal to the marginal cost of the highest cost generator that is injecting energy, which will vary with the level of demand. Thus the variation in pricing can be significant: for example, in Ontario between August and September 2006, wholesale prices (in Canadian Dollars) paid to producers ranged from a peak of $318 per MW·h to a minimum of - (negative) $3.10 per MW·h.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup><sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup> It is not unusual for the price to vary by a factor of two to five due to the daily demand cycle. A negative price indicates that producers were being charged to provide electricity to the grid (and consumers paying real-time pricing may have actually received a rebate for consuming electricity during this period). This generally occurs at night when demand falls to a level where all generators are operating at their minimum output levels and some of them must be shut down. The negative price is the inducement to bring about these shutdowns in a least-cost manner.</p>
+<p>Two <a href="/wiki/Carnegie_Mellon" class="mw-redirect" title="Carnegie Mellon">Carnegie Mellon</a> studies in 2006 looked at the importance of demand response for the electricity industry in general terms<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup> and with specific application of real-time pricing for consumers for the <a href="/wiki/PJM_Interconnection" title="PJM Interconnection">PJM Interconnection</a> Regional Transmission authority.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup> The latter study found that even small shifts in peak demand would have a large effect on savings to consumers and avoided costs for additional peak capacity: a 1% shift in peak demand would result in savings of 3.9%, billions of dollars at the system level. An approximately 10% reduction in peak demand (achievable depending on the <a href="/wiki/Elasticity_of_demand" class="mw-redirect" title="Elasticity of demand">elasticity of demand</a>) would result in systems savings of between $8 to $28 billion.</p>
+<p>In a discussion paper, Ahmad Faruqui, a principal with the Brattle Group, estimates that a 5 percent reduction in US peak electricity demand could produce approximately $35 billion in cost savings over a 20-year period, exclusive of the cost of the metering and communications needed to implement the dynamic pricing needed to achieve these reductions. While the net benefits would be significantly less than the claimed $35 billion, they would still be quite substantial.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup> In Ontario, Canada, the Independent Electricity System Operator has noted that in 2006, peak demand exceeded 25,000 megawatts during only 32 system hours (less than 0.4% of the time), while maximum demand during the year was just over 27,000 megawatts. The ability to "shave" peak demand based on reliable commitments would therefore allow the province to reduce built capacity by approximately 2,000 megawatts.<sup id="cite_ref-autogenerated1_19-0" class="reference"><a href="#cite_note-autogenerated1-19">[19]</a></sup></p>
+<h2><span class="mw-headline" id="Electricity_grids_and_peak_demand_response">Electricity grids and peak demand response</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Demand_response&amp;action=edit&amp;section=4" title="Edit section: Electricity grids and peak demand response">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Stwlan.dam.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/de/Stwlan.dam.jpg/220px-Stwlan.dam.jpg" width="220" height="142" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/de/Stwlan.dam.jpg/330px-Stwlan.dam.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/de/Stwlan.dam.jpg/440px-Stwlan.dam.jpg 2x" data-file-width="750" data-file-height="483" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Stwlan.dam.jpg" class="internal" title="Enlarge"></a></div>
+The upper reservoir (Llyn Stwlan) and dam of the <a href="/wiki/Ffestiniog_Power_Station" title="Ffestiniog Power Station">Ffestiniog Pumped Storage Scheme</a> in north Wales</div>
+</div>
+</div>
+<p>In an electricity grid, electricity consumption and production must balance at all times; any significant imbalance could cause grid instability or severe voltage fluctuations, and cause failures within the grid. Total generation capacity is therefore sized to correspond to total peak demand with some margin of error and allowance for contingencies (such as plants being off-line during peak demand periods). Operators will generally plan to use the least expensive generating capacity (in terms of <a href="/wiki/Marginal_cost" title="Marginal cost">marginal cost</a>) at any given period, and use additional capacity from more expensive plants as demand increases. Demand response in most cases is targeted at reducing peak demand to reduce the risk of potential disturbances, avoid additional capital cost requirements for additional plants, and avoid use of more expensive and/or less efficient operating plants. Consumers of electricity will also pay higher prices if generation capacity is used from a higher-cost source of power generation.</p>
+<p>Demand response may also be used to increase demand during periods of high supply and/or low demand. Some types of generating plant must be run at close to full capacity (such as nuclear), while other types may produce at negligible marginal cost (such as wind and solar). Since there is usually limited capacity to store energy, demand response may attempt to increase load during these periods to maintain grid stability. For example, in the province of Ontario in September 2006, there was a short period of time when electricity prices were negative for certain users. <a href="/wiki/Energy_storage" title="Energy storage">Energy storage</a> such as <a href="/wiki/Pumped-storage_hydroelectricity" title="Pumped-storage hydroelectricity">Pumped-storage hydroelectricity</a> is a way to increase load during periods of low demand for use during later periods. Use of demand response to increase load is less common, but may be necessary or efficient in systems where there are large amounts of generating capacity that cannot be easily cycled down.</p>
+<p>Some grids may use pricing mechanisms that are not real-time, but easier to implement (users pay higher prices during the day and lower prices at night, for example) to provide some of the benefits of the demand response mechanism with less demanding technological requirements. For example, in 2006 Ontario began implementing a "Smart Meter" program that implements "Time-of-Use" (TOU) pricing, which tiers pricing according to on-peak, mid-peak and off-peak schedules. During the winter, on-peak is defined as morning and early evening, mid-peak as mid-day to late afternoon, and off-peak as night-time; during the summer, the on-peak and mid-peak periods are reversed, reflecting air conditioning as the driver of summer demand. As of May 1, 2015, most Ontario electrical utilities have completed converting all customers to "smart meter" time-of-use billing with on-peak rates about 200% and mid-peak rates about 150% of the off-peak rate per kWh.</p>
+<h2><span class="mw-headline" id="Load_shedding">Load shedding</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Demand_response&amp;action=edit&amp;section=5" title="Edit section: Load shedding">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Electrical_generation" class="mw-redirect" title="Electrical generation">Electrical generation</a> and transmission systems may not always meet peak demand requirements— the greatest amount of <a href="/wiki/Electricity" title="Electricity">electricity</a> required by all utility customers within a given region. In these situations, overall demand must be lowered, either by turning off service to some devices or cutting back the supply voltage (<a href="/wiki/Brownout_(electricity)" title="Brownout (electricity)">brownouts</a>), in order to prevent uncontrolled service disruptions such as <a href="/wiki/Power_outage" title="Power outage">power outages</a> (widespread blackouts) or equipment damage. Utilities may impose load shedding on service areas via <a href="/wiki/Rolling_blackout" title="Rolling blackout">rolling blackouts</a> or by agreements with specific high-use industrial consumers to turn off equipment at times of system-wide peak demand.</p>
+<h2><span class="mw-headline" id="Incentives_to_shed_loads">Incentives to shed loads</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Demand_response&amp;action=edit&amp;section=6" title="Edit section: Incentives to shed loads">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Energy consumers need some incentive to respond to such a request from a <a href="/w/index.php?title=Demand_Response_Provider&amp;action=edit&amp;redlink=1" class="new" title="Demand Response Provider (page does not exist)">Demand Response Provider</a> (see list of Providers below). Demand Response incentives can be formal or informal. For example, the utility might create a tariff-based incentive by passing along short-term increases in the price of electricity. Or they might impose mandatory cutbacks during a heat wave for selected high-volume users, who are compensated for their participation. Other users may receive a rebate or other incentive based on firm commitments to reduce power during periods of high demand,<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup> almost never referred to as <i><a href="/wiki/Negawatts" class="mw-redirect" title="Negawatts">negawatts</a>.</i><sup id="cite_ref-autogenerated1_19-1" class="reference"><a href="#cite_note-autogenerated1-19">[19]</a></sup></p>
+<p>Commercial and industrial power users might impose load shedding on themselves, without a request from the utility. Some businesses generate their own power and wish to stay within their energy production capacity to avoid buying power from the grid. Some utilities have commercial tariff structures that set a customer's power costs for the month based on the customer's moment of highest use, or peak demand. This encourages users to flatten their demand for energy, known as <a href="/wiki/Energy_demand_management" title="Energy demand management">energy demand management</a>, which sometimes requires cutting back services temporarily.</p>
+<p><a href="/wiki/Smart_meter" title="Smart meter">Smart metering</a> has been implemented in some jurisdictions to provide real-time pricing for all types of users, as opposed to fixed-rate pricing throughout the demand period. In this application, users have a direct incentive to reduce their use at high-demand, high-price periods. Many users may not be able to effectively reduce their demand at various times, or the peak prices may be lower than the level required to induce a change in demand during short time periods (users have low <a href="/wiki/Price_sensitivity" class="mw-redirect" title="Price sensitivity">price sensitivity</a>, or <a href="/wiki/Elasticity_of_demand" class="mw-redirect" title="Elasticity of demand">elasticity of demand</a> is low). Automated control systems exist, which, although effective, may be too expensive to be feasible for some applications.</p>
+<h2><span class="mw-headline" id="Application_for_intermittent_renewable_distributed_energy_resources">Application for intermittent renewable distributed energy resources</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Demand_response&amp;action=edit&amp;section=7" title="Edit section: Application for intermittent renewable distributed energy resources">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The modern power grid is making a transition from the traditional vertically integrated utility structures to distributed systems as we begin to integrate higher penetrations of renewable energy generation. These sources of energy are often diffusely distributed and intermittent by nature. These features introduce problems in grid stability and efficiency which lead to limitations on the amount of these resources which can be effectively added to the grid. In a traditional vertically integrated grid, energy is provided by utility generators which are able to respond to changes in demand. Generation output by renewable resources is governed by environmental conditions and is generally not able to respond to changes in demand. Responsive control over non-critical loads which are connected to the grid has been shown to be an effective strategy which is able to mitigate harmful fluctuations introduced by these renewable resources.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup> In this way instead of letting the generation respond to changes in demand, we have the demand respond to changes in generation. This is the basis of demand response. In order to implement demand response systems, we must be able to coordinate large numbers of distributed resources through sensors, actuators, and communications protocols. To be effective, the devices need to be economical, robust, and yet still effective at managing their tasks of control. In addition, a strong control mechanism must be created which is able to coordinate over large networks of devices to manage and optimize these distributed systems both from an economic standpoint and a security standpoint in grid stabilization.</p>
+<p>In addition, the increased presence of variable renewable generation drives a greater need for authorities to procure more <a href="/wiki/Ancillary_services_(electric_power)" title="Ancillary services (electric power)">ancillary services</a> (AS) for grid balance. One of these services is contingency reserve (CR), which is used to regulate the grid frequency in contingencies. Many <a href="/wiki/Independent_system_operator" class="mw-redirect" title="Independent system operator">Independent System Operators</a> (ISO) are structuring the rules of AS markets such that demand response (DR) can participate along side traditional supply-side resources. The available capacity of the generators can be used more efficiently for power production which they were designed for and not CR; cutting costs, and reducing pollution. As the ratio of inverter-based generation compared to conventional generation increases, the mechanical inertia used to stabilize frequency decreases. When coupled with the sensitivity of inverter-based generation to transient frequencies, the provision of ancillary services from other sources than generators becomes increasingly important.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup><sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup></p>
+<h2><span class="mw-headline" id="Technologies_for_demand_reduction">Technologies for demand reduction</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Demand_response&amp;action=edit&amp;section=8" title="Edit section: Technologies for demand reduction">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote">Further information: <a href="/wiki/Load_control_switch" title="Load control switch">Load control switch</a></div>
+<p>Technologies are available, and more are under development, to automate the process of demand response. Such technologies detect the need for <a href="/wiki/Load_shedding" class="mw-redirect" title="Load shedding">load shedding</a>, communicate the demand to participating users, automate load shedding, and verify compliance with demand-response programs. <a href="/w/index.php?title=GridWise&amp;action=edit&amp;redlink=1" class="new" title="GridWise (page does not exist)">GridWise</a> and <a href="/w/index.php?title=EnergyWeb&amp;action=edit&amp;redlink=1" class="new" title="EnergyWeb (page does not exist)">EnergyWeb</a> are two major federal initiatives in the United States to develop these technologies. Universities and private industry are also doing research and development in this arena. Scalable and comprehensive software solutions for DR enable business and industry growth.</p>
+<p>Some utilities are considering and testing automated systems connected to industrial, commercial and residential users that can reduce consumption at times of peak demand, essentially delaying draw marginally. Although the amount of demand delayed may be small, the implications for the grid (including financial) may be substantial, since system stability planning often involves building capacity for extreme peak demand events, plus a margin of safety in reserve. Such events may only occur a few times per year.</p>
+<p>The process may involve turning down or off certain appliances or sinks (and, when demand is unexpectedly low, potentially increasing usage). For example, heating may be turned down or <a href="/wiki/Air_conditioning" title="Air conditioning">air conditioning</a> or <a href="/wiki/Refrigeration" title="Refrigeration">refrigeration</a> may be turned up (turning up to a higher temperature uses less electricity), delaying slightly the draw until a peak in usage has passed.<sup id="cite_ref-TCL1_24-0" class="reference"><a href="#cite_note-TCL1-24">[24]</a></sup> In the city of Toronto, certain residential users can participate in a program (Peaksaver AC<sup id="cite_ref-Peaksaver_25-0" class="reference"><a href="#cite_note-Peaksaver-25">[25]</a></sup>) whereby the system operator can automatically control hot water heaters or air conditioning during peak demand; the grid benefits by delaying peak demand (allowing peaking plants time to cycle up or avoiding peak events), and the participant benefits by delaying consumption until after peak demand periods, when pricing should be lower. Although this is an experimental program, at scale these solutions have the potential to reduce peak demand considerably. The success of such programs depends on the development of appropriate technology, a suitable pricing system for electricity, and the cost of the underlying technology. Bonneville Power experimented with direct-control technologies in Washington and Oregon residences, and found that the avoided transmission investment would justify the cost of the technology.<sup id="cite_ref-Ashland-Bonneville_26-0" class="reference"><a href="#cite_note-Ashland-Bonneville-26">[26]</a></sup></p>
+<p>Other methods to implementing demand response approach the issue of subtly reducing duty cycles rather than implementing <a href="/wiki/Thermostat" title="Thermostat">thermostat</a> setbacks.<sup id="cite_ref-SmartGridDC_27-0" class="reference"><a href="#cite_note-SmartGridDC-27">[27]</a></sup> These can be implemented using customized building automation systems programming, or through swarm-logic methods coordinating multiple loads in a facility (e.g. Encycle's EnviroGrid controllers).<sup id="cite_ref-BusinessWeek20090217_28-0" class="reference"><a href="#cite_note-BusinessWeek20090217-28">[28]</a></sup><sup id="cite_ref-TechnologyReview20090204_29-0" class="reference"><a href="#cite_note-TechnologyReview20090204-29">[29]</a></sup><sup id="cite_ref-Encycle-EnviroGrid_30-0" class="reference"><a href="#cite_note-Encycle-EnviroGrid-30">[30]</a></sup></p>
+<p>It was recently announced that electric refrigerators will be sold in the UK sensing <a href="/wiki/Dynamic_demand_(electric_power)" title="Dynamic demand (electric power)">dynamic demand</a> which will delay or advance the cooling cycle based on monitoring grid frequency.<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">[31]</a></sup></p>
+<h2><span class="mw-headline" id="Industrial_customers">Industrial customers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Demand_response&amp;action=edit&amp;section=9" title="Edit section: Industrial customers">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Industrial customers are also providing demand response. Compared with commercial and residential loads, industrial loads have the following advantages:<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">[32]</a></sup> the magnitude of power consumption by an industrial manufacturing plant and the change in power it can provide are generally very large; besides, the industrial plants usually already have the infrastructures for control, communication and market participation, which enables the provision of demand response; moreover, some industrial plants such as the aluminum smelter<sup id="cite_ref-33" class="reference"><a href="#cite_note-33">[33]</a></sup> are able to offer fast and accurate adjustments in their power consumption. For example, Alcoa's Warrick Operation is participating in MISO as a qualified Demand Response Resource,<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">[34]</a></sup> and the Trimet Aluminium uses its smelter as a short-term mega-battery.<sup id="cite_ref-35" class="reference"><a href="#cite_note-35">[35]</a></sup></p>
+<h2><span class="mw-headline" id="Short-term_inconvenience_for_long-term_benefits">Short-term inconvenience for long-term benefits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Demand_response&amp;action=edit&amp;section=10" title="Edit section: Short-term inconvenience for long-term benefits">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Shedding loads during peak demand is important because it reduces the need for new power plants. To respond to high peak demand, utilities build very capital-intensive power plants and lines. Peak demand happens just a few times a year, so those assets run at a mere fraction of their capacity. Electric users pay for this idle capacity through the prices they pay for electricity. According to the Demand Response Smart Grid Coalition, 10%–20% of electricity costs in the United States are due to peak demand during only 100 hours of the year.<sup id="cite_ref-36" class="reference"><a href="#cite_note-36">[36]</a></sup> DR is a way for utilities to reduce the need for large capital expenditures, and thus keep rates lower overall; however, there is an economic limit to such reductions because consumers lose the productive or convenience value of the electricity not consumed. Thus, it is misleading to only look at the cost savings that demand response can produce without also considering what the consumer gives up in the process.</p>
+<h3><span class="mw-headline" id="Importance_for_the_operation_of_electricity_markets">Importance for the operation of electricity markets</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Demand_response&amp;action=edit&amp;section=11" title="Edit section: Importance for the operation of electricity markets">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>It is estimated<sup id="cite_ref-IEA-billing-2003_12-1" class="reference"><a href="#cite_note-IEA-billing-2003-12">[12]</a></sup> that a 5% lowering of demand would have resulted in a 50% price reduction during the peak hours of the <a href="/wiki/California_electricity_crisis" title="California electricity crisis">California electricity crisis</a> in 2000–2001. With consumers facing peak pricing and reducing their demand, the market should become more resilient to intentional withdrawal of offers from the supply side.</p>
+<p>Residential and commercial electricity use often vary drastically during the day, and demand response attempts to reduce the variability based on pricing signals. There are three underlying tenets to these programs:</p>
+<ol>
+<li>Unused electrical production facilities represent a less efficient use of capital (little revenue is earned when not operating).</li>
+<li>Electric systems and grids typically scale total potential production to meet projected peak demand (with sufficient spare capacity to deal with unanticipated events).</li>
+<li>By "smoothing" demand to reduce peaks, less investment in operational reserve will be required, and existing facilities will operate more frequently.</li>
+</ol>
+<p>In addition, significant peaks may only occur rarely, such as two or three times per year, requiring significant capital investments to meet infrequent events.</p>
+<h2><span class="mw-headline" id="US_Energy_Policy_Act_regarding_demand_response">US Energy Policy Act regarding demand response</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Demand_response&amp;action=edit&amp;section=12" title="Edit section: US Energy Policy Act regarding demand response">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The <a href="/wiki/United_States" title="United States">United States</a> <a href="/wiki/Energy_Policy_Act_of_2005" title="Energy Policy Act of 2005">Energy Policy Act of 2005</a> has mandated the <a href="/wiki/Secretary_of_Energy" class="mw-redirect" title="Secretary of Energy">Secretary of Energy</a> to submit to the <a href="/wiki/US_Congress" class="mw-redirect" title="US Congress">US Congress</a> "a report that identifies and quantifies the national benefits of demand response and makes a recommendation on achieving specific levels of such benefits by January 1, 2007." Such a report was published in February 2006.<sup id="cite_ref-37" class="reference"><a href="#cite_note-37">[37]</a></sup></p>
+<p>The report estimates that in 2004 potential demand response capability equaled about 20,500 megawatts (<a href="/wiki/Megawatt" class="mw-redirect" title="Megawatt">MW</a>), 3% of total U.S. peak demand, while actual delivered peak demand reduction was about 9,000 MW (1.3% of peak), leaving ample margin for improvement. It is further estimated that load management capability has fallen by 32% since 1996. Factors affecting this trend include fewer utilities offering load management services, declining enrollment in existing programs, the changing role and responsibility of utilities, and changing supply/demand balance.</p>
+<p>To encourage the use and implementation of demand response in the United States, the <a href="/wiki/Federal_Energy_Regulatory_Commission" title="Federal Energy Regulatory Commission">Federal Energy Regulatory Commission</a> (FERC) issued Order No. 745 in March 2011, which requires a certain level of compensation for providers of economic demand response that participate in wholesale power markets.<sup id="cite_ref-38" class="reference"><a href="#cite_note-38">[38]</a></sup> The order is highly controversial and has been opposed by a number of energy economists, including Professor <a href="/w/index.php?title=William_W._Hogan&amp;action=edit&amp;redlink=1" class="new" title="William W. Hogan (page does not exist)">William W. Hogan</a> at <a href="/wiki/Harvard_University" title="Harvard University">Harvard University</a>'s <a href="/wiki/John_F._Kennedy_School_of_Government" title="John F. Kennedy School of Government">Kennedy School</a>. Professor Hogan asserts that the order overcompensates providers of demand response, thereby encouraging the curtailment of electricity whose economic value exceeds the cost of producing it. Professor Hogan further asserts that Order No. 745 is anticompetitive and amounts to “…an application of regulatory authority to enforce a buyer’s cartel.”<sup id="cite_ref-39" class="reference"><a href="#cite_note-39">[39]</a></sup> Several affected parties, including the State of California, have filed suit in federal court challenging the legality of Order 745.<sup id="cite_ref-40" class="reference"><a href="#cite_note-40">[40]</a></sup> A debate regarding the economic efficiency and fairness of Order 745 appeared in a series of articles published in <a href="/w/index.php?title=The_Electricity_Journal&amp;action=edit&amp;redlink=1" class="new" title="The Electricity Journal (page does not exist)">The Electricity Journal</a>.<sup id="cite_ref-41" class="reference"><a href="#cite_note-41">[41]</a></sup><sup id="cite_ref-42" class="reference"><a href="#cite_note-42">[42]</a></sup><sup id="cite_ref-43" class="reference"><a href="#cite_note-43">[43]</a></sup></p>
+<p>On May 23, 2014, the <a href="/wiki/United_States_Court_of_Appeals_for_the_District_of_Columbia_Circuit" title="United States Court of Appeals for the District of Columbia Circuit">D.C. Circuit Court of Appeals</a> vacated Order 745 in its entirety.<sup id="cite_ref-44" class="reference"><a href="#cite_note-44">[44]</a></sup> On May 4, 2015, the <a href="/wiki/United_States_Supreme_Court" class="mw-redirect" title="United States Supreme Court">United States Supreme Court</a> agreed to review the DC Circuit's ruling, addressing two questions:</p>
+<ol>
+<li>Whether the Federal Energy Regulatory Commission reasonably concluded that it has authority under the Federal Power Act, 16 U. S. C. 791a et seq., to regulate the rules used by operators of wholesale electricity markets to pay for reductions in electricity consumption and to recoup those payments through adjustments to wholesale rates.</li>
+<li>Whether the Court of Appeals erred in holding that the rule issued by the Federal Energy Regulatory Commission is arbitrary and capricious.<sup id="cite_ref-45" class="reference"><a href="#cite_note-45">[45]</a></sup></li>
+</ol>
+<p>On January 25, 2016, the United States Supreme Court in a 6-2 decision in <i><a href="/wiki/FERC_v._Electric_Power_Supply_Ass%27n" title="FERC v. Electric Power Supply Ass'n">FERC v. Electric Power Supply Ass'n</a></i> concluded that the Federal Energy Regulatory Commission acted within its authority to ensure "just and reasonable" rates in the wholesale energy market.<sup id="cite_ref-46" class="reference"><a href="#cite_note-46">[46]</a></sup></p>
+<h2><span class="mw-headline" id="Demand_reduction_and_the_use_of_diesel_generators_in_the_UK_National_Grid">Demand reduction and the use of diesel generators in the UK National Grid</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Demand_response&amp;action=edit&amp;section=13" title="Edit section: Demand reduction and the use of diesel generators in the UK National Grid">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>As of December 2009 UK National Grid had 2369&#160;MW contracted to provide Demand Response, known as <a href="/wiki/National_Grid_Reserve_Service" title="National Grid Reserve Service">STOR</a>, the demand side provides 839&#160;MW (35%) from 89 sites. Of this 839&#160;MW approximately 750&#160;MW is back-up generation with the remaining being load reduction.<sup id="cite_ref-47" class="reference"><a href="#cite_note-47">[47]</a></sup> A paper based on extensive half-hourly demand profiles and observed electricity demand shifting for different commercial and industrial buildings in the UK shows that only a small minority engaged in load shifting and demand turn-down, while the majority of Demand Response is provided by stand-by generators.<sup id="cite_ref-48" class="reference"><a href="#cite_note-48">[48]</a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Demand_response&amp;action=edit&amp;section=14" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a href="/wiki/File:Crystal_energy.svg" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/29px-Crystal_energy.svg.png" width="29" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/44px-Crystal_energy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/59px-Crystal_energy.svg.png 2x" data-file-width="130" data-file-height="124" /></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Energy" title="Portal:Energy">Energy portal</a></span></li>
+</ul>
+</div>
+<div class="div-col columns column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em;">
+<ul>
+<li><a href="/wiki/Brittle_Power" title="Brittle Power">Brittle Power</a></li>
+<li>Calculating the cost of the UK Transmission network: <a href="/wiki/National_Grid_(UK)#Cost_per_kWh_of_transmission" class="mw-redirect" title="National Grid (UK)">cost per kWh of transmission</a></li>
+<li>Calculating the cost of back up: See <a href="/wiki/Spark_spread" title="Spark spread">spark spread</a></li>
+<li><a href="/wiki/Control_of_the_National_Grid" class="mw-redirect" title="Control of the National Grid">Control of the National Grid</a></li>
+<li><a href="/wiki/Diesel-electric_transmission" title="Diesel-electric transmission">Diesel-electric transmission</a></li>
+<li><a href="/wiki/Dynamic_Demand_(electric_power)" class="mw-redirect" title="Dynamic Demand (electric power)">Dynamic Demand power</a> - Demand response without smart grid</li>
+<li><a href="/wiki/Dumsor" title="Dumsor">Dumsor</a></li>
+<li><a href="/wiki/Economics_of_new_nuclear_power_plants" class="mw-redirect" title="Economics of new nuclear power plants">Economics of new nuclear power plants</a> (for cost comparisons)</li>
+<li><a href="/wiki/Energy_conservation" title="Energy conservation">Energy conservation</a></li>
+<li><a href="/wiki/Energy_Demand_Management" class="mw-redirect" title="Energy Demand Management">Energy Demand Management</a></li>
+<li><a href="/wiki/Energy_intensity" title="Energy intensity">Energy intensity</a></li>
+<li><a href="/wiki/Energy_security_and_renewable_technology" title="Energy security and renewable technology">Energy security and renewable technology</a></li>
+<li><a href="/wiki/Energy_use_and_conservation_in_the_United_Kingdom" class="mw-redirect" title="Energy use and conservation in the United Kingdom">Energy use and conservation in the United Kingdom</a></li>
+<li><a href="/wiki/High-voltage_direct_current" title="High-voltage direct current">High-voltage direct current</a></li>
+<li><a href="/wiki/Intermittent_energy_source" title="Intermittent energy source">Intermittent energy source</a></li>
+<li><a href="/wiki/List_of_power_outages" class="mw-redirect" title="List of power outages">List of power outages</a></li>
+<li><a href="/wiki/Load_bank" title="Load bank">Load bank</a></li>
+<li><a href="/wiki/Load_management" title="Load management">Load management</a></li>
+<li><a href="/wiki/Load_profile" title="Load profile">Load profile</a></li>
+<li><a href="/wiki/Motor-generator" class="mw-redirect" title="Motor-generator">Motor-generator</a></li>
+<li><a href="/wiki/National_Grid_Reserve_Service" title="National Grid Reserve Service">National Grid Reserve Service</a></li>
+<li><a href="/wiki/Northeast_Blackout_of_2003" class="mw-redirect" title="Northeast Blackout of 2003">Northeast Blackout of 2003</a></li>
+<li><a href="/wiki/Potential_energy" title="Potential energy">Potential energy</a></li>
+<li><a href="/wiki/Relative_cost_of_electricity_generated_by_different_sources" class="mw-redirect" title="Relative cost of electricity generated by different sources">Relative cost of electricity generated by different sources</a></li>
+<li><a href="/wiki/Three-phase_electric_power" title="Three-phase electric power">Three-phase electric power</a></li>
+<li><a href="/wiki/Wet_stacking" title="Wet stacking">Wet stacking</a></li>
+<li><a href="/wiki/Energy_Reduction_Assets" title="Energy Reduction Assets">Energy Reduction Assets</a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Demand_response&amp;action=edit&amp;section=15" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 33em; -webkit-column-width: 33em; column-width: 33em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation journal">Balijepalli, Murthy; Pradhan, Khaparde (2011). "Review of Demand Response under Smart Grid Paradigm". <i>IEEE PES Innovative Smart Grid Technologies</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADemand+response&amp;rft.atitle=Review+of+Demand+Response+under+Smart+Grid+Paradigm&amp;rft.aufirst=Murthy&amp;rft.aulast=Balijepalli&amp;rft.au=Pradhan%2C+Khaparde&amp;rft.date=2011&amp;rft.genre=article&amp;rft.jtitle=IEEE+PES+Innovative+Smart+Grid+Technologies&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation journal">Albadi, M. H.; E. F. El-Saadany (2007). "Demand Response in Electricity Markets: An Overview". <i>IEEE</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADemand+response&amp;rft.atitle=Demand+Response+in+Electricity+Markets%3A+An+Overview&amp;rft.au=E.+F.+El-Saadany&amp;rft.aufirst=M.+H.&amp;rft.aulast=Albadi&amp;rft.date=2007&amp;rft.genre=article&amp;rft.jtitle=IEEE&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Sianaki, O.A.; Masoum, M.A.S., "A fuzzy TOPSIS approach for home energy management in smart grid with considering householders' preferences," Innovative Smart Grid Technologies (ISGT), 2013 IEEE PES , vol., no., pp.1,6, 24-27 Feb. 2013, doi: 10.1109/ISGT.2013.6497819, <a rel="nofollow" class="external free" href="http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=6497819&amp;isnumber=6497783">http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=6497819&amp;isnumber=6497783</a></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Torriti, Jacopo (2016) "Peak energy demand and Demand Side Response" (Routledge): <a rel="nofollow" class="external free" href="https://www.routledge.com/products/9781138016255">https://www.routledge.com/products/9781138016255</a></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Sianaki, O.A.; Hussain, O.; Dillon, T.; Tabesh, A.R., "Intelligent Decision Support System for Including Consumers' Preferences in Residential Energy Consumption in Smart Grid," Computational Intelligence, Modelling and Simulation (CIMSiM), 2010 Second International Conference on , vol., no., pp.154,159, 28-30 Sept. 2010 doi: 10.1109/CIMSiM.2010.84;URL: <a rel="nofollow" class="external free" href="http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=5701838&amp;isnumber=5701812">http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=5701838&amp;isnumber=5701812</a></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://www.claverton-energy.com/download/42/">[1]</a> Description of French EJP demand reduction tariff</span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.claverton-energy.com/download/131/">Load management using diesel generators - talk at Open University - Dave Andrews Claverton Energy Group</a></span></li>
+<li id="cite_note-bookSG-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-bookSG_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-bookSG_8-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Berger, Lars T.; Iniewski, Krzysztof, eds. (April 2012). <a rel="nofollow" class="external text" href="http://eu.wiley.com/WileyCDA/WileyTitle/productCd-1118004396.html"><i>Smart Grid - Applicacions, Communications and Security</i></a>. John Wiley and Sons. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-1180-0439-5" title="Special:BookSources/978-1-1180-0439-5">978-1-1180-0439-5</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADemand+response&amp;rft.btitle=Smart+Grid+-+Applicacions%2C+Communications+and+Security&amp;rft.date=2012-04&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Feu.wiley.com%2FWileyCDA%2FWileyTitle%2FproductCd-1118004396.html&amp;rft.isbn=978-1-1180-0439-5&amp;rft.pub=John+Wiley+and+Sons&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20110819194522/http://www.energydsm.com/demand-response">"Description of the two types of demand response"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.energydsm.com/demand-response">the original</a> on 2011-08-19.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADemand+response&amp;rft.btitle=Description+of+the+two+types+of+demand+response&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.energydsm.com%2Fdemand-response&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-ReferenceA-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-ReferenceA_10-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Siano, Pierluigi (2014). "Demand response and smart grids - A survey". <i>Renewable and Sustainable Energy Reviews</i>. <b>30</b>: 461–478. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2Fj.rser.2013.10.022">10.1016/j.rser.2013.10.022</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADemand+response&amp;rft.atitle=Demand+response+and+smart+grids+-+A+survey&amp;rft.aufirst=Pierluigi&amp;rft.aulast=Siano&amp;rft.date=2014&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2Fj.rser.2013.10.022&amp;rft.jtitle=Renewable+and+Sustainable+Energy+Reviews&amp;rft.pages=461-478&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=30" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-jrcSG-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-jrcSG_11-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Giordano V.; Meletiou, A.; Covrig, C. F.; Mengolini, A.; Ardelean, M.; Fulli, G; Jiménez, M. S.; Filiou, C. (2013). <a rel="nofollow" class="external text" href="http://ses.jrc.ec.europa.eu/sites/ses.jrc.ec.europa.eu/files/documents/ld-na-25815-en-n_final_online_version_april_15_smart_grid_projects_in_europe_-_lessons_learned_and_current_developments_-2012_update.pdf">"Smart Grid Projects in Europe: Lessons learned and current developments"</a> <span style="font-size:85%;">(PDF)</span>. <i>JRC Scientific and Policy Report</i><span class="reference-accessdate">. Retrieved <span class="nowrap">3 May</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADemand+response&amp;rft.atitle=Smart+Grid+Projects+in+Europe%3A+Lessons+learned+and+current+developments&amp;rft.au=Ardelean%2C+M.&amp;rft.au=Covrig%2C+C.+F.&amp;rft.au=Filiou%2C+C.&amp;rft.au=Fulli%2C+G&amp;rft.au=Giordano+V.&amp;rft.au=Jim%C3%A9nez%2C+M.+S.&amp;rft.au=Meletiou%2C+A.&amp;rft.au=Mengolini%2C+A.&amp;rft.date=2013&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fses.jrc.ec.europa.eu%2Fsites%2Fses.jrc.ec.europa.eu%2Ffiles%2Fdocuments%2Fld-na-25815-en-n_final_online_version_april_15_smart_grid_projects_in_europe_-_lessons_learned_and_current_developments_-2012_update.pdf&amp;rft.jtitle=JRC+Scientific+and+Policy+Report&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-IEA-billing-2003-12"><span class="mw-cite-backlink">^ <a href="#cite_ref-IEA-billing-2003_12-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-IEA-billing-2003_12-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.iea.org/textbase/speech/2003/phbilling.pdf">The Power to Choose - Enhancing Demand Response in Liberalised Electricity Markets</a> Findings of <a href="/wiki/International_Energy_Agency" title="International Energy Agency">IEA</a> Demand Response Project, Presentation 2003</span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">Borlick, Robert L., Pricing Negawatts - DR design flaws create perverse incentives, PUBLIC UTILITIES FORTNIGHTLY, August 2010.</span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.ieso.ca/imoweb/pubs/marketReports/monthly/2006aug.pdf">Monthly Market Report - July 2006</a></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.ieso.ca/imoweb/pubs/marketReports/monthly/2006sep.pdf">http://www.ieso.ca/imoweb/pubs/marketReports/monthly/2006sep.pdf</a></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://wpweb2.tepper.cmu.edu/ceic/papers/ceic-07-01.asp">CEIC Working Paper Abstract</a></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://wpweb2.tepper.cmu.edu/ceic/papers/ceic-07-02.asp">CEIC Working Paper Abstract</a></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text">The Brattle Group, The Power of Five Percent, How Dynamic Pricing Can Save $35 Billion in Electricity Costs, May 16, 2007.</span></li>
+<li id="cite_note-autogenerated1-19"><span class="mw-cite-backlink">^ <a href="#cite_ref-autogenerated1_19-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-autogenerated1_19-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news">Tyler Hamilton (August 6, 2007). <a rel="nofollow" class="external text" href="http://www.thestar.com/columnists/article/243454">"A megawatt saved is a 'negawatt' earned"</a>. <i>The Toronto Star</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADemand+response&amp;rft.atitle=A+megawatt+saved+is+a+%27negawatt%27+earned&amp;rft.au=Tyler+Hamilton&amp;rft.date=2007-08-06&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.thestar.com%2Fcolumnists%2Farticle%2F243454&amp;rft.jtitle=The+Toronto+Star&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://claverton-energy.com/energy-experts-wiki/EJP_-_load_reduction_in_France">Description of French EJP tariff - Claverton Energy Group</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20110708164828/http://claverton-energy.com/energy-experts-wiki/EJP_-_load_reduction_in_France">Archived</a> July 8, 2011, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation journal">Reihani, Ehsan; Thornton, Matsu; Reihani, Ehsan; Ghorbani, Reza (2016). <a rel="nofollow" class="external text" href="http://www.sciencedirect.com/science/article/pii/S030626191631279X">"A novel approach using flexible scheduling and aggregation to optimize demand response in the developing interactive grid market architecture"</a>. <i>Applied Energy</i>. <b>183</b>: 445–455 – via Elsevier Science Direct.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADemand+response&amp;rft.atitle=A+novel+approach+using+flexible+scheduling+and+aggregation+to+optimize+demand+response+in+the+developing+interactive+grid+market+architecture&amp;rft.aufirst=Ehsan&amp;rft.au=Ghorbani%2C+Reza&amp;rft.aulast=Reihani&amp;rft.au=Reihani%2C+Ehsan&amp;rft.au=Thornton%2C+Matsu&amp;rft.date=2016&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS030626191631279X&amp;rft.jtitle=Applied+Energy&amp;rft.pages=445-455&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=183" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation journal">Motalleb, Mahdi; Thornton, Matsu; Reihani, Ehsan; Ghorbani, Reza (2016). <a rel="nofollow" class="external text" href="http://www.sciencedirect.com/science/article/pii/S0306261916310182">"A nascent market for contingency reserve services using demand response"</a>. <i>Applied Energy</i>. <b>179</b>: 985–995 – via Elsevier Science Direct.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADemand+response&amp;rft.atitle=A+nascent+market+for+contingency+reserve+services+using+demand+response&amp;rft.aufirst=Mahdi&amp;rft.au=Ghorbani%2C+Reza&amp;rft.aulast=Motalleb&amp;rft.au=Reihani%2C+Ehsan&amp;rft.au=Thornton%2C+Matsu&amp;rft.date=2016&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS0306261916310182&amp;rft.jtitle=Applied+Energy&amp;rft.pages=985-995&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=179" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation journal">Motalleb, Mahdi; Thornton, Matsu; Reihani, Ehsan; Ghorbani, Reza (2016). <a rel="nofollow" class="external text" href="http://www.sciencedirect.com/science/article/pii/S0196890416306276">"Providing frequency regulation reserve services using demand response scheduling"</a>. <i>Energy Conversion and Management</i>. <b>124</b>: 439–452 – via Elsevier Science Direct.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADemand+response&amp;rft.atitle=Providing+frequency+regulation+reserve+services+using+demand+response+scheduling&amp;rft.aufirst=Mahdi&amp;rft.au=Ghorbani%2C+Reza&amp;rft.aulast=Motalleb&amp;rft.au=Reihani%2C+Ehsan&amp;rft.au=Thornton%2C+Matsu&amp;rft.date=2016&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS0196890416306276&amp;rft.jtitle=Energy+Conversion+and+Management&amp;rft.pages=439-452&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=124" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-TCL1-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-TCL1_24-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">N. A. Sinitsyn. S. Kundu, S. Backhaus (2013). "Safe Protocols for Generating Power Pulses with Heterogeneous Populations of Thermostatically Controlled Loads". <i><a href="/wiki/Energy_Conversion_and_Management" title="Energy Conversion and Management">Energy Conversion and Management</a></i>. <b>67</b>: 297–308. <a href="/wiki/ArXiv" title="ArXiv">arXiv</a>:<span class="plainlinks"><a rel="nofollow" class="external text" href="//arxiv.org/abs/1211.0248">1211.0248</a><span style="margin-left:0.1em"><img alt="Freely accessible" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" title="Freely accessible" width="9" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" data-file-width="512" data-file-height="813" /></span></span>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2Fj.enconman.2012.11.021">10.1016/j.enconman.2012.11.021</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADemand+response&amp;rft.atitle=Safe+Protocols+for+Generating+Power+Pulses+with+Heterogeneous+Populations+of+Thermostatically+Controlled+Loads&amp;rft.au=N.+A.+Sinitsyn.+S.+Kundu%2C+S.+Backhaus&amp;rft.date=2013&amp;rft.genre=article&amp;rft_id=info%3Aarxiv%2F1211.0248&amp;rft_id=info%3Adoi%2F10.1016%2Fj.enconman.2012.11.021&amp;rft.jtitle=Energy+Conversion+and+Management&amp;rft.pages=297-308&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=67" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Peaksaver-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-Peaksaver_25-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.torontohydro.com/peaksaver">Peaksaver</a></span></li>
+<li id="cite_note-Ashland-Bonneville-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-Ashland-Bonneville_26-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://energypriorities.com/entries/2006/04/bpa_ashland_goodwatts.php">Demand-Side Management Technology Avoids Grid Construction for Bonneville Power (Case Study)</a> April, 2006</span></li>
+<li id="cite_note-SmartGridDC-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-SmartGridDC_27-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.encycle.com/wp-content/uploads/2015/10/Encycle-Savings-White-Paper.pdf">Smart Grid: Taking our cue from nature</a></span></li>
+<li id="cite_note-BusinessWeek20090217-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-BusinessWeek20090217_28-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Katie Fehrenbacher. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20090221141541/http://www.businessweek.com:80/technology/content/feb2009/tc20090216_083057.htm?">"Is Smart Energy Poised to Swarm California?"</a>. <i>Businessweek.com</i>. Archived from <a rel="nofollow" class="external text" href="http://www.businessweek.com/technology/content/feb2009/tc20090216_083057.htm">the original</a> on 2009-02-21.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADemand+response&amp;rft.atitle=Is+Smart+Energy+Poised+to+Swarm+California%3F&amp;rft.au=Katie+Fehrenbacher&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.businessweek.com%2Ftechnology%2Fcontent%2Ffeb2009%2Ftc20090216_083057.htm&amp;rft.jtitle=Businessweek.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-TechnologyReview20090204-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-TechnologyReview20090204_29-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.technologyreview.com/energy/22066/">MIT Technology Review: Managing Energy with Swarm Logic, Feb 04 2009</a></span></li>
+<li id="cite_note-Encycle-EnviroGrid-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-Encycle-EnviroGrid_30-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.encycle.com/swarm-logic/">EnviroGrid Controllers employ Swarm Logic for Smart Grid Applications</a></span></li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.claverton-energy.com/bbc-talks-about-dynamic-demand-smart-fridges-and-smart-metering.html">"BBC talks about Dynamic Demand (smart fridges) and Smart Metering."</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADemand+response&amp;rft.btitle=BBC+talks+about+Dynamic+Demand+%28smart+fridges%29+and+Smart+Metering.&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.claverton-energy.com%2Fbbc-talks-about-dynamic-demand-smart-fridges-and-smart-metering.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><cite class="citation journal">Zhang, Xiao; Hug, G.; Kolter, Z.; Harjunkoski, I. (2015-10-01). <a rel="nofollow" class="external text" href="http://ieeexplore.ieee.org/lpdocs/epic03/wrapper.htm?arnumber=7335115">"Industrial demand response by steel plants with spinning reserve provision"</a>. <i>North American Power Symposium (NAPS), 2015</i>: 1–6. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1109%2FNAPS.2015.7335115">10.1109/NAPS.2015.7335115</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADemand+response&amp;rft.atitle=Industrial+demand+response+by+steel+plants+with+spinning+reserve+provision&amp;rft.aufirst=Xiao&amp;rft.au=Harjunkoski%2C+I.&amp;rft.au=Hug%2C+G.&amp;rft.au=Kolter%2C+Z.&amp;rft.aulast=Zhang&amp;rft.date=2015-10-01&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fieeexplore.ieee.org%2Flpdocs%2Fepic03%2Fwrapper.htm%3Farnumber%3D7335115&amp;rft_id=info%3Adoi%2F10.1109%2FNAPS.2015.7335115&amp;rft.jtitle=North+American+Power+Symposium+%28NAPS%29%2C+2015&amp;rft.pages=1-6&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><cite class="citation journal">Zhang, X.; Hug, G. (2014-07-01). <a rel="nofollow" class="external text" href="http://ieeexplore.ieee.org/lpdocs/epic03/wrapper.htm?arnumber=6939343">"Optimal regulation provision by aluminum smelters"</a>. <i>2014 IEEE PES General Meeting | Conference Exposition</i>: 1–5. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1109%2FPESGM.2014.6939343">10.1109/PESGM.2014.6939343</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADemand+response&amp;rft.atitle=Optimal+regulation+provision+by+aluminum+smelters&amp;rft.aufirst=X.&amp;rft.au=Hug%2C+G.&amp;rft.aulast=Zhang&amp;rft.date=2014-07-01&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fieeexplore.ieee.org%2Flpdocs%2Fepic03%2Fwrapper.htm%3Farnumber%3D6939343&amp;rft_id=info%3Adoi%2F10.1109%2FPESGM.2014.6939343&amp;rft.jtitle=2014+IEEE+PES+General+Meeting+%7C+Conference+Exposition&amp;rft.pages=1-5&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><cite class="citation journal">Zhang, X.; Hug, G. (2015-02-01). <a rel="nofollow" class="external text" href="http://ieeexplore.ieee.org/lpdocs/epic03/wrapper.htm?arnumber=7131854">"Bidding strategy in energy and spinning reserve markets for aluminum smelters' demand response"</a>. <i>Innovative Smart Grid Technologies Conference (ISGT), 2015 IEEE Power Energy Society</i>: 1–5. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1109%2FISGT.2015.7131854">10.1109/ISGT.2015.7131854</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADemand+response&amp;rft.atitle=Bidding+strategy+in+energy+and+spinning+reserve+markets+for+aluminum+smelters%27+demand+response&amp;rft.aufirst=X.&amp;rft.au=Hug%2C+G.&amp;rft.aulast=Zhang&amp;rft.date=2015-02-01&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fieeexplore.ieee.org%2Flpdocs%2Fepic03%2Fwrapper.htm%3Farnumber%3D7131854&amp;rft_id=info%3Adoi%2F10.1109%2FISGT.2015.7131854&amp;rft.jtitle=Innovative+Smart+Grid+Technologies+Conference+%28ISGT%29%2C+2015+IEEE+Power+Energy+Society&amp;rft.pages=1-5&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.bloomberg.com/news/articles/2014-11-26/germanys-trimet-aluminium-turns-smelting-tanks-into-batteries">"Storing Power in Molten Aluminum Lakes"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADemand+response&amp;rft.btitle=Storing+Power+in+Molten+Aluminum+Lakes&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2014-11-26%2Fgermanys-trimet-aluminium-turns-smelting-tanks-into-batteries&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-36">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.npr.org/templates/story/story.php?storyId=128365808">"How Smart Is The Smart Grid?"</a>. <i>NPR.org</i>. 7 July 2010.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADemand+response&amp;rft.atitle=How+Smart+Is+The+Smart+Grid%3F&amp;rft.date=2010-07-07&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.npr.org%2Ftemplates%2Fstory%2Fstory.php%3FstoryId%3D128365808&amp;rft.jtitle=NPR.org&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-37">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.oe.energy.gov/DocumentsandMedia/congress_1252d.pdf">Benefits of demand response in electricity markets and recommendations for achieving them</a> <a href="/wiki/United_States" title="United States">United States</a> <a href="/wiki/United_States_Department_of_Energy" title="United States Department of Energy">DOE</a> Report to the Congress, February 2006</span></li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-38">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.ferc.gov/media/news-releases/2011/2011-1/03-15-11.asp">"FERC: News Release: FERC approves market-based demand response compensation rule"</a>. 15 March 2011.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADemand+response&amp;rft.btitle=FERC%3A+News+Release%3A+FERC+approves+market-based+demand+response+compensation+rule&amp;rft.date=2011-03-15&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.ferc.gov%2Fmedia%2Fnews-releases%2F2011%2F2011-1%2F03-15-11.asp&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-39">^</a></b></span> <span class="reference-text">Hogan, William W., Implications for Consumers of the NOPR’s Proposal to Pay the LMP for All Demand Response, Statement submitted on behalf of the Electric Power Supply Association in FERC Docket No. RM10-17-000, May 12, 2010.</span></li>
+<li id="cite_note-40"><span class="mw-cite-backlink"><b><a href="#cite_ref-40">^</a></b></span> <span class="reference-text">Electric Power Supply Association, et al, JOINT REQUEST FOR REHEARING OF THE ELECTRIC POWER SUPPLY ASSOCIATION, THE AMERICAN PUBLIC POWER ASSOCIATION, THE ELECTRIC POWER GENERATION ASSOCIATION AND THE NATIONAL RURAL ELECTRIC COOPERATIVE ASSOCIATION, FERC Docket No. RM10-17-001, April 14, 2011, California Public Utilities Commission, Demand Response Compensation in Organized Wholesale Energy Markets, Docket No. RM10-17-000, Request For Clarification or, in theAlternative, Request for Rehearing of the Public Utilities Commission of the State of California, April 14, 2011.</span></li>
+<li id="cite_note-41"><span class="mw-cite-backlink"><b><a href="#cite_ref-41">^</a></b></span> <span class="reference-text">Jonathan Falk, Paying For Demand Response at the Wholesale Level, <i>The Electricity Journal</i>, November 2010, Vol. 23, Issue 9, pp. 13-18.</span></li>
+<li id="cite_note-42"><span class="mw-cite-backlink"><b><a href="#cite_ref-42">^</a></b></span> <span class="reference-text">Robert Borlick, Paying For Demand Response at the Wholesale Level: The Small Consumer's Perspective, <i>The Electricity Journal</i>, November 2011, Vol. 24, Issue 9, pp. 13-19.</span></li>
+<li id="cite_note-43"><span class="mw-cite-backlink"><b><a href="#cite_ref-43">^</a></b></span> <span class="reference-text">Constantine Gonatas, Areas of Congruence, Yes, But 'Pseudo-Agreement' on LMP, <i>The Electricity Journal</i>, Jan./Feb. 2012, Vol. 25, Issue 1, pp. 1-4</span></li>
+<li id="cite_note-44"><span class="mw-cite-backlink"><b><a href="#cite_ref-44">^</a></b></span> <span class="reference-text"><cite><i>Electric Power Supply Ass'n v. FERC</i></cite>, <a rel="nofollow" class="external text" href="http://scholar.google.com/scholar_case?case=8932925879645846996">753 F.3d 216</a> (D.C. Cir. 2014).</span></li>
+<li id="cite_note-45"><span class="mw-cite-backlink"><b><a href="#cite_ref-45">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.supremecourt.gov/orders/courtorders/050415zor_7648.pdf">http://www.supremecourt.gov/orders/courtorders/050415zor_7648.pdf</a></span></li>
+<li id="cite_note-46"><span class="mw-cite-backlink"><b><a href="#cite_ref-46">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.supremecourt.gov/opinions/15pdf/14-840_k537.pdf">http://www.supremecourt.gov/opinions/15pdf/14-840_k537.pdf</a></span></li>
+<li id="cite_note-47"><span class="mw-cite-backlink"><b><a href="#cite_ref-47">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.claverton-energy.com/commercial-opportunities-for-back-up-generation-and-load-reduction-via-national-grid-the-national-electricity-transmission-system-operator-netso-for-england-scotland-wales-and-offshore.html">http://www.claverton-energy.com/commercial-opportunities-for-back-up-generation-and-load-reduction-via-national-grid-the-national-electricity-transmission-system-operator-netso-for-england-scotland-wales-and-offshore.html</a> Commercial Opportunities for Back-Up Generation and Load Reduction via National Grid, the National Electricity Transmission System Operator (NETSO) for England, Scotland, Wales and Offshore</span></li>
+<li id="cite_note-48"><span class="mw-cite-backlink"><b><a href="#cite_ref-48">^</a></b></span> <span class="reference-text"><cite class="citation journal">Grunewald, P.; J. Torriti (2013). "Demand response from the non-domestic sector: Early UK experiences and future opportunities". <i>Energy Policy</i>. <b>61</b>: 423–429. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2Fj.enpol.2013.06.051">10.1016/j.enpol.2013.06.051</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADemand+response&amp;rft.atitle=Demand+response+from+the+non-domestic+sector%3A+Early+UK+experiences+and+future+opportunities&amp;rft.aufirst=P.&amp;rft.au=J.+Torriti&amp;rft.aulast=Grunewald&amp;rft.date=2013&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2Fj.enpol.2013.06.051&amp;rft.jtitle=Energy+Policy&amp;rft.pages=423-429&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=61" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Electricity_delivery" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Electricity_delivery" title="Template:Electricity delivery"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Electricity_delivery" title="Template talk:Electricity delivery"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Electricity_delivery&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Electricity_delivery" style="font-size:114%"><a href="/wiki/Electricity_delivery" title="Electricity delivery">Electricity delivery</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Concepts</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Availability_factor" title="Availability factor">Availability factor</a></li>
+<li><a href="/wiki/Automatic_generation_control" class="mw-redirect" title="Automatic generation control">Automatic generation control</a></li>
+<li><a href="/wiki/Base_load" title="Base load">Base load</a></li>
+<li><a href="/wiki/Black_start" title="Black start">Black start</a></li>
+<li><a href="/wiki/Capacity_factor" title="Capacity factor">Capacity factor</a></li>
+<li><a href="/wiki/Demand_factor" title="Demand factor">Demand factor</a></li>
+<li><a href="/wiki/Droop_speed_control" title="Droop speed control">Droop speed control</a></li>
+<li><a href="/wiki/Energy_demand_management" title="Energy demand management">Demand management</a></li>
+<li><a href="/wiki/Energy_returned_on_energy_invested" title="Energy returned on energy invested">EROEI</a></li>
+<li><a href="/wiki/Fault_(power_engineering)" title="Fault (power engineering)">Fault</a></li>
+<li><a href="/wiki/Grid_energy_storage" title="Grid energy storage">Grid storage</a></li>
+<li><a href="/wiki/Intermittent_energy_source" title="Intermittent energy source">Intermittency</a></li>
+<li><a href="/wiki/Load_factor_(electrical)" title="Load factor (electrical)">Load factor</a></li>
+<li><a href="/wiki/Load_following_power_plant" title="Load following power plant">Load following</a></li>
+<li><a href="/wiki/Nameplate_capacity" title="Nameplate capacity">Nameplate capacity</a></li>
+<li><a href="/wiki/Peak_demand" title="Peak demand">Peak demand</a></li>
+<li><a href="/wiki/Electric_power_quality" title="Electric power quality">Power quality</a></li>
+<li><a href="/wiki/Power-flow_study" title="Power-flow study">Power-flow study</a></li>
+<li><a href="/wiki/Repowering" title="Repowering">Repowering</a></li>
+<li><a href="/wiki/Variable_renewable_energy" title="Variable renewable energy">Variability</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Sources</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;width:7em;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Non-renewable_energy" class="mw-redirect" title="Non-renewable energy">Nonrenewable</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Coal" title="Coal">Coal</a></li>
+<li><a href="/wiki/Fossil_fuel_power_station" title="Fossil fuel power station">Fossil fuel power station</a></li>
+<li><a href="/wiki/Natural_gas" title="Natural gas">Natural gas</a></li>
+<li><a href="/wiki/Petroleum" title="Petroleum">Petroleum</a></li>
+<li><a href="/wiki/Nuclear_power" title="Nuclear power">Nuclear</a></li>
+<li><a href="/wiki/Oil_shale" title="Oil shale">Oil shale</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;width:7em;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Renewable_energy" title="Renewable energy">Renewable</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Biomass" title="Biomass">Biomass</a></li>
+<li><a href="/wiki/Biofuel" title="Biofuel">Biofuel</a></li>
+<li><a href="/wiki/Geothermal_power" title="Geothermal power">Geothermal</a></li>
+<li><a href="/wiki/Hydroelectricity" title="Hydroelectricity">Hydro</a></li>
+<li><a href="/wiki/Marine_energy" title="Marine energy">Marine</a>
+<ul>
+<li><a href="/wiki/Marine_current_power" title="Marine current power">Current</a></li>
+<li><a href="/wiki/Osmotic_power" title="Osmotic power">Osmotic</a></li>
+<li><a href="/wiki/Ocean_thermal_energy" class="mw-redirect" title="Ocean thermal energy">Thermal</a></li>
+<li><a href="/wiki/Tidal_power" title="Tidal power">Tidal</a></li>
+<li><a href="/wiki/Wave_power" title="Wave power">Wave</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Solar_power" title="Solar power">Solar</a></li>
+<li><a href="/wiki/Wind_power" title="Wind power">Wind</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Category:Power_station_technology" title="Category:Power station technology">Generation</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/AC_power" title="AC power">AC power</a></li>
+<li><a href="/wiki/Cogeneration" title="Cogeneration">Cogeneration</a></li>
+<li><a href="/wiki/Combined_cycle" title="Combined cycle">Combined cycle</a></li>
+<li><a href="/wiki/Cooling_tower" title="Cooling tower">Cooling tower</a></li>
+<li><a href="/wiki/Induction_generator" title="Induction generator">Induction generator</a></li>
+<li><a href="/wiki/Micro_combined_heat_and_power" title="Micro combined heat and power">Micro CHP</a></li>
+<li><a href="/wiki/Microgeneration" title="Microgeneration">Microgeneration</a></li>
+<li><a href="/wiki/Rankine_cycle" title="Rankine cycle">Rankine cycle</a></li>
+<li><a href="/wiki/Three-phase_electric_power" title="Three-phase electric power">Three-phase electric power</a></li>
+<li><a href="/wiki/Virtual_power_plant" title="Virtual power plant">Virtual power plant</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">
+<div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Electric_power_transmission" title="Electric power transmission">Transmission</a><br />
+and <a href="/wiki/Electric_power_distribution" title="Electric power distribution">distribution</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Power_outage" title="Power outage">Blackout</a> (<a href="/wiki/Rolling_blackout" title="Rolling blackout">Rolling blackout</a>)</li>
+<li><a href="/wiki/Brownout_(electricity)" title="Brownout (electricity)">Brownout</a></li>
+<li><strong class="selflink">Demand response</strong></li>
+<li><a href="/wiki/Distributed_generation" title="Distributed generation">Distributed generation</a></li>
+<li><a href="/wiki/Dynamic_demand_(electric_power)" title="Dynamic demand (electric power)">Dynamic demand</a></li>
+<li><a href="/wiki/Electric_power_distribution" title="Electric power distribution">Electric power distribution</a></li>
+<li><a href="/wiki/Electric_power_system" title="Electric power system">Electric power system</a></li>
+<li><a href="/wiki/Electric_power_transmission" title="Electric power transmission">Electric power transmission</a></li>
+<li><a href="/wiki/Electrical_grid" title="Electrical grid">Electrical grid</a></li>
+<li><a href="/wiki/High-voltage_direct_current" title="High-voltage direct current">High-voltage direct current</a></li>
+<li><a href="/wiki/Load_management" title="Load management">Load management</a></li>
+<li><a href="/wiki/Pumped-storage_hydroelectricity" title="Pumped-storage hydroelectricity">Pumped hydro</a></li>
+<li><a href="/wiki/Power_station" title="Power station">Power station</a></li>
+<li><a href="/wiki/Power_storage" class="mw-redirect" title="Power storage">Power storage</a></li>
+<li><a href="/wiki/Smart_grid" title="Smart grid">Smart grid</a></li>
+<li><a href="/wiki/Electrical_substation" title="Electrical substation">Substation</a></li>
+<li><a href="/wiki/Super_grid" title="Super grid">Super grid</a></li>
+<li><a href="/wiki/Transformer" title="Transformer">Transformer</a></li>
+<li><a href="/wiki/Transmission_system_operator" title="Transmission system operator">Transmission system operator</a> (TSO)</li>
+<li><a href="/wiki/Transmission_tower" title="Transmission tower">Transmission tower</a></li>
+<li><a href="/wiki/Utility_pole" title="Utility pole">Utility pole</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">
+<div style="padding:0.1em 0;line-height:1.2em;">Protective<br />
+devices</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Arc-fault_circuit_interrupter" title="Arc-fault circuit interrupter">Arc-fault circuit interrupter</a></li>
+<li><a href="/wiki/Earth_leakage_circuit_breaker" title="Earth leakage circuit breaker">Earth leakage circuit breaker</a></li>
+<li><a href="/wiki/Residual-current_device" title="Residual-current device">Residual-current device</a> (GFI)</li>
+<li><a href="/wiki/Power-system_protection" title="Power-system protection">Power-system protection</a></li>
+<li><a href="/wiki/Protective_relay" title="Protective relay">Protective relay</a></li>
+<li><a href="/wiki/Digital_protective_relay" title="Digital protective relay">Digital protective relay</a></li>
+<li><a href="/wiki/Sulfur_hexafluoride_circuit_breaker" title="Sulfur hexafluoride circuit breaker">Sulfur hexafluoride circuit breaker</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">
+<div style="padding:0.1em 0;line-height:1.2em;">Economics<br />
+and policies</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Carbon_offset" title="Carbon offset">Carbon offset</a></li>
+<li><a href="/wiki/Cost_of_electricity_by_source" title="Cost of electricity by source">Cost of electricity by source</a></li>
+<li><a href="/wiki/Ecotax" title="Ecotax">Ecotax</a></li>
+<li><a href="/wiki/Energy_subsidies" title="Energy subsidies">Energy subsidies</a></li>
+<li><a href="/wiki/Feed-in_tariff" title="Feed-in tariff">Feed-in tariff</a></li>
+<li><a href="/wiki/Fossil-fuel_phase-out" class="mw-redirect" title="Fossil-fuel phase-out">Fossil-fuel phase-out</a></li>
+<li><a href="/wiki/Net_metering" title="Net metering">Net metering</a></li>
+<li><a href="/wiki/Pigovian_tax" title="Pigovian tax">Pigovian tax</a></li>
+<li><a href="/wiki/Renewable_Energy_Certificates" class="mw-redirect" title="Renewable Energy Certificates">Renewable Energy Certificates</a></li>
+<li><a href="/wiki/Renewable_energy_payments" class="mw-redirect" title="Renewable energy payments">Renewable energy payments</a></li>
+<li><a href="/wiki/Renewable_energy_policy" class="mw-redirect" title="Renewable energy policy">Renewable energy policy</a></li>
+<li><a href="/wiki/Spark_spread" title="Spark spread">Spark spread</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<dl>
+<dt>Categories</dt>
+<dd><a href="/wiki/Category:Electric_power_distribution" title="Category:Electric power distribution">Electric power distribution</a></dd>
+<dd><a href="/wiki/Category:Electricity_economics" title="Category:Electricity economics">Electricity economics</a></dd>
+<dd><a href="/wiki/Category:Power_station_technology" title="Category:Power station technology">Power station technology</a></dd>
+<dt>Portals</dt>
+<dd><a href="/wiki/Portal:Energy" title="Portal:Energy">Energy</a></dd>
+<dd><a href="/wiki/Portal:Renewable_energy" title="Portal:Renewable energy">Renewable energy</a></dd>
+<dd><a href="/wiki/Portal:Sustainable_development" title="Portal:Sustainable development">Sustainable development</a></dd>
+</dl>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1275
+Cached time: 20170202204659
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.272 seconds
+Real time usage: 0.333 seconds
+Preprocessor visited node count: 1950/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 65134/2097152 bytes
+Template argument size: 1275/2097152 bytes
+Highest expansion depth: 8/40
+Expensive parser function count: 2/500
+Lua time usage: 0.098/10.000 seconds
+Lua memory usage: 4.74 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  244.687      1 -total
+ 53.46%  130.809      1 Template:Reflist
+ 26.07%   63.787     11 Template:Cite_journal
+ 13.46%   32.945      1 Template:More_footnotes
+ 10.18%   24.900      1 Template:Ambox
+  8.39%   20.535      1 Template:About
+  8.34%   20.418      7 Template:Cite_web
+  7.97%   19.509      2 Template:Navbox
+  7.43%   18.173      1 Template:Electricity_generation
+  3.04%    7.433      1 Template:Navbox_subgroup
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:2696466-0!*!0!!en!4!* and timestamp 20170202204659 and revision id 760474895
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Demand_response&amp;oldid=760474895">https://en.wikipedia.org/w/index.php?title=Demand_response&amp;oldid=760474895</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Electricity_economics" title="Category:Electricity economics">Electricity economics</a></li><li><a href="/wiki/Category:Electrical_grid" title="Category:Electrical grid">Electrical grid</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_Wayback_Machine_links" title="Category:Articles with Wayback Machine links">Articles with Wayback Machine links</a></li><li><a href="/wiki/Category:Articles_lacking_in-text_citations_from_July_2011" title="Category:Articles lacking in-text citations from July 2011">Articles lacking in-text citations from July 2011</a></li><li><a href="/wiki/Category:All_articles_lacking_in-text_citations" title="Category:All articles lacking in-text citations">All articles lacking in-text citations</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Demand+response" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Demand+response" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Demand_response"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Demand_response"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Demand_response" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Demand_response&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Demand_response&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Demand_response" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Demand_response" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Demand_response&amp;oldid=760474895" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Demand_response&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q5255048" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Demand_response&amp;id=760474895" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Demand+response">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Demand+response&amp;returnto=Demand+response&amp;oldid=760474895&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Demand_response&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A7%D8%B3%D8%AA%D8%AC%D8%A7%D8%A8%D8%A9_%D9%84%D9%84%D8%B7%D9%84%D8%A8" title="استجابة للطلب – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%BE%D8%A7%D8%B3%D8%AE%DA%AF%D9%88%DB%8C%DB%8C_%D8%A8%D8%A7%D8%B1" title="پاسخگویی بار – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/R%C3%A9ponse_%C3%A0_la_demande" title="Réponse à la demande – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q5255048#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 17 January 2017, at 05:48.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Demand_response&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.272","walltime":"0.333","ppvisitednodes":{"value":1950,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":65134,"limit":2097152},"templateargumentsize":{"value":1275,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  244.687      1 -total"," 53.46%  130.809      1 Template:Reflist"," 26.07%   63.787     11 Template:Cite_journal"," 13.46%   32.945      1 Template:More_footnotes"," 10.18%   24.900      1 Template:Ambox","  8.39%   20.535      1 Template:About","  8.34%   20.418      7 Template:Cite_web","  7.97%   19.509      2 Template:Navbox","  7.43%   18.173      1 Template:Electricity_generation","  3.04%    7.433      1 Template:Navbox_subgroup"]},"scribunto":{"limitreport-timeusage":{"value":"0.098","limit":"10.000"},"limitreport-memusage":{"value":4966449,"limit":52428800}},"cachereport":{"origin":"mw1275","timestamp":"20170202204659","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":425,"wgHostname":"mw1275"});});</script>
+	</body>
+</html>

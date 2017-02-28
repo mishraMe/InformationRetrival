@@ -1,0 +1,1633 @@
+url : https://en.wikipedia.org/wiki/Atmospheric_dispersion_modeling
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Atmospheric dispersion modeling - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Atmospheric_dispersion_modeling","wgTitle":"Atmospheric dispersion modeling","wgCurRevisionId":752533575,"wgRevisionId":752533575,"wgArticleId":3747894,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with dead external links","Articles with dead external links from October 2016","Articles with permanently dead external links","CS1 maint: Uses authors parameter","CS1 maint: Uses editors parameter","Articles with Dutch-language external links","Atmospheric dispersion modeling","Air pollution","Environmental engineering","Industrial emissions control","Climate modeling"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Atmospheric_dispersion_modeling","wgRelevantArticleId":3747894,"wgRequestId":"WIkm4QpAAEEAAcMchsMAAAAP","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q778187","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","ext.math.scripts","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.8"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Atmospheric_dispersion_modeling"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Atmospheric_dispersion_modeling&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Atmospheric_dispersion_modeling&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Atmospheric_dispersion_modeling"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Atmospheric_dispersion_modeling rootpage-Atmospheric_dispersion_modeling skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Atmospheric dispersion modeling</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div class="thumb tright">
+<div class="thumbinner" style="width:153px;"><a href="/wiki/File:AirPollutionSource.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/b/b9/AirPollutionSource.jpg" width="151" height="203" class="thumbimage" data-file-width="151" data-file-height="203" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:AirPollutionSource.jpg" class="internal" title="Enlarge"></a></div>
+Industrial air pollution source</div>
+</div>
+</div>
+<p><b>Atmospheric dispersion modeling</b> is the <a href="/wiki/Computer_simulation" title="Computer simulation">mathematical simulation</a> of how <a href="/wiki/Air_pollution" title="Air pollution">air pollutants</a> disperse in the ambient <a href="/wiki/Earth%27s_atmosphere" class="mw-redirect" title="Earth's atmosphere">atmosphere</a>. It is performed with computer programs that solve the mathematical equations and <a href="/wiki/Algorithm" title="Algorithm">algorithms</a> which simulate the pollutant dispersion. The <a href="/wiki/Air_pollution_dispersion_terminology" class="mw-redirect" title="Air pollution dispersion terminology">dispersion models</a> are used to estimate the downwind ambient <a href="/wiki/Concentration" title="Concentration">concentration</a> of air pollutants or toxins emitted from sources such as industrial plants, vehicular traffic or accidental chemical releases. They can also be used to predict future concentrations under specific scenarios (i.e. changes in emission sources). Therefore, they are the dominant type of model used in air quality policy making. They are most useful for pollutants that are dispersed over large distances and that may react in the atmosphere. For pollutants that have a very high spatio-temporal variability (i.e. have very steep distance to source decay such as <a href="/wiki/Black_carbon" title="Black carbon">black carbon</a>) and for <a href="/wiki/Epidemiology" title="Epidemiology">epidemiological</a> studies statistical land-use regression models are also used.</p>
+<p>Dispersion models are important to governmental agencies tasked with protecting and managing the ambient <a href="/wiki/Air_quality" class="mw-redirect" title="Air quality">air quality</a>. The models are typically employed to determine whether existing or proposed new industrial facilities are or will be in compliance with the <a href="/wiki/National_Ambient_Air_Quality_Standards" title="National Ambient Air Quality Standards">National Ambient Air Quality Standards</a> (NAAQS) in the <a href="/wiki/United_States" title="United States">United States</a> and other nations. The models also serve to assist in the design of effective control strategies to reduce <a href="/wiki/Emission_standards" class="mw-redirect" title="Emission standards">emissions</a> of harmful air pollutants. During the late 1960s, the Air Pollution Control Office of the U.S. EPA initiated research projects that would lead to the development of models for the use by urban and transportation planners.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> A major and significant application of a roadway dispersion model that resulted from such research was applied to the <a href="/wiki/Spadina_Expressway" class="mw-redirect" title="Spadina Expressway">Spadina Expressway</a> of Canada in 1971.</p>
+<p>Air dispersion models are also used by public safety responders and emergency management personnel for emergency planning of accidental chemical releases. Models are used to determine the consequences of accidental releases of hazardous or toxic materials, Accidental releases may result in fires, spills or explosions that involve hazardous materials, such as chemicals or radionuclides. The results of dispersion modeling, using worst case <a href="/wiki/Accidental_release_source_terms" title="Accidental release source terms">accidental release source terms</a> and meteorological conditions, can provide an estimate of location impacted areas, ambient concentrations, and be used to determine protective actions appropriate in the event a release occurs. Appropriate protective actions may include evacuation or <a href="/wiki/Shelter_in_place" title="Shelter in place">shelter in place</a> for persons in the downwind direction. At industrial facilities, this type of consequence assessment or emergency planning is required under the <a href="/wiki/Clean_Air_Act_(United_States)" title="Clean Air Act (United States)">Clean Air Act (United States)</a> (CAA) codified in Part 68 of Title 40 of the <a href="/wiki/Code_of_Federal_Regulations" title="Code of Federal Regulations">Code of Federal Regulations</a>.</p>
+<p>The dispersion models vary depending on the mathematics used to develop the model, but all require the input of data that may include:</p>
+<ul>
+<li><a href="/wiki/Meteorology" title="Meteorology">Meteorological</a> conditions such as wind speed and direction, the amount of atmospheric <a href="/wiki/Turbulence" title="Turbulence">turbulence</a> (as characterized by what is called the <a href="/wiki/Air_pollution_dispersion_terminology#Characterization_of_atmospheric_turbulence" class="mw-redirect" title="Air pollution dispersion terminology">"stability class"</a>), the ambient air temperature, the height to the bottom of any <a href="/wiki/Temperature_inversion" class="mw-redirect" title="Temperature inversion">inversion</a> aloft that may be present, cloud cover and solar radiation.</li>
+<li>Source term (the concentration or quantity of toxins in emission or <a href="/wiki/Accidental_release_source_terms" title="Accidental release source terms">accidental release source terms</a>) and temperature of the material</li>
+<li>Emissions or release parameters such as source location and height, type of source (i.e., fire, pool or vent stack)and exit <a href="/wiki/Velocity" title="Velocity">velocity</a>, exit temperature and <a href="/wiki/Mass_flow_rate" title="Mass flow rate">mass flow rate</a> or release rate.</li>
+<li>Terrain elevations at the source location and at the receptor location(s), such as nearby homes, schools, businesses and hospitals.</li>
+<li>The location, height and width of any obstructions (such as buildings or other structures) in the path of the emitted gaseous plume, surface roughness or the use of a more generic parameter "rural" or "city" terrain.</li>
+</ul>
+<p>Many of the modern, advanced dispersion modeling programs include a <a href="/wiki/Preprocessor_(CAE)" title="Preprocessor (CAE)">pre-processor</a> module for the input of meteorological and other data, and many also include a post-processor module for graphing the output data and/or <a href="/wiki/Plot_(graphics)" title="Plot (graphics)">plotting</a> the area impacted by the air pollutants on maps. The plots of areas impacted may also include <a href="/wiki/Isopleths" class="mw-redirect" title="Isopleths">isopleths</a> showing areas of minimal to high concentrations that define areas of the highest health risk. The isopleths plots are useful in determining protective actions for the public and responders.</p>
+<p>The atmospheric dispersion models are also known as atmospheric diffusion models, air dispersion models, air quality models, and air pollution dispersion models.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Atmospheric_layers"><span class="tocnumber">1</span> <span class="toctext">Atmospheric layers</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Gaussian_air_pollutant_dispersion_equation"><span class="tocnumber">2</span> <span class="toctext">Gaussian air pollutant dispersion equation</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Briggs_plume_rise_equations"><span class="tocnumber">3</span> <span class="toctext">Briggs plume rise equations</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Atmospheric_dispersion_models"><span class="tocnumber">4.1</span> <span class="toctext">Atmospheric dispersion models</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Organizations"><span class="tocnumber">4.2</span> <span class="toctext">Organizations</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Others"><span class="tocnumber">4.3</span> <span class="toctext">Others</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Further_reading"><span class="tocnumber">6</span> <span class="toctext">Further reading</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="#Books"><span class="tocnumber">6.1</span> <span class="toctext">Books</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Proceedings"><span class="tocnumber">6.2</span> <span class="toctext">Proceedings</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Guidance"><span class="tocnumber">6.3</span> <span class="toctext">Guidance</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-13"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Atmospheric_layers">Atmospheric layers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Atmospheric_dispersion_modeling&amp;action=edit&amp;section=1" title="Edit section: Atmospheric layers">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Discussion of the layers in the <a href="/wiki/Earth%27s_atmosphere" class="mw-redirect" title="Earth's atmosphere">Earth's atmosphere</a> is needed to understand where airborne pollutants disperse in the atmosphere. The layer closest to the Earth's surface is known as the <i><a href="/wiki/Earth%27s_atmosphere" class="mw-redirect" title="Earth's atmosphere">troposphere</a></i>. It extends from sea-level to a height of about 18&#160;km and contains about 80 percent of the mass of the overall atmosphere. The <i><a href="/wiki/Earth%27s_atmosphere" class="mw-redirect" title="Earth's atmosphere">stratosphere</a></i> is the next layer and extends from 18&#160;km to about 50&#160;km. The third layer is the <i><a href="/wiki/Earth%27s_atmosphere" class="mw-redirect" title="Earth's atmosphere">mesosphere</a></i> which extends from 50&#160;km to about 80&#160;km. There are other layers above 80&#160;km, but they are insignificant with respect to atmospheric dispersion modeling.</p>
+<p>The lowest part of the troposphere is called the <i><a href="/wiki/Planetary_boundary_layer" title="Planetary boundary layer">atmospheric boundary layer (ABL)</a></i> or the <i><a href="/wiki/Planetary_boundary_layer" title="Planetary boundary layer">planetary boundary layer (PBL)</a></i> and extends from the Earth's surface to about 1.5 to 2.0&#160;km in height. The air temperature of the atmospheric boundary layer decreases with increasing altitude until it reaches what is called the <i><a href="/wiki/Capping_inversion" title="Capping inversion">inversion layer</a></i> (where the temperature increases with increasing altitude) that caps the atmospheric boundary layer. The upper part of the troposphere (i.e., above the inversion layer) is called the <i>free troposphere</i> and it extends up to the 18&#160;km height of the troposphere.</p>
+<p>The ABL is of the most important with respect to the emission, transport and dispersion of airborne pollutants. The part of the ABL between the Earth's surface and the bottom of the inversion layer is known as the mixing layer. Almost all of the airborne pollutants emitted into the ambient atmosphere are transported and dispersed within the mixing layer. Some of the emissions penetrate the inversion layer and enter the free troposphere above the ABL.</p>
+<p>In summary, the layers of the Earth's atmosphere from the surface of the ground upwards are: the ABL made up of the mixing layer capped by the inversion layer; the free troposphere; the stratosphere; the mesosphere and others. Many atmospheric dispersion models are referred to as <i>boundary layer models</i> because they mainly model air pollutant dispersion within the ABL. To avoid confusion, models referred to as <i>mesoscale models</i> have dispersion modeling capabilities that extend horizontally up to a few hundred kilometres. It does not mean that they model dispersion in the mesosphere.</p>
+<h2><span class="mw-headline" id="Gaussian_air_pollutant_dispersion_equation">Gaussian air pollutant dispersion equation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Atmospheric_dispersion_modeling&amp;action=edit&amp;section=2" title="Edit section: Gaussian air pollutant dispersion equation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The technical literature on air pollution dispersion is quite extensive and dates back to the 1930s and earlier. One of the early air pollutant plume dispersion equations was derived by Bosanquet and Pearson.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Their equation did not assume <a href="/wiki/Normal_distribution" title="Normal distribution">Gaussian distribution</a> nor did it include the effect of ground reflection of the pollutant plume.</p>
+<p>Sir Graham Sutton derived an air pollutant plume dispersion equation in 1947<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> which did include the assumption of Gaussian distribution for the vertical and crosswind dispersion of the plume and also included the effect of ground reflection of the plume.</p>
+<p>Under the stimulus provided by the advent of stringent <a href="/wiki/Clean_Air_Act_(United_States)" title="Clean Air Act (United States)">environmental control regulations</a>, there was an immense growth in the use of air pollutant plume dispersion calculations between the late 1960s and today. A great many computer programs for calculating the dispersion of air pollutant emissions were developed during that period of time and they were called "air dispersion models". The basis for most of those models was the <b>Complete Equation For Gaussian Dispersion Modeling Of <a href="/wiki/Air_pollution_dispersion_terminology" class="mw-redirect" title="Air pollution dispersion terminology">Continuous, Buoyant Air Pollution Plumes</a></b> shown below:<sup id="cite_ref-Beychok_4-0" class="reference"><a href="#cite_note-Beychok-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></p>
+<p><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>C</mi>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mspace width="thickmathspace" />
+              <mi>Q</mi>
+            </mrow>
+            <mi>u</mi>
+          </mfrac>
+        </mrow>
+        <mo>&#x22C5;<!-- ⋅ --></mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mspace width="thickmathspace" />
+              <mi>f</mi>
+            </mrow>
+            <mrow>
+              <msub>
+                <mi>&#x03C3;<!-- σ --></mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi>y</mi>
+                </mrow>
+              </msub>
+              <mrow class="MJX-TeXAtom-ORD">
+                <msqrt>
+                  <mn>2</mn>
+                  <mi>&#x03C0;<!-- π --></mi>
+                </msqrt>
+              </mrow>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mspace width="thickmathspace" />
+        <mo>&#x22C5;<!-- ⋅ --></mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mspace width="thickmathspace" />
+              <msub>
+                <mi>g</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mn>1</mn>
+                </mrow>
+              </msub>
+              <mo>+</mo>
+              <msub>
+                <mi>g</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mn>2</mn>
+                </mrow>
+              </msub>
+              <mo>+</mo>
+              <msub>
+                <mi>g</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mn>3</mn>
+                </mrow>
+              </msub>
+            </mrow>
+            <mrow>
+              <msub>
+                <mi>&#x03C3;<!-- σ --></mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi>z</mi>
+                </mrow>
+              </msub>
+              <mrow class="MJX-TeXAtom-ORD">
+                <msqrt>
+                  <mn>2</mn>
+                  <mi>&#x03C0;<!-- π --></mi>
+                </msqrt>
+              </mrow>
+            </mrow>
+          </mfrac>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle C={\frac {\;Q}{u}}\cdot {\frac {\;f}{\sigma _{y}{\sqrt {2\pi }}}}\;\cdot {\frac {\;g_{1}+g_{2}+g_{3}}{\sigma _{z}{\sqrt {2\pi }}}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/eb17a147269b9eb9cc913c42ee20e3446bbb9788" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -3.171ex; width:33.659ex; height:6.843ex;" alt="C={\frac  {\;Q}{u}}\cdot {\frac  {\;f}{\sigma _{y}{\sqrt  {2\pi }}}}\;\cdot {\frac  {\;g_{1}+g_{2}+g_{3}}{\sigma _{z}{\sqrt  {2\pi }}}}" /></span></p>
+<table border="0" cellpadding="2">
+<tr>
+<td align="right">where:</td>
+<td>&#160;</td>
+</tr>
+<tr>
+<th align="right"><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>f</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle f}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/132e57acb643253e7810ee9702d9581f159a1c61" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:1.289ex; height:2.509ex;" alt="f" /></span></th>
+<td align="left">= crosswind dispersion parameter</td>
+</tr>
+<tr>
+<th align="right">&#160;</th>
+<td align="left">= <span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>exp</mi>
+        <mspace width="thickmathspace" />
+        <mo stretchy="false">[</mo>
+        <mo>&#x2212;<!-- − --></mo>
+        <mspace width="thinmathspace" />
+        <msup>
+          <mi>y</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msup>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo>/</mo>
+        </mrow>
+        <mspace width="thinmathspace" />
+        <mo stretchy="false">(</mo>
+        <mn>2</mn>
+        <mspace width="thickmathspace" />
+        <msubsup>
+          <mi>&#x03C3;<!-- σ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>y</mi>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msubsup>
+        <mspace width="thickmathspace" />
+        <mo stretchy="false">)</mo>
+        <mspace width="thickmathspace" />
+        <mo stretchy="false">]</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \exp \;[-\,y^{2}/\,(2\;\sigma _{y}^{2}\;)\;]}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e8925630e3b8de6be025fb258aa809189a852082" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:18.883ex; height:3.343ex;" alt="\exp \;[-\,y^{2}/\,(2\;\sigma _{y}^{2}\;)\;]" /></span></td>
+</tr>
+<tr>
+<th align="right"><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>g</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle g}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d3556280e66fe2c0d0140df20935a6f057381d77" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:1.126ex; height:2.009ex;" alt="g" /></span></th>
+<td align="left">= vertical dispersion parameter = <span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mspace width="thinmathspace" />
+        <msub>
+          <mi>g</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>1</mn>
+          </mrow>
+        </msub>
+        <mo>+</mo>
+        <msub>
+          <mi>g</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msub>
+        <mo>+</mo>
+        <msub>
+          <mi>g</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>3</mn>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \,g_{1}+g_{2}+g_{3}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1bebc0f4659ad2124e0882e4ac04ae0cbc7113de" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:12.632ex; height:2.343ex;" alt="\,g_{1}+g_{2}+g_{3}" /></span></td>
+</tr>
+<tr>
+<th align="right"><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>g</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>1</mn>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle g_{1}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3755e3e04ec295992b2b5331655ef83a500a05c1" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:2.181ex; height:2.009ex;" alt="g_{1}" /></span></th>
+<td align="left">= vertical dispersion with no reflections</td>
+</tr>
+<tr>
+<th align="right">&#160;</th>
+<td align="left">= <span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mspace width="thickmathspace" />
+        <mi>exp</mi>
+        <mspace width="thickmathspace" />
+        <mo stretchy="false">[</mo>
+        <mo>&#x2212;<!-- − --></mo>
+        <mspace width="thinmathspace" />
+        <mo stretchy="false">(</mo>
+        <mi>z</mi>
+        <mo>&#x2212;<!-- − --></mo>
+        <mi>H</mi>
+        <msup>
+          <mo stretchy="false">)</mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msup>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo>/</mo>
+        </mrow>
+        <mspace width="thinmathspace" />
+        <mo stretchy="false">(</mo>
+        <mn>2</mn>
+        <mspace width="thickmathspace" />
+        <msubsup>
+          <mi>&#x03C3;<!-- σ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>z</mi>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msubsup>
+        <mspace width="thickmathspace" />
+        <mo stretchy="false">)</mo>
+        <mspace width="thickmathspace" />
+        <mo stretchy="false">]</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \;\exp \;[-\,(z-H)^{2}/\,(2\;\sigma _{z}^{2}\;)\;]}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/32be81e17b8659fb72ef85e886a95c57401160bd" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:26.211ex; height:3.176ex;" alt="\;\exp \;[-\,(z-H)^{2}/\,(2\;\sigma _{z}^{2}\;)\;]" /></span></td>
+</tr>
+<tr>
+<th align="right"><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>g</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle g_{2}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f0261c34f2ad1e1b5317708b7f98ae13ee70ff1b" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:2.181ex; height:2.009ex;" alt="g_{2}" /></span></th>
+<td align="left">= vertical dispersion for reflection from the ground</td>
+</tr>
+<tr>
+<th align="right">&#160;</th>
+<td align="left">= <span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mspace width="thickmathspace" />
+        <mi>exp</mi>
+        <mspace width="thickmathspace" />
+        <mo stretchy="false">[</mo>
+        <mo>&#x2212;<!-- − --></mo>
+        <mspace width="thinmathspace" />
+        <mo stretchy="false">(</mo>
+        <mi>z</mi>
+        <mo>+</mo>
+        <mi>H</mi>
+        <msup>
+          <mo stretchy="false">)</mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msup>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo>/</mo>
+        </mrow>
+        <mspace width="thinmathspace" />
+        <mo stretchy="false">(</mo>
+        <mn>2</mn>
+        <mspace width="thickmathspace" />
+        <msubsup>
+          <mi>&#x03C3;<!-- σ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>z</mi>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msubsup>
+        <mspace width="thickmathspace" />
+        <mo stretchy="false">)</mo>
+        <mspace width="thickmathspace" />
+        <mo stretchy="false">]</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \;\exp \;[-\,(z+H)^{2}/\,(2\;\sigma _{z}^{2}\;)\;]}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b8359e355bf985dc7714abecb7a250155e07b62f" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:26.211ex; height:3.176ex;" alt="\;\exp \;[-\,(z+H)^{2}/\,(2\;\sigma _{z}^{2}\;)\;]" /></span></td>
+</tr>
+<tr>
+<th align="right"><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>g</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>3</mn>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle g_{3}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/207852a9b2705498c65b929b79fdda27b257ec87" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:2.181ex; height:2.009ex;" alt="g_{3}" /></span></th>
+<td align="left">= vertical dispersion for reflection from an inversion aloft</td>
+</tr>
+<tr>
+<th align="right">&#160;</th>
+<td align="left">= <span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <munderover>
+          <mo>&#x2211;<!-- ∑ --></mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>m</mi>
+            <mo>=</mo>
+            <mn>1</mn>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi mathvariant="normal">&#x221E;<!-- ∞ --></mi>
+          </mrow>
+        </munderover>
+        <mspace width="thickmathspace" />
+        <mrow class="MJX-TeXAtom-ORD">
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo maxsize="1.2em" minsize="1.2em">{</mo>
+          </mrow>
+        </mrow>
+        <mi>exp</mi>
+        <mspace width="thickmathspace" />
+        <mo stretchy="false">[</mo>
+        <mo>&#x2212;<!-- − --></mo>
+        <mspace width="thinmathspace" />
+        <mo stretchy="false">(</mo>
+        <mi>z</mi>
+        <mo>&#x2212;<!-- − --></mo>
+        <mi>H</mi>
+        <mo>&#x2212;<!-- − --></mo>
+        <mn>2</mn>
+        <mi>m</mi>
+        <mi>L</mi>
+        <msup>
+          <mo stretchy="false">)</mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msup>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo>/</mo>
+        </mrow>
+        <mspace width="thinmathspace" />
+        <mo stretchy="false">(</mo>
+        <mn>2</mn>
+        <mspace width="thickmathspace" />
+        <msubsup>
+          <mi>&#x03C3;<!-- σ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>z</mi>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msubsup>
+        <mspace width="thickmathspace" />
+        <mo stretchy="false">)</mo>
+        <mspace width="thickmathspace" />
+        <mo stretchy="false">]</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \sum _{m=1}^{\infty }\;{\big \{}\exp \;[-\,(z-H-2mL)^{2}/\,(2\;\sigma _{z}^{2}\;)\;]}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/37cb296347f56a0618c59d247cbf00125fc3de8c" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -3.005ex; width:39.584ex; height:7.009ex;" alt="\sum _{{m=1}}^{\infty }\;{\big \{}\exp \;[-\,(z-H-2mL)^{2}/\,(2\;\sigma _{z}^{2}\;)\;]" /></span></td>
+</tr>
+<tr>
+<th align="right">?&#160;</th>
+<td align="left">&#160; &#160; &#160; &#160; &#160; <span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mo>+</mo>
+        <mspace width="thinmathspace" />
+        <mi>exp</mi>
+        <mspace width="thickmathspace" />
+        <mo stretchy="false">[</mo>
+        <mo>&#x2212;<!-- − --></mo>
+        <mspace width="thinmathspace" />
+        <mo stretchy="false">(</mo>
+        <mi>z</mi>
+        <mo>+</mo>
+        <mi>H</mi>
+        <mo>+</mo>
+        <mn>2</mn>
+        <mi>m</mi>
+        <mi>L</mi>
+        <msup>
+          <mo stretchy="false">)</mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msup>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo>/</mo>
+        </mrow>
+        <mspace width="thinmathspace" />
+        <mo stretchy="false">(</mo>
+        <mn>2</mn>
+        <mspace width="thickmathspace" />
+        <msubsup>
+          <mi>&#x03C3;<!-- σ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>z</mi>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msubsup>
+        <mspace width="thickmathspace" />
+        <mo stretchy="false">)</mo>
+        <mspace width="thickmathspace" />
+        <mo stretchy="false">]</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle +\,\exp \;[-\,(z+H+2mL)^{2}/\,(2\;\sigma _{z}^{2}\;)\;]}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8546ac2627ada5bfebad51a692c902206a5efa2c" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:35.826ex; height:3.176ex;" alt="+\,\exp \;[-\,(z+H+2mL)^{2}/\,(2\;\sigma _{z}^{2}\;)\;]" /></span></td>
+</tr>
+<tr>
+<th align="right">?&#160;</th>
+<td align="left">&#160; &#160; &#160; &#160; &#160; <span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mo>+</mo>
+        <mspace width="thinmathspace" />
+        <mi>exp</mi>
+        <mspace width="thickmathspace" />
+        <mo stretchy="false">[</mo>
+        <mo>&#x2212;<!-- − --></mo>
+        <mspace width="thinmathspace" />
+        <mo stretchy="false">(</mo>
+        <mi>z</mi>
+        <mo>+</mo>
+        <mi>H</mi>
+        <mo>&#x2212;<!-- − --></mo>
+        <mn>2</mn>
+        <mi>m</mi>
+        <mi>L</mi>
+        <msup>
+          <mo stretchy="false">)</mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msup>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo>/</mo>
+        </mrow>
+        <mspace width="thinmathspace" />
+        <mo stretchy="false">(</mo>
+        <mn>2</mn>
+        <mspace width="thickmathspace" />
+        <msubsup>
+          <mi>&#x03C3;<!-- σ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>z</mi>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msubsup>
+        <mspace width="thickmathspace" />
+        <mo stretchy="false">)</mo>
+        <mspace width="thickmathspace" />
+        <mo stretchy="false">]</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle +\,\exp \;[-\,(z+H-2mL)^{2}/\,(2\;\sigma _{z}^{2}\;)\;]}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1fe6a89e17f16835d86e8d9a8971a74db46d1e4b" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:35.826ex; height:3.176ex;" alt="+\,\exp \;[-\,(z+H-2mL)^{2}/\,(2\;\sigma _{z}^{2}\;)\;]" /></span></td>
+</tr>
+<tr>
+<th align="right">?&#160;</th>
+<td align="left">&#160; &#160; &#160; &#160; &#160; <span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mo>+</mo>
+        <mspace width="thinmathspace" />
+        <mi>exp</mi>
+        <mspace width="thickmathspace" />
+        <mo stretchy="false">[</mo>
+        <mo>&#x2212;<!-- − --></mo>
+        <mspace width="thinmathspace" />
+        <mo stretchy="false">(</mo>
+        <mi>z</mi>
+        <mo>&#x2212;<!-- − --></mo>
+        <mi>H</mi>
+        <mo>+</mo>
+        <mn>2</mn>
+        <mi>m</mi>
+        <mi>L</mi>
+        <msup>
+          <mo stretchy="false">)</mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msup>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo>/</mo>
+        </mrow>
+        <mspace width="thinmathspace" />
+        <mo stretchy="false">(</mo>
+        <mn>2</mn>
+        <mspace width="thickmathspace" />
+        <msubsup>
+          <mi>&#x03C3;<!-- σ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>z</mi>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msubsup>
+        <mspace width="thickmathspace" />
+        <mo stretchy="false">)</mo>
+        <mspace width="thickmathspace" />
+        <mo stretchy="false">]</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo maxsize="1.2em" minsize="1.2em">}</mo>
+          </mrow>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle +\,\exp \;[-\,(z-H+2mL)^{2}/\,(2\;\sigma _{z}^{2}\;)\;]{\big \}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6ff94c96673914895d6e0a6d2643dca0e9e4bc77" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.171ex; width:37.192ex; height:3.509ex;" alt="+\,\exp \;[-\,(z-H+2mL)^{2}/\,(2\;\sigma _{z}^{2}\;)\;]{\big \}}" /></span></td>
+</tr>
+<tr>
+<th align="right"><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>C</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle C}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4fc55753007cd3c18576f7933f6f089196732029" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.777ex; height:2.176ex;" alt="C" /></span></th>
+<td align="left">= concentration of emissions, in g/m³, at any receptor located:</td>
+</tr>
+<tr>
+<th align="right">&#160;</th>
+<td align="left">&#160; &#160; &#160; &#160; &#160; x meters downwind from the <a href="/wiki/Air_pollution_dispersion_terminology" class="mw-redirect" title="Air pollution dispersion terminology">emission source point</a></td>
+</tr>
+<tr>
+<th align="right">&#160;</th>
+<td align="left">&#160; &#160; &#160; &#160; &#160; y meters crosswind from the emission plume centerline</td>
+</tr>
+<tr>
+<th align="right">&#160;</th>
+<td align="left">&#160; &#160; &#160; &#160; &#160; z meters above ground level</td>
+</tr>
+<tr>
+<th align="right"><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>Q</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle Q_{}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9f1b948d000c7515e3c16f55f9fcecfbd4ab0b3a" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:1.849ex; height:2.509ex;" alt="Q_{{}}" /></span></th>
+<td align="left">= source pollutant emission rate, in g/s</td>
+</tr>
+<tr>
+<th align="right"><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>u</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle u}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c3e6bb763d22c20916ed4f0bb6bd49d7470cffd8" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.34ex; height:1.676ex;" alt="u" /></span></th>
+<td align="left">= horizontal wind velocity along the plume centerline, m/s</td>
+</tr>
+<tr>
+<th align="right"><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>H</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle H}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/75a9edddcca2f782014371f75dca39d7e13a9c1b" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:2.074ex; height:2.176ex;" alt="H" /></span></th>
+<td align="left">= height of emission plume centerline above ground level, in m</td>
+</tr>
+<tr>
+<th align="right"><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>&#x03C3;<!-- σ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>z</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \sigma _{z}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/61ea9b1af0a90b25f6dcdc140820ff2428fd92c4" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:2.347ex; height:2.009ex;" alt="\sigma _{z}" /></span></th>
+<td align="left">= vertical <a href="/wiki/Standard_deviation" title="Standard deviation">standard deviation</a> of the emission distribution, in m</td>
+</tr>
+<tr>
+<th align="right"><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>&#x03C3;<!-- σ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>y</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \sigma _{y}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b22d96fceb022e70169a37383278199a26b3534a" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:2.395ex; height:2.343ex;" alt="\sigma_y" /></span></th>
+<td align="left">= horizontal standard deviation of the emission distribution, in m</td>
+</tr>
+<tr>
+<th align="right"><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>L</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle L_{}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a284661c37bbfcb26895512df22e596b849c3815" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.593ex; height:2.176ex;" alt="L_{{}}" /></span></th>
+<td align="left">= height from ground level to bottom of the inversion aloft, in m</td>
+</tr>
+<tr>
+<th align="right"><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>exp</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \exp }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4d1185b570f67b4221307626254f64f9e619e769" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:3.584ex; height:2.009ex;" alt="\exp " /></span></th>
+<td align="left">= the <a href="/wiki/Exponential_function" title="Exponential function">exponential function</a></td>
+</tr>
+</table>
+<p>The above equation not only includes upward reflection from the ground, it also includes downward reflection from the bottom of any inversion lid present in the atmosphere.</p>
+<p>The sum of the four exponential terms in <span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>g</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>3</mn>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle g_{3}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/207852a9b2705498c65b929b79fdda27b257ec87" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:2.181ex; height:2.009ex;" alt="g_{3}" /></span> converges to a final value quite rapidly. For most cases, the summation of the series with <i>m</i> = 1, <i>m</i> = 2 and <i>m</i> = 3 will provide an adequate solution.</p>
+<p><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>&#x03C3;<!-- σ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>z</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \sigma _{z}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/61ea9b1af0a90b25f6dcdc140820ff2428fd92c4" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:2.347ex; height:2.009ex;" alt="\sigma _{z}" /></span> and <span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>&#x03C3;<!-- σ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>y</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \sigma _{y}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b22d96fceb022e70169a37383278199a26b3534a" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:2.395ex; height:2.343ex;" alt="\sigma_y" /></span> are functions of the atmospheric stability class (i.e., a measure of the turbulence in the ambient atmosphere) and of the downwind distance to the receptor. The two most important variables affecting the degree of pollutant emission dispersion obtained are the height of the emission source point and the degree of atmospheric turbulence. The more turbulence, the better the degree of dispersion.</p>
+<p>The resulting calculations for <a href="/wiki/Air_pollutant_concentrations" title="Air pollutant concentrations">air pollutant concentrations</a> are often expressed as an <a href="/wiki/Air_pollutant" class="mw-redirect" title="Air pollutant">air pollutant</a> concentration <a href="/wiki/Contour_line" title="Contour line">contour map</a> in order to show the spatial variation in contaminant levels over a wide area under study. In this way the contour lines can overlay sensitive receptor locations and reveal the spatial relationship of air pollutants to areas of interest.</p>
+<p>Whereas older models rely on stability classes (see <a href="/wiki/Air_pollution_dispersion_terminology" class="mw-redirect" title="Air pollution dispersion terminology">air pollution dispersion terminology</a>) for the determination of <span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>&#x03C3;<!-- σ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>y</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \sigma _{y}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b22d96fceb022e70169a37383278199a26b3534a" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:2.395ex; height:2.343ex;" alt="\sigma_y" /></span> and <span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>&#x03C3;<!-- σ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>z</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \sigma _{z}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/61ea9b1af0a90b25f6dcdc140820ff2428fd92c4" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:2.347ex; height:2.009ex;" alt="\sigma _{z}" /></span>, more recent models increasingly rely on the <a href="/wiki/Monin-Obukhov_length" class="mw-redirect" title="Monin-Obukhov length">Monin-Obukhov similarity theory</a> to derive these parameters.</p>
+<h2><span class="mw-headline" id="Briggs_plume_rise_equations">Briggs plume rise equations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Atmospheric_dispersion_modeling&amp;action=edit&amp;section=3" title="Edit section: Briggs plume rise equations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Gaussian air pollutant dispersion equation (discussed above) requires the input of <i>H</i> which is the pollutant plume's centerline height above ground level—and H is the sum of <i>H</i><sub>s</sub> (the actual physical height of the pollutant plume's emission source point) plus Δ<i>H</i> (the plume rise due the plume's buoyancy).</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:335px;"><a href="/wiki/File:Gaussian_Plume_(SVG).svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Gaussian_Plume_%28SVG%29.svg/333px-Gaussian_Plume_%28SVG%29.svg.png" width="333" height="259" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Gaussian_Plume_%28SVG%29.svg/500px-Gaussian_Plume_%28SVG%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/24/Gaussian_Plume_%28SVG%29.svg/666px-Gaussian_Plume_%28SVG%29.svg.png 2x" data-file-width="333" data-file-height="259" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Gaussian_Plume_(SVG).svg" class="internal" title="Enlarge"></a></div>
+Visualization of a buoyant Gaussian air pollutant dispersion plume</div>
+</div>
+</div>
+<p>To determine Δ<i>H</i>, many if not most of the air dispersion models developed between the late 1960s and the early 2000s used what are known as "the Briggs equations." G.A. Briggs first published his plume rise observations and comparisons in 1965.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> In 1968, at a symposium sponsored by CONCAWE (a Dutch organization), he compared many of the plume rise models then available in the literature.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> In that same year, Briggs also wrote the section of the publication edited by Slade<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> dealing with the comparative analyses of plume rise models. That was followed in 1969 by his classical critical review of the entire plume rise literature,<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> in which he proposed a set of plume rise equations which have become widely known as "the Briggs equations". Subsequently, Briggs modified his 1969 plume rise equations in 1971 and in 1972.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></p>
+<p>Briggs divided air pollution plumes into these four general categories:</p>
+<ul>
+<li>Cold jet plumes in calm ambient air conditions</li>
+<li>Cold jet plumes in windy ambient air conditions</li>
+<li>Hot, buoyant plumes in calm ambient air conditions</li>
+<li>Hot, buoyant plumes in windy ambient air conditions</li>
+</ul>
+<p>Briggs considered the trajectory of cold jet plumes to be dominated by their initial velocity momentum, and the trajectory of hot, buoyant plumes to be dominated by their buoyant momentum to the extent that their initial velocity momentum was relatively unimportant. Although Briggs proposed plume rise equations for each of the above plume categories, <i><b>it is important to emphasize that "the Briggs equations" which become widely used are those that he proposed for bent-over, hot buoyant plumes</b></i>.</p>
+<p>In general, Briggs's equations for bent-over, hot buoyant plumes are based on observations and data involving plumes from typical combustion sources such as the <a href="/wiki/Flue_gas" title="Flue gas">flue gas stacks</a> from steam-generating boilers burning <a href="/wiki/Fossil_fuel" title="Fossil fuel">fossil fuels</a> in large power plants. Therefore, the stack exit velocities were probably in the range of 20 to 100&#160;ft/s (6 to 30&#160;m/s) with exit temperatures ranging from 250 to 500&#160;°F (120 to 260&#160;°C).</p>
+<p>A logic diagram for using the Briggs equations<sup id="cite_ref-Beychok_4-1" class="reference"><a href="#cite_note-Beychok-4">[4]</a></sup> to obtain the plume rise trajectory of bent-over buoyant plumes is presented below:</p>
+<div class="floatnone"><a href="/wiki/File:BriggsLogic.png" class="image"><img alt="BriggsLogic.png" src="//upload.wikimedia.org/wikipedia/commons/0/0c/BriggsLogic.png" width="550" height="446" data-file-width="550" data-file-height="446" /></a></div>
+<dl>
+<dd>
+<table border="0" cellpadding="2">
+<tr>
+<td align="right">where:</td>
+<td>&#160;</td>
+</tr>
+<tr>
+<th align="right">Δh</th>
+<td align="left">= plume rise, in m</td>
+</tr>
+<tr>
+<th align="right">F<sup>&#160;</sup></th>
+<td align="left">= buoyancy factor, in m<sup>4</sup>s<sup>−3</sup></td>
+</tr>
+<tr>
+<th align="right">x</th>
+<td align="left">= downwind distance from plume source, in m</td>
+</tr>
+<tr>
+<th align="right">x<sub>f</sub></th>
+<td align="left">= downwind distance from plume source to point of maximum plume rise, in m</td>
+</tr>
+<tr>
+<th align="right">u</th>
+<td align="left">= windspeed at actual stack height, in m/s</td>
+</tr>
+<tr>
+<th align="right">s<sup>&#160;</sup></th>
+<td align="left">= stability parameter, in s<sup>−2</sup></td>
+</tr>
+</table>
+</dd>
+</dl>
+<p>The above parameters used in the Briggs' equations are discussed in Beychok's book.<sup id="cite_ref-Beychok_4-2" class="reference"><a href="#cite_note-Beychok-4">[4]</a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Atmospheric_dispersion_modeling&amp;action=edit&amp;section=4" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Atmospheric_dispersion_models">Atmospheric dispersion models</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Atmospheric_dispersion_modeling&amp;action=edit&amp;section=5" title="Edit section: Atmospheric dispersion models">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/List_of_atmospheric_dispersion_models" title="List of atmospheric dispersion models">List of atmospheric dispersion models</a> provides a more comprehensive list of models than listed below. It includes a very brief description of each model.</p>
+<ul>
+<li><a href="/wiki/ADMS_3" title="ADMS 3">ADMS</a></li>
+<li><a href="/wiki/AERMOD" title="AERMOD">AERMOD</a></li>
+<li><a href="/wiki/ATSTEP" title="ATSTEP">ATSTEP</a></li>
+<li><a href="/wiki/CALPUFF" title="CALPUFF">CALPUFF</a></li>
+<li><a href="/wiki/CMAQ" title="CMAQ">CMAQ</a></li>
+<li><a href="/wiki/DISPERSION21" title="DISPERSION21">DISPERSION21</a></li>
+<li><a href="/wiki/FLACS" title="FLACS">FLACS</a></li>
+<li><a href="/wiki/FLEXPART" title="FLEXPART">FLEXPART</a></li>
+<li><a href="/wiki/HYSPLIT" title="HYSPLIT">HYSPLIT</a></li>
+<li><a href="/w/index.php?title=HYPACT&amp;action=edit&amp;redlink=1" class="new" title="HYPACT (page does not exist)">HYPACT</a></li>
+<li><a href="/wiki/ISC3" title="ISC3">ISC3</a></li>
+<li><a href="/wiki/NAME_(dispersion_model)" title="NAME (dispersion model)">NAME</a></li>
+<li><a href="/wiki/MERCURE" title="MERCURE">MERCURE</a></li>
+<li><a href="/wiki/Operational_Street_Pollution_Model" title="Operational Street Pollution Model">OSPM</a></li>
+<li><a href="/w/index.php?title=Fluidyn-Panache&amp;action=edit&amp;redlink=1" class="new" title="Fluidyn-Panache (page does not exist)">Fluidyn-Panache</a></li>
+<li><a href="/wiki/RIMPUFF" title="RIMPUFF">RIMPUFF</a></li>
+<li><a href="/wiki/SAFE_AIR" title="SAFE AIR">SAFE AIR</a></li>
+<li><a href="/wiki/PUFF-PLUME" title="PUFF-PLUME">PUFF-PLUME</a></li>
+<li><a href="/w/index.php?title=LillPello&amp;action=edit&amp;redlink=1" class="new" title="LillPello (page does not exist)">LillPello</a></li>
+<li><a href="/w/index.php?title=PUMA_(atmospheric_dispersion_model)&amp;action=edit&amp;redlink=1" class="new" title="PUMA (atmospheric dispersion model) (page does not exist)">PUMA</a></li>
+</ul>
+<h3><span class="mw-headline" id="Organizations">Organizations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Atmospheric_dispersion_modeling&amp;action=edit&amp;section=6" title="Edit section: Organizations">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/wiki/Air_Quality_Modeling_Group" title="Air Quality Modeling Group">Air Quality Modeling Group</a></li>
+<li><a href="/wiki/Air_Resources_Laboratory" title="Air Resources Laboratory">Air Resources Laboratory</a></li>
+<li><a href="/wiki/Finnish_Meteorological_Institute" title="Finnish Meteorological Institute">Finnish Meteorological Institute</a></li>
+<li><a href="/wiki/KNMI_(institute)" class="mw-redirect" title="KNMI (institute)">KNMI, Royal Dutch Meteorological Institute</a></li>
+<li><a href="/wiki/National_Environmental_Research_Institute_of_Denmark" title="National Environmental Research Institute of Denmark">National Environmental Research Institute of Denmark</a></li>
+<li><a href="/wiki/Swedish_Meteorological_and_Hydrological_Institute" title="Swedish Meteorological and Hydrological Institute">Swedish Meteorological and Hydrological Institute</a></li>
+<li><a href="/wiki/TA_Luft" title="TA Luft">TA Luft</a></li>
+<li><a href="/wiki/UK_Atmospheric_Dispersion_Modelling_Liaison_Committee" class="mw-redirect" title="UK Atmospheric Dispersion Modelling Liaison Committee">UK Atmospheric Dispersion Modelling Liaison Committee</a></li>
+<li><a href="/wiki/UK_Dispersion_Modelling_Bureau" title="UK Dispersion Modelling Bureau">UK Dispersion Modelling Bureau</a></li>
+<li><a href="/wiki/Desert_Research_Institute" title="Desert Research Institute">Desert Research Institute</a></li>
+<li><a href="/w/index.php?title=VITO_(institute)_Belgium;_https://vito.be/en&amp;action=edit&amp;redlink=1" class="new" title="VITO (institute) Belgium; https://vito.be/en (page does not exist)">VITO (institute) Belgium; https://vito.be/en</a></li>
+<li><a href="/wiki/Swedish_Defence_Research_Agency" title="Swedish Defence Research Agency">Swedish Defence Research Agency</a>, FOI</li>
+</ul>
+<h3><span class="mw-headline" id="Others">Others</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Atmospheric_dispersion_modeling&amp;action=edit&amp;section=7" title="Edit section: Others">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/wiki/Air_pollution_dispersion_terminology" class="mw-redirect" title="Air pollution dispersion terminology">Air pollution dispersion terminology</a></li>
+<li><a href="/wiki/List_of_atmospheric_dispersion_models" title="List of atmospheric dispersion models">List of atmospheric dispersion models</a></li>
+<li><a href="/wiki/Portable_Emissions_Measurement_System_(PEMS)" class="mw-redirect" title="Portable Emissions Measurement System (PEMS)">Portable Emissions Measurement System (PEMS)</a></li>
+<li><a href="/wiki/Roadway_air_dispersion_modeling" title="Roadway air dispersion modeling">Roadway air dispersion modeling</a></li>
+<li><a href="/wiki/Useful_conversions_and_formulas_for_air_dispersion_modeling" title="Useful conversions and formulas for air dispersion modeling">Useful conversions and formulas for air dispersion modeling</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Atmospheric_dispersion_modeling&amp;action=edit&amp;section=8" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Fensterstock, J.C. et al., <a rel="nofollow" class="external text" href="http://pubs.awma.org/gsearch/journal/1971/7/21_07_395.pdf">"Reduction of air pollution potential through environmental planning"</a><sup class="noprint Inline-Template"><span style="white-space: nowrap;">[<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title="&#160;Dead link since October 2016">permanent dead link</span></a></i>]</span></sup>, JAPCA, Vol.21,No.7, 1971.</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Bosanquet, C.H. and Pearson, J.L., "The spread of smoke and gases from chimneys", Trans. Faraday Soc., 32:1249, 1936</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Sutton, O.G., "The problem of diffusion in the lower atmosphere", QJRMS, 73:257, 1947 and "The theoretical distribution of airborne pollution from factory chimneys", QJRMS, 73:426, 1947</span></li>
+<li id="cite_note-Beychok-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-Beychok_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Beychok_4-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Beychok_4-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Beychok, Milton R. (2005). <i><a href="/wiki/Fundamentals_Of_Stack_Gas_Dispersion" class="mw-redirect" title="Fundamentals Of Stack Gas Dispersion">Fundamentals Of Stack Gas Dispersion</a></i> (4th ed.). author-published. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-9644588-0-2" title="Special:BookSources/0-9644588-0-2">0-9644588-0-2</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAtmospheric+dispersion+modeling&amp;rft.au=Beychok%2C+Milton+R.&amp;rft.btitle=Fundamentals+Of+Stack+Gas+Dispersion&amp;rft.date=2005&amp;rft.edition=4th&amp;rft.genre=book&amp;rft.isbn=0-9644588-0-2&amp;rft.pub=author-published&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation book">Turner, D.B. (1994). <i>Workbook of atmospheric dispersion estimates: an introduction to dispersion modeling</i> (2nd ed.). CRC Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-56670-023-X" title="Special:BookSources/1-56670-023-X">1-56670-023-X</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAtmospheric+dispersion+modeling&amp;rft.au=Turner%2C+D.B.&amp;rft.btitle=Workbook+of+atmospheric+dispersion+estimates%3A+an+introduction+to+dispersion+modeling&amp;rft.date=1994&amp;rft.edition=2nd&amp;rft.genre=book&amp;rft.isbn=1-56670-023-X&amp;rft.pub=CRC+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Briggs, G.A., "A plume rise model compared with observations", JAPCA, 15:433–438, 1965</span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Briggs, G.A., "CONCAWE meeting: discussion of the comparative consequences of different plume rise formulas", Atmos. Envir., 2:228–232, 1968</span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Slade, D.H. (editor), "Meteorology and atomic energy 1968", Air Resources Laboratory, U.S. Dept. of Commerce, 1968</span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">Briggs, G.A., "Plume Rise", USAEC Critical Review Series, 1969</span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">Briggs, G.A., "Some recent analyses of plume rise observation", Proc. Second Internat'l. Clean Air Congress, Academic Press, New York, 1971</span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">Briggs, G.A., "Discussion: chimney plumes in neutral and stable surroundings", Atmos. Envir., 6:507–510, 1972</span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Atmospheric_dispersion_modeling&amp;action=edit&amp;section=9" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Books">Books</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Atmospheric_dispersion_modeling&amp;action=edit&amp;section=10" title="Edit section: Books">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="refbegin columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2;">
+<dl>
+<dt>Introductory</dt>
+</dl>
+<ul>
+<li><cite class="citation book">Beychok, Milton R. (2005). <i><a href="/wiki/Fundamentals_Of_Stack_Gas_Dispersion" class="mw-redirect" title="Fundamentals Of Stack Gas Dispersion">Fundamentals Of Stack Gas Dispersion</a></i> (4th ed.). author-published. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-9644588-0-2" title="Special:BookSources/0-9644588-0-2">0-9644588-0-2</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAtmospheric+dispersion+modeling&amp;rft.au=Beychok%2C+Milton+R.&amp;rft.btitle=Fundamentals+Of+Stack+Gas+Dispersion&amp;rft.date=2005&amp;rft.edition=4th&amp;rft.genre=book&amp;rft.isbn=0-9644588-0-2&amp;rft.pub=author-published&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Center for Chemical Process Safety (1999). <i>Guidelines for Chemical Process Quantitative Risk Analysis</i> (2nd ed.). American Institute of Chemical Engineers, New York, NY. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-8169-0720-5" title="Special:BookSources/978-0-8169-0720-5">978-0-8169-0720-5</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAtmospheric+dispersion+modeling&amp;rft.au=Center+for+Chemical+Process+Safety&amp;rft.btitle=Guidelines+for+Chemical+Process+Quantitative+Risk+Analysis&amp;rft.date=1999&amp;rft.edition=2nd&amp;rft.genre=book&amp;rft.isbn=978-0-8169-0720-5&amp;rft.pub=American+Institute+of+Chemical+Engineers%2C+New+York%2C+NY&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Center for Chemical Process Safety (1996). <i>Guidelines for Use of Vapor Cloud and Source Dispersion Models, with Worked Examples</i> (2nd ed.). American Institute of Chemical Engineers, New York, NY. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-8169-0702-1" title="Special:BookSources/978-0-8169-0702-1">978-0-8169-0702-1</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAtmospheric+dispersion+modeling&amp;rft.au=Center+for+Chemical+Process+Safety&amp;rft.btitle=Guidelines+for+Use+of+Vapor+Cloud+and+Source+Dispersion+Models%2C+with+Worked+Examples&amp;rft.date=1996&amp;rft.edition=2nd&amp;rft.genre=book&amp;rft.isbn=978-0-8169-0702-1&amp;rft.pub=American+Institute+of+Chemical+Engineers%2C+New+York%2C+NY&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Schnelle, Karl B. &amp; Dey, Partha R. (1999). <i>Atmospheric Dispersion Modeling Compliance Guide</i> (1st ed.). McGraw-Hill Professional. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-07-058059-6" title="Special:BookSources/0-07-058059-6">0-07-058059-6</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAtmospheric+dispersion+modeling&amp;rft.au=Dey%2C+Partha+R.&amp;rft.au=Schnelle%2C+Karl+B.&amp;rft.btitle=Atmospheric+Dispersion+Modeling+Compliance+Guide&amp;rft.date=1999&amp;rft.edition=1st&amp;rft.genre=book&amp;rft.isbn=0-07-058059-6&amp;rft.pub=McGraw-Hill+Professional&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Turner, D.B. (1994). <i>Workbook of Atmospheric Dispersion Estimates: An Introduction to Dispersion Modeling</i> (2nd ed.). CRC Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-56670-023-X" title="Special:BookSources/1-56670-023-X">1-56670-023-X</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAtmospheric+dispersion+modeling&amp;rft.au=Turner%2C+D.B.&amp;rft.btitle=Workbook+of+Atmospheric+Dispersion+Estimates%3A+An+Introduction+to+Dispersion+Modeling&amp;rft.date=1994&amp;rft.edition=2nd&amp;rft.genre=book&amp;rft.isbn=1-56670-023-X&amp;rft.pub=CRC+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<dl>
+<dt>Advanced</dt>
+</dl>
+<ul>
+<li><cite class="citation book">Arya, S. Pal (1998). <i>Air Pollution Meteorology and Dispersion</i> (1st ed.). Oxford University Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-19-507398-3" title="Special:BookSources/0-19-507398-3">0-19-507398-3</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAtmospheric+dispersion+modeling&amp;rft.au=Arya%2C+S.+Pal&amp;rft.btitle=Air+Pollution+Meteorology+and+Dispersion&amp;rft.date=1998&amp;rft.edition=1st&amp;rft.genre=book&amp;rft.isbn=0-19-507398-3&amp;rft.pub=Oxford+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Barrat, Rod (2001). <i>Atmospheric Dispersion Modelling</i> (1st ed.). Earthscan Publications. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-85383-642-7" title="Special:BookSources/1-85383-642-7">1-85383-642-7</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAtmospheric+dispersion+modeling&amp;rft.au=Barrat%2C+Rod&amp;rft.btitle=Atmospheric+Dispersion+Modelling&amp;rft.date=2001&amp;rft.edition=1st&amp;rft.genre=book&amp;rft.isbn=1-85383-642-7&amp;rft.pub=Earthscan+Publications&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Colls, Jeremy (2002). <i>Air Pollution</i> (1st ed.). Spon Press (UK). <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-415-25565-1" title="Special:BookSources/0-415-25565-1">0-415-25565-1</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAtmospheric+dispersion+modeling&amp;rft.au=Colls%2C+Jeremy&amp;rft.btitle=Air+Pollution&amp;rft.date=2002&amp;rft.edition=1st&amp;rft.genre=book&amp;rft.isbn=0-415-25565-1&amp;rft.pub=Spon+Press+%28UK%29&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Cooper, J.R., Randle, K. and Sokh, R.G. (2003). <i>Radioactive Releases in the Environment</i> (1st ed.). John Wiley &amp; Sons. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-471-89924-0" title="Special:BookSources/0-471-89924-0">0-471-89924-0</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAtmospheric+dispersion+modeling&amp;rft.btitle=Radioactive+Releases+in+the+Environment&amp;rft.date=2003&amp;rft.edition=1st&amp;rft.genre=book&amp;rft.isbn=0-471-89924-0&amp;rft.pub=John+Wiley+%26+Sons&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span> <span class="citation-comment" style="display:none; color:#33aa33">CS1 maint: Uses authors parameter (<a href="/wiki/Category:CS1_maint:_Uses_authors_parameter" title="Category:CS1 maint: Uses authors parameter">link</a>)</span></li>
+<li><cite class="citation book">European Process Safety Centre (1999). <i>Atmospheric Dispersion</i> (1st ed.). Rugby: Institution of Chemical Engineers. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-85295-404-2" title="Special:BookSources/0-85295-404-2">0-85295-404-2</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAtmospheric+dispersion+modeling&amp;rft.au=European+Process+Safety+Centre&amp;rft.btitle=Atmospheric+Dispersion&amp;rft.date=1999&amp;rft.edition=1st&amp;rft.genre=book&amp;rft.isbn=0-85295-404-2&amp;rft.place=Rugby&amp;rft.pub=Institution+of+Chemical+Engineers&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Godish, Thad (2003). <i>Air Quality</i> (4th ed.). CRC Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-56670-586-X" title="Special:BookSources/1-56670-586-X">1-56670-586-X</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAtmospheric+dispersion+modeling&amp;rft.au=Godish%2C+Thad&amp;rft.btitle=Air+Quality&amp;rft.date=2003&amp;rft.edition=4th&amp;rft.genre=book&amp;rft.isbn=1-56670-586-X&amp;rft.pub=CRC+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Hanna, S.R. &amp; Drivas, D. G. (1996). <i>Guidelines for Use of Vapor Cloud Dispersion Models</i> (2nd ed.). Wiley-American Institute of Chemical Engineers. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-8169-0702-1" title="Special:BookSources/0-8169-0702-1">0-8169-0702-1</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAtmospheric+dispersion+modeling&amp;rft.au=Drivas%2C+D.+G.&amp;rft.au=Hanna%2C+S.R.&amp;rft.btitle=Guidelines+for+Use+of+Vapor+Cloud+Dispersion+Models&amp;rft.date=1996&amp;rft.edition=2nd&amp;rft.genre=book&amp;rft.isbn=0-8169-0702-1&amp;rft.pub=Wiley-American+Institute+of+Chemical+Engineers&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Hanna, S. R. &amp; Strimaitis, D. G. (1989). <i>Workbook of Test Cases for Vapor Cloud Source Dispersion Models</i> (1st ed.). Center for Chemical Process Safety, American Institute of Chemical Engineers. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-8169-0455-3" title="Special:BookSources/0-8169-0455-3">0-8169-0455-3</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAtmospheric+dispersion+modeling&amp;rft.au=Hanna%2C+S.+R.&amp;rft.au=Strimaitis%2C+D.+G.&amp;rft.btitle=Workbook+of+Test+Cases+for+Vapor+Cloud+Source+Dispersion+Models&amp;rft.date=1989&amp;rft.edition=1st&amp;rft.genre=book&amp;rft.isbn=0-8169-0455-3&amp;rft.pub=Center+for+Chemical+Process+Safety%2C+American+Institute+of+Chemical+Engineers&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Hanna, S. R. &amp; Britter, R.E. (2002). <i>Wind Flow and Vapor Cloud Dispersion at Industrial and Urban Sites</i> (1st ed.). Wiley-American Institute of Chemical Engineers. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-8169-0863-X" title="Special:BookSources/0-8169-0863-X">0-8169-0863-X</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAtmospheric+dispersion+modeling&amp;rft.au=Britter%2C+R.E.&amp;rft.au=Hanna%2C+S.+R.&amp;rft.btitle=Wind+Flow+and+Vapor+Cloud+Dispersion+at+Industrial+and+Urban+Sites&amp;rft.date=2002&amp;rft.edition=1st&amp;rft.genre=book&amp;rft.isbn=0-8169-0863-X&amp;rft.pub=Wiley-American+Institute+of+Chemical+Engineers&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Perianez, Raul (2005). <i>Modelling the dispersion of radionuclides in the marine environment&#160;: an introduction</i> (1st ed.). Springer. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/3-540-24875-7" title="Special:BookSources/3-540-24875-7">3-540-24875-7</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAtmospheric+dispersion+modeling&amp;rft.au=Perianez%2C+Raul&amp;rft.btitle=Modelling+the+dispersion+of+radionuclides+in+the+marine+environment+%3A+an+introduction&amp;rft.date=2005&amp;rft.edition=1st&amp;rft.genre=book&amp;rft.isbn=3-540-24875-7&amp;rft.pub=Springer&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Pielke, Roger A. (2001). <i>Mesoscale Modeling</i> (2nd ed.). Elsevier. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-12-554766-8" title="Special:BookSources/0-12-554766-8">0-12-554766-8</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAtmospheric+dispersion+modeling&amp;rft.au=Pielke%2C+Roger+A.&amp;rft.btitle=Mesoscale+Modeling&amp;rft.date=2001&amp;rft.edition=2nd&amp;rft.genre=book&amp;rft.isbn=0-12-554766-8&amp;rft.pub=Elsevier&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Zannetti, P. (1990). <i>Air pollution modeling&#160;: theories, computational methods, and available software</i>. Van Nostrand Reinhold. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-442-30805-1" title="Special:BookSources/0-442-30805-1">0-442-30805-1</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAtmospheric+dispersion+modeling&amp;rft.au=Zannetti%2C+P.&amp;rft.btitle=Air+pollution+modeling+%3A+theories%2C+computational+methods%2C+and+available+software&amp;rft.date=1990&amp;rft.genre=book&amp;rft.isbn=0-442-30805-1&amp;rft.pub=Van+Nostrand+Reinhold&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+</div>
+<h3><span class="mw-headline" id="Proceedings">Proceedings</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Atmospheric_dispersion_modeling&amp;action=edit&amp;section=11" title="Edit section: Proceedings">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="refbegin columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2;">
+<ul>
+<li><cite class="citation book">Editors: Forago, I., Georgiev, K. and Havasi, A. (2004). <i>Advances in Air Pollution Modeling for Environmental Security (NATO Workshop)</i>. Springer, 2005. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/0957-4352">0957-4352</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAtmospheric+dispersion+modeling&amp;rft.btitle=Advances+in+Air+Pollution+Modeling+for+Environmental+Security+%28NATO+Workshop%29&amp;rft.date=2004&amp;rft.genre=book&amp;rft.issn=0957-4352&amp;rft.pub=Springer%2C+2005&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span> <span class="citation-comment" style="display:none; color:#33aa33">CS1 maint: Uses authors parameter (<a href="/wiki/Category:CS1_maint:_Uses_authors_parameter" title="Category:CS1 maint: Uses authors parameter">link</a>)</span></li>
+<li><cite class="citation book">Editors: Kretzschmar, J. G. and Cosemans, G. (1996). <i>Harmonization within atmospheric dispersion modelling for regulatory purposes (4th Workshop)</i>. International Journal of Environment and Pollution, vol. 8 no. 3–6, Interscience Enterprises, 1997. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/0957-4352">0957-4352</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAtmospheric+dispersion+modeling&amp;rft.btitle=Harmonization+within+atmospheric+dispersion+modelling+for+regulatory+purposes+%284th+Workshop%29&amp;rft.date=1996&amp;rft.genre=book&amp;rft.issn=0957-4352&amp;rft.pub=International+Journal+of+Environment+and+Pollution%2C+vol.+8+no.+3%936%2C+Interscience+Enterprises%2C+1997&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span> <span class="citation-comment" style="display:none; color:#33aa33">CS1 maint: Uses authors parameter (<a href="/wiki/Category:CS1_maint:_Uses_authors_parameter" title="Category:CS1 maint: Uses authors parameter">link</a>)</span></li>
+<li><cite class="citation book">Bartzis, J G., ed. (1998). <i>Harmonization within atmospheric dispersion modelling for regulatory purposes (5th Workshop)</i>. International Journal of Environment and Pollution, vol. 14 no. 1–6, Interscience Enterprises, 2000. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/0957-4352">0957-4352</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAtmospheric+dispersion+modeling&amp;rft.btitle=Harmonization+within+atmospheric+dispersion+modelling+for+regulatory+purposes+%285th+Workshop%29&amp;rft.date=1998&amp;rft.genre=book&amp;rft.issn=0957-4352&amp;rft.pub=International+Journal+of+Environment+and+Pollution%2C+vol.+14+no.+1%936%2C+Interscience+Enterprises%2C+2000&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Coppalle, A., ed. (1999). <i>Harmonization within atmospheric dispersion modelling for regulatory purposes (6th Workshop)</i>. International Journal of Environment and Pollution, vol. 16 no. 1–6, Inderscience Enterprises, 2001. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/0957-4352">0957-4352</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAtmospheric+dispersion+modeling&amp;rft.btitle=Harmonization+within+atmospheric+dispersion+modelling+for+regulatory+purposes+%286th+Workshop%29&amp;rft.date=1999&amp;rft.genre=book&amp;rft.issn=0957-4352&amp;rft.pub=International+Journal+of+Environment+and+Pollution%2C+vol.+16+no.+1%936%2C+Inderscience+Enterprises%2C+2001&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Batchvarova, E., ed. (2002). <i>Harmonization within atmospheric dispersion modelling for regulatory purposes (8th Workshop)</i>. International Journal of Environment and Pollution, vol. 20 no. 1–6, Inderscience Enterprises, 2003. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/0957-4352">0957-4352</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAtmospheric+dispersion+modeling&amp;rft.btitle=Harmonization+within+atmospheric+dispersion+modelling+for+regulatory+purposes+%288th+Workshop%29&amp;rft.date=2002&amp;rft.genre=book&amp;rft.issn=0957-4352&amp;rft.pub=International+Journal+of+Environment+and+Pollution%2C+vol.+20+no.+1%936%2C+Inderscience+Enterprises%2C+2003&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Suppan, P., ed. (2004). <i>Harmonization within atmospheric dispersion modelling for regulatory purposes (8th Workshop)</i>. International Journal of Environment and Pollution, vol. 24 no. 1–6 and vol.25 no. 1–6, Inderscience Enterprises, 2005. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/0957-4352">0957-4352</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAtmospheric+dispersion+modeling&amp;rft.btitle=Harmonization+within+atmospheric+dispersion+modelling+for+regulatory+purposes+%288th+Workshop%29&amp;rft.date=2004&amp;rft.genre=book&amp;rft.issn=0957-4352&amp;rft.pub=International+Journal+of+Environment+and+Pollution%2C+vol.+24+no.+1%936+and+vol.25+no.+1%936%2C+Inderscience+Enterprises%2C+2005&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Zannetti, P., ed. (1993). <i>International Conference on Air Pollution (1st, Mexico City)</i>. Computational Mechanics, 1993. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-56252-146-2" title="Special:BookSources/1-56252-146-2">1-56252-146-2</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAtmospheric+dispersion+modeling&amp;rft.btitle=International+Conference+on+Air+Pollution+%281st%2C+Mexico+City%29&amp;rft.date=1993&amp;rft.genre=book&amp;rft.isbn=1-56252-146-2&amp;rft.pub=Computational+Mechanics%2C+1993&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">De Wispelaere, C., ed. (1980). <i>International Technical Meeting on Air Pollution Modeling and Its Application (11th)</i>. Plenum Press, 1981. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-306-40820-1" title="Special:BookSources/0-306-40820-1">0-306-40820-1</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAtmospheric+dispersion+modeling&amp;rft.btitle=International+Technical+Meeting+on+Air+Pollution+Modeling+and+Its+Application+%2811th%29&amp;rft.date=1980&amp;rft.genre=book&amp;rft.isbn=0-306-40820-1&amp;rft.pub=Plenum+Press%2C+1981&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">De Wispelaere, C., ed. (1982). <i>International Technical Meeting on Air Pollution Modeling and Its Application (13th)</i>. NATO Committee on the Challenges of Modern Society [by] Plenum Press, 1984. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-306-41491-0" title="Special:BookSources/0-306-41491-0">0-306-41491-0</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAtmospheric+dispersion+modeling&amp;rft.btitle=International+Technical+Meeting+on+Air+Pollution+Modeling+and+Its+Application+%2813th%29&amp;rft.date=1982&amp;rft.genre=book&amp;rft.isbn=0-306-41491-0&amp;rft.pub=NATO+Committee+on+the+Challenges+of+Modern+Society+%5Bby%5D+Plenum+Press%2C+1984&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Gryning, S.; Schiermeir, F.A., eds. (1995). <i>International Technical Meeting on Air Pollution Modeling and Its Application (21st)</i>. NATO Committee on the Challenges of Modern Society [by] Plenum Press, 1996. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-306-45381-9" title="Special:BookSources/0-306-45381-9">0-306-45381-9</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAtmospheric+dispersion+modeling&amp;rft.btitle=International+Technical+Meeting+on+Air+Pollution+Modeling+and+Its+Application+%2821st%29&amp;rft.date=1995&amp;rft.genre=book&amp;rft.isbn=0-306-45381-9&amp;rft.pub=NATO+Committee+on+the+Challenges+of+Modern+Society+%5Bby%5D+Plenum+Press%2C+1996&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Gryning, S.; Chaumerliac, N., eds. (1997). <i>International Technical Meeting on Air Pollution Modeling and Its Application (22nd)</i>. NATO Committee on the Challenges of Modern Society [by] Plenum Press, 1998. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-306-45821-7" title="Special:BookSources/0-306-45821-7">0-306-45821-7</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAtmospheric+dispersion+modeling&amp;rft.btitle=International+Technical+Meeting+on+Air+Pollution+Modeling+and+Its+Application+%2822nd%29&amp;rft.date=1997&amp;rft.genre=book&amp;rft.isbn=0-306-45821-7&amp;rft.pub=NATO+Committee+on+the+Challenges+of+Modern+Society+%5Bby%5D+Plenum+Press%2C+1998&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Gryning, S.; Batchvarova, E., eds. (1998). <i>International Technical Meeting on Air Pollution Modeling and Its Application (23rd)</i>. NATO Committee on the Challenges of Modern Society [by] Kluwer Academic/Plenum Press, 2000. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-306-46188-9" title="Special:BookSources/0-306-46188-9">0-306-46188-9</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAtmospheric+dispersion+modeling&amp;rft.btitle=International+Technical+Meeting+on+Air+Pollution+Modeling+and+Its+Application+%2823rd%29&amp;rft.date=1998&amp;rft.genre=book&amp;rft.isbn=0-306-46188-9&amp;rft.pub=NATO+Committee+on+the+Challenges+of+Modern+Society+%5Bby%5D+Kluwer+Academic%2FPlenum+Press%2C+2000&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Gryning, S.; Schiermeir, F.A., eds. (2000). <i>International Technical Meeting on Air Pollution Modeling and Its Application (24th)</i>. NATO Committee on the Challenges of Modern Society [by] Kluwer Academic, 2001. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-306-46534-5" title="Special:BookSources/0-306-46534-5">0-306-46534-5</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAtmospheric+dispersion+modeling&amp;rft.btitle=International+Technical+Meeting+on+Air+Pollution+Modeling+and+Its+Application+%2824th%29&amp;rft.date=2000&amp;rft.genre=book&amp;rft.isbn=0-306-46534-5&amp;rft.pub=NATO+Committee+on+the+Challenges+of+Modern+Society+%5Bby%5D+Kluwer+Academic%2C+2001&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">:Borrego, C.; Schayes, G., eds. (2000). <i>International Technical Meeting on Air Pollution Modeling and Its Application (25th)</i>. NATO Committee on the Challenges of Modern Society [by] Kluwer Academic, 2002. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-306-47294-5" title="Special:BookSources/0-306-47294-5">0-306-47294-5</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAtmospheric+dispersion+modeling&amp;rft.btitle=International+Technical+Meeting+on+Air+Pollution+Modeling+and+Its+Application+%2825th%29&amp;rft.date=2000&amp;rft.genre=book&amp;rft.isbn=0-306-47294-5&amp;rft.pub=NATO+Committee+on+the+Challenges+of+Modern+Society+%5Bby%5D+Kluwer+Academic%2C+2002&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Borrego, C.; Incecik, S., eds. (2003). <i>International Technical Meeting on Air Pollution Modeling and Its Application (26th)</i>. NATO Committee on the Challenges of Modern Society [by] Kluwer Academic/Plenum Press, 2004. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-306-48464-1" title="Special:BookSources/0-306-48464-1">0-306-48464-1</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAtmospheric+dispersion+modeling&amp;rft.btitle=International+Technical+Meeting+on+Air+Pollution+Modeling+and+Its+Application+%2826th%29&amp;rft.date=2003&amp;rft.genre=book&amp;rft.isbn=0-306-48464-1&amp;rft.pub=NATO+Committee+on+the+Challenges+of+Modern+Society+%5Bby%5D+Kluwer+Academic%2FPlenum+Press%2C+2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Committee on the Atmospheric Dispersion of Hazardous Material Releases, National Research Council, eds. (2002). <i>Tracking and Predicting the Atmospheric Dispersion of Hazardous Material Releases (Workshop)</i>. National Academies Press, 2003. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-309-08926-3" title="Special:BookSources/0-309-08926-3">0-309-08926-3</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAtmospheric+dispersion+modeling&amp;rft.btitle=Tracking+and+Predicting+the+Atmospheric+Dispersion+of+Hazardous+Material+Releases+%28Workshop%29&amp;rft.date=2002&amp;rft.genre=book&amp;rft.isbn=0-309-08926-3&amp;rft.pub=National+Academies+Press%2C+2003&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span> <span class="citation-comment" style="display:none; color:#33aa33">CS1 maint: Uses editors parameter (<a href="/wiki/Category:CS1_maint:_Uses_editors_parameter" title="Category:CS1 maint: Uses editors parameter">link</a>)</span></li>
+</ul>
+<h3><span class="mw-headline" id="Guidance">Guidance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Atmospheric_dispersion_modeling&amp;action=edit&amp;section=12" title="Edit section: Guidance">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><cite class="citation book">Hanna, S. R.; Briggs, G. A. &amp; Hosker, R. P. (1982). <a rel="nofollow" class="external text" href="http://www.osti.gov/energycitations/product.biblio.jsp?osti_id=5591108"><i>Handbook on Atmospheric Diffusion</i></a>. U.S. Department of Energy, Technical Information Center. DOE/TIC-11223.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAtmospheric+dispersion+modeling&amp;rft.au=Briggs%2C+G.+A.&amp;rft.au=Hanna%2C+S.+R.&amp;rft.au=Hosker%2C+R.+P.&amp;rft.btitle=Handbook+on+Atmospheric+Diffusion&amp;rft.date=1982&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.osti.gov%2Fenergycitations%2Fproduct.biblio.jsp%3Fosti_id%3D5591108&amp;rft.pub=U.S.+Department+of+Energy%2C+Technical+Information+Center.+DOE%2FTIC-11223&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">U.S. Environmental Protection Agency (1993). <i>Guidance on the Application of Refined Dispersion Models for Hazardous/Toxic Air Releases</i>. Office of Air Quality Planning and Standards, EPA-454/R-93-002.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAtmospheric+dispersion+modeling&amp;rft.au=U.S.+Environmental+Protection+Agency&amp;rft.btitle=Guidance+on+the+Application+of+Refined+Dispersion+Models+for+Hazardous%2FToxic+Air+Releases&amp;rft.date=1993&amp;rft.genre=book&amp;rft.pub=Office+of+Air+Quality+Planning+and+Standards%2C+EPA-454%2FR-93-002&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">U.S. Environmental Protection Agency (1999). <a rel="nofollow" class="external text" href="http://daq.state.nc.us/toxics/risk/112r/files/guid_oca-all(31).pdf"><i>Risk Management Program Guidance for Offsite Consequence Analysis (Appendices)</i></a> <span style="font-size:85%;">(PDF)</span>. Office of Solid Waste and Emergency Response, EPA 550-B-99-009.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAtmospheric+dispersion+modeling&amp;rft.au=U.S.+Environmental+Protection+Agency&amp;rft.btitle=Risk+Management+Program+Guidance+for+Offsite+Consequence+Analysis+%28Appendices%29&amp;rft.date=1999&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fdaq.state.nc.us%2Ftoxics%2Frisk%2F112r%2Ffiles%2Fguid_oca-all%2831%29.pdf&amp;rft.pub=Office+of+Solid+Waste+and+Emergency+Response%2C+EPA+550-B-99-009&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">U.S. Environmental Protection Agency (1999). <a rel="nofollow" class="external text" href="http://www.epa.gov/emergencies/docs/chem/backup.pdf"><i>Technical Background Document for Offsite Consequence Analysis for Anhydrous Ammonia, Aqueous Ammonia, Chlorine, and Sulfur Dioxide</i></a> <span style="font-size:85%;">(PDF)</span>. Chemical Emergency Preparedness and Prevention Office.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAtmospheric+dispersion+modeling&amp;rft.au=U.S.+Environmental+Protection+Agency&amp;rft.btitle=Technical+Background+Document+for+Offsite+Consequence+Analysis+for+Anhydrous+Ammonia%2C+Aqueous+Ammonia%2C+Chlorine%2C+and+Sulfur+Dioxide&amp;rft.date=1999&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.epa.gov%2Femergencies%2Fdocs%2Fchem%2Fbackup.pdf&amp;rft.pub=Chemical+Emergency+Preparedness+and+Prevention+Office&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">U.S. Environmental Protection Agency (2009). <a rel="nofollow" class="external text" href="http://www.epa.gov/emergencies/docs/chem/Chap-04-final.pdf"><i>Chapter 4: Offsite Consequence Analysis. In General Guidance on Risk Management Programs for Chemical Accident Prevention (40 CFR Part 68)</i></a> <span style="font-size:85%;">(PDF)</span>. Office of Solid Waste and Emergency Response, EPA 555-B-04-001.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAtmospheric+dispersion+modeling&amp;rft.au=U.S.+Environmental+Protection+Agency&amp;rft.btitle=Chapter+4%3A+Offsite+Consequence+Analysis.+In+General+Guidance+on+Risk+Management+Programs+for+Chemical+Accident+Prevention+%2840+CFR+Part+68%29&amp;rft.date=2009&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.epa.gov%2Femergencies%2Fdocs%2Fchem%2FChap-04-final.pdf&amp;rft.pub=Office+of+Solid+Waste+and+Emergency+Response%2C+EPA+555-B-04-001&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Atmospheric_dispersion_modeling&amp;action=edit&amp;section=13" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.epa.gov./scram001/">EPA's Support Center for Regulatory Atmospheric Modeling</a>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.epa.gov/scram001/dispersion_prefrec.htm">EPA's Preferred/Recommended Models</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.epa.gov/scram001/dispersion_alt.htm">EPA's Alternative Models</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.epa.gov/scram001/photochemicalindex.htm">EPA's Photochemical Models</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.epa.gov/scram001/dispersion_screening.htm">EPA's Preliminary Screening Models</a></li>
+</ul>
+</li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20060925023209/http://www.epa.gov/oar/oaqps/organization/aqad/aqmg.html">EPA's Air Quality Modeling Group (AQMG)</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.arl.noaa.gov/">NOAA's Air Resources Laboratory (ARL)</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.dmoz.org/Science/Environment/Air_Quality/Air_Dispersion_Modeling/">The Open Directory Project has a good amount of dispersion modeling information</a></li>
+<li><a rel="nofollow" class="external text" href="http://admlc.wordpress.com">UK Atmospheric Dispersion Modelling Liaison Committee web site</a></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20060113231208/http://www.metoffice.gov.uk:80/environment/serv4.html">UK Dispersion Modelling Bureau web site</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.lotos-euros.nl">Atmospheric Chemistry transport model LOTOS-EUROS</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.rivm.nl/ops">The Operational Priority Substances model OPS</a> <span class="languageicon" style="font-size:0.95em; font-weight:bold; color:#555;">(Dutch)</span></li>
+<li><a rel="nofollow" class="external text" href="http://www.hamsagars.net/hamsfd/hams.htm">HAMS-GPS Dispersion modelling</a></li>
+<li><a rel="nofollow" class="external text" href="http://atmosphericdispersion.wikia.com/">Wiki on Atmospheric Dispersion Modelling</a>. Addresses the international community of atmospheric dispersion modellers - primarily researchers, but also users of models. Its purpose is to pool experiences gained by dispersion modellers during their work.</li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Atmospheric.2C_oceanographic_and_climate_models" style="padding:3px">
+<table class="nowraplinks hlist collapsible expanded navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Atmospheric,_Oceanographic_and_Climate_Models" title="Template:Atmospheric, Oceanographic and Climate Models"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Atmospheric,_Oceanographic_and_Climate_Models" title="Template talk:Atmospheric, Oceanographic and Climate Models"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Atmospheric,_Oceanographic_and_Climate_Models&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Atmospheric.2C_oceanographic_and_climate_models" style="font-size:114%">Atmospheric, oceanographic and climate models</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible expanded navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";line-height:2.0em;"><span style="float:left;width:6em">&#160;</span>
+<div id="Model_types" style="font-size:114%">Model types</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px;line-height:1.2em;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Atmospheric_model" title="Atmospheric model">Atmospheric model</a></li>
+<li><a href="/wiki/Climate_model" title="Climate model">Climate model</a></li>
+<li><a href="/wiki/Numerical_weather_prediction" title="Numerical weather prediction">Numerical weather prediction</a></li>
+<li><a href="/wiki/Tropical_cyclone_forecast_model" title="Tropical cyclone forecast model">Tropical cyclone forecast model</a></li>
+<li><strong class="selflink">Atmospheric dispersion modeling</strong></li>
+<li><a href="/wiki/Chemical_transport_model" title="Chemical transport model">Chemical transport model</a></li>
+<li><a href="/wiki/Upper-atmospheric_models" title="Upper-atmospheric models">Upper-atmospheric models</a></li>
+<li><a href="/wiki/Ensemble_forecasting" title="Ensemble forecasting">Ensemble forecasting</a></li>
+<li><a href="/wiki/Model_output_statistics" title="Model output statistics">Model output statistics</a></li>
+<li><a href="/wiki/Meteorological_reanalysis" title="Meteorological reanalysis">Meteorological reanalysis</a></li>
+<li><a href="/wiki/Parametrization_(atmospheric_modeling)" title="Parametrization (atmospheric modeling)">Parametrization</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible expanded navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";line-height:2.0em;"><span style="float:left;width:6em">&#160;</span>
+<div id="Specific_models" style="font-size:114%">Specific models</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px;line-height:1.2em;">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Climate</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Intermediate_General_Circulation_Model" title="Intermediate General Circulation Model">IGCM</a></li>
+<li><a href="/wiki/HadCM3" title="HadCM3">HadCM3</a></li>
+<li><a href="/wiki/HadGEM1" title="HadGEM1">HadGEM1</a></li>
+<li><a href="/wiki/GFDL_CM2.X" class="mw-redirect" title="GFDL CM2.X">GFDL CM2.X</a></li>
+<li><a href="/wiki/CGCM" class="mw-redirect" title="CGCM">CGCM</a></li>
+<li><a href="/wiki/Community_Climate_System_Model" title="Community Climate System Model">CCSM</a></li>
+<li><a href="/wiki/Community_Earth_System_Model" title="Community Earth System Model">CESM</a></li>
+<li><a href="/wiki/Climate_Forecast_System" title="Climate Forecast System">CFSv2</a></li>
+<li><a href="/wiki/ECHAM" title="ECHAM">ECHAM</a></li>
+<li><a href="/wiki/Model_for_Prediction_Across_Scales" title="Model for Prediction Across Scales">MPAS</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Global weather</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Integrated_Forecast_System" title="Integrated Forecast System">IFS (ECMWF)</a></li>
+<li><a href="/wiki/Flow-following,_finite-volume_Icosahedral_Model" title="Flow-following, finite-volume Icosahedral Model">FIM</a></li>
+<li><a href="/wiki/Global_Environmental_Multiscale_Model" title="Global Environmental Multiscale Model">GEM</a></li>
+<li><a href="/wiki/Global_Forecast_System" title="Global Forecast System">GFS</a></li>
+<li><a href="/wiki/North_American_Ensemble_Forecast_System" title="North American Ensemble Forecast System">NAEFS</a></li>
+<li><a href="/wiki/Navy_Global_Environmental_Model" title="Navy Global Environmental Model">NAVGEM</a></li>
+<li><a href="/wiki/Unified_Model" title="Unified Model">UM</a></li>
+<li>JMA</li>
+<li><a href="/wiki/GME_of_Deutscher_Wetterdienst" title="GME of Deutscher Wetterdienst">GME</a></li>
+<li>ARPEGE</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Regional and mesoscale atmospheric</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/North_American_Mesoscale_Model" title="North American Mesoscale Model">NAM</a></li>
+<li><a href="/wiki/Rapid_Refresh" title="Rapid Refresh">RR / RAP</a></li>
+<li><a href="/wiki/Regional_Atmospheric_Modeling_System" title="Regional Atmospheric Modeling System">RAMS</a></li>
+<li><a href="/wiki/Weather_Research_and_Forecasting_model" class="mw-redirect" title="Weather Research and Forecasting model">WRF</a></li>
+<li>RAQMS</li>
+<li><a href="/wiki/HIRLAM" title="HIRLAM">HIRLAM</a></li>
+<li>LAPS</li>
+<li>RPM</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Regional and mesoscale oceanographic</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li>HyCOM</li>
+<li><a href="/wiki/Regional_Ocean_Modeling_System" title="Regional Ocean Modeling System">ROMS</a></li>
+<li><a href="/wiki/Princeton_ocean_model" class="mw-redirect" title="Princeton ocean model">POM</a></li>
+<li><a href="/wiki/Modular_ocean_model" class="mw-redirect" title="Modular ocean model">MOM</a></li>
+<li><a href="/wiki/Finite_Volume_Community_Ocean_Model" title="Finite Volume Community Ocean Model">FVCOM</a></li>
+<li><a href="/wiki/MIT_General_Circulation_Model" title="MIT General Circulation Model">MITgcm</a></li>
+<li><a href="/wiki/FESOM" title="FESOM">FESOM</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Atmospheric dispersion</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/ADMS_3" title="ADMS 3">ADMS</a></li>
+<li><a href="/wiki/AERMOD" title="AERMOD">AERMOD</a></li>
+<li><a href="/wiki/ATSTEP" title="ATSTEP">ATSTEP</a></li>
+<li><a href="/wiki/AUSTAL2000" title="AUSTAL2000">AUSTAL2000</a></li>
+<li><a href="/wiki/CALPUFF" title="CALPUFF">CALPUFF</a></li>
+<li><a href="/wiki/DISPERSION21" title="DISPERSION21">DISPERSION21</a></li>
+<li><a href="/wiki/ISC3" title="ISC3">ISC3</a></li>
+<li><a href="/wiki/MEMO_Model" title="MEMO Model">MEMO</a></li>
+<li><a href="/wiki/MERCURE" title="MERCURE">MERCURE</a></li>
+<li><a href="/wiki/NAME_(dispersion_model)" title="NAME (dispersion model)">NAME</a></li>
+<li><a href="/wiki/Operational_Street_Pollution_Model" title="Operational Street Pollution Model">OSPM</a></li>
+<li><a href="/wiki/PUFF-PLUME" title="PUFF-PLUME">PUFF-PLUME</a></li>
+<li><a href="/wiki/RIMPUFF" title="RIMPUFF">RIMPUFF</a></li>
+<li><a href="/wiki/SAFE_AIR" title="SAFE AIR">SAFE AIR</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Chemical transport</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/CLaMS" title="CLaMS">CLaMS</a></li>
+<li><a href="/wiki/MOZART_(model)" title="MOZART (model)">MOZART</a></li>
+<li><a href="/w/index.php?title=GEOS-Chem&amp;action=edit&amp;redlink=1" class="new" title="GEOS-Chem (page does not exist)">GEOS-Chem</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Land surface parametrization</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/JULES" title="JULES">JULES</a></li>
+<li><a href="/wiki/Canadian_Land_Surface_Scheme" title="Canadian Land Surface Scheme">CLASS</a></li>
+<li><a href="/wiki/Interaction_Soil-Biosphere-Atmosphere" title="Interaction Soil-Biosphere-Atmosphere">ISBA</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Discontinued</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li>AVN / MRF / GSM</li>
+<li>Eta</li>
+<li>LFM</li>
+<li><a href="/wiki/MM5_(weather_model)" title="MM5 (weather model)">MM5</a></li>
+<li><a href="/wiki/Nested_Grid_Model" title="Nested Grid Model">NGM</a></li>
+<li><a href="/wiki/Navy_Operational_Global_Atmospheric_Prediction_System" title="Navy Operational Global Atmospheric Prediction System">NOGAPS</a></li>
+<li><a href="/wiki/Rapid_Update_Cycle" class="mw-redirect" title="Rapid Update Cycle">RUC</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><a href="/wiki/Mathematical_model" title="Mathematical model">Mathematical model</a></li>
+<li><a href="/wiki/Statistical_model" title="Statistical model">Statistical model</a></li>
+<li><a href="/wiki/Scientific_modelling" title="Scientific modelling">Scientific modelling</a></li>
+<li><a href="/wiki/Computer_simulation" title="Computer simulation">Computer simulation</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Scientific_modelling" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Computer_modeling" title="Template:Computer modeling"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Computer_modeling" title="Template talk:Computer modeling"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Computer_modeling&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Scientific_modelling" style="font-size:114%"><a href="/wiki/Scientific_modelling" title="Scientific modelling">Scientific modelling</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Modelling_biological_systems" title="Modelling biological systems">Biological</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Biological_data_visualization" title="Biological data visualization">Biological data visualization</a></li>
+<li><a href="/wiki/Cellular_model" title="Cellular model">Cellular model</a></li>
+<li><a href="/wiki/Chemical_process_modeling" title="Chemical process modeling">Chemical process modeling</a></li>
+<li><a href="/wiki/Ecosystem_model" title="Ecosystem model">Ecosystem model</a></li>
+<li><a href="/wiki/Mathematical_modelling_of_infectious_disease" title="Mathematical modelling of infectious disease">Infectious disease model</a></li>
+<li><a href="/wiki/Metabolic_network_modelling" title="Metabolic network modelling">Metabolic network modelling</a></li>
+<li><a href="/wiki/Modelling_biological_systems" title="Modelling biological systems">Modelling biological systems</a></li>
+<li><a href="/wiki/Protein_structure_prediction" title="Protein structure prediction">Protein structure prediction</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Environmental</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Atmospheric_model" title="Atmospheric model">Atmospheric model</a></li>
+<li><a href="/wiki/Chemical_transport_model" title="Chemical transport model">Chemical transport model</a></li>
+<li><a href="/wiki/Climate_model" title="Climate model">Climate model</a></li>
+<li><a href="/wiki/Geologic_modelling" title="Geologic modelling">Geologic modelling</a></li>
+<li><a href="/wiki/Groundwater_model" title="Groundwater model">Groundwater model</a></li>
+<li><a href="/wiki/Hydrological_modelling" title="Hydrological modelling">Hydrological modelling</a></li>
+<li><a href="/wiki/Hydrological_transport_model" title="Hydrological transport model">Hydrological transport model</a></li>
+<li><a href="/wiki/Modular_Ocean_Model" title="Modular Ocean Model">Modular Ocean Model</a></li>
+<li><a href="/wiki/Wildfire_modeling" title="Wildfire modeling">Wildfire modeling</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Sustainability</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Energy_modeling" title="Energy modeling">Energy modeling</a></li>
+<li><a href="/wiki/Integrated_assessment_modelling" title="Integrated assessment modelling">Integrated assessment modelling</a></li>
+<li><a href="/wiki/Population_model" title="Population model">Population model</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Social</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Biopsychosocial_model" title="Biopsychosocial model">Biopsychosocial model</a></li>
+<li><a href="/wiki/Business_process_modelling" class="mw-redirect" title="Business process modelling">Business process modelling</a></li>
+<li><a href="/wiki/Catastrophe_modeling" title="Catastrophe modeling">Catastrophe modeling</a></li>
+<li><a href="/wiki/Construction_and_management_simulation" title="Construction and management simulation">Construction and management simulation</a></li>
+<li><a href="/wiki/Crime_mapping" title="Crime mapping">Crime mapping</a></li>
+<li><a href="/wiki/Economic_model" title="Economic model">Economic model</a></li>
+<li><a href="/wiki/Input-output_model" class="mw-redirect" title="Input-output model">Input-output model</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Related topics</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Data_visualization" title="Data visualization">Data visualization</a></li>
+<li><a href="/wiki/List_of_computer_simulation_software" title="List of computer simulation software">List of computer simulation software</a></li>
+<li><a href="/wiki/Mathematical_modeling" class="mw-redirect" title="Mathematical modeling">Mathematical modeling</a></li>
+<li><a href="/wiki/Model_theory" title="Model theory">Model theory</a></li>
+<li><a href="/wiki/Systems_theory" title="Systems theory">Systems theory</a></li>
+<li><a href="/wiki/Systems_thinking" title="Systems thinking">Systems thinking</a></li>
+<li><a href="/wiki/Visual_analytics" title="Visual analytics">Visual analytics</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1267
+Cached time: 20170121093216
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.388 seconds
+Real time usage: 0.687 seconds
+Preprocessor visited node count: 2529/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 125523/2097152 bytes
+Template argument size: 8055/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 2/500
+Lua time usage: 0.166/10.000 seconds
+Lua memory usage: 3.87 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  282.341      1 -total
+ 55.88%  157.779     40 Template:Cite_book
+ 37.76%  106.626      1 Template:Reflist
+ 18.96%   53.541      1 Template:Dead_link
+ 13.99%   39.501      1 Template:Atmospheric,_Oceanographic_and_Climate_Models
+ 13.40%   37.830      1 Template:Navbox_with_collapsible_groups
+ 11.84%   33.442      1 Template:Fix
+ 11.17%   31.542      3 Template:Category_handler
+  3.90%   11.008      2 Template:Navbox
+  3.62%   10.214      1 Template:Navbox_subgroup
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:3747894-0!*!0!!en!4!*!math=5 and timestamp 20170121093215 and revision id 752533575
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Atmospheric_dispersion_modeling&amp;oldid=752533575">https://en.wikipedia.org/w/index.php?title=Atmospheric_dispersion_modeling&amp;oldid=752533575</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Atmospheric_dispersion_modeling" title="Category:Atmospheric dispersion modeling">Atmospheric dispersion modeling</a></li><li><a href="/wiki/Category:Air_pollution" title="Category:Air pollution">Air pollution</a></li><li><a href="/wiki/Category:Environmental_engineering" title="Category:Environmental engineering">Environmental engineering</a></li><li><a href="/wiki/Category:Industrial_emissions_control" title="Category:Industrial emissions control">Industrial emissions control</a></li><li><a href="/wiki/Category:Climate_modeling" title="Category:Climate modeling">Climate modeling</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_dead_external_links" title="Category:All articles with dead external links">All articles with dead external links</a></li><li><a href="/wiki/Category:Articles_with_dead_external_links_from_October_2016" title="Category:Articles with dead external links from October 2016">Articles with dead external links from October 2016</a></li><li><a href="/wiki/Category:Articles_with_permanently_dead_external_links" title="Category:Articles with permanently dead external links">Articles with permanently dead external links</a></li><li><a href="/wiki/Category:CS1_maint:_Uses_authors_parameter" title="Category:CS1 maint: Uses authors parameter">CS1 maint: Uses authors parameter</a></li><li><a href="/wiki/Category:CS1_maint:_Uses_editors_parameter" title="Category:CS1 maint: Uses editors parameter">CS1 maint: Uses editors parameter</a></li><li><a href="/wiki/Category:Articles_with_Dutch-language_external_links" title="Category:Articles with Dutch-language external links">Articles with Dutch-language external links</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Atmospheric+dispersion+modeling" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Atmospheric+dispersion+modeling" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Atmospheric_dispersion_modeling"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Atmospheric_dispersion_modeling"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Atmospheric_dispersion_modeling" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Atmospheric_dispersion_modeling&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Atmospheric_dispersion_modeling&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Atmospheric_dispersion_modeling" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Atmospheric_dispersion_modeling" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Atmospheric_dispersion_modeling&amp;oldid=752533575" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Atmospheric_dispersion_modeling&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q778187" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Atmospheric_dispersion_modeling&amp;id=752533575" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Atmospheric+dispersion+modeling">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Atmospheric+dispersion+modeling&amp;returnto=Atmospheric+dispersion+modeling&amp;oldid=752533575&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Atmospheric_dispersion_modeling&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Atmospheric_dispersion_modeling" hreflang="en">Wikimedia Commons</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Modelov%C3%A1n%C3%AD_rozptylu_zne%C4%8Di%C5%A1%C5%A5uj%C3%ADc%C3%ADch_l%C3%A1tek_v_ovzdu%C5%A1%C3%AD" title="Modelování rozptylu znečišťujících látek v ovzduší – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Ausbreitungsrechnung" title="Ausbreitungsrechnung – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/%C3%95husaaste_leviku_modelleerimine" title="Õhusaaste leviku modelleerimine – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Mod%C3%A9lisation_de_la_dispersion_atmosph%C3%A9rique" title="Modélisation de la dispersion atmosphérique – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Dispersione_degli_inquinanti_in_atmosfera" title="Dispersione degli inquinanti in atmosfera – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%B0%97%E6%8B%A1%E6%95%A3" title="大気拡散 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Modelowanie_dyspersji_odorant%C3%B3w" title="Modelowanie dyspersji odorantów – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Modeliza%C3%A7%C3%A3o_de_dispers%C3%A3o_atmosf%C3%A9rica" title="Modelização de dispersão atmosférica – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8_%D1%80%D0%B0%D1%81%D1%81%D0%B5%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F_%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%81%D0%B8" title="Модели рассеивания примеси – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%A4%A7%E6%B0%A3%E6%93%B4%E6%95%A3%E6%A8%A1%E5%BC%8F" title="大氣擴散模式 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q778187#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 1 December 2016, at 20:34.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Atmospheric_dispersion_modeling&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.388","walltime":"0.687","ppvisitednodes":{"value":2529,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":125523,"limit":2097152},"templateargumentsize":{"value":8055,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  282.341      1 -total"," 55.88%  157.779     40 Template:Cite_book"," 37.76%  106.626      1 Template:Reflist"," 18.96%   53.541      1 Template:Dead_link"," 13.99%   39.501      1 Template:Atmospheric,_Oceanographic_and_Climate_Models"," 13.40%   37.830      1 Template:Navbox_with_collapsible_groups"," 11.84%   33.442      1 Template:Fix"," 11.17%   31.542      3 Template:Category_handler","  3.90%   11.008      2 Template:Navbox","  3.62%   10.214      1 Template:Navbox_subgroup"]},"scribunto":{"limitreport-timeusage":{"value":"0.166","limit":"10.000"},"limitreport-memusage":{"value":4055603,"limit":52428800}},"cachereport":{"origin":"mw1267","timestamp":"20170121093216","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":71,"wgHostname":"mw1270"});});</script>
+	</body>
+</html>

@@ -1,0 +1,847 @@
+url : https://en.wikipedia.org/wiki/Quantum_efficiency_of_a_solar_cell
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Solar cell efficiency - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Solar_cell_efficiency","wgTitle":"Solar cell efficiency","wgCurRevisionId":761972005,"wgRevisionId":761972005,"wgArticleId":29324571,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use dmy dates from April 2011","Commons category with local link same as on Wikidata","Articles with DMOZ links","Solar cells","Photovoltaics"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Solar_cell_efficiency","wgRelevantArticleId":29324571,"wgRequestId":"WI4ubApAMFcAAKFqBcAAAABQ","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Quantum_efficiency_of_a_solar_cell","wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgInternalRedirectTargetUrl":"/wiki/Solar_cell_efficiency#Quantum_efficiency","wgWikibaseItemId":"Q7556087","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.action.view.redirect","ext.cite.a11y","ext.math.scripts","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.9"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Solar_cell_efficiency#Quantum_efficiency"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Solar_cell_efficiency&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Solar_cell_efficiency&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Solar_cell_efficiency#Quantum_efficiency"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Solar_cell_efficiency rootpage-Solar_cell_efficiency skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Solar cell efficiency</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"><span class="mw-redirectedfrom">  (Redirected from <a href="/w/index.php?title=Quantum_efficiency_of_a_solar_cell&amp;redirect=no" class="mw-redirect" title="Quantum efficiency of a solar cell">Quantum efficiency of a solar cell</a>)</span></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div class="thumb tright">
+<div class="thumbinner" style="width:252px;"><a href="/wiki/File:Dust_on_the_a_solar_panel.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Dust_on_the_a_solar_panel.jpg/250px-Dust_on_the_a_solar_panel.jpg" width="250" height="186" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Dust_on_the_a_solar_panel.jpg/375px-Dust_on_the_a_solar_panel.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Dust_on_the_a_solar_panel.jpg/500px-Dust_on_the_a_solar_panel.jpg 2x" data-file-width="708" data-file-height="528" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Dust_on_the_a_solar_panel.jpg" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Dust" title="Dust">Dust</a> often accumulates on the glass of solar modules - seen here as black dots - which reduces the amount of light admitted to the solar cells</div>
+</div>
+</div>
+<p><b>Solar cell efficiency</b> refers to the portion of energy in the form of sunlight that can be converted via <a href="/wiki/Photovoltaic" class="mw-redirect" title="Photovoltaic">photovoltaics</a> into electricity.</p>
+<p>The efficiency of the solar cells used in a <a href="/wiki/Photovoltaic_system" title="Photovoltaic system">photovoltaic system</a>, in combination with latitude and climate, determines the annual energy output of the system. For example, a solar panel with 20% efficiency and an area of 1&#160;m<sup>2</sup> will produce 200&#160;W at Standard Test Conditions, but it can produce more when the sun is high in the sky and will produce less in cloudy conditions and when the sun is low in the sky. In central Colorado, which receives annual <a href="/wiki/Insolation" class="mw-redirect" title="Insolation">insolation</a> of 5.5&#160;kWh/m<sup>2</sup>/day,<sup id="cite_ref-nrel.gov_1-0" class="reference"><a href="#cite_note-nrel.gov-1">[1]</a></sup> such a panel can be expected to produce 440&#160;<a href="/wiki/Kilowatt-hour" class="mw-redirect" title="Kilowatt-hour">kWh</a> of energy per year. However, in Michigan, which receives only 3.8&#160;kWh/m<sup>2</sup>/day,<sup id="cite_ref-nrel.gov_1-1" class="reference"><a href="#cite_note-nrel.gov-1">[1]</a></sup> annual energy yield will drop to 280&#160;kWh for the same panel. At more northerly European latitudes, yields are significantly lower: 175&#160;kWh annual energy yield in southern England.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></p>
+<p>Several factors affect a cell's conversion efficiency value, including its <a href="/wiki/Reflectivity#Reflectance" class="mw-redirect" title="Reflectivity">reflectance</a> efficiency, <a href="/wiki/Thermodynamic_efficiency_limit" title="Thermodynamic efficiency limit">thermodynamic efficiency</a>, <a href="/wiki/Theory_of_solar_cells#Charge_carrier_separation" title="Theory of solar cells">charge carrier separation</a> efficiency, and <a href="/wiki/Thermal_conduction" title="Thermal conduction">conduction</a> efficiency values.<sup id="cite_ref-Energy_Efficiency_and_Renewable_Energy_3-0" class="reference"><a href="#cite_note-Energy_Efficiency_and_Renewable_Energy-3">[3]</a></sup> Because these parameters can be difficult to measure directly, other parameters are measured instead, including <a href="/wiki/Quantum_efficiency" title="Quantum efficiency">quantum efficiency</a>, <a href="/wiki/Open-circuit_voltage" title="Open-circuit voltage">V<sub>OC</sub></a> ratio, and <a href="/wiki/Fill_factor_(solar_cell)" class="mw-redirect" title="Fill factor (solar cell)">fill factor</a>. Reflectance losses are accounted for by the quantum efficiency value, as they affect "external quantum efficiency." Recombination losses are accounted for by the quantum efficiency, V<sub>OC</sub> ratio, and fill factor values. Resistive losses are predominantly accounted for by the fill factor value, but also contribute to the quantum efficiency and V<sub>OC</sub> ratio values.</p>
+<p>As of December 2014, the world record for solar cell efficiency at 46% was achieved by using <a href="/wiki/Multi-junction_solar_cell" title="Multi-junction solar cell">multi-junction</a> <a href="/wiki/Concentrator_photovoltaics" title="Concentrator photovoltaics">concentrator</a> solar cells, developed from collaboration efforts of <a href="/wiki/Soitec" title="Soitec">Soitec</a>, <a href="/wiki/CEA-Leti:_Laboratoire_d%27%C3%A9lectronique_des_technologies_de_l%27information" title="CEA-Leti: Laboratoire d'électronique des technologies de l'information">CEA-Leti</a>, France together with <a href="/wiki/Fraunhofer_Institute_for_Solar_Energy_Systems_ISE" title="Fraunhofer Institute for Solar Energy Systems ISE">Fraunhofer ISE</a>, Germany.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Factors_affecting_energy_conversion_efficiency"><span class="tocnumber">1</span> <span class="toctext">Factors affecting energy conversion efficiency</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Thermodynamic_efficiency_limit_and_infinite-stack_limit"><span class="tocnumber">1.1</span> <span class="toctext">Thermodynamic efficiency limit and infinite-stack limit</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Ultimate_efficiency"><span class="tocnumber">1.2</span> <span class="toctext">Ultimate efficiency</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Quantum_efficiency"><span class="tocnumber">1.3</span> <span class="toctext">Quantum efficiency</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Maximum_power_point"><span class="tocnumber">1.4</span> <span class="toctext">Maximum power point</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Fill_factor"><span class="tocnumber">1.5</span> <span class="toctext">Fill factor</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Comparison"><span class="tocnumber">2</span> <span class="toctext">Comparison</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#Energy_payback"><span class="tocnumber">2.1</span> <span class="toctext">Energy payback</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Technical_methods_of_improving_efficiency"><span class="tocnumber">3</span> <span class="toctext">Technical methods of improving efficiency</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="#Promoting_light_scattering_in_the_visible_spectrum"><span class="tocnumber">3.1</span> <span class="toctext">Promoting light scattering in the visible spectrum</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Radiative_cooling"><span class="tocnumber">3.2</span> <span class="toctext">Radiative cooling</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Factors_affecting_energy_conversion_efficiency">Factors affecting energy conversion efficiency</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Solar_cell_efficiency&amp;action=edit&amp;section=1" title="Edit section: Factors affecting energy conversion efficiency">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The factors affecting energy conversion efficiency were expounded in a landmark paper by <a href="/wiki/William_Shockley" title="William Shockley">William Shockley</a> and <a href="/wiki/Hans_Queisser" class="mw-redirect" title="Hans Queisser">Hans Queisser</a> in 1961.<sup id="cite_ref-shockley_5-0" class="reference"><a href="#cite_note-shockley-5">[5]</a></sup> See <a href="/wiki/Shockley-Queisser_limit" class="mw-redirect" title="Shockley-Queisser limit">Shockley-Queisser limit</a> for more detail.</p>
+<h3><span class="mw-headline" id="Thermodynamic_efficiency_limit_and_infinite-stack_limit">Thermodynamic efficiency limit and infinite-stack limit</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Solar_cell_efficiency&amp;action=edit&amp;section=2" title="Edit section: Thermodynamic efficiency limit and infinite-stack limit">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote">Main article: <a href="/wiki/Thermodynamic_efficiency_limit" title="Thermodynamic efficiency limit">Thermodynamic efficiency limit</a></div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:ShockleyQueisserFullCurve.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/ShockleyQueisserFullCurve.svg/220px-ShockleyQueisserFullCurve.svg.png" width="220" height="163" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/ShockleyQueisserFullCurve.svg/330px-ShockleyQueisserFullCurve.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/ShockleyQueisserFullCurve.svg/440px-ShockleyQueisserFullCurve.svg.png 2x" data-file-width="969" data-file-height="720" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:ShockleyQueisserFullCurve.svg" class="internal" title="Enlarge"></a></div>
+The <a href="/wiki/Shockley-Queisser_limit" class="mw-redirect" title="Shockley-Queisser limit">Shockley-Queisser limit</a> for the efficiency of a single-junction solar cell under unconcentrated sunlight. This calculated curve uses actual solar spectrum data, and therefore the curve is wiggly from IR absorption bands in the atmosphere. This efficiency limit of ~34% can be exceeded by <a href="/wiki/Multijunction_solar_cell" class="mw-redirect" title="Multijunction solar cell">multijunction solar cells</a>.</div>
+</div>
+</div>
+<p>If one has a source of heat at temperature <span class="texhtml mvar" style="font-style:italic;">T<sub>s</sub></span> and cooler heat sink at temperature <span class="texhtml mvar" style="font-style:italic;">T<sub>c</sub></span>, the maximum theoretically possible value for the ratio of work (or electric power) obtained to heat supplied is <span class="texhtml">1-<i>T<sub>c</sub></i>/<i>T<sub>s</sub></i></span>, given by a <a href="/wiki/Carnot_heat_engine" title="Carnot heat engine">Carnot heat engine</a>. If we take 6000&#160;K for the temperature of the sun and 300&#160;K for ambient conditions on earth, this comes to 95%. In 1981, <a href="/w/index.php?title=Alexis_de_Vos&amp;action=edit&amp;redlink=1" class="new" title="Alexis de Vos (page does not exist)">Alexis de Vos</a> and <a href="/w/index.php?title=Herman_Pauwels&amp;action=edit&amp;redlink=1" class="new" title="Herman Pauwels (page does not exist)">Herman Pauwels</a> showed that this is achievable with a stack of an infinite number of cells with band gaps ranging from infinity (the first cells encountered by the incoming photons) to zero, with a voltage in each cell very close to the open-circuit voltage, equal to 95% of the band gap of that cell, and with 6000&#160;K <a href="/wiki/Blackbody_radiation" class="mw-redirect" title="Blackbody radiation">blackbody radiation</a> coming from all directions. However, the 95% efficiency thereby achieved means that the electric power is 95% of the <i><b>net</b></i> amount of light absorbed – the stack <i><b>emits</b></i> radiation as though it were almost at 6000&#160;K, and this radiation has to be subtracted from the incoming radiation when calculating the amount of heat being transferred and the efficiency. They also considered the more relevant problem of maximizing the power output for a stack being illuminated from all directions by 6000&#160;K blackbody radiation. In this case, the voltages must be lowered to less than 95% of the band gap (the percentage is not constant over all the cells). They found that the maximum power was 86.8% of the amount of <i>in-coming</i> radiation. When the in-coming radiation comes only from an area of the sky the size of the sun, the efficiency limit drops to 68.7%.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></p>
+<h3><span class="mw-headline" id="Ultimate_efficiency">Ultimate efficiency</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Solar_cell_efficiency&amp;action=edit&amp;section=3" title="Edit section: Ultimate efficiency">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Normal photovoltaic systems however have only one <a href="/wiki/P-n_junction" class="mw-redirect" title="P-n junction">p-n junction</a> and are therefore subject to a lower efficiency limit, called the "ultimate efficiency" by Shockley and Queisser. Photons with an energy below the band gap of the absorber material cannot generate an <a href="/wiki/Theory_of_solar_cells#Photogeneration_of_charge_carriers" title="Theory of solar cells">electron-hole pair</a>, so their energy is not converted to useful output, and only generates heat if absorbed. For photons with an energy above the band gap energy, only a fraction of the energy above the band gap can be converted to useful output. When a photon of greater energy is absorbed, the excess energy above the band gap is converted to kinetic energy of the carrier combination. The excess kinetic energy is converted to heat through phonon interactions as the kinetic energy of the carriers slows to equilibrium velocity. Traditional single-junction cells have a maximum theoretical efficiency of 33.16%.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></p>
+<p>Solar cells with multiple band gap absorber materials improve efficiency by dividing the solar spectrum into smaller bins where the thermodynamic efficiency limit is higher for each bin.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></p>
+<h3><span class="mw-headline" id="Quantum_efficiency">Quantum efficiency</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Solar_cell_efficiency&amp;action=edit&amp;section=4" title="Edit section: Quantum efficiency">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote">Main article: <a href="/wiki/Quantum_efficiency" title="Quantum efficiency">Quantum efficiency</a></div>
+<p>As described above, when a photon is absorbed by a solar cell it can produce an electron-hole pair. One of the carriers may reach the p-n junction and contribute to the current produced by the solar cell; such a carrier is said to be <i>collected</i>. Or, the carriers <a href="/wiki/Carrier_generation_and_recombination" title="Carrier generation and recombination">recombine</a> with no net contribution to cell current.</p>
+<p>Quantum efficiency refers to the percentage of photons that are converted to electric current (i.e., collected carriers) when the cell is operated under short circuit conditions. The "external" quantum efficiency of a silicon solar cell includes the effect of optical losses such as transmission and reflection.</p>
+<p>In particular, some measurement can be taken to reduce these losses. The reflection losses, which can account for up to 10% of the total incident energy, can be dramatically decreased using a technique called texturization, a light trapping method that modifies the average light path.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></p>
+<p>Quantum efficiency is most usefully expressed as a <i>spectral</i> measurement (that is, as a function of photon wavelength or energy). Since some wavelengths are absorbed more effectively than others, spectral measurements of quantum efficiency can yield valuable information about the quality of the semiconductor bulk and surfaces. Quantum efficiency alone is not the same as overall energy conversion efficiency, as it does not convey information about the fraction of power that is converted by the solar cell.</p>
+<h3><span class="mw-headline" id="Maximum_power_point">Maximum power point</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Solar_cell_efficiency&amp;action=edit&amp;section=5" title="Edit section: Maximum power point">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A solar cell may operate over a wide range of <a href="/wiki/Voltage" title="Voltage">voltages</a> (V) and <a href="/wiki/Current_(electricity)" class="mw-redirect" title="Current (electricity)">currents</a> (I). By increasing the resistive load on an irradiated cell continuously from zero (a <i><a href="/wiki/Short_circuit" title="Short circuit">short circuit</a></i>) to a very high value (an <i>open circuit</i>) one can determine the <a href="/wiki/Maximum_power_theorem" class="mw-redirect" title="Maximum power theorem">maximum power</a> point, the point that maximizes V×I; that is, the load for which the cell can deliver maximum electrical power at that level of irradiation. (The output power is zero in both the short circuit and open circuit extremes).</p>
+<p>A high quality, monocrystalline silicon solar cell, at 25&#160;°C cell temperature, may produce 0.60&#160;<a href="/wiki/Volt" title="Volt">V</a> open-circuit (<i>V<sub>OC</sub></i>). The cell temperature in full sunlight, even with 25&#160;°C air temperature, will probably be close to 45&#160;°C, reducing the open-circuit voltage to 0.55&#160;V per cell. The voltage drops modestly, with this type of cell, until the short-circuit current is approached (<i>I<sub>SC</sub></i>). Maximum power (with 45&#160;°C cell temperature) is typically produced with 75% to 80% of the open-circuit voltage (0.43&#160;V in this case) and 90% of the short-circuit current. This output can be up to 70% of the <i>V<sub>OC</sub> x I<sub>SC</sub></i> product. The short-circuit current (<i>I<sub>SC</sub></i>) from a cell is nearly proportional to the illumination, while the open-circuit voltage (<i>V<sub>OC</sub></i>) may drop only 10% with an 80% drop in illumination. Lower-quality cells have a more rapid drop in voltage with increasing current and could produce only 1/2&#160;<i>V<sub>OC</sub></i> at 1/2&#160;<i>I<sub>SC</sub></i>. The usable power output could thus drop from 70% of the <i>V<sub>OC</sub> x I<sub>SC</sub></i> product to 50% or even as little as 25%. Vendors who rate their solar cell "power" only as <i>V<sub>OC</sub> x I<sub>SC</sub></i>, without giving load curves, can be seriously distorting their actual performance.</p>
+<p>The maximum power point of a <a href="/wiki/Photovoltaic" class="mw-redirect" title="Photovoltaic">photovoltaic</a> varies with incident illumination. For example, accumulation of dust on photovoltaic panels reduces the maximum power point.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> For systems large enough to justify the extra expense, a <a href="/wiki/Maximum_power_point_tracker" class="mw-redirect" title="Maximum power point tracker">maximum power point tracker</a> tracks the instantaneous power by continually measuring the voltage and <a href="/wiki/Electric_current" title="Electric current">current</a> (and hence, power transfer), and uses this information to dynamically adjust the load so the maximum power is <i>always</i> transferred, regardless of the variation in lighting.</p>
+<h3><span class="mw-headline" id="Fill_factor">Fill factor</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Solar_cell_efficiency&amp;action=edit&amp;section=6" title="Edit section: Fill factor">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Another defining term in the overall behavior of a solar cell is the <i><a href="/wiki/Fill_factor_(solar_cell)" class="mw-redirect" title="Fill factor (solar cell)">fill factor</a></i> (<i>FF</i>). This is the available <i>power</i> at the <i>maximum power point</i> (<i>P<sub>m</sub></i>) divided by the <i>open circuit voltage</i> (<i>V<sub>OC</sub></i>) and the <i>short circuit current</i> (<i>I<sub>SC</sub></i>):</p>
+<dl>
+<dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>F</mi>
+        <mi>F</mi>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <msub>
+              <mi>P</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi>m</mi>
+              </mrow>
+            </msub>
+            <mrow>
+              <msub>
+                <mi>V</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi>O</mi>
+                  <mi>C</mi>
+                </mrow>
+              </msub>
+              <mo>&#x00D7;<!-- × --></mo>
+              <msub>
+                <mi>I</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi>S</mi>
+                  <mi>C</mi>
+                </mrow>
+              </msub>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mi>&#x03B7;<!-- η --></mi>
+              <mo>&#x00D7;<!-- × --></mo>
+              <msub>
+                <mi>A</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi>c</mi>
+                </mrow>
+              </msub>
+              <mo>&#x00D7;<!-- × --></mo>
+              <mi>G</mi>
+            </mrow>
+            <mrow>
+              <msub>
+                <mi>V</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi>O</mi>
+                  <mi>C</mi>
+                </mrow>
+              </msub>
+              <mo>&#x00D7;<!-- × --></mo>
+              <msub>
+                <mi>I</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi>S</mi>
+                  <mi>C</mi>
+                </mrow>
+              </msub>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mo>.</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle FF={\frac {P_{m}}{V_{OC}\times I_{SC}}}={\frac {\eta \times A_{c}\times G}{V_{OC}\times I_{SC}}}.}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/734cffed185fdce18c3b15daa42b5f596ca4d6ef" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.338ex; width:34.03ex; height:6.009ex;" alt="FF = \frac{P_{m}}{V_{OC} \times I_{SC}} = \frac{\eta \times A_c \times G}{V_{OC} \times I_{SC}}." /></span></dd>
+</dl>
+<p>The fill factor is directly affected by the values of the cell's series, shunt resistances and diodes losses. Increasing the shunt resistance (R<sub>sh</sub>) and decreasing the series resistance (R<sub>s</sub>) lead to a higher fill factor, thus resulting in greater efficiency, and bringing the cell's output power closer to its theoretical maximum.<sup id="cite_ref-nelson_11-0" class="reference"><a href="#cite_note-nelson-11">[11]</a></sup></p>
+<p>The Fill factor has a value around 80% for a normal silicon PV cell.</p>
+<h2><span class="mw-headline" id="Comparison">Comparison</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Solar_cell_efficiency&amp;action=edit&amp;section=7" title="Edit section: Comparison">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote">Main article: <a href="/wiki/Photovoltaics" title="Photovoltaics">Photovoltaics</a></div>
+<p>Energy conversion efficiency is measured by dividing the electrical output by the incident light power. Factors influencing output include spectral distribution, spatial distribution of power, temperature, and resistive load. <a href="/wiki/International_Electrotechnical_Commission" title="International Electrotechnical Commission">IEC</a> standard 61215 is used to compare the performance of cells and is designed around standard (terrestrial, temperate) temperature and conditions (STC): <a href="/wiki/Irradiance" title="Irradiance">irradiance</a> of 1&#160;kW/m<sup>2</sup>, a spectral distribution close to solar radiation through AM (<a href="/wiki/Airmass" class="mw-redirect" title="Airmass">airmass</a>) of 1.5 and a cell temperature 25&#160;°C. The resistive load is varied until the peak or maximum power point (MPP) is achieved. The power at this point is recorded as <a href="/wiki/Watt-peak" class="mw-redirect" title="Watt-peak">Watt-peak</a> (Wp). The same standard is used for measuring the power and efficiency of PV modules.</p>
+<p>Air mass affects output. In space, where there is no atmosphere, the spectrum of the sun is relatively unfiltered. However, on earth, air filters the incoming light, changing the solar spectrum. The filtering effect ranges from <a href="/wiki/Air_mass_(solar_energy)" title="Air mass (solar energy)">Air Mass</a> 0 (AM0) in space, to approximately Air Mass 1.5 on Earth. Multiplying the spectral differences by the quantum efficiency of the solar cell in question yields the efficiency. Terrestrial efficiencies typically are greater than space efficiencies. For example, a silicon solar cell in space might have an efficiency of 14% at AM0, but 16% on earth at AM 1.5. Note, however, that incident photons in space carry considerably more energy, so the solar cell might produce considerably more power in space, despite the lower efficiency as indicated by reduced percentage of the total incident energy captured.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:402px;"><a href="/wiki/File:PVeff(rev170117).png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/PVeff%28rev170117%29.png/400px-PVeff%28rev170117%29.png" width="400" height="226" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/PVeff%28rev170117%29.png/600px-PVeff%28rev170117%29.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/PVeff%28rev170117%29.png/800px-PVeff%28rev170117%29.png 2x" data-file-width="4350" data-file-height="2457" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:PVeff(rev170117).png" class="internal" title="Enlarge"></a></div>
+Reported timeline of <a href="/wiki/Solar_cell" title="Solar cell">solar cell</a> energy conversion efficiencies since 1976 (<a href="/wiki/National_Renewable_Energy_Laboratory" title="National Renewable Energy Laboratory">National Renewable Energy Laboratory</a>)</div>
+</div>
+</div>
+<p>Solar cell efficiencies vary from 6% for amorphous silicon-based solar cells to 44.0% with multiple-junction production cells and 44.4% with multiple dies assembled into a hybrid package.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup><sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup> Solar cell energy conversion efficiencies for commercially available <i>multicrystalline Si</i> solar cells are around 14-19%.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup> The highest efficiency cells have not always been the most economical — for example a 30% efficient multijunction cell based on exotic materials such as gallium arsenide or indium selenide produced at low volume might well cost one hundred times as much as an 8% efficient amorphous silicon cell in mass production, while delivering only about four times the output.</p>
+<p>However, there is a way to "boost" solar power. By increasing the light intensity, typically photogenerated carriers are increased, increasing efficiency by up to 15%. These so-called "<a href="/wiki/Concentrator_photovoltaics" title="Concentrator photovoltaics">concentrator systems</a>" have only begun to become cost-competitive as a result of the development of high efficiency GaAs cells. The increase in intensity is typically accomplished by using concentrating optics. A typical concentrator system may use a light intensity 6-400 times the sun, and increase the efficiency of a one sun GaAs cell from 31% at AM 1.5 to 35%.</p>
+<p>A common method used to express economic costs is to calculate a price per delivered <a href="/wiki/Kilowatt-hour" class="mw-redirect" title="Kilowatt-hour">kilowatt-hour</a> (kWh). The solar cell efficiency in combination with the available irradiation has a major influence on the costs, but generally speaking the overall system efficiency is important. Commercially available solar cells (as of 2006) reached system efficiencies between 5 and 19%.</p>
+<p>Undoped crystalline silicon devices are approaching the theoretical limiting efficiency of 29.4%<sup id="cite_ref-Richter2013_15-0" class="reference"><a href="#cite_note-Richter2013-15">[15]</a></sup> In 2014, efficiency of 25.6% was achieved in crystalline cells that place both positive and negative contacts on the back of the cell and that cover the wafer's front and back with thin films of silicon.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup></p>
+<h3><span class="mw-headline" id="Energy_payback">Energy payback</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Solar_cell_efficiency&amp;action=edit&amp;section=8" title="Edit section: Energy payback">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote">See also: <a href="/wiki/Crystalline_silicon#Energy_payback_time" title="Crystalline silicon">Energy payback time by technology and location</a></div>
+<p>The energy payback time is defined as the recovery time required for generating the energy spent for manufacturing a modern photovoltaic module. In 2008 it was estimated to be from 1 to 4&#160;years<sup id="cite_ref-NRELPV_17-0" class="reference"><a href="#cite_note-NRELPV-17">[17]</a></sup><sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup> depending on the module type and location. With a typical lifetime of 20 to 30 years, this means that, modern solar cells would be net energy producers, i.e. they would generate more energy over their lifetime than the energy expended in producing them.<sup id="cite_ref-NRELPV_17-1" class="reference"><a href="#cite_note-NRELPV-17">[17]</a></sup><sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup><sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup> Generally, <a href="/wiki/Thin-film_solar_cell" title="Thin-film solar cell">thin-film</a> technologies—despite having comparatively low conversion efficiencies—achieve significantly shorter energy payback times than conventional systems (often &lt; 1&#160;year).<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup></p>
+<p>A study published in 2013 which the existing literature found that energy payback time was between 0.75 and 3.5 years with thin film cells being at the lower end and multi-si-cells having a payback time of 1.5-2.6 years.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup> A 2015 review assessed the energy payback time and EROI of solar photovoltaics. In this meta study, which uses an insolation of 1700&#160;kWh/m<sup>2</sup>/year and a system lifetime of 30 years, mean harmonized EROIs between 8.7 and 34.2 were found. Mean harmonized energy payback time varied from 1.0 to 4.1 years.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup> <a href="/wiki/Crystalline_silicon" title="Crystalline silicon">Crystalline silicon</a> devices achieve on average an energy payback period of 2 years.<sup id="cite_ref-NRELPV_17-2" class="reference"><a href="#cite_note-NRELPV-17">[17]</a></sup><sup id="cite_ref-sciencedaily-highest-efficiency_24-0" class="reference"><a href="#cite_note-sciencedaily-highest-efficiency-24">[24]</a></sup></p>
+<p>Like any other technology, solar cell manufacture is dependent on and presupposes the existence of a complex global industrial manufacturing system. This comprises not only the fabrication systems typically accounted for in estimates of manufacturing energy, but the contingent mining, refining and global transportation systems, as well as other energy intensive critical support systems including finance, information, and security systems. The uncertainty of that energy component confers uncertainty on any estimate of payback times derived from that estimate, considered by some to be significant.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup></p>
+<h2><span class="mw-headline" id="Technical_methods_of_improving_efficiency">Technical methods of improving efficiency</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Solar_cell_efficiency&amp;action=edit&amp;section=9" title="Edit section: Technical methods of improving efficiency">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Promoting_light_scattering_in_the_visible_spectrum">Promoting light scattering in the visible spectrum</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Solar_cell_efficiency&amp;action=edit&amp;section=10" title="Edit section: Promoting light scattering in the visible spectrum">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>By lining the light receiving surface of the cell with nano-sized metallic studs, the efficiency of the cell can be substantially increased, as the light reflects off these studs at an oblique angle to the cell, increasing the length of the path the light takes through the cell, thereby increasing the number of photons absorbed by the cell, and so also the amount of current generated.<sup id="cite_ref-Hindu_Article_26-0" class="reference"><a href="#cite_note-Hindu_Article-26">[26]</a></sup></p>
+<p>The main materials used for the nano-studs are <a href="/wiki/Silver" title="Silver">silver</a>, <a href="/wiki/Gold" title="Gold">gold</a>, and <a href="/wiki/Aluminium" title="Aluminium">aluminium</a>. However, gold and silver are not very efficient, as they absorb much of the light in the visible spectrum, which contains most of the energy present in sunlight, reducing the amount of light reaching the cell.<sup id="cite_ref-Hindu_Article_26-1" class="reference"><a href="#cite_note-Hindu_Article-26">[26]</a></sup> Aluminium, on the other hand, absorbs only ultraviolet radiation, and reflects both visible and infra-red light, so energy loss is minimized on that front. Aluminium is therefore capable of increasing the efficiency of the cell by up to 22% (in lab conditions).<sup id="cite_ref-Scientific_Reports_Paper_27-0" class="reference"><a href="#cite_note-Scientific_Reports_Paper-27">[27]</a></sup></p>
+<h3><span class="mw-headline" id="Radiative_cooling">Radiative cooling</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Solar_cell_efficiency&amp;action=edit&amp;section=11" title="Edit section: Radiative cooling">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>An increase in solar cell temperature of around 1&#160;°C leads to a decrease in efficiency of about 0.45%.To prevent decreased efficiency due to heating, a visibly transparent <a href="/wiki/Silicon_dioxide" title="Silicon dioxide">silica</a> crystal layer can be applied to a solar panel. The silica layer acts as a <a href="/wiki/Black_body" title="Black body">thermal black body</a> which emits heat as <a href="/wiki/Infrared" title="Infrared">infrared radiation</a> into space cooling the cell by up to 13&#160;°C.<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[28]</a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Solar_cell_efficiency&amp;action=edit&amp;section=12" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a href="/wiki/File:Wind-turbine-icon.svg" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/28px-Wind-turbine-icon.svg.png" width="28" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/42px-Wind-turbine-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/56px-Wind-turbine-icon.svg.png 2x" data-file-width="128" data-file-height="128" /></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Renewable_energy" title="Portal:Renewable energy">Renewable energy portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a href="/wiki/File:Crystal_energy.svg" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/29px-Crystal_energy.svg.png" width="29" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/44px-Crystal_energy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/59px-Crystal_energy.svg.png 2x" data-file-width="130" data-file-height="124" /></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Energy" title="Portal:Energy">Energy portal</a></span></li>
+</ul>
+</div>
+<ul>
+<li><a href="/wiki/Environmental_impact_of_the_energy_industry" title="Environmental impact of the energy industry">Environmental impact of the energy industry</a></li>
+<li><a href="/wiki/Efficient_energy_use" title="Efficient energy use">Energy efficiency</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Solar_cell_efficiency&amp;action=edit&amp;section=13" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-nrel.gov-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-nrel.gov_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-nrel.gov_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Photovoltaic Solar Resource of the United States, <a rel="nofollow" class="external free" href="http://www.nrel.gov/gis/images/map_pv_national_lo-res.jpg">http://www.nrel.gov/gis/images/map_pv_national_lo-res.jpg</a></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Solar photovoltaics: data from a 25-m2 array in Cambridgeshire in 2006, <a rel="nofollow" class="external free" href="http://www.inference.phy.cam.ac.uk/withouthotair/c6/page_40.shtml">http://www.inference.phy.cam.ac.uk/withouthotair/c6/page_40.shtml</a></span></li>
+<li id="cite_note-Energy_Efficiency_and_Renewable_Energy-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-Energy_Efficiency_and_Renewable_Energy_3-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://energy.gov/eere/energybasics/articles/photovoltaic-cell-conversion-efficiency-basics">"Photovoltaic Cell Conversion Efficiency Basics"</a>. U.S. Department of Energy<span class="reference-accessdate">. Retrieved <span class="nowrap">6 Sep</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+cell+efficiency&amp;rft.btitle=Photovoltaic+Cell+Conversion+Efficiency+Basics&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fenergy.gov%2Feere%2Fenergybasics%2Farticles%2Fphotovoltaic-cell-conversion-efficiency-basics&amp;rft.pub=U.S.+Department+of+Energy&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://web.archive.org/web/20150823133519/http://www.ise.fraunhofer.de/en/press-and-media/press-releases/press-releases-2014/new-world-record-for-solar-cell-efficiency-at-46-percent">"New world record for solar cell efficiency at 46% French-German cooperation confirms competitive advantage of European photovoltaic industry"</a>. Fraunhofer ISE. 2014-12-01. Archived from <a rel="nofollow" class="external text" href="https://www.ise.fraunhofer.de/en/press-and-media/press-releases/press-releases-2014/new-world-record-for-solar-cell-efficiency-at-46-percent">the original</a> on 2015-08-23<span class="reference-accessdate">. Retrieved <span class="nowrap">2016-03-24</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+cell+efficiency&amp;rft.btitle=New+world+record+for+solar+cell+efficiency+at+46%25+French-German+cooperation+confirms+competitive+advantage+of+European+photovoltaic+industry&amp;rft.date=2014-12-01&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fwww.ise.fraunhofer.de%2Fen%2Fpress-and-media%2Fpress-releases%2Fpress-releases-2014%2Fnew-world-record-for-solar-cell-efficiency-at-46-percent&amp;rft.pub=Fraunhofer+ISE&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-shockley-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-shockley_5-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Shockley William; Queisser Hans J (1961). <a rel="nofollow" class="external text" href="http://jap.aip.org/resource/1/japiau/v32/i3/p510_s1">"Detailed Balance Limit of Efficiency of p-n Junction Solar Cells"</a>. <i>Journal of Applied Physics</i>. <b>32</b>: 510–519. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1063%2F1.1736034">10.1063/1.1736034</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+cell+efficiency&amp;rft.atitle=Detailed+Balance+Limit+of+Efficiency+of+p-n+Junction+Solar+Cells&amp;rft.au=Queisser+Hans+J&amp;rft.au=Shockley+William&amp;rft.date=1961&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fjap.aip.org%2Fresource%2F1%2Fjapiau%2Fv32%2Fi3%2Fp510_s1&amp;rft_id=info%3Adoi%2F10.1063%2F1.1736034&amp;rft.jtitle=Journal+of+Applied+Physics&amp;rft.pages=510-519&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=32" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation journal">A. De Vos &amp; H. Pauwels (1981). "On the Thermodynamic Limit of Photovoltaic Energy Conversion". <i>Appl. Phys</i>. <b>25</b>: 119–125. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/1981ApPhy..25..119D">1981ApPhy..25..119D</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1007%2FBF00901283">10.1007/BF00901283</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+cell+efficiency&amp;rft.atitle=On+the+Thermodynamic+Limit+of+Photovoltaic+Energy+Conversion&amp;rft.au=A.+De+Vos&amp;rft.au=H.+Pauwels&amp;rft.date=1981&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F1981ApPhy..25..119D&amp;rft_id=info%3Adoi%2F10.1007%2FBF00901283&amp;rft.jtitle=Appl.+Phys.&amp;rft.pages=119-125&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=25" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation journal">Rühle, Sven (2016-02-08). <a rel="nofollow" class="external text" href="http://www.sciencedirect.com/science/article/pii/S0038092X16001110">"Tabulated Values of the Shockley-Queisser Limit for Single Junction Solar Cells"</a>. <i>Solar Energy</i>. <b>130</b>: 139–147. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2Fj.solener.2016.02.015">10.1016/j.solener.2016.02.015</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+cell+efficiency&amp;rft.atitle=Tabulated+Values+of+the+Shockley-Queisser+Limit+for+Single+Junction+Solar+Cells&amp;rft.aufirst=Sven&amp;rft.aulast=R%C3%BChle&amp;rft.date=2016-02-08&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS0038092X16001110&amp;rft_id=info%3Adoi%2F10.1016%2Fj.solener.2016.02.015&amp;rft.jtitle=Solar+Energy&amp;rft.pages=139-147&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=130" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation journal">Cheng-Hsiao Wu &amp; Richard Williams (1983). "Limiting efficiencies for multiple energy-gap quantum devices". <i>J. Appl. Phys</i>. <b>54</b>: 6721. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/1983JAP....54.6721W">1983JAP....54.6721W</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1063%2F1.331859">10.1063/1.331859</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+cell+efficiency&amp;rft.atitle=Limiting+efficiencies+for+multiple+energy-gap+quantum+devices&amp;rft.au=Cheng-Hsiao+Wu&amp;rft.au=Richard+Williams&amp;rft.date=1983&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F1983JAP....54.6721W&amp;rft_id=info%3Adoi%2F10.1063%2F1.331859&amp;rft.jtitle=J.+Appl.+Phys.&amp;rft.pages=6721&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=54" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation journal"><a rel="nofollow" class="external text" href="http://www.sciencedirect.com/science/article/pii/092702489290126A">"The surface texturization of solar cells: A new method using V-grooves with controllable sidewall angles"</a>. <i>Solar Energy Materials and Solar Cells</i>. <b>26</b>: 71–78. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2F0927-0248%2892%2990126-A">10.1016/0927-0248(92)90126-A</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+cell+efficiency&amp;rft.atitle=The+surface+texturization+of+solar+cells%3A+A+new+method+using+V-grooves+with+controllable+sidewall+angles&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2F092702489290126A&amp;rft_id=info%3Adoi%2F10.1016%2F0927-0248%2892%2990126-A&amp;rft.jtitle=Solar+Energy+Materials+and+Solar+Cells&amp;rft.pages=71-78&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=26" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation journal">A. Molki (2010). "Dust affects solar-cell efficiency". <i>Physics Education</i>. <b>45</b>: 456–458. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2010PhyEd..45..456M">2010PhyEd..45..456M</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1088%2F0031-9120%2F45%2F5%2FF03">10.1088/0031-9120/45/5/F03</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+cell+efficiency&amp;rft.atitle=Dust+affects+solar-cell+efficiency&amp;rft.au=A.+Molki&amp;rft.date=2010&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F2010PhyEd..45..456M&amp;rft_id=info%3Adoi%2F10.1088%2F0031-9120%2F45%2F5%2FF03&amp;rft.jtitle=Physics+Education&amp;rft.pages=456-458&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=45" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-nelson-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-nelson_11-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Jenny Nelson (2003). <a rel="nofollow" class="external text" href="http://www.solarfreaks.com/download/file.php?id=281"><i>The Physics of Solar Cells</i></a>. Imperial College Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-86094-340-9" title="Special:BookSources/978-1-86094-340-9">978-1-86094-340-9</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+cell+efficiency&amp;rft.au=Jenny+Nelson&amp;rft.btitle=The+Physics+of+Solar+Cells&amp;rft.date=2003&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.solarfreaks.com%2Fdownload%2Ffile.php%3Fid%3D281&amp;rft.isbn=978-1-86094-340-9&amp;rft.pub=Imperial+College+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://cleantechnica.com/2012/10/15/solar-junction-powers-up-cpv-with-new-conversion-efficiency-record/">"Solar Junction Breaks Its Own CPV Conversion Efficiency Record"</a>. 2013-12-18<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-12-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+cell+efficiency&amp;rft.btitle=Solar+Junction+Breaks+Its+Own+CPV+Conversion+Efficiency+Record&amp;rft.date=2013-12-18&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fcleantechnica.com%2F2012%2F10%2F15%2Fsolar-junction-powers-up-cpv-with-new-conversion-efficiency-record%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://cleantechnica.com/2013/06/23/solar-cell-efficiency-world-record-set-by-sharp-44-4/">"Solar Cell Efficiency World Record Set By Sharp — 44.4%"</a>. 28 July 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">28 July</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+cell+efficiency&amp;rft.btitle=Solar+Cell+Efficiency+World+Record+Set+By+Sharp+%94+44.4%25&amp;rft.date=2013-07-28&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fcleantechnica.com%2F2013%2F06%2F23%2Fsolar-cell-efficiency-world-record-set-by-sharp-44-4%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://publica.fraunhofer.de/documents/N-73521.html">"Silicon Solar Cells with Screen-Printed Front Side Metallization Exceeding 19% Efficiency"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+cell+efficiency&amp;rft.btitle=Silicon+Solar+Cells+with+Screen-Printed+Front+Side+Metallization+Exceeding+19%25+Efficiency&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fpublica.fraunhofer.de%2Fdocuments%2FN-73521.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Richter2013-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-Richter2013_15-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">A. Richter; M. Hermle; S.W. Glunz (October 2013). "Reassessment of the limiting efficiency for crystalline silicon solar cells". <i>IEEE Journal of Photovoltaics</i>. <b>3</b> (4): 1184–1191. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1109%2FJPHOTOV.2013.2270351">10.1109/JPHOTOV.2013.2270351</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+cell+efficiency&amp;rft.atitle=Reassessment+of+the+limiting+efficiency+for+crystalline+silicon+solar+cells&amp;rft.au=A.+Richter&amp;rft.au=M.+Hermle&amp;rft.au=S.W.+Glunz&amp;rft.date=2013-10&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1109%2FJPHOTOV.2013.2270351&amp;rft.issue=4&amp;rft.jtitle=IEEE+Journal+of+Photovoltaics&amp;rft.pages=1184-1191&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=3" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation web">Bullis, Kevin (2014-06-13). <a rel="nofollow" class="external text" href="http://www.technologyreview.com/news/528351/record-breaking-solar-cell-points-the-way-to-cheaper-power">"A Record-Breaking Solar Cell | MIT Technology Review"</a>. Technologyreview.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-06-22</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+cell+efficiency&amp;rft.aufirst=Kevin&amp;rft.aulast=Bullis&amp;rft.btitle=A+Record-Breaking+Solar+Cell+%26%23124%3B+MIT+Technology+Review&amp;rft.date=2014-06-13&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.technologyreview.com%2Fnews%2F528351%2Frecord-breaking-solar-cell-points-the-way-to-cheaper-power&amp;rft.pub=Technologyreview.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-NRELPV-17"><span class="mw-cite-backlink">^ <a href="#cite_ref-NRELPV_17-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-NRELPV_17-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-NRELPV_17-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.nrel.gov/docs/fy05osti/37322.pdf">"What is the Energy Payback for PV?"</a> <span style="font-size:85%;">(PDF)</span>. December 2004<span class="reference-accessdate">. Retrieved <span class="nowrap">20 December</span> 2008</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+cell+efficiency&amp;rft.btitle=What+is+the+Energy+Payback+for+PV%3F&amp;rft.date=2004-12&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.nrel.gov%2Fdocs%2Ffy05osti%2F37322.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation journal">M. Ito; K. Kato; K. Komoto; et al. (2008). "A comparative study on cost and life-cycle analysis for 100 MW very large-scale PV (VLS-PV) systems in deserts using m-Si, a-Si, CdTe, and CIS modules". <i>Progress in Photovoltaics: Research and Applications</i>. <b>16</b>: 17–30. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1002%2Fpip.770">10.1002/pip.770</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+cell+efficiency&amp;rft.atitle=A+comparative+study+on+cost+and+life-cycle+analysis+for+100+MW+very+large-scale+PV+%28VLS-PV%29+systems+in+deserts+using+m-Si%2C+a-Si%2C+CdTe%2C+and+CIS+modules&amp;rft.au=K.+Kato&amp;rft.au=K.+Komoto&amp;rft.au=M.+Ito&amp;rft.date=2008&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1002%2Fpip.770&amp;rft.jtitle=Progress+in+Photovoltaics%3A+Research+and+Applications&amp;rft.pages=17-30&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=16" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://alpha.chem.umb.edu/chemistry/ch471/evans%20files/Net_Energy%20solar%20cells.pdf">"Net Energy Analysis For Sustainable Energy Production From Silicon Based Solar Cells"</a> <span style="font-size:85%;">(PDF)</span><span class="reference-accessdate">. Retrieved <span class="nowrap">2011-09-13</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+cell+efficiency&amp;rft.btitle=Net+Energy+Analysis+For+Sustainable+Energy+Production+From+Silicon+Based+Solar+Cells&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Falpha.chem.umb.edu%2Fchemistry%2Fch471%2Fevans%2520files%2FNet_Energy%2520solar%2520cells.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation journal">Corkish, Richard (1997). <a rel="nofollow" class="external text" href="http://www.csudh.edu/oliver/smt310-handouts/solarpan/pvpayback.htm">"Can Solar Cells Ever Recapture the Energy Invested in their Manufacture?"</a>. <i>Solar Progress</i>. <b>18</b> (2): 16–17.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+cell+efficiency&amp;rft.atitle=Can+Solar+Cells+Ever+Recapture+the+Energy+Invested+in+their+Manufacture%3F&amp;rft.aufirst=Richard&amp;rft.aulast=Corkish&amp;rft.date=1997&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.csudh.edu%2Foliver%2Fsmt310-handouts%2Fsolarpan%2Fpvpayback.htm&amp;rft.issue=2&amp;rft.jtitle=Solar+Progress&amp;rft.pages=16-17&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=18" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation journal">K. L. Chopra; P. D. Paulson &amp; V. Dutta (2004). "Thin-film solar cells: An overview Progress in Photovoltaics". <i>Research and Applications</i>. <b>12</b>: 69–92. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1002%2Fpip.541">10.1002/pip.541</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+cell+efficiency&amp;rft.atitle=Thin-film+solar+cells%3A+An+overview+Progress+in+Photovoltaics&amp;rft.au=K.+L.+Chopra&amp;rft.au=P.+D.+Paulson&amp;rft.au=V.+Dutta&amp;rft.date=2004&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1002%2Fpip.541&amp;rft.jtitle=Research+and+Applications&amp;rft.pages=69-92&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=12" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text">Jinqing Peng, Lin Lu, Hongxing Yang: <i>Review on lifecycle assessment of energy payback and greenhouse gas emission of solar photovoltaic systems</i>. <a href="/wiki/Renewable_and_Sustainable_Energy_Reviews" title="Renewable and Sustainable Energy Reviews">Renewable and Sustainable Energy Reviews</a>, 19, (2013), 255–274, {{DOI:10.1016/j.rser.2012.11.035}}.</span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text">Khagendra P. Bhandari, Jennifer M.Collier, Randy J. Ellingson, Defne S. Apul: <i>Energy payback time (EPBT) and energy return on energy invested (EROI) of solar photovoltaic systems: A systematic review and meta-analysis</i>. <a href="/wiki/Renewable_and_Sustainable_Energy_Reviews" title="Renewable and Sustainable Energy Reviews">Renewable and Sustainable Energy Reviews</a> 47, (2015), 133–141, <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2Fj.rser.2015.02.057">10.1016/j.rser.2015.02.057</a>.</span></li>
+<li id="cite_note-sciencedaily-highest-efficiency-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-sciencedaily-highest-efficiency_24-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.sciencedaily.com/releases/2008/10/081023100536.htm">"Highest silicon solar cell efficiency ever reached"</a>. ScienceDaily. 24 October 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">9 December</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+cell+efficiency&amp;rft.btitle=Highest+silicon+solar+cell+efficiency+ever+reached&amp;rft.date=2008-10-24&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.sciencedaily.com%2Freleases%2F2008%2F10%2F081023100536.htm&amp;rft.pub=ScienceDaily&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text">Trainer, FE (2007) "Renewable Energy Cannot Sustain a Consumer Society"</span></li>
+<li id="cite_note-Hindu_Article-26"><span class="mw-cite-backlink">^ <a href="#cite_ref-Hindu_Article_26-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Hindu_Article_26-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news">Mukunth, Vasudevan (24 October 2013). <a rel="nofollow" class="external text" href="http://www.thehindu.com/sci-tech/science/improving-the-efficiency-of-solar-panels/article5265330.ece">"Improving the efficiency of solar panels"</a>. The Hindu<span class="reference-accessdate">. Retrieved <span class="nowrap">6 August</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+cell+efficiency&amp;rft.atitle=Improving+the+efficiency+of+solar+panels&amp;rft.aufirst=Vasudevan&amp;rft.aulast=Mukunth&amp;rft.date=2013-10-24&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.thehindu.com%2Fsci-tech%2Fscience%2Fimproving-the-efficiency-of-solar-panels%2Farticle5265330.ece&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Scientific_Reports_Paper-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-Scientific_Reports_Paper_27-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Hylton, Nicholas; Li, X. F; Giannini, K. H.; Lee, N. J; Ekins-Daukes, N. J.; Loo, J.; Vercruysse, D.; Van Dorpe, P.; Sodabanlu, H.; Sugiyama, M.; Maier, S. A. (7 October 2013). <a rel="nofollow" class="external text" href="http://www.nature.com/articles/srep02874">"Loss mitigation in plasmonic solar cells: aluminium nanoparticles for broadband photocurrent enhancements in GaAs photodiodes"</a>. <i>Scientific Reports</i><span class="reference-accessdate">. Retrieved <span class="nowrap">6 August</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+cell+efficiency&amp;rft.atitle=Loss+mitigation+in+plasmonic+solar+cells%3A+aluminium+nanoparticles+for+broadband+photocurrent+enhancements+in+GaAs+photodiodes&amp;rft.au=Ekins-Daukes%2C+N.+J.&amp;rft.aufirst=Nicholas&amp;rft.au=Giannini%2C+K.+H.&amp;rft.aulast=Hylton&amp;rft.au=Lee%2C+N.+J&amp;rft.au=Li%2C+X.+F&amp;rft.au=Loo%2C+J.&amp;rft.au=Maier%2C+S.+A.&amp;rft.au=Sodabanlu%2C+H.&amp;rft.au=Sugiyama%2C+M.&amp;rft.au=Van+Dorpe%2C+P.&amp;rft.au=Vercruysse%2C+D.&amp;rft.date=2013-10-07&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.nature.com%2Farticles%2Fsrep02874&amp;rft.jtitle=Scientific+Reports&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><cite class="citation journal">Zhu, Linxiao; Raman, Aaswath P.; Fan, Shanhui (2015-10-06). <a rel="nofollow" class="external text" href="http://www.pnas.org/content/112/40/12282">"Radiative cooling of solar absorbers using a visibly transparent photonic crystal thermal blackbody"</a>. <i>Proceedings of the National Academy of Sciences</i>. <b>112</b> (40): 12282–12287. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1073%2Fpnas.1509453112">10.1073/pnas.1509453112</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/0027-8424">0027-8424</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<span class="plainlinks"><a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC4603484">4603484</a><span style="margin-left:0.1em"><img alt="Freely accessible" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" title="Freely accessible" width="9" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" data-file-width="512" data-file-height="813" /></span></span>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/26392542">26392542</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+cell+efficiency&amp;rft.atitle=Radiative+cooling+of+solar+absorbers+using+a+visibly+transparent+photonic+crystal+thermal+blackbody&amp;rft.au=Fan%2C+Shanhui&amp;rft.aufirst=Linxiao&amp;rft.aulast=Zhu&amp;rft.au=Raman%2C+Aaswath+P.&amp;rft.date=2015-10-06&amp;rft.genre=article&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC4603484&amp;rft_id=http%3A%2F%2Fwww.pnas.org%2Fcontent%2F112%2F40%2F12282&amp;rft_id=info%3Adoi%2F10.1073%2Fpnas.1509453112&amp;rft_id=info%3Apmid%2F26392542&amp;rft.issn=0027-8424&amp;rft.issue=40&amp;rft.jtitle=Proceedings+of+the+National+Academy+of+Sciences&amp;rft.pages=12282-12287&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=112" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Solar_cell_efficiency&amp;action=edit&amp;section=14" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tr>
+<td class="mbox-image"><a href="/wiki/File:Commons-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Photovoltaics" class="extiw" title="commons:Category:Photovoltaics">Photovoltaics</a></b></i>.</td>
+</tr>
+</table>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tr>
+<td class="mbox-image"><a href="/wiki/File:Commons-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/solar_cell" class="extiw" title="commons:solar cell">solar cell</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="https://www.dmoz.org/Science/Technology/Energy/Renewable/Solar/Solar_Electric/">Solar electric</a> at <a href="/wiki/DMOZ" title="DMOZ">DMOZ</a></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Solar_energy" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Solar_energy" title="Template:Solar energy"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Solar_energy" title="Template talk:Solar energy"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Solar_energy&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Solar_energy" style="font-size:114%"><a href="/wiki/Solar_energy" title="Solar energy">Solar energy</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Concepts</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Sun" title="Sun">The Sun</a></li>
+<li><a href="/wiki/Insolation" class="mw-redirect" title="Insolation">Insolation</a></li>
+<li><a href="/wiki/Solar_radiation" class="mw-redirect" title="Solar radiation">Solar radiation</a></li>
+<li><a href="/wiki/Active_solar" title="Active solar">Active</a> and <a href="/wiki/Passive_solar_building_design" title="Passive solar building design">passive solar energy</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Solar_power" title="Solar power">Solar power</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Solar_thermal_energy" title="Solar thermal energy">Thermal</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Passive_solar_building_design" title="Passive solar building design">Passive solar building design</a></li>
+<li><a href="/wiki/Solar_water_heating" title="Solar water heating">Solar water heating</a></li>
+<li><a href="/wiki/Solar_chimney" title="Solar chimney">Solar chimney</a></li>
+<li><a href="/wiki/Solar_air_conditioning" title="Solar air conditioning">Solar air conditioning</a></li>
+<li><a href="/wiki/Thermal_mass" title="Thermal mass">Thermal mass</a></li>
+<li><a href="/wiki/Solar_pond" title="Solar pond">Solar pond</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Photovoltaics" title="Photovoltaics">Photovoltaics</a><br />
+and <a href="/wiki/Template:Photovoltaics" title="Template:Photovoltaics">related topics</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Photovoltaic_effect" title="Photovoltaic effect">Photovoltaic effect</a></li>
+<li><a href="/wiki/Solar_cell" title="Solar cell">Solar cell</a></li>
+<li><a href="/wiki/Polymer_solar_cell" title="Polymer solar cell">Polymer solar cell</a></li>
+<li><a href="/wiki/Nanocrystal_solar_cell" title="Nanocrystal solar cell">Nanocrystal solar cell</a></li>
+<li><a href="/wiki/Solar_panel" title="Solar panel">Photovoltaic module</a> (solar panel)</li>
+<li><a href="/wiki/Photovoltaic_system" title="Photovoltaic system">Photovoltaic array</a> (and systems)</li>
+<li><a href="/wiki/Photovoltaic_power_station" title="Photovoltaic power station">Photovoltaic power station</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Concentrated_solar_power" title="Concentrated solar power">Concentrated</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Heliostat" title="Heliostat">Heliostat</a></li>
+<li><a href="/wiki/Solar_tracker" title="Solar tracker">Solar tracker</a></li>
+<li><a href="/wiki/Parabolic_trough" title="Parabolic trough">Parabolic trough</a></li>
+<li><a href="/wiki/Solar_power_tower" title="Solar power tower">Solar power tower</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Experimental<br />
+and proposed</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Solar_updraft_tower" title="Solar updraft tower">Solar updraft tower</a></li>
+<li><a href="/wiki/Solar-pumped_laser" title="Solar-pumped laser">Solar-pumped laser</a></li>
+<li><a href="/wiki/Thermoelectric_generator" title="Thermoelectric generator">Thermoelectric generator</a></li>
+<li><a href="/wiki/Solar_chemical" title="Solar chemical">Solar chemical</a> and <a href="/wiki/Artificial_photosynthesis" title="Artificial photosynthesis">artificial photosynthesis</a></li>
+<li><a href="/wiki/Space-based_solar_power" title="Space-based solar power">Space-based solar power</a></li>
+<li><a href="/wiki/Solar_sail" title="Solar sail">Solar sail</a></li>
+<li><a href="/wiki/Magnetic_sail" title="Magnetic sail">Magnetic sail</a></li>
+<li><a href="/wiki/Solar_thermal_rocket" title="Solar thermal rocket">Solar thermal rocket</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Solar_power_by_country" title="Solar power by country">By country</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Solar_power_in_Australia" title="Solar power in Australia">Australia</a></li>
+<li><a href="/wiki/Solar_power_in_Austria" title="Solar power in Austria">Austria</a></li>
+<li><a href="/wiki/Solar_power_in_Albania" title="Solar power in Albania">Albania</a></li>
+<li><a href="/wiki/Solar_power_in_Belgium" title="Solar power in Belgium">Belgium</a></li>
+<li><a href="/wiki/Solar_power_in_Brazil" title="Solar power in Brazil">Brazil</a></li>
+<li><a href="/wiki/Solar_power_in_Canada" title="Solar power in Canada">Canada</a></li>
+<li><a href="/wiki/Solar_power_in_China" title="Solar power in China">China</a></li>
+<li><a href="/wiki/Solar_power_in_the_Czech_Republic" title="Solar power in the Czech Republic">Czech</a></li>
+<li><a href="/wiki/Solar_power_in_Denmark" title="Solar power in Denmark">Denmark</a></li>
+<li><a href="/wiki/Solar_energy_in_Georgia" class="mw-redirect" title="Solar energy in Georgia">Georgia</a></li>
+<li><a href="/wiki/Solar_power_in_Germany" title="Solar power in Germany">Germany</a></li>
+<li><a href="/wiki/Solar_power_in_Greece" title="Solar power in Greece">Greece</a></li>
+<li><a href="/wiki/Solar_power_in_India" title="Solar power in India">India</a></li>
+<li><a href="/wiki/Solar_power_in_Israel" title="Solar power in Israel">Israel</a></li>
+<li><a href="/wiki/Solar_power_in_Italy" title="Solar power in Italy">Italy</a></li>
+<li><a href="/wiki/Solar_power_in_Japan" title="Solar power in Japan">Japan</a></li>
+<li><a href="/wiki/Solar_power_in_Lithuania" title="Solar power in Lithuania">Lithuania</a></li>
+<li><a href="/wiki/Solar_power_in_Mexico" title="Solar power in Mexico">Mexico</a></li>
+<li><a href="/wiki/Solar_power_in_Morocco" title="Solar power in Morocco">Morocco</a></li>
+<li><a href="/wiki/Solar_power_in_Myanmar" title="Solar power in Myanmar">Myanmar</a></li>
+<li><a href="/wiki/Solar_power_in_the_Netherlands" title="Solar power in the Netherlands">Netherlands</a></li>
+<li><a href="/wiki/Solar_power_in_New_Zealand" title="Solar power in New Zealand">New Zealand</a></li>
+<li><a href="/wiki/Solar_power_in_Pakistan" title="Solar power in Pakistan">Pakistan</a></li>
+<li><a href="/wiki/Solar_power_in_Portugal" title="Solar power in Portugal">Portugal</a></li>
+<li><a href="/wiki/Solar_power_in_Romania" title="Solar power in Romania">Romania</a></li>
+<li><a href="/wiki/Solar_power_in_Saudi_Arabia" title="Solar power in Saudi Arabia">Saudi Arabia</a></li>
+<li><a href="/wiki/Solar_power_in_Somalia" title="Solar power in Somalia">Somalia</a></li>
+<li><a href="/wiki/Solar_power_in_South_Africa" title="Solar power in South Africa">South Africa</a></li>
+<li><a href="/wiki/Solar_power_in_Spain" title="Solar power in Spain">Spain</a></li>
+<li><a href="/wiki/Solar_power_in_Thailand" title="Solar power in Thailand">Thailand</a></li>
+<li><a href="/wiki/Solar_power_in_Turkey" title="Solar power in Turkey">Turkey</a></li>
+<li><a href="/wiki/Solar_power_in_Ukraine" title="Solar power in Ukraine">Ukraine</a></li>
+<li><a href="/wiki/Solar_power_in_the_United_Kingdom" title="Solar power in the United Kingdom">United Kingdom</a></li>
+<li><a href="/wiki/Solar_power_in_the_United_States" title="Solar power in the United States">United States</a></li>
+<li><a href="/wiki/Solar_power_in_Yemen" title="Solar power in Yemen">Yemen</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Distribution<br />
+and uses</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Storage</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Thermal_mass" title="Thermal mass">Thermal mass</a></li>
+<li><a href="/wiki/Thermal_energy_storage" title="Thermal energy storage">Thermal energy storage</a></li>
+<li><a href="/wiki/Phase_change_material" class="mw-redirect" title="Phase change material">Phase change material</a></li>
+<li><a href="/wiki/Grid_energy_storage" title="Grid energy storage">Grid energy storage</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Adoption</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Feed-in_tariff" title="Feed-in tariff">Feed-in tariff</a></li>
+<li><a href="/wiki/Net_metering" title="Net metering">Net metering</a></li>
+<li><a href="/wiki/Financial_incentives_for_photovoltaics" title="Financial incentives for photovoltaics">Financial incentives for photovoltaics</a></li>
+<li><a href="/wiki/Cost_of_electricity_by_source" title="Cost of electricity by source">Costs</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Applications</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Solar_water_heating" title="Solar water heating">Solar water heating</a></li>
+<li><a href="/wiki/Solar_vehicle" title="Solar vehicle">Solar vehicle</a></li>
+<li><a href="/wiki/Electric_aircraft" title="Electric aircraft">Electric aircraft</a></li>
+<li><a href="/wiki/Electric_boat" title="Electric boat">Electric boat</a></li>
+<li><a href="/wiki/Solar_balloon" title="Solar balloon">Solar balloon</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Other applications</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Agriculture" title="Agriculture">Agriculture</a><br />
+and <a href="/wiki/Horticulture" title="Horticulture">horticulture</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Greenhouse" title="Greenhouse">Greenhouse</a></li>
+<li><a href="/wiki/Polytunnel" title="Polytunnel">Polytunnel</a></li>
+<li><a href="/wiki/Row_cover" title="Row cover">Row cover</a></li>
+<li><a href="/wiki/Solar-powered_pump" title="Solar-powered pump">Solar-powered pump</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Building</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"><a href="/wiki/Passive_solar_building_design" title="Passive solar building design">Passive solar building design</a>
+<ul>
+<li><a href="/wiki/Building-integrated_photovoltaics" title="Building-integrated photovoltaics">Building-integrated photovoltaics</a></li>
+<li><a href="/wiki/Urban_heat_island" title="Urban heat island">Urban heat island</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Lighting</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Hybrid_solar_lighting" title="Hybrid solar lighting">Hybrid solar lighting</a></li>
+<li><a href="/wiki/Solar_lamp" title="Solar lamp">Solar lamp</a></li>
+<li><a href="/wiki/Solar_Tuki" title="Solar Tuki">Solar Tuki</a></li>
+<li><a href="/wiki/Light_tube" title="Light tube">Light tube</a></li>
+<li><a href="/wiki/Daylighting" title="Daylighting">Daylighting</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Process heat</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Solar_pond" title="Solar pond">Solar pond</a></li>
+<li><a href="/wiki/Solar_furnace" title="Solar furnace">Solar furnace</a></li>
+<li><a href="/wiki/Salt_evaporation_pond" title="Salt evaporation pond">Salt evaporation pond</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Cooking</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Solar_cooker" title="Solar cooker">Solar cooker</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Disinfection</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Solar_water_disinfection" title="Solar water disinfection">Solar water disinfection</a></li>
+<li><a href="/wiki/Soil_solarization" title="Soil solarization">Soil solarization</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Desalination</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Solar_still" title="Solar still">Solar still</a></li>
+<li><a href="/wiki/Desalination" title="Desalination">Desalination</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Water heating</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Solar_water_heating" title="Solar water heating">Solar water heating</a></li>
+<li><a href="/wiki/Solar_combisystem" title="Solar combisystem">Solar combisystem</a></li>
+<li><a href="/wiki/Zero_carbon_solar_controller" class="mw-redirect" title="Zero carbon solar controller">Zero carbon solar controller</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">See also</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Template:Photovoltaics" title="Template:Photovoltaics">Photovoltaics topics</a></li>
+<li><a href="/wiki/Template:Solar_power_by_country" title="Template:Solar power by country">Solar power by country</a></li>
+<li><a href="/wiki/Template:Renewable_energy_sources" title="Template:Renewable energy sources">Renewable energy sources</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1281
+Cached time: 20170125222223
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.228 seconds
+Real time usage: 0.327 seconds
+Preprocessor visited node count: 2768/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 111595/2097152 bytes
+Template argument size: 4419/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 1/500
+Lua time usage: 0.096/10.000 seconds
+Lua memory usage: 4.33 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  227.618      1 -total
+ 53.90%  122.694      1 Template:Reflist
+ 19.80%   45.065      9 Template:Cite_web
+ 17.46%   39.737     12 Template:Cite_journal
+ 15.19%   34.573      4 Template:Navbox
+ 11.03%   25.097      1 Template:Solar_energy
+  9.78%   22.252      1 Template:Commons_category
+  8.10%   18.442      1 Template:Use_dmy_dates
+  6.65%   15.132      3 Template:Navbox_subgroup
+  4.11%    9.346      3 Template:Main_article
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:29324571-0!*!0!!en!4!*!math=5 and timestamp 20170125222223 and revision id 761972005
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Solar_cell_efficiency&amp;oldid=761972005#Quantum_efficiency">https://en.wikipedia.org/w/index.php?title=Solar_cell_efficiency&amp;oldid=761972005#Quantum_efficiency</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Solar_cells" title="Category:Solar cells">Solar cells</a></li><li><a href="/wiki/Category:Photovoltaics" title="Category:Photovoltaics">Photovoltaics</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Use_dmy_dates_from_April_2011" title="Category:Use dmy dates from April 2011">Use dmy dates from April 2011</a></li><li><a href="/wiki/Category:Commons_category_with_local_link_same_as_on_Wikidata" title="Category:Commons category with local link same as on Wikidata">Commons category with local link same as on Wikidata</a></li><li><a href="/wiki/Category:Articles_with_DMOZ_links" title="Category:Articles with DMOZ links">Articles with DMOZ links</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Solar+cell+efficiency" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Solar+cell+efficiency" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Solar_cell_efficiency"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Solar_cell_efficiency"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Solar_cell_efficiency" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Solar_cell_efficiency&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Solar_cell_efficiency&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Solar_cell_efficiency" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Solar_cell_efficiency" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Solar_cell_efficiency&amp;oldid=761972005" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Solar_cell_efficiency&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q7556087" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Solar_cell_efficiency&amp;id=761972005" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Solar+cell+efficiency">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Solar+cell+efficiency&amp;returnto=Solar+cell+efficiency&amp;oldid=761972005&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Solar_cell_efficiency&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Photovoltaics" hreflang="en">Wikimedia Commons</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%B2%D8%AF%D9%87_%D8%B3%D9%84%D9%88%D9%84_%D8%AE%D9%88%D8%B1%D8%B4%DB%8C%D8%AF%DB%8C" title="بازده سلول خورشیدی – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q7556087#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 25 January 2017, at 22:22.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Solar_cell_efficiency&amp;mobileaction=toggle_view_mobile#Quantum_efficiency" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.228","walltime":"0.327","ppvisitednodes":{"value":2768,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":111595,"limit":2097152},"templateargumentsize":{"value":4419,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  227.618      1 -total"," 53.90%  122.694      1 Template:Reflist"," 19.80%   45.065      9 Template:Cite_web"," 17.46%   39.737     12 Template:Cite_journal"," 15.19%   34.573      4 Template:Navbox"," 11.03%   25.097      1 Template:Solar_energy","  9.78%   22.252      1 Template:Commons_category","  8.10%   18.442      1 Template:Use_dmy_dates","  6.65%   15.132      3 Template:Navbox_subgroup","  4.11%    9.346      3 Template:Main_article"]},"scribunto":{"limitreport-timeusage":{"value":"0.096","limit":"10.000"},"limitreport-memusage":{"value":4543158,"limit":52428800}},"cachereport":{"origin":"mw1281","timestamp":"20170125222223","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":57,"wgHostname":"mw1252"});});</script>
+	</body>
+</html>

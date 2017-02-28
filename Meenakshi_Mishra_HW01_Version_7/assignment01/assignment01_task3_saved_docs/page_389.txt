@@ -1,0 +1,767 @@
+url : https://en.wikipedia.org/wiki/Quantum_dot_solar_cell
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Quantum dot solar cell - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Quantum_dot_solar_cell","wgTitle":"Quantum dot solar cell","wgCurRevisionId":758267584,"wgRevisionId":758267584,"wgArticleId":7246977,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with dead external links","Articles with dead external links from January 2017","Webarchive template wayback links","Wikipedia articles needing clarification from June 2014","All articles with specifically marked weasel-worded phrases","Articles with specifically marked weasel-worded phrases from June 2014","Solar cells","Nanomaterials","Quantum electronics"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Quantum_dot_solar_cell","wgRelevantArticleId":7246977,"wgRequestId":"WI7loApAMFUAAEJoh04AAADS","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q19678322","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.9"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Quantum_dot_solar_cell"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Quantum_dot_solar_cell&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Quantum_dot_solar_cell&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Quantum_dot_solar_cell"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Quantum_dot_solar_cell rootpage-Quantum_dot_solar_cell skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Quantum dot solar cell</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Sargent_Group_quantum_dot_solar_cell.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Sargent_Group_quantum_dot_solar_cell.jpg/220px-Sargent_Group_quantum_dot_solar_cell.jpg" width="220" height="182" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Sargent_Group_quantum_dot_solar_cell.jpg/330px-Sargent_Group_quantum_dot_solar_cell.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Sargent_Group_quantum_dot_solar_cell.jpg/440px-Sargent_Group_quantum_dot_solar_cell.jpg 2x" data-file-width="1036" data-file-height="857" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Sargent_Group_quantum_dot_solar_cell.jpg" class="internal" title="Enlarge"></a></div>
+Spin-cast quantum dot solar cell built by the Sargent Group at the University of Toronto. The metal disks on the front surface are the electrical connections to the layers below.</div>
+</div>
+</div>
+<p>A <b>quantum dot solar cell</b> is a <a href="/wiki/Solar_cell" title="Solar cell">solar cell</a> design that uses <a href="/wiki/Quantum_dot" title="Quantum dot">quantum dots</a> as the absorbing photovoltaic material. It attempts to replace bulk materials such as <a href="/wiki/Silicon" title="Silicon">silicon</a>, <a href="/wiki/Copper_indium_gallium_selenide" title="Copper indium gallium selenide">copper indium gallium selenide</a> (CIGS) or <a href="/wiki/CdTe" class="mw-redirect" title="CdTe">CdTe</a>. Quantum dots have <a href="/wiki/Bandgap" class="mw-redirect" title="Bandgap">bandgaps</a> that are tunable across a wide range of energy levels by changing the dots' size. In bulk materials the bandgap is fixed by the choice of material(s). This property makes quantum dots attractive for <a href="/wiki/Multijunction_photovoltaic_cell" class="mw-redirect" title="Multijunction photovoltaic cell">multi-junction solar cells</a>, where a variety of materials are used to improve efficiency by harvesting multiple portions of the <a href="/wiki/Solar_spectrum" class="mw-redirect" title="Solar spectrum">solar spectrum</a>.</p>
+<p>As of 2014 efficiency ranges from 7.0<sup id="cite_ref-hybrid_1-0" class="reference"><a href="#cite_note-hybrid-1">[1]</a></sup> to 8.7%.<sup id="cite_ref-MITNatMater2014_2-0" class="reference"><a href="#cite_note-MITNatMater2014-2">[2]</a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Background"><span class="tocnumber">1</span> <span class="toctext">Background</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Solar_cell_concepts"><span class="tocnumber">1.1</span> <span class="toctext">Solar cell concepts</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Quantum_dots"><span class="tocnumber">1.2</span> <span class="toctext">Quantum dots</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Production"><span class="tocnumber">2</span> <span class="toctext">Production</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#History"><span class="tocnumber">3</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#DSSC_efforts"><span class="tocnumber">3.1</span> <span class="toctext">DSSC efforts</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Multi-junction"><span class="tocnumber">3.2</span> <span class="toctext">Multi-junction</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Hot-carrier_capture"><span class="tocnumber">3.3</span> <span class="toctext">Hot-carrier capture</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Multiple_excitons"><span class="tocnumber">3.4</span> <span class="toctext">Multiple excitons</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Non-oxidizing"><span class="tocnumber">3.5</span> <span class="toctext">Non-oxidizing</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Background">Background</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Quantum_dot_solar_cell&amp;action=edit&amp;section=1" title="Edit section: Background">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Solar_cell_concepts">Solar cell concepts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Quantum_dot_solar_cell&amp;action=edit&amp;section=2" title="Edit section: Solar cell concepts">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In a conventional solar cell, light is absorbed by a <a href="/wiki/Semiconductor" title="Semiconductor">semiconductor</a>, producing an electron-hole (e-h) pair; the pair may be bound and is referred to as an <a href="/wiki/Exciton" title="Exciton">exciton</a>. This pair is separated by an internal electric field (present in p-n junctions or <a href="/wiki/Schottky_diode" title="Schottky diode">Schottky diodes</a>) and the resulting flow of electrons and holes creates electric current. The internal electric field is created by <a href="/wiki/Doping_(semiconductor)" title="Doping (semiconductor)">doping</a> one part of semiconductor interface with atoms that act as electron donors (p-type doping) and another with electron acceptors (n-type doping) that results in a <a href="/wiki/P-n_junction" class="mw-redirect" title="P-n junction">p-n junction</a>. Generation of an e-h pair requires that the photons have energy exceeding the <a href="/wiki/Bandgap" class="mw-redirect" title="Bandgap">bandgap</a> of the material. Effectively, photons with energies lower than the bandgap do not get absorbed, while those that are higher can quickly (within about 10<sup>−13</sup> s) thermalize to the band edges, reducing output. The former limitation reduces <a href="/wiki/Current_(electricity)" class="mw-redirect" title="Current (electricity)">current</a>, while the thermalization reduces the <a href="/wiki/Voltage" title="Voltage">voltage</a>. As a result, semiconductor cells suffer a trade-off between voltage and current (which can be in part alleviated by using multiple junction implementations). The <a href="/wiki/Shockley%E2%80%93Queisser_limit" title="Shockley–Queisser limit">detailed balance calculation</a> shows that this efficiency can not exceed 31% if one uses a single material for a solar cell.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></p>
+<p>Numerical analysis shows that the 31% efficiency is achieved with a bandgap of 1.3-1.4 eV, corresponding to light in the near <a href="/wiki/Infrared" title="Infrared">infrared</a> spectrum. This band gap is close to that of silicon (1.1 eV), one of the many reasons that it dominates the market. However, silicon's efficiency is limited to about 29%. It is possible to improve on a single-junction cell by vertically stacking cells with different bandgaps – termed a "tandem" or "multi-junction" approach. The same analysis shows that a two layer cell should have one layer tuned to 1.64 eV and the other to 0.94 eV, providing a theoretical performance of 44%. A three-layer cell should be tuned to 1.83, 1.16 and 0.71 eV, with an efficiency of 48%. An "infinity-layer" cell would have a theoretical efficiency of 86%, with other thermodynamic loss mechanisms accounting for the rest.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></p>
+<p>Traditional (crystalline) silicon preparation methods do not lend themselves to this approach due to lack of bandgap tunability. Thin-films of <a href="/wiki/Amorphous_silicon" title="Amorphous silicon">amorphous silicon</a>, which due to a relaxed requirement in crystal momentum preservation can achieve direct bandgaps and intermixing of carbon, can tune the bandgap, but other issues have prevented these from matching the performance of traditional cells.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Most tandem-cell structures are based on higher performance semiconductors, notably <a href="/wiki/Indium_gallium_arsenide" title="Indium gallium arsenide">indium gallium arsenide</a> (InGaAs). Three-layer InGaAs/GaAs/InGaP cells (bandgaps 0.94/1.42/1.89 eV) hold the efficiency record of 42.3% for experimental examples.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></p>
+<h3><span class="mw-headline" id="Quantum_dots">Quantum dots</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Quantum_dot_solar_cell&amp;action=edit&amp;section=3" title="Edit section: Quantum dots">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Quantum dots are semiconducting particles that have been reduced below the size of the Exciton <a href="/wiki/Bohr_radius" title="Bohr radius">Bohr radius</a> and due to <a href="/wiki/Quantum_mechanics" title="Quantum mechanics">quantum mechanics</a> considerations, the electron energies that can exist within them become finite, much alike energies in an atom. Quantum dots have been referred to as "artificial atoms". These energy levels are tuneable by changing their size, which in turn defines the bandgap. The dots can be grown over a range of sizes, allowing them to express a variety of bandgaps without changing the underlying material or construction techniques.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> In typical wet chemistry preparations, the tuning is accomplished by varying the synthesis duration or temperature.</p>
+<p>The ability to tune the bandgap makes quantum dots desirable for solar cells. Single junction implementations using <a href="/wiki/Lead(II)_sulfide" title="Lead(II) sulfide">lead sulfide</a> (PbS) CQDs have bandgaps that can be tuned into the far infrared, frequencies that are typically difficult to achieve with traditional solar cells. Half of the solar energy reaching the Earth is in the infrared, most in the near infrared region. A quantum dot solar cell makes infrared energy as accessible as any other.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></p>
+<p>Moreover, CQDs offer easy synthesis and preparation. While suspended in a colloidal liquid form they can be easily handled throughout production, with a fumehood as the most complex equipment needed. CQDs are typically synthesized in small batches, but can be mass-produced. The dots can be distributed on a substrate by <a href="/wiki/Spin_coating" title="Spin coating">spin coating</a>, either by hand or in an automated process. Large-scale production could use spray-on or roll-printing systems, dramatically reducing module construction costs.</p>
+<h2><span class="mw-headline" id="Production">Production</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Quantum_dot_solar_cell&amp;action=edit&amp;section=4" title="Edit section: Production">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Early examples used costly <a href="/wiki/Molecular_beam_epitaxy" title="Molecular beam epitaxy">molecular beam epitaxy</a> processes, but less expensive fabrication methods were later developed. These use wet chemistry (colloidal quantum dots – CQDs) and subsequent solution processing. Concentrated nanoparticle solutions are stabilized by long <a href="/wiki/Hydrocarbon" title="Hydrocarbon">hydrocarbon</a> <a href="/wiki/Ligand" title="Ligand">ligands</a> that keep the <a href="/wiki/Nanocrystal" title="Nanocrystal">nanocrystals</a> suspended in solution.</p>
+<p>To create a solid, these solutions are cast down<sup class="noprint Inline-Template" style="margin-left:0.1em; white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Please_clarify" title="Wikipedia:Please clarify"><span title="what does cast down mean? (June 2014)">clarification needed</span></a></i>]</sup> and the long stabilizing ligands are replaced with short-chain crosslinkers. Chemically engineering the nanocrystal surface can better passivate the nanocrystals and reduce detrimental trap states that would curtail device performance by means of carrier recombination.<sup class="noprint Inline-Template" style="margin-left:0.1em; white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Please_clarify" title="Wikipedia:Please clarify"><span title="The text near this tag may need clarification or removal of jargon. (June 2014)">clarification needed</span></a></i>]</sup> This approach produces an efficiency of 7.0%.<sup id="cite_ref-hybrid_1-1" class="reference"><a href="#cite_note-hybrid-1">[1]</a></sup></p>
+<p>A more recent study uses different ligands for different functions by tuning their relative band alignment to improve the performance to 8.6%.<sup id="cite_ref-MITNatMater2014_2-1" class="reference"><a href="#cite_note-MITNatMater2014-2">[2]</a></sup> The cells were solution-processed in air at room-temperature and exhibited air-stability for more than 150 days without encapsulation.</p>
+<p>In 2014 the use of <a href="/wiki/Iodide" title="Iodide">iodide</a> as a ligand that does not bond to oxygen was introduced. This maintains stable n- and p-type layers, boosting the absorption efficiency, which produced power conversion efficiency up to 8%.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Quantum_dot_solar_cell&amp;action=edit&amp;section=5" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The idea of using quantum dots as a path to high efficiency was first noted by Burnham and Duggan in 1990.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> At the time, the science of quantum dots, or "wells" as they were known, was in its infancy and early examples were just becoming available.</p>
+<h3><span class="mw-headline" id="DSSC_efforts">DSSC efforts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Quantum_dot_solar_cell&amp;action=edit&amp;section=6" title="Edit section: DSSC efforts">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Another modern cell design is the <a href="/wiki/Dye-sensitized_solar_cell" title="Dye-sensitized solar cell">dye-sensitized solar cell</a>, or DSSC. DSSCs use a sponge-like layer of <a href="/wiki/Titanium_dioxide" title="Titanium dioxide"><span class="chemf nowrap">TiO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><br />
+2</span></span></a> as the semiconductor valve as well as a mechanical support structure. During construction, the sponge is filled with an organic dye, typically <a href="/wiki/Ruthenium" title="Ruthenium">ruthenium</a>-polypyridine, which injects electrons into the titanium dioxide upon photoexcitation.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> This dye is relatively expensive, and ruthenium is a rare metal.<sup id="cite_ref-Emsley2011_12-0" class="reference"><a href="#cite_note-Emsley2011-12">[12]</a></sup></p>
+<p>Using quantum dots as an alternative to molecular dyes was considered from the earliest days of DSSC research. The ability to tune the bandgap allowed the designer to select a wider variety of materials for other portions of the cell. Collaborating groups from the <a href="/wiki/University_of_Toronto" title="University of Toronto">University of Toronto</a> and <a href="/wiki/%C3%89cole_Polytechnique_F%C3%A9d%C3%A9rale_de_Lausanne" title="École Polytechnique Fédérale de Lausanne">École Polytechnique Fédérale de Lausanne</a> developed a design based on a rear electrode directly in contact with a film of quantum dots, eliminating the electrolyte and forming a depleted <a href="/wiki/Heterojunction" title="Heterojunction">heterojunction</a>. These cells reached 7.0% efficiency, better than the best solid-state DSSC devices, but below those based on liquid electrolytes.<sup id="cite_ref-hybrid_1-2" class="reference"><a href="#cite_note-hybrid-1">[1]</a></sup></p>
+<h3><span class="mw-headline" id="Multi-junction">Multi-junction</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Quantum_dot_solar_cell&amp;action=edit&amp;section=7" title="Edit section: Multi-junction">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Cadmium_telluride" title="Cadmium telluride">Cadmium telluride</a> (CdTe) is used for cells that absorb multiple frequencies. A colloidal suspension of these crystals is spin-cast onto a substrate such as a thin glass slide, potted in a <a href="/wiki/Conductive_polymer" title="Conductive polymer">conductive polymer</a>. These cells did not use quantum dots, but shared features with them, such as spin-casting and the use of a thin film conductor. At low production scales quantum dots are more expensive than mass-produced nanocrystals, but <a href="/wiki/Cadmium" title="Cadmium">cadmium</a> and <a href="/wiki/Telluride_(chemistry)" title="Telluride (chemistry)">telluride</a> are rare and highly toxic metals subject to price swings.</p>
+<p>The Sargent Group<sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Manual_of_Style/Words_to_watch#Unsupported_attributions" title="Wikipedia:Manual of Style/Words to watch"><span title="The material near this tag possibly uses too-vague attribution or weasel words. (June 2014)">who?</span></a></i>]</sup> used <a href="/wiki/Lead_sulfide" title="Lead sulfide">lead sulfide</a> as an <a href="/wiki/Infrared" title="Infrared">infrared</a>-sensitive electron donor to produce then record-efficiency IR solar cells. Spin-casting may allow the construction of "tandem" cells at greatly reduced cost. The original cells used a <a href="/wiki/Gold" title="Gold">gold</a> substrate as an electrode, although <a href="/wiki/Nickel" title="Nickel">nickel</a> works just as well.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup></p>
+<h3><span class="mw-headline" id="Hot-carrier_capture">Hot-carrier capture</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Quantum_dot_solar_cell&amp;action=edit&amp;section=8" title="Edit section: Hot-carrier capture">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Another way to improve efficiency is to capture the extra energy in the electron when emitted from a single-bandgap material. In traditional materials like silicon, the distance from the emission site to the electrode where they are harvested is too far to allow this to occur; the electron will undergo many interactions with the crystal materials and lattice, giving up this extra energy as heat. <a href="/wiki/Amorphous" class="mw-redirect" title="Amorphous">Amorphous</a> thin-film silicon was tried as an alternative, but the defects inherent to these materials overwhelmed their potential advantage. Modern thin-film cells remain generally less efficient than traditional silicon.</p>
+<p>Nanostructured donors can be cast as uniform films that avoid the problems with defects.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup> These would be subject to other issues inherent to quantum dots, notably resistivity issues and heat retention.</p>
+<h3><span class="mw-headline" id="Multiple_excitons">Multiple excitons</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Quantum_dot_solar_cell&amp;action=edit&amp;section=9" title="Edit section: Multiple excitons">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote">Main article: <a href="/wiki/Multiple_exciton_generation" title="Multiple exciton generation">multiple exciton generation</a></div>
+<p>In 2004, <a href="/wiki/Los_Alamos_National_Laboratory" title="Los Alamos National Laboratory">Los Alamos National Laboratory</a> reported spectroscopic evidence that several excitons could be efficiently generated upon absorption of a single, energetic photon in a quantum dot.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup> Capturing them would catch more of the energy in sunlight. In this approach, known as "carrier multiplication" (CM) or "<a href="/wiki/Multiple_exciton_generation" title="Multiple exciton generation">multiple exciton generation</a>" (MEG), the quantum dot is tuned to release multiple electron-hole pairs at a lower energy instead of one pair at high energy. This increases efficiency through increased photocurrent. LANL's dots were made from <a href="/wiki/Lead(II)_selenide" class="mw-redirect" title="Lead(II) selenide">lead selenide</a>.</p>
+<p>In 2010, the <a href="/wiki/University_of_Wyoming" title="University of Wyoming">University of Wyoming</a> demonstrated similar performance using DCCS cells. Lead-sulfur (PbS) dots demonstrated two-electron ejection when the incoming photons had about three times the bandgap energy.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup></p>
+<p>In 2005, <a href="/wiki/NREL" class="mw-redirect" title="NREL">NREL</a> demonstrated MEG in quantum dots, producing three electrons per photon and a theoretical efficiency of 65%.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup> In 2007, they achieved a similar result in silicon.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup></p>
+<h3><span class="mw-headline" id="Non-oxidizing">Non-oxidizing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Quantum_dot_solar_cell&amp;action=edit&amp;section=10" title="Edit section: Non-oxidizing">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In 2014 a University of Toronto group manufactured and demonstrated a type of CQD n-type cell using PbS with special treatment so that it doesn't bind with oxygen. The cell achieved 8% efficiency, just shy of the current QD efficiency record. Such cells create the possibility of uncoated "spray-on" cells.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup><sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup> However, these air-stable n-type CQD were actually fabricated in an oxygen-free environment.</p>
+<p>Also in 2014, another research group at MIT demonstrated air-stable ZnO/PbS solar cells that were fabricated in air and achieved a certified 8.55% record efficiency (9.2% in lab) because they absorbed light well, while also transporting charge to collectors at the cell's edge.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup> These cells show unprecedented air-stability for quantum dot solar cells that the performance remained unchanged for more than 150 days of storage in air.<sup id="cite_ref-MITNatMater2014_2-2" class="reference"><a href="#cite_note-MITNatMater2014-2">[2]</a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Quantum_dot_solar_cell&amp;action=edit&amp;section=11" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a href="/wiki/File:Wind-turbine-icon.svg" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/28px-Wind-turbine-icon.svg.png" width="28" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/42px-Wind-turbine-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/56px-Wind-turbine-icon.svg.png 2x" data-file-width="128" data-file-height="128" /></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Renewable_energy" title="Portal:Renewable energy">Renewable energy portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a href="/wiki/File:Crystal_energy.svg" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/29px-Crystal_energy.svg.png" width="29" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/44px-Crystal_energy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/59px-Crystal_energy.svg.png 2x" data-file-width="130" data-file-height="124" /></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Energy" title="Portal:Energy">Energy portal</a></span></li>
+</ul>
+</div>
+<ul>
+<li><a href="/wiki/Emerging_photovoltaics" class="mw-redirect" title="Emerging photovoltaics">Emerging photovoltaics</a></li>
+<li><a href="/wiki/Nanocrystalline_silicon" title="Nanocrystalline silicon">Nanocrystalline silicon</a></li>
+<li><a href="/wiki/Nanoparticle" title="Nanoparticle">Nanoparticle</a></li>
+<li><a href="/wiki/Photoelectrochemical_cell" title="Photoelectrochemical cell">Photoelectrochemical cell</a></li>
+<li><a href="/wiki/Polymer_solar_cell" title="Polymer solar cell">Polymer solar cell</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Quantum_dot_solar_cell&amp;action=edit&amp;section=12" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-hybrid-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-hybrid_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-hybrid_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-hybrid_1-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Ip, Alexander H.; Thon, Susanna M.; Hoogland, Sjoerd; Voznyy, Oleksandr; Zhitomirsky, David; Debnath, Ratan; Levina, Larissa; Rollny, Lisa R.; Carey, Graham H.; Fischer, Armin; Kemp, Kyle W.; Kramer, Illan J.; Ning, Zhijun; Labelle, André J.; Chou, Kang Wei; Amassian, Aram; Sargent, Edward H. (2012). "Hybrid passivated colloidal quantum dot solids". <i>Nature Nanotechnology</i>. <b>7</b> (9): 577–582. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2012NatNa...7..577I">2012NatNa...7..577I</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1038%2Fnnano.2012.127">10.1038/nnano.2012.127</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/22842552">22842552</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AQuantum+dot+solar+cell&amp;rft.atitle=Hybrid+passivated+colloidal+quantum+dot+solids&amp;rft.au=Amassian%2C+Aram&amp;rft.au=Carey%2C+Graham+H.&amp;rft.au=Chou%2C+Kang+Wei&amp;rft.au=Debnath%2C+Ratan&amp;rft.aufirst=Alexander+H.&amp;rft.au=Fischer%2C+Armin&amp;rft.au=Hoogland%2C+Sjoerd&amp;rft.au=Kemp%2C+Kyle+W.&amp;rft.au=Kramer%2C+Illan+J.&amp;rft.au=Labelle%2C+Andr%C3%A9+J.&amp;rft.aulast=Ip&amp;rft.au=Levina%2C+Larissa&amp;rft.au=Ning%2C+Zhijun&amp;rft.au=Rollny%2C+Lisa+R.&amp;rft.au=Sargent%2C+Edward+H.&amp;rft.au=Thon%2C+Susanna+M.&amp;rft.au=Voznyy%2C+Oleksandr&amp;rft.au=Zhitomirsky%2C+David&amp;rft.date=2012&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F2012NatNa...7..577I&amp;rft_id=info%3Adoi%2F10.1038%2Fnnano.2012.127&amp;rft_id=info%3Apmid%2F22842552&amp;rft.issue=9&amp;rft.jtitle=Nature+Nanotechnology&amp;rft.pages=577-582&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=7" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-MITNatMater2014-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-MITNatMater2014_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-MITNatMater2014_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-MITNatMater2014_2-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Chuang, Chia-Hao M.; Brown, Patrick R.; Bulović, Vladimir; Bawendi, Moungi G. (2014). "Improved performance and stability in quantum dot solar cells through band alignment engineering". <i>Nature Materials</i>. <b>13</b> (8): 796–801. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1038%2Fnmat3984">10.1038/nmat3984</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/24859641">24859641</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AQuantum+dot+solar+cell&amp;rft.atitle=Improved+performance+and+stability+in+quantum+dot+solar+cells+through+band+alignment+engineering&amp;rft.au=Bawendi%2C+Moungi+G.&amp;rft.au=Brown%2C+Patrick+R.&amp;rft.au=Bulovi%C4%87%2C+Vladimir&amp;rft.aufirst=Chia-Hao+M.&amp;rft.aulast=Chuang&amp;rft.date=2014&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1038%2Fnmat3984&amp;rft_id=info%3Apmid%2F24859641&amp;rft.issue=8&amp;rft.jtitle=Nature+Materials&amp;rft.pages=796-801&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=13" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation journal">Shockley, William; Queisser, Hans J. (1961). "Detailed Balance Limit of Efficiency of p-n Junction Solar Cells". <i>Journal of Applied Physics</i>. <b>32</b> (3): 510. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/1961JAP....32..510S">1961JAP....32..510S</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1063%2F1.1736034">10.1063/1.1736034</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AQuantum+dot+solar+cell&amp;rft.atitle=Detailed+Balance+Limit+of+Efficiency+of+p-n+Junction+Solar+Cells&amp;rft.aufirst=William&amp;rft.aulast=Shockley&amp;rft.au=Queisser%2C+Hans+J.&amp;rft.date=1961&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F1961JAP....32..510S&amp;rft_id=info%3Adoi%2F10.1063%2F1.1736034&amp;rft.issue=3&amp;rft.jtitle=Journal+of+Applied+Physics&amp;rft.pages=510&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=32" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation journal">Brown, A; Green, M (2002). "Detailed balance limit for the series constrained two terminal tandem solar cell". <i>Physica E</i>. <b>14</b>: 96–100. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2002PhyE...14...96B">2002PhyE...14...96B</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2FS1386-9477%2802%2900364-8">10.1016/S1386-9477(02)00364-8</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AQuantum+dot+solar+cell&amp;rft.atitle=Detailed+balance+limit+for+the+series+constrained+two+terminal+tandem+solar+cell&amp;rft.aufirst=A&amp;rft.au=Green%2C+M&amp;rft.aulast=Brown&amp;rft.date=2002&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F2002PhyE...14...96B&amp;rft_id=info%3Adoi%2F10.1016%2FS1386-9477%2802%2900364-8&amp;rft.jtitle=Physica+E&amp;rft.pages=96-100&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=14" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Uni-Solar holds the record using a three-layer a-Si cell, with 14.9% initial production, but falling to 13% over a short time. See Yang et all, <a rel="nofollow" class="external text" href="http://apl.aip.org/resource/1/applab/v70/i22/p2975_s1?isAuthorized=no">"Triple-junction amorphous silicon alloy solar cell with 14.6% initial and 13.0% stable conversion efficiencies"</a><sup class="noprint Inline-Template"><span style="white-space: nowrap;">[<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title="&#160;Dead link since January 2017">dead link</span></a></i>]</span></sup>, <i>Applied Physics Letters</i>, 1997</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web">SPIE Europe Ltd. <a rel="nofollow" class="external text" href="http://optics.org/news/1/5/5">"Spire pushes solar cell record to 42.3%"</a>. Optics.org<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-06-22</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AQuantum+dot+solar+cell&amp;rft.au=SPIE+Europe+Ltd&amp;rft.btitle=Spire+pushes+solar+cell+record+to+42.3%25&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Foptics.org%2Fnews%2F1%2F5%2F5&amp;rft.pub=Optics.org&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation journal">Baskoutas, Sotirios; Terzis, Andreas F. (2006). "Size-dependent band gap of colloidal quantum dots". <i>Journal of Applied Physics</i>. <b>99</b>: 013708. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2006JAP....99a3708B">2006JAP....99a3708B</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1063%2F1.2158502">10.1063/1.2158502</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AQuantum+dot+solar+cell&amp;rft.atitle=Size-dependent+band+gap+of+colloidal+quantum+dots&amp;rft.aufirst=Sotirios&amp;rft.aulast=Baskoutas&amp;rft.au=Terzis%2C+Andreas+F.&amp;rft.date=2006&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F2006JAP....99a3708B&amp;rft_id=info%3Adoi%2F10.1063%2F1.2158502&amp;rft.jtitle=Journal+of+Applied+Physics&amp;rft.pages=013708&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=99" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation journal">H. Sargent, E. (2005). <a rel="nofollow" class="external text" href="http://nathan.instras.com/ResearchProposalDB/doc-188.pdf">"Infrared Quantum Dots"</a> <span style="font-size:85%;">(PDF)</span>. <i>Advanced Materials</i>. <b>17</b> (5): 515–522. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1002%2Fadma.200401552">10.1002/adma.200401552</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AQuantum+dot+solar+cell&amp;rft.atitle=Infrared+Quantum+Dots&amp;rft.aufirst=E.&amp;rft.aulast=H.+Sargent&amp;rft.date=2005&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fnathan.instras.com%2FResearchProposalDB%2Fdoc-188.pdf&amp;rft_id=info%3Adoi%2F10.1002%2Fadma.200401552&amp;rft.issue=5&amp;rft.jtitle=Advanced+Materials&amp;rft.pages=515-522&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=17" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web">Mitchell, Marit (2014-06-09). <a rel="nofollow" class="external text" href="http://www.rdmag.com/news/2014/06/new-nanoparticles-bring-cheaper-lighter-solar-cells-outdoors">"New nanoparticles bring cheaper, lighter solar cells outdoors"</a>. Rdmag.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-08-24</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AQuantum+dot+solar+cell&amp;rft.aufirst=Marit&amp;rft.aulast=Mitchell&amp;rft.btitle=New+nanoparticles+bring+cheaper%2C+lighter+solar+cells+outdoors&amp;rft.date=2014-06-09&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.rdmag.com%2Fnews%2F2014%2F06%2Fnew-nanoparticles-bring-cheaper-lighter-solar-cells-outdoors&amp;rft.pub=Rdmag.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation journal">Barnham, K. W. J.; Duggan, G. (1990). "A new approach to high-efficiency multi-band-gap solar cells". <i>Journal of Applied Physics</i>. <b>67</b> (7): 3490. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/1990JAP....67.3490B">1990JAP....67.3490B</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1063%2F1.345339">10.1063/1.345339</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AQuantum+dot+solar+cell&amp;rft.atitle=A+new+approach+to+high-efficiency+multi-band-gap+solar+cells&amp;rft.au=Duggan%2C+G.&amp;rft.aufirst=K.+W.+J.&amp;rft.aulast=Barnham&amp;rft.date=1990&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F1990JAP....67.3490B&amp;rft_id=info%3Adoi%2F10.1063%2F1.345339&amp;rft.issue=7&amp;rft.jtitle=Journal+of+Applied+Physics&amp;rft.pages=3490&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=67" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation journal">B. O’Regan and M. Gratzel, (1991). "A low-cost, high efficiency solar cell based on dye-sensitized colloidal TiO<sub>2</sub> films". <i>Nature</i>. <b>353</b> (6346): 737–740. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/1991Natur.353..737O">1991Natur.353..737O</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1038%2F353737a0">10.1038/353737a0</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AQuantum+dot+solar+cell&amp;rft.atitle=A+low-cost%2C+high+efficiency+solar+cell+based+on+dye-sensitized+colloidal+TiO%3Csub%3E2%3C%2Fsub%3E+films&amp;rft.au=B.+O%99Regan+and+M.+Gratzel%2C&amp;rft.date=1991&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F1991Natur.353..737O&amp;rft_id=info%3Adoi%2F10.1038%2F353737a0&amp;rft.issue=6346&amp;rft.jtitle=Nature&amp;rft.pages=737-740&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=353" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Emsley2011-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-Emsley2011_12-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Emsley, John (25 August 2011). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=4BAg769RfKoC"><i>Nature's Building Blocks: An A-Z Guide to the Elements</i></a>. Oxford University Press. pp.&#160;368–370. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-19-960563-7" title="Special:BookSources/978-0-19-960563-7">978-0-19-960563-7</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AQuantum+dot+solar+cell&amp;rft.aufirst=John&amp;rft.aulast=Emsley&amp;rft.btitle=Nature%27s+Building+Blocks%3A+An+A-Z+Guide+to+the+Elements&amp;rft.date=2011-08-25&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D4BAg769RfKoC&amp;rft.isbn=978-0-19-960563-7&amp;rft.pages=368-370&amp;rft.pub=Oxford+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.engineering.utoronto.ca/About/Engineering_in_the_News/08_10_2010d.htm">"New Inexpensive Solar Cell Design is Pioneered"</a><sup class="noprint Inline-Template"><span style="white-space: nowrap;">[<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title="&#160;Dead link since January 2017">dead link</span></a></i>]</span></sup> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20110128075153/http://www.engineering.utoronto.ca/About/Engineering_in_the_News/08_10_2010d.htm">Archived</a> January 28, 2011, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>., University of Toronto, 3 August 2010</span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text">Prashant Kamat, <a rel="nofollow" class="external text" href="http://energynet.ictp.it/material/Kamat.pdf">"Quantum Dot Solar Cells: Semiconductor Nanocrystals As Light Harvesters"</a>, Workshop on Nanoscience for Solar Energy Conversion, 27–29 October 2008, p. 8</span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation journal">Schaller, R.; Klimov, V. (2004). "High Efficiency Carrier Multiplication in PbSe Nanocrystals: Implications for Solar Energy Conversion". <i>Physical Review Letters</i>. <b>92</b> (18): 186601. <a href="/wiki/ArXiv" title="ArXiv">arXiv</a>:<span class="plainlinks"><a rel="nofollow" class="external text" href="//arxiv.org/abs/cond-mat/0404368">cond-mat/0404368</a><span style="margin-left:0.1em"><img alt="Freely accessible" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" title="Freely accessible" width="9" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" data-file-width="512" data-file-height="813" /></span></span>. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2004PhRvL..92r6601S">2004PhRvL..92r6601S</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1103%2FPhysRevLett.92.186601">10.1103/PhysRevLett.92.186601</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/15169518">15169518</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AQuantum+dot+solar+cell&amp;rft.atitle=High+Efficiency+Carrier+Multiplication+in+PbSe+Nanocrystals%3A+Implications+for+Solar+Energy+Conversion&amp;rft.aufirst=R.&amp;rft.au=Klimov%2C+V.&amp;rft.aulast=Schaller&amp;rft.date=2004&amp;rft.genre=article&amp;rft_id=info%3Aarxiv%2Fcond-mat%2F0404368&amp;rft_id=info%3Abibcode%2F2004PhRvL..92r6601S&amp;rft_id=info%3Adoi%2F10.1103%2FPhysRevLett.92.186601&amp;rft_id=info%3Apmid%2F15169518&amp;rft.issue=18&amp;rft.jtitle=Physical+Review+Letters&amp;rft.pages=186601&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=92" class="Z3988"><span style="display:none;">&#160;</span></span><br />
+<cite class="citation journal">Ellingson, Randy J.; Beard, Matthew C.; Johnson, Justin C.; Yu, Pingrong; Micic, Olga I.; Nozik, Arthur J.; Shabaev, Andrew; Efros, Alexander L. (2005). <a rel="nofollow" class="external text" href="http://astro1.panet.utoledo.edu/~relling2/PDF/pubs/highly_efficient_multiple_excitation_r_ellingson_(2005)_nano_lett.pdf">"Highly Efficient Multiple Exciton Generation in Colloidal PbSe and PbS Quantum Dots"</a> <span style="font-size:85%;">(PDF)</span>. <i>Nano Letters</i>. <b>5</b> (5): 865–71. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2005NanoL...5..865E">2005NanoL...5..865E</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1021%2Fnl0502672">10.1021/nl0502672</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/15884885">15884885</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AQuantum+dot+solar+cell&amp;rft.atitle=Highly+Efficient+Multiple+Exciton+Generation+in+Colloidal+PbSe+and+PbS+Quantum+Dots&amp;rft.au=Beard%2C+Matthew+C.&amp;rft.au=Efros%2C+Alexander+L.&amp;rft.aufirst=Randy+J.&amp;rft.au=Johnson%2C+Justin+C.&amp;rft.aulast=Ellingson&amp;rft.au=Micic%2C+Olga+I.&amp;rft.au=Nozik%2C+Arthur+J.&amp;rft.au=Shabaev%2C+Andrew&amp;rft.au=Yu%2C+Pingrong&amp;rft.date=2005&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fastro1.panet.utoledo.edu%2F~relling2%2FPDF%2Fpubs%2Fhighly_efficient_multiple_excitation_r_ellingson_%282005%29_nano_lett.pdf&amp;rft_id=info%3Abibcode%2F2005NanoL...5..865E&amp;rft_id=info%3Adoi%2F10.1021%2Fnl0502672&amp;rft_id=info%3Apmid%2F15884885&amp;rft.issue=5&amp;rft.jtitle=Nano+Letters&amp;rft.pages=865-71&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=5" class="Z3988"><span style="display:none;">&#160;</span></span><br />
+<a rel="nofollow" class="external text" href="http://www.nrel.gov/news/press/2005/350.html">"Quantum Dot Materials Can Reduce Heat, Boost Electrical Output"</a><sup class="noprint Inline-Template"><span style="white-space: nowrap;">[<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title="&#160;Dead link since January 2017">dead link</span></a></i>]</span></sup>, NREL Press Release, 23 May 2005</span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text">Jeff Hecht, <a rel="nofollow" class="external text" href="http://www.newscientist.com/article/dn19532-work-light-twice-as-hard-to-make-cheap-solar-cells.html?DCMP=OTC-rss&amp;nsref=energy-fuels">"Work light twice as hard to make cheap solar cells"</a>, <i>Newscientist</i>, 1 October 2010</span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.futurepundit.com/archives/002789.html">Quantum Dots May Boost Photovoltaic Efficiency To 65%</a></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.understandingnano.com/solar-cell-efficiency-quantum-dot.html">"Unique Quantum Effect Found in Silicon Nanocrystals"</a>, NREL Press Release, 24 July 2007</span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation web">Borghino, Dario (2014-06-10). <a rel="nofollow" class="external text" href="http://www.gizmag.com/quantum-dot-solar-cells/32478">"Quantum dot breakthrough could lead to cheap spray-on solar cells"</a>. Gizmag.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-06-22</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AQuantum+dot+solar+cell&amp;rft.aufirst=Dario&amp;rft.aulast=Borghino&amp;rft.btitle=Quantum+dot+breakthrough+could+lead+to+cheap+spray-on+solar+cells&amp;rft.date=2014-06-10&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.gizmag.com%2Fquantum-dot-solar-cells%2F32478&amp;rft.pub=Gizmag.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation journal">Ning, Z.; Voznyy, O.; Pan, J.; Hoogland, S.; Adinolfi, V.; Xu, J.; Li, M.; Kirmani, A. R.; Sun, J. P.; Minor, J.; Kemp, K. W.; Dong, H.; Rollny, L.; Labelle, A.; Carey, G.; Sutherland, B.; Hill, I.; Amassian, A.; Liu, H.; Tang, J.; Bakr, O. M.; Sargent, E. H. (2014). "Air-stable n-type colloidal quantum dot solids". <i>Nature Materials</i>. <b>13</b>: 822–828. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1038%2Fnmat4007">10.1038/nmat4007</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AQuantum+dot+solar+cell&amp;rft.atitle=Air-stable+n-type+colloidal+quantum+dot+solids&amp;rft.au=Adinolfi%2C+V.&amp;rft.au=Amassian%2C+A.&amp;rft.au=Bakr%2C+O.+M.&amp;rft.au=Carey%2C+G.&amp;rft.au=Dong%2C+H.&amp;rft.aufirst=Z.&amp;rft.au=Hill%2C+I.&amp;rft.au=Hoogland%2C+S.&amp;rft.au=Kemp%2C+K.+W.&amp;rft.au=Kirmani%2C+A.+R.&amp;rft.au=Labelle%2C+A.&amp;rft.aulast=Ning&amp;rft.au=Li%2C+M.&amp;rft.au=Liu%2C+H.&amp;rft.au=Minor%2C+J.&amp;rft.au=Pan%2C+J.&amp;rft.au=Rollny%2C+L.&amp;rft.au=Sargent%2C+E.+H.&amp;rft.au=Sun%2C+J.+P.&amp;rft.au=Sutherland%2C+B.&amp;rft.au=Tang%2C+J.&amp;rft.au=Voznyy%2C+O.&amp;rft.au=Xu%2C+J.&amp;rft.date=2014&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1038%2Fnmat4007&amp;rft.jtitle=Nature+Materials&amp;rft.pages=822-828&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=13" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation web">Jeffrey, Colin (May 27, 2014). <a rel="nofollow" class="external text" href="http://www.gizmag.com/quantum-dot-solar-cell-record-efficiency/32277">"New record efficiency for quantum-dot photovoltaics"</a>. Gizmag.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-06-22</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AQuantum+dot+solar+cell&amp;rft.aufirst=Colin&amp;rft.aulast=Jeffrey&amp;rft.btitle=New+record+efficiency+for+quantum-dot+photovoltaics&amp;rft.date=2014-05-27&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.gizmag.com%2Fquantum-dot-solar-cell-record-efficiency%2F32277&amp;rft.pub=Gizmag.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Quantum_dot_solar_cell&amp;action=edit&amp;section=13" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>Science News Online, <a rel="nofollow" class="external text" href="http://www.sciencenews.org/articles/20060603/bob8.asp">Quantum-Dots Leap: Tapping tiny crystals' inexplicable light-harvesting talent</a>, June 3, 2006.</li>
+<li><a href="/wiki/InformationWeek" title="InformationWeek">InformationWeek</a>, <a rel="nofollow" class="external text" href="http://www.informationweek.com/story/showArticle.jhtml?articleID=175802865">Nanocrystal Discovery Has Solar Cell Potential</a>, January 6, 2006.</li>
+<li><a href="/wiki/Berkeley_Lab" class="mw-redirect" title="Berkeley Lab">Berkeley Lab</a>, <a rel="nofollow" class="external text" href="https://web.archive.org/web/20061031145807/http://www.lbl.gov/tt/techs/lbnl2116.html">Berkeley Lab Air-stable Inorganic Nanocrystal Solar Cells Processed from Solution</a>, 2005.</li>
+<li>ScienceDaily, <a rel="nofollow" class="external text" href="http://www.sciencedaily.com/releases/2005/10/051023122429.htm">Sunny Future For Nanocrystal Solar Cells</a>, October 23, 2005.</li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Photovoltaics" style="padding:3px">
+<table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Photovoltaics" title="Template:Photovoltaics"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Photovoltaics" title="Template talk:Photovoltaics"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Photovoltaics&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Photovoltaics" style="font-size:114%"><a href="/wiki/Photovoltaics" title="Photovoltaics">Photovoltaics</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;">Concepts</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Technology</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Photovoltaics" title="Photovoltaics">Photovoltaics</a></li>
+<li><a href="/wiki/Photoelectric_effect" title="Photoelectric effect">Photoelectric effect</a></li>
+<li><a href="/wiki/Solar_insolation" class="mw-redirect" title="Solar insolation">Solar insolation</a></li>
+<li><a href="/wiki/Solar_constant" title="Solar constant">Solar constant</a></li>
+<li><a href="/wiki/Solar_cell_efficiency" title="Solar cell efficiency">Solar cell efficiency</a></li>
+<li><a href="/wiki/Nominal_power_(photovoltaic)" title="Nominal power (photovoltaic)">Nominal power (Watt-peak)</a></li>
+<li><a href="/wiki/Thin_film_solar_cell" class="mw-redirect" title="Thin film solar cell">Thin film solar cell</a></li>
+<li><a href="/wiki/Multijunction_photovoltaic_cell" class="mw-redirect" title="Multijunction photovoltaic cell">Multijunction photovoltaic cell</a></li>
+<li><a href="/wiki/Third_generation_photovoltaic_cell" class="mw-redirect" title="Third generation photovoltaic cell">Third generation photovoltaic cell</a></li>
+<li><a href="/wiki/Solar_cell_research" title="Solar cell research">Solar cell research</a></li>
+<li><a href="/wiki/Quantum_efficiency_of_a_solar_cell" class="mw-redirect" title="Quantum efficiency of a solar cell">Quantum efficiency of a solar cell</a></li>
+<li><a href="/wiki/Thermophotovoltaic" title="Thermophotovoltaic">Thermophotovoltaic</a></li>
+<li><a href="/wiki/Thermodynamic_efficiency_limit" title="Thermodynamic efficiency limit">Thermodynamic efficiency limit</a></li>
+<li><a href="/wiki/Sun-free_photovoltaics" title="Sun-free photovoltaics">Sun-free photovoltaics</a></li>
+<li><a href="/wiki/Polarizing_organic_photovoltaics" title="Polarizing organic photovoltaics">Polarizing organic photovoltaics</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Materials</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/List_of_semiconductor_materials" title="List of semiconductor materials">List of semiconductor materials</a></li>
+<li><a href="/wiki/Crystalline_silicon" title="Crystalline silicon">Crystalline silicon (c-Si)</a></li>
+<li><a href="/wiki/Polycrystalline_silicon" title="Polycrystalline silicon">Polycrystalline silicon (multi-Si)</a></li>
+<li><a href="/wiki/Monocrystalline_silicon" title="Monocrystalline silicon">Monocrystalline silicon (mono-Si)</a></li>
+<li><a href="/wiki/Cadmium_telluride" title="Cadmium telluride">Cadmium telluride</a></li>
+<li><a href="/wiki/Copper_indium_gallium_selenide" title="Copper indium gallium selenide">Copper indium gallium selenide</a></li>
+<li><a href="/wiki/Amorphous_silicon" title="Amorphous silicon">Amorphous silicon (a-Si)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">History</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Growth_of_photovoltaics" title="Growth of photovoltaics">Growth of photovoltaics</a></li>
+<li><a href="/wiki/Timeline_of_solar_cells" title="Timeline of solar cells">Timeline of solar cells</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+<td class="navbox-image" rowspan="9" style="width:0%;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:4inch_poly_solar_cell.jpg" class="image"><img alt="4inch poly solar cell.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/4inch_poly_solar_cell.jpg/150px-4inch_poly_solar_cell.jpg" width="150" height="113" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/4inch_poly_solar_cell.jpg/225px-4inch_poly_solar_cell.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fd/4inch_poly_solar_cell.jpg/300px-4inch_poly_solar_cell.jpg 2x" data-file-width="2272" data-file-height="1704" /></a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;"><a href="/wiki/Photovoltaic_system" title="Photovoltaic system">Photovoltaic system</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;"><a href="/wiki/Solar_cell" title="Solar cell">Solar cells</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Polymer_solar_cell" title="Polymer solar cell">Polymer solar cell</a></li>
+<li><a href="/wiki/Nanocrystal_solar_cell" title="Nanocrystal solar cell">Nanocrystal solar cell</a></li>
+<li><a href="/wiki/Organic_solar_cell" title="Organic solar cell">Organic solar cell</a></li>
+<li><strong class="selflink">Quantum dot solar cell</strong></li>
+<li><a href="/wiki/Hybrid_solar_cell" title="Hybrid solar cell">Hybrid solar cell</a></li>
+<li><a href="/wiki/Plasmonic_solar_cell" title="Plasmonic solar cell">Plasmonic solar cell</a></li>
+<li><a href="/wiki/Carbon_nanotubes_in_photovoltaics" title="Carbon nanotubes in photovoltaics">Carbon nanotubes in photovoltaics</a></li>
+<li><a href="/wiki/Dye-sensitized_solar_cell" title="Dye-sensitized solar cell">Dye-sensitized solar cell</a></li>
+<li><a href="/wiki/Cadmium_telluride_photovoltaics" title="Cadmium telluride photovoltaics">Cadmium telluride photovoltaics</a></li>
+<li><a href="/wiki/Copper_indium_gallium_selenide_solar_cells" title="Copper indium gallium selenide solar cells">Copper indium gallium selenide solar cells</a></li>
+<li><a href="/wiki/Printed_solar_panel" class="mw-redirect" title="Printed solar panel">Printed solar panel</a></li>
+<li><a href="/wiki/Perovskite_solar_cell" title="Perovskite solar cell">Perovskite solar cell</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">System components</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Solar_panel" title="Solar panel">Solar panel</a></li>
+<li><a href="/wiki/Balance_of_system" title="Balance of system">Balance of system</a></li>
+<li><a href="/wiki/Solar_charge_controller" class="mw-redirect" title="Solar charge controller">Solar charge controller</a></li>
+<li><a href="/wiki/Solar_inverter" title="Solar inverter">Solar inverter</a></li>
+<li><a href="/wiki/Solar_micro-inverter" title="Solar micro-inverter">Solar micro-inverter</a></li>
+<li><a href="/wiki/Solar_cable" title="Solar cable">Solar cable</a></li>
+<li><a href="/wiki/Photovoltaic_mounting_system" title="Photovoltaic mounting system">Photovoltaic mounting system</a></li>
+<li><a href="/wiki/Maximum_power_point_tracker" class="mw-redirect" title="Maximum power point tracker">Maximum power point tracker</a></li>
+<li><a href="/wiki/Solar_tracker" title="Solar tracker">Solar tracker</a></li>
+<li><a href="/wiki/Solar_shingles" class="mw-redirect" title="Solar shingles">Solar shingles</a></li>
+<li><a href="/wiki/Solar_mirror#Photovoltaic_augmentation" title="Solar mirror">Solar mirror</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">System concepts</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Perturb_and_observe_method" class="mw-redirect" title="Perturb and observe method">Perturb and observe method</a></li>
+<li><a href="/wiki/Incremental_conductance_method" class="mw-redirect" title="Incremental conductance method">Incremental conductance method</a></li>
+<li><a href="/wiki/Constant_voltage_method" class="mw-redirect" title="Constant voltage method">Constant voltage method</a></li>
+<li><a href="/wiki/Fill_factor_(solar_cell)" class="mw-redirect" title="Fill factor (solar cell)">Fill factor</a></li>
+<li><a href="/wiki/Concentrated_photovoltaics" class="mw-redirect" title="Concentrated photovoltaics">Concentrated photovoltaics</a></li>
+<li><a href="/wiki/Photovoltaic_thermal_hybrid_solar_collector" title="Photovoltaic thermal hybrid solar collector">Photovoltaic thermal hybrid solar collector</a></li>
+<li><a href="/wiki/Space-based_solar_power" title="Space-based solar power">Space-based solar power</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;">Applications</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Appliances</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Solar-powered_refrigerator" title="Solar-powered refrigerator">Solar-powered refrigerator</a></li>
+<li><a href="/wiki/Solar_air_conditioning#Photovoltaic_.28PV.29_solar_cooling" title="Solar air conditioning">Solar air conditioning</a></li>
+<li><a href="/wiki/Solar_lamp" title="Solar lamp">Solar lamp</a></li>
+<li><a href="/wiki/Solar_charger" title="Solar charger">Solar charger</a></li>
+<li><a href="/wiki/Solar_backpack" title="Solar backpack">Solar backpack</a></li>
+<li><a href="/wiki/Solar_tree" title="Solar tree">Solar tree</a></li>
+<li><a href="/wiki/Solar-powered_pump" title="Solar-powered pump">Solar-powered pump</a></li>
+<li><a href="/wiki/Solar-powered_watch" title="Solar-powered watch">Solar-powered watch</a></li>
+<li><a href="/wiki/Solar_Tuki" title="Solar Tuki">Solar Tuki</a></li>
+<li><a href="/wiki/Photovoltaic_keyboard" title="Photovoltaic keyboard">Photovoltaic keyboard</a></li>
+<li><a href="/wiki/Solar_road_stud" title="Solar road stud">Solar road stud</a></li>
+<li><a href="/wiki/Solar_cell_phone_charger" title="Solar cell phone charger">Solar cell phone charger</a></li>
+<li><a href="/wiki/Solar_notebook" title="Solar notebook">Solar notebook</a></li>
+<li><a href="/wiki/Solar-powered_calculator" title="Solar-powered calculator">Solar-powered calculator</a></li>
+<li><a href="/wiki/Solar-powered_fountain" title="Solar-powered fountain">Solar-powered fountain</a></li>
+<li><a href="/wiki/Solar-powered_radio" title="Solar-powered radio">Solar-powered radio</a></li>
+<li><a href="/wiki/Solar-powered_flashlight" title="Solar-powered flashlight">Solar-powered flashlight</a></li>
+<li><a href="/wiki/Solar-powered_fan" title="Solar-powered fan">Solar-powered fan</a></li>
+<li><a href="/wiki/Solar_street_light" title="Solar street light">Solar street light</a></li>
+<li><a href="/wiki/Solar_traffic_light" title="Solar traffic light">Solar traffic light</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Land transport</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Solar_vehicle" title="Solar vehicle">Solar vehicle</a></li>
+<li><a href="/wiki/Solar_car" title="Solar car">Solar car</a></li>
+<li><a href="/wiki/Solar_roadway" class="mw-redirect" title="Solar roadway">Solar roadway</a></li>
+<li><a href="/wiki/Solar_golf_cart" title="Solar golf cart">Solar golf cart</a></li>
+<li><a href="/wiki/The_Quiet_Achiever" title="The Quiet Achiever">The Quiet Achiever</a></li>
+<li><a href="/wiki/Sunmobile" title="Sunmobile">Sunmobile</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Air transport</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Electric_aircraft" title="Electric aircraft">Electric aircraft</a></li>
+<li><a href="/wiki/Mauro_Solar_Riser" title="Mauro Solar Riser">Mauro Solar Riser</a></li>
+<li><a href="/wiki/Solar_panels_on_spacecraft" title="Solar panels on spacecraft">Solar panels on spacecraft</a></li>
+<li><a href="/wiki/Solar-Powered_Aircraft_Developments_Solar_One" title="Solar-Powered Aircraft Developments Solar One">Solar-Powered Aircraft Developments Solar One</a></li>
+<li><a href="/wiki/Gossamer_Penguin" class="mw-redirect" title="Gossamer Penguin">Gossamer Penguin</a></li>
+<li><a href="/wiki/Qinetiq_Zephyr" title="Qinetiq Zephyr">Qinetiq Zephyr</a></li>
+<li><a href="/wiki/Solar_Challenger" class="mw-redirect" title="Solar Challenger">Solar Challenger</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Water transport</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Electric_boat#Types" title="Electric boat">Solar boat</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Solar vehicle racing</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Solar_car_racing" title="Solar car racing">Solar car racing</a></li>
+<li><a href="/wiki/List_of_solar_car_teams" title="List of solar car teams">List of solar car teams</a></li>
+<li><a href="/wiki/Solar_challenge_(disambiguation)" class="mw-redirect mw-disambig" title="Solar challenge (disambiguation)">Solar challenges</a></li>
+<li><a href="/wiki/World_Solar_Challenge" title="World Solar Challenge">World Solar Challenge</a></li>
+<li><a href="/wiki/American_Solar_Challenge" title="American Solar Challenge">American Solar Challenge</a></li>
+<li><a href="/wiki/Formula_Sun_Grand_Prix" title="Formula Sun Grand Prix">Formula Sun Grand Prix</a></li>
+<li><a href="/wiki/Solar_Cup" title="Solar Cup">Solar Cup</a></li>
+<li><a href="/wiki/Frisian_Solar_Challenge" title="Frisian Solar Challenge">Frisian Solar Challenge</a></li>
+<li><a href="/wiki/Solar_Splash" title="Solar Splash">Solar Splash</a></li>
+<li><a href="/wiki/South_African_Solar_Challenge" title="South African Solar Challenge">South African Solar Challenge</a></li>
+<li><a href="/wiki/Tour_de_Sol" title="Tour de Sol">Tour de Sol</a></li>
+<li><a href="/wiki/Hunt-Winston_School_Solar_Car_Challenge" class="mw-redirect" title="Hunt-Winston School Solar Car Challenge">Hunt-Winston School Solar Car Challenge</a></li>
+<li><a href="/wiki/Victorian_Model_Solar_Vehicle_Challenge" title="Victorian Model Solar Vehicle Challenge">Victorian Model Solar Vehicle Challenge</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;"><a href="/wiki/Photovoltaic_power_station" title="Photovoltaic power station">Generation systems</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;"><a href="/wiki/Photovoltaic_power_station" title="Photovoltaic power station">PV power station</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Grid-connected_photovoltaic_power_system" title="Grid-connected photovoltaic power system">Grid-connected photovoltaic power system</a></li>
+<li><a href="/wiki/List_of_photovoltaic_power_stations" title="List of photovoltaic power stations">List of photovoltaic power stations</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Individual projects</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Alamosa_photovoltaic_power_plant" title="Alamosa photovoltaic power plant">Alamosa photovoltaic power plant</a></li>
+<li><a href="/wiki/Beneixama_photovoltaic_power_plant" title="Beneixama photovoltaic power plant">Beneixama photovoltaic power plant</a></li>
+<li><a href="/wiki/Blythe_Photovoltaic_Power_Plant" title="Blythe Photovoltaic Power Plant">Blythe Photovoltaic Power Plant</a></li>
+<li><a href="/wiki/Copper_Mountain_Solar_Facility" title="Copper Mountain Solar Facility">Copper Mountain Solar Facility</a></li>
+<li><a href="/wiki/Darro_Solar_Park" title="Darro Solar Park">Darro Solar Park</a></li>
+<li><a href="/wiki/Erlasee_Solar_Park" title="Erlasee Solar Park">Erlasee Solar Park</a></li>
+<li><a href="/wiki/Huanghe_Hydropower_Golmud_Solar_Park" title="Huanghe Hydropower Golmud Solar Park">Golmud Solar Park</a></li>
+<li><a href="/wiki/Gottelborn_Solar_Park" class="mw-redirect" title="Gottelborn Solar Park">Gottelborn Solar Park</a></li>
+<li><a href="/wiki/Guadarranque_solar_power_plant" class="mw-redirect" title="Guadarranque solar power plant">Guadarranque solar power plant</a></li>
+<li><a href="/wiki/K%C3%B6then_Solar_Park" title="Köthen Solar Park">Köthen Solar Park</a></li>
+<li><a href="/wiki/Moura_Photovoltaic_Power_Station" title="Moura Photovoltaic Power Station">Moura Photovoltaic Power Station</a></li>
+<li><a href="/wiki/Olmedilla_Photovoltaic_Park" title="Olmedilla Photovoltaic Park">Olmedilla Photovoltaic Park</a></li>
+<li><a href="/wiki/Pocking_Solar_Park" title="Pocking Solar Park">Pocking Solar Park</a></li>
+<li><a href="/wiki/Puertollano_Photovoltaic_Park" title="Puertollano Photovoltaic Park">Puertollano Photovoltaic Park</a></li>
+<li><a href="/wiki/Topaz_Solar_Farm" title="Topaz Solar Farm">Topaz Solar Farm</a></li>
+<li><a href="/wiki/Wyandot_Solar_Facility" title="Wyandot Solar Facility">Wyandot Solar Facility</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Building-mounted</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Rooftop_photovoltaic_power_station" title="Rooftop photovoltaic power station">Rooftop photovoltaic power station</a></li>
+<li><a href="/wiki/Building-integrated_photovoltaics" title="Building-integrated photovoltaics">Building-integrated photovoltaics</a></li>
+<li><a href="/wiki/Solar_Ark" title="Solar Ark">Solar Ark</a></li>
+<li><a href="/wiki/Solar_Umbrella_house" title="Solar Umbrella house">Solar Umbrella house</a></li>
+<li><a href="/wiki/Strasskirchen_Solar_Park" title="Strasskirchen Solar Park">Strasskirchen Solar Park</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;"><a href="/wiki/Solar_power_by_country" title="Solar power by country">By country</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Solar_power_in_Australia" title="Solar power in Australia">Australia</a></li>
+<li><a href="/wiki/Solar_power_in_Belgium" title="Solar power in Belgium">Belgium</a></li>
+<li><a href="/wiki/Solar_power_in_Bulgaria" title="Solar power in Bulgaria">Bulgaria</a></li>
+<li><a href="/wiki/Solar_power_in_Canada" title="Solar power in Canada">Canada</a></li>
+<li><a href="/wiki/Solar_power_in_Chile" title="Solar power in Chile">Chile</a></li>
+<li><a href="/wiki/Solar_power_in_China" title="Solar power in China">China</a></li>
+<li><a href="/wiki/Solar_power_in_the_Czech_Republic" title="Solar power in the Czech Republic">Czech Republic</a></li>
+<li><a href="/wiki/Solar_power_in_France" title="Solar power in France">France</a></li>
+<li><a href="/wiki/Solar_power_in_Germany" title="Solar power in Germany">Germany</a></li>
+<li><a href="/wiki/Solar_power_in_Greece" title="Solar power in Greece">Greece</a></li>
+<li><a href="/wiki/Solar_power_in_India" title="Solar power in India">India</a></li>
+<li><a href="/wiki/Solar_power_in_Italy" title="Solar power in Italy">Italy</a></li>
+<li><a href="/wiki/Solar_power_in_Japan" title="Solar power in Japan">Japan</a></li>
+<li><a href="/wiki/Solar_power_in_the_Netherlands" title="Solar power in the Netherlands">Netherlands</a></li>
+<li><a href="/wiki/Solar_power_in_Romania" title="Solar power in Romania">Romania</a></li>
+<li><a href="/wiki/Solar_power_in_South_Africa" title="Solar power in South Africa">South Africa</a></li>
+<li><a href="/wiki/Solar_power_in_Spain" title="Solar power in Spain">Spain</a></li>
+<li><a href="/wiki/Solar_power_in_Switzerland" title="Solar power in Switzerland">Switzerland</a></li>
+<li><a href="/wiki/Solar_power_in_Thailand" title="Solar power in Thailand">Thailand</a></li>
+<li><a href="/wiki/Solar_power_in_the_United_Kingdom" title="Solar power in the United Kingdom">United Kingdom</a></li>
+<li><a href="/wiki/Solar_power_in_the_United_States" title="Solar power in the United States">USA</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;"><a href="/wiki/List_of_photovoltaics_companies" title="List of photovoltaics companies">PV companies</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">By country</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/List_of_countries_by_photovoltaics_production" class="mw-redirect" title="List of countries by photovoltaics production">List of countries by photovoltaics production</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Individual producers</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/First_Solar" title="First Solar">First Solar</a></li>
+<li><a href="/wiki/Hanwha_Solarone" class="mw-redirect" title="Hanwha Solarone">Hanwha Solarone</a></li>
+<li><a href="/wiki/JA_Solar" class="mw-redirect" title="JA Solar">JA Solar</a></li>
+<li><a href="/wiki/Motech_Solar" title="Motech Solar">Motech Solar</a></li>
+<li><a href="/wiki/Renewable_Energy_Corporation" title="Renewable Energy Corporation">REC</a></li>
+<li><a href="/wiki/Q-Cells" title="Q-Cells">Q-Cells</a></li>
+<li><a href="/wiki/Sharp_Solar" title="Sharp Solar">Sharp</a></li>
+<li><a href="/wiki/Solar_Frontier" title="Solar Frontier">Solar Frontier</a></li>
+<li><a href="/wiki/Solyndra" title="Solyndra">Solyndra</a></li>
+<li><a href="/wiki/SUNGEN_International_Limited" title="SUNGEN International Limited">Sungen Solar</a></li>
+<li><a href="/wiki/Sunpower" class="mw-redirect" title="Sunpower">Sunpower</a></li>
+<li><a href="/wiki/Suntech" class="mw-redirect" title="Suntech">Suntech</a></li>
+<li><a href="/wiki/Trina_Solar" title="Trina Solar">Trina Solar</a></li>
+<li><a href="/wiki/Yingli_Solar" class="mw-redirect" title="Yingli Solar">Yingli Solar</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3">
+<div>
+<ul>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <b><a href="/wiki/Category:Photovoltaics" title="Category:Photovoltaics">Category</a></b></li>
+<li><img alt="Commons page" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" title="Commons page" width="12" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /> <a href="https://commons.wikimedia.org/wiki/Category:Photovoltaics" class="extiw" title="commons:Category:Photovoltaics"><b>Commons</b></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1250
+Cached time: 20170130070505
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.248 seconds
+Real time usage: 0.312 seconds
+Preprocessor visited node count: 2244/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 113771/2097152 bytes
+Template argument size: 3352/2097152 bytes
+Highest expansion depth: 14/40
+Expensive parser function count: 3/500
+Lua time usage: 0.114/10.000 seconds
+Lua memory usage: 4.56 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  244.313      1 -total
+ 47.56%  116.184      1 Template:Reflist
+ 24.99%   61.050     11 Template:Cite_journal
+ 22.74%   55.555      2 Template:Clarify
+ 17.22%   42.066      2 Template:Fix-span
+ 13.70%   33.479      6 Template:Navbox
+ 13.00%   31.768     11 Template:Category_handler
+ 10.87%   26.558      1 Template:Photovoltaics
+  7.77%   18.989      4 Template:Fix
+  7.75%   18.940      3 Template:Delink
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:7246977-0!*!0!!en!4!* and timestamp 20170130070504 and revision id 758267584
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Quantum_dot_solar_cell&amp;oldid=758267584">https://en.wikipedia.org/w/index.php?title=Quantum_dot_solar_cell&amp;oldid=758267584</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Solar_cells" title="Category:Solar cells">Solar cells</a></li><li><a href="/wiki/Category:Nanomaterials" title="Category:Nanomaterials">Nanomaterials</a></li><li><a href="/wiki/Category:Quantum_electronics" title="Category:Quantum electronics">Quantum electronics</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_dead_external_links" title="Category:All articles with dead external links">All articles with dead external links</a></li><li><a href="/wiki/Category:Articles_with_dead_external_links_from_January_2017" title="Category:Articles with dead external links from January 2017">Articles with dead external links from January 2017</a></li><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:Wikipedia_articles_needing_clarification_from_June_2014" title="Category:Wikipedia articles needing clarification from June 2014">Wikipedia articles needing clarification from June 2014</a></li><li><a href="/wiki/Category:All_articles_with_specifically_marked_weasel-worded_phrases" title="Category:All articles with specifically marked weasel-worded phrases">All articles with specifically marked weasel-worded phrases</a></li><li><a href="/wiki/Category:Articles_with_specifically_marked_weasel-worded_phrases_from_June_2014" title="Category:Articles with specifically marked weasel-worded phrases from June 2014">Articles with specifically marked weasel-worded phrases from June 2014</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Quantum+dot+solar+cell" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Quantum+dot+solar+cell" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Quantum_dot_solar_cell"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Quantum_dot_solar_cell"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Quantum_dot_solar_cell" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Quantum_dot_solar_cell&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Quantum_dot_solar_cell&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Quantum_dot_solar_cell" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Quantum_dot_solar_cell" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Quantum_dot_solar_cell&amp;oldid=758267584" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Quantum_dot_solar_cell&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q19678322" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Quantum_dot_solar_cell&amp;id=758267584" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Quantum+dot+solar+cell">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Quantum+dot+solar+cell&amp;returnto=Quantum+dot+solar+cell&amp;oldid=758267584&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Quantum_dot_solar_cell&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Quantenpunkt-Solarzelle" title="Quantenpunkt-Solarzelle – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%84%E0%B8%A7%E0%B8%AD%E0%B8%99%E0%B8%95%E0%B8%B1%E0%B8%A1%E0%B8%94%E0%B8%AD%E0%B8%97%E0%B9%82%E0%B8%8B%E0%B8%A5%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%8B%E0%B8%A5%E0%B8%A5%E0%B9%8C" title="ควอนตัมดอทโซลาร์เซลล์ – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q19678322#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 4 January 2017, at 12:39.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Quantum_dot_solar_cell&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.248","walltime":"0.312","ppvisitednodes":{"value":2244,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":113771,"limit":2097152},"templateargumentsize":{"value":3352,"limit":2097152},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  244.313      1 -total"," 47.56%  116.184      1 Template:Reflist"," 24.99%   61.050     11 Template:Cite_journal"," 22.74%   55.555      2 Template:Clarify"," 17.22%   42.066      2 Template:Fix-span"," 13.70%   33.479      6 Template:Navbox"," 13.00%   31.768     11 Template:Category_handler"," 10.87%   26.558      1 Template:Photovoltaics","  7.77%   18.989      4 Template:Fix","  7.75%   18.940      3 Template:Delink"]},"scribunto":{"limitreport-timeusage":{"value":"0.114","limit":"10.000"},"limitreport-memusage":{"value":4782359,"limit":52428800}},"cachereport":{"origin":"mw1250","timestamp":"20170130070505","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":396,"wgHostname":"mw1250"});});</script>
+	</body>
+</html>

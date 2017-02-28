@@ -1,0 +1,17 @@
+In the two approaches we are trying to find the links with the word “solar” in either their anchor text or 
+in the URL.
+In BFS : The crawler crawls the most relevant topics first. It searches for the word solar in the most related documents first and traverses down in depth to get more links. 
+In this program we do get 1000 URLs that slowly and gradually lose relation with the topic that is being
+searched about. For example it traverses and gives us great answers in the beginning with the top 5 links being the following:
+
+https://en.wikipedia.org/wiki/Sustainable_energy
+https://en.wikipedia.org/wiki/Passive_solar_building_design
+https://en.wikipedia.org/wiki/Solar_energy
+https://en.wikipedia.org/wiki/Solar_heating
+https://en.wikipedia.org/wiki/Solar_photovoltaics
+
+and then gradually lose connection to the topic by ending up with links about solar eclipse. 
+Whereas, 
+In DFS: The crawler crawls the most irrelevant topics first. Thus It searches for the word solar in the most unrelated documents that can be traversed down in the depth 5 and gradually gains relevance in the ending documents. 
+In this program we get 1000 links that are not related to the seed topic but do have word solar in them.
+

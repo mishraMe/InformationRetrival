@@ -1,0 +1,900 @@
+url : https://en.wikipedia.org/wiki/Condenser_(heat_transfer)
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Condenser (heat transfer) - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Condenser_(heat_transfer)","wgTitle":"Condenser (heat transfer)","wgCurRevisionId":752445940,"wgRevisionId":752445940,"wgArticleId":13903462,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing additional references from March 2015","All articles needing additional references","Wikipedia articles needing style editing from July 2015","All articles needing style editing","Commons category with local link same as on Wikidata","Heating, ventilating, and air conditioning","Laboratory glassware","Heat transfer","Gas technologies","Heat exchangers"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Condenser_(heat_transfer)","wgRelevantArticleId":13903462,"wgRequestId":"WJBLXwpAMEwAAJGP5B4AAABS","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q607569","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.math.styles":"ready","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","ext.math.scripts","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.scripts%2Cstyles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.9"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Condenser_(heat_transfer)"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Condenser_(heat_transfer)&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Condenser_(heat_transfer)&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Condenser_(heat_transfer)"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Condenser_heat_transfer rootpage-Condenser_heat_transfer skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Condenser (heat transfer)</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div role="note" class="hatnote">For condensers not involving heat transfer, see <a href="/wiki/Condenser_(disambiguation)" class="mw-redirect mw-disambig" title="Condenser (disambiguation)">Condenser (disambiguation)</a>.</div>
+<table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Condenser_(heat_transfer)&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span> <small><i>(March 2015)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></span></td>
+</tr>
+</table>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Ledni%C4%8Dka_Zanussi_ZRA_319_SW,_celkov%C3%BD_pohled_na_zadn%C3%AD_%C4%8D%C3%A1st.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Ledni%C4%8Dka_Zanussi_ZRA_319_SW%2C_celkov%C3%BD_pohled_na_zadn%C3%AD_%C4%8D%C3%A1st.JPG/220px-Ledni%C4%8Dka_Zanussi_ZRA_319_SW%2C_celkov%C3%BD_pohled_na_zadn%C3%AD_%C4%8D%C3%A1st.JPG" width="220" height="293" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Ledni%C4%8Dka_Zanussi_ZRA_319_SW%2C_celkov%C3%BD_pohled_na_zadn%C3%AD_%C4%8D%C3%A1st.JPG/330px-Ledni%C4%8Dka_Zanussi_ZRA_319_SW%2C_celkov%C3%BD_pohled_na_zadn%C3%AD_%C4%8D%C3%A1st.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Ledni%C4%8Dka_Zanussi_ZRA_319_SW%2C_celkov%C3%BD_pohled_na_zadn%C3%AD_%C4%8D%C3%A1st.JPG/440px-Ledni%C4%8Dka_Zanussi_ZRA_319_SW%2C_celkov%C3%BD_pohled_na_zadn%C3%AD_%C4%8D%C3%A1st.JPG 2x" data-file-width="2592" data-file-height="3456" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Ledni%C4%8Dka_Zanussi_ZRA_319_SW,_celkov%C3%BD_pohled_na_zadn%C3%AD_%C4%8D%C3%A1st.JPG" class="internal" title="Enlarge"></a></div>
+The condenser coil of a refrigerator</div>
+</div>
+</div>
+<p>In systems involving <a href="/wiki/Heat_transfer" title="Heat transfer">heat transfer</a>, a <b>condenser</b> is a device or unit used to <a href="/wiki/Condensation" title="Condensation">condense</a> a substance from its <a href="/wiki/Gas" title="Gas">gaseous</a> to its <a href="/wiki/Liquid" title="Liquid">liquid</a> state, by cooling it. In so doing, the <a href="/wiki/Latent_heat" title="Latent heat">latent heat</a> is given up by the substance, and will transfer to the condenser coolant. Condensers are typically <a href="/wiki/Heat_exchanger" title="Heat exchanger">heat exchangers</a> which have various designs and come in many sizes ranging from rather small (hand-held) to very large industrial-scale units used in plant processes. For example, a <a href="/wiki/Refrigerator" title="Refrigerator">refrigerator</a> uses a condenser to get rid of <a href="/wiki/Heat" title="Heat">heat</a> extracted from the interior of the unit to the outside air. Condensers are used in <a href="/wiki/Air_conditioning" title="Air conditioning">air conditioning</a>, industrial <a href="/wiki/Chemical_process" title="Chemical process">chemical processes</a> such as <a href="/wiki/Distillation" title="Distillation">distillation</a>, steam <a href="/wiki/Power_plant" class="mw-redirect" title="Power plant">power plants</a> and other heat-exchange systems. Use of cooling water or surrounding air as the coolant is common in many condensers.<sup id="cite_ref-chemengenc_1-0" class="reference"><a href="#cite_note-chemengenc-1">[1]</a></sup> </p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Examples_of_condensers"><span class="tocnumber">1</span> <span class="toctext">Examples of condensers</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Equation"><span class="tocnumber">2</span> <span class="toctext">Equation</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Examples_of_condensers">Examples of condensers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Condenser_(heat_transfer)&amp;action=edit&amp;section=1" title="Edit section: Examples of condensers">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>A <a href="/wiki/Surface_condenser" title="Surface condenser">surface condenser</a> is an example of such a heat-exchange system. It is a <a href="/wiki/Shell_and_tube_heat_exchanger" title="Shell and tube heat exchanger">shell and tube heat exchanger</a> installed at the outlet of every <a href="/wiki/Steam_turbine" title="Steam turbine">steam turbine</a> in <a href="/wiki/Thermal_power_station" title="Thermal power station">thermal power stations</a>. Commonly, the <a href="/wiki/Cooling_water" class="mw-redirect" title="Cooling water">cooling water</a> flows through the tube side and the steam enters the shell side where the condensation occurs on the outside of the heat transfer tubes. The condensate drips down and collects at the bottom, often in a built-in pan called a <i>hotwell</i>. The shell side often operates at a <a href="/wiki/Vacuum" title="Vacuum">vacuum</a> or partial vacuum, produced by the difference in specific volume between the steam and condensate. Conversely, the vapor can be fed through the tubes with the coolant water or air flowing around the outside.</li>
+<li>In <a href="/wiki/Chemistry" title="Chemistry">chemistry</a>, a condenser is the apparatus which cools hot <a href="/wiki/Vapor" title="Vapor">vapors</a>, causing them to condense into a <a href="/wiki/Liquid" title="Liquid">liquid</a>. See "<a href="/wiki/Condenser_(laboratory)" title="Condenser (laboratory)">Condenser (laboratory)</a>" for <a href="/wiki/Laboratory" title="Laboratory">laboratory</a>-scale condensers, as opposed to industrial-scale condensers. Examples include the <a href="/wiki/Liebig_condenser" class="mw-redirect" title="Liebig condenser">Liebig condenser</a>, <a href="/wiki/Graham_condenser" class="mw-redirect" title="Graham condenser">Graham condenser</a>, and <a href="/wiki/Allihn_condenser" class="mw-redirect" title="Allihn condenser">Allihn condenser</a>. This is not to be confused with a <a href="/wiki/Condensation_reaction" title="Condensation reaction">condensation reaction</a> which links two fragments into a single molecule by an addition <a href="/wiki/Chemical_reaction" title="Chemical reaction">reaction</a> and an elimination reaction.</li>
+</ul>
+<dl>
+<dd>In laboratory <a href="/wiki/Distillation" title="Distillation">distillation</a>, <a href="/wiki/Reflux" title="Reflux">reflux</a>, and <a href="/wiki/Rotary_evaporator" title="Rotary evaporator">rotary evaporators</a>, several types of condensers are commonly used. The Liebig condenser is simply a straight tube within a cooling water jacket, and is the simplest (and relatively least expensive) form of condenser. The Graham condenser is a spiral tube within a water jacket, and the Allihn condenser has a series of large and small constrictions on the inside tube, each increasing the surface area upon which the vapor constituents may condense. Being more complex shapes to manufacture, these latter types are also more expensive to purchase. These three types of condensers are <a href="/wiki/Laboratory_glassware" title="Laboratory glassware">laboratory glassware</a> items since they are typically made of glass. Commercially available condensers usually are fitted with ground glass joints and come in standard lengths of 100, 200, and 400 mm. Air-cooled condensers are unjacketed, while water-cooled condensers contain a jacket for the water.</dd>
+</dl>
+<ul>
+<li>Larger condensers are also used in industrial-scale distillation processes to cool distilled <a href="/wiki/Vapor" title="Vapor">vapor</a> into liquid distillate. Commonly, the coolant flows through the tube side and distilled vapor through the shell side with distillate collecting at or flowing out the bottom.</li>
+</ul>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Condenser_unit_for_central_air_conditioning.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Condenser_unit_for_central_air_conditioning.JPG/220px-Condenser_unit_for_central_air_conditioning.JPG" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Condenser_unit_for_central_air_conditioning.JPG/330px-Condenser_unit_for_central_air_conditioning.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Condenser_unit_for_central_air_conditioning.JPG/440px-Condenser_unit_for_central_air_conditioning.JPG 2x" data-file-width="4000" data-file-height="3000" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Condenser_unit_for_central_air_conditioning.JPG" class="internal" title="Enlarge"></a></div>
+<b>Condenser unit</b> for central air conditioning for a typical house</div>
+</div>
+</div>
+<ul>
+<li>A <b>condenser unit</b> used in <a href="/wiki/Central_air_conditioning" class="mw-redirect" title="Central air conditioning">central air conditioning</a> systems typically has a heat exchanger section to cool down and condense incoming <a href="/wiki/Refrigerant" title="Refrigerant">refrigerant</a> vapor into liquid, a <a href="/wiki/Gas_compressor" title="Gas compressor">compressor</a> to raise the pressure of the refrigerant and move it along, and a fan for blowing outside air through the heat exchanger section to cool the refrigerant inside. A typical configuration of such a condenser unit is as follows: The heat exchanger section wraps around the sides of the unit with the compressor inside. In this heat exchanger section, the refrigerant goes through multiple tube passes, which are surrounded by heat transfer fins through which cooling air can move from outside to inside the unit. There is a motorized <a href="/wiki/Fan_(mechanical)" class="mw-redirect" title="Fan (mechanical)">fan</a> inside the condenser unit near the top, which is covered by some grating to keep any objects from accidentally falling inside on the fan. The fan is used to blow the outside cooling air in through the heat exchange section at the sides and out the top through the grating. These condenser units are located on the outside of the building they are trying to cool, with tubing between the unit and building, one for vapor refrigerant entering and another for liquid refrigerant leaving the unit. Of course, an <a href="/wiki/Electric_power" title="Electric power">electric power</a> supply is needed for the compressor and fan inside the unit.</li>
+<li><b>Direct contact condenser</b></li>
+</ul>
+<dl>
+<dd>In this type of condenser, <a href="/wiki/Vapor" title="Vapor">vapors</a> are poured into the liquid directly. The vapors lose their <a href="/wiki/Latent_heat" title="Latent heat">latent heat</a> of vaporization; hence, vapors transfer their heat into liquid and the liquid becomes hot. In this type of condensation, the vapor and liquid are of same type of substance. In another type of direct contact condenser, cold water is sprayed into the vapour to be condensed.</dd>
+</dl>
+<p><b>Other Types of Condensers</b></p>
+<table class="plainlinks metadata ambox ambox-style ambox-Tone" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/60px-Edit-clear.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/80px-Edit-clear.svg.png 2x" data-file-width="48" data-file-height="48" /></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article's <b>tone or style may not reflect the <a href="/wiki/Wikipedia:Writing_better_articles#Tone" title="Wikipedia:Writing better articles">encyclopedic tone</a> used on Wikipedia</b>. <span class="hide-when-compact">See Wikipedia's <a href="/wiki/Wikipedia:Writing_better_articles#Tone" title="Wikipedia:Writing better articles">guide to writing better articles</a> for suggestions.</span> <small><i>(July 2015)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></span></td>
+</tr>
+</table>
+<p>In the world of <a href="/wiki/Heating,_Ventilation,_and_Air_Conditioning" class="mw-redirect" title="Heating, Ventilation, and Air Conditioning">Heating, Ventilation, and Air Conditioning</a> (HVAC), condensers happen to be a topic of great importance. Instead of confusing information, the goal is to provide some basic information on the different types of condensers and their applications.</p>
+<p>There are three other condensers used in HVAC systems</p>
+<ul>
+<li><b>Water-cooled</b></li>
+<li><b>Air-cooled</b></li>
+<li><b>Evaporative</b></li>
+</ul>
+<p><b>Applications:</b></p>
+<ul>
+<li><b>Air cooled</b> – If the condenser is located on the outside of the unit, the air cooled condenser can provide the easiest arrangement. These types of condensers eject heat to the outdoors and are simple to install.</li>
+</ul>
+<p>&#160;&#160;&#160;Most common uses for this condenser are domestic refrigerators, upright freezers and in residential packaged air conditioning units. A great feature of the air cooled condenser is they are very easy to clean. Since dirt can cause serious issues with the condensers performance, it is highly recommended that these be kept clear of dirt.</p>
+<ul>
+<li><b>Water cooled</b> – Although a little more pricey to install, these condensers are the more efficient type. Commonly used for swimming pools and condensers piped for city water flow, these condensers require regular service and maintenance.</li>
+</ul>
+<p>&#160; &#160;&#160;They also require a cooling tower to conserve water. To prevent corrosion and the forming of algae, water cooled condensers require a constant supply of makeup water along with water treatment.</p>
+<p>&#160; &#160;&#160;Depending on the application you can choose from tube in tube, shell and coil or shell and tube condensers. All are essentially made to produce the same outcome, but each in a different way.</p>
+<ul>
+<li><b>Evaporative</b> – While these remain the least popular choice, evaporative condensers can be used inside or outside of a building and under typical conditions, operate at a low condensing temperature.</li>
+</ul>
+<p>&#160; &#160;&#160;Typically these are used in large commercial air-conditioning units. Although effective, they are not necessarily the most efficient.</p>
+<p>&#160; &#160;&#160;Prior to beginning your install, make sure you choose a condenser that will provide you with the most efficient use.→→</p>
+<h2><span class="mw-headline" id="Equation">Equation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Condenser_(heat_transfer)&amp;action=edit&amp;section=2" title="Edit section: Equation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>For an ideal single-pass condenser whose coolant has constant density, constant heat capacity, linear enthalpy over the temperature range, perfect cross-sectional heat transfer, and zero longitudinal heat transfer, and whose tubing has constant perimeter, constant thickness, and constant heat conductivity, and whose condensible fluid is perfectly mixed and at constant temperature, the coolant temperature varies along its tube according to:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi mathvariant="normal">&#x0398;<!-- Θ --></mi>
+        <mo stretchy="false">(</mo>
+        <mi>x</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <msub>
+                <mi>T</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi>H</mi>
+                </mrow>
+              </msub>
+              <mo>&#x2212;<!-- − --></mo>
+              <mi>T</mi>
+              <mo stretchy="false">(</mo>
+              <mi>x</mi>
+              <mo stretchy="false">)</mo>
+            </mrow>
+            <mrow>
+              <msub>
+                <mi>T</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi>H</mi>
+                </mrow>
+              </msub>
+              <mo>&#x2212;<!-- − --></mo>
+              <mi>T</mi>
+              <mo stretchy="false">(</mo>
+              <mn>0</mn>
+              <mo stretchy="false">)</mo>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mo>=</mo>
+        <msup>
+          <mi>e</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo>&#x2212;<!-- − --></mo>
+            <mi>N</mi>
+            <mi>T</mi>
+            <mi>U</mi>
+          </mrow>
+        </msup>
+        <mo>=</mo>
+        <msup>
+          <mi>e</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo>&#x2212;<!-- − --></mo>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mfrac>
+                <mrow>
+                  <mi>h</mi>
+                  <mi>P</mi>
+                  <mi>x</mi>
+                </mrow>
+                <mrow>
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mrow class="MJX-TeXAtom-ORD">
+                      <mover>
+                        <mi>m</mi>
+                        <mo>&#x02D9;<!-- ˙ --></mo>
+                      </mover>
+                    </mrow>
+                  </mrow>
+                  <mi>c</mi>
+                </mrow>
+              </mfrac>
+            </mrow>
+          </mrow>
+        </msup>
+        <mo>=</mo>
+        <msup>
+          <mi>e</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo>&#x2212;<!-- − --></mo>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mfrac>
+                <mrow>
+                  <mi>G</mi>
+                  <mi>x</mi>
+                </mrow>
+                <mrow>
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mrow class="MJX-TeXAtom-ORD">
+                      <mover>
+                        <mi>m</mi>
+                        <mo>&#x02D9;<!-- ˙ --></mo>
+                      </mover>
+                    </mrow>
+                  </mrow>
+                  <mi>c</mi>
+                  <mi>L</mi>
+                </mrow>
+              </mfrac>
+            </mrow>
+          </mrow>
+        </msup>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \Theta (x)={\frac {T_{H}-T(x)}{T_{H}-T(0)}}=e^{-NTU}=e^{-{\frac {hPx}{{\dot {m}}c}}}=e^{-{\frac {Gx}{{\dot {m}}cL}}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c0a0e4657eb49bee8f34a806eec0e85984e60908" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.671ex; width:47.631ex; height:6.509ex;" alt="{\displaystyle \Theta (x)={\frac {T_{H}-T(x)}{T_{H}-T(0)}}=e^{-NTU}=e^{-{\frac {hPx}{{\dot {m}}c}}}=e^{-{\frac {Gx}{{\dot {m}}cL}}}}" /></span></dd>
+</dl>
+<p>where:</p>
+<ul>
+<li><i>x</i> is the distance from the coolant inlet;</li>
+<li><i>T(x)</i> is the coolant temperature, and <i>T(0)</i> the coolant temperature at its inlet;</li>
+<li><i>T<sub>H</sub></i> is the hot fluid's temperature;</li>
+<li><i>NTU</i> is the number of transfer units;</li>
+<li><i>m</i> is the coolant's mass (or other) flow rate;</li>
+<li><i>c</i> is the coolant's heat capacity at constant pressure per unit mass (or other);</li>
+<li><i>h</i> is the heat transfer coefficient of the coolant tube;</li>
+<li><i>P</i> is the perimeter of the coolant tube;</li>
+<li><i>G</i> is the heat conductance of the coolant tube (often denoted <i>UA</i>);</li>
+<li><i>L</i> is the length of the coolant tube.</li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Condenser_(heat_transfer)&amp;action=edit&amp;section=3" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Condenser_(laboratory)" title="Condenser (laboratory)">Condenser (laboratory)</a></li>
+<li><a href="/wiki/Air_well_(condenser)" title="Air well (condenser)">Air well (condenser)</a></li>
+<li><a href="/wiki/Conn_(nautical)" title="Conn (nautical)">cond</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Condenser_(heat_transfer)&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tr>
+<td class="mbox-image"><a href="/wiki/File:Commons-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Condensers" class="extiw" title="commons:Category:Condensers">Condensers</a></b></i>.</td>
+</tr>
+</table>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-chemengenc-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-chemengenc_1-0">^</a></b></span> <span class="reference-text"><cite id="CITEREFHindelangPalazzoloRobertson" class="citation">Hindelang, Maureen; Palazzolo, Joseph; Robertson, Matthew, "Condensers", <a rel="nofollow" class="external text" href="http://encyclopedia.che.engin.umich.edu/Pages/HeatTransfer/Condensers/Condensers.html"><i>Encyclopedia of CHemical Engineering Equipment</i></a>, <a href="/wiki/University_of_Michigan" title="University of Michigan">University of Michigan</a><span class="reference-accessdate">, retrieved <span class="nowrap">May 13,</span> 2012</span></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACondenser+%28heat+transfer%29&amp;rft.atitle=Condensers&amp;rft.aufirst=Maureen&amp;rft.aulast=Hindelang&amp;rft.au=Palazzolo%2C+Joseph&amp;rft.au=Robertson%2C+Matthew&amp;rft.btitle=Encyclopedia+of+CHemical+Engineering+Equipment&amp;rft.genre=bookitem&amp;rft_id=http%3A%2F%2Fencyclopedia.che.engin.umich.edu%2FPages%2FHeatTransfer%2FCondensers%2FCondensers.html&amp;rft.pub=University+of+Michigan&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Steam_engines" style="padding:3px">
+<table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Steam_engine_configurations" title="Template:Steam engine configurations"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Steam_engine_configurations" title="Template talk:Steam engine configurations"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Steam_engine_configurations&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Steam_engines" style="font-size:114%"><a href="/wiki/Steam_engine" title="Steam engine">Steam engines</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Operating cycle</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Newcomen_atmospheric_engine" title="Newcomen atmospheric engine">Atmospheric</a></li>
+<li><a href="/wiki/Watt_steam_engine" title="Watt steam engine">Watt</a></li>
+<li><a href="/wiki/Cornish_engine" title="Cornish engine">Cornish</a></li>
+<li><a href="/wiki/Compound_steam_engine" title="Compound steam engine">Compound</a></li>
+<li><a href="/wiki/Uniflow_steam_engine" title="Uniflow steam engine">Uniflow</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Valve" title="Valve">Valves</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:10em;padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Valves</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Slide_valve" title="Slide valve">Slide</a>
+<ul>
+<li><a href="/wiki/Slide_valve#Murdoch.27s_D_slide_valve" title="Slide valve">D slide</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Piston_valve_(steam_engine)" title="Piston valve (steam engine)">Piston</a></li>
+<li><a href="/wiki/Double_beat_valve" title="Double beat valve">Drop</a></li>
+<li><a href="/wiki/Corliss_steam_engine" title="Corliss steam engine">Corliss</a></li>
+<li><a href="/wiki/Poppet_valve" title="Poppet valve">Poppet</a></li>
+<li><a href="/wiki/Sleeve_valve" title="Sleeve valve">Sleeve</a></li>
+<li><a href="/wiki/Bash_valve" title="Bash valve">Bash</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:10em;padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Valve_gear" title="Valve gear">Valve gear</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Gab_valve_gear" title="Gab valve gear">Gab</a></li>
+<li><a href="/wiki/Stephenson_valve_gear" title="Stephenson valve gear">Stephenson link</a></li>
+<li><a href="/wiki/Joy_valve_gear" title="Joy valve gear">Joy</a></li>
+<li><a href="/wiki/Walschaerts_valve_gear" title="Walschaerts valve gear">Walschaerts</a></li>
+<li><a href="/wiki/Stephenson_valve_gear#Allan_straight_link_valve_gear" title="Stephenson valve gear">Allan</a></li>
+<li><a href="/wiki/Baker_valve_gear" title="Baker valve gear">Baker</a></li>
+<li><a href="/wiki/Corliss_steam_engine" title="Corliss steam engine">Corliss</a></li>
+<li><a href="/wiki/Hugo_Lentz" title="Hugo Lentz">Lentz</a></li>
+<li><a href="/wiki/Caprotti_valve_gear" title="Caprotti valve gear">Caprotti</a></li>
+<li><a href="/wiki/Gresley_conjugated_valve_gear" title="Gresley conjugated valve gear">Gresley conjugated</a></li>
+<li><a href="/wiki/Southern_valve_gear" title="Southern valve gear">Southern</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Mechanism_(engineering)" title="Mechanism (engineering)">Mechanisms</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Beam_engine" title="Beam engine">Beam</a></li>
+<li><a href="/wiki/Cataract_(beam_engine)" title="Cataract (beam engine)">Cataract</a></li>
+<li><a href="/wiki/Centrifugal_governor" title="Centrifugal governor">Centrifugal governor</a></li>
+<li><a href="/wiki/Connecting_rod#Steam_engines" title="Connecting rod">Connecting rod</a></li>
+<li><a href="/wiki/Crank_(mechanism)" title="Crank (mechanism)">Crank</a></li>
+<li><a href="/wiki/Crankshaft" title="Crankshaft">Crankshaft</a></li>
+<li><a href="/wiki/Hypocycloidal_gear" class="mw-redirect" title="Hypocycloidal gear">Hypocycloidal gear</a></li>
+<li><a href="/wiki/Link_chain" class="mw-redirect" title="Link chain">Link chain</a></li>
+<li><a href="/wiki/Parallel_motion" title="Parallel motion">Parallel motion</a></li>
+<li><a href="/wiki/Roller_chain" title="Roller chain">Plate chain</a></li>
+<li><a href="/wiki/Beam_engine#Rotative_beam_engines" title="Beam engine">Rotative beam</a></li>
+<li><a href="/wiki/Sun_and_planet_gear" title="Sun and planet gear">Sun and planet gear</a></li>
+<li><a href="/wiki/Watt%27s_linkage" title="Watt's linkage">Watt's linkage</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Boiler" title="Boiler">Boilers</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:10em;padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Simple boilers</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Haystack_boiler" class="mw-redirect" title="Haystack boiler">Haystack</a></li>
+<li><a href="/wiki/Wagon_boiler" class="mw-redirect" title="Wagon boiler">Wagon</a></li>
+<li><a href="/wiki/Egg-ended_boiler" class="mw-redirect" title="Egg-ended boiler">Egg-ended</a></li>
+<li><a href="/wiki/Box_boiler" class="mw-redirect" title="Box boiler">Box</a></li>
+<li><a href="/wiki/Flued_boiler" title="Flued boiler">Flued</a></li>
+<li><a href="/wiki/Cornish_boiler" class="mw-redirect" title="Cornish boiler">Cornish</a></li>
+<li><a href="/wiki/Lancashire_boiler" class="mw-redirect" title="Lancashire boiler">Lancashire</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:10em;padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Fire-tube_boiler" title="Fire-tube boiler">Fire-tube boilers</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Locomotive_boiler" class="mw-redirect" title="Locomotive boiler">Locomotive</a></li>
+<li><a href="/wiki/Scotch_marine_boiler" title="Scotch marine boiler">Scotch</a></li>
+<li><a href="/wiki/Launch-type_boiler" title="Launch-type boiler">Launch</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:10em;padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Water-tube_boiler" title="Water-tube boiler">Water-tube boilers</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Babcock_%26_Wilcox_boiler" class="mw-redirect" title="Babcock &amp; Wilcox boiler">Babcock &amp; Wilcox</a></li>
+<li><a href="/wiki/Field-tube_boiler" title="Field-tube boiler">Field-tube</a></li>
+<li><a href="/wiki/Sentinel_boiler" title="Sentinel boiler">Sentinel</a></li>
+<li><a href="/wiki/Stirling_boiler" title="Stirling boiler">Stirling</a></li>
+<li><a href="/wiki/Thimble_tube_boiler" title="Thimble tube boiler">Thimble tube</a></li>
+<li><a href="/wiki/Three-drum_boiler" title="Three-drum boiler">Three-drum</a></li>
+<li><a href="/wiki/Yarrow_boiler" title="Yarrow boiler">Yarrow</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:10em;padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Boiler feed</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Feedwater_heater" title="Feedwater heater">Feedwater heater</a></li>
+<li><a href="/wiki/Boiler_feedwater_pump" title="Boiler feedwater pump">Feedwater pump</a></li>
+<li><a href="/wiki/Injector" title="Injector">Injector</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Cylinder_(engine)" title="Cylinder (engine)">Cylinder</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Cylinder_(locomotive)" title="Cylinder (locomotive)">Locomotive</a></li>
+<li><a href="/wiki/Oscillating_cylinder_steam_engine" title="Oscillating cylinder steam engine">Oscillating</a></li>
+<li><a href="/wiki/Single-_and_double-acting_cylinders" title="Single- and double-acting cylinders">Single- and double-acting</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><strong class="selflink">Condenser</strong></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Condensing_steam_locomotive" title="Condensing steam locomotive">Condensing steam locomotive</a></li>
+<li><a href="/wiki/Jet_condenser" class="mw-redirect" title="Jet condenser">Jet</a></li>
+<li><a href="/wiki/Kirchweger_condenser" title="Kirchweger condenser">Kirchweger</a></li>
+<li><a href="/wiki/Watt_steam_engine#Separate_condenser" title="Watt steam engine">Watt's separate</a></li>
+<li><a href="/wiki/Thomas_Newcomen#After_Newcomen" title="Thomas Newcomen">"Pickle-pot"</a></li>
+<li><a href="/wiki/Surface_condenser" title="Surface condenser">Surface</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Other</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Crosshead" title="Crosshead">Crosshead</a></li>
+<li><a href="/wiki/Cutoff_(steam_engine)" title="Cutoff (steam engine)">Cutoff</a></li>
+<li><a href="/wiki/Expansion_valve_(steam_engine)" title="Expansion valve (steam engine)">Expansion valve</a></li>
+<li><a href="/wiki/Hydrolock" title="Hydrolock">Hydrolock</a></li>
+<li><a href="/wiki/Piston" title="Piston">Piston</a></li>
+<li><a href="/wiki/Reciprocating_engine" title="Reciprocating engine">Reciprocating engine</a></li>
+<li><a href="/wiki/Return_connecting_rod_engine" title="Return connecting rod engine">Return connecting rod engine</a></li>
+<li><a href="/wiki/Six-column_beam_engine" title="Six-column beam engine">Six-column beam engine</a></li>
+<li><a href="/wiki/Return_connecting_rod_engine#Steeple_engines" title="Return connecting rod engine">Steeple engine</a></li>
+<li><a href="/wiki/Safety_valve" title="Safety valve">Safety valve</a></li>
+<li><a href="/wiki/Steeple_compound_engine" title="Steeple compound engine">Steeple compound engine</a></li>
+<li><a href="/wiki/Stroke_(engine)" title="Stroke (engine)">Stroke</a></li>
+<li><a href="/wiki/Working_fluid" title="Working fluid">Working fluid</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/History_of_the_steam_engine" title="History of the steam engine">History</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:10em;padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/History_of_the_steam_engine#Precursors" title="History of the steam engine">Precursors</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Thomas_Savery" title="Thomas Savery">Savery Engine</a> (1698)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:10em;padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Newcomen_atmospheric_engine" title="Newcomen atmospheric engine">Newcomen engine</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Newcomen_Memorial_Engine" title="Newcomen Memorial Engine">Newcomen Memorial Engine</a> (1725)</li>
+<li><i><a href="/wiki/Fairbottom_Bobs" title="Fairbottom Bobs">Fairbottom Bobs</a></i> (1760)</li>
+<li><a href="/wiki/Elsecar_Engine" class="mw-redirect" title="Elsecar Engine">Elsecar Engine</a> (1795)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:10em;padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Watt_steam_engine" title="Watt steam engine">Watt engine</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:8em;padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Beam_engine" title="Beam engine">Beam</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Kinneil_Engine" class="mw-redirect" title="Kinneil Engine">Kinneil Engine</a> (1768)</li>
+<li><a href="/wiki/Old_Bess_(beam_engine)" title="Old Bess (beam engine)"><i>Old Bess</i></a> (1777)</li>
+<li><a href="/wiki/Wheal_Busy" title="Wheal Busy">Chacewater Mine engine</a> (1778)</li>
+<li><a href="/wiki/Smethwick_Engine" title="Smethwick Engine">Smethwick Engine</a> (1779)</li>
+<li><a href="/wiki/Resolution_(beam_engine)" title="Resolution (beam engine)"><i>Resolution</i></a> (1781)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:8em;padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Beam_engine#Rotative_beam_engines" title="Beam engine">Rotative beam</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Soho_Manufactory#Steam_engines" title="Soho Manufactory">Soho Manufactory engine</a> (1782)</li>
+<li><a href="/wiki/John_Wilkinson_(industrialist)#Boring_machine_for_steam_engines" title="John Wilkinson (industrialist)">Bradley Works engine</a> (1783)</li>
+<li><a href="/wiki/Whitbread_Engine" title="Whitbread Engine">Whitbread Engine</a> (1785)</li>
+<li><a href="/wiki/Beam_engine#Preserved_beam_engines" title="Beam engine">National Museum of Scotland engine</a> (1786)</li>
+<li><a href="/wiki/Lap_Engine" title="Lap Engine">Lap Engine</a> (1788)</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:10em;padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/History_of_the_steam_engine#High-pressure_engines" title="History of the steam engine">High-pressure</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Richard_Trevithick#The_high-pressure_engine" title="Richard Trevithick">Richard Trevithick</a>
+<ul>
+<li><a href="/wiki/Richard_Trevithick#Puffing_Devil" title="Richard Trevithick"><i>Puffing Devil</i></a> (1801)</li>
+<li><a href="/wiki/Richard_Trevithick#London_Steam_Carriage" title="Richard Trevithick">London Steam Carriage</a> (1803)</li>
+<li><a href="/wiki/Richard_Trevithick#Coalbrookdale_Locomotive" title="Richard Trevithick">"Coalbrookdale Locomotive"</a> (1803)</li>
+<li><a href="/wiki/Richard_Trevithick#.22Pen-y-Darren.22_locomotive" title="Richard Trevithick">"Pen-y-Darren" locomotive</a> (1804)</li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:10em;padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Compound_steam_engine" title="Compound steam engine">Compound</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Arthur_Woolf" title="Arthur Woolf">Woolf's compound engine</a> (1803)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:10em;padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Matthew_Murray" title="Matthew Murray">Murray</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Murray%27s_Hypocycloidal_Engine" title="Murray's Hypocycloidal Engine">Murray's Hypocycloidal Engine</a> (1805)</li>
+<li><a href="/wiki/Salamanca_(locomotive)" title="Salamanca (locomotive)"><i>Salamanca</i></a> (1812)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:10em;padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/High-speed_steam_engine" title="High-speed steam engine">High-speed</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Porter-Allen_engine" class="mw-redirect" title="Porter-Allen engine">Porter-Allen</a> (1862)</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">See also</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Glossary_of_steam_locomotive_components" class="mw-redirect" title="Glossary of steam locomotive components">Glossary of steam locomotive components</a></li>
+<li><a href="/wiki/History_of_steam_road_vehicles" title="History of steam road vehicles">History of steam road vehicles</a>
+<ul>
+<li><a href="/wiki/Nicolas-Joseph_Cugnot#The_first_self-propelled_vehicle" title="Nicolas-Joseph Cugnot">Cugnot's <i>fardier à vapeur</i></a> (1769)</li>
+<li><a href="/wiki/William_Murdoch#Steam_powered_locomotion" title="William Murdoch">Murdoch's model steam carriage</a> (1784)</li>
+</ul>
+</li>
+<li><i><a href="/wiki/Lean%27s_Engine_Reporter" title="Lean's Engine Reporter">Lean's Engine Reporter</a></i></li>
+<li><a href="/wiki/List_of_steam_technology_patents" title="List of steam technology patents">List of steam technology patents</a></li>
+<li><a href="/wiki/Advanced_steam_technology" title="Advanced steam technology">Modern steam</a></li>
+<li><a href="/wiki/Stationary_steam_engine" title="Stationary steam engine">Stationary steam engine</a></li>
+<li><a href="/wiki/Timeline_of_steam_power" title="Timeline of steam power">Timeline of steam power</a></li>
+<li><a href="/wiki/Water-returning_engine" title="Water-returning engine">Water-returning engine</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-label="Navbox" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span style="white-space:nowrap;"><a href="/wiki/National_Diet_Library" title="National Diet Library">NDL</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.ndl.go.jp/auth/ndlna/00575968">00575968</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1241
+Cached time: 20170131083128
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.172 seconds
+Real time usage: 0.256 seconds
+Preprocessor visited node count: 2122/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 85681/2097152 bytes
+Template argument size: 4961/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 2/500
+Lua time usage: 0.062/10.000 seconds
+Lua memory usage: 2.82 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  167.025      1 -total
+ 47.17%   78.786      5 Template:Navbox
+ 27.54%   46.000      1 Template:Steam_engine_configurations
+ 24.43%   40.803      4 Template:Navbox_subgroup
+ 20.12%   33.601      1 Template:Reflist
+ 17.88%   29.859      1 Template:Citation
+ 15.91%   26.582      1 Template:Refimprove
+ 15.55%   25.969      2 Template:Ambox
+ 13.43%   22.431      1 Template:Commons_category
+ 11.53%   19.264      1 Template:For
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:13903462-0!*!0!!en!4!*!math=5 and timestamp 20170131083127 and revision id 752445940
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Condenser_(heat_transfer)&amp;oldid=752445940">https://en.wikipedia.org/w/index.php?title=Condenser_(heat_transfer)&amp;oldid=752445940</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Heating,_ventilating,_and_air_conditioning" title="Category:Heating, ventilating, and air conditioning">Heating, ventilating, and air conditioning</a></li><li><a href="/wiki/Category:Laboratory_glassware" title="Category:Laboratory glassware">Laboratory glassware</a></li><li><a href="/wiki/Category:Heat_transfer" title="Category:Heat transfer">Heat transfer</a></li><li><a href="/wiki/Category:Gas_technologies" title="Category:Gas technologies">Gas technologies</a></li><li><a href="/wiki/Category:Heat_exchangers" title="Category:Heat exchangers">Heat exchangers</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_needing_additional_references_from_March_2015" title="Category:Articles needing additional references from March 2015">Articles needing additional references from March 2015</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Wikipedia_articles_needing_style_editing_from_July_2015" title="Category:Wikipedia articles needing style editing from July 2015">Wikipedia articles needing style editing from July 2015</a></li><li><a href="/wiki/Category:All_articles_needing_style_editing" title="Category:All articles needing style editing">All articles needing style editing</a></li><li><a href="/wiki/Category:Commons_category_with_local_link_same_as_on_Wikidata" title="Category:Commons category with local link same as on Wikidata">Commons category with local link same as on Wikidata</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Condenser+%28heat+transfer%29" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Condenser+%28heat+transfer%29" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Condenser_(heat_transfer)"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Condenser_(heat_transfer)"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Condenser_(heat_transfer)" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Condenser_(heat_transfer)&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Condenser_(heat_transfer)&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Condenser_(heat_transfer)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Condenser_(heat_transfer)" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Condenser_(heat_transfer)&amp;oldid=752445940" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Condenser_(heat_transfer)&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q607569" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Condenser_%28heat_transfer%29&amp;id=752445940" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Condenser+%28heat+transfer%29">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Condenser+%28heat+transfer%29&amp;returnto=Condenser+%28heat+transfer%29&amp;oldid=752445940&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Condenser_(heat_transfer)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Condensers" hreflang="en">Wikimedia Commons</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%85%D9%83%D8%AB%D9%81_%D8%AD%D8%B1%D8%A7%D8%B1%D9%8A" title="مكثف حراري – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D0%B4%D0%B5%D0%BD%D0%B7%D0%B0%D1%82%D0%BE%D1%80_(%D1%82%D0%BE%D0%BF%D0%BB%D0%BE%D0%BE%D0%B1%D0%BC%D0%B5%D0%BD%D0%BD%D0%B8%D0%BA)" title="Кондензатор (топлообменник) – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Condensador_de_superf%C3%ADcie" title="Condensador de superfície – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Termodynamisk_kondensator" title="Termodynamisk kondensator – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Kondensator_(Verfahrenstechnik)" title="Kondensator (Verfahrenstechnik) – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Condensador_(termodin%C3%A1mica)" title="Condensador (termodinámica) – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Kondensilo_(vaporo)" title="Kondensilo (vaporo) – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%DA%A9%D9%86%D8%AF%D8%A7%D9%86%D8%B3%D9%88%D8%B1_(%D8%A7%D9%86%D8%AA%D9%82%D8%A7%D9%84_%D8%AD%D8%B1%D8%A7%D8%B1%D8%AA)" title="کندانسور (انتقال حرارت) – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Condenseur_(s%C3%A9paration)" title="Condenseur (séparation) – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Condensador_(termodin%C3%A1mica)" title="Condensador (termodinámica) – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EB%B3%B5%EC%88%98%EA%B8%B0" title="복수기 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D4%BF%D5%B8%D5%B6%D5%A4%D5%A5%D5%B6%D5%BD%D5%A1%D5%BF%D5%B8%D6%80_(%D5%A1%D5%B5%D5%AC_%D5%AF%D5%AB%D6%80%D5%A1%D5%BC%D5%B8%D6%82%D5%B4%D5%B6%D5%A5%D6%80)" title="Կոնդենսատոր (այլ կիրառումներ) – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%98%E0%A4%A8%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%B0_(%E0%A4%89%E0%A4%B7%E0%A5%8D%E0%A4%AE%E0%A4%BE_%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BE%E0%A4%A8%E0%A4%BE%E0%A4%A8%E0%A5%8D%E0%A4%A4%E0%A4%B0%E0%A4%A3)" title="संघनित्र (उष्मा स्थानान्तरण) – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Parni_kondenzator" title="Parni kondenzator – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Condensatore_(scambiatore_di_calore)" title="Condensatore (scambiatore di calore) – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Kondensatorius_(au%C5%A1inimas)" title="Kondensatorius (aušinimas) – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Condensor_(damp)" title="Condensor (damp) – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E5%BE%A9%E6%B0%B4%E5%99%A8" title="復水器 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Kondensator_(damp)" title="Kondensator (damp) – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk bokmål</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Skraplacz" title="Skraplacz – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Condensador_(qu%C3%ADmica)" title="Condensador (química) – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Condensator_(termodinamic%C4%83)" title="Condensator (termodinamică) – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D0%B4%D0%B5%D0%BD%D1%81%D0%B0%D1%82%D0%BE%D1%80_(%D1%82%D0%B5%D0%BF%D0%BB%D0%BE%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B0)" title="Конденсатор (теплотехника) – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Parni_kondenzator" title="Parni kondenzator – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Kondensor" title="Kondensor – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Yo%C4%9Fu%C5%9Fturucu" title="Yoğuşturucu – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9F%D0%B0%D1%80%D0%BE%D0%BA%D0%BE%D0%BD%D0%B4%D0%B5%D0%BD%D1%81%D0%B0%D1%82%D0%BE%D1%80" title="Пароконденсатор – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%86%B7%E5%87%9D%E5%99%A8" title="冷凝器 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q607569#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 1 December 2016, at 08:20.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Condenser_(heat_transfer)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.172","walltime":"0.256","ppvisitednodes":{"value":2122,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":85681,"limit":2097152},"templateargumentsize":{"value":4961,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  167.025      1 -total"," 47.17%   78.786      5 Template:Navbox"," 27.54%   46.000      1 Template:Steam_engine_configurations"," 24.43%   40.803      4 Template:Navbox_subgroup"," 20.12%   33.601      1 Template:Reflist"," 17.88%   29.859      1 Template:Citation"," 15.91%   26.582      1 Template:Refimprove"," 15.55%   25.969      2 Template:Ambox"," 13.43%   22.431      1 Template:Commons_category"," 11.53%   19.264      1 Template:For"]},"scribunto":{"limitreport-timeusage":{"value":"0.062","limit":"10.000"},"limitreport-memusage":{"value":2956273,"limit":52428800}},"cachereport":{"origin":"mw1241","timestamp":"20170131083128","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":334,"wgHostname":"mw1241"});});</script>
+	</body>
+</html>

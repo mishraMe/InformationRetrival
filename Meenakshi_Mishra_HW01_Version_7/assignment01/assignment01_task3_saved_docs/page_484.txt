@@ -1,0 +1,603 @@
+url : https://en.wikipedia.org/wiki/Energy_demand_management
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Energy demand management - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Energy_demand_management","wgTitle":"Energy demand management","wgCurRevisionId":758978663,"wgRevisionId":758978663,"wgArticleId":1595817,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages with citations lacking titles","Pages with citations having bare URLs","Market failure","Electric power distribution"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Energy_demand_management","wgRelevantArticleId":1595817,"wgRequestId":"WI4oYgpAMFwAAAbB9MUAAAAP","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q1185136","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.9"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Energy_demand_management"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Energy_demand_management&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Energy_demand_management&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Energy_demand_management"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Energy_demand_management rootpage-Energy_demand_management skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Energy demand management</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><p><b>Energy demand management</b>, also known as <b>demand-side management</b> (<b>DSM</b>) or <b>demand-side response</b> (<b>DSR</b>),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> is the modification of consumer demand for <a href="/wiki/Energy" title="Energy">energy</a> through various methods such as financial incentives<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> and behavioral change through education. Usually, the goal of demand side management is to encourage the consumer to use less energy during <a href="/wiki/Peak_demand" title="Peak demand">peak</a> hours, or to move the time of energy use to off-peak times such as nighttime and weekends.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Peak demand management does not necessarily decrease total <a href="/wiki/Domestic_energy_consumption" title="Domestic energy consumption">energy consumption</a>, but could be expected to reduce the need for investments in networks and/or <a href="/wiki/Electricity_generation" title="Electricity generation">power</a> plants for meeting peak demands. An example is the use of energy storage units to store energy during off-peak hours and discharge them during peak hours.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> A newer application for DSM is to aid grid operators in balancing intermittent generation from wind and solar units, particularly when the timing and magnitude of energy demand does not coincide with the renewable generation.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-lund-etal-2015_6-0" class="reference"><a href="#cite_note-lund-etal-2015-6">[6]</a></sup></p>
+<p>The American electric power industry originally relied heavily on foreign energy imports, whether in the form of consumable electricity or fossil fuels that were then used to produce electricity. During the time of the energy crises in the 1970s, the federal government passed the Public Utility Regulatory Policy Act (<a href="/wiki/PURPA" class="mw-redirect" title="PURPA">PURPA</a>), hoping to reduce dependence on foreign oil and to promote energy efficiency and alternative energy sources. This act enforced utilities to obtain the cheapest possible power from independent power producers, which in turn promoted renewables and encouraged the utility to reduce the amount of power they need, hence pushing forward agendas for energy efficiency and demand management.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></p>
+<p>The term DSM was coined following the time of the <a href="/wiki/1973_energy_crisis" class="mw-redirect" title="1973 energy crisis">1973 energy crisis</a> and <a href="/wiki/1979_energy_crisis" title="1979 energy crisis">1979 energy crisis</a>.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> Governments of many countries mandated performance of various programs for demand management. An early example is the <a href="/wiki/National_Energy_Conservation_Policy_Act" title="National Energy Conservation Policy Act">National Energy Conservation Policy Act</a> of 1978 in the <a href="/wiki/United_States" title="United States">U.S.</a>, preceded by similar actions in <a href="/wiki/California" title="California">California</a> and <a href="/wiki/Wisconsin" title="Wisconsin">Wisconsin</a>. Demand Side Management was introduced publicly by <a href="/wiki/Electric_Power_Research_Institute" title="Electric Power Research Institute">Electric Power Research Institute</a> (EPRI) in the 1980s.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> Nowadays, DSM technologies become increasingly feasible due to the integration of <a href="/wiki/Information_and_communications_technology" title="Information and communications technology">information and communications technology</a> and the power system, new terms such as Integrated Demand-Side Management (IDSM), or <a href="/wiki/Smart_grid" title="Smart grid">smart grid</a>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Operation"><span class="tocnumber">1</span> <span class="toctext">Operation</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Logical_foundations"><span class="tocnumber">2</span> <span class="toctext">Logical foundations</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Types"><span class="tocnumber">3</span> <span class="toctext">Types</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Scale"><span class="tocnumber">4</span> <span class="toctext">Scale</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#National_scale"><span class="tocnumber">4.1</span> <span class="toctext">National scale</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Utility_scale"><span class="tocnumber">4.2</span> <span class="toctext">Utility scale</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Community_scale"><span class="tocnumber">4.3</span> <span class="toctext">Community scale</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Household_scale"><span class="tocnumber">4.4</span> <span class="toctext">Household scale</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Examples"><span class="tocnumber">5</span> <span class="toctext">Examples</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="#Queensland.2C_Australia"><span class="tocnumber">5.1</span> <span class="toctext">Queensland, Australia</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Toronto.2C_Canada"><span class="tocnumber">5.2</span> <span class="toctext">Toronto, Canada</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#California.2C_US"><span class="tocnumber">5.3</span> <span class="toctext">California, US</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Indiana.2C_US"><span class="tocnumber">5.4</span> <span class="toctext">Indiana, US</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Brazil"><span class="tocnumber">5.5</span> <span class="toctext">Brazil</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-15"><a href="#Problems"><span class="tocnumber">6</span> <span class="toctext">Problems</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#See_also"><span class="tocnumber">7</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#Notes"><span class="tocnumber">8</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#References"><span class="tocnumber">9</span> <span class="toctext">References</span></a>
+<ul>
+<li class="toclevel-2 tocsection-19"><a href="#Works_cited"><span class="tocnumber">9.1</span> <span class="toctext">Works cited</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-20"><a href="#External_links"><span class="tocnumber">10</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Operation">Operation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Energy_demand_management&amp;action=edit&amp;section=1" title="Edit section: Operation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Electricity use can vary dramatically on short and medium time frames, largely dependent on weather patterns. Generally the wholesale electricity system adjusts to changing demand by dispatching additional or less generation. However, during peak periods, the additional generation is usually supplied by less efficient ("peaking") sources. Unfortunately, the instantaneous financial and environmental cost of using these "peaking" sources is not necessarily reflected in the retail pricing system. In addition, the ability or willingness of electricity consumers to adjust to price signals by altering demand (<a href="/wiki/Elasticity_of_demand" class="mw-redirect" title="Elasticity of demand">elasticity of demand</a>) may be low, particularly over short time frames. In many markets, consumers (particularly retail customers) do not face real-time pricing at all, but pay rates based on average annual costs or other constructed prices.</p>
+<p>Energy demand management activities attempt to bring the electricity demand and supply closer to a perceived optimum, and help give electricity end users benefits for reducing their demand. In the modern system, the integrated approach to demand side management is becoming increasingly common. IDSM automatically sends signals to end-use systems to shed load depending on system conditions. This allows for very precise tuning of demand to ensure that it matches supply at all times, reduces capital expenditures for the utility. Critical system conditions could be peak times, or in areas with levels of <a href="/wiki/Variable_renewable_energy" title="Variable renewable energy">variable renewable energy</a>, during times when demand must be adjusted upward to avoid over generation or downward to help with ramping needs.</p>
+<p>In general, adjustments to demand can occur in various ways: through responses to price signals, such as permanent differential rates for evening and day times or occasional highly priced usage days, behavioral changes achieved through <a href="/wiki/Home_network" title="Home network">home area networks</a>, automated controls such as with remotely controlled air-conditioners, or with permanent load adjustments with energy efficient appliances.</p>
+<h2><span class="mw-headline" id="Logical_foundations">Logical foundations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Energy_demand_management&amp;action=edit&amp;section=2" title="Edit section: Logical foundations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Demand for any commodity can be modified by actions of market players and government (<a href="/wiki/Regulation" title="Regulation">regulation</a> and taxation). Energy demand management implies actions that influence demand for energy. DSM is originally adopted in electricity, today DSM is applied widely to utility including water and gas as well.</p>
+<p>Reducing energy demand is contrary to what both energy suppliers and governments have been doing during most of the modern industrial history. Whereas real prices of various energy forms have been decreasing during most of the industrial era, due to <a href="/wiki/Economies_of_scale" title="Economies of scale">economies of scale</a> and technology, the expectation for the future is the opposite. Previously, it was not unreasonable to promote energy use as more copious and cheaper energy sources could be anticipated in the future or the supplier had installed excess capacity that would be made more profitable by increased consumption.</p>
+<p>In <a href="/wiki/Planned_economy" title="Planned economy">centrally planned economies</a> subsidizing energy was one of the main economic development tools. Subsidies to the energy supply industry are still common in some countries.</p>
+<p>Contrary to the historical situation, energy prices and availability are expected to deteriorate. Governments and other public actors, if not the energy suppliers themselves, are tending to employ energy demand measures that will increase the efficiency of energy consumption.</p>
+<h2><span class="mw-headline" id="Types">Types</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Energy_demand_management&amp;action=edit&amp;section=3" title="Edit section: Types">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Efficient_energy_use" title="Efficient energy use">Energy Efficiency</a>: Using less power to perform the same tasks. This involves a permanent reduction of demand by using more efficient load-intensive appliances such as water heaters, refrigerators, or washing machines.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></li>
+<li><a href="/wiki/Demand_response" title="Demand response">Demand Response</a>: Any reactive or preventative method to reduce, flatten or shift demand. Historically, demand response programs have focused on peak reduction to defer the high cost of constructing generation capacity. However, demand response programs are now being looked to assist with changing the net load shape as well, load minus solar and wind generation, to help with integration of <a href="/wiki/Variable_renewable_energy" title="Variable renewable energy">variable renewable energy</a>.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> Demand response includes all intentional modifications to consumption patterns of electricity of end user customers that are intended to alter the timing, level of instantaneous demand, or the total electricity consumption.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> Demand response refers to a wide range of actions which can be taken at the customer side of the electricity meter in response to particular conditions within the electricity system (such as peak period network congestion or high prices), including the aforementioned IDSM.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup></li>
+<li><a href="/wiki/Dynamic_demand_(electric_power)" title="Dynamic demand (electric power)">Dynamic Demand</a>: Advance or delay appliance operating cycles by a few seconds to increase the <a href="/wiki/Diversity_factor" title="Diversity factor">diversity factor</a> of the set of loads. The concept is that by monitoring the <a href="/wiki/Power_factor" title="Power factor">power factor</a> of the power grid, as well as their own control parameters, individual, intermittent loads would switch on or off at optimal moments to balance the overall system load with generation, reducing critical power mismatches. As this switching would only advance or delay the appliance operating cycle by a few seconds, it would be unnoticeable to the end user. In the United States, in 1982, a (now-lapsed) patent for this idea was issued to power systems engineer Fred Schweppe.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup> This type of dynamic demand control is frequently used for air-conditioners. One example of this is through the SmartAC program in California.</li>
+</ul>
+<h2><span class="mw-headline" id="Scale">Scale</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Energy_demand_management&amp;action=edit&amp;section=4" title="Edit section: Scale">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Broadly, demand side management can be classified into four categories: national scale, utility scale, community scale, and individual household scale.</p>
+<h3><span class="mw-headline" id="National_scale">National scale</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Energy_demand_management&amp;action=edit&amp;section=5" title="Edit section: National scale">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Energy efficiency improvement is one of the most important demand side management strategies.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup> Efficiency improvements can be implemented nationally through legislation and standards in housing, building, appliances, transport, machinaries etc.</p>
+<h3><span class="mw-headline" id="Utility_scale">Utility scale</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Energy_demand_management&amp;action=edit&amp;section=6" title="Edit section: Utility scale">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>During peak demand time, utilities are able to control storage water heaters and pool pumps in large areas to reduce peak demand, e.g. Australia and Switzerland. One of the common technologies is ripple control: high frequency signal (e.g. 1000&#160;Hz) is superimposed to normal electricity (50 or 60&#160;Hz) to switch on or off devices.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup></p>
+<h3><span class="mw-headline" id="Community_scale">Community scale</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Energy_demand_management&amp;action=edit&amp;section=7" title="Edit section: Community scale">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Other names can be neighborhood, precinct, or district. Community central heating systems have been existing for many decades in regions of cold winters. Demand side management can be implemented in community scale to reduce peak demand for heating or cooling.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup> Another aspect is to achieve Net Zero Energy community.</p>
+<h3><span class="mw-headline" id="Household_scale">Household scale</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Energy_demand_management&amp;action=edit&amp;section=8" title="Edit section: Household scale">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In areas of Australia, more than 30% (2016) of households have rooftop photo-voltaic systems. It is useful for them to use free energy from the sun to reduce energy import from the grid. Further, demand side management can be helpful when a systematic approach is considered: the operation of photovoltaic, air conditioner, battery energy storage systems, storage water heaters, building performance and energy efficiency measures.</p>
+<h2><span class="mw-headline" id="Examples">Examples</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Energy_demand_management&amp;action=edit&amp;section=9" title="Edit section: Examples">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Queensland.2C_Australia">Queensland, Australia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Energy_demand_management&amp;action=edit&amp;section=10" title="Edit section: Queensland, Australia">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The utility companies in the state of Queensland, Australia have devices fitted onto certain household appliances such as air conditioners or into household meters to control water heater, pool pumps etc. These devices would allow energy companies to remotely cycle the use of these items during peak hours. Their plan also includes improving the efficiency of energy-using items, encouraging the use of oil instead of electricity, and giving financial incentives to consumers who use electricity during off-peak hours, when it is less expensive for energy companies to produce.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup></p>
+<p>Another example is that with demand side management, Southeast Queensland households can use electricity from rooftop photo-voltaic system to heat up water.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup></p>
+<h3><span class="mw-headline" id="Toronto.2C_Canada">Toronto, Canada</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Energy_demand_management&amp;action=edit&amp;section=11" title="Edit section: Toronto, Canada">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In 2007, Toronto Hydro, the monopoly energy distributor of Ontario, had over 40,000 people signed up to have remote devices attached to air conditioners which energy companies use to offset spikes in demand. Spokeswoman Tanya Bruckmueller says that this program can reduce demand by 40 megawatts during emergency situations.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup></p>
+<h3><span class="mw-headline" id="California.2C_US">California, US</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Energy_demand_management&amp;action=edit&amp;section=12" title="Edit section: California, US">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>California has several demand side management programs, including automated and critical peak pricing demand response programs for commercial and industrial customers as well as residential consumers, energy efficiency rebates, non-event based time-of-use pricing, special electric vehicle charging rates, and distributed storage. Some of these programs are slated to be added into the wholesale electricity market to be bid as "supply side" resources that can be dispatched by the system operator. Demand side management in the state will be increasingly important as the level of renewable generation approaches 33% by 2020, and is expected to be increased beyond that level in the long-term.</p>
+<h3><span class="mw-headline" id="Indiana.2C_US">Indiana, US</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Energy_demand_management&amp;action=edit&amp;section=13" title="Edit section: Indiana, US">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The Aloca's Warrick Operation is participating in MISO as a qualified demand response resource, which means it is providing demand response in terms of energy, spinning reserve, and regulation service.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup><sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup></p>
+<h3><span class="mw-headline" id="Brazil">Brazil</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Energy_demand_management&amp;action=edit&amp;section=14" title="Edit section: Brazil">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Demand-side management can apply to electricity system based on thermal power plants or to systems where <a href="/wiki/Renewable_energy" title="Renewable energy">renewable energy</a>, as <a href="/wiki/Hydroelectricity" title="Hydroelectricity">hydroelectricity</a>, is predominant but with a complementary <a href="/wiki/Thermoelectric" class="mw-redirect" title="Thermoelectric">thermal generation</a>, for instance, in <a href="/wiki/Brazil" title="Brazil">Brazil</a>.</p>
+<p>In Brazil’s case, despite the generation of <a href="/wiki/Renewable_energy_in_Brazil#Hydroelectric_power" title="Renewable energy in Brazil">hydroelectric power</a> corresponds to more than 80% of the total, to achieve a practical balance in the generation system, the energy generated by hydroelectric plants supplies the consumption below the <a href="/wiki/Peak_demand" title="Peak demand">peak demand</a>. Peak generation is supplied by the use of fossil-fuel power plants. In 2008, Brazilian consumers paid more than U$1 billion<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup> for complementary thermoelectric generation not previously programmed.</p>
+<p>In Brazil, the consumer pays for all the investment to provide energy, even if a plant sits idle. For most fossil-fuel thermal plants, the consumers pay for the "fuels" and others operation costs only when these plants generate energy. The energy, per unit generated, is more expensive from thermal plants than from hydroelectric. Only a few of the Brazilian's thermoelectric plants use <a href="/wiki/Natural_gas" title="Natural gas">natural gas</a>, so they <a href="/wiki/Pollution" title="Pollution">pollute</a> significantly more. The power generated to meet the peak demand has higher costs—both investment and operating costs—and the pollution has a significant environmental cost and potentially, financial and social liability for its use. Thus, the expansion and the operation of the current system is not as efficient as it could be using demand side management. The consequence of this inefficiency is an increase in energy tariffs ... passed on to the consumers.</p>
+<p>Moreover, because <a href="/wiki/Electric_energy" class="mw-redirect" title="Electric energy">electric energy</a> is generated and consumed almost instantaneously, all the facilities, as transmission lines and distribution nets, are built for peak consumption. During the non-peak periods their full capacity is not utilized.</p>
+<p>The reduction of peak consumption can benefit the efficiency of the electric systems, like the Brazilian system, in some senses: as deferring new investments in distribution and transmission networks, and reducing the necessity of complementary thermal power operation during peak periods, which can diminish both the payment for investment in new power plants to supply only during the peak period and the environmental impact associated with <a href="/wiki/Greenhouse_gas" title="Greenhouse gas">greenhouse gas emission</a>.</p>
+<h2><span class="mw-headline" id="Problems">Problems</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Energy_demand_management&amp;action=edit&amp;section=15" title="Edit section: Problems">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Some people argue that demand-side management has been ineffective because it has often resulted in higher utility costs for consumers and less profit for utilities.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup></p>
+<p>One of the main goals of demand side management is to be able to charge the consumer based on the true price of the utilities at that time. If consumers could be charged less for using electricity during off-peak hours, and more during peak hours, then <a href="/wiki/Supply_and_demand" title="Supply and demand">supply and demand</a> would theoretically encourage the consumer to use less electricity during peak hours, thus achieving the main goal of demand side management.</p>
+<p>Another problem of DSM is privacy: The consumers have to provide some information about their usage of electricity to their electricity company. This is less of a problem now as people are used to suppliers noting purchasing patterns through mechanisms such as "loyalty cards".</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Energy_demand_management&amp;action=edit&amp;section=16" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a href="/wiki/File:Crystal_energy.svg" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/29px-Crystal_energy.svg.png" width="29" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/44px-Crystal_energy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/59px-Crystal_energy.svg.png 2x" data-file-width="130" data-file-height="124" /></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Energy" title="Portal:Energy">Energy portal</a></span></li>
+</ul>
+</div>
+<div class="div-col columns column-width" style="-moz-column-width: 24em; -webkit-column-width: 24em; column-width: 24em;">
+<ul>
+<li><a href="/wiki/Alternative_fuel" title="Alternative fuel">Alternative fuel</a></li>
+<li><a href="/wiki/Battery-to-grid" class="mw-redirect" title="Battery-to-grid">Battery-to-grid</a></li>
+<li><a href="/wiki/Dynamic_demand_(electric_power)" title="Dynamic demand (electric power)">Dynamic demand (electric power)</a></li>
+<li><a href="/wiki/Demand_response" title="Demand response">Demand response</a></li>
+<li><a href="/wiki/Duck_curve" title="Duck curve">Duck curve</a></li>
+<li><a href="/wiki/Energy_conservation" title="Energy conservation">Energy conservation</a></li>
+<li><a href="/wiki/Energy_intensity" title="Energy intensity">Energy intensity</a></li>
+<li><a href="/wiki/Energy_Storage_as_a_Service_(ESaaS)" title="Energy Storage as a Service (ESaaS)">Energy Storage as a Service (ESaaS)</a></li>
+<li><a href="/wiki/Grid_energy_storage" title="Grid energy storage">Grid energy storage</a></li>
+<li><a href="/wiki/GridLAB-D" title="GridLAB-D">GridLAB-D</a></li>
+<li><a href="/wiki/List_of_energy_storage_projects" title="List of energy storage projects">List of energy storage projects</a></li>
+<li><a href="/wiki/Load_profile" title="Load profile">Load profile</a></li>
+<li><a href="/wiki/Load_management" title="Load management">Load management</a></li>
+<li><a href="/wiki/Net_metering#Time_of_use_metering" title="Net metering">Time of Use</a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Energy_demand_management&amp;action=edit&amp;section=17" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.ofgem.gov.uk/electricity/retail-market/market-review-and-reform/smarter-markets-programme/electricity-system-flexibility">"Electricity system flexibility"</a>. <i>Ofgem</i>. Government of United Kingdom<span class="reference-accessdate">. Retrieved <span class="nowrap">7 September</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnergy+demand+management&amp;rft.atitle=Electricity+system+flexibility&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fwww.ofgem.gov.uk%2Felectricity%2Fretail-market%2Fmarket-review-and-reform%2Fsmarter-markets-programme%2Felectricity-system-flexibility&amp;rft.jtitle=Ofgem&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation journal">Wei-Yu Chiu; Hongjian Sun; H.V. Poor (June 2013). <a rel="nofollow" class="external text" href="https://www.researchgate.net/publication/233398050_Energy_Imbalance_Management_Using_a_Robust_Pricing_Scheme">"Energy Imbalance Management Using a Robust Pricing Scheme"</a>. <i>IEEE Transactions on Smart Grid</i>. <b>4</b> (2): 896–904. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1109%2FTSG.2012.2216554">10.1109/TSG.2012.2216554</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/1949-3053">1949-3053</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnergy+demand+management&amp;rft.atitle=Energy+Imbalance+Management+Using+a+Robust+Pricing+Scheme&amp;rft.au=Hongjian+Sun&amp;rft.au=H.V.+Poor&amp;rft.au=Wei-Yu+Chiu&amp;rft.date=2013-06&amp;rft.genre=article&amp;rft_id=https%3A%2F%2Fwww.researchgate.net%2Fpublication%2F233398050_Energy_Imbalance_Management_Using_a_Robust_Pricing_Scheme&amp;rft_id=info%3Adoi%2F10.1109%2FTSG.2012.2216554&amp;rft.issn=1949-3053&amp;rft.issue=2&amp;rft.jtitle=IEEE+Transactions+on+Smart+Grid&amp;rft.pages=896-904&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=4" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.energy.wa.gov.au/2/3203/64/demand_management.pm">"Demand Management"</a>. <i>Office of Energy</i>. Government of Western Australia<span class="reference-accessdate">. Retrieved <span class="nowrap">30 November</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnergy+demand+management&amp;rft.atitle=Demand+Management&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.energy.wa.gov.au%2F2%2F3203%2F64%2Fdemand_management.pm&amp;rft.jtitle=Office+of+Energy&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation journal">Wei-Yu Chiu; Hongjian Sun; H.V. Poor (November 2012). "Demand-side energy storage system management in smart grid". <i>2012 IEEE Third International Conference on Smart Grid Communications (SmartGridComm)</i>: 73, 78, 5–8. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1109%2FSmartGridComm.2012.6485962">10.1109/SmartGridComm.2012.6485962</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnergy+demand+management&amp;rft.atitle=Demand-side+energy+storage+system+management+in+smart+grid&amp;rft.au=Hongjian+Sun&amp;rft.au=H.V.+Poor&amp;rft.au=Wei-Yu+Chiu&amp;rft.date=2012-11&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1109%2FSmartGridComm.2012.6485962&amp;rft.jtitle=2012+IEEE+Third+International+Conference+on+Smart+Grid+Communications+%28SmartGridComm%29&amp;rft.pages=73%2C+78%2C+5-8&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation journal">Jeffery Greenblatt; Jane Long (September 2012). <a rel="nofollow" class="external text" href="http://ccst.us/publications/2012/2012ghg.pdf">"California's Energy Future: Portraits of Energy Systems for Meeting Greenhouse Gas Reduction Targets"</a> <span style="font-size:85%;">(PDF)</span>. California Council on Science and Technology: 46–47.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnergy+demand+management&amp;rft.atitle=California%99s+Energy+Future%3A+Portraits+of+Energy+Systems+for+Meeting+Greenhouse+Gas+Reduction+Targets&amp;rft.au=Jane+Long&amp;rft.au=Jeffery+Greenblatt&amp;rft.date=2012-09&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fccst.us%2Fpublications%2F2012%2F2012ghg.pdf&amp;rft.pages=46-47&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-lund-etal-2015-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-lund-etal-2015_6-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Lund, Peter D; Lindgren, Juuso; Mikkola, Jani; Salpakari, Jyri (2015). "Review of energy system flexibility measures to enable high levels of variable renewable electricity". <i><a href="/wiki/Renewable_and_Sustainable_Energy_Reviews" title="Renewable and Sustainable Energy Reviews">Renewable and Sustainable Energy Reviews</a></i>. <b>45</b>: 785–807. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2Fj.rser.2015.01.057">10.1016/j.rser.2015.01.057</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnergy+demand+management&amp;rft.atitle=Review+of+energy+system+flexibility+measures+to+enable+high+levels+of+variable+renewable+electricity&amp;rft.aufirst=Peter+D&amp;rft.aulast=Lund&amp;rft.au=Lindgren%2C+Juuso&amp;rft.au=Mikkola%2C+Jani&amp;rft.au=Salpakari%2C+Jyri&amp;rft.date=2015&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2Fj.rser.2015.01.057&amp;rft.jtitle=Renewable+and+Sustainable+Energy+Reviews&amp;rft.pages=785-807&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=45" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><i>UCSUSA</i>. UCSUSA <a rel="nofollow" class="external free" href="http://www.ucsusa.org/clean_energy/smart-energy-solutions/strengthen-policy/public-utility-regulatory.html">http://www.ucsusa.org/clean_energy/smart-energy-solutions/strengthen-policy/public-utility-regulatory.html</a><span class="reference-accessdate">. Retrieved <span class="nowrap">3 December</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnergy+demand+management&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.ucsusa.org%2Fclean_energy%2Fsmart-energy-solutions%2Fstrengthen-policy%2Fpublic-utility-regulatory.html&amp;rft.jtitle=UCSUSA&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span> <span style="font-size:100%" class="error citation-comment">Missing or empty <code style="color:inherit; border:inherit; padding:inherit;">|title=</code> (<a href="/wiki/Help:CS1_errors#citation_missing_title" title="Help:CS1 errors">help</a>)</span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation book">Torriti, Jacopo (2016). <a rel="nofollow" class="external text" href="https://www.routledge.com/products/9781138016255"><i>Peak energy demand and Demand Side Response</i></a>. Routledge. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9781138016255" title="Special:BookSources/9781138016255">9781138016255</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnergy+demand+management&amp;rft.au=Torriti%2C+Jacopo&amp;rft.btitle=Peak+energy+demand+and+Demand+Side+Response&amp;rft.date=2016&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fwww.routledge.com%2Fproducts%2F9781138016255&amp;rft.isbn=9781138016255&amp;rft.pub=Routledge&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation journal">Balijepalli, Murthy; Pradhan, Khaparde (2011). "Review of Demand Response under Smart Grid Paradigm". <i>IEEE PES Innovative Smart Grid Technologies</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnergy+demand+management&amp;rft.atitle=Review+of+Demand+Response+under+Smart+Grid+Paradigm&amp;rft.aufirst=Murthy&amp;rft.aulast=Balijepalli&amp;rft.au=Pradhan%2C+Khaparde&amp;rft.date=2011&amp;rft.genre=article&amp;rft.jtitle=IEEE+PES+Innovative+Smart+Grid+Technologies&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><i>ACEEE</i>. ACEEE <a rel="nofollow" class="external free" href="http://www.ucsusa.org/clean_energy/smart-energy-solutions/strengthen-policy/public-utility-regulatory.html">http://www.ucsusa.org/clean_energy/smart-energy-solutions/strengthen-policy/public-utility-regulatory.html</a><span class="reference-accessdate">. Retrieved <span class="nowrap">3 December</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnergy+demand+management&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.ucsusa.org%2Fclean_energy%2Fsmart-energy-solutions%2Fstrengthen-policy%2Fpublic-utility-regulatory.html&amp;rft.jtitle=ACEEE&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span> <span style="font-size:100%" class="error citation-comment">Missing or empty <code style="color:inherit; border:inherit; padding:inherit;">|title=</code> (<a href="/wiki/Help:CS1_errors#citation_missing_title" title="Help:CS1 errors">help</a>)</span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">Sila Kiliccote; Pamela Sporborg; Imran Sheikh; Erich Huffaker; and Mary Ann Piette; "Integrating Renewable Resources in California and the Role of Automated Demand Response," Lawrence Berkeley National Lab (Environmental Energy Technologies Division), Nov. 2010</span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation journal">Albadi, M. H.; E. F. El-Saadany (2007). "Demand Response in Electricity Markets: An Overview". <i>IEEE</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnergy+demand+management&amp;rft.atitle=Demand+Response+in+Electricity+Markets%3A+An+Overview&amp;rft.au=E.+F.+El-Saadany&amp;rft.aufirst=M.+H.&amp;rft.aulast=Albadi&amp;rft.date=2007&amp;rft.genre=article&amp;rft.jtitle=IEEE&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation journal">Torriti; et al. (2010). <a rel="nofollow" class="external text" href="http://www.sciencedirect.com/science/article/pii/S0360544209002060">"Demand response experience in Europe: policies, programmes and implementation"</a>. <i>Energy</i>. <b>35</b> (4): 1575–1583. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2Fj.energy.2009.05.021">10.1016/j.energy.2009.05.021</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnergy+demand+management&amp;rft.atitle=Demand+response+experience+in+Europe%3A+policies%2C+programmes+and+implementation&amp;rft.au=Torriti&amp;rft.date=2010&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS0360544209002060&amp;rft_id=info%3Adoi%2F10.1016%2Fj.energy.2009.05.021&amp;rft.issue=4&amp;rft.jtitle=Energy&amp;rft.pages=1575-1583&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=35" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.freepatentsonline.com/4317049.html">US-Patent No. 4,317,049: Frequency adaptive, power-energy re-scheduler</a></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text">Palensky, P., &amp; Dietrich, D. (2011). Demand Side Management: Demand Response, Intelligent Energy Systems, and Smart Loads. Industrial Informatics, IEEE Transactions on, 7(3), 381-388. doi:10.1109/TII.2011.2158841</span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text">Kidd, W. L. (1975). Development, design and use of ripple control. Electrical Engineers, Proceedings of the Institution of, 122(10), 993. doi:10.1049/piee.1975.0260</span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text">Liu, A. L., Ledwich, G., &amp; Miller, W. (2016). Demand side management with stepped model predictive control. Paper presented at the Australasian Universities Power Engineering Conference, The University of Queensland, Brisbane, Qld. <a rel="nofollow" class="external free" href="http://eprints.qut.edu.au/99914/">http://eprints.qut.edu.au/99914/</a></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.climatechange.qld.gov.au/pdf/factsheets/1energy-b1.pdf">"Energy Conservation and Demand Management Program"</a> <span style="font-size:85%;">(PDF)</span>. <i>Queensland Government</i>. Queensland Government<span class="reference-accessdate">. Retrieved <span class="nowrap">2 December</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnergy+demand+management&amp;rft.atitle=Energy+Conservation+and+Demand+Management+Program&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.climatechange.qld.gov.au%2Fpdf%2Ffactsheets%2F1energy-b1.pdf&amp;rft.jtitle=Queensland+Government&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation conference">Aaron Lei Liu; Gerard Ledwich; Wendy Miller (2015). <a rel="nofollow" class="external text" href="http://ieeexplore.ieee.org/document/7381047/?reload=true&amp;arnumber=7381047"><i>Single household domestic water heater design and control utilising PV energy: The untapped energy storage solution</i></a>. IEEE. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1109%2FAPPEEC.2015.7381047">10.1109/APPEEC.2015.7381047</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnergy+demand+management&amp;rft.au=Aaron+Lei+Liu&amp;rft.au=Gerard+Ledwich&amp;rft.au=Wendy+Miller&amp;rft.btitle=Single+household+domestic+water+heater+design+and+control+utilising+PV+energy%3A+The+untapped+energy+storage+solution&amp;rft.date=2015&amp;rft.genre=conference&amp;rft_id=http%3A%2F%2Fieeexplore.ieee.org%2Fdocument%2F7381047%2F%3Freload%3Dtrue%26arnumber%3D7381047&amp;rft_id=info%3Adoi%2F10.1109%2FAPPEEC.2015.7381047&amp;rft.pub=IEEE&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation web">Bradbury, Danny (5 November 2007). <a rel="nofollow" class="external text" href="http://www.businessgreen.com/bg/analysis/1804282/volatile-energy-prices-demand-form-management">"Volatile energy prices demand new form of management"</a>. <i>businessGreen</i>. Association of Online Publishers<span class="reference-accessdate">. Retrieved <span class="nowrap">2 December</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnergy+demand+management&amp;rft.atitle=Volatile+energy+prices+demand+new+form+of+management&amp;rft.au=Bradbury%2C+Danny&amp;rft.date=2007-11-05&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.businessgreen.com%2Fbg%2Fanalysis%2F1804282%2Fvolatile-energy-prices-demand-form-management&amp;rft.jtitle=businessGreen&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://eaei.lbl.gov/sites/all/files/Providing_Reliability_Services_through_Demand_Response__A_Preliminary_Evaluation_of_the_Demand_Response_Capabilities_of_Alcoa_Inc..pdf">"Providing Reliability Services through Demand Response: A Preliminary Evaluation of the Demand Response Capabilities of Alcoa Inc."</a> <span style="font-size:85%;">(PDF)</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnergy+demand+management&amp;rft.btitle=Providing+Reliability+Services+through+Demand+Response%3A+A+Preliminary+Evaluation+of+the+Demand+Response+Capabilities+of+Alcoa+Inc.&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Feaei.lbl.gov%2Fsites%2Fall%2Ffiles%2FProviding_Reliability_Services_through_Demand_Response__A_Preliminary_Evaluation_of_the_Demand_Response_Capabilities_of_Alcoa_Inc..pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation journal">Zhang, X.; Hug, G. (2015-02-01). <a rel="nofollow" class="external text" href="http://ieeexplore.ieee.org/lpdocs/epic03/wrapper.htm?arnumber=7131854">"Bidding strategy in energy and spinning reserve markets for aluminum smelters' demand response"</a>. <i>Innovative Smart Grid Technologies Conference (ISGT), 2015 IEEE Power Energy Society</i>: 1–5. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1109%2FISGT.2015.7131854">10.1109/ISGT.2015.7131854</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnergy+demand+management&amp;rft.atitle=Bidding+strategy+in+energy+and+spinning+reserve+markets+for+aluminum+smelters%27+demand+response&amp;rft.aufirst=X.&amp;rft.au=Hug%2C+G.&amp;rft.aulast=Zhang&amp;rft.date=2015-02-01&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fieeexplore.ieee.org%2Flpdocs%2Fepic03%2Fwrapper.htm%3Farnumber%3D7131854&amp;rft_id=info%3Adoi%2F10.1109%2FISGT.2015.7131854&amp;rft.jtitle=Innovative+Smart+Grid+Technologies+Conference+%28ISGT%29%2C+2015+IEEE+Power+Energy+Society&amp;rft.pages=1-5&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation journal">CCEE (2008). <a rel="nofollow" class="external text" href="http://www.ccee.org.br/StaticFile/Arquivo/biblioteca_virtual/Relatorios_Publico/Anual/relatorio_anual_2008.pdf">"Relatório de Informações ao Público"</a> <span style="font-size:85%;">(PDF)</span>. <i>Análise Anual</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnergy+demand+management&amp;rft.atitle=Relat%C3%B3rio+de+Informa%C3%A7%C3%B5es+ao+P%C3%BAblico&amp;rft.au=CCEE&amp;rft.date=2008&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.ccee.org.br%2FStaticFile%2FArquivo%2Fbiblioteca_virtual%2FRelatorios_Publico%2FAnual%2Frelatorio_anual_2008.pdf&amp;rft.jtitle=An%C3%A1lise+Anual&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text">Katz, Myron. "<a rel="nofollow" class="external text" href="http://www.sciencedirect.com/science?_ob=ArticleURL&amp;_udi=B6X1T-45GNVWF-14&amp;_user=10&amp;_coverDate=04/30/1992&amp;_rdoc=1&amp;_fmt=high&amp;_orig=search&amp;_origin=search&amp;_sort=d&amp;_docanchor=&amp;view=c&amp;_searchStrId=1566317397&amp;_rerunOrigin=google&amp;_acct=C000050221&amp;_version=1&amp;_urlVersion=0&amp;_userid=10&amp;md5=043ab27bf4b1566f24d7a01508234929&amp;searchtype=a">Demand Side Management: Reflections of an Irreverent Regulator</a>." ScienceDirect. Oregon Public Utility Commission, 01 Apr 2002. Web. 3 Dec 2010.</span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Energy_demand_management&amp;action=edit&amp;section=18" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><cite class="citation journal">Loughran; David S. &amp; Jonathan Kulick (2004). "Demand-Side Management and Energy Efficiency in the United States". <i>The Energy Journal</i>. <b>25</b> (1): 19–43. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.5547%2Fissn0195-6574-ej-vol25-no1-2">10.5547/issn0195-6574-ej-vol25-no1-2</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/0195-6574">0195-6574</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnergy+demand+management&amp;rft.atitle=Demand-Side+Management+and+Energy+Efficiency+in+the+United+States&amp;rft.au=David+S.&amp;rft.au=Jonathan+Kulick&amp;rft.au=Loughran&amp;rft.date=2004&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.5547%2Fissn0195-6574-ej-vol25-no1-2&amp;rft.issn=0195-6574&amp;rft.issue=1&amp;rft.jtitle=The+Energy+Journal&amp;rft.pages=19-43&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=25" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation web">Dunn, Rodney (23 June 2002). <a rel="nofollow" class="external text" href="http://www.eia.doe.gov/cneaf/electricity/dsm99/dsm_sum99.html">"Electric Utility Demand-Side Management 1999"</a>. US Energy Information Administration<span class="reference-accessdate">. Retrieved <span class="nowrap">9 November</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnergy+demand+management&amp;rft.au=Dunn%2C+Rodney&amp;rft.btitle=Electric+Utility+Demand-Side+Management+1999&amp;rft.date=2002-06-23&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.eia.doe.gov%2Fcneaf%2Felectricity%2Fdsm99%2Fdsm_sum99.html&amp;rft.pub=US+Energy+Information+Administration&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span>.</li>
+<li><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.pacificorp.com/es/dsm.html">"Demand-Side Management"</a>. <i>Pacificorp: A Midamerican Energy Holdings Company</i>. 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">9 November</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnergy+demand+management&amp;rft.atitle=Demand-Side+Management&amp;rft.date=2010&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.pacificorp.com%2Fes%2Fdsm.html&amp;rft.jtitle=Pacificorp%3A+A+Midamerican+Energy+Holdings+Company&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation journal">Sarkar, Ashok &amp; Singh, Jas (October 2009). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20100813190037/http://www.usea.org/Programs/EUPP/gee/presentations/Wednesday/Singh_Notes_ESMAP_EE_Financing_Scale_Up_Energy_Policy_draft.pdf">"Financing Energy Efficiency in Developing Countries – Lessons Learned and Remaining Challenges"</a> <span style="font-size:85%;">(PDF)</span>. <i>United States Energy Association</i>. The World Bank. Archived from <a rel="nofollow" class="external text" href="http://www.usea.org/Programs/EUPP/gee/presentations/Wednesday/Singh_Notes_ESMAP_EE_Financing_Scale_Up_Energy_Policy_draft.pdf">the original</a> <span style="font-size:85%;">(PDF)</span> on 13 August 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">9 November</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnergy+demand+management&amp;rft.atitle=Financing+Energy+Efficiency+in+Developing+Countries+%93+Lessons+Learned+and+Remaining+Challenges&amp;rft.au=Sarkar%2C+Ashok&amp;rft.au=Singh%2C+Jas&amp;rft.date=2009-10&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.usea.org%2FPrograms%2FEUPP%2Fgee%2Fpresentations%2FWednesday%2FSingh_Notes_ESMAP_EE_Financing_Scale_Up_Energy_Policy_draft.pdf&amp;rft.jtitle=United+States+Energy+Association&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span>.</li>
+<li><cite class="citation web">Simmons, Daniel (20 May 2010). <a rel="nofollow" class="external text" href="https://www.masterresource.org/demand-side-management/demand-side-management-government-planning/">"Demand-Side Management: Government Planning, Not Market Conservation (Testimony of Dan Simmons Before the Georgia Public Service Commission)"</a>. MasterResource<span class="reference-accessdate">. Retrieved <span class="nowrap">9 November</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnergy+demand+management&amp;rft.au=Simmons%2C+Daniel&amp;rft.btitle=Demand-Side+Management%3A+Government+Planning%2C+Not+Market+Conservation+%28Testimony+of+Dan+Simmons+Before+the+Georgia+Public+Service+Commission%29&amp;rft.date=2010-05-20&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fwww.masterresource.org%2Fdemand-side-management%2Fdemand-side-management-government-planning%2F&amp;rft.pub=MasterResource&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<h3><span class="mw-headline" id="Works_cited">Works cited</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Energy_demand_management&amp;action=edit&amp;section=19" title="Edit section: Works cited">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><cite class="citation report"><a rel="nofollow" class="external text" href="http://www.pacificorp.com/content/dam/pacificorp/doc/Energy_Sources/Demand_Side_Management/Demand_Side_Management.pdf">Assessment of Long Term, System Wide Potential for Demand-Side and Other Supplemental Resources</a> <span style="font-size:85%;">(PDF)</span>. <i>PacificCorp</i> (Report). <b>1</b> (Final Report ed.). Portland: Quantec. 2006<span class="reference-accessdate">. Retrieved <span class="nowrap">7 November</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnergy+demand+management&amp;rft.btitle=Assessment+of+Long+Term%2C+System+Wide+Potential+for+Demand-Side+and+Other+Supplemental+Resources&amp;rft.date=2006&amp;rft.edition=Final+Report&amp;rft.genre=report&amp;rft_id=http%3A%2F%2Fwww.pacificorp.com%2Fcontent%2Fdam%2Fpacificorp%2Fdoc%2FEnergy_Sources%2FDemand_Side_Management%2FDemand_Side_Management.pdf&amp;rft.place=Portland&amp;rft.pub=Quantec&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation journal">Brennan, Timothy J (2010). <a rel="nofollow" class="external text" href="http://www.rff.org/files/sharepoint/WorkImages/Download/RFF-DP-08-46.pdf">"Optimal Energy Efficiency Policies and Regulatory Demand-side Management Tests: How Well Do They Match?"</a> <span style="font-size:85%;">(PDF)</span>. <i>Energy Policy</i>. Environmental Sciences and Pollution Mgmt. <b>38</b> (8)<span class="reference-accessdate">. Retrieved <span class="nowrap">7 November</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnergy+demand+management&amp;rft.atitle=Optimal+Energy+Efficiency+Policies+and+Regulatory+Demand-side+Management+Tests%3A+How+Well+Do+They+Match%3F&amp;rft.au=Brennan%2C+Timothy+J&amp;rft.date=2010&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.rff.org%2Ffiles%2Fsharepoint%2FWorkImages%2FDownload%2FRFF-DP-08-46.pdf&amp;rft.issue=8&amp;rft.jtitle=Energy+Policy&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=38" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation journal">Moura, Pedro S. &amp; Anibal T. De Almeida (2010). <a rel="nofollow" class="external text" href="https://www.researchgate.net/publication/227413246_The_role_of_demand-side_management_in_the_grid_integration_of_wind_power">"The Role of Demand-side Management in the Grid Integration of Wind Power"</a>. <i>Applied Energy</i>. Environmental Sciences and Pollution Mgmt. <b>87</b> (8): 2581–588. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2Fj.apenergy.2010.03.019">10.1016/j.apenergy.2010.03.019</a><span class="reference-accessdate">. Retrieved <span class="nowrap">7 November</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnergy+demand+management&amp;rft.atitle=The+Role+of+Demand-side+Management+in+the+Grid+Integration+of+Wind+Power&amp;rft.au=Anibal+T.+De+Almeida&amp;rft.au=Moura%2C+Pedro+S.&amp;rft.date=2010&amp;rft.genre=article&amp;rft_id=https%3A%2F%2Fwww.researchgate.net%2Fpublication%2F227413246_The_role_of_demand-side_management_in_the_grid_integration_of_wind_power&amp;rft_id=info%3Adoi%2F10.1016%2Fj.apenergy.2010.03.019&amp;rft.issue=8&amp;rft.jtitle=Applied+Energy&amp;rft.pages=2581-588&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=87" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation report"><a rel="nofollow" class="external text" href="http://siteresources.worldbank.org/INTENERGY/Resources/PrimeronDemand-SideManagement.pdf">Primer on Demand-Side Management</a> <span style="font-size:85%;">(PDf)</span> (Report) (Rep. no. D06090 ed.). Oakland: Charles River Associates. 2005.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnergy+demand+management&amp;rft.btitle=Primer+on+Demand-Side+Management&amp;rft.date=2005&amp;rft.edition=Rep.+no.+D06090&amp;rft.genre=report&amp;rft_id=http%3A%2F%2Fsiteresources.worldbank.org%2FINTENERGY%2FResources%2FPrimeronDemand-SideManagement.pdf&amp;rft.place=Oakland&amp;rft.pub=Charles+River+Associates&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Energy_demand_management&amp;action=edit&amp;section=20" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://dsm.iea.org/">Demand-Side Management Programme</a> <a href="/wiki/International_Energy_Agency" title="International Energy Agency">IEA</a></li>
+<li><a rel="nofollow" class="external text" href="http://reports.eea.eu.int/technical_report_2004_1/en">Energy subsidies in the European Union: A brief overview</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.amiando.com/managing-energy-demand-09.html">Managing Energy Demand seminar Bern, nov 4 2009</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.sciencedirect.com/science/article/pii/S0301421512000651">Demand Side Management for the European Supergrid</a></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Electricity_delivery" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Electricity_delivery" title="Template:Electricity delivery"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Electricity_delivery" title="Template talk:Electricity delivery"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Electricity_delivery&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Electricity_delivery" style="font-size:114%"><a href="/wiki/Electricity_delivery" title="Electricity delivery">Electricity delivery</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Concepts</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Availability_factor" title="Availability factor">Availability factor</a></li>
+<li><a href="/wiki/Automatic_generation_control" class="mw-redirect" title="Automatic generation control">Automatic generation control</a></li>
+<li><a href="/wiki/Base_load" title="Base load">Base load</a></li>
+<li><a href="/wiki/Black_start" title="Black start">Black start</a></li>
+<li><a href="/wiki/Capacity_factor" title="Capacity factor">Capacity factor</a></li>
+<li><a href="/wiki/Demand_factor" title="Demand factor">Demand factor</a></li>
+<li><a href="/wiki/Droop_speed_control" title="Droop speed control">Droop speed control</a></li>
+<li><strong class="selflink">Demand management</strong></li>
+<li><a href="/wiki/Energy_returned_on_energy_invested" title="Energy returned on energy invested">EROEI</a></li>
+<li><a href="/wiki/Fault_(power_engineering)" title="Fault (power engineering)">Fault</a></li>
+<li><a href="/wiki/Grid_energy_storage" title="Grid energy storage">Grid storage</a></li>
+<li><a href="/wiki/Intermittent_energy_source" title="Intermittent energy source">Intermittency</a></li>
+<li><a href="/wiki/Load_factor_(electrical)" title="Load factor (electrical)">Load factor</a></li>
+<li><a href="/wiki/Load_following_power_plant" title="Load following power plant">Load following</a></li>
+<li><a href="/wiki/Nameplate_capacity" title="Nameplate capacity">Nameplate capacity</a></li>
+<li><a href="/wiki/Peak_demand" title="Peak demand">Peak demand</a></li>
+<li><a href="/wiki/Electric_power_quality" title="Electric power quality">Power quality</a></li>
+<li><a href="/wiki/Power-flow_study" title="Power-flow study">Power-flow study</a></li>
+<li><a href="/wiki/Repowering" title="Repowering">Repowering</a></li>
+<li><a href="/wiki/Variable_renewable_energy" title="Variable renewable energy">Variability</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Sources</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;width:7em;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Non-renewable_energy" class="mw-redirect" title="Non-renewable energy">Nonrenewable</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Coal" title="Coal">Coal</a></li>
+<li><a href="/wiki/Fossil_fuel_power_station" title="Fossil fuel power station">Fossil fuel power station</a></li>
+<li><a href="/wiki/Natural_gas" title="Natural gas">Natural gas</a></li>
+<li><a href="/wiki/Petroleum" title="Petroleum">Petroleum</a></li>
+<li><a href="/wiki/Nuclear_power" title="Nuclear power">Nuclear</a></li>
+<li><a href="/wiki/Oil_shale" title="Oil shale">Oil shale</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;width:7em;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Renewable_energy" title="Renewable energy">Renewable</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Biomass" title="Biomass">Biomass</a></li>
+<li><a href="/wiki/Biofuel" title="Biofuel">Biofuel</a></li>
+<li><a href="/wiki/Geothermal_power" title="Geothermal power">Geothermal</a></li>
+<li><a href="/wiki/Hydroelectricity" title="Hydroelectricity">Hydro</a></li>
+<li><a href="/wiki/Marine_energy" title="Marine energy">Marine</a>
+<ul>
+<li><a href="/wiki/Marine_current_power" title="Marine current power">Current</a></li>
+<li><a href="/wiki/Osmotic_power" title="Osmotic power">Osmotic</a></li>
+<li><a href="/wiki/Ocean_thermal_energy" class="mw-redirect" title="Ocean thermal energy">Thermal</a></li>
+<li><a href="/wiki/Tidal_power" title="Tidal power">Tidal</a></li>
+<li><a href="/wiki/Wave_power" title="Wave power">Wave</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Solar_power" title="Solar power">Solar</a></li>
+<li><a href="/wiki/Wind_power" title="Wind power">Wind</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Category:Power_station_technology" title="Category:Power station technology">Generation</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/AC_power" title="AC power">AC power</a></li>
+<li><a href="/wiki/Cogeneration" title="Cogeneration">Cogeneration</a></li>
+<li><a href="/wiki/Combined_cycle" title="Combined cycle">Combined cycle</a></li>
+<li><a href="/wiki/Cooling_tower" title="Cooling tower">Cooling tower</a></li>
+<li><a href="/wiki/Induction_generator" title="Induction generator">Induction generator</a></li>
+<li><a href="/wiki/Micro_combined_heat_and_power" title="Micro combined heat and power">Micro CHP</a></li>
+<li><a href="/wiki/Microgeneration" title="Microgeneration">Microgeneration</a></li>
+<li><a href="/wiki/Rankine_cycle" title="Rankine cycle">Rankine cycle</a></li>
+<li><a href="/wiki/Three-phase_electric_power" title="Three-phase electric power">Three-phase electric power</a></li>
+<li><a href="/wiki/Virtual_power_plant" title="Virtual power plant">Virtual power plant</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">
+<div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Electric_power_transmission" title="Electric power transmission">Transmission</a><br />
+and <a href="/wiki/Electric_power_distribution" title="Electric power distribution">distribution</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Power_outage" title="Power outage">Blackout</a> (<a href="/wiki/Rolling_blackout" title="Rolling blackout">Rolling blackout</a>)</li>
+<li><a href="/wiki/Brownout_(electricity)" title="Brownout (electricity)">Brownout</a></li>
+<li><a href="/wiki/Demand_response" title="Demand response">Demand response</a></li>
+<li><a href="/wiki/Distributed_generation" title="Distributed generation">Distributed generation</a></li>
+<li><a href="/wiki/Dynamic_demand_(electric_power)" title="Dynamic demand (electric power)">Dynamic demand</a></li>
+<li><a href="/wiki/Electric_power_distribution" title="Electric power distribution">Electric power distribution</a></li>
+<li><a href="/wiki/Electric_power_system" title="Electric power system">Electric power system</a></li>
+<li><a href="/wiki/Electric_power_transmission" title="Electric power transmission">Electric power transmission</a></li>
+<li><a href="/wiki/Electrical_grid" title="Electrical grid">Electrical grid</a></li>
+<li><a href="/wiki/High-voltage_direct_current" title="High-voltage direct current">High-voltage direct current</a></li>
+<li><a href="/wiki/Load_management" title="Load management">Load management</a></li>
+<li><a href="/wiki/Pumped-storage_hydroelectricity" title="Pumped-storage hydroelectricity">Pumped hydro</a></li>
+<li><a href="/wiki/Power_station" title="Power station">Power station</a></li>
+<li><a href="/wiki/Power_storage" class="mw-redirect" title="Power storage">Power storage</a></li>
+<li><a href="/wiki/Smart_grid" title="Smart grid">Smart grid</a></li>
+<li><a href="/wiki/Electrical_substation" title="Electrical substation">Substation</a></li>
+<li><a href="/wiki/Super_grid" title="Super grid">Super grid</a></li>
+<li><a href="/wiki/Transformer" title="Transformer">Transformer</a></li>
+<li><a href="/wiki/Transmission_system_operator" title="Transmission system operator">Transmission system operator</a> (TSO)</li>
+<li><a href="/wiki/Transmission_tower" title="Transmission tower">Transmission tower</a></li>
+<li><a href="/wiki/Utility_pole" title="Utility pole">Utility pole</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">
+<div style="padding:0.1em 0;line-height:1.2em;">Protective<br />
+devices</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Arc-fault_circuit_interrupter" title="Arc-fault circuit interrupter">Arc-fault circuit interrupter</a></li>
+<li><a href="/wiki/Earth_leakage_circuit_breaker" title="Earth leakage circuit breaker">Earth leakage circuit breaker</a></li>
+<li><a href="/wiki/Residual-current_device" title="Residual-current device">Residual-current device</a> (GFI)</li>
+<li><a href="/wiki/Power-system_protection" title="Power-system protection">Power-system protection</a></li>
+<li><a href="/wiki/Protective_relay" title="Protective relay">Protective relay</a></li>
+<li><a href="/wiki/Digital_protective_relay" title="Digital protective relay">Digital protective relay</a></li>
+<li><a href="/wiki/Sulfur_hexafluoride_circuit_breaker" title="Sulfur hexafluoride circuit breaker">Sulfur hexafluoride circuit breaker</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">
+<div style="padding:0.1em 0;line-height:1.2em;">Economics<br />
+and policies</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Carbon_offset" title="Carbon offset">Carbon offset</a></li>
+<li><a href="/wiki/Cost_of_electricity_by_source" title="Cost of electricity by source">Cost of electricity by source</a></li>
+<li><a href="/wiki/Ecotax" title="Ecotax">Ecotax</a></li>
+<li><a href="/wiki/Energy_subsidies" title="Energy subsidies">Energy subsidies</a></li>
+<li><a href="/wiki/Feed-in_tariff" title="Feed-in tariff">Feed-in tariff</a></li>
+<li><a href="/wiki/Fossil-fuel_phase-out" class="mw-redirect" title="Fossil-fuel phase-out">Fossil-fuel phase-out</a></li>
+<li><a href="/wiki/Net_metering" title="Net metering">Net metering</a></li>
+<li><a href="/wiki/Pigovian_tax" title="Pigovian tax">Pigovian tax</a></li>
+<li><a href="/wiki/Renewable_Energy_Certificates" class="mw-redirect" title="Renewable Energy Certificates">Renewable Energy Certificates</a></li>
+<li><a href="/wiki/Renewable_energy_payments" class="mw-redirect" title="Renewable energy payments">Renewable energy payments</a></li>
+<li><a href="/wiki/Renewable_energy_policy" class="mw-redirect" title="Renewable energy policy">Renewable energy policy</a></li>
+<li><a href="/wiki/Spark_spread" title="Spark spread">Spark spread</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<dl>
+<dt>Categories</dt>
+<dd><a href="/wiki/Category:Electric_power_distribution" title="Category:Electric power distribution">Electric power distribution</a></dd>
+<dd><a href="/wiki/Category:Electricity_economics" title="Category:Electricity economics">Electricity economics</a></dd>
+<dd><a href="/wiki/Category:Power_station_technology" title="Category:Power station technology">Power station technology</a></dd>
+<dt>Portals</dt>
+<dd><a href="/wiki/Portal:Energy" title="Portal:Energy">Energy</a></dd>
+<dd><a href="/wiki/Portal:Renewable_energy" title="Portal:Renewable energy">Renewable energy</a></dd>
+<dd><a href="/wiki/Portal:Sustainable_development" title="Portal:Sustainable development">Sustainable development</a></dd>
+</dl>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1257
+Cached time: 20170129173738
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.200 seconds
+Real time usage: 0.236 seconds
+Preprocessor visited node count: 1660/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 75485/2097152 bytes
+Template argument size: 788/2097152 bytes
+Highest expansion depth: 8/40
+Expensive parser function count: 0/500
+Lua time usage: 0.102/10.000 seconds
+Lua memory usage: 3.23 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  179.307      1 -total
+ 58.88%  105.580      1 Template:Reflist
+ 30.36%   54.438     10 Template:Cite_web
+ 25.45%   45.627     13 Template:Cite_journal
+ 11.69%   20.954      2 Template:Navbox
+ 11.26%   20.191      1 Template:Electricity_generation
+  8.63%   15.470      1 Template:Portal
+  4.43%    7.951      2 Template:Cite_report
+  4.20%    7.529      1 Template:Navbox_subgroup
+  2.90%    5.198      1 Template:Cite_conference
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1595817-0!*!0!!en!4!* and timestamp 20170129173738 and revision id 758978663
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Energy_demand_management&amp;oldid=758978663">https://en.wikipedia.org/w/index.php?title=Energy_demand_management&amp;oldid=758978663</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Market_failure" title="Category:Market failure">Market failure</a></li><li><a href="/wiki/Category:Electric_power_distribution" title="Category:Electric power distribution">Electric power distribution</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Pages_with_citations_lacking_titles" title="Category:Pages with citations lacking titles">Pages with citations lacking titles</a></li><li><a href="/wiki/Category:Pages_with_citations_having_bare_URLs" title="Category:Pages with citations having bare URLs">Pages with citations having bare URLs</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Energy+demand+management" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Energy+demand+management" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Energy_demand_management"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Energy_demand_management"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Energy_demand_management" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Energy_demand_management&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Energy_demand_management&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Energy_demand_management" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Energy_demand_management" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Energy_demand_management&amp;oldid=758978663" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Energy_demand_management&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q1185136" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Energy_demand_management&amp;id=758978663" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Energy+demand+management">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Energy+demand+management&amp;returnto=Energy+demand+management&amp;oldid=758978663&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Energy_demand_management&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%AA%D8%B1%D8%B4%D9%8A%D8%AF_%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9" title="ترشيد الطاقة – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Laststeuerung" title="Laststeuerung – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Energiatarbimise_juhtimine" title="Energiatarbimise juhtimine – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Gesti%C3%B3n_de_la_demanda_energ%C3%A9tica" title="Gestión de la demanda energética – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Ma%C3%AEtrise_de_la_demande_en_%C3%A9nergie" title="Maîtrise de la demande en énergie – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q1185136#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 8 January 2017, at 16:25.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Energy_demand_management&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.200","walltime":"0.236","ppvisitednodes":{"value":1660,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":75485,"limit":2097152},"templateargumentsize":{"value":788,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  179.307      1 -total"," 58.88%  105.580      1 Template:Reflist"," 30.36%   54.438     10 Template:Cite_web"," 25.45%   45.627     13 Template:Cite_journal"," 11.69%   20.954      2 Template:Navbox"," 11.26%   20.191      1 Template:Electricity_generation","  8.63%   15.470      1 Template:Portal","  4.43%    7.951      2 Template:Cite_report","  4.20%    7.529      1 Template:Navbox_subgroup","  2.90%    5.198      1 Template:Cite_conference"]},"scribunto":{"limitreport-timeusage":{"value":"0.102","limit":"10.000"},"limitreport-memusage":{"value":3385624,"limit":52428800}},"cachereport":{"origin":"mw1257","timestamp":"20170129173738","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":309,"wgHostname":"mw1257"});});</script>
+	</body>
+</html>

@@ -1,0 +1,329 @@
+url : https://en.wikipedia.org/wiki/Grid-tie_inverter
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Grid-tie inverter - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Grid-tie_inverter","wgTitle":"Grid-tie inverter","wgCurRevisionId":757605300,"wgRevisionId":757605300,"wgArticleId":11876198,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with limited geographic scope from July 2013","Articles needing additional references from July 2013","All articles needing additional references","Electric power conversion","Electric power systems components"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Grid-tie_inverter","wgRelevantArticleId":11876198,"wgRequestId":"WINIGQpAICwAAHocBJ0AAABK","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q9291636","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.8"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Grid-tie_inverter"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Grid-tie_inverter&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Grid-tie_inverter&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Grid-tie_inverter"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Grid-tie_inverter rootpage-Grid-tie_inverter skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Grid-tie inverter</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><table class="plainlinks metadata ambox ambox-content ambox-multiple_issues compact-ambox" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" data-file-width="40" data-file-height="40" /></div>
+</td>
+<td class="mbox-text">
+<div class="mw-collapsible" style="width:95%; margin: 0.2em 0;"><span class="mbox-text-span"><b>This article has multiple issues.</b> Please help <b><a class="external text" href="//en.wikipedia.org/w/index.php?title=Grid-tie_inverter&amp;action=edit">improve it</a></b> or discuss these issues on the <b><a href="/wiki/Talk:Grid-tie_inverter" title="Talk:Grid-tie inverter">talk page</a></b>. <small><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove these template messages</a>)</i></small></span>
+<div class="mw-collapsible-content" style="margin-top: 0.3em;">
+<table class="plainlinks metadata ambox ambox-content ambox-globalize" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="Globe icon." src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ambox_globe_content.svg/48px-Ambox_globe_content.svg.png" width="48" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ambox_globe_content.svg/73px-Ambox_globe_content.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ambox_globe_content.svg/97px-Ambox_globe_content.svg.png 2x" data-file-width="350" data-file-height="290" /></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">The examples and perspective in this United States <b>may not represent a <a href="/wiki/Wikipedia:WikiProject_Countering_systemic_bias" title="Wikipedia:WikiProject Countering systemic bias">worldwide view</a> of the subject</b>. <span class="hide-when-compact">You may <a class="external text" href="//en.wikipedia.org/w/index.php?title=Grid-tie_inverter&amp;action=edit">improve this article</a>, discuss the issue on the <a href="/wiki/Talk:Grid-tie_inverter" title="Talk:Grid-tie inverter">talk page</a>, or <a href="/wiki/Wikipedia:Article_wizard" title="Wikipedia:Article wizard">create a new article</a>, as appropriate.</span> <small><i>(July 2013)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></span></td>
+</tr>
+</table>
+<table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Grid-tie_inverter&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span> <small><i>(July 2013)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></span></td>
+</tr>
+</table>
+</div>
+</div>
+<small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></td>
+</tr>
+</table>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Onduleur_pour_photovolta%C3%AFque.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/68/Onduleur_pour_photovolta%C3%AFque.jpg/220px-Onduleur_pour_photovolta%C3%AFque.jpg" width="220" height="388" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/6/68/Onduleur_pour_photovolta%C3%AFque.jpg 1.5x" data-file-width="269" data-file-height="475" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Onduleur_pour_photovolta%C3%AFque.jpg" class="internal" title="Enlarge"></a></div>
+Inverter for grid-tied solar panel</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Stainless_steel_95kw_grid-tied_inverter.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Stainless_steel_95kw_grid-tied_inverter.jpg/220px-Stainless_steel_95kw_grid-tied_inverter.jpg" width="220" height="331" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Stainless_steel_95kw_grid-tied_inverter.jpg/330px-Stainless_steel_95kw_grid-tied_inverter.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/6/63/Stainless_steel_95kw_grid-tied_inverter.jpg 2x" data-file-width="384" data-file-height="578" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Stainless_steel_95kw_grid-tied_inverter.jpg" class="internal" title="Enlarge"></a></div>
+Three-phase grid-tie inverter for large solar panel systems</div>
+</div>
+</div>
+<p>A <b><a href="/wiki/Power_inverter" title="Power inverter">grid-tie inverter</a></b> converts <a href="/wiki/Direct_current" title="Direct current">direct current</a> (<a href="/wiki/DC" class="mw-disambig" title="DC">DC</a>) <a href="/wiki/Electricity" title="Electricity">electricity</a> into an <a href="/wiki/Alternating_current" title="Alternating current">alternating current</a> (<a href="/wiki/AC" class="mw-disambig" title="AC">AC</a>) suitable for injecting into an electrical power grid, normally 120V <a href="/wiki/RMS" class="mw-disambig" title="RMS">RMS</a> at 60<a href="/wiki/Hz" class="mw-redirect" title="Hz">Hz</a> or 240V RMS at 50Hz. Grid-tie inverters are used between local electrical power generators: <a href="/wiki/Solar_panel" title="Solar panel">solar panel</a>, <a href="/wiki/Wind_turbine" title="Wind turbine">wind turbine</a>, <a href="/wiki/Hydro-electric" class="mw-redirect" title="Hydro-electric">hydro-electric</a>, and the grid. <sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></p>
+<p>In order to inject electrical power efficiently and safely into the grid, grid-tie inverters must accurately match the voltage and <a href="/wiki/Phase" class="mw-disambig" title="Phase">phase</a> of the grid <a href="/wiki/Sine_wave" title="Sine wave">sine wave</a> AC <a href="/wiki/Waveform" title="Waveform">waveform</a>.</p>
+<p>Some electricity companies will pay for electrical power that is injected into the grid.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Payment_for_injected_power"><span class="tocnumber">1</span> <span class="toctext">Payment for injected power</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Operation"><span class="tocnumber">2</span> <span class="toctext">Operation</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Types"><span class="tocnumber">3</span> <span class="toctext">Types</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Datasheets"><span class="tocnumber">4</span> <span class="toctext">Datasheets</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References_and_further_reading"><span class="tocnumber">6</span> <span class="toctext">References and further reading</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Payment_for_injected_power">Payment for injected power</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Grid-tie_inverter&amp;action=edit&amp;section=1" title="Edit section: Payment for injected power">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Electricity companies, in some countries, pay for electrical power that is injected into the electricity utility grid. Payment is arranged in several ways.</p>
+<p>With <a href="/wiki/Net_metering" title="Net metering">net metering</a> the electricity company pays for the net power injected into the grid, as recorded by a meter in the customer's premises. For example, a customer may consume 400 kilowatt-hours over a month and may return 500 kilowatt-hours to the grid in the same month. In this case the electricity company would pay for the 100 kilowatt hours balance of power fed back into the grid. In the US, net metering policies vary by jurisdiction.</p>
+<p><a href="/wiki/Feed-in_tariff" title="Feed-in tariff">Feed-in tariff</a>, based on a contract with a distribution company or other power authority, is where the customer is paid for electrical power injected into the grid.</p>
+<p>In the United States, grid-interactive power systems are specified in the <a href="/wiki/National_Electric_Code" class="mw-redirect" title="National Electric Code">National Electric Code</a>, which also mandates requirements for grid-interactive inverters.</p>
+<h2><span class="mw-headline" id="Operation">Operation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Grid-tie_inverter&amp;action=edit&amp;section=2" title="Edit section: Operation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Grid-tie inverters convert DC electrical power into AC power suitable for injecting into the electric utility company grid. The grid tie inverter (GTI) must match the phase of the grid and maintain the output voltage slightly higher than the grid voltage at any instant. A high-quality modern grid-tie inverter has a fixed unity power factor, which means its output voltage and current are perfectly lined up, and its phase angle is within 1 degree of the AC power grid. The inverter has an on-board computer which senses the current AC grid waveform, and outputs a voltage to correspond with the grid. However, supplying reactive power to the grid might be necessary to keep the voltage in the local grid inside allowed limitations. Otherwise, in a grid segment with considerable power from renewable sources, voltage levels might rise too much at times of high production, i.e. around noon with solar panels.</p>
+<p>Grid-tie inverters are also designed to quickly disconnect from the grid if the utility grid goes down. This is an <a href="/wiki/National_Electrical_Code" title="National Electrical Code">NEC</a> requirement<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> that ensures that in the event of a blackout, the grid tie inverter will shut down to prevent the energy it transfers from harming any line workers who are sent to fix the power grid.</p>
+<p>Properly configured, a grid tie inverter enables a home owner to use an alternative power generation system like solar or wind power without extensive rewiring and without batteries. If the alternative power being produced is insufficient, the deficit will be sourced from the electricity grid.</p>
+<h2><span class="mw-headline" id="Types">Types</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Grid-tie_inverter&amp;action=edit&amp;section=3" title="Edit section: Types">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Grid_Tie-SWEA-250W.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Grid_Tie-SWEA-250W.jpg/220px-Grid_Tie-SWEA-250W.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Grid_Tie-SWEA-250W.jpg/330px-Grid_Tie-SWEA-250W.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Grid_Tie-SWEA-250W.jpg/440px-Grid_Tie-SWEA-250W.jpg 2x" data-file-width="3264" data-file-height="2448" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Grid_Tie-SWEA-250W.jpg" class="internal" title="Enlarge"></a></div>
+Inside an SWEA 250W transformer-coupled grid-tie inverter</div>
+</div>
+</div>
+<p>Grid-tie inverters include conventional low-frequency types with transformer coupling, newer high-frequency types, also with transformer coupling, and transformerless types. Instead of converting direct current directly into AC suitable for the grid, high-frequency transformers types use a computer process to convert the power to a high-frequency and then back to DC and then to the final AC output voltage suitable for the grid.<sup id="cite_ref-sei2006_3-0" class="reference"><a href="#cite_note-sei2006-3">[3]</a></sup></p>
+<p>Transformerless inverters, which are popular in Europe, are lighter, smaller, and more efficient than inverters with transformers. But transformerless inverters have been slow to enter the US market because of concerns that transformerless inverters, which do not have <a href="/wiki/Galvanic_isolation" title="Galvanic isolation">galvanic isolation</a> between the DC side and grid, could inject dangerous DC voltages and currents into the grid under fault conditions.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></p>
+<p>However, since 2005, the NFPA's NEC allows transformerless, or non-galvanically isolated, inverters by removing the requirement that all solar electric systems be negative <a href="/wiki/Ground_(electricity)" title="Ground (electricity)">grounded</a> and specifying new safety requirements. Amendments to VDE 0126-1-1 and IEC 6210 define the design and procedures needed for such systems: primarily, ground current measurement and DC to grid isolation tests.</p>
+<h2><span class="mw-headline" id="Datasheets">Datasheets</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Grid-tie_inverter&amp;action=edit&amp;section=4" title="Edit section: Datasheets">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Manufacturers <a href="/wiki/Datasheet" title="Datasheet">datasheets</a> for their inverters usually include the following data:</p>
+<ul>
+<li><i>Rated output power</i>: This value is provided in watts or kilowatts. For some inverters, they may provide an output rating for different output voltages. For instance, if the inverter can be configured for either 240&#160;VAC or 208&#160;VAC output, the rated power output may be different for each of those configurations.</li>
+<li><i>Output voltage(s)</i>: This value indicates to which utility voltages the inverter can connect. For smaller inverters that are designed for residential use, the output voltage is usually 240&#160;VAC. Inverters that target commercial applications are rated for 208, 240, 277, 400, 480 or 600&#160;VAC and may also produce <a href="/wiki/Three_phase" class="mw-redirect" title="Three phase">three phase</a> power.</li>
+<li><i>Peak efficiency</i>: The peak efficiency represents the highest efficiency that the inverter can achieve. Most grid-tie inverters on the market as of July 2009 have peak efficiencies of over 94%, some as high as 96%. The energy lost during inversion is for the most part converted into heat. Consequently, in order for an inverter to output its rated power it will require a power input that exceeds its output. For example, a 5000&#160;W inverter operating at full power at 95% efficiency will require an input of 5,263&#160;W (rated power divided by efficiency). Inverters that are capable of producing power at different AC voltages may have different efficiencies associated with each voltage.</li>
+<li><i>CEC weighted efficiency</i>: This efficiency is published by the California Energy Commission on its GoSolar website. In contrast to peak efficiency, this value is an average efficiency and is a better representation of the inverter's operating profile. Inverters that are capable of producing power at different AC voltages may have different efficiencies associated with each voltage.<sup id="cite_ref-cecList_5-0" class="reference"><a href="#cite_note-cecList-5">[5]</a></sup></li>
+<li><i>Maximum input current</i>: This is the maximum amount of direct current that the inverter can use. If a system, solar cells for example, produces a current in excess of the maximum input current, that current is not used by the inverter.</li>
+<li><i>Maximum output current</i>: The maximum output current is the maximum continuous alternating current that the inverter will supply. This value is typically used to determine the minimum current rating of the over-current protection devices (e.g., breakers and fuses) and disconnects required for the output circuit. Inverters that are capable of producing power at different AC voltages will have different maximum outputs for each voltage.</li>
+<li><i>Peak power tracking voltage</i>: This represents the DC voltage range in which the inverter's maximum point power tracker will operate. The system designer must configure the strings optimally so that during the majority of the year, the voltage of the strings will be within this range. This can be a difficult task since voltage will fluctuate with changes in temperature.</li>
+<li><i>Start voltage</i>: This value is not listed on all inverter datasheets. The value indicates the minimum DC voltage that is required in order for the inverter to turn on and begin operation. This is especially important for solar applications, because the system designer must be sure that there is a sufficient number of solar modules wired in series in each string to produce this voltage. If this value is not provided by the manufacturer, system designers typically use the lower band of the peak power tracking voltage range as the inverter's minimum voltage.</li>
+<li><i><a href="/wiki/IP_Code" title="IP Code">IPxx rating</a></i>: The Ingress Protection rating or IP Code classifies and rates the level of protection provided against the ingress of solid foreign objects (first digit) or water (second digit), a higher digit means greater protection. In the US the <i><a href="/wiki/NEMA_enclosure_type" class="mw-redirect" title="NEMA enclosure type">NEMA enclosure type</a></i> is used similarly to the international rating. Most inverters are rated for outdoors installation with IP45 (no dust protection) or IP65 (dust tight), or in the US, NEMA 3R (no windblown dust protection) or NEMA 4X (windblown dust, direct water splash and additional corrosion protection).</li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Grid-tie_inverter&amp;action=edit&amp;section=5" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Grid-tied_electrical_system" title="Grid-tied electrical system">Grid-tied electrical system</a></li>
+<li><a href="/wiki/Inverter_(electrical)" class="mw-redirect" title="Inverter (electrical)">Inverter (electrical)</a></li>
+<li><a href="/wiki/Islanding" title="Islanding">Islanding</a></li>
+<li><a href="/wiki/Solar_inverter" title="Solar inverter">Solar inverter</a></li>
+<li><a href="/wiki/Stand-alone_inverter" class="mw-redirect" title="Stand-alone inverter">Stand-alone inverter</a></li>
+</ul>
+<h2><span class="mw-headline" id="References_and_further_reading">References and further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Grid-tie_inverter&amp;action=edit&amp;section=6" title="Edit section: References and further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.osti.gov/bridge/servlets/purl/463622-TtEMSp/webviewable/463622.pdf">http://www.osti.gov/bridge/servlets/purl/463622-TtEMSp/webviewable/463622.pdf</a> OSTI</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">NEC Handbook 2005, Section 705, "Interconnected Electric Power Production Sources," Article 705.40 "Loss of Primary Source"</span></li>
+<li id="cite_note-sei2006-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-sei2006_3-0">^</a></b></span> <span class="reference-text">Solar Energy International (2006). <i>Photovoltaics: Design and Installation Manual</i>, Gabriola Island, BC: New Society Publishers, p. 80.</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www1.eere.energy.gov/solar/pdfs/inverter_ii_workshop.pdf">"Summary Report on the DOE High-tech Inverter Workshop"</a> <span style="font-size:85%;">(PDF)</span>. <i>Sponsored by the US Department of Energy, prepared by McNeil Technologies</i>. eere.energy.gov<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-06-10</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGrid-tie+inverter&amp;rft.atitle=Summary+Report+on+the+DOE+High-tech+Inverter+Workshop&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww1.eere.energy.gov%2Fsolar%2Fpdfs%2Finverter_ii_workshop.pdf&amp;rft.jtitle=Sponsored+by+the+US+Department+of+Energy%2C+prepared+by+McNeil+Technologies&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-cecList-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-cecList_5-0">^</a></b></span> <span class="reference-text">gosolarcalifornia.org, <a rel="nofollow" class="external text" href="http://www.gosolarcalifornia.org/equipment/inverter.php">"List of Eligible Inverters"</a>, accessed July 30, 2009,</span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Grid-tie_inverter&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.gosolarcalifornia.org/equipment/inverters.php">California List of Eligible Inverters</a> - This is the official California Energy Commission (CEC) list of inverters that are eligible for California's rebate program. Other states use this list as well.</li>
+<li><a rel="nofollow" class="external text" href="http://www.solardesigntool.com/compare-inverters.html">Grid Tie Inverter Comparison Tool</a> - website that allows people to compare the data sheets of various grid-tie inverters. One can also use the website to filter and search inverters by technical data.</li>
+<li><a rel="nofollow" class="external text" href="http://www.dtims.com/whitepapers/gale_versus_solar.pdf">Grid-Tie Wind Inverters Versus Solar Inverters</a> - describes in detail the differences between existing grid tied inverters.</li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1194
+Cached time: 20161231165836
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.156 seconds
+Real time usage: 0.210 seconds
+Preprocessor visited node count: 393/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 22404/2097152 bytes
+Template argument size: 5823/2097152 bytes
+Highest expansion depth: 10/40
+Expensive parser function count: 2/500
+Lua time usage: 0.067/10.000 seconds
+Lua memory usage: 1.66 MB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  170.582      1 - -total
+ 69.20%  118.035      3 - Template:Ambox
+ 59.16%  100.913      1 - Template:Multiple_issues
+ 36.60%   62.427      1 - Template:Reflist
+ 28.57%   48.729      1 - Template:Cite_web
+ 17.29%   29.489      1 - Template:Globalize
+  5.67%    9.670      1 - Template:Refimprove
+  1.47%    2.516      1 - Template:Main_other
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:11876198-0!*!0!!en!4!* and timestamp 20161231165905 and revision id 757605300
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Grid-tie_inverter&amp;oldid=757605300">https://en.wikipedia.org/w/index.php?title=Grid-tie_inverter&amp;oldid=757605300</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Electric_power_conversion" title="Category:Electric power conversion">Electric power conversion</a></li><li><a href="/wiki/Category:Electric_power_systems_components" title="Category:Electric power systems components">Electric power systems components</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_limited_geographic_scope_from_July_2013" title="Category:Articles with limited geographic scope from July 2013">Articles with limited geographic scope from July 2013</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_July_2013" title="Category:Articles needing additional references from July 2013">Articles needing additional references from July 2013</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Grid-tie+inverter" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Grid-tie+inverter" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Grid-tie_inverter"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Grid-tie_inverter"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Grid-tie_inverter" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Grid-tie_inverter&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Grid-tie_inverter&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Grid-tie_inverter" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Grid-tie_inverter" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Grid-tie_inverter&amp;oldid=757605300" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Grid-tie_inverter&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q9291636" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Grid-tie_inverter&amp;id=757605300" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Grid-tie+inverter">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Grid-tie+inverter&amp;returnto=Grid-tie+inverter&amp;oldid=757605300&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Grid-tie_inverter&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Wechselrichter#Steuerung" title="Wechselrichter – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%A7%DB%8C%D9%86%D9%88%D8%B1%D8%AA%D8%B1_%D9%85%D8%AA%D8%B5%D9%84_%D8%A8%D9%87_%D8%B4%D8%A8%DA%A9%D9%87" title="اینورتر متصل به شبکه – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Inversor_Grid-Tie" title="Inversor Grid-Tie – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%B9%B6%E7%BD%91%E9%80%86%E5%8F%98%E5%99%A8" title="并网逆变器 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q9291636#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 31 December 2016, at 16:59.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Grid-tie_inverter&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":59,"wgHostname":"mw1174"});});</script>
+	</body>
+</html>

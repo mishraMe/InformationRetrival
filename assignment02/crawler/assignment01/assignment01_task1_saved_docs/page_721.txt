@@ -1,0 +1,449 @@
+url : https://en.wikipedia.org/wiki/MHD_generator
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Magnetohydrodynamic generator - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Magnetohydrodynamic_generator","wgTitle":"Magnetohydrodynamic generator","wgCurRevisionId":737903296,"wgRevisionId":737903296,"wgArticleId":1502835,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages using ISBN magic links","All articles with unsourced statements","Articles with unsourced statements from September 2013","Commons category with local link same as on Wikidata","Chemical engineering","Electrical generators","Energy conversion","Hungarian inventions","Plasma physics","Power station technology"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Magnetohydrodynamic_generator","wgRelevantArticleId":1502835,"wgRequestId":"WJEhzApAICwAAENZiHcAAAAR","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"MHD_generator","wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgInternalRedirectTargetUrl":"/wiki/Magnetohydrodynamic_generator","wgWikibaseItemId":"Q186092","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.math.styles":"ready","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.action.view.redirect","ext.math.scripts","ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.9"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Magnetohydrodynamic_generator"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Magnetohydrodynamic_generator&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Magnetohydrodynamic_generator&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Magnetohydrodynamic_generator"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Magnetohydrodynamic_generator rootpage-Magnetohydrodynamic_generator skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Magnetohydrodynamic generator</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"><span class="mw-redirectedfrom">  (Redirected from <a href="/w/index.php?title=MHD_generator&amp;redirect=no" class="mw-redirect" title="MHD generator">MHD generator</a>)</span></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div class="thumb tright">
+<div class="thumbinner" style="width:352px;"><a href="/wiki/File:MHD_generator_(En).png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/MHD_generator_%28En%29.png/350px-MHD_generator_%28En%29.png" width="350" height="156" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/7/72/MHD_generator_%28En%29.png 1.5x" data-file-width="450" data-file-height="200" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:MHD_generator_(En).png" class="internal" title="Enlarge"></a></div>
+MHD generator</div>
+</div>
+</div>
+<p>A <b>magnetohydrodynamic generator</b> (<b>MHD generator</b>) is a <a href="/wiki/Magnetohydrodynamic" class="mw-redirect" title="Magnetohydrodynamic">magnetohydrodynamic</a> device that transforms <a href="/wiki/Thermal_energy" title="Thermal energy">thermal energy</a> and <a href="/wiki/Kinetic_energy" title="Kinetic energy">kinetic energy</a> into <a href="/wiki/Electricity" title="Electricity">electricity</a>. MHD generators are different from traditional <a href="/wiki/Electric_generator" title="Electric generator">electric generators</a> in that they operate at high temperatures without <a href="/wiki/Moving_parts" title="Moving parts">moving parts</a>. MHD was developed because the hot exhaust gas of an MHD generator can heat the boilers of a <a href="/wiki/Rankine_cycle" title="Rankine cycle">steam</a> <a href="/wiki/Power_plant" class="mw-redirect" title="Power plant">power plant</a>, increasing overall efficiency. MHD was developed as a <a href="/wiki/Topping_cycle" class="mw-redirect" title="Topping cycle">topping cycle</a> to increase the efficiency of <a href="/wiki/Electric_generation" class="mw-redirect" title="Electric generation">electric generation</a>, especially when burning <a href="/wiki/Coal" title="Coal">coal</a> or <a href="/wiki/Natural_gas" title="Natural gas">natural gas</a>. MHD dynamos are the complement of <a href="/wiki/Magnetohydrodynamic_drive" title="Magnetohydrodynamic drive">MHD propulsors</a>, which have been applied to pump liquid metals and in several experimental ship engines.</p>
+<p>An MHD generator, like a conventional generator, relies on moving a conductor through a <a href="/wiki/Magnetic_field" title="Magnetic field">magnetic field</a> to generate electric current. The MHD generator uses hot conductive <a href="/wiki/Plasma_(physics)" title="Plasma (physics)">plasma</a> as the moving conductor. The mechanical dynamo, in contrast, uses the motion of mechanical devices to accomplish this. MHD generators are technically practical for fossil fuels, but have been overtaken by other, less expensive technologies, such as <a href="/wiki/Combined_cycle" title="Combined cycle">combined cycles</a> in which a <a href="/wiki/Gas_turbine" title="Gas turbine">gas turbine</a>'s or <a href="/wiki/Molten_carbonate_fuel_cell" title="Molten carbonate fuel cell">molten carbonate fuel cell</a>'s exhaust heats <a href="/wiki/Steam" title="Steam">steam</a> to power a <a href="/wiki/Steam_turbine" title="Steam turbine">steam turbine</a>.</p>
+<p>Natural MHD dynamos are an active area of research in <a href="/wiki/Plasma_physics" class="mw-redirect" title="Plasma physics">plasma physics</a> and are of great interest to the <a href="/wiki/Geophysics" title="Geophysics">geophysics</a> and <a href="/wiki/Astrophysics" title="Astrophysics">astrophysics</a> communities, since the magnetic fields of the <a href="/wiki/Earth" title="Earth">earth</a> and <a href="/wiki/Sun" title="Sun">sun</a> are produced by these natural dynamos.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Principle"><span class="tocnumber">1</span> <span class="toctext">Principle</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Power_generation"><span class="tocnumber">2</span> <span class="toctext">Power generation</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Faraday_generator"><span class="tocnumber">2.1</span> <span class="toctext">Faraday generator</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Hall_generator"><span class="tocnumber">2.2</span> <span class="toctext">Hall generator</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Disc_generator"><span class="tocnumber">2.3</span> <span class="toctext">Disc generator</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Generator_efficiency"><span class="tocnumber">2.4</span> <span class="toctext">Generator efficiency</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Economics"><span class="tocnumber">2.5</span> <span class="toctext">Economics</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Toxic_byproducts"><span class="tocnumber">2.6</span> <span class="toctext">Toxic byproducts</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#History"><span class="tocnumber">3</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="#Bosnian_development"><span class="tocnumber">3.1</span> <span class="toctext">Bosnian development</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#U.S._development"><span class="tocnumber">3.2</span> <span class="toctext">U.S. development</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Japanese_development"><span class="tocnumber">3.3</span> <span class="toctext">Japanese development</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Australian_development"><span class="tocnumber">3.4</span> <span class="toctext">Australian development</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Italian_development"><span class="tocnumber">3.5</span> <span class="toctext">Italian development</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Chinese_development"><span class="tocnumber">3.6</span> <span class="toctext">Chinese development</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#Russian_developments"><span class="tocnumber">3.7</span> <span class="toctext">Russian developments</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-17"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-19"><a href="#Further_reading"><span class="tocnumber">6</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-20"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Principle">Principle</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Magnetohydrodynamic_generator&amp;action=edit&amp;section=1" title="Edit section: Principle">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The <a href="/wiki/Lorentz_Force_Law" class="mw-redirect" title="Lorentz Force Law">Lorentz Force Law</a> describes the effects of a charged particle moving in a constant magnetic field. The simplest form of this law is given by the vector equation.</p>
+<dl>
+<dd>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="bold">F</mi>
+        </mrow>
+        <mo>=</mo>
+        <mi>Q</mi>
+        <mo>&#x22C5;<!-- ⋅ --></mo>
+        <mo stretchy="false">(</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="bold">v</mi>
+        </mrow>
+        <mo>&#x00D7;<!-- × --></mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="bold">B</mi>
+        </mrow>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \mathbf {F} =Q\cdot (\mathbf {v} \times \mathbf {B} )}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3fe7b9f203d773c21871fd6f95e31454d6d45c9b" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:16.354ex; height:2.843ex;" alt="{\mathbf  {F}}=Q\cdot ({\mathbf  {v}}\times {\mathbf  {B}})" /></span></dd>
+</dl>
+</dd>
+</dl>
+<p>where</p>
+<ul>
+<li><b>F</b> is the force acting on the particle.</li>
+<li>Q is the charge of the particle,</li>
+<li><b>v</b> is the velocity of the particle, and</li>
+<li><b>B</b> is the magnetic field.</li>
+</ul>
+<p>The vector <b>F</b> is perpendicular to both <b>v</b> and <b>B</b> according to the <a href="/wiki/Right_hand_rule" class="mw-redirect" title="Right hand rule">right hand rule</a>.</p>
+<h2><span class="mw-headline" id="Power_generation">Power generation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Magnetohydrodynamic_generator&amp;action=edit&amp;section=2" title="Edit section: Power generation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Typically, for a large scale power station to approach the operational efficiency of <a href="/wiki/Computer_model" class="mw-redirect" title="Computer model">computer models</a>, steps must be taken to increase the electrical conductivity of the conductive substance. The heating of a gas to its plasma state or the addition of other easily ionizable substances like the salts of alkali metals can accomplish this increase. In practice, a number of issues must be considered in the implementation of an <b>MHD generator</b>: generator efficiency, economics, and toxic byproducts. These issues are affected by the choice of one of the three MHD generator designs: the Faraday generator, the Hall generator, and the disc generator.</p>
+<h3><span class="mw-headline" id="Faraday_generator">Faraday generator</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Magnetohydrodynamic_generator&amp;action=edit&amp;section=3" title="Edit section: Faraday generator">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The Faraday generator is named after the man who first looked for the effect in the Thames river (see <a href="/wiki/MHD_dynamo#History" class="mw-redirect" title="MHD dynamo">history</a>). A simple Faraday generator would consist of a wedge-shaped pipe or tube of some non-<a href="/wiki/Conductive" class="mw-redirect" title="Conductive">conductive</a> material. When an electrically conductive fluid flows through the tube, in the presence of a significant perpendicular magnetic field, a voltage is induced in the field, which can be drawn off as electrical power by placing the electrodes on the sides at 90 degree angles to the magnetic field.</p>
+<p>There are limitations on the density and type of field used. The amount of power that can be extracted is proportional to the cross sectional area of the tube and the speed of the conductive flow. The conductive substance is also cooled and slowed by this process. MHD generators typically reduce the temperature of the conductive substance from plasma temperatures to just over 1000&#160;°C.</p>
+<p>The main practical problem of a Faraday generator is that differential voltages and currents in the fluid short through the electrodes on the sides of the duct. The most powerful waste is from the <a href="/wiki/Hall_effect" title="Hall effect">Hall effect</a> current. This makes the Faraday duct very inefficient. Most further refinements of MHD generators have tried to solve this problem. The optimal magnetic field on duct-shaped MHD generators is a sort of saddle shape. To get this field, a large generator requires an extremely powerful magnet. Many research groups have tried to adapt superconducting magnets to this purpose, with varying success.</p>
+<h3><span class="mw-headline" id="Hall_generator">Hall generator</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Magnetohydrodynamic_generator&amp;action=edit&amp;section=4" title="Edit section: Hall generator">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The most common solution is to use the <a href="/wiki/Hall_effect" title="Hall effect">Hall effect</a> to create a current that flows with the fluid. The normal scheme is to place arrays of short, vertical electrodes on the sides of the duct. The first and last electrodes in the duct power the load. Each other electrode is shorted to an electrode on the opposite side of the duct. These shorts of the Faraday current induce a powerful magnetic field within the fluid, but in a chord of a circle at right angles to the Faraday current. This secondary, induced field makes current flow in a rainbow shape between the first and last electrodes.</p>
+<p>Losses are less than a Faraday generator, and voltages are higher because there is less shorting of the final induced current. However, this design has problems because the speed of the material flow requires the middle electrodes to be offset to "catch" the Faraday currents. As the load varies, the fluid flow speed varies, misaligning the Faraday current with its intended electrodes, and making the generator's efficiency very sensitive to its load.</p>
+<h3><span class="mw-headline" id="Disc_generator">Disc generator</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Magnetohydrodynamic_generator&amp;action=edit&amp;section=5" title="Edit section: Disc generator">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:252px;"><a href="/wiki/File:Disk_MHD_generator.png" class="image"><img alt="Diagram of a Disk MHD generators" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Disk_MHD_generator.png/250px-Disk_MHD_generator.png" width="250" height="151" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/1/14/Disk_MHD_generator.png 1.5x" data-file-width="372" data-file-height="224" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Disk_MHD_generator.png" class="internal" title="Enlarge"></a></div>
+Diagram of a Disk MHD generator showing current flows</div>
+</div>
+</div>
+<p>The third and, currently, the most efficient design is the Hall effect disc generator. This design currently holds the efficiency and energy density records for MHD generation. A disc generator has fluid flowing between the center of a disc, and a duct wrapped around the edge. The magnetic excitation field is made by a pair of circular <a href="/wiki/Helmholtz_coils" class="mw-redirect" title="Helmholtz coils">Helmholtz coils</a> above and below the disk. The Faraday currents flow in a perfect dead short around the periphery of the disk. The Hall effect currents flow between ring electrodes near the center and ring electrodes near the periphery.</p>
+<p>Another significant advantage of this design is that the magnet is more efficient. First, it has simple parallel field lines. Second, because the fluid is processed in a disk, the magnet can be closer to the fluid, and magnetic field strengths increase as the 7th power of distance.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (September 2013)">citation needed</span></a></i>]</sup> Finally, the generator is compact for its power, so the magnet is also smaller. The resulting magnet uses a much smaller percentage of the generated power.</p>
+<h3><span class="mw-headline" id="Generator_efficiency">Generator efficiency</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Magnetohydrodynamic_generator&amp;action=edit&amp;section=6" title="Edit section: Generator efficiency">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>As of 1994, the 22% efficiency record for closed-cycle disc MHD generators was held by Tokyo Technical Institute. The peak enthalpy extraction in these experiments reached 30.2%. Typical open-cycle Hall &amp; duct coal MHD generators are lower, near 17%. These efficiencies make MHD unattractive, by itself, for utility power generation, since conventional <a href="/wiki/Rankine_cycle" title="Rankine cycle">Rankine cycle</a> power plants easily reach 40%.</p>
+<p>However, the exhaust of an MHD generator burning <a href="/wiki/Fossil_fuel" title="Fossil fuel">fossil fuel</a> is almost as hot as the flame of a conventional steam boiler. By routing its exhaust gases into a boiler to make steam, MHD and a <a href="/wiki/Steam" title="Steam">steam</a> <a href="/wiki/Rankine_cycle" title="Rankine cycle">Rankine cycle</a> can convert <a href="/wiki/Fossil_fuel" title="Fossil fuel">fossil fuels</a> into electricity with an estimated efficiency up to 60 percent, compared to the 40 percent of a typical coal plant.</p>
+<p>A magnetohydrodynamic generator might also be the first stage of a gas-cooled <a href="/wiki/Nuclear_reactor" title="Nuclear reactor">nuclear reactor</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></p>
+<h3><span class="mw-headline" id="Economics">Economics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Magnetohydrodynamic_generator&amp;action=edit&amp;section=7" title="Edit section: Economics">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>MHD generators have not been employed for large scale mass energy conversion because other techniques with comparable efficiency have a lower lifecycle investment cost. Advances in natural gas turbines achieved similar thermal efficiencies at lower costs, by having the turbine's exhaust drive a <a href="/wiki/Rankine_cycle" title="Rankine cycle">Rankine cycle</a> steam plant. To get more electricity from coal, it is cheaper to simply add more low-temperature steam-generating capacity.</p>
+<p>A coal-fueled MHD generator is a type of <a href="/wiki/Brayton_cycle" title="Brayton cycle">Brayton power cycle</a>, similar to the power cycle of a combustion turbine. However, unlike the combustion turbine, there are no moving mechanical parts; the electrically conducting plasma provides the moving electrical conductor. The side walls and electrodes merely withstand the pressure within, while the anode and cathode conductors collect the electricity that is generated. All Brayton cycles are heat engines. Ideal Brayton cycles also have an ideal efficiency equal to ideal <a href="/wiki/Carnot_cycle" title="Carnot cycle">Carnot cycle</a> efficiency. Thus, the potential for high energy efficiency from an MHD generator. All Brayton cycles have higher potential for efficiency the higher the firing temperature. While a combustion turbine is limited in maximum temperature by the strength of its air/water or steam-cooled rotating airfoils; there are no rotating parts in an open-cycle MHD generator. This upper bound in temperature limits the energy efficiency in combustion turbines. The upper bound on Brayton cycle temperature for an MHD generator is not limited, so inherently an MHD generator has a higher potential capability for energy efficiency.</p>
+<p>The temperatures at which linear coal-fueled MHD generators can operate are limited by factors that include: (a) the combustion fuel, oxidizer, and oxidizer preheat temperature which limit the maximum temperature of the cycle; (b) the ability to protect the sidewalls and electrodes from melting; (c) the ability to protect the electrodes from electrochemical attack from the hot slag coating the walls combined with the high current or arcs that impinge on the electrodes as they carry off the direct current from the plasma; and (d) by the capability of the electrical insulators between each electrode. Coal-fired MHD plants with oxygen/air and high oxidant preheats would probably provide potassium seeded plasmas of about 4200 deg. F, 10 atmospheres pressure, and begin expansion at Mach 1.2. These plants would recover MHD exhaust heat for oxidant preheat, and for combined cycle steam generation. With aggressive assumptions, one DOE-funded feasibility study of where the technology could go, <a href="/w/index.php?title=1000_MWe_Advanced_Coal-Fired_MHD/Steam_Binary_Cycle_Power_Plant_Conceptual_Design&amp;action=edit&amp;redlink=1" class="new" title="1000 MWe Advanced Coal-Fired MHD/Steam Binary Cycle Power Plant Conceptual Design (page does not exist)">1000 MWe Advanced Coal-Fired MHD/Steam Binary Cycle Power Plant Conceptual Design</a>, published in June 1989, showed that a large coal-fired MHD combined cycle plant could attain a HHV energy efficiency approaching 60 percent—well in excess of other coal-fueled technologies, so the potential for low operating costs exists.</p>
+<p>However, no testing at those aggressive conditions or size has yet occurred, and there are no large MHD generators now under test. There is simply an inadequate reliability track record to provide confidence in a commercial coal-fueled MHD design.</p>
+<p>U25B MHD testing in Russia using natural gas as fuel used a superconducting magnet, and had an output of 1.4 megawatts. A coal-fired MHD generator series of tests funded by the <a href="/wiki/United_States_Department_of_Energy" title="United States Department of Energy">U.S. Department of Energy (DOE)</a> in 1992 produced MHD power from a larger superconducting magnet at the Component Development and Integration Facility (CDIF) in <a href="/wiki/Butte,_Montana" title="Butte, Montana">Butte</a>, <a href="/wiki/Montana" title="Montana">Montana</a>. None of these tests were conducted for long-enough durations to verify the commercial durability of the technology. Neither of the test facilities were in large-enough scale for a commercial unit.</p>
+<p>Superconducting magnets are used in the larger MHD generators to eliminate one of the large parasitic losses: the power needed to energize the electromagnet. Superconducting magnets, once charged, consume no power, and can develop intense magnetic fields 4 teslas and higher. The only <a href="/wiki/Parasitic_load" title="Parasitic load">parasitic load</a> for the magnets are to maintain refrigeration, and to make up the small losses for the non-supercritical connections.</p>
+<p>Because of the high temperatures, the non-conducting walls of the channel must be constructed from an exceedingly heat-resistant substance such as <a href="/wiki/Yttrium" title="Yttrium">yttrium</a> oxide or <a href="/wiki/Zirconium" title="Zirconium">zirconium</a> dioxide to retard oxidation. Similarly, the electrodes must be both conductive and heat-resistant at high temperatures. The AVCO coal-fueled MHD generator at the CDIF was tested with water-cooled copper electrodes capped with platinum, tungsten, stainless steel, and electrically conducting ceramics.</p>
+<h3><span class="mw-headline" id="Toxic_byproducts">Toxic byproducts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Magnetohydrodynamic_generator&amp;action=edit&amp;section=8" title="Edit section: Toxic byproducts">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>MHD reduces overall production of hazardous fossil fuel wastes because it increases plant efficiency. In MHD coal plants, the patented commercial "Econoseed" process developed by the U.S. (see below) recycles potassium ionization seed from the fly ash captured by the stack-gas scrubber. However, this equipment is an additional expense. If molten metal is the armature fluid of an MHD generator, care must be taken with the coolant of the electromagnetics and channel. The alkali metals commonly used as MHD fluids react violently with water. Also, the chemical byproducts of heated, electrified alkali metals and channel ceramics may be poisonous and environmentally persistent.</p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Magnetohydrodynamic_generator&amp;action=edit&amp;section=9" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The first practical MHD power research was funded in 1938 in the U.S. by <a href="/wiki/Westinghouse_Electric_Corporation_(1886)" class="mw-redirect" title="Westinghouse Electric Corporation (1886)">Westinghouse</a> in its <a href="/wiki/Pittsburgh,_Pennsylvania" class="mw-redirect" title="Pittsburgh, Pennsylvania">Pittsburgh, Pennsylvania</a> laboratories, headed by Hungarian <a href="/wiki/Bela_Karlovitz" class="mw-redirect" title="Bela Karlovitz">Bela Karlovitz</a>. The initial patent on MHD is by B. Karlovitz, U.S. Patent No. 2,210,918, "Process for the Conversion of Energy", August 13, 1940.</p>
+<p>World war II interrupted development. In 1962, the First International Conference on MHD Power was held in Newcastle upon Tyne, UK by Dr. Brian C. Lindley of the International Research and Development Company Ltd. The group set up a steering committee to set up further conferences and disseminate ideas. In 1964, the group set up a second conference in Paris, France, in consultation with the <a href="/wiki/European_Nuclear_Energy_Agency" class="mw-redirect" title="European Nuclear Energy Agency">European Nuclear Energy Agency</a>.</p>
+<p>Since membership in the <a href="/wiki/European_Nuclear_Energy_Agency" class="mw-redirect" title="European Nuclear Energy Agency">ENEA</a> was limited, the group persuaded the <a href="/wiki/International_Atomic_Energy_Agency" title="International Atomic Energy Agency">International Atomic Energy Agency</a> to sponsor a third conference, in Salzburg, Austria, July 1966. Negotiations at this meeting converted the steering committee into a periodic reporting group, the ILG-MHD (international liaison group, MHD), under the ENEA, and later in 1967, also under the International Atomic Energy Agency. Further research in the 1960s by R. Rosa established the practicality of MHD for fossil-fueled systems.</p>
+<p>In the 1960s, AVCO Everett Aeronautical Research began a series of experiments, ending with the Mk. V generator of 1965. This generated 35 MW, but used about 8MW to drive its magnet. In 1966, the ILG-MHD had its first formal meeting in Paris, France. It began issuing a periodic status report in 1967. This pattern persisted, in this institutional form, up until 1976. Toward the end of the 1960s, interest in MHD declined because nuclear power was becoming more widely available.</p>
+<p>In the late 1970s, as interest in nuclear power declined, interest in MHD increased. In 1975, <a href="/wiki/UNESCO" title="UNESCO">UNESCO</a> became persuaded the MHD might be the most efficient way to utilise world coal reserves, and in 1976, sponsored the ILG-MHD. In 1976, it became clear that no nuclear reactor in the next 25 years would use MHD, so the <a href="/wiki/International_Atomic_Energy_Agency" title="International Atomic Energy Agency">International Atomic Energy Agency</a> and <a href="/wiki/European_Nuclear_Energy_Agency" class="mw-redirect" title="European Nuclear Energy Agency">ENEA</a> (both nuclear agencies) withdrew support from the ILG-MHD, leaving <a href="/wiki/UNESCO" title="UNESCO">UNESCO</a> as the primary sponsor of the ILG-MHD.</p>
+<h3><span class="mw-headline" id="Bosnian_development">Bosnian development</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Magnetohydrodynamic_generator&amp;action=edit&amp;section=10" title="Edit section: Bosnian development">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Over more than a ten-year span, Bosnian engineers in Bosnia, in the Institute of Thermal and Nuclear Technology (ITEN), Energoinvest Co., Sarajevo, had built the first experimental Magneto-Hydrodynamic facility power generator in 1989. It was here it was first patented.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></p>
+<h3><span class="mw-headline" id="U.S._development">U.S. development</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Magnetohydrodynamic_generator&amp;action=edit&amp;section=11" title="Edit section: U.S. development">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In the 1980s, the <a href="/wiki/U.S._Department_of_Energy" class="mw-redirect" title="U.S. Department of Energy">U.S. Department of Energy</a> began a vigorous multiyear program, culminating in a 1992 50MW demonstration coal combustor at the Component Development and Integration Facility (CDIF) in <a href="/wiki/Butte,_Montana" title="Butte, Montana">Butte, Montana</a>. This program also had significant work at the Coal-Fired-In-Flow-Facility (CFIFF) at <a href="/wiki/University_of_Tennessee_Space_Institute" title="University of Tennessee Space Institute">University of Tennessee Space Institute</a>.</p>
+<p>This program combined four parts:</p>
+<ol>
+<li>An integrated MHD topping cycle, with channel, electrodes and current control units developed by AVCO, later known as Textron Defence of Boston. This system was a Hall effect duct generator heated by pulverized coal, with a potassium ionisation seed. AVCO had developed the famous Mk. V generator, and had significant experience.</li>
+<li>An integrated bottoming cycle, developed at the CDIF.</li>
+<li>A facility to regenerate the ionization seed was developed by TRW. Potassium carbonate is separated from the sulphate in the <a href="/wiki/Fly_ash" title="Fly ash">fly ash</a> from the scrubbers. The carbonate is removed, to regain the potassium.</li>
+<li>A method to integrate MHD into preexisting coal plants. The Department of Energy commissioned two studies. Westinghouse Electric performed a study based on the Scholtz Plant of Gulf Power in <a href="/wiki/Sneads,_Florida" title="Sneads, Florida">Sneads, Florida</a>. The MHD Development Corporation also produced a study based on the J.E. Corrette Plant of the Montana Power Company of <a href="/wiki/Billings,_Montana" title="Billings, Montana">Billings, Montana</a>.</li>
+</ol>
+<p>Initial prototypes at the CDIF were operated for short durations, with various coals: Montana Rosebud, and a high-sulphur corrosive coal, Illinois No. 6. A great deal of engineering, chemistry and material science was completed. After final components were developed, operational testing completed with 4,000 hours of continuous operation, 2,000 on Montana Rosebud, 2,000 on Illinois No. 6. The testing ended in 1993.</p>
+<h3><span class="mw-headline" id="Japanese_development">Japanese development</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Magnetohydrodynamic_generator&amp;action=edit&amp;section=12" title="Edit section: Japanese development">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The Japanese program in the late 1980s concentrated on closed-cycle MHD. The belief was that it would have higher efficiencies, and smaller equipment, especially in the clean, small, economical plant capacities near 100 megawatts (electrical) which are suited to Japanese conditions. Open-cycle coal-powered plants are generally thought to become economical above 200 megawatts.</p>
+<p>The first major series of experiments was FUJI-1, a blow-down system powered from a shock tube at the <a href="/wiki/Tokyo_Institute_of_Technology" title="Tokyo Institute of Technology">Tokyo Institute of Technology</a>. These experiments extracted up to 30.2% of enthalpy, and achieved power densities near 100 megawatts per cubic meter. This facility was funded by Tokyo Electric Power, other Japanese utilities, and the Department of Education. Some authorities believe this system was a disc generator with a helium and argon carrier gas and potassium ionization seed.</p>
+<p>In 1994, there were detailed plans for FUJI-2, a 5MW (electrical) continuous closed-cycle facility, powered by natural gas, to be built using the experience of FUJI-1. The basic MHD design was to be a system with inert gases using a disk generator. The aim was an enthalpy extraction of 30% and an MHD thermal efficiency of 60%. FUJI-2 was to be followed by a retrofit to a 300 MWe natural gas plant.</p>
+<h3><span class="mw-headline" id="Australian_development">Australian development</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Magnetohydrodynamic_generator&amp;action=edit&amp;section=13" title="Edit section: Australian development">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In 1986, Professor Hugo Karl Messerle at The University of Sydney researched coal-fueled MHD. This resulted in a 28 MWe topping facility that was operated outside Sydney. Messerle also wrote one of the most recent reference works (see below), as part of a UNESCO education program.</p>
+<p>A detailed obituary for Hugo is located on the Australian Academy of Technological Sciences and Engineering (ATSE) website.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></p>
+<h3><span class="mw-headline" id="Italian_development">Italian development</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Magnetohydrodynamic_generator&amp;action=edit&amp;section=14" title="Edit section: Italian development">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The Italian program began in 1989 with a budget of about 20 million $US, and had three main development areas:</p>
+<ol>
+<li>MHD Modelling.</li>
+<li>Superconducting magnet development. The goal in 1994 was a prototype 2 m long, storing 66 <a href="/wiki/Megajoule" class="mw-redirect" title="Megajoule">MJ</a>, for an MHD demonstration 8 m long. The field was to be 5 <a href="/wiki/Tesla_(unit)" title="Tesla (unit)">teslas</a>, with a taper of 0.15 T/m. The geometry was to resemble a saddle shape, with cylindrical and rectangular windings of niobium-titanium copper.</li>
+<li>Retrofits to natural gas powerplants. One was to be at the Enichem-Anic factor in Ravenna. In this plant, the combustion gases from the MHD would pass to the boiler. The other was a 230 MW (thermal) installation for a power station in Brindisi, that would pass steam to the main power plant.</li>
+</ol>
+<h3><span class="mw-headline" id="Chinese_development">Chinese development</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Magnetohydrodynamic_generator&amp;action=edit&amp;section=15" title="Edit section: Chinese development">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A joint U.S.-China national programme ended in 1992 by retrofitting the coal-fired No. 3 plant in Asbach. A further eleven-year program was approved in March 1994. This established centres of research in:</p>
+<ol>
+<li>The Institute of Electrical Engineering in the <a href="/wiki/Chinese_Academy_of_Sciences" title="Chinese Academy of Sciences">Chinese Academy of Sciences</a>, Beijing, concerned with MHD generator design.</li>
+<li>The <a href="/w/index.php?title=Shanghai_Power_Research_Institute&amp;action=edit&amp;redlink=1" class="new" title="Shanghai Power Research Institute (page does not exist)">Shanghai Power Research Institute</a>, concerned with overall system and superconducting magnet research.</li>
+<li>The Thermoenergy Research Engineering Institute at the Nanjing's <a href="/wiki/Southeast_University" title="Southeast University">Southeast University</a>, concerned with later developments.</li>
+</ol>
+<p>The 1994 study proposed a 10 MW (electrical, 108 MW thermal) generator with the MHD and bottoming cycle plants connected by steam piping, so either could operate independently.</p>
+<h3><span class="mw-headline" id="Russian_developments">Russian developments</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Magnetohydrodynamic_generator&amp;action=edit&amp;section=16" title="Edit section: Russian developments">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Modern_MHD_generator_U25.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/52/Modern_MHD_generator_U25.JPG/220px-Modern_MHD_generator_U25.JPG" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/52/Modern_MHD_generator_U25.JPG/330px-Modern_MHD_generator_U25.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/52/Modern_MHD_generator_U25.JPG/440px-Modern_MHD_generator_U25.JPG 2x" data-file-width="3264" data-file-height="2448" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Modern_MHD_generator_U25.JPG" class="internal" title="Enlarge"></a></div>
+U-25</div>
+</div>
+</div>
+<p>In 1971 the natural-gas fired U-25 plant was completed near Moscow, with a designed capacity of 25 megawatts . By 1974 it delivered 6 megawatts of power.<sup id="cite_ref-HANDBOOK78_5-0" class="reference"><a href="#cite_note-HANDBOOK78-5">[5]</a></sup> By 1994, Russia had developed and operated the coal-operated facility U-25, at the High-Temperature Institute of the <a href="/wiki/Russian_Academy_of_Science" class="mw-redirect" title="Russian Academy of Science">Russian Academy of Science</a> in Moscow. U-25's bottoming plant was actually operated under contract with the Moscow utility, and fed power into Moscow's grid. There was substantial interest in Russia in developing a coal-powered disc generator.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Magnetohydrodynamic_generator&amp;action=edit&amp;section=17" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Computational_magnetohydrodynamics" title="Computational magnetohydrodynamics">Computational magnetohydrodynamics</a></li>
+<li><a href="/wiki/Electrohydrodynamics" title="Electrohydrodynamics">Electrohydrodynamics</a></li>
+<li><a href="/wiki/Electromagnetic_pump" title="Electromagnetic pump">Electromagnetic pump</a></li>
+<li><a href="/wiki/Ferrofluid" title="Ferrofluid">Ferrofluid</a></li>
+<li><a href="/wiki/List_of_plasma_(physics)_articles" class="mw-redirect" title="List of plasma (physics) articles">List of plasma (physics) articles</a></li>
+<li><a href="/wiki/Magnetic_flow_meter" title="Magnetic flow meter">Magnetic flow meter</a></li>
+<li><a href="/wiki/Magnetohydrodynamic_turbulence" title="Magnetohydrodynamic turbulence">Magnetohydrodynamic turbulence</a></li>
+<li><a href="/wiki/MHD_sensor" class="mw-redirect" title="MHD sensor">MHD sensor</a></li>
+<li><a href="/wiki/Plasma_stability" title="Plasma stability">Plasma stability</a></li>
+<li><a href="/wiki/Shocks_and_discontinuities_(magnetohydrodynamics)" title="Shocks and discontinuities (magnetohydrodynamics)">Shocks and discontinuities (magnetohydrodynamics)</a></li>
+<li><a href="/wiki/TRINITY" title="TRINITY">TRINITY</a></li>
+</ul>
+<div class="noprint metadata navbox" role="navigation" aria-label="Portals" style="font-weight:bold;padding:0.4em 2em">
+<ul style="margin:0.1em 0 0">
+<li style="display:inline"><span style="display:inline-block;white-space:nowrap"><span style="margin:0 0.5em"><a href="/wiki/File:Crystal_energy.svg" class="image"><img alt="Crystal energy.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/22px-Crystal_energy.svg.png" width="22" height="21" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/34px-Crystal_energy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/44px-Crystal_energy.svg.png 2x" data-file-width="130" data-file-height="124" /></a></span><a href="/wiki/Portal:Energy" title="Portal:Energy">Energy portal</a></span></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Magnetohydrodynamic_generator&amp;action=edit&amp;section=18" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Blair M. Smith et al.: <i>Gas Core Reactor-MHD Power System with Cascading Power Cycle</i>. Conference proceedings, ICAPP'02: 2002 International congress on advances in nuclear power plants, Hollywood, FL, (<a rel="nofollow" class="external text" href="http://www.osti.gov/scitech/biblio/21167909">abstract</a>).</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.sciencedirect.com/science/article/pii/0196890494900612">The correct quasi-one-dimensional model of the fluid flow in a Faraday segmented MHD generator channel</a></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.sciencedirect.com/science/article/pii/0196890496000362">A reliable tool for the design of shape and size of Faraday segmented MHD generator channel</a></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.atse.org.au/index.php?sectionid=1045">Australian Academy of Technological Sciences and Engineering (ATSE) website</a>.</span></li>
+<li id="cite_note-HANDBOOK78-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-HANDBOOK78_5-0">^</a></b></span> <span class="reference-text">Donald G. ink, H. Wayne Beatty (ed), <i>Standard Handbook for Electrical Engineers, 11th Edition</i>, Mc Graw Hill, 1978 <a href="/wiki/Special:BookSources/007020974X" class="internal mw-magiclink-isbn">ISBN 0-07-020974-X</a> page 11-52</span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Magnetohydrodynamic_generator&amp;action=edit&amp;section=19" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>Hugo K. Messerle, <i>Magnetohydrodynamic Power Generation</i>, 1994, John Wiley, Chichester, Part of the UNESCO Energy Engineering Series (This is the source of the historical and generator design information).</li>
+<li>Shioda, S. "Results of Feasibility Studies on Closed-Cycle MHD Power Plants", Proc. Plasma Tech. Conf., 1991, Sydney, Australia, pp.&#160;189–200.</li>
+<li>R.J. Rosa, <i>Magnetohydrodynamic Energy Conversion</i>, 1987, Hemisphere Publishing, Washington, D.C.</li>
+<li>G.J. Womac, <i>MHD Power Generation</i>, 1969, Chapman and Hall, London.</li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Magnetohydrodynamic_generator&amp;action=edit&amp;section=20" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tr>
+<td class="mbox-image"><a href="/wiki/File:Commons-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Magnetohydrodynamic_generators" class="extiw" title="commons:Category:Magnetohydrodynamic generators">Magnetohydrodynamic generators</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20060709223121/http://www.utsi.edu/news/release12-1-04mhdgenerator.html">MHD generator Research at the University of Tennessee Space Institute</a> (archive) - 2004</li>
+<li><a rel="nofollow" class="external text" href="http://icm.krasn.ru/section.php?id=5&amp;page=lab23devices&amp;lang=eng">Model of an MHD-generator at the Institute of Computational Modelling, Akademgorodok, Russia</a> - 2003</li>
+<li><a rel="nofollow" class="external text" href="http://www.die.ing.unibo.it/Labs/MHD/MHlabE.htm">The Magnetohydrodynamic Engineering Laboratory Of The University Of Bologna, Italy</a> - 2003</li>
+<li><a rel="nofollow" class="external text" href="http://www.solarmhd.com">High Efficiency Magnetohydrodynamic Power Generation</a> - 2015</li>
+</ul>
+<div role="navigation" class="navbox" aria-label="Navbox" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span style="white-space:nowrap;"><a href="/wiki/National_Diet_Library" title="National Diet Library">NDL</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.ndl.go.jp/auth/ndlna/00567631">00567631</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1252
+Cached time: 20170129181132
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.088 seconds
+Real time usage: 0.160 seconds
+Preprocessor visited node count: 485/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 6736/2097152 bytes
+Template argument size: 890/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 1/500
+Lua time usage: 0.026/10.000 seconds
+Lua memory usage: 1.47 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   93.378      1 -total
+ 46.23%   43.167      1 Template:Citation_needed
+ 33.27%   31.069      1 Template:Fix
+ 24.17%   22.568      1 Template:Commons_category
+ 19.77%   18.456      2 Template:Category_handler
+ 13.18%   12.309      1 Template:Authority_control
+ 11.26%   10.517      1 Template:Delink
+  7.63%    7.126      1 Template:Portal_bar
+  6.30%    5.879      1 Template:Commons
+  5.33%    4.978      1 Template:Reflist
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1502835-0!*!0!!en!4!*!math=5 and timestamp 20170129181131 and revision id 737903296
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Magnetohydrodynamic_generator&amp;oldid=737903296">https://en.wikipedia.org/w/index.php?title=Magnetohydrodynamic_generator&amp;oldid=737903296</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Chemical_engineering" title="Category:Chemical engineering">Chemical engineering</a></li><li><a href="/wiki/Category:Electrical_generators" title="Category:Electrical generators">Electrical generators</a></li><li><a href="/wiki/Category:Energy_conversion" title="Category:Energy conversion">Energy conversion</a></li><li><a href="/wiki/Category:Hungarian_inventions" title="Category:Hungarian inventions">Hungarian inventions</a></li><li><a href="/wiki/Category:Plasma_physics" title="Category:Plasma physics">Plasma physics</a></li><li><a href="/wiki/Category:Power_station_technology" title="Category:Power station technology">Power station technology</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Pages_using_ISBN_magic_links" title="Category:Pages using ISBN magic links">Pages using ISBN magic links</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_September_2013" title="Category:Articles with unsourced statements from September 2013">Articles with unsourced statements from September 2013</a></li><li><a href="/wiki/Category:Commons_category_with_local_link_same_as_on_Wikidata" title="Category:Commons category with local link same as on Wikidata">Commons category with local link same as on Wikidata</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Magnetohydrodynamic+generator" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Magnetohydrodynamic+generator" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Magnetohydrodynamic_generator"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Magnetohydrodynamic_generator"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Magnetohydrodynamic_generator" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Magnetohydrodynamic_generator&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Magnetohydrodynamic_generator&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Magnetohydrodynamic_generator" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Magnetohydrodynamic_generator" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Magnetohydrodynamic_generator&amp;oldid=737903296" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Magnetohydrodynamic_generator&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q186092" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Magnetohydrodynamic_generator&amp;id=737903296" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Magnetohydrodynamic+generator">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Magnetohydrodynamic+generator&amp;returnto=Magnetohydrodynamic+generator&amp;oldid=737903296&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Magnetohydrodynamic_generator&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Magnetohydrodynamic_generators" hreflang="en">Wikimedia Commons</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Magnetohydrodynamischer_Generator" title="Magnetohydrodynamischer Generator – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/G%C3%A9n%C3%A9rateur_MHD" title="Générateur MHD – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/MHD_%EB%B0%9C%EC%A0%84" title="MHD 발전 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D5%84%D5%A1%D5%A3%D5%B6%D5%AB%D5%BD%D5%A1%D5%B0%D5%AB%D5%A4%D6%80%D5%B8%D5%A4%D5%AB%D5%B6%D5%A1%D5%B4%D5%AB%D5%AF%D5%A1%D5%AF%D5%A1%D5%B6_%D5%A3%D5%A5%D5%B6%D5%A5%D6%80%D5%A1%D5%BF%D5%B8%D6%80" title="Մագնիսահիդրոդինամիկական գեներատոր – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Magnetohidrodinami%C4%8Dki_generator" title="Magnetohidrodinamički generator – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/MHD%E7%99%BA%E9%9B%BB" title="MHD発電 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Magnetohydrodynamisk_generator" title="Magnetohydrodynamisk generator – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Generator_magnetohydrodynamiczny" title="Generator magnetohydrodynamiczny – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Gerador_MHD" title="Gerador MHD – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Generator_magnetohidrodinamic" title="Generator magnetohidrodinamic – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%B3%D0%BD%D0%B8%D1%82%D0%BE%D0%B3%D0%B8%D0%B4%D1%80%D0%BE%D0%B4%D0%B8%D0%BD%D0%B0%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%B3%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80" title="Магнитогидродинамический генератор – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/M%C3%A1y_ph%C3%A1t_%C4%91i%E1%BB%87n_t%E1%BB%AB_th%E1%BB%A7y_%C4%91%E1%BB%99ng_l%E1%BB%B1c_h%E1%BB%8Dc" title="Máy phát điện từ thủy động lực học – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E7%A3%81%E6%B5%81%E9%AB%94%E7%99%BC%E9%9B%BB" title="磁流體發電 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q186092#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 5 September 2016, at 18:37.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Magnetohydrodynamic_generator&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.088","walltime":"0.160","ppvisitednodes":{"value":485,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":6736,"limit":2097152},"templateargumentsize":{"value":890,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%   93.378      1 -total"," 46.23%   43.167      1 Template:Citation_needed"," 33.27%   31.069      1 Template:Fix"," 24.17%   22.568      1 Template:Commons_category"," 19.77%   18.456      2 Template:Category_handler"," 13.18%   12.309      1 Template:Authority_control"," 11.26%   10.517      1 Template:Delink","  7.63%    7.126      1 Template:Portal_bar","  6.30%    5.879      1 Template:Commons","  5.33%    4.978      1 Template:Reflist"]},"scribunto":{"limitreport-timeusage":{"value":"0.026","limit":"10.000"},"limitreport-memusage":{"value":1542759,"limit":52428800}},"cachereport":{"origin":"mw1252","timestamp":"20170129181132","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":63,"wgHostname":"mw1174"});});</script>
+	</body>
+</html>

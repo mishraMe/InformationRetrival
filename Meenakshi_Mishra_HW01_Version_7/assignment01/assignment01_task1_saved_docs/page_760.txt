@@ -1,0 +1,1831 @@
+url : https://en.wikipedia.org/wiki/Carnot_cycle
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Carnot cycle - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Carnot_cycle","wgTitle":"Carnot cycle","wgCurRevisionId":756580511,"wgRevisionId":756580511,"wgArticleId":5994167,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: Explicit use of et al.","Wikipedia articles needing clarification from April 2014","Pages using ISBN magic links","Thermodynamic cycles"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Carnot_cycle","wgRelevantArticleId":5994167,"wgRequestId":"WI2TmwpAMFsAAB7Z5DUAAABQ","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q188910","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.math.styles":"ready","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.math.scripts","ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.9"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Carnot_cycle"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Carnot_cycle&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Carnot_cycle&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Carnot_cycle"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Carnot_cycle rootpage-Carnot_cycle skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Carnot cycle</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><table class="vertical-navbox nowraplinks plainlist" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%">
+<tr>
+<th style="padding:0.2em 0.4em 0.2em;font-size:145%;line-height:1.2em;padding-bottom:0.3em;border-bottom:1px solid #aaa;"><a href="/wiki/Thermodynamics" title="Thermodynamics">Thermodynamics</a></th>
+</tr>
+<tr>
+<td style="padding:0.2em 0 0.4em;display:block;margin:0.3em 0 0.4em;"><a href="/wiki/Carnot_heat_engine" title="Carnot heat engine"><img alt="Carnot heat engine 2.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Carnot_heat_engine_2.svg/220px-Carnot_heat_engine_2.svg.png" width="220" height="97" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Carnot_heat_engine_2.svg/330px-Carnot_heat_engine_2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/22/Carnot_heat_engine_2.svg/440px-Carnot_heat_engine_2.svg.png 2x" data-file-width="840" data-file-height="370" /></a>
+<div style="padding-top:0.2em;line-height:1.2em">The classical <a href="/wiki/Carnot_heat_engine" title="Carnot heat engine">Carnot heat engine</a></div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf;text-align:center;">Branches</div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Thermodynamics" title="Thermodynamics">Classical</a></li>
+<li><a href="/wiki/Statistical_mechanics" title="Statistical mechanics">Statistical</a></li>
+<li><a href="/wiki/Chemical_thermodynamics" title="Chemical thermodynamics">Chemical</a></li>
+</ul>
+</div>
+<ul>
+<li><a href="/wiki/Equilibrium_thermodynamics" title="Equilibrium thermodynamics">Equilibrium</a>&#160;/ <a href="/wiki/Non-equilibrium_thermodynamics" title="Non-equilibrium thermodynamics">Non-equilibrium</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf;text-align:center;"><a href="/wiki/Laws_of_thermodynamics" title="Laws of thermodynamics">Laws</a></div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Zeroth_law_of_thermodynamics" title="Zeroth law of thermodynamics">Zeroth</a></li>
+<li><a href="/wiki/First_law_of_thermodynamics" title="First law of thermodynamics">First</a></li>
+<li><a href="/wiki/Second_law_of_thermodynamics" title="Second law of thermodynamics">Second</a></li>
+<li><a href="/wiki/Third_law_of_thermodynamics" title="Third law of thermodynamics">Third</a></li>
+</ul>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf;text-align:center;"><a href="/wiki/Thermodynamic_system" title="Thermodynamic system">Systems</a></div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;border-collapse:collapse; border-spacing:0px; border:none; width:100%; margin:0px; font-size:100%; clear:none; float:none">
+<tr>
+<th style="padding:0.1em;background:#eaeaff;font-style:italic;"><a href="/wiki/Thermodynamic_state" title="Thermodynamic state">State</a></th>
+</tr>
+<tr>
+<td class="hlist" style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/Equation_of_state" title="Equation of state">Equation of state</a></li>
+<li><a href="/wiki/Ideal_gas" title="Ideal gas">Ideal gas</a></li>
+<li><a href="/wiki/Real_gas" title="Real gas">Real gas</a></li>
+<li><a href="/wiki/State_of_matter" title="State of matter">State of matter</a></li>
+<li><a href="/wiki/Thermodynamic_equilibrium" title="Thermodynamic equilibrium">Equilibrium</a></li>
+<li><a href="/wiki/Control_volume" title="Control volume">Control volume</a></li>
+<li><a href="/wiki/Thermodynamic_instruments" title="Thermodynamic instruments">Instruments</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background:#eaeaff;font-style:italic;"><a href="/wiki/Thermodynamic_process" title="Thermodynamic process">Processes</a></th>
+</tr>
+<tr>
+<td class="hlist" style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/Isobaric_process" title="Isobaric process">Isobaric</a></li>
+<li><a href="/wiki/Isochoric_process" title="Isochoric process">Isochoric</a></li>
+<li><a href="/wiki/Isothermal_process" title="Isothermal process">Isothermal</a></li>
+<li><a href="/wiki/Adiabatic_process" title="Adiabatic process">Adiabatic</a></li>
+<li><a href="/wiki/Isentropic_process" title="Isentropic process">Isentropic</a></li>
+<li><a href="/wiki/Isenthalpic_process" title="Isenthalpic process">Isenthalpic</a></li>
+<li><a href="/wiki/Quasistatic_process" title="Quasistatic process">Quasistatic</a></li>
+<li><a href="/wiki/Polytropic_process" title="Polytropic process">Polytropic</a></li>
+<li><a href="/wiki/Free_expansion" title="Free expansion">Free expansion</a></li>
+<li><a href="/wiki/Reversible_process_(thermodynamics)" title="Reversible process (thermodynamics)">Reversibility</a></li>
+<li><a href="/wiki/Irreversible_process" title="Irreversible process">Irreversibility</a></li>
+<li><a href="/wiki/Endoreversible_thermodynamics" title="Endoreversible thermodynamics">Endoreversibility</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background:#eaeaff;font-style:italic;"><a href="/wiki/Thermodynamic_cycle" title="Thermodynamic cycle">Cycles</a></th>
+</tr>
+<tr>
+<td class="hlist" style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/Heat_engine" title="Heat engine">Heat engines</a></li>
+<li><a href="/wiki/Heat_pump_and_refrigeration_cycle" title="Heat pump and refrigeration cycle">Heat pumps</a></li>
+<li><a href="/wiki/Thermal_efficiency" title="Thermal efficiency">Thermal efficiency</a></li>
+</ul>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf;text-align:center;"><a href="/wiki/List_of_thermodynamic_properties" title="List of thermodynamic properties">System properties</a></div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<div style="font-size:90%;padding-bottom:0.2em;border-bottom:1px solid #aaa;">Note: <a href="/wiki/Conjugate_variables_(thermodynamics)" title="Conjugate variables (thermodynamics)">Conjugate variables</a> in <i>italics</i></div>
+<table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;border-collapse:collapse; border-spacing:0px; border:none; width:100%; margin:0px; font-size:100%; clear:none; float:none;margin-top:0.4em;">
+<tr>
+<td style="padding:0 0.1em 0.4em;padding-bottom:0.7em;">
+<ul>
+<li><a href="/wiki/Thermodynamic_diagrams" title="Thermodynamic diagrams">Property diagrams</a></li>
+<li><a href="/wiki/Intensive_and_extensive_properties" title="Intensive and extensive properties">Intensive and extensive properties</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background:#eaeaff;font-style:italic;"><a href="/wiki/State_function" title="State function">Functions of state</a></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;padding-bottom:0.7em;">
+<ul>
+<li><a href="/wiki/Thermodynamic_temperature" title="Thermodynamic temperature">Temperature</a>&#160;/ <i><a href="/wiki/Entropy" title="Entropy">Entropy</a></i>&#160;(<a href="/wiki/Introduction_to_entropy" title="Introduction to entropy">introduction</a>)</li>
+<li><a href="/wiki/Pressure" title="Pressure">Pressure</a>&#160;/ <i><a href="/wiki/Volume_(thermodynamics)" title="Volume (thermodynamics)">Volume</a></i></li>
+<li><a href="/wiki/Chemical_potential" title="Chemical potential">Chemical potential</a>&#160;/ <i><a href="/wiki/Particle_number" title="Particle number">Particle number</a></i></li>
+<li><a href="/wiki/Vapor_quality" title="Vapor quality">Vapor quality</a></li>
+<li><a href="/wiki/Reduced_properties" title="Reduced properties">Reduced properties</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background:#eaeaff;font-style:italic;"><a href="/wiki/Process_function" title="Process function">Process functions</a></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;padding-bottom:0.7em;;padding-bottom:0.4em;">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Work_(thermodynamics)" title="Work (thermodynamics)">Work</a></li>
+<li><a href="/wiki/Heat" title="Heat">Heat</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf;text-align:center;"><a href="/wiki/Material_properties_(thermodynamics)" title="Material properties (thermodynamics)">Material properties</a></div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul>
+<li><a href="/wiki/Thermodynamic_databases_for_pure_substances" title="Thermodynamic databases for pure substances">Property databases</a></li>
+</ul>
+<div style="font-size:90%;margin-top:0.4em;border-top:1px solid #aaa;text-align:center;">
+<table>
+<tr>
+<td style="vertical-align:middle; text-align:right"><a href="/wiki/Heat_capacity" title="Heat capacity">Specific heat capacity</a>&#160;</td>
+<td style="vertical-align:middle; text-align:left"><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>c</mi>
+        <mo>=</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle c=}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/891d40a9b18752b04065caee655d008b3ec11428" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:3.481ex; height:1.676ex;" alt="c=" /></span></td>
+<td>
+<table>
+<tr>
+<td><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>T</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle T}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ec7200acd984a1d3a3d7dc455e262fbe54f7f6e0" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.647ex; height:2.176ex;" alt="T" /></span></td>
+<td><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi mathvariant="normal">&#x2202;<!-- ∂ --></mi>
+        <mi>S</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \partial S}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c609f4d3c5692ea4495479ef47594dc67f9fa464" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:2.838ex; height:2.343ex;" alt="\partial S" /></span></td>
+</tr>
+<tr>
+<td style="border-top:solid 1px black;"><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>N</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle N}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f5e3890c981ae85503089652feb48b191b57aae3" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:2.074ex; height:2.176ex;" alt="N" /></span></td>
+<td style="border-top:solid 1px black;"><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi mathvariant="normal">&#x2202;<!-- ∂ --></mi>
+        <mi>T</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \partial T}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/504aa558fff3d00d10b03cadb1085cb0b7bdc631" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:2.975ex; height:2.343ex;" alt="\partial T" /></span></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style="vertical-align:middle; text-align:right"><a href="/wiki/Compressibility" title="Compressibility">Compressibility</a>&#160;</td>
+<td style="vertical-align:middle; text-align:left"><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>&#x03B2;<!-- β --></mi>
+        <mo>=</mo>
+        <mo>&#x2212;<!-- − --></mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \beta =-}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b01c042bf1456bd4d2a8caed1f4912820a7ecbb3" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:6.27ex; height:2.509ex;" alt="\beta =-" /></span></td>
+<td>
+<table>
+<tr>
+<td><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mn>1</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle 1}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/92d98b82a3778f043108d4e20960a9193df57cbf" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.173ex; height:2.176ex;" alt="1" /></span></td>
+<td><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi mathvariant="normal">&#x2202;<!-- ∂ --></mi>
+        <mi>V</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \partial V}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0cecdd9d069fa84159940068fc11a91b6b3b9ee4" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:3.126ex; height:2.343ex;" alt="\partial V" /></span></td>
+</tr>
+<tr>
+<td style="border-top:solid 1px black;"><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>V</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle V}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/af0f6064540e84211d0ffe4dac72098adfa52845" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.798ex; height:2.176ex;" alt="V" /></span></td>
+<td style="border-top:solid 1px black;"><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi mathvariant="normal">&#x2202;<!-- ∂ --></mi>
+        <mi>p</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \partial p}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ebc4a48eb2412f08b54fe438b5139c88f9cfa372" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:2.508ex; height:2.676ex;" alt="\partial p" /></span></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style="vertical-align:middle; text-align:right"><a href="/wiki/Thermal_expansion" title="Thermal expansion">Thermal expansion</a>&#160;</td>
+<td style="vertical-align:middle; text-align:left"><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>&#x03B1;<!-- α --></mi>
+        <mo>=</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \alpha =}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a92d4583d351f08c1c70985f0c843b2fff1b01e7" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:3.962ex; height:1.676ex;" alt="\alpha =" /></span></td>
+<td>
+<table>
+<tr>
+<td><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mn>1</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle 1}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/92d98b82a3778f043108d4e20960a9193df57cbf" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.173ex; height:2.176ex;" alt="1" /></span></td>
+<td><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi mathvariant="normal">&#x2202;<!-- ∂ --></mi>
+        <mi>V</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \partial V}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0cecdd9d069fa84159940068fc11a91b6b3b9ee4" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:3.126ex; height:2.343ex;" alt="\partial V" /></span></td>
+</tr>
+<tr>
+<td style="border-top:solid 1px black;"><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>V</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle V}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/af0f6064540e84211d0ffe4dac72098adfa52845" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.798ex; height:2.176ex;" alt="V" /></span></td>
+<td style="border-top:solid 1px black;"><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi mathvariant="normal">&#x2202;<!-- ∂ --></mi>
+        <mi>T</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \partial T}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/504aa558fff3d00d10b03cadb1085cb0b7bdc631" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:2.975ex; height:2.343ex;" alt="\partial T" /></span></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf;text-align:center;"><a href="/wiki/Thermodynamic_equations" title="Thermodynamic equations">Equations</a></div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Carnot%27s_theorem_(thermodynamics)" title="Carnot's theorem (thermodynamics)">Carnot's theorem</a></li>
+<li><a href="/wiki/Clausius_theorem" title="Clausius theorem">Clausius theorem</a></li>
+<li><a href="/wiki/Fundamental_thermodynamic_relation" title="Fundamental thermodynamic relation">Fundamental relation</a></li>
+<li><a href="/wiki/Ideal_gas_law" title="Ideal gas law">Ideal gas law</a></li>
+</ul>
+</div>
+<ul>
+<li><a href="/wiki/Maxwell_relations" title="Maxwell relations">Maxwell relations</a></li>
+<li><a href="/wiki/Onsager_reciprocal_relations" title="Onsager reciprocal relations">Onsager reciprocal relations</a></li>
+<li><a href="/wiki/Bridgman%27s_thermodynamic_equations" title="Bridgman's thermodynamic equations">Bridgman's equations</a></li>
+<li><i><a href="/wiki/Table_of_thermodynamic_equations" title="Table of thermodynamic equations">Table of thermodynamic equations</a></i></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf;text-align:center;"><a href="/wiki/Thermodynamic_potential" title="Thermodynamic potential">Potentials</a></div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Thermodynamic_free_energy" title="Thermodynamic free energy">Free energy</a></li>
+<li><a href="/wiki/Free_entropy" title="Free entropy">Free entropy</a></li>
+</ul>
+</div>
+<div class="plainlist">
+<ul>
+<li style="font-size:110%;line-height:1.6em;padding-bottom:0.5em;"><a href="/wiki/Internal_energy" title="Internal energy">Internal energy</a><br />
+<span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>U</mi>
+        <mo stretchy="false">(</mo>
+        <mi>S</mi>
+        <mo>,</mo>
+        <mi>V</mi>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle U(S,V)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/921f33f9c6551562ec836007b035c2de6323d2d6" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:7.975ex; height:2.843ex;" alt="U(S,V)" /></span></li>
+<li style="font-size:110%;line-height:1.6em;padding-bottom:0.5em;"><a href="/wiki/Enthalpy" title="Enthalpy">Enthalpy</a><br />
+<span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>H</mi>
+        <mo stretchy="false">(</mo>
+        <mi>S</mi>
+        <mo>,</mo>
+        <mi>p</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mi>U</mi>
+        <mo>+</mo>
+        <mi>p</mi>
+        <mi>V</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle H(S,p)=U+pV}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6407d78e5f39d07f70e2414a92e08e2e068519f3" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:18.369ex; height:2.843ex;" alt="H(S,p)=U+pV" /></span></li>
+<li style="font-size:110%;line-height:1.6em;padding-bottom:0.5em;"><a href="/wiki/Helmholtz_free_energy" title="Helmholtz free energy">Helmholtz free energy</a><br />
+<span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>A</mi>
+        <mo stretchy="false">(</mo>
+        <mi>T</mi>
+        <mo>,</mo>
+        <mi>V</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mi>U</mi>
+        <mo>&#x2212;<!-- − --></mo>
+        <mi>T</mi>
+        <mi>S</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle A(T,V)=U-TS}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5e93692f031ba6484d82731c54db83a69daed3f0" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:18.982ex; height:2.843ex;" alt="A(T,V)=U-TS" /></span></li>
+<li style="font-size:110%;line-height:1.6em;padding-bottom:0.5em;"><a href="/wiki/Gibbs_free_energy" title="Gibbs free energy">Gibbs free energy</a><br />
+<span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>G</mi>
+        <mo stretchy="false">(</mo>
+        <mi>T</mi>
+        <mo>,</mo>
+        <mi>p</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mi>H</mi>
+        <mo>&#x2212;<!-- − --></mo>
+        <mi>T</mi>
+        <mi>S</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle G(T,p)=H-TS}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8dd7a8f0b8ae04963da133e3b202432e1b6caed4" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:18.729ex; height:2.843ex;" alt="G(T,p)=H-TS" /></span></li>
+</ul>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf;text-align:center;">
+<div class="hlist">
+<ul>
+<li>History</li>
+<li>Culture</li>
+</ul>
+</div>
+</div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;border-collapse:collapse; border-spacing:0px; border:none; width:100%; margin:0px; font-size:100%; clear:none; float:none">
+<tr>
+<th style="padding:0.1em;background:#eaeaff;font-style:italic;">History</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/History_of_thermodynamics" title="History of thermodynamics">General</a></li>
+<li><a href="/wiki/History_of_heat" title="History of heat">Heat</a></li>
+<li><a href="/wiki/History_of_entropy" title="History of entropy">Entropy</a></li>
+<li><a href="/wiki/Gas_laws" title="Gas laws">Gas laws</a></li>
+</ul>
+</div>
+<ul>
+<li><a href="/wiki/History_of_perpetual_motion_machines" title="History of perpetual motion machines">"Perpetual motion" machines</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background:#eaeaff;font-style:italic;"><a href="/wiki/Philosophy_of_thermal_and_statistical_physics" title="Philosophy of thermal and statistical physics">Philosophy</a></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Entropy_(arrow_of_time)" title="Entropy (arrow of time)">Entropy and time</a></li>
+<li><a href="/wiki/Entropy_and_life" title="Entropy and life">Entropy and life</a></li>
+<li><a href="/wiki/Brownian_ratchet" title="Brownian ratchet">Brownian ratchet</a></li>
+<li><a href="/wiki/Maxwell%27s_demon" title="Maxwell's demon">Maxwell's demon</a></li>
+<li><a href="/wiki/Heat_death_paradox" title="Heat death paradox">Heat death paradox</a></li>
+<li><a href="/wiki/Loschmidt%27s_paradox" title="Loschmidt's paradox">Loschmidt's paradox</a></li>
+<li><a href="/wiki/Synergetics_(Haken)" title="Synergetics (Haken)">Synergetics</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background:#eaeaff;font-style:italic;">Theories</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Caloric_theory" title="Caloric theory">Caloric theory</a></li>
+<li><a href="/wiki/Theory_of_heat" title="Theory of heat">Theory of heat</a></li>
+</ul>
+</div>
+<ul>
+<li><a href="/wiki/Vis_viva" title="Vis viva"><i>Vis viva</i> <span style="font-size:90%;">("living force")</span></a></li>
+<li><a href="/wiki/Mechanical_equivalent_of_heat" title="Mechanical equivalent of heat">Mechanical equivalent of heat</a></li>
+<li><a href="/wiki/Motive_power" title="Motive power">Motive power</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background:#eaeaff;font-style:italic;"><a href="/wiki/List_of_important_publications_in_physics" title="List of important publications in physics">Key publications</a></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<ul>
+<li>
+<div style="padding:0.2em 0.4em; line-height:1.2em;">"<a href="/wiki/An_Experimental_Enquiry_Concerning_the_Source_of_the_Heat_which_is_Excited_by_Friction" title="An Experimental Enquiry Concerning the Source of the Heat which is Excited by Friction">An Experimental Enquiry<br />
+Concerning ... Heat</a>"</div>
+</li>
+<li>
+<div style="padding:0.2em 0.4em; line-height:1.2em;">"<a href="/wiki/On_the_Equilibrium_of_Heterogeneous_Substances" title="On the Equilibrium of Heterogeneous Substances">On the Equilibrium of<br />
+Heterogeneous Substances</a>"</div>
+</li>
+<li>
+<div style="padding:0.2em 0.4em; line-height:1.2em;">"<a href="/wiki/Reflections_on_the_Motive_Power_of_Fire" title="Reflections on the Motive Power of Fire">Reflections on the<br />
+Motive Power of Fire</a>"</div>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background:#eaeaff;font-style:italic;">Timelines</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Timeline_of_thermodynamics" title="Timeline of thermodynamics">Thermodynamics</a></li>
+<li><a href="/wiki/Timeline_of_heat_engine_technology" title="Timeline of heat engine technology">Heat engines</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background:#eaeaff;font-style:italic;">
+<div class="hlist">
+<ul>
+<li>Art</li>
+<li>Education</li>
+</ul>
+</div>
+</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/Maxwell%27s_thermodynamic_surface" title="Maxwell's thermodynamic surface">Maxwell's thermodynamic surface</a></li>
+<li><a href="/wiki/Entropy_(energy_dispersal)" title="Entropy (energy dispersal)">Entropy as energy dispersal</a></li>
+</ul>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf;text-align:center;">Scientists</div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Daniel_Bernoulli" title="Daniel Bernoulli">Bernoulli</a></li>
+<li><a href="/wiki/Nicolas_L%C3%A9onard_Sadi_Carnot" title="Nicolas Léonard Sadi Carnot">Carnot</a></li>
+<li><a href="/wiki/Beno%C3%AEt_Paul_%C3%89mile_Clapeyron" title="Benoît Paul Émile Clapeyron">Clapeyron</a></li>
+<li><a href="/wiki/Rudolf_Clausius" title="Rudolf Clausius">Clausius</a></li>
+<li><a href="/wiki/Constantin_Carath%C3%A9odory" title="Constantin Carathéodory">Carathéodory</a></li>
+<li><a href="/wiki/Pierre_Duhem" title="Pierre Duhem">Duhem</a></li>
+<li><a href="/wiki/Josiah_Willard_Gibbs" title="Josiah Willard Gibbs">Gibbs</a></li>
+<li><a href="/wiki/Hermann_von_Helmholtz" title="Hermann von Helmholtz">von Helmholtz</a></li>
+<li><a href="/wiki/James_Prescott_Joule" title="James Prescott Joule">Joule</a></li>
+<li><a href="/wiki/James_Clerk_Maxwell" title="James Clerk Maxwell">Maxwell</a></li>
+<li><a href="/wiki/Julius_von_Mayer" title="Julius von Mayer">von Mayer</a></li>
+<li><a href="/wiki/Lars_Onsager" title="Lars Onsager">Onsager</a></li>
+<li><a href="/wiki/William_John_Macquorn_Rankine" title="William John Macquorn Rankine">Rankine</a></li>
+<li><a href="/wiki/John_Smeaton" title="John Smeaton">Smeaton</a></li>
+<li><a href="/wiki/Georg_Ernst_Stahl" title="Georg Ernst Stahl">Stahl</a></li>
+<li><a href="/wiki/Benjamin_Thompson" title="Benjamin Thompson">Thompson</a></li>
+<li><a href="/wiki/William_Thomson,_1st_Baron_Kelvin" title="William Thomson, 1st Baron Kelvin">Thomson</a></li>
+<li><a href="/wiki/John_James_Waterston" title="John James Waterston">Waterston</a></li>
+</ul>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0.3em 0.4em 0.3em;font-weight:bold;border-top: 1px solid #aaa; border-bottom: 1px solid #aaa;"><a href="/wiki/Book:Thermodynamics" title="Book:Thermodynamics">Book:Thermodynamics</a></td>
+</tr>
+<tr>
+<td style="text-align:right;font-size:115%;padding-top: 0.6em;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Thermodynamics" title="Template:Thermodynamics"><abbr title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Thermodynamics" title="Template talk:Thermodynamics"><abbr title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Thermodynamics&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<p>The <b>Carnot cycle</b> is a theoretical <a href="/wiki/Thermodynamic_cycle" title="Thermodynamic cycle">thermodynamic cycle</a> proposed by <a href="/wiki/Nicolas_L%C3%A9onard_Sadi_Carnot" title="Nicolas Léonard Sadi Carnot">Nicolas Léonard Sadi Carnot</a> in 1824 and expanded upon by others in the 1830s and 1840s. It provides an upper limit on the efficiency that any classical thermodynamic engine can achieve during the conversion of <a href="/wiki/Heat" title="Heat">heat</a> into <a href="/wiki/Work_(physics)" title="Work (physics)">work</a>, or conversely, the efficiency of a <a href="/wiki/Refrigeration" title="Refrigeration">refrigeration</a> system in creating a temperature difference (e.g. refrigeration) by the application of work to the system. It is not an actual thermodynamic cycle but is a theoretical construct.</p>
+<p>Every single thermodynamic system exists in a particular state. When a system is taken through a series of different states and finally returned to its initial state, a thermodynamic cycle is said to have occurred. In the process of going through this cycle, the system may perform work on its surroundings, thereby acting as a <a href="/wiki/Heat_engine" title="Heat engine">heat engine</a>. A system undergoing a Carnot cycle is called a <a href="/wiki/Carnot_heat_engine" title="Carnot heat engine">Carnot heat engine</a>, although such a "perfect" engine is only a theoretical construct and cannot be built in practice.<sup id="cite_ref-Giordano2009_1-0" class="reference"><a href="#cite_note-Giordano2009-1">[1]</a></sup> However, a microscopic Carnot heat engine has been designed and run.<sup id="cite_ref-Martinez2016_2-0" class="reference"><a href="#cite_note-Martinez2016-2">[2]</a></sup></p>
+<p>Essentially, there are two systems at temperatures <i>T</i><sub>h</sub> and <i>T</i><sub>c</sub> (hot and cold respectively), which are so large that their temperatures are practically unaffected by a single cycle. As such, they are called "heat reservoirs". Since the cycle is reversible, there is no generation of entropy during the cycle; entropy is conserved. During the cycle, an arbitrary amount of entropy Δ<i>S</i> is extracted from the hot reservoir, and deposited in the cold reservoir. Since there is no volume change in either reservoir, they do no work, and during the cycle, an amount of energy <i>T</i><sub>h</sub>ΔS is extracted from the hot reservoir and a smaller amount of energy <i>T</i><sub>c</sub>ΔS is deposited in the cold reservoir. The difference in the two energies (<i>T</i><sub>h</sub>-T<sub>c</sub>)Δ<i>S</i> is equal to the work done by the engine.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Stages"><span class="tocnumber">1</span> <span class="toctext">Stages</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#The_pressure-volume_graph"><span class="tocnumber">1.1</span> <span class="toctext">The pressure-volume graph</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#Properties_and_significance"><span class="tocnumber">2</span> <span class="toctext">Properties and significance</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#The_temperature-entropy_diagram"><span class="tocnumber">2.1</span> <span class="toctext">The temperature-entropy diagram</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#The_Carnot_cycle"><span class="tocnumber">2.2</span> <span class="toctext">The Carnot cycle</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#The_Reversed_Carnot_cycle"><span class="tocnumber">2.3</span> <span class="toctext">The Reversed Carnot cycle</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Carnot.27s_theorem"><span class="tocnumber">2.4</span> <span class="toctext">Carnot's theorem</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Efficiency_of_real_heat_engines"><span class="tocnumber">2.5</span> <span class="toctext">Efficiency of real heat engines</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Stages">Stages</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Carnot_cycle&amp;action=edit&amp;section=1" title="Edit section: Stages">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:402px;"><a href="/wiki/File:Carnot_cycle_p-V_diagram.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Carnot_cycle_p-V_diagram.svg/400px-Carnot_cycle_p-V_diagram.svg.png" width="400" height="320" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Carnot_cycle_p-V_diagram.svg/600px-Carnot_cycle_p-V_diagram.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/06/Carnot_cycle_p-V_diagram.svg/800px-Carnot_cycle_p-V_diagram.svg.png 2x" data-file-width="1000" data-file-height="800" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Carnot_cycle_p-V_diagram.svg" class="internal" title="Enlarge"></a></div>
+Figure 1: A Carnot cycle illustrated on a <a href="/wiki/PV_diagram" class="mw-redirect" title="PV diagram">PV diagram</a> to illustrate the work done.</div>
+</div>
+</div>
+<p>The Carnot cycle when acting as a heat engine consists of the following steps:</p>
+<ol>
+<li><b>Reversible <a href="/wiki/Isothermal" class="mw-redirect" title="Isothermal">isothermal</a> expansion of the gas at the "hot" temperature, <i>T</i><sub><i>1</i></sub> (isothermal heat addition or absorption).</b> During this step (1 to 2 on Figure 1, A to B in Figure 2) the gas is allowed to expand and it does work on the surroundings. The temperature of the gas does not change during the process, and thus the expansion is isothermal. The gas expansion is propelled by absorption of heat energy Q<sub>1</sub> from the high temperature reservoir and results in an increase of entropy of the gas in the amount <span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi mathvariant="normal">&#x0394;<!-- Δ --></mi>
+        <msub>
+          <mi>S</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>1</mn>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <msub>
+          <mi>Q</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>1</mn>
+          </mrow>
+        </msub>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo>/</mo>
+        </mrow>
+        <msub>
+          <mi>T</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>1</mn>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \Delta S_{1}=Q_{1}/T_{1}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/83ce0cf0cfdbe5e7b9b14a69ec4f810da6d54954" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:14.065ex; height:2.843ex;" alt="{\displaystyle \Delta S_{1}=Q_{1}/T_{1}}" /></span>.</li>
+<li><b><a href="/wiki/Isentropic_process" title="Isentropic process">Isentropic</a> (<a href="/wiki/Reversible_adiabatic_process" class="mw-redirect" title="Reversible adiabatic process">reversible adiabatic</a>) expansion of the gas (isentropic work output).</b> For this step (2 to 3 on Figure 1, B to C in Figure 2) the mechanisms of the engine are assumed to be thermally insulated, thus they neither gain nor lose heat (an adiabatic process). The gas continues to expand, doing work on the surroundings, and losing an amount of internal energy equal to the work that leaves the system. The gas expansion causes it to cool to the "cold" temperature, <i>T</i><sub><i>2</i></sub>. The entropy remains unchanged.</li>
+<li><b>Reversible isothermal compression of the gas at the "cold" temperature, <i>T</i><sub><i>2</i></sub>. (isothermal heat rejection)</b> (3 to 4 on Figure 1, C to D on Figure 2) Now the surroundings do work on the gas, causing an amount of heat energy Q<sub>2</sub> to leave the system to the low temperature reservoir and the entropy of the system decreases in the amount <span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi mathvariant="normal">&#x0394;<!-- Δ --></mi>
+        <msub>
+          <mi>S</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <msub>
+          <mi>Q</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msub>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo>/</mo>
+        </mrow>
+        <msub>
+          <mi>T</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \Delta S_{2}=Q_{2}/T_{2}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5b3b605679826ba23e95375ae31016f88eb729c4" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:14.065ex; height:2.843ex;" alt="{\displaystyle \Delta S_{2}=Q_{2}/T_{2}}" /></span>. (This is the same amount of entropy absorbed in step 1, as can be seen from the <b><a href="/wiki/Clausius_inequality" class="mw-redirect" title="Clausius inequality">Clausius inequality</a></b>.)</li>
+<li><b>Isentropic compression of the gas (isentropic work input).</b> (4 to 1 on Figure 1, D to A on Figure 2) Once again the mechanisms of the engine are assumed to be thermally insulated, and frictionless, hence reversible. During this step, the surroundings do work on the gas, increasing its internal energy and compressing it, causing the temperature to rise to <i>T</i><sub><i>1</i></sub> due solely to the work added to the system, but the entropy remains unchanged. At this point the gas is in the same state as at the start of step 1.</li>
+</ol>
+<p>In this case,</p>
+<dl>
+<dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi mathvariant="normal">&#x0394;<!-- Δ --></mi>
+        <msub>
+          <mi>S</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>1</mn>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <mi mathvariant="normal">&#x0394;<!-- Δ --></mi>
+        <msub>
+          <mi>S</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \Delta S_{1}=\Delta S_{2}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f94eef1f69c75a6412ddd87248807a57b42ff7e6" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:11.996ex; height:2.676ex;" alt="{\displaystyle \Delta S_{1}=\Delta S_{2}}" /></span>,</dd>
+</dl>
+<p>or,</p>
+<dl>
+<dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>Q</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>1</mn>
+          </mrow>
+        </msub>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo>/</mo>
+        </mrow>
+        <msub>
+          <mi>T</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>1</mn>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <msub>
+          <mi>Q</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msub>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo>/</mo>
+        </mrow>
+        <msub>
+          <mi>T</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle Q_{1}/T_{1}=Q_{2}/T_{2}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/de5e27a70fe004a3838827830c43479dd045927b" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:16.135ex; height:2.843ex;" alt="{\displaystyle Q_{1}/T_{1}=Q_{2}/T_{2}}" /></span>.</dd>
+</dl>
+<p>This is true as <span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>Q</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle Q_{2}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b86e8bff64d5e62fc8f45a35875e78bc9bef74a9" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:2.91ex; height:2.509ex;" alt="Q_{2}" /></span> and <span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>T</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle T_{2}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d1ba5f12fbb0ff766aec6e22148b429373608555" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:2.43ex; height:2.509ex;" alt="T_{2}" /></span> are both lower and in fact are in the same ratio as <span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>Q</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>1</mn>
+          </mrow>
+        </msub>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo>/</mo>
+        </mrow>
+        <msub>
+          <mi>T</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>1</mn>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle Q_{1}/T_{1}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4623130abbc4d7f33942c66209640566dd050edb" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:6.513ex; height:2.843ex;" alt="{\displaystyle Q_{1}/T_{1}}" /></span>.</p>
+<h3><span class="mw-headline" id="The_pressure-volume_graph">The pressure-volume graph</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Carnot_cycle&amp;action=edit&amp;section=2" title="Edit section: The pressure-volume graph">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>When the Carnot cycle is plotted on a <a href="/wiki/Pressure_volume_diagram" title="Pressure volume diagram">pressure volume diagram</a>, the isothermal stages follow the isotherm lines for the working fluid, adiabatic stages move between isotherms and the area bounded by the complete cycle path represents the total work that can be done during one cycle.</p>
+<h2><span class="mw-headline" id="Properties_and_significance">Properties and significance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Carnot_cycle&amp;action=edit&amp;section=3" title="Edit section: Properties and significance">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="The_temperature-entropy_diagram">The temperature-entropy diagram</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Carnot_cycle&amp;action=edit&amp;section=4" title="Edit section: The temperature-entropy diagram">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:402px;"><a href="/wiki/File:CarnotCycle1.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b6/CarnotCycle1.png/400px-CarnotCycle1.png" width="400" height="300" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b6/CarnotCycle1.png/600px-CarnotCycle1.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b6/CarnotCycle1.png/800px-CarnotCycle1.png 2x" data-file-width="1300" data-file-height="975" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:CarnotCycle1.png" class="internal" title="Enlarge"></a></div>
+Figure 2: A Carnot cycle acting as a heat engine, illustrated on a temperature-entropy diagram. The cycle takes place between a hot reservoir at temperature T<sub>H</sub> and a cold reservoir at temperature T<sub>C</sub>. The vertical axis is temperature, the horizontal axis is entropy.</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:302px;"><a href="/wiki/File:Ejemplo_Diagrama_T-S.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Ejemplo_Diagrama_T-S.png/300px-Ejemplo_Diagrama_T-S.png" width="300" height="225" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Ejemplo_Diagrama_T-S.png/450px-Ejemplo_Diagrama_T-S.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Ejemplo_Diagrama_T-S.png/600px-Ejemplo_Diagrama_T-S.png 2x" data-file-width="1300" data-file-height="975" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Ejemplo_Diagrama_T-S.png" class="internal" title="Enlarge"></a></div>
+A generalized thermodynamic cycle taking place between a hot reservoir at temperature T<sub>H</sub> and a cold reservoir at temperature T<sub>C</sub>. By the <a href="/wiki/Second_law_of_thermodynamics" title="Second law of thermodynamics">second law of thermodynamics</a>, the cycle cannot extend outside the temperature band from T<sub>C</sub> to T<sub>H</sub>. The area in red Q<sub>C</sub> is the amount of energy exchanged between the system and the cold reservoir. The area in white W is the amount of work energy exchanged by the system with its surroundings. The amount of heat exchanged with the hot reservoir is the sum of the two. If the system is behaving as an engine, the process moves clockwise around the loop, and moves counter-clockwise if it is behaving as a refrigerator. The efficiency to the cycle is the ratio of the white area (work) divided by the sum of the white and red areas (heat absorbed from the hot reservoir).</div>
+</div>
+</div>
+<p>The behaviour of a Carnot engine or refrigerator is best understood by using a <a href="/wiki/Temperature-entropy_diagram" class="mw-redirect" title="Temperature-entropy diagram">temperature-entropy diagram</a> (TS diagram), in which the thermodynamic state is specified by a point on a graph with <a href="/wiki/Entropy" title="Entropy">entropy</a> (S) as the horizontal axis and temperature (T) as the vertical axis. For a simple closed system (control mass analysis), any point on the graph will represent a particular state of the system. A thermodynamic process will consist of a curve connecting an initial state (A) and a final state (B). The area under the curve will be:</p>
+<dl>
+<dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>Q</mi>
+        <mo>=</mo>
+        <msubsup>
+          <mo>&#x222B;<!-- ∫ --></mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>A</mi>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>B</mi>
+          </mrow>
+        </msubsup>
+        <mi>T</mi>
+        <mspace width="thinmathspace" />
+        <mi>d</mi>
+        <mi>S</mi>
+        <mspace width="1em" />
+        <mspace width="1em" />
+        <mo stretchy="false">(</mo>
+        <mn>1</mn>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle Q=\int _{A}^{B}T\,dS\quad \quad (1)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b278ca7d7bae7c52ec7131dd86678a56ff0294ef" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.338ex; width:21.724ex; height:6.343ex;" alt="Q=\int _{A}^{B}T\,dS\quad \quad (1)" /></span></dd>
+</dl>
+<p>which is the amount of thermal energy transferred in the process. If the process moves to greater entropy, the area under the curve will be the amount of heat absorbed by the system in that process. If the process moves towards lesser entropy, it will be the amount of heat removed. For any cyclic process, there will be an upper portion of the cycle and a lower portion. For a clockwise cycle, the area under the upper portion will be the thermal energy absorbed during the cycle, while the area under the lower portion will be the thermal energy removed during the cycle. The area inside the cycle will then be the difference between the two, but since the internal energy of the system must have returned to its initial value, this difference must be the amount of work done by the system over the cycle. Referring to figure 1, mathematically, for a reversible process we may write the amount of work done over a cyclic process as:</p>
+<dl>
+<dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>W</mi>
+        <mo>=</mo>
+        <mo>&#x222E;</mo>
+        <mi>P</mi>
+        <mi>d</mi>
+        <mi>V</mi>
+        <mo>=</mo>
+        <mo>&#x222E;</mo>
+        <mo stretchy="false">(</mo>
+        <mi>d</mi>
+        <mi>Q</mi>
+        <mo>&#x2212;<!-- − --></mo>
+        <mi>d</mi>
+        <mi>U</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mo>&#x222E;</mo>
+        <mo stretchy="false">(</mo>
+        <mi>T</mi>
+        <mi>d</mi>
+        <mi>S</mi>
+        <mo>&#x2212;<!-- − --></mo>
+        <mi>d</mi>
+        <mi>U</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mo>&#x222E;</mo>
+        <mi>T</mi>
+        <mi>d</mi>
+        <mi>S</mi>
+        <mo>&#x2212;<!-- − --></mo>
+        <mo>&#x222E;</mo>
+        <mi>d</mi>
+        <mi>U</mi>
+        <mo>=</mo>
+        <mo>&#x222E;</mo>
+        <mi>T</mi>
+        <mi>d</mi>
+        <mi>S</mi>
+        <mspace width="1em" />
+        <mspace width="1em" />
+        <mspace width="1em" />
+        <mspace width="1em" />
+        <mo stretchy="false">(</mo>
+        <mn>2</mn>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle W=\oint PdV=\oint (dQ-dU)=\oint (TdS-dU)=\oint TdS-\oint dU=\oint TdS\quad \quad \quad \quad (2)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9bc17f3728410a73575f8d8ba18b21791b9aef46" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.338ex; width:87.331ex; height:5.843ex;" alt="{\displaystyle W=\oint PdV=\oint (dQ-dU)=\oint (TdS-dU)=\oint TdS-\oint dU=\oint TdS\quad \quad \quad \quad (2)}" /></span></dd>
+</dl>
+<p>Since <i>dU</i> is an <a href="/wiki/Exact_differential" title="Exact differential">exact differential</a>, its integral over any closed loop is zero and it follows that the area inside the loop on a T-S diagram is equal to the total work performed if the loop is traversed in a clockwise direction, and is equal to the total work done on the system as the loop is traversed in a counterclockwise direction.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:302px;"><a href="/wiki/File:Carnot_Cycle2.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/1/1c/Carnot_Cycle2.png/300px-Carnot_Cycle2.png" width="300" height="225" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/en/thumb/1/1c/Carnot_Cycle2.png/450px-Carnot_Cycle2.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/1/1c/Carnot_Cycle2.png/600px-Carnot_Cycle2.png 2x" data-file-width="1300" data-file-height="975" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Carnot_Cycle2.png" class="internal" title="Enlarge"></a></div>
+A Carnot cycle taking place between a hot reservoir at temperature T<sub>H</sub> and a cold reservoir at temperature T<sub>C</sub>.</div>
+</div>
+</div>
+<h3><span class="mw-headline" id="The_Carnot_cycle">The Carnot cycle</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Carnot_cycle&amp;action=edit&amp;section=5" title="Edit section: The Carnot cycle">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:CARNOTCYCLE.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/3/3a/CARNOTCYCLE.JPG/220px-CARNOTCYCLE.JPG" width="220" height="185" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/en/thumb/3/3a/CARNOTCYCLE.JPG/330px-CARNOTCYCLE.JPG 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/3/3a/CARNOTCYCLE.JPG/440px-CARNOTCYCLE.JPG 2x" data-file-width="748" data-file-height="630" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:CARNOTCYCLE.JPG" class="internal" title="Enlarge"></a></div>
+A visualization of the Carnot cycle</div>
+</div>
+</div>
+<p>Evaluation of the above integral is particularly simple for the Carnot cycle. The amount of energy transferred as work is</p>
+<dl>
+<dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>W</mi>
+        <mo>=</mo>
+        <mo>&#x222E;</mo>
+        <mi>P</mi>
+        <mi>d</mi>
+        <mi>V</mi>
+        <mo>=</mo>
+        <mo>&#x222E;</mo>
+        <mi>T</mi>
+        <mi>d</mi>
+        <mi>S</mi>
+        <mo>=</mo>
+        <mo stretchy="false">(</mo>
+        <msub>
+          <mi>T</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>H</mi>
+          </mrow>
+        </msub>
+        <mo>&#x2212;<!-- − --></mo>
+        <msub>
+          <mi>T</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>C</mi>
+          </mrow>
+        </msub>
+        <mo stretchy="false">)</mo>
+        <mo stretchy="false">(</mo>
+        <msub>
+          <mi>S</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>B</mi>
+          </mrow>
+        </msub>
+        <mo>&#x2212;<!-- − --></mo>
+        <msub>
+          <mi>S</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>A</mi>
+          </mrow>
+        </msub>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle W=\oint PdV=\oint TdS=(T_{H}-T_{C})(S_{B}-S_{A})}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2168e4aee59ece6ac881688681e6d6524ca31e63" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.338ex; width:47.233ex; height:5.843ex;" alt="{\displaystyle W=\oint PdV=\oint TdS=(T_{H}-T_{C})(S_{B}-S_{A})}" /></span></dd>
+</dl>
+<p>The total amount of thermal energy transferred from the hot reservoir to the system will be</p>
+<dl>
+<dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>Q</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>H</mi>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <msub>
+          <mi>T</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>H</mi>
+          </mrow>
+        </msub>
+        <mo stretchy="false">(</mo>
+        <msub>
+          <mi>S</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>B</mi>
+          </mrow>
+        </msub>
+        <mo>&#x2212;<!-- − --></mo>
+        <msub>
+          <mi>S</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>A</mi>
+          </mrow>
+        </msub>
+        <mo stretchy="false">)</mo>
+        <mspace width="thinmathspace" />
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle Q_{H}=T_{H}(S_{B}-S_{A})\,}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/66ffaa597c450a08aa0cd56407cbf45be7627290" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:20.621ex; height:2.843ex;" alt="Q_{H}=T_{H}(S_{B}-S_{A})\," /></span></dd>
+</dl>
+<p>and the total amount of thermal energy transferred from the system to the cold reservoir will be</p>
+<dl>
+<dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>Q</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>C</mi>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <msub>
+          <mi>T</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>C</mi>
+          </mrow>
+        </msub>
+        <mo stretchy="false">(</mo>
+        <msub>
+          <mi>S</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>B</mi>
+          </mrow>
+        </msub>
+        <mo>&#x2212;<!-- − --></mo>
+        <msub>
+          <mi>S</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>A</mi>
+          </mrow>
+        </msub>
+        <mo stretchy="false">)</mo>
+        <mspace width="thinmathspace" />
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle Q_{C}=T_{C}(S_{B}-S_{A})\,}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d8e58ac3e5a2fa129cc873b0ea65d119a0738868" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:20.201ex; height:2.843ex;" alt="Q_{C}=T_{C}(S_{B}-S_{A})\," /></span></dd>
+</dl>
+<p>The efficiency <span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>&#x03B7;<!-- η --></mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \eta }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e4d701857cf5fbec133eebaf94deadf722537f64" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:1.18ex; height:2.176ex;" alt="\eta " /></span> is defined to be:</p>
+<dl>
+<dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>&#x03B7;<!-- η --></mi>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mi>W</mi>
+            <msub>
+              <mi>Q</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi>H</mi>
+              </mrow>
+            </msub>
+          </mfrac>
+        </mrow>
+        <mo>=</mo>
+        <mn>1</mn>
+        <mo>&#x2212;<!-- − --></mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <msub>
+              <mi>T</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi>C</mi>
+              </mrow>
+            </msub>
+            <msub>
+              <mi>T</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi>H</mi>
+              </mrow>
+            </msub>
+          </mfrac>
+        </mrow>
+        <mspace width="1em" />
+        <mspace width="1em" />
+        <mspace width="1em" />
+        <mspace width="1em" />
+        <mspace width="1em" />
+        <mspace width="1em" />
+        <mspace width="1em" />
+        <mspace width="1em" />
+        <mspace width="1em" />
+        <mo stretchy="false">(</mo>
+        <mn>3</mn>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \eta ={\frac {W}{Q_{H}}}=1-{\frac {T_{C}}{T_{H}}}\quad \quad \quad \quad \quad \quad \quad \quad \quad (3)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a93048fb3f32bfd98058850c487546c878173b47" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.505ex; width:43.615ex; height:6.009ex;" alt="\eta ={\frac {W}{Q_{H}}}=1-{\frac {T_{C}}{T_{H}}}\quad \quad \quad \quad \quad \quad \quad \quad \quad (3)" /></span></dd>
+</dl>
+<p>where</p>
+<dl>
+<dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>W</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle W}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/54a9c4c547f4d6111f81946cad242b18298d70b7" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:2.446ex; height:2.176ex;" alt="W" /></span> is the work done by the system (energy exiting the system as work),</dd>
+<dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>Q</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>C</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle Q_{C}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/fa34fa85ab44838da15ab2a5b944c303c5a1e33a" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:3.337ex; height:2.509ex;" alt="Q_{C}" /></span> is the heat taken from the system (heat energy leaving the system),</dd>
+<dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>Q</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>H</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle Q_{H}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/096b45dea97c14bdb7424f8baa4c4c9bfebd7c39" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:3.548ex; height:2.509ex;" alt="Q_{H}" /></span> is the heat put into the system (heat energy entering the system),</dd>
+<dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>T</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>C</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle T_{C}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/becff78cd94880c5e7354a84d31b69dae139a7d3" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:2.857ex; height:2.509ex;" alt="T_{C}" /></span> is the <a href="/wiki/Absolute_temperature" class="mw-redirect" title="Absolute temperature">absolute temperature</a> of the cold reservoir, and</dd>
+<dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>T</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>H</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle T_{H}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e0e11e851ec5c37e7291c70bce64d013da939af2" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:3.067ex; height:2.509ex;" alt="T_{H}" /></span> is the absolute temperature of the hot reservoir.</dd>
+<dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>S</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>B</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle S_{B}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0e02453279ee46e8561b89f3b746ab1f0509e6ce" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:2.922ex; height:2.509ex;" alt="S_{B}" /></span> is the maximum system entropy</dd>
+<dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>S</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>A</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle S_{A}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f581ca4fd5bc6d22270c6050703cf23e5b840435" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:2.908ex; height:2.509ex;" alt="S_{A}" /></span> is the minimum system entropy</dd>
+</dl>
+<p>This definition of efficiency makes sense for a <a href="/wiki/Heat_engine" title="Heat engine">heat engine</a>, since it is the fraction of the heat energy extracted from the hot reservoir and converted to mechanical work. A <a href="/wiki/Rankine_cycle" title="Rankine cycle">Rankine cycle</a> is usually the practical approximation.</p>
+<h3><span class="mw-headline" id="The_Reversed_Carnot_cycle">The Reversed Carnot cycle</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Carnot_cycle&amp;action=edit&amp;section=6" title="Edit section: The Reversed Carnot cycle">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The Carnot heat-engine cycle described is a totally reversible cycle. That is, all the processes that comprise it can be reversed, in which case it becomes the Carnot refrigeration cycle. This time, the cycle remains exactly the same except that the directions of any heat and work interactions are reversed. Heat is absorbed from the low-temperature reservoir, heat is rejected to a high-temperature reservoir, and a work input is required to accomplish all this. The P-V diagram of the reversed Carnot cycle is the same as for the Carnot cycle except that the directions of the processes are reversed.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></p>
+<h3><span class="mw-headline" id="Carnot.27s_theorem">Carnot's theorem</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Carnot_cycle&amp;action=edit&amp;section=7" title="Edit section: Carnot's theorem">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote">Main article: <a href="/wiki/Carnot%27s_theorem_(thermodynamics)" title="Carnot's theorem (thermodynamics)">Carnot's theorem (thermodynamics)</a></div>
+<p>It can be seen from the above diagram, that for any cycle operating between temperatures <span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>T</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>H</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle T_{H}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e0e11e851ec5c37e7291c70bce64d013da939af2" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:3.067ex; height:2.509ex;" alt="T_{H}" /></span> and <span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>T</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>C</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle T_{C}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/becff78cd94880c5e7354a84d31b69dae139a7d3" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:2.857ex; height:2.509ex;" alt="T_{C}" /></span>, none can exceed the efficiency of a Carnot cycle.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:502px;"><a href="/wiki/File:Real_vs_Carnot.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Real_vs_Carnot.svg/500px-Real_vs_Carnot.svg.png" width="500" height="183" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Real_vs_Carnot.svg/750px-Real_vs_Carnot.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Real_vs_Carnot.svg/1000px-Real_vs_Carnot.svg.png 2x" data-file-width="900" data-file-height="330" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Real_vs_Carnot.svg" class="internal" title="Enlarge"></a></div>
+A real engine (left) compared to the Carnot cycle (right). The entropy of a real material changes with temperature. This change is indicated by the curve on a T-S diagram. For this figure, the curve indicates a vapor-liquid equilibrium (<i>See <a href="/wiki/Rankine_cycle" title="Rankine cycle">Rankine cycle</a></i>). Irreversible systems and losses of energy (for example, work due to friction and heat losses) prevent the ideal from taking place at every step.</div>
+</div>
+</div>
+<p><b>Carnot's theorem</b> is a formal statement of this fact: <i>No engine operating between two heat reservoirs can be more efficient than a Carnot engine operating between those same reservoirs.</i> Thus, Equation 3 gives the maximum efficiency possible for any engine using the corresponding temperatures. A corollary to Carnot's theorem states that: <i>All reversible engines operating between the same heat reservoirs are equally efficient.</i> Rearranging the right side of the equation gives what may be a more easily understood form of the equation. Namely that the theoretical maximum efficiency of a heat engine equals the difference in temperature between the hot and cold reservoir divided by the absolute temperature of the hot reservoir. To find the absolute temperature in kelvin, add 273.15 degrees to the Celsius temperature. Looking at this formula an interesting fact becomes apparent. Lowering the temperature of the cold reservoir will have more effect on the ceiling efficiency of a heat engine than raising the temperature of the hot reservoir by the same amount. In the real world, this may be difficult to achieve since the cold reservoir is often an existing ambient temperature.</p>
+<p>In other words, maximum efficiency is achieved if and only if no new entropy is created in the cycle, which would be the case if e.g. friction leads to <a href="/wiki/Dissipation" title="Dissipation">dissipation</a> of work into heat. In that case the cycle is not reversible and the <a href="/wiki/Clausius_theorem" title="Clausius theorem">Clausius theorem</a> becomes an inequality rather than an equality. Otherwise, since entropy is a <a href="/wiki/State_function" title="State function">state function</a>, the required dumping of heat into the environment to dispose of excess entropy leads to a (minimal) reduction in efficiency. So Equation 3 gives the efficiency of any <a href="/wiki/Reversible_process_(thermodynamics)" title="Reversible process (thermodynamics)">reversible</a> <a href="/wiki/Heat_engine" title="Heat engine">heat engine</a>.</p>
+<p>In mesoscopic heat engines, work per cycle of operation fluctuates due to thermal noise. For the case when work and heat fluctuations are counted, there is exact equality that relates average of exponents of work performed by any heat engine and the heat transfer from the hotter heat bath.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> This relation transforms Carnot's inequality into an exact equality that applies to an arbitrary heat engine coupled to two heat reservoirs and operating at an arbitrary rate.</p>
+<h3><span class="mw-headline" id="Efficiency_of_real_heat_engines">Efficiency of real heat engines</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Carnot_cycle&amp;action=edit&amp;section=8" title="Edit section: Efficiency of real heat engines">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<dl>
+<dd><i>See also: <a href="/wiki/Heat_Engine#Efficiency" class="mw-redirect" title="Heat Engine">Heat engine efficiency</a> and <a href="/wiki/Heat_engine#Other_criteria_of_heat_engine_performance" title="Heat engine">other performance criteria</a></i></dd>
+</dl>
+<p>Carnot realized that in reality it is not possible to build a <a href="/wiki/Thermodynamic_reversibility" class="mw-redirect" title="Thermodynamic reversibility">thermodynamically reversible</a> engine, so real heat engines are even less efficient than indicated by Equation 3. In addition, real engines that operate along this cycle are rare. Nevertheless, Equation 3 is extremely useful for determining the maximum efficiency that could ever be expected for a given set of thermal reservoirs.</p>
+<p>Although <b>Carnot's cycle</b> is an idealisation, the expression of Carnot efficiency is still useful. Consider the <a href="/wiki/Average" title="Average">average</a> temperatures,</p>
+<dl>
+<dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mo fence="false" stretchy="false">&#x27E8;<!-- ⟨ --></mo>
+        <msub>
+          <mi>T</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>H</mi>
+          </mrow>
+        </msub>
+        <mo fence="false" stretchy="false">&#x27E9;<!-- ⟩ --></mo>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mn>1</mn>
+            <mrow>
+              <mi mathvariant="normal">&#x0394;<!-- Δ --></mi>
+              <mi>S</mi>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <msub>
+          <mo>&#x222B;<!-- ∫ --></mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <msub>
+              <mi>Q</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi>i</mi>
+                <mi>n</mi>
+              </mrow>
+            </msub>
+          </mrow>
+        </msub>
+        <mi>T</mi>
+        <mi>d</mi>
+        <mi>S</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \langle T_{H}\rangle ={\frac {1}{\Delta S}}\int _{Q_{in}}TdS}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5fb1158dc7f8084a45033e230fcc673bb01677b3" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.838ex; width:21.735ex; height:6.343ex;" alt="\langle T_{H}\rangle ={\frac {1}{\Delta S}}\int _{Q_{in}}TdS" /></span></dd>
+</dl>
+<dl>
+<dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mo fence="false" stretchy="false">&#x27E8;<!-- ⟨ --></mo>
+        <msub>
+          <mi>T</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>C</mi>
+          </mrow>
+        </msub>
+        <mo fence="false" stretchy="false">&#x27E9;<!-- ⟩ --></mo>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mn>1</mn>
+            <mrow>
+              <mi mathvariant="normal">&#x0394;<!-- Δ --></mi>
+              <mi>S</mi>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <msub>
+          <mo>&#x222B;<!-- ∫ --></mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <msub>
+              <mi>Q</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi>o</mi>
+                <mi>u</mi>
+                <mi>t</mi>
+              </mrow>
+            </msub>
+          </mrow>
+        </msub>
+        <mi>T</mi>
+        <mi>d</mi>
+        <mi>S</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \langle T_{C}\rangle ={\frac {1}{\Delta S}}\int _{Q_{out}}TdS}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/76e4ca9f7b86623cd0d9f4acb59b8f1eab7b4492" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.838ex; width:22.162ex; height:6.343ex;" alt="\langle T_{C}\rangle ={\frac {1}{\Delta S}}\int _{Q_{out}}TdS" /></span></dd>
+</dl>
+<p>at which heat is input and output, respectively. Replace <i>T<sub>H</sub></i> and <i>T<sub>C</sub></i> in Equation (3) by 〈<i>T<sub>H</sub></i>〉 and 〈<i>T<sub>C</sub></i>〉 respectively.</p>
+<p>For the Carnot cycle, or its equivalent, the average value 〈<i>T<sub>H</sub></i>〉 will equal the highest temperature available, namely <i>T<sub>H</sub></i>, and 〈<i>T<sub>C</sub></i>〉 the lowest, namely <i>T<sub>C</sub></i>. For other less efficient cycles, 〈<i>T<sub>H</sub></i>〉 will be lower than <i>T<sub>H</sub></i>, and 〈<i>T<sub>C</sub></i>〉 will be higher than <i>T<sub>C</sub></i>. This can help illustrate, for example, why a <a href="/wiki/Economizer" title="Economizer">reheater</a> or a <a href="/wiki/Regenerative_heat_exchanger" title="Regenerative heat exchanger">regenerator</a> can improve the thermal efficiency of steam power plants—and why the thermal efficiency of combined-cycle power plants (which incorporate gas turbines operating at even higher temperatures) exceeds that of conventional steam plants. The first prototype of the diesel engine was based on the Carnot cycle.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Carnot_cycle&amp;action=edit&amp;section=9" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Carnot_heat_engine" title="Carnot heat engine">Carnot heat engine</a></li>
+<li><a href="/wiki/Reversible_process_(thermodynamics)" title="Reversible process (thermodynamics)">Reversible process (thermodynamics)</a></li>
+<li>Carnot cycle graphs (above) should not be confused with <a href="/wiki/Karnaugh_map" title="Karnaugh map">Karnaugh maps</a> in boolean logic and digital electronics.</li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Carnot_cycle&amp;action=edit&amp;section=10" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-Giordano2009-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-Giordano2009_1-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Nicholas Giordano (13 February 2009). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=BwistUlpZ7cC&amp;pg=PA510"><i>College Physics: Reasoning and Relationships</i></a>. Cengage Learning. p.&#160;510. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-534-42471-6" title="Special:BookSources/0-534-42471-6">0-534-42471-6</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarnot+cycle&amp;rft.au=Nicholas+Giordano&amp;rft.btitle=College+Physics%3A+Reasoning+and+Relationships&amp;rft.date=2009-02-13&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DBwistUlpZ7cC%26pg%3DPA510&amp;rft.isbn=0-534-42471-6&amp;rft.pages=510&amp;rft.pub=Cengage+Learning&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Martinez2016-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-Martinez2016_2-0">^</a></b></span> <span class="reference-text"><cite class="citation news">Ignacio A. Martínez; et al. (6 January 2016). <a rel="nofollow" class="external text" href="http://www.nature.com/nphys/journal/v12/n1/full/nphys3518.html">"Brownian Carnot engine"</a>. Nature Physics. pp.&#160;67–70.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarnot+cycle&amp;rft.atitle=Brownian+Carnot+engine&amp;rft.au=Ignacio+A.+Mart%C3nez&amp;rft.date=2016-01-06&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.nature.com%2Fnphys%2Fjournal%2Fv12%2Fn1%2Ffull%2Fnphys3518.html&amp;rft.pages=67-70&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span> <span class="citation-comment" style="display:none; color:#33aa33">CS1 maint: Explicit use of et al. (<a href="/wiki/Category:CS1_maint:_Explicit_use_of_et_al." title="Category:CS1 maint: Explicit use of et al.">link</a>)</span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Çengel, Yunus A., and Michael A. Boles. "6-7." Thermodynamics: An Engineering Approach. 7th ed. New York: McGraw-Hill, 2011. 299. Print.</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation journal">N. A. Sinitsyn (2011). "Fluctuation Relation for Heat Engines". <i>J. Phys. A: Math. Theor.corollary to Carnot's theorem states that:</i> All reversible engines operating between the same heat reservoirs are equally efficient. <i>Rearranging the right side of the equation gives what may be a more easily understood form of the equation. Namely that the theoretical maximum efficiency of a heat engine equals the difference in temperature between the hot and cold reservoir divided by the absolute temperature of the hot reservoir. To find the absolute temperature in kelvin, add 273.15 degrees to the Celsius temperature. Looking at this formula an interesting fact becomes apparent. Lowering the temperature of the cold reservoir will have more effect on the ceiling efficiency of a heat engine than raising the temperature of the hot reservoir by the same amount. In the real world, this may be difficult to achieve since the cold reservoir is often an existing ambient temperature. In other words, maximum efficiency is achieved if and only if no new entropy is created in the cycle.<sup class="noprint Inline-Template" style="margin-left:0.1em; white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Please_clarify" title="Wikipedia:Please clarify"><span title="The text near this tag may need clarification or removal of jargon. (April 2014)">clarification needed</span></a></i>]</sup> Otherwise, since entropy is a <a href="/wiki/State_function" title="State function">state function</a>, the required dumping of heat into the environment to dispose of excess entropy leads to a reduction in efficiency. S</i>. <b>44</b>: 405001. <a href="/wiki/ArXiv" title="ArXiv">arXiv</a>:<span class="plainlinks"><a rel="nofollow" class="external text" href="//arxiv.org/abs/1111.7014">1111.7014</a><span style="margin-left:0.1em"><img alt="Freely accessible" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" title="Freely accessible" width="9" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" data-file-width="512" data-file-height="813" /></span></span>. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2011JPhA...44N5001S">2011JPhA...44N5001S</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1088%2F1751-8113%2F44%2F40%2F405001">10.1088/1751-8113/44/40/405001</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarnot+cycle&amp;rft.atitle=Fluctuation+Relation+for+Heat+Engines&amp;rft.au=N.+A.+Sinitsyn&amp;rft.date=2011&amp;rft.genre=article&amp;rft_id=info%3Aarxiv%2F1111.7014&amp;rft_id=info%3Abibcode%2F2011JPhA...44N5001S&amp;rft_id=info%3Adoi%2F10.1088%2F1751-8113%2F44%2F40%2F405001&amp;rft.jtitle=J.+Phys.+A%3A+Math.+Theor.corollary+to+Carnot%27s+theorem+states+that%3A+%27%27All+reversible+engines+operating+between+the+same+heat+reservoirs+are+equally+efficient.%27%27+Rearranging+the+right+side+of+the+equation+gives+what+may+be+a+more+easily+understood+form+of+the+equation.+Namely+that+the+theoretical+maximum+efficiency+of+a+heat+engine+equals+the+difference+in+temperature+between+the+hot+and+cold+reservoir+divided+by+the+absolute+temperature+of+the+hot+reservoir.+To+find+the+absolute+temperature+in+kelvin%2C+add+273.15+degrees+to+the+Celsius+temperature.+Looking+at+this+formula+an+interesting+fact+becomes+apparent.+Lowering+the+temperature+of+the+cold+reservoir+will+have+more+effect+on+the+ceiling+efficiency+of+a+heat+engine+than+raising+the+temperature+of+the+hot+reservoir+by+the+same+amount.+In+the+real+world%2C+this+may+be+difficult+to+achieve+since+the+cold+reservoir+is+often+an+existing+ambient+temperature.+In+other+words%2C+maximum+efficiency+is+achieved+if+and+only+if+no+new+entropy+is+created+in+the+cycle.%3Cspan+class%3D%22cleanup-needed-content%22+style%3D%22padding-left%3A0.1em%3B+padding-right%3A0.1em%3B+color%3A%23595959%3B+border%3A1px+solid+%23DDD%3B%22%3E%3C%2Fspan%3ECategory%3AWikipedia+articles+needing+clarification+from+April+2014%3Csup+class%3D%22noprint+Inline-Template+%22+style%3D%22margin-left%3A0.1em%3B+white-space%3Anowrap%3B%22%3E%26%2391%3B%3Ci%3E%3Cspan+title%3D%22The+text+near+this+tag+may+need+clarification+or+removal+of+jargon.+%28April+2014%29%22%3Eclarification+needed%3C%2Fspan%3E%3C%2Fi%3E%26%2393%3B%3C%2Fsup%3E+Otherwise%2C+since+entropy+is+a+state+function%2C+the+required+dumping+of+heat+into+the+environment+to+dispose+of+excess+entropy+leads+to+a+reduction+in+efficiency.+S&amp;rft.pages=405001&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=44" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<ul>
+<li>Carnot, Sadi, <a href="/wiki/Reflections_on_the_Motive_Power_of_Fire" title="Reflections on the Motive Power of Fire">Reflections on the Motive Power of Fire</a></li>
+<li><cite class="citation book">Feynman, Richard P.; Leighton, Robert B.; Sands, Matthew (1963). <i>The Feynman Lectures on Physics</i>. Addison-Wesley Publishing Company. pp.&#160;44–4f. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-201-02116-1" title="Special:BookSources/0-201-02116-1">0-201-02116-1</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarnot+cycle&amp;rft.au=Feynman%2C+Richard+P.&amp;rft.au=Leighton%2C+Robert+B.&amp;rft.au=Sands%2C+Matthew&amp;rft.btitle=The+Feynman+Lectures+on+Physics&amp;rft.date=1963&amp;rft.genre=book&amp;rft.isbn=0-201-02116-1&amp;rft.pages=44-4f&amp;rft.pub=Addison-Wesley+Publishing+Company&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Halliday, David; Resnick, Robert (1978). <i>Physics</i> (3rd ed.). John Wiley &amp; Sons. pp.&#160;541–548. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-471-02456-2" title="Special:BookSources/0-471-02456-2">0-471-02456-2</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarnot+cycle&amp;rft.aufirst=David&amp;rft.aulast=Halliday&amp;rft.au=Resnick%2C+Robert&amp;rft.btitle=Physics&amp;rft.date=1978&amp;rft.edition=3rd&amp;rft.genre=book&amp;rft.isbn=0-471-02456-2&amp;rft.pages=541-548&amp;rft.pub=John+Wiley+%26+Sons&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book"><a href="/wiki/Charles_Kittel" title="Charles Kittel">Kittel, Charles</a>; <a href="/wiki/Herbert_Kroemer" title="Herbert Kroemer">Kroemer, Herbert</a> (1980). <i>Thermal Physics</i> (2nd ed.). W. H. Freeman Company. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-7167-1088-9" title="Special:BookSources/0-7167-1088-9">0-7167-1088-9</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarnot+cycle&amp;rft.aufirst=Charles&amp;rft.au=Kroemer%2C+Herbert&amp;rft.aulast=Kittel&amp;rft.btitle=Thermal+Physics&amp;rft.date=1980&amp;rft.edition=2nd&amp;rft.genre=book&amp;rft.isbn=0-7167-1088-9&amp;rft.pub=W.+H.+Freeman+Company&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation journal">Kostic, M. "Revisiting The Second Law of Energy Degradation and Entropy Generation: From Sadi Carnot's Ingenious Reasoning to Holistic Generalization". <i>AIP Conf. Proc</i>. <b>1411</b>: 327–350. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1063%2F1.3665247">10.1063/1.3665247</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarnot+cycle&amp;rft.atitle=Revisiting+The+Second+Law+of+Energy+Degradation+and+Entropy+Generation%3A+From+Sadi+Carnot%27s+Ingenious+Reasoning+to+Holistic+Generalization&amp;rft.aufirst=M&amp;rft.aulast=Kostic&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1063%2F1.3665247&amp;rft.jtitle=AIP+Conf.+Proc.&amp;rft.pages=327-350&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=1411" class="Z3988"><span style="display:none;">&#160;</span></span> American Institute of Physics, 2011. <a href="/wiki/Special:BookSources/9780735409859" class="internal mw-magiclink-isbn">ISBN 978-0-7354-0985-9</a>. Abstract at: <a rel="nofollow" class="external autonumber" href="http://adsabs.harvard.edu/abs/2011AIPC.1411..327K">[1]</a>. Full article (24 pages <a rel="nofollow" class="external autonumber" href="http://scitation.aip.org/getpdf/servlet/GetPDFServlet?filetype=pdf&amp;id=APCPCS001411000001000327000001&amp;idtype=cvips&amp;doi=10.1063/1.3665247&amp;prog=normal&amp;bypassSSO=1">[2]</a>), also at <a rel="nofollow" class="external autonumber" href="http://www.kostic.niu.edu/2ndLaw/Revisiting%20The%20Second%20Law%20of%20Energy%20Degradation%20and%20Entropy%20Generation%20-%20From%20Carnot%20to%20Holistic%20Generalization-4.pdf">[3]</a>.</li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Carnot_cycle&amp;action=edit&amp;section=11" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://hyperphysics.phy-astr.gsu.edu/hbase/thermo/carnot.html">Hyperphysics</a> article on the Carnot cycle.</li>
+<li><a rel="nofollow" class="external text" href="http://galileoandeinstein.physics.virginia.edu/more_stuff/flashlets/carnot.htm">Interactive Java applet</a> showing behavior of a Carnot engine.</li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Thermodynamic_cycles" style="padding:3px">
+<table class="nowraplinks collapsible uncollapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Thermodynamic_cycles" title="Template:Thermodynamic cycles"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Thermodynamic_cycles" title="Template talk:Thermodynamic cycles"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Thermodynamic_cycles&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Thermodynamic_cycles" style="font-size:114%"><a href="/wiki/Thermodynamic_cycle" title="Thermodynamic cycle">Thermodynamic cycles</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/External_combustion" class="mw-redirect" title="External combustion">External combustion</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="font-weight:normal;">
+<div style="padding:0.1em 0;line-height:1.2em;">Without phase change<br />
+(<a href="/wiki/Hot_air_engine" title="Hot air engine">hot air engines</a>)</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Brayton_cycle#Reverse_Brayton_cycle" title="Brayton cycle">Bell Coleman</a></li>
+<li><a href="/wiki/Brayton_cycle" title="Brayton cycle">Brayton / Joule</a></li>
+<li><strong class="selflink">Carnot</strong></li>
+<li><a href="/wiki/Ericsson_cycle" title="Ericsson cycle">Ericsson</a></li>
+<li><a href="/wiki/Stirling_cycle" title="Stirling cycle">Stirling</a></li>
+<li><a href="/wiki/Pseudo_Stirling_cycle" title="Pseudo Stirling cycle">Stirling (pseudo / adiabatic)</a></li>
+<li><a href="/wiki/Stoddard_cycle" class="mw-redirect" title="Stoddard cycle">Stoddard</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="font-weight:normal;">With phase change</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Kalina_cycle" title="Kalina cycle">Kalina</a></li>
+<li><a href="/wiki/Hygroscopic_cycle" title="Hygroscopic cycle">Hygroscopic</a></li>
+<li><a href="/wiki/Rankine_cycle" title="Rankine cycle">Rankine</a> (<a href="/wiki/Organic_Rankine_cycle" title="Organic Rankine cycle">Organic Rankine</a>)</li>
+<li><a href="/wiki/Regenerative_cycle" class="mw-redirect" title="Regenerative cycle">Regenerative</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Internal_combustion" class="mw-redirect" title="Internal combustion">Internal combustion</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Atkinson_cycle" title="Atkinson cycle">Atkinson</a></li>
+<li><a href="/wiki/Brayton_cycle" title="Brayton cycle">Brayton / Joule</a></li>
+<li><a href="/wiki/Diesel_cycle" title="Diesel cycle">Diesel</a></li>
+<li><a href="/wiki/Expander_cycle_(rocket)" class="mw-redirect" title="Expander cycle (rocket)">Expander</a></li>
+<li><a href="/wiki/Gas-generator_cycle_(rocket)" class="mw-redirect" title="Gas-generator cycle (rocket)">Gas-generator</a></li>
+<li><a href="/wiki/Homogeneous_charge_compression_ignition" title="Homogeneous charge compression ignition">Homogeneous charge compression ignition</a></li>
+<li><a href="/wiki/Lenoir_cycle" title="Lenoir cycle">Lenoir</a></li>
+<li><a href="/wiki/Miller_cycle" title="Miller cycle">Miller</a></li>
+<li><a href="/wiki/Otto_cycle" title="Otto cycle">Otto</a></li>
+<li><a href="/wiki/Scuderi_cycle" title="Scuderi cycle">Scuderi</a></li>
+<li><a href="/wiki/Staged_combustion_cycle_(rocket)" class="mw-redirect" title="Staged combustion cycle (rocket)">Staged combustion</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Mixed</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Combined_cycle" title="Combined cycle">Combined</a></li>
+<li><a href="/wiki/High-efficiency_hybrid_cycle" title="High-efficiency hybrid cycle">HEHC</a></li>
+<li><a href="/wiki/Mixed/dual_cycle" title="Mixed/dual cycle">Mixed / Dual</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Heat_pump_and_refrigeration_cycle" title="Heat pump and refrigeration cycle">Refrigeration</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Hampson%E2%80%93Linde_cycle" title="Hampson–Linde cycle">Hampson–Linde</a></li>
+<li><a href="/wiki/Kleemenko_cycle" title="Kleemenko cycle">Kleemenko</a></li>
+<li><a href="/wiki/Pulse_tube_refrigerator" title="Pulse tube refrigerator">Pulse tube</a></li>
+<li><a href="/wiki/Regenerative_cooling" title="Regenerative cooling">Regenerative cooling</a></li>
+<li><a href="/wiki/Transcritical_cycle" title="Transcritical cycle">Transcritical</a></li>
+<li><a href="/wiki/Absorption_refrigerator" title="Absorption refrigerator">Vapor absorption</a></li>
+<li><a href="/wiki/Vapor-compression_refrigeration" title="Vapor-compression refrigeration">Vapor-compression</a></li>
+<li><a href="/wiki/Siemens_cycle" title="Siemens cycle">Siemens</a></li>
+<li><a href="/wiki/Vuilleumier_cycle" title="Vuilleumier cycle">Vuilleumier</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Uncategorized</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Barton_evaporation_engine" title="Barton evaporation engine">Barton</a></li>
+<li><a href="/wiki/Humphrey_cycle" title="Humphrey cycle">Humphrey</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1256
+Cached time: 20161231032040
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.204 seconds
+Real time usage: 0.376 seconds
+Preprocessor visited node count: 1151/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 80435/2097152 bytes
+Template argument size: 921/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 1/500
+Lua time usage: 0.070/10.000 seconds
+Lua memory usage: 3.33 MB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  170.696      1 - -total
+ 49.18%   83.946      1 - Template:Reflist
+ 30.78%   52.547      1 - Template:Thermodynamics
+ 27.16%   46.358      2 - Template:Cite_journal
+ 21.53%   36.744      4 - Template:Cite_book
+ 21.06%   35.943      1 - Template:Clarify
+ 18.82%   32.124      1 - Template:Fix-span
+  9.81%   16.745      2 - Template:Category_handler
+  7.69%   13.119      1 - Template:Replace
+  7.15%   12.198      3 - Template:Sidebar
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:5994167-0!*!0!!en!4!*!math=5 and timestamp 20161231032040 and revision id 756580511
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Carnot_cycle&amp;oldid=756580511">https://en.wikipedia.org/w/index.php?title=Carnot_cycle&amp;oldid=756580511</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Thermodynamic_cycles" title="Category:Thermodynamic cycles">Thermodynamic cycles</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_Explicit_use_of_et_al." title="Category:CS1 maint: Explicit use of et al.">CS1 maint: Explicit use of et al.</a></li><li><a href="/wiki/Category:Wikipedia_articles_needing_clarification_from_April_2014" title="Category:Wikipedia articles needing clarification from April 2014">Wikipedia articles needing clarification from April 2014</a></li><li><a href="/wiki/Category:Pages_using_ISBN_magic_links" title="Category:Pages using ISBN magic links">Pages using ISBN magic links</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Carnot+cycle" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Carnot+cycle" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Carnot_cycle"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Carnot_cycle"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Carnot_cycle" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Carnot_cycle&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Carnot_cycle&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Carnot_cycle" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Carnot_cycle" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Carnot_cycle&amp;oldid=756580511" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Carnot_cycle&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q188910" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Carnot_cycle&amp;id=756580511" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Carnot+cycle">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Carnot+cycle&amp;returnto=Carnot+cycle&amp;oldid=756580511&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Carnot_cycle&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Carnot_cycle" hreflang="en">Wikimedia Commons</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%AF%D9%88%D8%B1%D8%A9_%D9%83%D8%A7%D8%B1%D9%86%D9%88" title="دورة كارنو – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%A6%D1%8B%D0%BA%D0%BB_%D0%9A%D0%B0%D1%80%D0%BD%D0%BE" title="Цыкл Карно – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%A6%D0%B8%D0%BA%D1%8A%D0%BB_%D0%BD%D0%B0_%D0%9A%D0%B0%D1%80%D0%BD%D0%BE" title="Цикъл на Карно – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-bs"><a href="https://bs.wikipedia.org/wiki/Carnotov_ciklus" title="Carnotov ciklus – Bosnian" lang="bs" hreflang="bs" class="interlanguage-link-target">Bosanski</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Cicle_de_Carnot" title="Cicle de Carnot – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Carnot%C5%AFv_cyklus" title="Carnotův cyklus – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Carnot-Prozess" title="Carnot-Prozess – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Carnot%27_ts%C3%BCkkel" title="Carnot' tsükkel – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Ciclo_de_Carnot" title="Ciclo de Carnot – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Ciklo_de_Carnot" title="Ciklo de Carnot – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Carnoten_zikloa" title="Carnoten zikloa – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%DA%86%D8%B1%D8%AE%D9%87_%DA%A9%D8%A7%D8%B1%D9%86%D9%88" title="چرخه کارنو – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Cycle_de_Carnot" title="Cycle de Carnot – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ga"><a href="https://ga.wikipedia.org/wiki/Timthriall_Carnot" title="Timthriall Carnot – Irish" lang="ga" hreflang="ga" class="interlanguage-link-target">Gaeilge</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Ciclo_de_Carnot" title="Ciclo de Carnot – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D4%BF%D5%A1%D5%BC%D5%B6%D5%B8%D5%B5%D5%AB_%D6%81%D5%AB%D5%AF%D5%AC" title="Կառնոյի ցիկլ – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A8%E0%A5%8B_%E0%A4%9A%E0%A4%95%E0%A5%8D%E0%A4%B0" title="कार्नो चक्र – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Carnotov_ciklus" title="Carnotov ciklus – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Ciclo_di_Carnot" title="Ciclo di Carnot – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%9E%D7%A0%D7%95%D7%A2_%D7%A7%D7%A8%D7%A0%D7%95" title="מנוע קרנו – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D0%BD%D0%BE_%D1%86%D0%B8%D0%BA%D0%BB%D1%8B" title="Карно циклы – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Karno_ciklas" title="Karno ciklas – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Carnot-ciklus" title="Carnot-ciklus – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-ml"><a href="https://ml.wikipedia.org/wiki/%E0%B4%95%E0%B4%BE%E0%B5%BC%E0%B4%A3%E0%B5%8B_%E0%B4%9A%E0%B4%95%E0%B5%8D%E0%B4%B0%E0%B4%82" title="കാർണോ ചക്രം – Malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target">മലയാളം</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Carnotproces" title="Carnotproces – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%AB%E3%83%8E%E3%83%BC%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB" title="カルノーサイクル – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Carnotprosess" title="Carnotprosess – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk bokmål</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Carnot-syklus" title="Carnot-syklus – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Cykl_Carnota" title="Cykl Carnota – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Ciclo_de_Carnot" title="Ciclo de Carnot – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Ciclul_Carnot" title="Ciclul Carnot – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A6%D0%B8%D0%BA%D0%BB_%D0%9A%D0%B0%D1%80%D0%BD%D0%BE" title="Цикл Карно – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-si"><a href="https://si.wikipedia.org/wiki/%E0%B6%9A%E0%B7%8F%E0%B6%B1%E0%B7%9D_%E0%B6%A0%E0%B6%9A%E0%B7%8A%E2%80%8D%E0%B6%BB%E0%B6%BA" title="කානෝ චක්‍රය – Sinhala" lang="si" hreflang="si" class="interlanguage-link-target">සිංහල</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Carnotov_cyklus" title="Carnotov cyklus – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Carnotova_kro%C5%BEna_sprememba" title="Carnotova krožna sprememba – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-ckb"><a href="https://ckb.wikipedia.org/wiki/%D8%B3%D9%88%D9%88%DA%95%DB%8C_%DA%A9%D8%A7%D8%B1%D9%86%DB%86" title="سووڕی کارنۆ – Central Kurdish" lang="ckb" hreflang="ckb" class="interlanguage-link-target">کوردیی ناوەندی</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D0%BD%D0%BE%D0%BE%D0%B2_%D1%86%D0%B8%D0%BA%D0%BB%D1%83%D1%81" title="Карноов циклус – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Carnotov_ciklus" title="Carnotov ciklus – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Carnot%E2%80%99n_kierto" title="Carnot’n kierto – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Carnot_%C3%A7evrimi" title="Carnot çevrimi – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%A6%D0%B8%D0%BA%D0%BB_%D0%9A%D0%B0%D1%80%D0%BD%D0%BE" title="Цикл Карно – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Chu_tr%C3%ACnh_Carnot" title="Chu trình Carnot – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%8D%A1%E8%AF%BA%E5%BE%AA%E7%8E%AF" title="卡诺循环 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q188910#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 25 December 2016, at 08:32.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Carnot_cycle&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":56,"wgHostname":"mw1256"});});</script>
+	</body>
+</html>

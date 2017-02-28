@@ -1,0 +1,981 @@
+url : https://en.wikipedia.org/wiki/Capacity_factor
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Capacity factor - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Capacity_factor","wgTitle":"Capacity factor","wgCurRevisionId":751732553,"wgRevisionId":751732553,"wgArticleId":3957510,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","All articles with dead external links","Articles with dead external links from November 2016","Articles with permanently dead external links","Articles needing additional references from December 2010","All articles needing additional references","Power station technology"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Capacity_factor","wgRelevantArticleId":3957510,"wgRequestId":"WIzTIApAIDoAAHE-z-IAAABC","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q1755148","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","ext.math.scripts","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.9"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Capacity_factor"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Capacity_factor&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Capacity_factor&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Capacity_factor"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Capacity_factor rootpage-Capacity_factor skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Capacity factor</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div class="thumb tright">
+<div class="thumbinner" style="width:577px;"><a href="/wiki/File:US_EIA_monthly_capacity_factors_2011-2013.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/2/21/US_EIA_monthly_capacity_factors_2011-2013.png" width="575" height="287" class="thumbimage" data-file-width="575" data-file-height="287" /></a>
+<div class="thumbcaption"><a href="/wiki/Energy_Information_Administration" title="Energy Information Administration">US EIA</a> monthly capacity factors 2011-2013</div>
+</div>
+</div>
+<p>The net <b>capacity factor</b> of a <a href="/wiki/Power_plant" class="mw-redirect" title="Power plant">power plant</a> is the ratio of its actual output over a period of time, to its potential output if it were possible for it to operate at full <a href="/wiki/Nameplate_capacity" title="Nameplate capacity">nameplate capacity</a> continuously over the same period of time. The capacity factor is calculated by dividing the total amount of <a href="/wiki/Energy" title="Energy">energy</a> the plant produced during a period of time and divide by the amount of energy the plant would have produced at full capacity. Capacity factors vary greatly depending on the type of <a href="/wiki/Fuel" title="Fuel">fuel</a> that is used, the design of the plant, its location, reliability, maintenance schedule and can also be subject to regulatory constraints and market forces. The capacity factor should not be confused with the <a href="/wiki/Availability_factor" title="Availability factor">availability factor</a>, <a href="/w/index.php?title=Capacity_credit&amp;action=edit&amp;redlink=1" class="new" title="Capacity credit (page does not exist)">capacity credit</a> (firm capacity), <a href="/wiki/Energy_conversion_efficiency" title="Energy conversion efficiency">efficiency</a> or <a href="/wiki/Cost_of_electricity_by_source" title="Cost of electricity by source">cost of energy</a>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Sample_calculations"><span class="tocnumber">1</span> <span class="toctext">Sample calculations</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Nuclear_power_plant"><span class="tocnumber">1.1</span> <span class="toctext">Nuclear power plant</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Wind_farm"><span class="tocnumber">1.2</span> <span class="toctext">Wind farm</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Hydroelectric_dam"><span class="tocnumber">1.3</span> <span class="toctext">Hydroelectric dam</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Reasons_for_reduced_capacity_factor"><span class="tocnumber">2</span> <span class="toctext">Reasons for reduced capacity factor</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Load_following_power_plants"><span class="tocnumber">3</span> <span class="toctext">Load following power plants</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Capacity_factor_and_renewable_energy"><span class="tocnumber">4</span> <span class="toctext">Capacity factor and renewable energy</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Real_world_capacity_factors"><span class="tocnumber">5</span> <span class="toctext">Real world capacity factors</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#United_States"><span class="tocnumber">5.1</span> <span class="toctext">United States</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#United_Kingdom"><span class="tocnumber">5.2</span> <span class="toctext">United Kingdom</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Sample_calculations">Sample calculations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Capacity_factor&amp;action=edit&amp;section=1" title="Edit section: Sample calculations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Nuclear_power_plant">Nuclear power plant</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Capacity_factor&amp;action=edit&amp;section=2" title="Edit section: Nuclear power plant">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Nuclear_Power_Capacity_Factor.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nuclear_Power_Capacity_Factor.png/220px-Nuclear_Power_Capacity_Factor.png" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nuclear_Power_Capacity_Factor.png/330px-Nuclear_Power_Capacity_Factor.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nuclear_Power_Capacity_Factor.png/440px-Nuclear_Power_Capacity_Factor.png 2x" data-file-width="1024" data-file-height="768" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Nuclear_Power_Capacity_Factor.png" class="internal" title="Enlarge"></a></div>
+Nuclear Power Capacity Factor</div>
+</div>
+</div>
+<p>A nuclear power plant with a capacity of 1,000 <a href="/wiki/Megawatt" class="mw-redirect" title="Megawatt">megawatts</a> (MW) might produce 648,000 <a href="/wiki/Megawatt-hour" class="mw-redirect" title="Megawatt-hour">megawatt-hours</a> (MW·h) in a 30-day month. The number of megawatt-hours that would have been produced had the plant been operating at full capacity can be determined by multiplying the plant's maximum capacity by the number of hours in the time period. 1,000&#160;MW ×&#160;30&#160;days ×&#160;24&#160;hours/day is 720,000&#160;MW·h. The capacity factor is determined by dividing the actual output with the maximum possible output. In this case, the capacity factor is 0.9 (90%).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mn>648</mn>
+              <mo>,</mo>
+              <mn>000</mn>
+              <mtext>&#xA0;</mtext>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mtext>MW&#xB7;h</mtext>
+              </mrow>
+            </mrow>
+            <mrow>
+              <mo stretchy="false">(</mo>
+              <mn>30</mn>
+              <mtext>&#xA0;</mtext>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mtext>days</mtext>
+              </mrow>
+              <mo stretchy="false">)</mo>
+              <mo>&#x00D7;<!-- × --></mo>
+              <mo stretchy="false">(</mo>
+              <mn>24</mn>
+              <mtext>&#xA0;</mtext>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mtext>hours/day</mtext>
+              </mrow>
+              <mo stretchy="false">)</mo>
+              <mo>&#x00D7;<!-- × --></mo>
+              <mo stretchy="false">(</mo>
+              <mn>1000</mn>
+              <mtext>&#xA0;</mtext>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mtext>MW</mtext>
+              </mrow>
+              <mo stretchy="false">)</mo>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mo>=</mo>
+        <mn>0.9</mn>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mn>90</mn>
+          <mi mathvariant="normal">&#x0025;<!-- % --></mi>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\frac {648,000\ {\mbox{MW·h}}}{(30\ {\mbox{days}})\times (24\ {\mbox{hours/day}})\times (1000\ {\mbox{MW}})}}=0.9={90\%}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/54e410c2ae0d6b7b2dcb8c9be7abd7cb919d6725" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.671ex; width:56.362ex; height:6.176ex;" alt="{\frac  {648,000\ {\mbox{MW·h}}}{(30\ {\mbox{days}})\times (24\ {\mbox{hours/day}})\times (1000\ {\mbox{MW}})}}=0.9={90\%}" /></span></dd>
+</dl>
+<p><a href="/wiki/Palo_Verde_Nuclear_Generating_Station" title="Palo Verde Nuclear Generating Station">Palo Verde Nuclear Generating Station</a> is the largest nuclear plant in the US with a nameplate capacity of 3,942 MW between its three reactors. With an annual generation of 31,200,000 MWh in 2010,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> the capacity factor was 90.4%.</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mn>31</mn>
+              <mo>,</mo>
+              <mn>200</mn>
+              <mo>,</mo>
+              <mn>000</mn>
+              <mtext>&#xA0;</mtext>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mtext>MW&#xB7;h</mtext>
+              </mrow>
+            </mrow>
+            <mrow>
+              <mo stretchy="false">(</mo>
+              <mn>365</mn>
+              <mtext>&#xA0;</mtext>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mtext>days</mtext>
+              </mrow>
+              <mo stretchy="false">)</mo>
+              <mo>&#x00D7;<!-- × --></mo>
+              <mo stretchy="false">(</mo>
+              <mn>24</mn>
+              <mtext>&#xA0;</mtext>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mtext>hours/day</mtext>
+              </mrow>
+              <mo stretchy="false">)</mo>
+              <mo>&#x00D7;<!-- × --></mo>
+              <mo stretchy="false">(</mo>
+              <mn>3942</mn>
+              <mtext>&#xA0;</mtext>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mtext>MW</mtext>
+              </mrow>
+              <mo stretchy="false">)</mo>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mo>=</mo>
+        <mn>0.904</mn>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mn>90.4</mn>
+          <mi mathvariant="normal">&#x0025;<!-- % --></mi>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\frac {31,200,000\ {\mbox{MW·h}}}{(365\ {\mbox{days}})\times (24\ {\mbox{hours/day}})\times (3942\ {\mbox{MW}})}}=0.904={90.4\%}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8f83bdbd5dc2a4e52c66d3b0e10da09459038304" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.671ex; width:61.711ex; height:6.176ex;" alt="\frac{31,200,000\ \mbox{MW·h}}{(365\ \mbox{days}) \times (24\ \mbox{hours/day}) \times (3942\ \mbox{MW})}=0.904={90.4\%}" /></span></dd>
+</dl>
+<p>Each of Palo Verde’s three reactors is refueled every 18 months, with one refueling every spring and fall. In 2014, a refueling was completed in a record 28 days.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></p>
+<h3><span class="mw-headline" id="Wind_farm">Wind farm</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Capacity_factor&amp;action=edit&amp;section=3" title="Edit section: Wind farm">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The Danish wind farm <a href="/wiki/Horns_Rev_2" title="Horns Rev 2">Horns Rev 2</a>, the world's largest in 2009,<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> comprises 91 <a href="/wiki/Siemens_Wind_Power" title="Siemens Wind Power">Siemens</a> SWT-2.3-93 wind turbines each of 2.3 MW, with a nominal total capacity of 209 MW.</p>
+<p>In 2012, the wind farm generated 956 &#160;GW·h of electricity.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> The capacity factor for this wind farm was 52.1%.</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mn>956</mn>
+              <mo>,</mo>
+              <mn>000</mn>
+              <mtext>&#xA0;</mtext>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mtext>MW&#xB7;h</mtext>
+              </mrow>
+            </mrow>
+            <mrow>
+              <mo stretchy="false">(</mo>
+              <mn>365</mn>
+              <mtext>&#xA0;</mtext>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mtext>days</mtext>
+              </mrow>
+              <mo stretchy="false">)</mo>
+              <mo>&#x00D7;<!-- × --></mo>
+              <mo stretchy="false">(</mo>
+              <mn>24</mn>
+              <mtext>&#xA0;</mtext>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mtext>hours/day</mtext>
+              </mrow>
+              <mo stretchy="false">)</mo>
+              <mo>&#x00D7;<!-- × --></mo>
+              <mo stretchy="false">(</mo>
+              <mn>209.3</mn>
+              <mtext>&#xA0;</mtext>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mtext>MW</mtext>
+              </mrow>
+              <mo stretchy="false">)</mo>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mo>=</mo>
+        <mn>0.521</mn>
+        <mo>&#x2248;<!-- ≈ --></mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mn>52</mn>
+          <mi mathvariant="normal">&#x0025;<!-- % --></mi>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\frac {956,000\ {\mbox{MW·h}}}{(365\ {\mbox{days}})\times (24\ {\mbox{hours/day}})\times (209.3\ {\mbox{MW}})}}=0.521\approx {52\%}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e7cadc1a7712662e72e5a39dee9faf5ac2a44647" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.671ex; width:60.538ex; height:6.176ex;" alt="\frac{956,000\ \mbox{MW·h}}{(365\ \mbox{days}) \times (24\ \mbox{hours/day}) \times (209.3\ \mbox{MW})}=0.521 \approx{52\%}" /></span></dd>
+</dl>
+<p>Onshore wind farms can reach capacity factors of over 60%, for example the 44 MW Eolo plant in Nicaragua had a net generation of 232.132 MWh in 2015, equivalent to a capacity factor of 60.2%.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></p>
+<p>Note that capacity factor is not constrained by the <a href="/wiki/Betz%27s_law" title="Betz's law">Betz limit</a> so capacities higher that 59.2% are possible. This is because capacity measures actual production relative to possible production by the turbine, as opposed to production vs. energy available in the wind.</p>
+<h3><span class="mw-headline" id="Hydroelectric_dam">Hydroelectric dam</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Capacity_factor&amp;action=edit&amp;section=4" title="Edit section: Hydroelectric dam">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Large rivers or large reservoirs in wet mountainous areas are ideal water supplies for <a href="/wiki/Hydropower" title="Hydropower">hydropower</a>, in Western Canada the Peace and Columbia rivers support capacity factors averaging 85% of a 10,000MW capacity in the mild, rainy oceanic climate.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></p>
+<p><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> As of 2010, <a href="/wiki/Three_Gorges_Dam" title="Three Gorges Dam">Three Gorges Dam</a> is the largest power generating station in the world by nameplate capacity. In 2009, not yet fully complete, it had 26 main generator units @&#160;700&#160;MW and two auxiliary generator units @&#160;50&#160;MW for a total installed capacity of 18,300&#160;MW. Total generation in 2009 was 79.47&#160;TW·h, for a capacity factor of just under 50%:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mn>79</mn>
+              <mo>,</mo>
+              <mn>470</mn>
+              <mo>,</mo>
+              <mn>000</mn>
+              <mtext>&#xA0;</mtext>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mtext>MW&#xB7;h</mtext>
+              </mrow>
+            </mrow>
+            <mrow>
+              <mo stretchy="false">(</mo>
+              <mn>365</mn>
+              <mtext>&#xA0;</mtext>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mtext>days</mtext>
+              </mrow>
+              <mo stretchy="false">)</mo>
+              <mo>&#x00D7;<!-- × --></mo>
+              <mo stretchy="false">(</mo>
+              <mn>24</mn>
+              <mtext>&#xA0;</mtext>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mtext>hours/day</mtext>
+              </mrow>
+              <mo stretchy="false">)</mo>
+              <mo>&#x00D7;<!-- × --></mo>
+              <mo stretchy="false">(</mo>
+              <mn>18</mn>
+              <mo>,</mo>
+              <mn>300</mn>
+              <mtext>&#xA0;</mtext>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mtext>MW</mtext>
+              </mrow>
+              <mo stretchy="false">)</mo>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mo>=</mo>
+        <mn>0.4957</mn>
+        <mo>&#x2248;<!-- ≈ --></mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mn>50</mn>
+          <mi mathvariant="normal">&#x0025;<!-- % --></mi>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\frac {79,470,000\ {\mbox{MW·h}}}{(365\ {\mbox{days}})\times (24\ {\mbox{hours/day}})\times (18,300\ {\mbox{MW}})}}=0.4957\approx {50\%}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/aa03f4655250dcfc9ece4f99291d5942dcb381b7" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.671ex; width:63.271ex; height:6.176ex;" alt="\frac{79,470,000\ \mbox{MW·h}}{(365\ \mbox{days}) \times (24\ \mbox{hours/day}) \times (18,300\ \mbox{MW})}=0.4957 \approx{50\%}" /></span></dd>
+</dl>
+<p><a href="/wiki/Hoover_Dam" title="Hoover Dam">Hoover Dam</a> has a nameplate capacity of 2080 MW<sup id="cite_ref-hoover_dam_faq_9-0" class="reference"><a href="#cite_note-hoover_dam_faq-9">[9]</a></sup> and an annual generation averaging 4.2&#160;TW·h.<sup id="cite_ref-hoover_dam_faq_9-1" class="reference"><a href="#cite_note-hoover_dam_faq-9">[9]</a></sup> (The annual generation has varied between a high of 10.348&#160;TW·h in 1984, and a low of 2.648&#160;TW·h in 1956.<sup id="cite_ref-hoover_dam_faq_9-2" class="reference"><a href="#cite_note-hoover_dam_faq-9">[9]</a></sup>) Taking the average figure for annual generation gives a capacity factor of:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mn>4</mn>
+              <mo>,</mo>
+              <mn>200</mn>
+              <mo>,</mo>
+              <mn>000</mn>
+              <mtext>&#xA0;</mtext>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mtext>MW&#xB7;h</mtext>
+              </mrow>
+            </mrow>
+            <mrow>
+              <mo stretchy="false">(</mo>
+              <mn>365</mn>
+              <mtext>&#xA0;</mtext>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mtext>days</mtext>
+              </mrow>
+              <mo stretchy="false">)</mo>
+              <mo>&#x00D7;<!-- × --></mo>
+              <mo stretchy="false">(</mo>
+              <mn>24</mn>
+              <mtext>&#xA0;</mtext>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mtext>hours/day</mtext>
+              </mrow>
+              <mo stretchy="false">)</mo>
+              <mo>&#x00D7;<!-- × --></mo>
+              <mo stretchy="false">(</mo>
+              <mn>2</mn>
+              <mo>,</mo>
+              <mn>080</mn>
+              <mtext>&#xA0;</mtext>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mtext>MW</mtext>
+              </mrow>
+              <mo stretchy="false">)</mo>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mo>=</mo>
+        <mn>0.23</mn>
+        <mo>=</mo>
+        <mn>23</mn>
+        <mi mathvariant="normal">&#x0025;<!-- % --></mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\frac {4,200,000\ {\mbox{MW·h}}}{(365\ {\mbox{days}})\times (24\ {\mbox{hours/day}})\times (2,080\ {\mbox{MW}})}}=0.23=23\%}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4df1b3010f710d87cf752a6739f197f65bb68f5f" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.671ex; width:59.752ex; height:6.176ex;" alt="\frac{4,200,000\ \mbox{MW·h}}{(365\ \mbox{days}) \times (24\ \mbox{hours/day}) \times (2,080\ \mbox{MW})}=0.23 = 23\%" /></span></dd>
+</dl>
+<h2><span class="mw-headline" id="Reasons_for_reduced_capacity_factor">Reasons for reduced capacity factor</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Capacity_factor&amp;action=edit&amp;section=5" title="Edit section: Reasons for reduced capacity factor">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This section <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Capacity_factor&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span> <small><i>(December 2010)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></span></td>
+</tr>
+</table>
+<p>There are several reasons why a plant would have a capacity factor lower than 100%. The first reason is that it was out of service or operating at reduced output for part of the time due to equipment failures or routine maintenance. This accounts for most of the unused capacity of base load power plants. Base load plants have the lowest costs per unit of electricity because they are designed for maximum efficiency and are operated continuously at high output. <a href="/wiki/Geothermal_power" title="Geothermal power">Geothermal plants</a>, <a href="/wiki/Nuclear_power" title="Nuclear power">nuclear plants</a>, <a href="/wiki/Fossil_fuel_power_plant" class="mw-redirect" title="Fossil fuel power plant">coal-fired plants</a> and <a href="/wiki/Bioenergy" title="Bioenergy">bioenergy plants</a> that burn solid material are almost always operated as base load plants.</p>
+<p>The second reason that a plant would have a capacity factor lower than 100% is that output is curtailed or intentionally left idle because the electricity is not needed or because the price of electricity is too low to make production economical. This accounts for most of the unused capacity of <a href="/wiki/Peaking_power_plant" title="Peaking power plant">peaking power plants</a>. Peaking plants may operate for only a few hours per year or up to several hours per day. Their electricity is relatively expensive. Many other power plants operate only at certain times of the day or times of the year because of variation in loads and electricity prices. If a plant is only needed during the day, for example, even if it operates at full power output from 8 am to 8 pm every day all year long, it would only have a 50% Capacity factor, e.g.</p>
+<p>A third reason is that a plant may not have the fuel available to operate all of the time. This can apply to fossil generating stations with restricted fuels supplies, but most notably applies to intermittent renewable resources. When the sun isn't shining, solar PV cannot produce electricity. When the wind is not blowing, wind turbines cannot produce electricity. Solar PV and wind turbines have a capacity factor limited by the availability of their "fuel", sunshine and wind respectively.</p>
+<p>A hydroelectricity plant may have a capacity factor lower than 100% due to scarcity of water. However, its output may also simply be regulated to match the current power need, conserving its stored water for later usage. A hydroelectricity plant may also be designed for reverse usage so it can pump water up in its reservoir in situations with a power surplus. In both cases the use of the hydroelectricity plant to stabilize the grid reduces its capacity factor. Hydroelectricity may have a higher capacity factor with respect to the turbine size since in some case the amount of stored water fluctuates to account for intermittent availability of water.</p>
+<p>Other reasons that a power plant may not have a capacity factor of 100% include restrictions or limitations on air permits and limitations on transmission that force the plant to curtail output.</p>
+<h2><span class="mw-headline" id="Load_following_power_plants">Load following power plants</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Capacity_factor&amp;action=edit&amp;section=6" title="Edit section: Load following power plants">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Load_following_power_plant" title="Load following power plant">Load following power plants</a>, also called intermediate power plants, are in between these extremes in terms of capacity factor, efficiency and cost per unit of electricity. They produce most of their electricity during the day, when prices and demand are highest. However, the demand and price of electricity is far lower during the night and intermediate plants shutdown or reduce their output to low levels overnight.</p>
+<h2><span class="mw-headline" id="Capacity_factor_and_renewable_energy">Capacity factor and renewable energy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Capacity_factor&amp;action=edit&amp;section=7" title="Edit section: Capacity factor and renewable energy">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:578px;"><a href="/wiki/File:US_EIA_monthly_capacity_factors_for_renewables_2011-2013.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/8/89/US_EIA_monthly_capacity_factors_for_renewables_2011-2013.png" width="576" height="287" class="thumbimage" data-file-width="576" data-file-height="287" /></a>
+<div class="thumbcaption"><a href="/wiki/Energy_Information_Administration" title="Energy Information Administration">US EIA</a> monthly capacity factors for renewables, 2011-2013</div>
+</div>
+</div>
+<p>When it comes to several <a href="/wiki/Renewable_energy" title="Renewable energy">renewable energy</a> sources such as <a href="/wiki/Solar_power" title="Solar power">solar power</a>, <a href="/wiki/Wind_power" title="Wind power">wind power</a> and <a href="/wiki/Hydroelectricity" title="Hydroelectricity">hydroelectricity</a>, there is a fourth reason for unused capacity. The plant may be capable of producing electricity, but its "fuel" (<a href="/wiki/Wind" title="Wind">wind</a>, <a href="/wiki/Sunlight" title="Sunlight">sunlight</a> or <a href="/wiki/Water" title="Water">water</a>) may not be available. A hydroelectric plant's production may also be affected by requirements to keep the water level from getting too high or low and to provide water for <a href="/wiki/Fish" title="Fish">fish</a> downstream. However, solar, wind and hydroelectric plants do have high <a href="/wiki/Availability_factor" title="Availability factor">availability factors</a>, so when they have fuel available, they are almost always able to produce electricity.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></p>
+<p>When hydroelectric plants have water available, they are also useful for load following, because of their high <i>dispatchability</i>. A typical hydroelectric plant's operators can bring it from a stopped condition to full power in just a few minutes.</p>
+<p><a href="/wiki/Wind_farm" title="Wind farm">Wind farms</a> are variable, due to the natural variability of the wind. For a wind farm, the capacity factor is mostly determined by the availability of wind. Transmission line capacity and electricity demand also affect the capacity factor. Typical capacity factors of current wind farms are between 25 and 45%, though current 110 meter towers can have up to 55% capacity factor, and future 140 meter towers are expected to have up to 65% capacity factor.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></p>
+<p><a href="/wiki/Solar_energy" title="Solar energy">Solar energy</a> is variable because of the daily rotation of the earth, seasonal changes, and because of cloud cover. According to,<sup id="cite_ref-Blees2008_12-0" class="reference"><a href="#cite_note-Blees2008-12">[12]</a></sup> the Sacramento Municipal Utility District observed a 15% capacity factor in 2005. However, according to the <a href="/wiki/SolarPACES" title="SolarPACES">SolarPACES</a> programme of the <a href="/wiki/International_Energy_Agency" title="International Energy Agency">International Energy Agency</a> (IEA), solar power plants designed for solar-only generation are well matched to summer noon peak loads in areas with significant cooling demands, such as <a href="/wiki/Solar_power_in_Spain" title="Solar power in Spain">Spain</a> or the <a href="/wiki/Solar_power_plants_in_the_Mojave_Desert" title="Solar power plants in the Mojave Desert">south-western United States</a>,<sup id="cite_ref-mangey_13-0" class="reference"><a href="#cite_note-mangey-13">[13]</a></sup> although in some locations solar PV does not reduce the need for generation of network upgrades given that air conditioner peak demand often occurs in the late afternoon or early evening when solar output is reduced.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup><sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup> SolarPACES states that by using thermal energy storage systems the operating periods of <a href="/wiki/Solar_thermal_power" class="mw-redirect" title="Solar thermal power">solar thermal power</a> (CSP) stations can be extended to become dispatchable (load following).<sup id="cite_ref-mangey_13-1" class="reference"><a href="#cite_note-mangey-13">[13]</a></sup> The IEA CSP Technology Roadmap (2010) suggests that "in the sunniest countries, CSP can be expected to become a competitive source of bulk power in peak and intermediate loads by 2020, and of base-load power by 2025 to 2030".<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup> A dispatchable source is more valuable than baseload power.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup></p>
+<p><a href="/wiki/Geothermal" class="mw-redirect" title="Geothermal">Geothermal</a> has a higher capacity factor than many other power sources, and geothermal resources are available 24 hours a day, 7 days a week. While the carrier medium for <a href="/wiki/Geothermal_electricity" class="mw-redirect" title="Geothermal electricity">geothermal electricity</a> (water) must be properly managed, the source of geothermal energy, the Earth's heat, will be available for the foreseeable future.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup> Geothermal power can be looked at as a nuclear battery where the heat is produced via the decay of radioactive elements in the core and mantle of the earth.</p>
+<h2><span class="mw-headline" id="Real_world_capacity_factors">Real world capacity factors</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Capacity_factor&amp;action=edit&amp;section=8" title="Edit section: Real world capacity factors">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="United_States">United States</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Capacity_factor&amp;action=edit&amp;section=9" title="Edit section: United States">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>According to the US Energy Information Administration (EIA), in 2009 the capacity factors were as follows:<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup></p>
+<ul>
+<li>Nuclear–90.3%</li>
+<li>Coal–63.8%</li>
+<li>Natural Gas Plant–42.5%</li>
+<li>Hydroelectric–39.8%</li>
+<li>Renewables (Wind/Solar/Biomass)–33.9%</li>
+<li>Oil–7.8%</li>
+</ul>
+<p>However, these values often vary significantly by month.</p>
+<ul>
+<li>Nuclear power 88.7% (2006 - 2012 average of US's plants).<sup id="cite_ref-ModernNucCapacity_20-0" class="reference"><a href="#cite_note-ModernNucCapacity-20">[20]</a></sup></li>
+<li>Hydroelectricity, worldwide average 44%,<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup> range of 10% - 99% depending on water availability (with or without regulation via storage dam).</li>
+<li>Wind farms 20-40%.<sup id="cite_ref-RERLWind_22-0" class="reference"><a href="#cite_note-RERLWind-22">[22]</a></sup><sup id="cite_ref-BWEAMyth_23-0" class="reference"><a href="#cite_note-BWEAMyth-23">[23]</a></sup></li>
+<li>CSP solar with storage and Natural Gas backup in Spain 63%.<sup id="cite_ref-CSPStorageCapacity_24-0" class="reference"><a href="#cite_note-CSPStorageCapacity-24">[24]</a></sup></li>
+<li>CSP solar in California 33%.<sup id="cite_ref-CSPCapacity_25-0" class="reference"><a href="#cite_note-CSPCapacity-25">[25]</a></sup></li>
+<li>Photovoltaic solar in Germany 10%, Arizona 19%.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup><sup id="cite_ref-THSolarVsWind_27-0" class="reference"><a href="#cite_note-THSolarVsWind-27">[27]</a></sup><sup id="cite_ref-Arni_28-0" class="reference"><a href="#cite_note-Arni-28">[28]</a></sup></li>
+<li>Photovoltaic solar in Massachusetts 13-15%.<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">[29]</a></sup></li>
+</ul>
+<h3><span class="mw-headline" id="United_Kingdom">United Kingdom</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Capacity_factor&amp;action=edit&amp;section=10" title="Edit section: United Kingdom">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The following figures were collected by the <a href="/wiki/Department_of_Energy_and_Climate_Change" title="Department of Energy and Climate Change">Department of Energy and Climate Change</a> on the capacity factors for various types of plants in UK grid:<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">[30]</a></sup><sup id="cite_ref-31" class="reference"><a href="#cite_note-31">[31]</a></sup><sup id="cite_ref-32" class="reference"><a href="#cite_note-32">[32]</a></sup><sup id="cite_ref-33" class="reference"><a href="#cite_note-33">[33]</a></sup><sup id="cite_ref-34" class="reference"><a href="#cite_note-34">[34]</a></sup><sup id="cite_ref-35" class="reference"><a href="#cite_note-35">[35]</a></sup></p>
+<table class="wikitable sortable">
+<tr>
+<th>Plant type</th>
+<th>2007</th>
+<th>2008</th>
+<th>2009</th>
+<th>2010</th>
+<th>2011</th>
+<th>2012</th>
+<th>2013</th>
+<th>2007–2012<br />
+average</th>
+</tr>
+<tr>
+<td><a href="/wiki/Nuclear_power_plants" class="mw-redirect" title="Nuclear power plants">Nuclear power plants</a></td>
+<td>59.6%</td>
+<td>49.4%</td>
+<td>65.6%</td>
+<td>59.3%</td>
+<td>66.4%</td>
+<td>70.8%</td>
+<td>73.8%</td>
+<td>61.9%</td>
+</tr>
+<tr>
+<td><a href="/wiki/Fossil-fuel_power_station#Gas_turbine_plants" class="mw-redirect" title="Fossil-fuel power station">Combined cycle gas turbine stations</a></td>
+<td>64.7%</td>
+<td>71.0%</td>
+<td>64.2%</td>
+<td>61.6%</td>
+<td>47.8%</td>
+<td>30.3%</td>
+<td>27.9%</td>
+<td>56.6%</td>
+</tr>
+<tr>
+<td><a href="/wiki/Fossil-fuel_power_station" class="mw-redirect" title="Fossil-fuel power station">Coal-fired power plants</a></td>
+<td>46.7%</td>
+<td>45.0%</td>
+<td>38.5%</td>
+<td>40.2%</td>
+<td>40.8%</td>
+<td>56.9%</td>
+<td>58.4%</td>
+<td>44.7%</td>
+</tr>
+<tr>
+<td><a href="/wiki/Hydroelectricity" title="Hydroelectricity">Hydroelectric power stations</a></td>
+<td>38.2%</td>
+<td>37.4%</td>
+<td>36.7%</td>
+<td>24.9%</td>
+<td>39.2%</td>
+<td>35.8%</td>
+<td>31.7%</td>
+<td>33.7%</td>
+</tr>
+<tr>
+<td><a href="/wiki/Wind_power" title="Wind power">Wind power plants</a></td>
+<td>27.7%</td>
+<td>27.5%</td>
+<td>27.1%</td>
+<td>23.7%</td>
+<td>29.9%</td>
+<td>29.0%</td>
+<td>32.3%</td>
+<td>27.5%</td>
+</tr>
+<tr>
+<td><a href="/wiki/Photovoltaic_power_station" title="Photovoltaic power station">Photovoltaic power stations</a></td>
+<td>9.9%</td>
+<td>9.6%</td>
+<td>9.3%</td>
+<td>7.3%</td>
+<td>5.1%</td>
+<td>11.2%</td>
+<td>10.2%</td>
+<td>8.6%</td>
+</tr>
+<tr>
+<td>Marine (<a href="/wiki/Wave_power" title="Wave power">wave</a> and <a href="/wiki/Tidal_power" title="Tidal power">tidal power</a> stations)</td>
+<td></td>
+<td></td>
+<td>4.8%</td>
+<td>8.4%</td>
+<td>3.8%</td>
+<td>8.3%</td>
+<td>9.7%</td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/wiki/Bioenergy" title="Bioenergy">Bioenergy power stations</a></td>
+<td></td>
+<td></td>
+<td>56.5%</td>
+<td>55.2%</td>
+<td>44.8%</td>
+<td>47.9%</td>
+<td>58.0%</td>
+<td></td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Capacity_factor&amp;action=edit&amp;section=11" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Demand_factor" title="Demand factor">Demand factor</a></li>
+<li><a href="/wiki/Intermittent_power_source" class="mw-redirect" title="Intermittent power source">Intermittent power source</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Capacity_factor&amp;action=edit&amp;section=12" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.nrc.gov/reading-rm/basic-ref/glossary/capacity-factor-net.html">Glossary Capacity factor (net)</a></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.eia.gov/nuclear/state/arizona/">http://www.eia.gov/nuclear/state/arizona/</a></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://www.aps.com/en/ourcompany/news/latestnews/Pages/palo-verde-unit-2-ranked-as-top-us-generator-for-2013.aspx">https://www.aps.com/en/ourcompany/news/latestnews/Pages/palo-verde-unit-2-ranked-as-top-us-generator-for-2013.aspx</a></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web">Matthew McDermott. <a rel="nofollow" class="external text" href="http://www.treehugger.com/files/2009/09/denmark-inaugurates-worlds-largest-offshore-wind-farm-horns-rev-2.php">"Denmark Inaugurates World's Largest Offshore Wind Farm - 209 MW Horns Rev 2"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2011-04-21</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACapacity+factor&amp;rft.au=Matthew+McDermott&amp;rft.btitle=Denmark+Inaugurates+World%27s+Largest+Offshore+Wind+Farm+-+209+MW+Horns+Rev+2&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.treehugger.com%2Ffiles%2F2009%2F09%2Fdenmark-inaugurates-worlds-largest-offshore-wind-farm-horns-rev-2.php&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.lorc.dk/offshore-wind-farms-map/horns-rev-2">"Horns Rev 2 production and capacity factors"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2015-09-05</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACapacity+factor&amp;rft.btitle=Horns+Rev+2+production+and+capacity+factors&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.lorc.dk%2Foffshore-wind-farms-map%2Fhorns-rev-2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.cndc.org.ni/ftp2/descargar_ftp.php?dir=Comercial/Resumenes%20Anuales/2015//&amp;nombre=RESUMEN%20INYECCIONES%202015.zip">"Centro Nacional de Despacho de Carga"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-07-29</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACapacity+factor&amp;rft.btitle=Centro+Nacional+de+Despacho+de+Carga&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.cndc.org.ni%2Fftp2%2Fdescargar_ftp.php%3Fdir%3DComercial%2FResumenes%2520Anuales%2F2015%2F%2F%26nombre%3DRESUMEN%2520INYECCIONES%25202015.zip&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://www.bchydro.com/content/dam/hydro/medialib/internet/documents/info/pdf/info_iep_dependable_capacity_and_firm_energy.pdf">https://www.bchydro.com/content/dam/hydro/medialib/internet/documents/info/pdf/info_iep_dependable_capacity_and_firm_energy.pdf</a> pg12</span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://www.bchydro.com/content/dam/hydro/medialib/internet/documents/info/pdf/info_iep_dependable_capacity_and_firm_energy.pdf">https://www.bchydro.com/content/dam/hydro/medialib/internet/documents/info/pdf/info_iep_dependable_capacity_and_firm_energy.pdf</a></span></li>
+<li id="cite_note-hoover_dam_faq-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-hoover_dam_faq_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-hoover_dam_faq_9-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-hoover_dam_faq_9-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.usbr.gov/lc/hooverdam/faqs/powerfaq.html">"Hoover Dam - Frequently Asked Questions and Answers"</a>. <a href="/wiki/United_States_Bureau_of_Reclamation" title="United States Bureau of Reclamation">United States Bureau of Reclamation</a>. February 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-08-07</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACapacity+factor&amp;rft.btitle=Hoover+Dam+-+Frequently+Asked+Questions+and+Answers&amp;rft.date=2009-02&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.usbr.gov%2Flc%2Fhooverdam%2Ffaqs%2Fpowerfaq.html&amp;rft.pub=United+States+Bureau+of+Reclamation&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.awea.org/faq/basicen.html">How Does A Wind Turbine's Energy Production Differ from Its Power Production?</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20080313142528/http://www.awea.org/faq/basicen.html">Archived</a> March 13, 2008, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://cleantechnica.com/2015/08/04/wind-could-replace-coal-as-us-primary-generation-source-new-nrel-data-suggests">http://cleantechnica.com/2015/08/04/wind-could-replace-coal-as-us-primary-generation-source-new-nrel-data-suggests</a></span></li>
+<li id="cite_note-Blees2008-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-Blees2008_12-0">^</a></b></span> <span class="reference-text"><cite id="Blees2008" class="citation book">Tom Blees (2008). <i>Prescription for the Planet,</i>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-4196-5582-5" title="Special:BookSources/1-4196-5582-5">1-4196-5582-5</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACapacity+factor&amp;rft.au=Tom+Blees&amp;rft.btitle=Prescription+for+the+Planet%2C&amp;rft.date=2008&amp;rft.genre=book&amp;rft.isbn=1-4196-5582-5&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-mangey-13"><span class="mw-cite-backlink">^ <a href="#cite_ref-mangey_13-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-mangey_13-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Thomas R. Mancini and Michael Geyer (2006). <a rel="nofollow" class="external text" href="http://www.iea.org/impagr/cip/pdf/issue36SolarP.pdf">Spain Pioneers Grid-Connected Solar-Tower Thermal Power</a> SolarPACES, OECD/ IEA, p. 3.</span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text">Muriel Watt <a rel="nofollow" class="external text" href="http://www.ergo.ee.unsw.edu.au/value%20of%20PV%20in%20summer%20peaks.pdf">Value of PV in summer peaks</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20110217093812/http://www.ergo.ee.unsw.edu.au/value%20of%20PV%20in%20summer%20peaks.pdf">Archived</a> February 17, 2011, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text">Government of South Australia (2007), p.13,14 <a rel="nofollow" class="external text" href="http://www.climatechange.sa.gov.au/uploads/pdf/Feed-in_Discussion_Paper_submissions_closed.pdf">South Australia’s Feed-In Mechanism for Residential Small-Scale Solar Photovoltaic Installations</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20101205013241/http://www.climatechange.sa.gov.au/uploads/pdf/Feed-in_Discussion_Paper_submissions_closed.pdf">Archived</a> December 5, 2010, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text">International Energy Agency (2010). <a rel="nofollow" class="external text" href="http://www.iea.org/publications/freepublications/publication/csp_roadmap.pdf">Technology Roadmap: Concentrating Solar Power</a> p. 5.</span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.altenergystocks.com/archives/2009/04/why_csp_should_not_try_to_be_coal.html">Why CSP Should Not Try to be Coal</a></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://geo-energy.org/reports/environmental%20guide.pdf">A Guide to Geothermal Energy and the Environment</a></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.eia.gov/electricity/annual/archive/03482009.pdf">Electric Power Annual 2009</a> Table 5.2 April 2011</span></li>
+<li id="cite_note-ModernNucCapacity-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-ModernNucCapacity_20-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.nei.org/Knowledge-Center/Nuclear-Statistics/US-Nuclear-Power-Plants/US-Nuclear-Capacity-Factors">"U.S. Nuclear Capacity Factors"</a>. <i>Nuclear Energy Institute</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2013-10-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACapacity+factor&amp;rft.atitle=U.S.+Nuclear+Capacity+Factors&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.nei.org%2FKnowledge-Center%2FNuclear-Statistics%2FUS-Nuclear-Power-Plants%2FUS-Nuclear-Capacity-Factors&amp;rft.jtitle=Nuclear+Energy+Institute&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://srren.ipcc-wg3.de/report/IPCC_SRREN_Ch05.pdf">Hydropower</a><sup class="noprint Inline-Template"><span style="white-space: nowrap;">[<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title="&#160;Dead link since November 2016">permanent dead link</span></a></i>]</span></sup> p. 441</span></li>
+<li id="cite_note-RERLWind-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-RERLWind_22-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20081001205145/http://www.ceere.org/rerl/about_wind/RERL_Fact_Sheet_2a_Capacity_Factor.pdf">"Wind Power: Capacity Factor, Intermittency, and what happens when the wind doesn't blow?"</a> <span style="font-size:85%;">(PDF)</span>. <i>Renewable Energy Research Laboratory, University of Massachusetts Amherst</i>. Archived from <a rel="nofollow" class="external text" href="http://www.ceere.org/rerl/about_wind/RERL_Fact_Sheet_2a_Capacity_Factor.pdf">the original</a> <span style="font-size:85%;">(PDF)</span> on 2008-10-01<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-10-16</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACapacity+factor&amp;rft.atitle=Wind+Power%3A+Capacity+Factor%2C+Intermittency%2C+and+what+happens+when+the+wind+doesn%27t+blow%3F&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.ceere.org%2Frerl%2Fabout_wind%2FRERL_Fact_Sheet_2a_Capacity_Factor.pdf&amp;rft.jtitle=Renewable+Energy+Research+Laboratory%2C+University+of+Massachusetts+Amherst&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-BWEAMyth-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-BWEAMyth_23-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20070710024744/http://www.bwea.com/pdf/ref_three.pdf">"Blowing Away the Myths"</a> <span style="font-size:85%;">(PDF)</span>. <i>The British Wind Energy Association</i>. February 2005. Archived from <a rel="nofollow" class="external text" href="http://www.bwea.com/pdf/ref_three.pdf">the original</a> <span style="font-size:85%;">(PDF)</span> on 2007-07-10<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-10-16</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACapacity+factor&amp;rft.atitle=Blowing+Away+the+Myths&amp;rft.date=2005-02&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.bwea.com%2Fpdf%2Fref_three.pdf&amp;rft.jtitle=The+British+Wind+Energy+Association&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-CSPStorageCapacity-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-CSPStorageCapacity_24-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.torresolenergy.com/TORRESOL/gemasolar-plant/en">"Torresol Energy Gemasolar Thermosolar Plant"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2014-03-12</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACapacity+factor&amp;rft.btitle=Torresol+Energy+Gemasolar+Thermosolar+Plant&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.torresolenergy.com%2FTORRESOL%2Fgemasolar-plant%2Fen&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-CSPCapacity-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-CSPCapacity_25-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.nrel.gov/csp/solarpaces/project_detail.cfm/projectID=62">"Ivanpah Solar Electric Generating Station"</a>. <i>National Renewable Energy Laboratory</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2012-08-27</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACapacity+factor&amp;rft.atitle=Ivanpah+Solar+Electric+Generating+Station&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.nrel.gov%2Fcsp%2Fsolarpaces%2Fproject_detail.cfm%2FprojectID%3D62&amp;rft.jtitle=National+Renewable+Energy+Laboratory&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.theenergycollective.com/robertwilson190/288846/low-capacity-factors-challenge-low-carbon-energy-transition">http://www.theenergycollective.com/robertwilson190/288846/low-capacity-factors-challenge-low-carbon-energy-transition</a></span></li>
+<li id="cite_note-THSolarVsWind-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-THSolarVsWind_27-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Laumer, John (June 2008). <a rel="nofollow" class="external text" href="http://www.treehugger.com/files/2008/03/solar-versus-wind-power.php">"Solar Versus Wind Power: Which Has The Most Stable Power Output?"</a>. <i>Treehugger</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2008-10-16</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACapacity+factor&amp;rft.atitle=Solar+Versus+Wind+Power%3A+Which+Has+The+Most+Stable+Power+Output%3F&amp;rft.aufirst=John&amp;rft.aulast=Laumer&amp;rft.date=2008-06&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.treehugger.com%2Ffiles%2F2008%2F03%2Fsolar-versus-wind-power.php&amp;rft.jtitle=Treehugger&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Arni-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-Arni_28-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Ragnarsson, Ladislaus; Rybach (2008-02-11). O. Hohmeyer and T. Trittin, ed. <a rel="nofollow" class="external text" href="http://iga.igg.cnr.it/documenti/IGA/Fridleifsson_et_al_IPCC_Geothermal_paper_2008.pdf"><i>The possible role and contribution of geothermal energy to the mitigation of climate change</i></a> <span style="font-size:85%;">(pdf)</span>. Luebeck, Germany. pp.&#160;59–80<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-04-06</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACapacity+factor&amp;rft.aufirst=Ladislaus&amp;rft.aulast=Ragnarsson&amp;rft.au=Rybach&amp;rft.btitle=The+possible+role+and+contribution+of+geothermal+energy+to+the+mitigation+of+climate+change&amp;rft.date=2008-02-11&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Figa.igg.cnr.it%2Fdocumenti%2FIGA%2FFridleifsson_et_al_IPCC_Geothermal_paper_2008.pdf&amp;rft.pages=59-80&amp;rft.place=Luebeck%2C+Germany&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.remenergyco.com/why-solar-now">Massachusetts: a Good Solar Market</a></span></li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.decc.gov.uk/assets/decc/11/stats/publications/dukes/5955-dukes-2012-chapter-5-electricity.pdf">Digest of United Kingdom energy statistics (DUKES) for 2012: chapter 5 - Electricity</a></span></li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.decc.gov.uk/assets/decc/11/stats/publications/dukes/5956-dukes-2012-chapter-6-renewable.pdf">Digest of United Kingdom energy statistics (DUKES) for 2012: chapter 6 - Renewable sources of energy</a></span></li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/279546/DUKES_2013_Chapter_5.pdf">Digest of United Kingdom energy statistics (DUKES) for 2013: Chapter 5 - Electricity</a></span></li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/279547/DUKES_2013_Chapter_6.pdf">Digest of United Kingdom energy statistics (DUKES) for 2013: chapter 6 - Renewable sources of energy</a></span></li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/337649/chapter_5.pdf">Digest of United Kingdom energy statistics (DUKES) for 2014: Chapter 5 - Electricity</a></span></li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/337684/chapter_6.pdf">Digest of United Kingdom energy statistics (DUKES) for 2014: chapter 6 - Renewable sources of energy</a></span></li>
+</ol>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Electricity_delivery" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Electricity_delivery" title="Template:Electricity delivery"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Electricity_delivery" title="Template talk:Electricity delivery"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Electricity_delivery&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Electricity_delivery" style="font-size:114%"><a href="/wiki/Electricity_delivery" title="Electricity delivery">Electricity delivery</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Concepts</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Availability_factor" title="Availability factor">Availability factor</a></li>
+<li><a href="/wiki/Automatic_generation_control" class="mw-redirect" title="Automatic generation control">Automatic generation control</a></li>
+<li><a href="/wiki/Base_load" title="Base load">Base load</a></li>
+<li><a href="/wiki/Black_start" title="Black start">Black start</a></li>
+<li><strong class="selflink">Capacity factor</strong></li>
+<li><a href="/wiki/Demand_factor" title="Demand factor">Demand factor</a></li>
+<li><a href="/wiki/Droop_speed_control" title="Droop speed control">Droop speed control</a></li>
+<li><a href="/wiki/Energy_demand_management" title="Energy demand management">Demand management</a></li>
+<li><a href="/wiki/Energy_returned_on_energy_invested" title="Energy returned on energy invested">EROEI</a></li>
+<li><a href="/wiki/Fault_(power_engineering)" title="Fault (power engineering)">Fault</a></li>
+<li><a href="/wiki/Grid_energy_storage" title="Grid energy storage">Grid storage</a></li>
+<li><a href="/wiki/Intermittent_energy_source" title="Intermittent energy source">Intermittency</a></li>
+<li><a href="/wiki/Load_factor_(electrical)" title="Load factor (electrical)">Load factor</a></li>
+<li><a href="/wiki/Load_following_power_plant" title="Load following power plant">Load following</a></li>
+<li><a href="/wiki/Nameplate_capacity" title="Nameplate capacity">Nameplate capacity</a></li>
+<li><a href="/wiki/Peak_demand" title="Peak demand">Peak demand</a></li>
+<li><a href="/wiki/Electric_power_quality" title="Electric power quality">Power quality</a></li>
+<li><a href="/wiki/Power-flow_study" title="Power-flow study">Power-flow study</a></li>
+<li><a href="/wiki/Repowering" title="Repowering">Repowering</a></li>
+<li><a href="/wiki/Variable_renewable_energy" title="Variable renewable energy">Variability</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Sources</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;width:7em;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Non-renewable_energy" class="mw-redirect" title="Non-renewable energy">Nonrenewable</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Coal" title="Coal">Coal</a></li>
+<li><a href="/wiki/Fossil_fuel_power_station" title="Fossil fuel power station">Fossil fuel power station</a></li>
+<li><a href="/wiki/Natural_gas" title="Natural gas">Natural gas</a></li>
+<li><a href="/wiki/Petroleum" title="Petroleum">Petroleum</a></li>
+<li><a href="/wiki/Nuclear_power" title="Nuclear power">Nuclear</a></li>
+<li><a href="/wiki/Oil_shale" title="Oil shale">Oil shale</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;width:7em;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Renewable_energy" title="Renewable energy">Renewable</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Biomass" title="Biomass">Biomass</a></li>
+<li><a href="/wiki/Biofuel" title="Biofuel">Biofuel</a></li>
+<li><a href="/wiki/Geothermal_power" title="Geothermal power">Geothermal</a></li>
+<li><a href="/wiki/Hydroelectricity" title="Hydroelectricity">Hydro</a></li>
+<li><a href="/wiki/Marine_energy" title="Marine energy">Marine</a>
+<ul>
+<li><a href="/wiki/Marine_current_power" title="Marine current power">Current</a></li>
+<li><a href="/wiki/Osmotic_power" title="Osmotic power">Osmotic</a></li>
+<li><a href="/wiki/Ocean_thermal_energy" class="mw-redirect" title="Ocean thermal energy">Thermal</a></li>
+<li><a href="/wiki/Tidal_power" title="Tidal power">Tidal</a></li>
+<li><a href="/wiki/Wave_power" title="Wave power">Wave</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Solar_power" title="Solar power">Solar</a></li>
+<li><a href="/wiki/Wind_power" title="Wind power">Wind</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Category:Power_station_technology" title="Category:Power station technology">Generation</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/AC_power" title="AC power">AC power</a></li>
+<li><a href="/wiki/Cogeneration" title="Cogeneration">Cogeneration</a></li>
+<li><a href="/wiki/Combined_cycle" title="Combined cycle">Combined cycle</a></li>
+<li><a href="/wiki/Cooling_tower" title="Cooling tower">Cooling tower</a></li>
+<li><a href="/wiki/Induction_generator" title="Induction generator">Induction generator</a></li>
+<li><a href="/wiki/Micro_combined_heat_and_power" title="Micro combined heat and power">Micro CHP</a></li>
+<li><a href="/wiki/Microgeneration" title="Microgeneration">Microgeneration</a></li>
+<li><a href="/wiki/Rankine_cycle" title="Rankine cycle">Rankine cycle</a></li>
+<li><a href="/wiki/Three-phase_electric_power" title="Three-phase electric power">Three-phase electric power</a></li>
+<li><a href="/wiki/Virtual_power_plant" title="Virtual power plant">Virtual power plant</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">
+<div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Electric_power_transmission" title="Electric power transmission">Transmission</a><br />
+and <a href="/wiki/Electric_power_distribution" title="Electric power distribution">distribution</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Power_outage" title="Power outage">Blackout</a> (<a href="/wiki/Rolling_blackout" title="Rolling blackout">Rolling blackout</a>)</li>
+<li><a href="/wiki/Brownout_(electricity)" title="Brownout (electricity)">Brownout</a></li>
+<li><a href="/wiki/Demand_response" title="Demand response">Demand response</a></li>
+<li><a href="/wiki/Distributed_generation" title="Distributed generation">Distributed generation</a></li>
+<li><a href="/wiki/Dynamic_demand_(electric_power)" title="Dynamic demand (electric power)">Dynamic demand</a></li>
+<li><a href="/wiki/Electric_power_distribution" title="Electric power distribution">Electric power distribution</a></li>
+<li><a href="/wiki/Electric_power_system" title="Electric power system">Electric power system</a></li>
+<li><a href="/wiki/Electric_power_transmission" title="Electric power transmission">Electric power transmission</a></li>
+<li><a href="/wiki/Electrical_grid" title="Electrical grid">Electrical grid</a></li>
+<li><a href="/wiki/High-voltage_direct_current" title="High-voltage direct current">High-voltage direct current</a></li>
+<li><a href="/wiki/Load_management" title="Load management">Load management</a></li>
+<li><a href="/wiki/Pumped-storage_hydroelectricity" title="Pumped-storage hydroelectricity">Pumped hydro</a></li>
+<li><a href="/wiki/Power_station" title="Power station">Power station</a></li>
+<li><a href="/wiki/Power_storage" class="mw-redirect" title="Power storage">Power storage</a></li>
+<li><a href="/wiki/Smart_grid" title="Smart grid">Smart grid</a></li>
+<li><a href="/wiki/Electrical_substation" title="Electrical substation">Substation</a></li>
+<li><a href="/wiki/Super_grid" title="Super grid">Super grid</a></li>
+<li><a href="/wiki/Transformer" title="Transformer">Transformer</a></li>
+<li><a href="/wiki/Transmission_system_operator" title="Transmission system operator">Transmission system operator</a> (TSO)</li>
+<li><a href="/wiki/Transmission_tower" title="Transmission tower">Transmission tower</a></li>
+<li><a href="/wiki/Utility_pole" title="Utility pole">Utility pole</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">
+<div style="padding:0.1em 0;line-height:1.2em;">Protective<br />
+devices</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Arc-fault_circuit_interrupter" title="Arc-fault circuit interrupter">Arc-fault circuit interrupter</a></li>
+<li><a href="/wiki/Earth_leakage_circuit_breaker" title="Earth leakage circuit breaker">Earth leakage circuit breaker</a></li>
+<li><a href="/wiki/Residual-current_device" title="Residual-current device">Residual-current device</a> (GFI)</li>
+<li><a href="/wiki/Power-system_protection" title="Power-system protection">Power-system protection</a></li>
+<li><a href="/wiki/Protective_relay" title="Protective relay">Protective relay</a></li>
+<li><a href="/wiki/Digital_protective_relay" title="Digital protective relay">Digital protective relay</a></li>
+<li><a href="/wiki/Sulfur_hexafluoride_circuit_breaker" title="Sulfur hexafluoride circuit breaker">Sulfur hexafluoride circuit breaker</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">
+<div style="padding:0.1em 0;line-height:1.2em;">Economics<br />
+and policies</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Carbon_offset" title="Carbon offset">Carbon offset</a></li>
+<li><a href="/wiki/Cost_of_electricity_by_source" title="Cost of electricity by source">Cost of electricity by source</a></li>
+<li><a href="/wiki/Ecotax" title="Ecotax">Ecotax</a></li>
+<li><a href="/wiki/Energy_subsidies" title="Energy subsidies">Energy subsidies</a></li>
+<li><a href="/wiki/Feed-in_tariff" title="Feed-in tariff">Feed-in tariff</a></li>
+<li><a href="/wiki/Fossil-fuel_phase-out" class="mw-redirect" title="Fossil-fuel phase-out">Fossil-fuel phase-out</a></li>
+<li><a href="/wiki/Net_metering" title="Net metering">Net metering</a></li>
+<li><a href="/wiki/Pigovian_tax" title="Pigovian tax">Pigovian tax</a></li>
+<li><a href="/wiki/Renewable_Energy_Certificates" class="mw-redirect" title="Renewable Energy Certificates">Renewable Energy Certificates</a></li>
+<li><a href="/wiki/Renewable_energy_payments" class="mw-redirect" title="Renewable energy payments">Renewable energy payments</a></li>
+<li><a href="/wiki/Renewable_energy_policy" class="mw-redirect" title="Renewable energy policy">Renewable energy policy</a></li>
+<li><a href="/wiki/Spark_spread" title="Spark spread">Spark spread</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<dl>
+<dt>Categories</dt>
+<dd><a href="/wiki/Category:Electric_power_distribution" title="Category:Electric power distribution">Electric power distribution</a></dd>
+<dd><a href="/wiki/Category:Electricity_economics" title="Category:Electricity economics">Electricity economics</a></dd>
+<dd><a href="/wiki/Category:Power_station_technology" title="Category:Power station technology">Power station technology</a></dd>
+<dt>Portals</dt>
+<dd><a href="/wiki/Portal:Energy" title="Portal:Energy">Energy</a></dd>
+<dd><a href="/wiki/Portal:Renewable_energy" title="Portal:Renewable energy">Renewable energy</a></dd>
+<dd><a href="/wiki/Portal:Sustainable_development" title="Portal:Sustainable development">Sustainable development</a></dd>
+</dl>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1188
+Cached time: 20170128172136
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.224 seconds
+Real time usage: 0.315 seconds
+Preprocessor visited node count: 1521/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 52265/2097152 bytes
+Template argument size: 1400/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 2/500
+Lua time usage: 0.080/10.000 seconds
+Lua memory usage: 3.65 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  202.128      1 -total
+ 57.86%  116.952      1 Template:Reflist
+ 28.63%   57.865     10 Template:Cite_web
+ 22.66%   45.797      1 Template:Refimprove_section
+ 14.51%   29.329      1 Template:Refimprove
+ 13.61%   27.501      2 Template:Navbox
+ 13.24%   26.761      1 Template:Ambox
+ 12.07%   24.404      1 Template:Electricity_generation
+  5.68%   11.485      1 Template:Dead_link
+  5.47%   11.066      1 Template:Navbox_subgroup
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:3957510-0!*!0!!en!4!*!math=5 and timestamp 20170128172136 and revision id 751732553
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Capacity_factor&amp;oldid=751732553">https://en.wikipedia.org/w/index.php?title=Capacity_factor&amp;oldid=751732553</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Power_station_technology" title="Category:Power station technology">Power station technology</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:All_articles_with_dead_external_links" title="Category:All articles with dead external links">All articles with dead external links</a></li><li><a href="/wiki/Category:Articles_with_dead_external_links_from_November_2016" title="Category:Articles with dead external links from November 2016">Articles with dead external links from November 2016</a></li><li><a href="/wiki/Category:Articles_with_permanently_dead_external_links" title="Category:Articles with permanently dead external links">Articles with permanently dead external links</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_December_2010" title="Category:Articles needing additional references from December 2010">Articles needing additional references from December 2010</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Capacity+factor" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Capacity+factor" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Capacity_factor"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Capacity_factor"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Capacity_factor" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Capacity_factor&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Capacity_factor&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Capacity_factor" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Capacity_factor" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Capacity_factor&amp;oldid=751732553" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Capacity_factor&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q1755148" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Capacity_factor&amp;id=751732553" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Capacity+factor">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Capacity+factor&amp;returnto=Capacity+factor&amp;oldid=751732553&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Capacity_factor&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%85%D8%B9%D8%A7%D9%85%D9%84_%D8%A7%D9%84%D8%AD%D9%85%D9%84" title="معامل الحمل – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Koeficient_ro%C4%8Dn%C3%ADho_vyu%C5%BEit%C3%AD" title="Koeficient ročního využití – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Nutzungsgrad" title="Nutzungsgrad – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Factor_de_planta" title="Factor de planta – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%B6%D8%B1%DB%8C%D8%A8_%D8%B8%D8%B1%D9%81%DB%8C%D8%AA" title="ضریب ظرفیت – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Facteur_de_charge_(%C3%A9lectricit%C3%A9)" title="Facteur de charge (électricité) – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Fattore_di_capacit%C3%A0" title="Fattore di capacità – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Fator_de_capacidade" title="Fator de capacidade – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D1%8D%D1%84%D1%84%D0%B8%D1%86%D0%B8%D0%B5%D0%BD%D1%82_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F_%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%BC%D0%BE%D1%89%D0%BD%D0%BE%D1%81%D1%82%D0%B8" title="Коэффициент использования установленной мощности – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Kapacitetsfaktor" title="Kapacitetsfaktor – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Kapasite_fakt%C3%B6r%C3%BC" title="Kapasite faktörü – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9A%D0%BE%D0%B5%D1%84%D1%96%D1%86%D1%96%D1%94%D0%BD%D1%82_%D0%B2%D0%B8%D0%BA%D0%BE%D1%80%D0%B8%D1%81%D1%82%D0%B0%D0%BD%D0%BD%D1%8F_%D0%B2%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%BE%D1%97_%D0%BF%D0%BE%D1%82%D1%83%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D1%96" title="Коефіцієнт використання встановленої потужності – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%AE%B9%E9%87%8F%E5%9B%A0%E5%AD%90" title="容量因子 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q1755148#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 27 November 2016, at 14:50.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Capacity_factor&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.224","walltime":"0.315","ppvisitednodes":{"value":1521,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":52265,"limit":2097152},"templateargumentsize":{"value":1400,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  202.128      1 -total"," 57.86%  116.952      1 Template:Reflist"," 28.63%   57.865     10 Template:Cite_web"," 22.66%   45.797      1 Template:Refimprove_section"," 14.51%   29.329      1 Template:Refimprove"," 13.61%   27.501      2 Template:Navbox"," 13.24%   26.761      1 Template:Ambox"," 12.07%   24.404      1 Template:Electricity_generation","  5.68%   11.485      1 Template:Dead_link","  5.47%   11.066      1 Template:Navbox_subgroup"]},"scribunto":{"limitreport-timeusage":{"value":"0.080","limit":"10.000"},"limitreport-memusage":{"value":3824409,"limit":52428800}},"cachereport":{"origin":"mw1188","timestamp":"20170128172136","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":415,"wgHostname":"mw1188"});});</script>
+	</body>
+</html>

@@ -1,0 +1,839 @@
+url : https://en.wikipedia.org/wiki/Natural_capital_accounting
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Natural capital accounting - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Natural_capital_accounting","wgTitle":"Natural capital accounting","wgCurRevisionId":693586060,"wgRevisionId":693586060,"wgArticleId":39613895,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Accounting systems","Ecological data","Environmentalism","Ecological economics"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Natural_capital_accounting","wgRelevantArticleId":39613895,"wgRequestId":"WIu4CgpAMFwAAAPMdDcAAAAL","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q17070929","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.9"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Natural_capital_accounting"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Natural_capital_accounting&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Natural_capital_accounting&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Natural_capital_accounting"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Natural_capital_accounting rootpage-Natural_capital_accounting skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Natural capital accounting</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><p><b>Natural capital accounting</b> is the process of calculating the total <a href="/wiki/Stocks_and_flows" class="mw-redirect" title="Stocks and flows">stocks and flows</a> of <a href="/wiki/Natural_resources" class="mw-redirect" title="Natural resources">natural resources</a> and services in a given ecosystem or region.<sup id="cite_ref-Pembina_1-0" class="reference"><a href="#cite_note-Pembina-1">[1]</a></sup> Accounting for such goods may occur in physical or monetary terms. This process can subsequently inform government, corporate and consumer decision making as each relates to the use or consumption of natural resources and land, and sustainable behaviour.<sup id="cite_ref-Pembina_1-1" class="reference"><a href="#cite_note-Pembina-1">[1]</a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Methods_of_accounting"><span class="tocnumber">1</span> <span class="toctext">Methods of accounting</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Large_and_eclectic_dashboards"><span class="tocnumber">1.1</span> <span class="toctext">Large and eclectic dashboards</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Composite_indices"><span class="tocnumber">1.2</span> <span class="toctext">Composite indices</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Adjusted_GDPs"><span class="tocnumber">1.3</span> <span class="toctext">Adjusted GDPs</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Indices_focusing_on_overconsumption"><span class="tocnumber">1.4</span> <span class="toctext">Indices focusing on overconsumption</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Monetary_or_physical_indicators"><span class="tocnumber">1.5</span> <span class="toctext">Monetary or physical indicators</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Global_initiatives"><span class="tocnumber">2</span> <span class="toctext">Global initiatives</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#System_of_environmental-economic_accounting"><span class="tocnumber">2.1</span> <span class="toctext">System of environmental-economic accounting</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Wealth_Accounting_and_Ecosystem_Partnership_Services"><span class="tocnumber">2.2</span> <span class="toctext">Wealth Accounting and Ecosystem Partnership Services</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Ecological_footprint_accounts"><span class="tocnumber">2.3</span> <span class="toctext">Ecological footprint accounts</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Inclusive_Wealth_Index"><span class="tocnumber">2.4</span> <span class="toctext">Inclusive Wealth Index</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Beyond_GDP"><span class="tocnumber">2.5</span> <span class="toctext">Beyond GDP</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Economics_of_ecosystems_and_biodiversity"><span class="tocnumber">2.6</span> <span class="toctext">Economics of ecosystems and biodiversity</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Natural_Capital_Declaration"><span class="tocnumber">2.7</span> <span class="toctext">Natural Capital Declaration</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-15"><a href="#Country_initiatives"><span class="tocnumber">3</span> <span class="toctext">Country initiatives</span></a>
+<ul>
+<li class="toclevel-2 tocsection-16"><a href="#Argentina"><span class="tocnumber">3.1</span> <span class="toctext">Argentina</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#Australia"><span class="tocnumber">3.2</span> <span class="toctext">Australia</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#Britain"><span class="tocnumber">3.3</span> <span class="toctext">Britain</span></a></li>
+<li class="toclevel-2 tocsection-19"><a href="#Brazil"><span class="tocnumber">3.4</span> <span class="toctext">Brazil</span></a></li>
+<li class="toclevel-2 tocsection-20"><a href="#Canada"><span class="tocnumber">3.5</span> <span class="toctext">Canada</span></a></li>
+<li class="toclevel-2 tocsection-21"><a href="#China"><span class="tocnumber">3.6</span> <span class="toctext">China</span></a></li>
+<li class="toclevel-2 tocsection-22"><a href="#European_Union"><span class="tocnumber">3.7</span> <span class="toctext">European Union</span></a></li>
+<li class="toclevel-2 tocsection-23"><a href="#France"><span class="tocnumber">3.8</span> <span class="toctext">France</span></a></li>
+<li class="toclevel-2 tocsection-24"><a href="#Germany"><span class="tocnumber">3.9</span> <span class="toctext">Germany</span></a></li>
+<li class="toclevel-2 tocsection-25"><a href="#India"><span class="tocnumber">3.10</span> <span class="toctext">India</span></a></li>
+<li class="toclevel-2 tocsection-26"><a href="#Indonesia"><span class="tocnumber">3.11</span> <span class="toctext">Indonesia</span></a></li>
+<li class="toclevel-2 tocsection-27"><a href="#Italy"><span class="tocnumber">3.12</span> <span class="toctext">Italy</span></a></li>
+<li class="toclevel-2 tocsection-28"><a href="#Japan"><span class="tocnumber">3.13</span> <span class="toctext">Japan</span></a></li>
+<li class="toclevel-2 tocsection-29"><a href="#Republic_of_Korea"><span class="tocnumber">3.14</span> <span class="toctext">Republic of Korea</span></a></li>
+<li class="toclevel-2 tocsection-30"><a href="#Mexico"><span class="tocnumber">3.15</span> <span class="toctext">Mexico</span></a></li>
+<li class="toclevel-2 tocsection-31"><a href="#Russia"><span class="tocnumber">3.16</span> <span class="toctext">Russia</span></a></li>
+<li class="toclevel-2 tocsection-32"><a href="#Saudi_Arabia"><span class="tocnumber">3.17</span> <span class="toctext">Saudi Arabia</span></a></li>
+<li class="toclevel-2 tocsection-33"><a href="#South_Africa"><span class="tocnumber">3.18</span> <span class="toctext">South Africa</span></a></li>
+<li class="toclevel-2 tocsection-34"><a href="#Turkey"><span class="tocnumber">3.19</span> <span class="toctext">Turkey</span></a></li>
+<li class="toclevel-2 tocsection-35"><a href="#United_States_of_America"><span class="tocnumber">3.20</span> <span class="toctext">United States of America</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-36"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-37"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Methods_of_accounting">Methods of accounting</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Natural_capital_accounting&amp;action=edit&amp;section=1" title="Edit section: Methods of accounting">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>There are several methods of <a href="/wiki/Accounting" title="Accounting">accounting</a> which aim to address the issue of sustainability. These are: large and eclectic <a href="/wiki/Dashboard_(business)" title="Dashboard (business)">dashboards</a>; <a href="/wiki/Composite_(finance)" title="Composite (finance)">composite indices</a>; indices focusing on <a href="/wiki/Overconsumption" title="Overconsumption">overconsumption</a>; adjusted economic indicators.</p>
+<h3><span class="mw-headline" id="Large_and_eclectic_dashboards">Large and eclectic dashboards</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Natural_capital_accounting&amp;action=edit&amp;section=2" title="Edit section: Large and eclectic dashboards">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>These dashboards bring together a number of indicators that are directly and indirectly related to the durability of socio-economic progress.<sup id="cite_ref-Stiglitz_2-0" class="reference"><a href="#cite_note-Stiglitz-2">[2]</a></sup> One example of this is the <a href="/wiki/Eurostat" title="Eurostat">Eurostat</a> Sustainable Development Indicators, which is a list of over 100 indicators used to monitor the EU Sustainable Development Strategy.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> The criticism associated with these dashboards is that a large number of indicators risks muddling a clear message about sustainability that resonates with policy makers or citizens.<sup id="cite_ref-OECD_4-0" class="reference"><a href="#cite_note-OECD-4">[4]</a></sup> In response, there has been a greater tendency to select headline indicators that “track central elements of green growth and [are] representative of a broader set of green growth issues.”<sup id="cite_ref-OECD_4-1" class="reference"><a href="#cite_note-OECD-4">[4]</a></sup></p>
+<h3><span class="mw-headline" id="Composite_indices">Composite indices</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Natural_capital_accounting&amp;action=edit&amp;section=3" title="Edit section: Composite indices">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Composite indices normalize and aggregate various data into a single number.<sup id="cite_ref-Stiglitz_2-1" class="reference"><a href="#cite_note-Stiglitz-2">[2]</a></sup> For example, the <a href="/wiki/Human_Development_Index" title="Human Development Index">Human Development Index</a>, Osberg and Sharpe’s Index of Economic Well-Being, the Changing Wealth of Nations, or the <a href="/wiki/Environmental_Sustainability_Index" title="Environmental Sustainability Index">Environmental Sustainability Index</a>, which ranks countries based on an assessment of 76 variables covering 5 domains.<sup id="cite_ref-Stiglitz_2-2" class="reference"><a href="#cite_note-Stiglitz-2">[2]</a></sup> It is often instructive to examine the separate dimensions of these indices.<sup id="cite_ref-Stiglitz_2-3" class="reference"><a href="#cite_note-Stiglitz-2">[2]</a></sup> However, they may present a skewed view of countries’ contributions to environmental problems and make problematic, normative assumptions about the values of certain variables.<sup id="cite_ref-Stiglitz_2-4" class="reference"><a href="#cite_note-Stiglitz-2">[2]</a></sup></p>
+<h3><span class="mw-headline" id="Adjusted_GDPs">Adjusted GDPs</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Natural_capital_accounting&amp;action=edit&amp;section=4" title="Edit section: Adjusted GDPs">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Adjusted gross domestic product, or <a href="/wiki/Green_GDP" class="mw-redirect" title="Green GDP">green GDP</a>, systematically corrects conventional <a href="/wiki/GDP" class="mw-redirect" title="GDP">GDP</a> by taking into account aspects of a country’s production of goods and services (e.g. <a href="/wiki/Environmental_degradation" title="Environmental degradation">environmental degradation</a> and natural resource depletion) that would not otherwise be included in the indicator, but are relevant to sustainability.<sup id="cite_ref-Stiglitz_2-5" class="reference"><a href="#cite_note-Stiglitz-2">[2]</a></sup></p>
+<h3><span class="mw-headline" id="Indices_focusing_on_overconsumption">Indices focusing on overconsumption</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Natural_capital_accounting&amp;action=edit&amp;section=5" title="Edit section: Indices focusing on overconsumption">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Indicators that fall in this category conceive of sustainability with respect to consumption levels and investment in natural resources.<sup id="cite_ref-Stiglitz_2-6" class="reference"><a href="#cite_note-Stiglitz-2">[2]</a></sup> Examples include <a href="/w/index.php?title=Adjusted_net_savings&amp;action=edit&amp;redlink=1" class="new" title="Adjusted net savings (page does not exist)">adjusted net savings</a> (ANS) and <a href="/wiki/Ecological_footprint" title="Ecological footprint">ecological footprint</a> accounts. ANS is calculated as the change in total wealth over a given time period, while ecological footprint assessments determine how much of the regenerative capacity of the biosphere is required to maintain the consumption habits of a defined population.<sup id="cite_ref-Monfreda_5-0" class="reference"><a href="#cite_note-Monfreda-5">[5]</a></sup> The explicit emphasis on <a href="/wiki/Sustainability" title="Sustainability">sustainability</a> makes these indices useful; however computing them by country fails to capture the global nature of sustainability.</p>
+<h3><span class="mw-headline" id="Monetary_or_physical_indicators">Monetary or physical indicators</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Natural_capital_accounting&amp;action=edit&amp;section=6" title="Edit section: Monetary or physical indicators">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>All sustainability indicators can be grouped broadly into two types. Specifically, they will be calculated in monetary terms, using one or more valuation techniques, or in physical terms. It is more likely for monetary indicators to be expressed as flows, and physical indicators as stocks.</p>
+<h2><span class="mw-headline" id="Global_initiatives">Global initiatives</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Natural_capital_accounting&amp;action=edit&amp;section=7" title="Edit section: Global initiatives">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>General commitment by the international community to support the development of natural capital accounting was motivated early on by the <a href="/wiki/Brundtland_Report" class="mw-redirect" title="Brundtland Report">Brundtland Report</a> in 1987 and the 1992 <a href="/wiki/Rio_Summit" class="mw-redirect" title="Rio Summit">Rio Summit</a>.<sup id="cite_ref-Stiglitz_2-7" class="reference"><a href="#cite_note-Stiglitz-2">[2]</a></sup> At the Summit in particular, <a href="/wiki/Agenda_21" title="Agenda 21">Agenda 21</a> – in which Chapter 40 called for signatories to develop quantitative information regarding their activities – was adopted.<sup id="cite_ref-Stiglitz_2-8" class="reference"><a href="#cite_note-Stiglitz-2">[2]</a></sup></p>
+<h3><span class="mw-headline" id="System_of_environmental-economic_accounting">System of environmental-economic accounting</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Natural_capital_accounting&amp;action=edit&amp;section=8" title="Edit section: System of environmental-economic accounting">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In September 1992, the Commission on the Environment of the <a href="/wiki/Organization_of_American_States" title="Organization of American States">Organization of American States</a> (OAS) Permanent Council held a Seminar on Natural Resource and Environmental Accounts for Development Policy.<sup id="cite_ref-OAS_6-0" class="reference"><a href="#cite_note-OAS-6">[6]</a></sup> Many of the country participants expressed interest in developing accounting capacities for natural resources.<sup id="cite_ref-OAS_6-1" class="reference"><a href="#cite_note-OAS-6">[6]</a></sup> A proposal was made at that time to create a program to coordinate and strengthen the efforts of countries and institutions undertaking such initiatives.<sup id="cite_ref-OAS_6-2" class="reference"><a href="#cite_note-OAS-6">[6]</a></sup></p>
+<p>The development of the first system of environmental-economic accounting (SEEA) in 1993 (SEEA-1993) was a major step towards establishing standards around integrating the environment into national accounts, and subsequently, environmentally-adjusting or “greening” macroeconomic indicators such as GDP.<sup id="cite_ref-Joy_7-0" class="reference"><a href="#cite_note-Joy-7">[7]</a></sup> While the SEEA-2003 and subsequent revisions being undertaken for 2013 have expanded the range of analyses within the framework, the purpose of the SEEA has remained the same. It is an accounting framework that records the stocks and flows that are relevant to both the environment and the economy.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> Its Central Framework comprises three main accounts that can be integrated with the existing <a href="/wiki/United_Nations_System_of_National_Accounts" title="United Nations System of National Accounts">United Nations System of National Accounts</a> (SNA), and each focuses on a different aspect of the interaction between the economy and the environment: physical flow accounts; functional accounts for environmental transactions; and asset accounts in physical and monetary terms.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></p>
+<p>The latest version of the SEEA (Q3, 2012) has two other parts, aside from the Central Framework: SEEA Experimental Ecosystem Accounts and SEEA Extensions.<sup id="cite_ref-Experimental_10-0" class="reference"><a href="#cite_note-Experimental-10">[10]</a></sup> The Experimental Ecosystem Accounts, specifically, introduces an accounting framework for ecosystems, despite the fact that many of its relevant stocks and flows are centered on non-market assets.<sup id="cite_ref-Experimental_10-1" class="reference"><a href="#cite_note-Experimental-10">[10]</a></sup> While some of the measurement concepts involved in the accounting process are still evolving, it is possible that the eventual valuation of ecosystems and their depletion could be included in the calculations of environmentally-adjusted macroeconomic indicators. This has implications for future policy, since the emphasis on certain projects or activities undertaken by governments will likely change, depending on how the above-mentioned measurements impact their respective accounts, and subsequent environmental adjustments to certain indicators.</p>
+<p>The London Group on Environmental Accounting and the UN Committee of Experts on Environmental-Economic Accounting are two groups, created in 1994 and 2005 respectively, to assist in the development of the SEEA and its implementation.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> As well, the Working Group on Environmental Auditing, a subgroup of the <a href="/wiki/International_Organization_of_Supreme_Audit_Institutions" title="International Organization of Supreme Audit Institutions">International Organization of Supreme Audit Institutions</a>, is working to improve auditing standards related to environmental issues.</p>
+<h3><span class="mw-headline" id="Wealth_Accounting_and_Ecosystem_Partnership_Services">Wealth Accounting and Ecosystem Partnership Services</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Natural_capital_accounting&amp;action=edit&amp;section=9" title="Edit section: Wealth Accounting and Ecosystem Partnership Services">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The ability of developing countries to build their natural capital account capacities is being improved significantly through the Wealth Accounting and Ecosystem Partnership Services (WAVES), by encouraging the development of relevant measurement frameworks. WAVES is global partnership that was inaugurated in October 2010 by <a href="/wiki/World_Bank" title="World Bank">World Bank</a> President <a href="/wiki/Robert_Zoellick" title="Robert Zoellick">Robert Zoellick</a> at the <a href="/wiki/Convention_on_Biological_Diversity" title="Convention on Biological Diversity">Convention on Biological Diversity</a> COP-10 meeting in Japan.<sup id="cite_ref-WAVES1_12-0" class="reference"><a href="#cite_note-WAVES1-12">[12]</a></sup> It aims to promote sustainable development by encouraging the inclusion of natural capital measurements in national accounts. Several projects have been initiated in developing countries such as Botswana, Colombia and Madagascar with a view to improving their capacity to implement the SEEA, in collaboration with <a href="/wiki/UNEP" class="mw-redirect" title="UNEP">UNEP</a>, the <a href="/wiki/UNDP" class="mw-redirect" title="UNDP">UNDP</a>, the <a href="/wiki/United_Nations_Statistical_Commission" title="United Nations Statistical Commission">United Nations Statistical Commission</a>, and the financial support of NGOs and the governments of Australia, Canada, France, Japan, Norway and the United States.<sup id="cite_ref-WAVES1_12-1" class="reference"><a href="#cite_note-WAVES1-12">[12]</a></sup></p>
+<h3><span class="mw-headline" id="Ecological_footprint_accounts">Ecological footprint accounts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Natural_capital_accounting&amp;action=edit&amp;section=10" title="Edit section: Ecological footprint accounts">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Alternately, there have been many attempts to move away from integrated accounts, and towards novel sustainability indices or statistics. Ecological footprint accounts, developed by Monfreda et al. (2004) and since 2007, the Global Footprint Network, or the proposal for nine planetary boundaries within which humans can safely operate, by Rockström et al., are projects which advocate for new approaches to global sustainability.<sup id="cite_ref-Monfreda_5-1" class="reference"><a href="#cite_note-Monfreda-5">[5]</a></sup><sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup></p>
+<h3><span class="mw-headline" id="Inclusive_Wealth_Index">Inclusive Wealth Index</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Natural_capital_accounting&amp;action=edit&amp;section=11" title="Edit section: Inclusive Wealth Index">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The UN International Human Dimensions Programme has created an inclusive sustainability indicator, the <a href="/w/index.php?title=Inclusive_Wealth_Index&amp;action=edit&amp;redlink=1" class="new" title="Inclusive Wealth Index (page does not exist)">Inclusive Wealth Index</a> (IWI), which measures the productive bases of an economy: produced, natural and human capital, and based on these three assessments, calculates the trajectory of a country’s wealth.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup> The calculation of natural capital in the IWI is based on the shadow value of an economy’s natural capital assets.</p>
+<p>A similar conceptual direction was taken by the Commission on the Measurement of Economic Performance and Social Progress, under the direction of economists Joseph Stiglitz, Amartya Sen and Jean-Paul Fitoussi, at the behest of former French President Nicholas Sarkozy, in 2008. The authors concluded that a pragmatic measure of sustainability would combine an indicator based on the extended wealth approach, and a small dashboard of physical indicators.<sup id="cite_ref-Stiglitz_2-9" class="reference"><a href="#cite_note-Stiglitz-2">[2]</a></sup></p>
+<p>While they have different theoretical underpinnings, what these approaches have in common with each other is a fundamental recognition of the limitations of traditional indicators in measuring economic performance and social progress, and the importance of sustainability in the long-run.</p>
+<h3><span class="mw-headline" id="Beyond_GDP">Beyond GDP</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Natural_capital_accounting&amp;action=edit&amp;section=12" title="Edit section: Beyond GDP">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>There have been several initiatives organized at the regional level that seek to move away from traditional GDP as the major indicator of wealth and well-being. The first of these is Beyond GDP, an initiative started by the EU in 2007 to develop highly aggregated environmental and social indicators and extend the national accounts to environmental and social issues.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup> In May 2010, the Summit for Sustainability in Africa was held in Gaborone, Botswana. It also brought together regional leaders to discuss sustainable development planning, and in particular, to commit to a set of goals on fully accounting for natural capital, and integrating it into national planning, reporting and policies.<sup id="cite_ref-fifty_16-0" class="reference"><a href="#cite_note-fifty-16">[16]</a></sup></p>
+<h3><span class="mw-headline" id="Economics_of_ecosystems_and_biodiversity">Economics of ecosystems and biodiversity</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Natural_capital_accounting&amp;action=edit&amp;section=13" title="Edit section: Economics of ecosystems and biodiversity">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Four publications were presented at the CBD COP-10 by <a href="/wiki/The_Economics_of_Ecosystems_and_Biodiversity" title="The Economics of Ecosystems and Biodiversity">The Economics of Ecosystems and Biodiversity</a> (TEEB) initiative: TEEB Ecological and Economic Foundations, TEEB in in National and International Policy Making, TEEB in Local and Regional Policy, and TEEB in Business and Enterprise.<sup id="cite_ref-AboutTEEB_17-0" class="reference"><a href="#cite_note-AboutTEEB-17">[17]</a></sup> These, along with an Interim Report released at the CBD COP-9 in Bonn, Germany, represent a comprehensive analysis of the economic value of biodiversity, and the consequences it holds for different levels of public and private policy analysis.<sup id="cite_ref-AboutTEEB_17-1" class="reference"><a href="#cite_note-AboutTEEB-17">[17]</a></sup> TEEB also seeks to systematize the role of corporations, under the TEEB for Business Coalition (2012), by formulating standards and assessing externalities.<sup id="cite_ref-Declaration_18-0" class="reference"><a href="#cite_note-Declaration-18">[18]</a></sup> Since natural capital accounting requires the identification of replenishment activities as well as environmental degradation, the inclusion of corporations into the valuation process is key.</p>
+<h3><span class="mw-headline" id="Natural_Capital_Declaration">Natural Capital Declaration</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Natural_capital_accounting&amp;action=edit&amp;section=14" title="Edit section: Natural Capital Declaration">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In June 2012, the Rio+20 conference “marked a watershed in the world wide interest on Natural Capital Accounting.”<sup id="cite_ref-fifty_16-1" class="reference"><a href="#cite_note-fifty-16">[16]</a></sup> The Natural Capital Declaration (NCD), a commitment by CEOs in the financial sector to embed ESG considerations in management and investment activities, was revealed prior to the conference.<sup id="cite_ref-Declaration_18-1" class="reference"><a href="#cite_note-Declaration-18">[18]</a></sup> As well, the World Bank started the WAVES 50:50 Initiative to analyze the progress and next steps required for improving efforts to account for natural capital and enhance countries’ sustainable decision-making capabilities.<sup id="cite_ref-fifty_16-2" class="reference"><a href="#cite_note-fifty-16">[16]</a></sup> At the time of the conference, 62 countries, 90 corporations, and 17 civil society members had signed on to the campaign.<sup id="cite_ref-fifty_16-3" class="reference"><a href="#cite_note-fifty-16">[16]</a></sup></p>
+<h2><span class="mw-headline" id="Country_initiatives">Country initiatives</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Natural_capital_accounting&amp;action=edit&amp;section=15" title="Edit section: Country initiatives">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Many countries are undertaking projects to develop environmental accounts, to integrate them with national accounts or to create environmentally-adjusted macroeconomic indicators, including Green GDP. Early adopters of integrated environmental-economic accounts include the Netherlands, France, and the Philippines. This section documents the initiatives undertaken by, or concerning the G20 countries.</p>
+<h3><span class="mw-headline" id="Argentina">Argentina</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Natural_capital_accounting&amp;action=edit&amp;section=16" title="Edit section: Argentina">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A team of researchers at the University of Buenos Aires and CONICET organized the ARKLEMS+LAND project. Their research, based on the KLEMS database framework (Capital, Labour, Energy, Material and Service Inputs), measures and analyses the sources of economic growth, productivity and competitiveness in the Argentinian economy.<sup id="cite_ref-KLEMS_19-0" class="reference"><a href="#cite_note-KLEMS-19">[19]</a></sup> The database includes the contributions of “Natural Resource as Land and Subsoil Assets” services to GDP growth.<sup id="cite_ref-KLEMS_19-1" class="reference"><a href="#cite_note-KLEMS-19">[19]</a></sup></p>
+<p>Professor George Santopietro, at Radford University in Virginia, examined several alternative methods for estimating resource rent and relatedly, depletion costs of natural capital. The methods he engages with are: net price, El Serafy’s depletion cost, sustainable price, transaction value and replacement cost.<sup id="cite_ref-YPF_20-0" class="reference"><a href="#cite_note-YPF-20">[20]</a></sup> He derives data from the privatization of Yacimientos Petroliferos Fiscales (YPF), Argentina’s state-owned oil enterprise, and using each method, generates estimated resource rent and depletion cost values for Argentina’s reserves of petroleum.<sup id="cite_ref-YPF_20-1" class="reference"><a href="#cite_note-YPF-20">[20]</a></sup> The results show that the net price and transaction value methods overvalue the resource rent of petroleum reserves. He concludes that rent should be derived using the value of a firm’s stock.<sup id="cite_ref-YPF_20-2" class="reference"><a href="#cite_note-YPF-20">[20]</a></sup></p>
+<h3><span class="mw-headline" id="Australia">Australia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Natural_capital_accounting&amp;action=edit&amp;section=17" title="Edit section: Australia">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Several Australian organizations produce national environmental accounts. The Australian Bureau of Statistics produces Water Account Australia and a pilot Land Account for the Great Barrier Reef, both of which are based on the SEEA framework. The Bureau of Meteorology produces a complementary National Water Account on the water available to be used. The Department of Climate Change and Energy Efficiency reports on greenhouse gas (GHG) emissions. The Wentworth Group of Concerned Scientists has created a trial, environmental accounting model that can be applied to regions of any size. These regional accounts use a common unit of measurement, which allows comparisons to be made between different natural capital assets. The Victorian Department of Sustainability and Environment is in the process of developing experimental ecosystem accounts.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup></p>
+<p>The energy and water accounts found on the National Balance Sheet are produced annually.<sup id="cite_ref-Yearbook_22-0" class="reference"><a href="#cite_note-Yearbook-22">[22]</a></sup> As well, subsoil assets, timber for producing logs, and land are valued monetarily, and included on the non-produced assets in the National Balance Sheet.<sup id="cite_ref-Yearbook_22-1" class="reference"><a href="#cite_note-Yearbook-22">[22]</a></sup> The Australian Bureau of Statistics (ABS) is currently working with several other national departments on the National Plan for Environmental Information (NPEI), the State of the Environment Report, and planning for national environmental accounts.</p>
+<p>In 2012, following the adoption of the SEEA as an international statistical standard, the Australian Bureau of Statistics (ABS) also published a report titled “Completing the Picture – Environmental Accounting in Practice,” which develops a number of accounting tables rooted in SEEA formatting, and explores how these could influence policy decisions.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup></p>
+<h3><span class="mw-headline" id="Britain">Britain</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Natural_capital_accounting&amp;action=edit&amp;section=18" title="Edit section: Britain">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The UK produces Environmental Accounts, consistent with the SEEA framework, that are separated into three dimensions: natural resource accounts, physical flows and monetary accounts.<sup id="cite_ref-UK_24-0" class="reference"><a href="#cite_note-UK-24">[24]</a></sup> The majority of the data is measured in physical units; monetary units are used where relevant, and if the necessary data is available.<sup id="cite_ref-UK_24-1" class="reference"><a href="#cite_note-UK-24">[24]</a></sup></p>
+<p>The current environmental asset accounts produced by the Office for National Statistics (ONS) are: oil and gas reserves, forestry and land cover.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup> In 2012, the ONS planned to run a study on producing a full ecosystem account, with high priority on physical and monetary forestry accounts.<sup id="cite_ref-UK2_26-0" class="reference"><a href="#cite_note-UK2-26">[26]</a></sup> The Office also set out a series of goals to include land use and cover accounts in the 2013 Environmental Accounts.<sup id="cite_ref-UK2_26-1" class="reference"><a href="#cite_note-UK2-26">[26]</a></sup></p>
+<p>The UK National Ecosystem Assessment (NEA) was a two-year initiative from 2009 to 2011 that assessed the benefits of the natural environment to society and the economy.<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[27]</a></sup></p>
+<p>The Government has pledged to develop full UK Environmental Accounts by 2020. This work is being led by the <a href="/wiki/Office_for_National_Statistics" title="Office for National Statistics">Office for National Statistics</a> (ONS) and the <a href="/wiki/Department_for_Environment,_Food_and_Rural_Affairs" title="Department for Environment, Food and Rural Affairs">Department for Environment, Food and Rural Affairs</a> (Defra). The UK <a href="/wiki/Natural_Capital_Committee" title="Natural Capital Committee">Natural Capital Committee</a> is providing advice to help inform this project. In December 2012, the ONS published a 'roadmap' that set out the work-plan for the project. The incorporation of natural capital into the national accounts, if done properly, would enable a high level picture to be obtained of trends in the state of the nation’s natural assets through time. This in turn would help demonstrate the implications of actions impacting on the natural environment and may, therefore, encourage policy-makers to ensure natural assets are in future used sustainably through the appropriate use of policy levers.</p>
+<p>The <a rel="nofollow" class="external text" href="http://www.naturalcapitalcommittee.org/home.html">Natural Capital Committee</a> is also developing a methodology for corporate natural capital accounting. It is undertaking a pilot project throughout 2014 with a range of organisations to test and refine this methodology and is encouraging organisations that own or manage land to develop <a rel="nofollow" class="external text" href="http://www.naturalcapitalcommittee.org/corporate-natural-capital-accounting.html">corporate natural capital accounts</a>.</p>
+<h3><span class="mw-headline" id="Brazil">Brazil</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Natural_capital_accounting&amp;action=edit&amp;section=19" title="Edit section: Brazil">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Despite reports that Brazil would produce a Green GDP in the lead-up to the Rio+20, there is no indication that this process was undertaken.<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[28]</a></sup></p>
+<h3><span class="mw-headline" id="Canada">Canada</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Natural_capital_accounting&amp;action=edit&amp;section=20" title="Edit section: Canada">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Statistics Canada does not redefine or supplement existing national accounts aggregates with environmental information. However, it has developed the Canadian System of Environmental and Resource Accounts (CSERA), which “provides some information for those who may wish to calculate such “green aggregates.””<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">[29]</a></sup> It also includes estimates of land in the "tangible non-produced assets" section of the Canadian balance sheet.<sup id="cite_ref-:0_30-0" class="reference"><a href="#cite_note-:0-30">[30]</a></sup></p>
+<p>The CSERA has three dimensions: Natural Resource Stock Accounts; Material and Energy Flow Accounts; and Environmental Protection Expenditure Accounts.<sup id="cite_ref-Canada1_31-0" class="reference"><a href="#cite_note-Canada1-31">[31]</a></sup> The Natural Resource Stock Accounts are measured in physical and monetary units.<sup id="cite_ref-Canada1_31-1" class="reference"><a href="#cite_note-Canada1-31">[31]</a></sup> These, in turn, comprise natural resource wealth estimates that are included on the National Balance Sheet Accounts.</p>
+<p>In 2005, the Pembina Institute published a report on the Canada Boreal Initiative, which sought to quantify the full economic value of goods and services provided by Canada’s Boreal region. The Boreal Ecosystem Wealth Accounting System (BEWAS) was constructed for this purpose. It considered the physical conditions in the boreal region by using physical inventory and spatial data.<sup id="cite_ref-Canada2_32-0" class="reference"><a href="#cite_note-Canada2-32">[32]</a></sup> The two-year study approximated the market value, for 2002, of the region’s forestry, mining, oil and gas, and hydroelectric generation sectors at $48.9 billion.<sup id="cite_ref-Canada2_32-1" class="reference"><a href="#cite_note-Canada2-32">[32]</a></sup> For the same time period, it also estimated the net market value of natural capital extraction at $37.8 billion and the non-market value of ecosystem services at $93.2 billion.<sup id="cite_ref-Canada2_32-2" class="reference"><a href="#cite_note-Canada2-32">[32]</a></sup></p>
+<p>Professor Nancy Olewiler, at Simon Fraser University, conducted several case studies to value natural capital in settled areas of Canada. Her agricultural lands case studies found the total net value of conservation efforts to be approximately $195/ha/yr in the Ontario Grand River Watershed, $65/ha/yr in the Upper Assiniboine River Basin and $126/ha/yr in the Prince Edward Island Mill River Watershed.<sup id="cite_ref-33" class="reference"><a href="#cite_note-33">[33]</a></sup></p>
+<h3><span class="mw-headline" id="China">China</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Natural_capital_accounting&amp;action=edit&amp;section=21" title="Edit section: China">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In 1997, Beijing authorities carried out a project assessing the city’s Green GDP.<sup id="cite_ref-China1_34-0" class="reference"><a href="#cite_note-China1-34">[34]</a></sup> This set a series of precedents for environmentally adjusted indicators in the country. Over the next decade, several regional pilot projects were undertaken by local authorities. Between 2001 and 2004, Chinese authorities worked with Statistics Norway to carry out a Green GDP assessment of Chongqing.<sup id="cite_ref-China1_34-1" class="reference"><a href="#cite_note-China1-34">[34]</a></sup></p>
+<p>Then, in 2004, the Green GDP Accounting Research Project was launched by the State Environmental Protection Administration of China (SEPA) and the National Bureau of Statistics (NBS). The findings, released in the China Green National Accounting Study Report 2004 in 2006, reported that environmental pollution cost the economy 511.8 billion yuan or 3.5% of GDP in 2004.<sup id="cite_ref-China2_35-0" class="reference"><a href="#cite_note-China2-35">[35]</a></sup> A breakdown of the figure shows that water pollution, air pollution, and solid waste and accidents cost 286.28 billion yuan, 219.8 billion yuan, and 5.74 billion yuan, respectively.<sup id="cite_ref-China2_35-1" class="reference"><a href="#cite_note-China2-35">[35]</a></sup> According to the report, only about ten of the items the project intended to distinguish were accounted for.<sup id="cite_ref-China2_35-2" class="reference"><a href="#cite_note-China2-35">[35]</a></sup> The costs of resource depletion and ecological damage were not included in the calculations because of methodological difficulties, limited technological capabilities and a lack of relevant data.<sup id="cite_ref-PBS_36-0" class="reference"><a href="#cite_note-PBS-36">[36]</a></sup></p>
+<p>At the same time as the report was released, SEPA Vice Minister Zhu Guangya issued an independent report stating that each year, environmental damage in the country cost approximately 10% of GDP.<sup id="cite_ref-PBS_36-1" class="reference"><a href="#cite_note-PBS-36">[36]</a></sup> This estimate was consistent with the one that scientists, economists and the World Bank had expected, of 8-12% of GDP.</p>
+<p>The government withdrew its official support for Green GDP in 2007, after early results showed the reduction of growth rates in some provinces to nearly zero. It also did not release an official Green GDP report for 2005, which had been scheduled for publication in March 2007.</p>
+<p>Reports have periodically surfaced about re-calculating China’s green GDP. In 2007, the All-China Environment Federation (ACEF) called on the National Development and Reform Commission (NDRC) to carry out a national accounting system.<sup id="cite_ref-37" class="reference"><a href="#cite_note-37">[37]</a></sup> ‘’China Daily’’ reported that the Ministry of Environmental Protection valued the cost of pollution to the economy at 1.4 trillion yuan in 2009.<sup id="cite_ref-38" class="reference"><a href="#cite_note-38">[38]</a></sup></p>
+<p>Starting in 1998, the NBS developed rudimentary environmental accounts in forestry and energy. Since then, the NBS has expanded its environmental accounts to include pollution treatment, water, and minerals, along with the development of a comprehensive SEEA for China.<sup id="cite_ref-China1_34-2" class="reference"><a href="#cite_note-China1-34">[34]</a></sup></p>
+<h3><span class="mw-headline" id="European_Union">European Union</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Natural_capital_accounting&amp;action=edit&amp;section=22" title="Edit section: European Union">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The interaction between Eurostat and national statistical offices of EU Member States was formalized in 2011, by the adoption of Regulation No 691 on European Environmental Economic Accounts. It requires Member States to report data and accounts on air emissions, taxes related to the environment, and material flows from 2012.<sup id="cite_ref-EU1_39-0" class="reference"><a href="#cite_note-EU1-39">[39]</a></sup> Eurostat is also constructing environmental accounts expressed in physical and monetary terms, and asset accounts, as a step towards developing a regional SEEA.<sup id="cite_ref-40" class="reference"><a href="#cite_note-40">[40]</a></sup></p>
+<p>The creation of inclusive wealth indicators is also a recognized priority of the EU. The proposed 7th Environment Action Programme (EAP) of the EC explicitly identifies this issue, by calling for further development and integration of economic and environmental indicators. The Shared Environmental Information System (SEIS) proposes to streamline the collection of data required for designing environmental indicators.<sup id="cite_ref-EU1_39-1" class="reference"><a href="#cite_note-EU1-39">[39]</a></sup> The EU also committed to the Aichi Accord at the CBD COP-10, in which Parties agree to integrate biodiversity into their national accounts.<sup id="cite_ref-EU1_39-2" class="reference"><a href="#cite_note-EU1-39">[39]</a></sup> This is on top of the experimental ecosystem accounting framework that was launched in 2009. The European Environment Agency (EEA) proposed that given the compatibility of the design with the SNA, it would be possible to use one particular indicator, Consumption of Ecosystem Capital (CEC) to adjust National Accounts aggregates to create, in particular, CEC Adjusted Net Domestic Product and CEC Adjusted Net National Income.<sup id="cite_ref-41" class="reference"><a href="#cite_note-41">[41]</a></sup></p>
+<p>The EC Communication Roadmap to a Resource Efficient Europe sets 2020 as the year by which businesses, along with public authorities, will properly account for natural capital and ecosystem services.<sup id="cite_ref-42" class="reference"><a href="#cite_note-42">[42]</a></sup></p>
+<h3><span class="mw-headline" id="France">France</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Natural_capital_accounting&amp;action=edit&amp;section=23" title="Edit section: France">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The French Ministry of Sustainable Development produces satellite, environmental-economic accounts each year.<sup id="cite_ref-France_43-0" class="reference"><a href="#cite_note-France-43">[43]</a></sup> However, it is planning on fully expanding the accounts to correspond with the SEEA (2012).<sup id="cite_ref-France_43-1" class="reference"><a href="#cite_note-France-43">[43]</a></sup> The National Institute of Statistics and Economics also includes estimates of land, subsoil assets, and non-cultivated bio and water resources in the "tangible non-produced assets" section of the French balance sheet.<sup id="cite_ref-:0_30-1" class="reference"><a href="#cite_note-:0-30">[30]</a></sup></p>
+<p>From 2008 to 2010, an exploratory study on ecosystem valuation was carried out.<sup id="cite_ref-France_43-2" class="reference"><a href="#cite_note-France-43">[43]</a></sup> In accordance with the adoption of the Aichi Accord at the CBD COP-10, the French National Biodiversity Strategy Target 7 was set to “include preservation of biodiversity in economic decisions.”<sup id="cite_ref-France_43-3" class="reference"><a href="#cite_note-France-43">[43]</a></sup> The Ministry of Sustainable Development is presently consulting with stakeholders and refining methodological options in order to begin assembling physical ecosystem assessments.<sup id="cite_ref-France_43-4" class="reference"><a href="#cite_note-France-43">[43]</a></sup> Annual expert workshops on monetary valuation and economic instruments are also organized by the Ministry.<sup id="cite_ref-France_43-5" class="reference"><a href="#cite_note-France-43">[43]</a></sup></p>
+<h3><span class="mw-headline" id="Germany">Germany</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Natural_capital_accounting&amp;action=edit&amp;section=24" title="Edit section: Germany">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The German Environmental Economic Accounts (GEEA) follow the SEEA framework. The data from these accounts, along with the German Socio-economic Accounts, is used to calculate an indicator set, as outlined in the National Strategy for Sustainable Development (2002).<sup id="cite_ref-Germany_44-0" class="reference"><a href="#cite_note-Germany-44">[44]</a></sup> While no adjusted macroeconomic aggregates are estimated in the GEEA, two of the GEEA indicators are embedded into the National Accounts: productivity of energy and raw materials, and transport intensity and share of the railways in providing transport.<sup id="cite_ref-Germany_44-1" class="reference"><a href="#cite_note-Germany-44">[44]</a></sup></p>
+<h3><span class="mw-headline" id="India">India</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Natural_capital_accounting&amp;action=edit&amp;section=25" title="Edit section: India">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>An Expert Group, led by IHDP Scientific Committee chairman Professor Partha Dasgupta, is in the process of developing a system to “green” India’s national accounts.<sup id="cite_ref-India1_45-0" class="reference"><a href="#cite_note-India1-45">[45]</a></sup> It plans to adjust GDP to account for environmental costs and impacts by 2015.<sup id="cite_ref-India1_45-1" class="reference"><a href="#cite_note-India1-45">[45]</a></sup> Some of the issues the Group will address include establishing coordination mechanisms within the country and with international partners, and standardizing data collection and valuation methodologies.<sup id="cite_ref-46" class="reference"><a href="#cite_note-46">[46]</a></sup></p>
+<p>The Green Accounting for Indian States Project (GAISP) was the first initiative of the Green Indian States Trust (GIST), an NGO started in 2004.<sup id="cite_ref-GAISP_47-0" class="reference"><a href="#cite_note-GAISP-47">[47]</a></sup> The Project used data from Indian national databases to measure sustainable development and create green accounts at the state-level that were consistent with SEEA-2003 guidelines.<sup id="cite_ref-GAISP_47-1" class="reference"><a href="#cite_note-GAISP-47">[47]</a></sup> Following this, GIST calculated a Green GDP total which adjusted the traditional indicator for “all major externalities.”<sup id="cite_ref-GAISP_47-2" class="reference"><a href="#cite_note-GAISP-47">[47]</a></sup></p>
+<p>The South Asian Network for Development and Environmental Economics (SANDEE) and the Indian Society for Ecological Economics operate in India, although SANDEE is based in Nepal.<sup id="cite_ref-48" class="reference"><a href="#cite_note-48">[48]</a></sup> Both are networks that conduct research on and analyses of environmental accounting, which is instructive for teachers, researchers and members of the policy community.<sup id="cite_ref-49" class="reference"><a href="#cite_note-49">[49]</a></sup></p>
+<h3><span class="mw-headline" id="Indonesia">Indonesia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Natural_capital_accounting&amp;action=edit&amp;section=26" title="Edit section: Indonesia">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Members of the World Resources Institute, led by David Repetto, integrated environmental effects into Indonesia’s national accounts in 1990.<sup id="cite_ref-Asafu_50-0" class="reference"><a href="#cite_note-Asafu-50">[50]</a></sup> He subtracted net natural resource depreciation for the petroleum, timber, and soils sectors from GDP to estimate the environmentally-adjusted NDP.<sup id="cite_ref-Asafu_50-1" class="reference"><a href="#cite_note-Asafu-50">[50]</a></sup> They found that estimates of net income and growth of net income were overstated when calculated using the conventional accounts.<sup id="cite_ref-Joy_7-1" class="reference"><a href="#cite_note-Joy-7">[7]</a></sup></p>
+<p>In 1997, the United Nations University-Institute of Advanced Studies (UNU-IAS) measured the environmental impacts of industrialization and trade in Indonesia (along with China and Japan).<sup id="cite_ref-UNUIAS_51-0" class="reference"><a href="#cite_note-UNUIAS-51">[51]</a></sup> In their study, the UNU-IAS constructed an international environmental input-output model for the Asia Pacific region, and from this, was able to compile a preliminary SEEA and Green GDP approximation.<sup id="cite_ref-UNUIAS_51-1" class="reference"><a href="#cite_note-UNUIAS-51">[51]</a></sup> In 1990, environmental costs were equal to 4.9% of NDP for Indonesia. In particular, changes in land use and oil exploitation were major costs.<sup id="cite_ref-UNUIAS_51-2" class="reference"><a href="#cite_note-UNUIAS-51">[51]</a></sup></p>
+<p>Since 2002, Statistics Indonesia (BPS) has produced several Indicators of Sustainable Development reports, based on the 134 UN Commission on Sustainable Development Indicators developed by the UN Department of Economic and Social Affairs. BPS also regularly generates environmental statistics and statistics of marine and coastal resources.</p>
+<h3><span class="mw-headline" id="Italy">Italy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Natural_capital_accounting&amp;action=edit&amp;section=27" title="Edit section: Italy">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The National Institute of Statistics (ISTAT) currently constructs three types of environmental accounting modules: material flows (MFA), the environmental account matrix integrated with national economic account (NAMEA), and the expenditure estimate for environmental protection (SERIEE-EPEA).<sup id="cite_ref-52" class="reference"><a href="#cite_note-52">[52]</a></sup></p>
+<p>In 1999, Silvia Teizzi at the University of Sienna applied a method of monetary valuation to externalities arising from agricultural production in Italy.<sup id="cite_ref-Silvia_53-0" class="reference"><a href="#cite_note-Silvia-53">[53]</a></sup> She separately estimated a shadow price and a quantity for the externalities and calculated their values between for each year between 1961 and 1991.<sup id="cite_ref-Silvia_53-1" class="reference"><a href="#cite_note-Silvia-53">[53]</a></sup> She subtracted these figures from the value added of the agricultural sector “as a first step towards the correction of national accounting aggregates to take environmental degradation into account.”<sup id="cite_ref-Silvia_53-2" class="reference"><a href="#cite_note-Silvia-53">[53]</a></sup></p>
+<p>In their case study on Trento, Italy, Professors Andrea Francesconi and Paolo Penasa analyze the accounting schemes for environmental expenditures developed by local governments in Italy.<sup id="cite_ref-Andrea_54-0" class="reference"><a href="#cite_note-Andrea-54">[54]</a></sup> Under the local Agenda 21 process, the City and Local Environmental Accounting and Reporting (CLEAR) project and the CONTAROMA project were undertaken by Italian municipalities.<sup id="cite_ref-Andrea_54-1" class="reference"><a href="#cite_note-Andrea-54">[54]</a></sup> The CLEAR project was started in 2001 to pair the financial statements of municipalities with an environmental report.<sup id="cite_ref-Andrea_54-2" class="reference"><a href="#cite_note-Andrea-54">[54]</a></sup> The CLEAR method reclassified the aforementioned financial statements such that expenditures for environmental purposes could be identified, and compiled into separate monetary accounts.<sup id="cite_ref-Andrea_54-3" class="reference"><a href="#cite_note-Andrea-54">[54]</a></sup> Similarly, the CONTAROMA project developed an environmental accounting system for the municipal budget of Rome.<sup id="cite_ref-Andrea_54-4" class="reference"><a href="#cite_note-Andrea-54">[54]</a></sup></p>
+<h3><span class="mw-headline" id="Japan">Japan</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Natural_capital_accounting&amp;action=edit&amp;section=28" title="Edit section: Japan">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In 1995, the Japanese Economic Planning Agency made initial estimates of the SEEA and Green GDP from 1985 to 1990.<sup id="cite_ref-UNUIAS_51-3" class="reference"><a href="#cite_note-UNUIAS-51">[51]</a></sup> In 1998, they extended their estimates from 1970 to 1995.<sup id="cite_ref-UNUIAS_51-4" class="reference"><a href="#cite_note-UNUIAS-51">[51]</a></sup> According to these calculations, environmental costs in Japan fell from 8% of NDP in 1970 to nearly 1% in 1995.<sup id="cite_ref-UNUIAS_51-5" class="reference"><a href="#cite_note-UNUIAS-51">[51]</a></sup></p>
+<p>The E-10 are the official economic-environmental accounts produced by the Japanese Ministry of the Environment.<sup id="cite_ref-Japan_55-0" class="reference"><a href="#cite_note-Japan-55">[55]</a></sup> They are based on data compiled by 10 government ministries, and describe the environmental burden of particular natural resources in physical units.<sup id="cite_ref-Japan_55-1" class="reference"><a href="#cite_note-Japan-55">[55]</a></sup> There are three tables which make up the E-10: a Basic Transaction Table; resource and environmental burden tables; and supplementary tables.<sup id="cite_ref-Japan_55-2" class="reference"><a href="#cite_note-Japan-55">[55]</a></sup></p>
+<p>The Statistics Bureau of Japan currently includes estimates of land in the "tangible non-produced assets" section of the Japanese balance sheet.<sup id="cite_ref-:0_30-2" class="reference"><a href="#cite_note-:0-30">[30]</a></sup></p>
+<h3><span class="mw-headline" id="Republic_of_Korea">Republic of Korea</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Natural_capital_accounting&amp;action=edit&amp;section=29" title="Edit section: Republic of Korea">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In 2001, the Korean Ministry of the Environment planned to introduce an environmentally-adjusted GDP indicator.<sup id="cite_ref-Korea1_56-0" class="reference"><a href="#cite_note-Korea1-56">[56]</a></sup> It began developing a SEEA (KORSEEA) in 2002, and the development of Economy-wide Material Flow Accounts, and NAMEA took place in the following years.<sup id="cite_ref-Korea1_56-1" class="reference"><a href="#cite_note-Korea1-56">[56]</a></sup> Several government institutions and departments provide economic and environmental data required for the KORSEEA. Statistics Korea also includes estimates of land, subsoil assets, and non-cultivated bio and water resources in the "tangible non-produced assets" section of the Koreah balance sheet.<sup id="cite_ref-:0_30-3" class="reference"><a href="#cite_note-:0-30">[30]</a></sup></p>
+<p>The Korea Rural Economic Institute calculated the Green GDP of the Korean agricultural sector in the period 1980 to 1997 using pilot economic-environmental accounts.<sup id="cite_ref-Korea2_57-0" class="reference"><a href="#cite_note-Korea2-57">[57]</a></sup> Environmental adjustment in this study is limited to the subtraction of “degradation costs of natural resources” from NDP.<sup id="cite_ref-Korea2_57-1" class="reference"><a href="#cite_note-Korea2-57">[57]</a></sup> They report that the ratio of environmentally adjusted domestic product to NDP decreases from 100.6% to 99.5% in the agricultural sector during the specified period.<sup id="cite_ref-Korea2_57-2" class="reference"><a href="#cite_note-Korea2-57">[57]</a></sup></p>
+<h3><span class="mw-headline" id="Mexico">Mexico</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Natural_capital_accounting&amp;action=edit&amp;section=30" title="Edit section: Mexico">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In 1985, the UN, World Bank and Mexican government executed a joint pilot project using 1985 data to produce two environmentally-adjusted indicators: resource depletion subtracted from NDP and environmental degradation subtracted from NDP.<sup id="cite_ref-Mexico_58-0" class="reference"><a href="#cite_note-Mexico-58">[58]</a></sup></p>
+<p>The Mexican System of Economic and Ecological Accounts (MSEEA) was started in 1988, and has been published annually since 1991.<sup id="cite_ref-Mexico_58-1" class="reference"><a href="#cite_note-Mexico-58">[58]</a></sup> The National Institute of Statistics and Geography of Mexico (INEGI) have used the accounts to derive key information about environmental sustainability in the country. Yearly environmental costs are equal to 8.5% of GDP. Since 2003, the INEGI has calculated a yearly Green GDP aggregate.<sup id="cite_ref-Mexico_58-2" class="reference"><a href="#cite_note-Mexico-58">[58]</a></sup> Between 2003 and 2009, the ratio of Green GDP to GDP increased from 90.4% to 92.1%.<sup id="cite_ref-Mexico_58-3" class="reference"><a href="#cite_note-Mexico-58">[58]</a></sup> The INEGI reports that while the scope of action should be increased, this trend reflects the successful efforts of the government to reduce impacts that negatively affect the environment.<sup id="cite_ref-Mexico_58-4" class="reference"><a href="#cite_note-Mexico-58">[58]</a></sup></p>
+<h3><span class="mw-headline" id="Russia">Russia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Natural_capital_accounting&amp;action=edit&amp;section=31" title="Edit section: Russia">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The Federal State Statistics Service (Rosstat) currently includes estimates of land and non-cultivated bio and water resources in the "tangible non-produced assets" section of the Russian balance sheet.<sup id="cite_ref-:0_30-4" class="reference"><a href="#cite_note-:0-30">[30]</a></sup> Rosstat has outlined a series of priorities for developing a Russian SEEA. Its highest priority is asset accounts, and with respect to the environment, a particular record of environmental protection expenditures.<sup id="cite_ref-Russia_59-0" class="reference"><a href="#cite_note-Russia-59">[59]</a></sup> After 2015, the basis for integration will appear with the creation of input-output tables.<sup id="cite_ref-Russia_59-1" class="reference"><a href="#cite_note-Russia-59">[59]</a></sup> Physical flow accounts are a medium priority; further development will depend on the completion of the input-output tables and whether new surveys are introduced on time.<sup id="cite_ref-Russia_59-2" class="reference"><a href="#cite_note-Russia-59">[59]</a></sup> While accounts for extended SNA aggregates, such as the depletion or degradation of natural capital are being given conceptual consideration, they are the lowest priority of Rosstat.<sup id="cite_ref-Russia_59-3" class="reference"><a href="#cite_note-Russia-59">[59]</a></sup></p>
+<h3><span class="mw-headline" id="Saudi_Arabia">Saudi Arabia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Natural_capital_accounting&amp;action=edit&amp;section=32" title="Edit section: Saudi Arabia">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Saudi Arabia has not undertaken any relevant initiatives.</p>
+<h3><span class="mw-headline" id="South_Africa">South Africa</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Natural_capital_accounting&amp;action=edit&amp;section=33" title="Edit section: South Africa">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The environmental-economic accounts are developed in the National Accounts Division of Statistics South Africa (SA). Information for the accounts is sourced from various government departments, surveys and geographic and spatial data.<sup id="cite_ref-SA_60-0" class="reference"><a href="#cite_note-SA-60">[60]</a></sup> According to a 2011 report to the United Nations, environmental statistics are not a mainstream priority for the country, and Statistics SA does not have adequate resources to collect environmental data.<sup id="cite_ref-SA_60-1" class="reference"><a href="#cite_note-SA-60">[60]</a></sup> Additionally, a “lengthy institutionalization process” has prevented the publication of any official reports.<sup id="cite_ref-SA_60-2" class="reference"><a href="#cite_note-SA-60">[60]</a></sup></p>
+<h3><span class="mw-headline" id="Turkey">Turkey</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Natural_capital_accounting&amp;action=edit&amp;section=34" title="Edit section: Turkey">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The Turkish Statistical Institute produces a range of environmental statistics.<sup id="cite_ref-61" class="reference"><a href="#cite_note-61">[61]</a></sup></p>
+<h3><span class="mw-headline" id="United_States_of_America">United States of America</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Natural_capital_accounting&amp;action=edit&amp;section=35" title="Edit section: United States of America">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In 1992, the Bureau of Economic Analysis within the Department of Commerce began intensively developing environmental accounting methodologies.<sup id="cite_ref-NN_62-0" class="reference"><a href="#cite_note-NN-62">[62]</a></sup> However, Congress directed the Department to suspend all activities in this area in 1994, after the first U.S. Integrated Environmental and Economic Satellite Accounts were published.<sup id="cite_ref-NN_62-1" class="reference"><a href="#cite_note-NN-62">[62]</a></sup> It also ordered an external review of environmental accounting. This review, Nature’s Numbers: Expanding the National Economic Accounts to Include the Environment was concluded in 1999.<sup id="cite_ref-NN_62-2" class="reference"><a href="#cite_note-NN-62">[62]</a></sup></p>
+<p>William Nordhaus (Nature’s Numbers), along with Nicholas Muller and Robert Mendelsohn, co-authored a study on integrating environmental externalities into a SNA. Their model estimates gross damages from air pollution in each industry in the United States. It estimates that damages from activities such as combustion of waste, sewage treatment and firing power plants by oil or coal are larger than their value added.<sup id="cite_ref-US_63-0" class="reference"><a href="#cite_note-US-63">[63]</a></sup> The largest externalities, for which damages range from 0.8 to 5.6 times value added, arise from coal-fired electric generation.<sup id="cite_ref-US_63-1" class="reference"><a href="#cite_note-US-63">[63]</a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Natural_capital_accounting&amp;action=edit&amp;section=36" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Calculation_in_kind" title="Calculation in kind">Calculation in kind</a></li>
+<li><a href="/wiki/Ecological_economics" title="Ecological economics">Ecological economics</a></li>
+<li><a href="/wiki/Economic_value" class="mw-redirect" title="Economic value">Economic value</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Natural_capital_accounting&amp;action=edit&amp;section=37" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-Pembina-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-Pembina_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Pembina_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.pembina.org/economics/natural-capital,,">“Natural Capital”</a>, “Pembina Institute”, 2008</span></li>
+<li id="cite_note-Stiglitz-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-Stiglitz_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Stiglitz_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Stiglitz_2-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Stiglitz_2-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Stiglitz_2-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-Stiglitz_2-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-Stiglitz_2-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-Stiglitz_2-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-Stiglitz_2-8"><sup><i><b>i</b></i></sup></a> <a href="#cite_ref-Stiglitz_2-9"><sup><i><b>j</b></i></sup></a></span> <span class="reference-text">Joseph Stiglitz, Amartya Sen and Jean-Paul Fitoussi, <a rel="nofollow" class="external text" href="http://www.stiglitz-sen-fitoussi.fr/documents/rapport_anglais.pdf">“Report by the Commission on the Measurement of Economic Performance and Social Progress”</a>, “Commission on the Measurement of Economic Performance and Social Progress”, 2008</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://epp.eurostat.ec.europa.eu/portal/page/portal/sdi/indicators,">“Indicators”</a>, “Eurostat”, 2013</span></li>
+<li id="cite_note-OECD-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-OECD_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-OECD_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.oecd.org/greengrowth/greengrowthindicators.htm,">“Green growth indicators”</a>, “OECD”</span></li>
+<li id="cite_note-Monfreda-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-Monfreda_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Monfreda_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">C. Monfreda et al., <a rel="nofollow" class="external text" href="http://www.sze.hu/fk/kornyezet/cikkek8/kcx1415.pdf,">”Establishing national natural capital accounts based on detailed Ecological Footprint and biological capacity assessments”</a>, “Land Use Policy 21”, 2004</span></li>
+<li id="cite_note-OAS-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-OAS_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-OAS_6-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-OAS_6-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">Committee on the Environment of the OAS Permanent Council, <a rel="nofollow" class="external text" href="http://www.oas.org/dsd/publications/Unit/oea38e/oea38e.pdf,">“Natural Resource and Environmental Accounts for Development Policy”</a>, “OAS Permanent Council”, 13–14 April 1993</span></li>
+<li id="cite_note-Joy-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-Joy_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Joy_7-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Joy Hecht, <a rel="nofollow" class="external text" href="http://www.eolss.net/Sample-Chapters/C13/E1-21-03-04.pdf,">“The Evolving System of Integrated Economic and Environmental Accounts”</a>, “Encyclopedia of Life Support Systems”, 2004</span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Committee of Experts on Environmental Economic Accounting, <a rel="nofollow" class="external text" href="http://unstats.un.org/unsd/envaccounting/seearev/Chapters/SEEA_CentralFramework_Ch1.pdf,">“SEEA Central Framework”</a>, “United Nations Statistics Division”, 2012</span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.abs.gov.au/AUSSTATS/abs@.nsf/Latestproducts/4655.0.55.002Appendix12013?opendocument&amp;tabname=Notes&amp;prodno=4655.0.55.002&amp;issue=2013&amp;num=&amp;view=,">“Information Paper – Toward the Australian Environmental-Economic Accounts, 2013”</a>, “Australian Bureau of Statistics”, 2013</span></li>
+<li id="cite_note-Experimental-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-Experimental_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Experimental_10-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://unstats.un.org/unsd/envaccounting/seearev/Chapters/SEEA_EEA_v1.pdf,">“SEEA Experimental Ecosystem Accounting – Consultation Draft”</a>, “United Nations Statistics Division”, 2011</span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://unstats.un.org/unsd/envaccounting/seearev/,">“SEEA Revision”</a>, “United Nations Statistics Division”, 2013</span></li>
+<li id="cite_note-WAVES1-12"><span class="mw-cite-backlink">^ <a href="#cite_ref-WAVES1_12-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-WAVES1_12-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.wavespartnership.org/waves/about-us,">“About Us”</a>, “Wealth Accounting and the Valuation of Ecosystem Services”, 2013</span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">Johan Rockstrom et al., <a rel="nofollow" class="external text" href="http://www.stockholmresilience.org/download/18.8615c78125078c8d3380002197/ES-2009-3180.pdf,">“Planetary Boundaries: Exploring the Safe Operating Space for Humanity”</a>, “Ecology and Society, 14:2”, 2009</span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text">Partha Dasgupta and Anantha Duraiappah, <a rel="nofollow" class="external text" href="http://www.ihdp.unu.edu/article/read/iwr-chapter-1,">“Well-being and wealth”</a>, “International Human Dimensions Programme on Global Environmental Change”, 2012</span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.beyond-gdp.eu/background.html,">“About Beyond GDP”</a>, “European Commission”, 2007-2011</span></li>
+<li id="cite_note-fifty-16"><span class="mw-cite-backlink">^ <a href="#cite_ref-fifty_16-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-fifty_16-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-fifty_16-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-fifty_16-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.wavespartnership.org/waves/5050-initiative-next-steps,">“The 50:50 Initiative: Next Steps”</a>, “Wealth Accounting and the Valuation of Ecosystem Services”, 2013</span></li>
+<li id="cite_note-AboutTEEB-17"><span class="mw-cite-backlink">^ <a href="#cite_ref-AboutTEEB_17-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-AboutTEEB_17-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.teebweb.org/about/,">“About TEEB”</a>, “The Economics of Ecosystems and Biodiversity (TEEB)”</span></li>
+<li id="cite_note-Declaration-18"><span class="mw-cite-backlink">^ <a href="#cite_ref-Declaration_18-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Declaration_18-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.naturalcapitaldeclaration.org/the-declaration/,">“The Declaration”</a>, “UNEP FI, GCP &amp; FGV”, 2012</span></li>
+<li id="cite_note-KLEMS-19"><span class="mw-cite-backlink">^ <a href="#cite_ref-KLEMS_19-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-KLEMS_19-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Ariel Coremberg, <a rel="nofollow" class="external text" href="http://www.econ.uba.ar/www/institutos/economia/Ceped/actividades/Seminario%20Interdisciplinario/Mesa%20Exposici%C3%B3n%201%20-%20Estructura,%20productividad%20y%20mercado%20de%20trabajo/Coremberg.pdf,">“Measuring Productivity in Unstable and Natural Resources Dependent Economies: Argentina”</a>, “Second World KLEMS Conference Harvard University”, 9–10 August 2012</span></li>
+<li id="cite_note-YPF-20"><span class="mw-cite-backlink">^ <a href="#cite_ref-YPF_20-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-YPF_20-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-YPF_20-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">George Santopietro, <a rel="nofollow" class="external text" href="http://bbs.cenet.org.cn/uploadimages/20041292103137830.pdf,">“Alternative methods for estimating resource rent and depletion cost: the case of Argentina’s YPF”</a>, “Resources Policy”, 1998</span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.bom.gov.au/environment/activities/accounts.shtml,">“Environmental Accounts”</a>, “Australian Bureau of Meteorology”, 2013</span></li>
+<li id="cite_note-Yearbook-22"><span class="mw-cite-backlink">^ <a href="#cite_ref-Yearbook_22-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Yearbook_22-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.abs.gov.au/AUSSTATS/abs@.nsf/0/F7B724440108BF5BCA25773700169D0D?opendocument,">“Year Book Australia, 2009-10”</a>, “Australian Bureau of Statistics”, 2010</span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.abs.gov.au/AUSSTATS/abs@.nsf/Lookup/4628.0.55.001main+features10May+2012,">“Completing the Picture – Environmental Accounting in Practice, May 2012”</a>, Australian Bureau of Statistics”, 2012</span></li>
+<li id="cite_note-UK-24"><span class="mw-cite-backlink">^ <a href="#cite_ref-UK_24-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-UK_24-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.statistics.gov.uk/hub/agriculture-environment/environment/environmental-accounts,">“Topic guide to: Environmental Accounts”</a>, “UK National Statistics”, 2013</span></li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.ons.gov.uk/ons/rel/environmental/uk-environmental-accounts/2011---blue-book-update/artnaturalcapital.html#tab-UK-experience-of-environmental-asset-accounting,">“Towards a sustainable environment – UK natural capital and ecosystem economic accounting”</a>, “Office for National Statistics”, 2011</span></li>
+<li id="cite_note-UK2-26"><span class="mw-cite-backlink">^ <a href="#cite_ref-UK2_26-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-UK2_26-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.ons.gov.uk/ons/rel/environmental/uk-environmental-accounts/2011---blue-book-update/artnaturalcapital.html#tab-Conclusions-and-the-way-forward,">“Towards a sustainable environment – UK natural capital and ecosystem economic accounting”</a>, “Office for National Statistics”, 2011</span></li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://uknea.unep-wcmc.org/,">“What is the UK National Ecosystem Assessment”</a>, “UK National Ecosystem Assessment”, 2013</span></li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.eurofoodlaw.com/policy/environment/green-gdp-shapes-brazilian-food-production-policy--1.htm,">“Green GDP shapes Brazilian food production policy”</a>, “EU Food Law”, 16 February 2012</span></li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.statcan.gc.ca/nea-cen/faq-foq/env-eng.htm#q2,">“Environmental and resource accounts”</a>, “Statistics Canada”, 2009</span></li>
+<li id="cite_note-:0-30"><span class="mw-cite-backlink">^ <a href="#cite_ref-:0_30-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:0_30-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-:0_30-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-:0_30-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-:0_30-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text">Elva Bova, et al.,<a rel="nofollow" class="external text" href="http://www.imf.org/external/pubs/ft/wp/2013/wp1395.pdf,">"Another Look at Governments' Balance Sheets: The Role of Non-financial Assets"</a>, "International Monetary Fund", 2013.</span></li>
+<li id="cite_note-Canada1-31"><span class="mw-cite-backlink">^ <a href="#cite_ref-Canada1_31-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Canada1_31-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.statcan.gc.ca/pub/16-505-g/16-505-g1997001-eng.pdf,">“Concepts, Sources and Methods of the Canadian System of Environmental and Resource Accounts”</a>, “Statistics Canada”, 2006</span></li>
+<li id="cite_note-Canada2-32"><span class="mw-cite-backlink">^ <a href="#cite_ref-Canada2_32-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Canada2_32-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Canada2_32-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.borealcanada.ca/documents/Boreal_Wealth_Report_Nov_2005.pdf,">“Counting Canada’s Natural Capital: Assessing the real value of Canada’s Boreal Ecosystems”</a>, “Pembina Institute”, 2003</span></li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text">Nancy Olewiler, <a rel="nofollow" class="external text" href="http://www.sfu.ca/mpp-old/04research/pdfs/natural_capital.pdf,">“The Value of Natural Capital in Settled Areas of Canada”</a>, “Simon Fraser University”, 2004</span></li>
+<li id="cite_note-China1-34"><span class="mw-cite-backlink">^ <a href="#cite_ref-China1_34-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-China1_34-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-China1_34-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">Vic Li and Graeme Lang, <a rel="nofollow" class="external text" href="http://www.academia.edu/1622586/Chinas_Green-GDP_Experiment_and_the_Struggle_for_Ecological_Modernization_by_Vic_Li_and_Graeme_Lang,">“China’s “Green GDP” Experiment and the Struggle for Ecological Modernization”</a>, “Journal of Contemporary Asia, 40: 1”, 2010</span></li>
+<li id="cite_note-China2-35"><span class="mw-cite-backlink">^ <a href="#cite_ref-China2_35-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-China2_35-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-China2_35-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">Du Jing, <a rel="nofollow" class="external text" href="http://www.gov.cn/english/2006-09/11/content_384596.htm,">“Green GDP Accounting Study Report 2004 issued”</a>, “Chinese Government’s Official Web Portal”, 2006</span></li>
+<li id="cite_note-PBS-36"><span class="mw-cite-backlink">^ <a href="#cite_ref-PBS_36-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-PBS_36-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.pbs.org/kqed/chinainside/nature/greengdp.html,">“Opinion: Green GDP”</a>, “Public Broadcasting Station”, 2007</span></li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-37">^</a></b></span> <span class="reference-text">Sun Xiaohua, <a rel="nofollow" class="external text" href="http://www.chinadaily.com.cn/china/2007-04/19/content_853917.htm,">“Call for return to green accounting”</a>, “China Daily”, 19 April 2007</span></li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-38">^</a></b></span> <span class="reference-text">Michael Lelyveld, <a rel="nofollow" class="external text" href="http://www.rfa.org/english/commentaries/energy_watch/greengdp-02132012120520.html,">“China’s ‘Green GDP’ Resurfaces”</a>, “Radio Free Asia”, 13 February 2012</span></li>
+<li id="cite_note-EU1-39"><span class="mw-cite-backlink">^ <a href="#cite_ref-EU1_39-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-EU1_39-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-EU1_39-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">Leonardo Mazza and Patrick ten Brink, <a rel="nofollow" class="external text" href="http://www.ieep.eu/assets/1111/Background_paper_on_Indicators_and_accounts_in_the_7th_EAP.pdf,">“Improving Measurement to Manage Through the 7th EAP: The Role of Indicators and Accounting”</a>, “Institute for European Environmental Policy”, 2013</span></li>
+<li id="cite_note-40"><span class="mw-cite-backlink"><b><a href="#cite_ref-40">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://epp.eurostat.ec.europa.eu/portal/page/portal/environmental_accounts/introduction,">“What do environmental accounts measure?”</a>, “Eurostat”, 2012</span></li>
+<li id="cite_note-41"><span class="mw-cite-backlink"><b><a href="#cite_ref-41">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.eea.europa.eu/publications/an-experimental-framework-for-ecosystem,">“An experimental framework for ecosystem capital accounting in Europe”</a>, “European Environment Agency”, 2011</span></li>
+<li id="cite_note-42"><span class="mw-cite-backlink"><b><a href="#cite_ref-42">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://ec.europa.eu/environment/resource_efficiency/pdf/com2011_571.pdf,">“Roadmap to a Resource Efficient Europe”</a>, “European Commission”, 2011</span></li>
+<li id="cite_note-France-43"><span class="mw-cite-backlink">^ <a href="#cite_ref-France_43-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-France_43-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-France_43-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-France_43-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-France_43-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-France_43-5"><sup><i><b>f</b></i></sup></a></span> <span class="reference-text">Frédéric Nauroy, <a rel="nofollow" class="external text" href="http://www.wavespartnership.org/waves/sites/waves/files/documents/Second%20Partnership%20Meeting/France_WAVES_Presentation.pdf,">“ France’s Commitment to Environmental Accounting”</a>, “Ministry of Ecology, Sustainable Development, Housing and Transport”, 22 February 2012</span></li>
+<li id="cite_note-Germany-44"><span class="mw-cite-backlink">^ <a href="#cite_ref-Germany_44-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Germany_44-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Karl Schoer, <a rel="nofollow" class="external text" href="https://www.destatis.de/EN/Publications/Specialized/EnvironmentalEconomicAccounting/Policyuse.pdf?__blob=publicationFile,">“Policy use of Environmental-Economic Accounting in Germany”</a>, “Federal Statistical Office Germany”, 2005</span></li>
+<li id="cite_note-India1-45"><span class="mw-cite-backlink">^ <a href="#cite_ref-India1_45-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-India1_45-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.ihdp.unu.edu/article/read/ihdp-scientific-committee-chair-sir-partha-dasgupta-to-lead,">“IHDP Scientific Committee chair Sir Partha Dasgupta to lead India’s Green National Accounts Committee”</a>, “International Human Dimensions Programme on Global Environmental Change”, 12 July 2012</span></li>
+<li id="cite_note-46"><span class="mw-cite-backlink"><b><a href="#cite_ref-46">^</a></b></span> <span class="reference-text">S. Suresh Kumar, <a rel="nofollow" class="external text" href="http://unstats.un.org/unsd/envaccounting/londongroup/meeting18/LG18_p27_Green%20National%20Accounts%20for%20India%20-%20The%20State%20of%20Progress.pdf,">“Green National Accounts for India”</a>, “UN Statistics”, 2–4 October 2012</span></li>
+<li id="cite_note-GAISP-47"><span class="mw-cite-backlink">^ <a href="#cite_ref-GAISP_47-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-GAISP_47-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-GAISP_47-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.gistindia.org/,">“Green Accounting for Indian States Project”</a>, “Green Indian States Trust”, 2011</span></li>
+<li id="cite_note-48"><span class="mw-cite-backlink"><b><a href="#cite_ref-48">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.sandeeonline.org/about_us.php,">“About Us”</a>, “South Asian Network for Development and Environmental Economics”, 2010</span></li>
+<li id="cite_note-49"><span class="mw-cite-backlink"><b><a href="#cite_ref-49">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://www.ecoinsee.org/">[1]</a>, “Indian Society for Ecological Economics”, 8 May 2013</span></li>
+<li id="cite_note-Asafu-50"><span class="mw-cite-backlink">^ <a href="#cite_ref-Asafu_50-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Asafu_50-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">John Asafu-Adjaye, <a rel="nofollow" class="external text" href="http://www.unescap.org/pdd/publications/dp25/dp25_ch4.pdf,">“Green National Accounting and the Measurement of Genuine (Extended) Saving”</a>, “United Nations Economic and Social Commission for Asia and the Pacific”, 2004</span></li>
+<li id="cite_note-UNUIAS-51"><span class="mw-cite-backlink">^ <a href="#cite_ref-UNUIAS_51-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-UNUIAS_51-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-UNUIAS_51-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-UNUIAS_51-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-UNUIAS_51-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-UNUIAS_51-5"><sup><i><b>f</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.ias.unu.edu/sub_page.aspx?catID=97&amp;ddlID=360,">“Green GDP Estimates in China, Indonesia, and Japan: An Application of the UN Environmental and Economic Accounting System”</a>, “United Nations University – Institute of Advanced Studies”, 2000</span></li>
+<li id="cite_note-52"><span class="mw-cite-backlink"><b><a href="#cite_ref-52">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.un.org/esa/agenda21/natlinfo/countr/italy/Italian%20NSDS.pdf,">“Environmental Action Strategy for Sustainable Development in Italy”</a>, “Ministry for the Environment and Territory”, 2007</span></li>
+<li id="cite_note-Silvia-53"><span class="mw-cite-backlink">^ <a href="#cite_ref-Silvia_53-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Silvia_53-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Silvia_53-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">Silvia Teizzi, <a rel="nofollow" class="external text" href="http://econpapers.repec.org/article/kapenreec/v_3a13_3ay_3a1999_3ai_3a4_3ap_3a459-472.htm,">“External Effects of Agricultural Production in Italy and Environmental Accounting”</a>, “Environmental and Resource Economics, 13: 4”, 1999</span></li>
+<li id="cite_note-Andrea-54"><span class="mw-cite-backlink">^ <a href="#cite_ref-Andrea_54-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Andrea_54-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Andrea_54-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Andrea_54-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Andrea_54-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text">Andrea Francesconi and Paola Penasa, <a rel="nofollow" class="external text" href="http://sydney.edu.au/business/__data/assets/pdf_file/0018/56601/Environmental_Accounting_for_Local_Govt.pdf,">“Environmental accounting for Local Government. The experience of the Municipality of Trento, Italy”</a>, University of Sydney”</span></li>
+<li id="cite_note-Japan-55"><span class="mw-cite-backlink">^ <a href="#cite_ref-Japan_55-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Japan_55-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Japan_55-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.env.go.jp/en/statistics/contents/pdfdata/201203_e.pdf,">“Towards development of the Input-Output Tables for Environmental Analysis”</a>, “Ministry of the Environment”, March 2012</span></li>
+<li id="cite_note-Korea1-56"><span class="mw-cite-backlink">^ <a href="#cite_ref-Korea1_56-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Korea1_56-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://eng.me.go.kr/content.do?method=moveContent&amp;menuCode=pol_pol_com_intergrated,">“Integrated Index of Environment and Economy”</a>, “Ministry of Environment”</span></li>
+<li id="cite_note-Korea2-57"><span class="mw-cite-backlink">^ <a href="#cite_ref-Korea2_57-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Korea2_57-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Korea2_57-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.unescap.org/stat/envstat/stwes-24.pdf,">“Pilot Compilation of Environmental-Economic Accounts in Korean Agricultural Sector”</a>, “Korea Rural Economic Institute”, 8–19 May 2000</span></li>
+<li id="cite_note-Mexico-58"><span class="mw-cite-backlink">^ <a href="#cite_ref-Mexico_58-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Mexico_58-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Mexico_58-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Mexico_58-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Mexico_58-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text">Raúl Figueroa Díaz et al., <a rel="nofollow" class="external text" href="http://unstats.un.org/unsd/green_economy/korea/presentations/Grreen%20Growth.pdf,">“Economic and Environmental Accounting and Green Growth”</a>, “National Institute of Statistics and Geography of Mexico”, July 2011</span></li>
+<li id="cite_note-Russia-59"><span class="mw-cite-backlink">^ <a href="#cite_ref-Russia_59-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Russia_59-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Russia_59-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Russia_59-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text">[unstats.un.org/unsd/envaccounting/ceea/meetings/UNCEEA-7-7-4.ppt, “Development of Environmental Accounts in Russia: Plans and Experience”], “Federal State Statistics Service, Russian Federation”, 11–13 June 2012</span></li>
+<li id="cite_note-SA-60"><span class="mw-cite-backlink">^ <a href="#cite_ref-SA_60-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-SA_60-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-SA_60-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">Riaan Grobler, <a rel="nofollow" class="external text" href="http://unstats.un.org/unsd/green_economy/korea/presentations/Stats%20SA%20Position%20on%20environmental%20statistics.PDF,">“Statistics South Africa’s position on environmental statistics”</a>, “Statistics South Africa”, 6–8 July 2011</span></li>
+<li id="cite_note-61"><span class="mw-cite-backlink"><b><a href="#cite_ref-61">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.turkstat.gov.tr/PreTablo.do?alt_id=10,">“Environment and Energy”</a>, “Turkish Statistical Institute”, 2013</span></li>
+<li id="cite_note-NN-62"><span class="mw-cite-backlink">^ <a href="#cite_ref-NN_62-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-NN_62-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-NN_62-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">William Nordhaus and Edward Kokkelenberg, <a rel="nofollow" class="external text" href="http://training.fws.gov/bart/Resources/nrdar/injury_quantification/Natures's_Numbers.pdf,">“Natures Numbers: Expanding the National Economic Accounts to Include the Environment”</a>, “National Academy Press”, 1999</span></li>
+<li id="cite_note-US-63"><span class="mw-cite-backlink">^ <a href="#cite_ref-US_63-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-US_63-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Nicholas Muller et al., [www.aeaweb.org/articles.php?doi=10.1257/aer.101.5.1649, “ Environmental Accounting for Pollution in the United States Economy”], “American Economic Review”, August 2011</span></li>
+</ol>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Natural_resources" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Natural_resources" title="Template:Natural resources"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Natural_resources" title="Template talk:Natural resources"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Natural_resources&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Natural_resources" style="font-size:114%"><a href="/wiki/Natural_resource" title="Natural resource">Natural resources</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Atmosphere_of_Earth" title="Atmosphere of Earth">Air</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:7.0em;font-weight:normal;"><a href="/wiki/Air_pollution" title="Air pollution">Pollution&#160;/ quality</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/National_Ambient_Air_Quality_Standards" title="National Ambient Air Quality Standards">Ambient standards <span style="font-size:90%;">(USA)</span></a></li>
+<li><a href="/wiki/Air_quality_index" title="Air quality index">Index</a></li>
+<li><a href="/wiki/Indoor_air_quality" title="Indoor air quality">Indoor</a>
+<ul>
+<li><a href="/wiki/Indoor_air_pollution_in_developing_nations" title="Indoor air pollution in developing nations">developing nations</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Air_quality_law" title="Air quality law">Law</a>
+<ul>
+<li><a href="/wiki/Clean_Air_Act_(United_States)" title="Clean Air Act (United States)">Clean Air Act <span style="font-size:90%;">(USA)</span></a></li>
+</ul>
+</li>
+<li><a href="/wiki/Ozone_depletion" title="Ozone depletion">Ozone depletion</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:7.0em;font-weight:normal;">Emissions</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Airshed" title="Airshed">Airshed</a></li>
+<li><a href="/wiki/Emissions_trading" title="Emissions trading">Trading</a></li>
+<li><a href="/wiki/Reducing_emissions_from_deforestation_and_forest_degradation" title="Reducing emissions from deforestation and forest degradation">Deforestation (REDD)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+<td class="navbox-image" rowspan="13" style="width:0%;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:Carson_Fall_Mt_Kinabalu.jpg" class="image" title="Carson Falls on Mount Kinabalu, Borneo"><img alt="Carson Falls on Mount Kinabalu, Borneo" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/57/Carson_Fall_Mt_Kinabalu.jpg/100px-Carson_Fall_Mt_Kinabalu.jpg" width="100" height="133" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/57/Carson_Fall_Mt_Kinabalu.jpg/150px-Carson_Fall_Mt_Kinabalu.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/57/Carson_Fall_Mt_Kinabalu.jpg/200px-Carson_Fall_Mt_Kinabalu.jpg 2x" data-file-width="2592" data-file-height="3456" /></a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Energy" title="Energy">Energy</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Energy_law" title="Energy law">Law</a></li>
+<li><a href="/wiki/Energy_resources" class="mw-redirect" title="Energy resources">Resources</a></li>
+<li><a href="/wiki/Fossil_fuel" title="Fossil fuel">Fossil fuels</a>&#160;(<a href="/wiki/Peak_oil" title="Peak oil">peak oil</a>)</li>
+<li><a href="/wiki/Geothermal_energy" title="Geothermal energy">Geothermal</a></li>
+<li><a href="/wiki/Nuclear_power" title="Nuclear power">Nuclear</a></li>
+<li><a href="/wiki/Solar_energy" title="Solar energy">Solar</a>
+<ul>
+<li><a href="/wiki/Sunlight" title="Sunlight">sunlight</a></li>
+<li><a href="/wiki/Shade_(shadow)" title="Shade (shadow)">shade</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Tidal_power" title="Tidal power">Tidal</a></li>
+<li><a href="/wiki/Wave_power" title="Wave power">Wave</a></li>
+<li><a href="/wiki/Wind_power" title="Wind power">Wind</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Land" title="Land">Land</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Arable_land" title="Arable land">Arable</a>
+<ul>
+<li><a href="/wiki/Peak_farmland" class="mw-redirect" title="Peak farmland">peak farmland</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Land_degradation" title="Land degradation">Degradation</a></li>
+<li><a href="/wiki/Land_law" title="Land law">Law</a>
+<ul>
+<li><a href="/wiki/Property_law" title="Property law">property</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Land_management" title="Land management">Management</a>
+<ul>
+<li><a href="/wiki/Habitat_conservation" title="Habitat conservation">habitat conservation</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Mineral" title="Mineral">Minerals</a>
+<ul>
+<li><a href="/wiki/Mining" title="Mining">mining</a>
+<ul>
+<li><a href="/wiki/Mining_law" title="Mining law">law</a></li>
+<li><a href="/wiki/Sand_mining" title="Sand mining">sand</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Peak_minerals" title="Peak minerals">peak</a></li>
+<li><a href="/wiki/Mineral_rights" title="Mineral rights">rights</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Soil" title="Soil">Soil</a>
+<ul>
+<li><a href="/wiki/Soil_conservation" title="Soil conservation">conservation</a></li>
+<li><a href="/wiki/Soil_fertility" title="Soil fertility">fertility</a></li>
+<li><a href="/wiki/Soil_health" title="Soil health">health</a></li>
+<li><a href="/wiki/Soil_resilience" title="Soil resilience">resilience</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Land_use" title="Land use">Use</a>
+<ul>
+<li><a href="/wiki/Land-use_planning" title="Land-use planning">planning</a></li>
+<li><a href="/wiki/Open_space_reserve" title="Open space reserve">reserve</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Life" title="Life">Life</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Biodiversity" title="Biodiversity">Biodiversity</a></li>
+<li><a href="/wiki/Bioprospecting" title="Bioprospecting">Bioprospecting</a></li>
+<li><a href="/wiki/Biosphere" title="Biosphere">Biosphere</a></li>
+<li><a href="/wiki/Bushfood" class="mw-redirect" title="Bushfood">Bushfood</a></li>
+<li><a href="/wiki/Bushmeat" title="Bushmeat">Bushmeat</a></li>
+<li><a href="/wiki/Fishery" title="Fishery">Fisheries</a>
+<ul>
+<li><a href="/wiki/Fisheries_law" title="Fisheries law">law</a></li>
+<li><a href="/wiki/Fisheries_management" title="Fisheries management">management</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Food" title="Food">Food</a></li>
+<li><a href="/wiki/Forest" title="Forest">Forests</a>
+<ul>
+<li><a href="/wiki/Forest_genetic_resources" title="Forest genetic resources">genetic resources</a></li>
+<li><a href="/wiki/Forest_law" class="mw-redirect" title="Forest law">law</a></li>
+<li><a href="/wiki/Forest_management" title="Forest management">management</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Game_(food)" class="mw-redirect" title="Game (food)">Game</a>
+<ul>
+<li><a href="/wiki/Game_law" title="Game law">law</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Gene_bank" title="Gene bank">Gene bank</a></li>
+<li><a href="/wiki/List_of_plants_used_in_herbalism" title="List of plants used in herbalism">Herbalist plants</a></li>
+<li><a href="/wiki/Marine_conservation" class="mw-redirect" title="Marine conservation">Marine conservation</a></li>
+<li><a href="/wiki/Non-timber_forest_product" title="Non-timber forest product">Non-timber forest products</a></li>
+<li><a href="/wiki/Rangeland" title="Rangeland">Rangeland</a></li>
+<li><a href="/wiki/Seed_bank" title="Seed bank">Seed bank</a></li>
+<li><a href="/wiki/Wildlife" title="Wildlife">Wildlife</a>
+<ul>
+<li><a href="/wiki/Wildlife_conservation" title="Wildlife conservation">conservation</a></li>
+<li><a href="/wiki/Wildlife_management" title="Wildlife management">management</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Wood" title="Wood">Wood</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Water" title="Water">Water</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:7.0em;font-weight:normal;">Types&#160;/ location</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Aquifer" title="Aquifer">Aquifer</a>
+<ul>
+<li><a href="/wiki/Aquifer_storage_and_recovery" title="Aquifer storage and recovery">storage and recovery</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Drinking_water" title="Drinking water">Drinking</a></li>
+<li><a href="/wiki/Fresh_water" title="Fresh water">Fresh</a></li>
+<li><a href="/wiki/Groundwater" title="Groundwater">Groundwater</a>
+<ul>
+<li><a href="/wiki/Groundwater_pollution" title="Groundwater pollution">pollution</a></li>
+<li><a href="/wiki/Groundwater_recharge" title="Groundwater recharge">recharge</a></li>
+<li><a href="/wiki/Groundwater_remediation" title="Groundwater remediation">remediation</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Hydrosphere" title="Hydrosphere">Hydrosphere</a></li>
+<li><a href="/wiki/Ice" title="Ice">Ice</a>
+<ul>
+<li><a href="/wiki/Iceberg" title="Iceberg">bergs</a></li>
+<li><a href="/wiki/Glacier" title="Glacier">glacial</a></li>
+<li><a href="/wiki/Polar_ice_cap" title="Polar ice cap">polar</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Irrigation" title="Irrigation">Irrigation</a></li>
+<li><a href="/wiki/Rain" title="Rain">Rain</a>
+<ul>
+<li><a href="/wiki/Rainwater_harvesting" title="Rainwater harvesting">harvesting</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Stormwater" title="Stormwater">Stormwater</a></li>
+<li><a href="/wiki/Surface_water" title="Surface water">Surface water</a></li>
+<li><a href="/wiki/Wastewater" title="Wastewater">Wastewater</a>
+<ul>
+<li><a href="/wiki/Reclaimed_water" title="Reclaimed water">reclaimed</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:7.0em;font-weight:normal;">Aspects</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Desalination" title="Desalination">Desalination</a></li>
+<li><a href="/wiki/Flood" title="Flood">Floods</a></li>
+<li><a href="/wiki/Water_law" class="mw-redirect" title="Water law">Law</a></li>
+<li><a href="/wiki/Leaching_(agriculture)" title="Leaching (agriculture)">Leaching</a></li>
+<li><a href="/wiki/Sanitation" title="Sanitation">Sanitation</a></li>
+<li><a href="/wiki/Water_conflict" title="Water conflict">Conflict</a></li>
+<li><a href="/wiki/Water_conservation" title="Water conservation">Conservation</a></li>
+<li><a href="/wiki/Peak_water" title="Peak water">Peak water</a></li>
+<li><a href="/wiki/Water_pollution" title="Water pollution">Pollution</a></li>
+<li><a href="/wiki/Water_privatization" title="Water privatization">Privatization</a></li>
+<li><a href="/wiki/Water_quality" title="Water quality">Quality</a></li>
+<li><a href="/wiki/Water_right" title="Water right">Right</a></li>
+<li><a href="/wiki/Water_resources" title="Water resources">Resources</a>
+<ul>
+<li><a href="/wiki/Water_resource_management" title="Water resource management">management</a></li>
+<li><a href="/wiki/Water_resource_policy" title="Water resource policy">policy</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Related</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<td colspan="2" class="navbox-list navbox-even" style="padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Common_land" title="Common land">Common land</a></li>
+<li><a href="/wiki/Common-pool_resource" title="Common-pool resource">common-pool</a>
+<ul>
+<li><a href="/wiki/Enclosure" title="Enclosure">enclosure</a></li>
+<li><a href="/wiki/Global_commons" title="Global commons">global</a></li>
+<li><a href="/wiki/Tragedy_of_the_commons" title="Tragedy of the commons">tragedy theory</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Natural_resource_economics" title="Natural resource economics">Economics</a>
+<ul>
+<li><a href="/wiki/Ecological_economics" title="Ecological economics">ecological</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Ecosystem_services" title="Ecosystem services">Ecosystem services</a></li>
+<li><a href="/wiki/Exploitation_of_natural_resources" title="Exploitation of natural resources">Exploitation</a>
+<ul>
+<li><a href="/wiki/Overexploitation" title="Overexploitation">overexploitation</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Natural_resource_management" title="Natural resource management">Management</a>
+<ul>
+<li><a href="/wiki/Adaptive_management" title="Adaptive management">adaptive</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Natural_capital" title="Natural capital">Natural capital</a>
+<ul>
+<li><strong class="selflink">accounting</strong></li>
+</ul>
+</li>
+<li><a href="/wiki/Nature_reserve" title="Nature reserve">Nature reserve</a></li>
+<li><a href="/wiki/Systems_ecology" title="Systems ecology">Systems ecology</a></li>
+<li><a href="/wiki/Urban_ecology" title="Urban ecology">Urban ecology</a></li>
+<li><a href="/wiki/Wilderness" title="Wilderness">Wilderness</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:7.0em;font-weight:normal;"><a href="/wiki/Resource" title="Resource">Resource</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Conflict_resource" title="Conflict resource">Conflict <span style="font-size:90%;">(perpetuation)</span></a></li>
+<li><a href="/wiki/Resource_curse" title="Resource curse">Curse</a></li>
+<li><a href="/wiki/Resource_depletion" title="Resource depletion">Depletion</a></li>
+<li><a href="/wiki/Resource_extraction" class="mw-redirect" title="Resource extraction">Extraction</a></li>
+<li><a href="/wiki/Resource_nationalism" title="Resource nationalism">Nationalism</a></li>
+<li><a href="/wiki/Renewable_resource" title="Renewable resource">Renewable</a>&#160;/ <a href="/wiki/Non-renewable_resource" title="Non-renewable resource">Non-renewable</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" title="Portal" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28" /> <a href="/wiki/Wikipedia:Portal" title="Wikipedia:Portal">Portals</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Portal:Agriculture_and_agronomy" title="Portal:Agriculture and agronomy">Agriculture and agronomy</a></li>
+<li><a href="/wiki/Portal:Energy" title="Portal:Energy">Energy</a></li>
+<li><a href="/wiki/Portal:Environment" title="Portal:Environment">Environment</a></li>
+<li><a href="/wiki/Portal:Fishing" title="Portal:Fishing">Fishing</a></li>
+<li><a href="/wiki/Portal:Forestry" title="Portal:Forestry">Forestry</a></li>
+<li><a href="/wiki/Portal:Mining" title="Portal:Mining">Mining</a></li>
+<li><a href="/wiki/Portal:Water" title="Portal:Water">Water</a></li>
+<li><a href="/wiki/Portal:Wetlands" title="Portal:Wetlands">Wetlands</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3" style="font-weight:bold;">
+<div>
+<ul>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <a href="/wiki/Category:Natural_resources" title="Category:Natural resources">Category</a>
+<ul>
+<li><span style="font-weight:normal;"><a href="/wiki/Category:Natural_resources_agencies" title="Category:Natural resources agencies">agencies</a></span></li>
+<li><span style="font-weight:normal;"><a href="/wiki/Category:Natural_resources_law" title="Category:Natural resources law">law</a></span></li>
+<li><span style="font-weight:normal;"><a href="/wiki/Category:Natural_resource_management" title="Category:Natural resource management">management</a></span></li>
+<li><span style="font-weight:normal;"><a href="/wiki/Category:Natural_resources_ministries" title="Category:Natural resources ministries">ministries</a></span></li>
+<li><span style="font-weight:normal;"><a href="/wiki/Category:Natural_resources_organizations" title="Category:Natural resources organizations">organizations</a></span></li>
+</ul>
+</li>
+<li><span style="font-weight:normal;"><a href="/wiki/List_of_colleges_of_natural_resources" title="List of colleges of natural resources">Colleges</a></span></li>
+<li><img alt="Commons page" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" title="Commons page" width="12" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /> <a href="https://commons.wikimedia.org/wiki/Category:Natural_resources" class="extiw" title="commons:Category:Natural resources">Natural resources</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1266
+Cached time: 20170111225534
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.188 seconds
+Real time usage: 0.217 seconds
+Preprocessor visited node count: 1574/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 40509/2097152 bytes
+Template argument size: 415/2097152 bytes
+Highest expansion depth: 10/40
+Expensive parser function count: 0/500
+Lua time usage: 0.017/10.000 seconds
+Lua memory usage: 1.13 MB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   78.141      1 - -total
+ 66.32%   51.827      4 - Template:Navbox
+ 56.16%   43.884      1 - Template:Natural_resources
+ 43.75%   34.189      1 - Template:Reflist
+ 10.14%    7.921      3 - Template:Icon
+  3.65%    2.849      3 - Template:Smaller
+  2.12%    1.656      3 - Template:Resize
+  1.39%    1.085      1 - Template:Column-width
+  1.37%    1.072      6 - Template:Nobold
+  1.24%    0.972      3 - Template:\
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:39613895-0!*!0!!en!4!* and timestamp 20170111225534 and revision id 693586060
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Natural_capital_accounting&amp;oldid=693586060">https://en.wikipedia.org/w/index.php?title=Natural_capital_accounting&amp;oldid=693586060</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Accounting_systems" title="Category:Accounting systems">Accounting systems</a></li><li><a href="/wiki/Category:Ecological_data" title="Category:Ecological data">Ecological data</a></li><li><a href="/wiki/Category:Environmentalism" title="Category:Environmentalism">Environmentalism</a></li><li><a href="/wiki/Category:Ecological_economics" title="Category:Ecological economics">Ecological economics</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Natural+capital+accounting" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Natural+capital+accounting" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Natural_capital_accounting"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Natural_capital_accounting"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Natural_capital_accounting" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Natural_capital_accounting&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Natural_capital_accounting&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Natural_capital_accounting" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Natural_capital_accounting" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Natural_capital_accounting&amp;oldid=693586060" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Natural_capital_accounting&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q17070929" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Natural_capital_accounting&amp;id=693586060" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Natural+capital+accounting">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Natural+capital+accounting&amp;returnto=Natural+capital+accounting&amp;oldid=693586060&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Natural_capital_accounting&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/N%C3%A1tt%C3%BAruau%C3%B0lindab%C3%B3khald" title="Náttúruauðlindabókhald – Icelandic" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q17070929#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 3 December 2015, at 15:01.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Natural_capital_accounting&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":62,"wgHostname":"mw1257"});});</script>
+	</body>
+</html>
