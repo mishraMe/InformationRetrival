@@ -4,19 +4,21 @@
 #populate pages in files if not done already
 from collections import OrderedDict
 from operator import itemgetter
+import sys
 import math
 #global variables
 all_pages = []
+list_of_perplexity = []
 in_links = OrderedDict()
 out_links = OrderedDict()
 sinks = []
 old_perplexity = 0.0
 new_perplexity = 0.0
 convergence = 0.0
-graph1 = "graph1_version2"
+graph1 = "graph1"
 graph2 = "graph2" #the existing file for Wt2g links
 experiment = "experiment"
-input_file = graph1
+input_file = graph2 #default value "wt2g.txt"
 d = 0.85 #teleportation factor
 
 #function to load data into the dictionaries
@@ -123,8 +125,10 @@ def page_rank_converged(old_perplexity, new_perplexity):
     return change
 
 def calculate_perplexity(page_ranks):
+    global list_of_perplexity
     entropy = calculate_entropy(page_ranks)
     perplexity = 2.0**entropy
+    list_of_perplexity.append(perplexity)
     return perplexity
 
 
@@ -137,15 +141,24 @@ def calculate_entropy(page_ranks):
 
 def main():
     top_50 = 50
-    graph = input_file
-    load_data_in_dictionaries(graph)
-    pages = find_page_rank(graph)
+    print "Please type graph1 -> if you want page rank for Sustainable_Energy"
+    print "Please type graph2 -> if you want page rank for Wt2g subset"
+    graph_name = input("Please write name of the graph to find page rank for here ->")
+    load_data_in_dictionaries(graph_name)
+    pages = find_page_rank(graph_name)
     sorted_pages = sorted(pages.items(), key=itemgetter(1), reverse=True)
-    file = open("graph_1_page_ranks", 'w+');
+    print "calculated ranks for pages in " + graph_name + "_top_50_ranks file"
+    file = open(graph_name+"_top_50_ranks", 'w+')
     for i in sorted_pages:
         if top_50 > 0:
             file.writelines(str(i).strip("(").strip(")") + '\n')
             top_50 -= 1
+    print "calculated perplexity for pages in " + graph_name + "_perplexity_file"
+    perplexity_file = open(graph_name+"_perplexity_file", "w+")
+    c = 1
+    for j in list_of_perplexity:
+        perplexity_file.writelines("perplexity for round " + str(c) + " " + str(j) + '\n')
+        c += 1
 
 main()
 # page rank
