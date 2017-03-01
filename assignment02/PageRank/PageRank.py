@@ -3,6 +3,7 @@
 
 #populate pages in files if not done already
 from collections import OrderedDict
+from operator import itemgetter
 import math
 #global variables
 all_pages = []
@@ -12,9 +13,10 @@ sinks = []
 old_perplexity = 0.0
 new_perplexity = 0.0
 convergence = 0.0
+graph1 = "graph1"
 graph2 = "graph2" #the existing file for Wt2g links
 experiment = "experiment"
-input_file = experiment
+input_file = graph2
 d = 0.85 #teleportation factor
 
 #function to load data into the dictionaries
@@ -34,7 +36,7 @@ def load_data_in_dictionaries(graph):
         for i in data:
             in_link_values.append(i)
         in_links[key] = in_link_values
-    print " the inlinks are...."
+    print " the inlinks are ..."
     # print in_links
 
     #populating outlinks
@@ -133,12 +135,17 @@ def calculate_entropy(page_ranks):
             entropy_value += rank * math.log(1/rank, 2)
     return entropy_value
 
-
-
 def main():
+    top_50 = 50
     graph = input_file
     load_data_in_dictionaries(graph)
-    pr_score = find_page_rank(graph)
-    print "page rank score is " + str(pr_score)
+    pages = find_page_rank(graph)
+    sorted_pages = sorted(pages.items(), key=itemgetter(1), reverse=True)
+    file = open("graph_2_page_ranks", 'w+');
+    for i in sorted_pages:
+        if top_50 > 0:
+            file.writelines(str(i).strip("(").strip(")") + '\n')
+            top_50 -= 1
+
 main()
 # page rank
