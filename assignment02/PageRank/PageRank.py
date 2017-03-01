@@ -12,6 +12,7 @@ list_of_perplexity = []
 in_links = OrderedDict()
 out_links = OrderedDict()
 sinks = []
+sources = []
 old_perplexity = 0.0
 new_perplexity = 0.0
 convergence = 0.0
@@ -39,6 +40,7 @@ def load_data_in_dictionaries(graph):
             in_link_values.append(i)
         in_links[key] = in_link_values
     print " the inlinks are ..."
+    print len(in_links)
     # print in_links
 
     #populating outlinks
@@ -53,6 +55,7 @@ def load_data_in_dictionaries(graph):
                 out_link_values.append(key)
                 out_links[key2] = out_link_values
     print "outlinks are ..."
+    print len(out_links)
     # print out_links
 
     #populate sinks
@@ -61,7 +64,15 @@ def load_data_in_dictionaries(graph):
         if (out_links.get(key) is None):
             sinks.append(key)
     print "sinks are ..."
+    print len(sinks)
     # print sinks
+
+    print "calculating the sources"
+    for key2 in out_links:
+        if(in_links.get(key2) is None):
+            sources.append(key2)
+    print "sources are ..."
+    print len(sources)
 
     #populate all pages
     print "calculating the all pages"
@@ -71,7 +82,7 @@ def load_data_in_dictionaries(graph):
             all_pages.append(key_out)
 
     all_pages = set(all_pages)
-    # print all_pages
+    print len(all_pages)
     return 0
 
 # //	P	is	the	set	of	all	pages;	|P|	=	N
