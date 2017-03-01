@@ -16,7 +16,7 @@ convergence = 0.0
 graph1 = "graph1"
 graph2 = "graph2" #the existing file for Wt2g links
 experiment = "experiment"
-input_file = graph2
+input_file = graph1
 d = 0.85 #teleportation factor
 
 #function to load data into the dictionaries
@@ -141,7 +141,7 @@ def main():
     load_data_in_dictionaries(graph)
     pages = find_page_rank(graph)
     sorted_pages = sorted(pages.items(), key=itemgetter(1), reverse=True)
-    file = open("graph_2_page_ranks", 'w+');
+    file = open("graph_1_page_ranks", 'w+');
     for i in sorted_pages:
         if top_50 > 0:
             file.writelines(str(i).strip("(").strip(")") + '\n')
