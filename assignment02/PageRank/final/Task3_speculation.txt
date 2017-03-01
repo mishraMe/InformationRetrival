@@ -1,0 +1,32 @@
+graph1 has the following top 5 pages by PageRank
+
+(document_id, page_rank)
+1)'Digital_object_identifier', 0.036901220467325246
+2)'International_Standard_Book_Number', 0.029769032186596867
+3)'National_Diet_Library', 0.023974056748053727
+4)'Wayback_Machine', 0.021167067791720104
+5)'PubMed_Identifier', 0.02036253449307311 
+
+Top 5 links by Count of InLinks are:
+
+1) International_Standard_Book_Number 491 inlinks
+2) Digital_Object_Identifier 460 inlinks
+3) Renewable_Energy 422 inlinks
+4) Efficient_Energy_Use 286 inlinks
+5) Wayback_Machine 261 inlinks
+
+
+As we can see result are not entirely similar but are pretty close to each other for the top 5 ranks i.e. out of 5, 3 of the top 5 ranks are same for both PageRank and inlink_count.
+
+These files are frequent in the pages because they are a part of the page outline and present in every page. Thus, that increases their page rank.
+
+The difference between the result set is so because the inlink count takes in only one factor into consideration, that is, length of the inlinks for the particular page. 
+
+Whereas, PageRank takes into account various other factors of the quality of the link. Like, 
+The teleportation factor and its possibility for the links, The page rank of the inlinks
+The number of outlinks from the inlink
+The fact that a page could be a sink etc..
+Thus, it is more efficient in its approach of calculation.
+ 
+Also, the counting of inlinks is ineffcient for one more reason, since it only takes into consideration of the length of inlinks list, it is more susceptible to spam links. Thus, it can be easily fooled.
+Whereas, as the page rank algorithm considers the quality of the inlink as well before calculating the page rank of a page, it ignores these spam links that are of lower quality.

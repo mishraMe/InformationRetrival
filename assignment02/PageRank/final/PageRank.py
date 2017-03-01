@@ -83,6 +83,20 @@ def load_data_in_dictionaries(graph):
 
     all_pages = set(all_pages)
     print len(all_pages)
+
+    print "calculating the top 5 ranks by count of inlinks"
+    counting_inlinks = OrderedDict()
+    sorted_lengths = []
+    top_5 = 5
+    for page in in_links:
+        counting_inlinks[page] = len(in_links.get(page))
+    sorted_lengths = sorted(counting_inlinks.values())
+    file = open("graph1_length_Of_inLinks", 'w+')
+    file2 = open("sorted_lengths_list", 'w+')
+    for link in counting_inlinks.items():
+        file.writelines(link[0] + ":" + str(link[1]) + '\n')
+    for slink in sorted_lengths:
+        file2.writelines(str(slink) + '\n')
     return 0
 
 # //	P	is	the	set	of	all	pages;	|P|	=	N
