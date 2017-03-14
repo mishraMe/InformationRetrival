@@ -5,6 +5,7 @@
 from bs4 import BeautifulSoup as bs, NavigableString
 import os
 import re
+from unidecode import unidecode
 content = "content_dir/"
 cleaned_content = "cleaned_content_dir/"
 new_page = ""
@@ -27,12 +28,13 @@ def clean_page(unclean_page):
     title_text = unclean_page.readline()
     title = title_text.strip(head).strip('\n')
     special_characters = ["_", "-", ":", "/", "//", "!",
-                          "?", "#", "^", "*",
-                          "(", ")", "[", "]", "{", "}", "'", ";", ":", '"']
+                          "?", "#", "^", "*", "~", "&",
+                          "(", ")", "[", "]", "{", "}",
+                          "'", ";", '"', "$", "%" "|"]
     for each in special_characters:
         title = title.replace(each, "")
     soup = bs(unclean_page.read(), 'html.parser')
-    for val in soup.find_all(['script', 'style', 'table']):
+    for val in soup.find_all(['head', 'script', 'style', 'table']):
         val.extract()
     for link in soup.find_all("a"):
         href_val = link.get("href")
@@ -51,17 +53,20 @@ def clean_page(unclean_page):
         each.extract()
     for each in soup.find_all(attrs={"class": "references"}):
         each.extract()
+    for each in soup.find_all(attrs={"class": "mw-head"}):
+        each.extract()
     for each in soup.find_all(attrs={"id": "footer"}):
         each.extract()
 # or everything else but paragraphs and titles
     text = soup.get_text()
-    text = text.strip().lower()
     lines = (line.strip() for line in text.splitlines())
-    for each in special_characters:
-        text = text.replace(each, ' ')
     text = '\n'.join(line for line in lines if line)
     text = text.replace('\n', ' ')
     text = text.replace('\t', ' ')
+    text = text.encode('utf-8')
+    text = text.lower()
+    for each in special_characters:
+        text = text.replace(each, '')
     text = re.sub('(?<=\D)[.,]|[.,](?=\D)', '', text)
     text = re.sub('(?<![A-Za-z])[-]|[-](?![A-Za-z])', '', text)
     cleaned_page = text
@@ -75,7 +80,7 @@ def store_page(page, title):
     if title is "":
         return
     cleaned_page_file = open(cleaned_content + "/" + title, 'w+')
-    cleaned_page_file.writelines(page.encode('utf-8'))
+    cleaned_page_file.writelines(page)
     cleaned_page_file.close()
 
     return

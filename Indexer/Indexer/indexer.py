@@ -25,16 +25,19 @@ def create_index(corpus, n_gram):
 
     for each in doc_token_dic:
         for word in doc_token_dic[each]:
-            if word in word_dic:
-                if each in word_dic[word]:
-                    word_dic[word][each] += 1
+            if __name__ == '__main__':
+                if word in word_dic:
+                    if each in word_dic[word]:
+                        word_dic[word][each] += 1
+                    else:
+                        word_dic[word][each] = 1
                 else:
-                    word_dic[word][each] = 1
-            else:
-                doc_dic = dict()
-                doc_dic[each] = 1
-                word_dic[word] = doc_dic
+                    doc_dic = dict()
+                    doc_dic[each] = 1
+                    word_dic[word] = doc_dic
 
+
+#verifcation code prints the total count of term reference in the document
     for word in word_dic:
         if word == "solar":
             print word_dic[word]
