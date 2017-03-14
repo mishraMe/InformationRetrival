@@ -1,0 +1,612 @@
+url : https://en.wikipedia.org/wiki/Arc-fault_circuit_interrupter
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Arc-fault circuit interrupter - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Arc-fault_circuit_interrupter","wgTitle":"Arc-fault circuit interrupter","wgCurRevisionId":761606669,"wgRevisionId":761606669,"wgArticleId":897047,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","Articles needing additional references from July 2010","All articles needing additional references","Electric power systems components","Safety switches"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Arc-fault_circuit_interrupter","wgRelevantArticleId":897047,"wgRequestId":"WIyPuwpAMFsAABt-tjkAAAFS","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q132172","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.9"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Arc-fault_circuit_interrupter"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Arc-fault_circuit_interrupter&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Arc-fault_circuit_interrupter&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Arc-fault_circuit_interrupter"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Arc-fault_circuit_interrupter rootpage-Arc-fault_circuit_interrupter skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Arc-fault circuit interrupter</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%">
+<tr>
+<td style="padding-top:0.4em;line-height:1.2em;background-color: wheat">Part of a series on</td>
+</tr>
+<tr>
+<th style="padding:0.2em 0.4em 0.2em;padding-top:0;font-size:145%;line-height:1.2em;background-color: wheat"><a href="/wiki/Electrical_wiring" title="Electrical wiring">Electrical wiring</a></th>
+</tr>
+<tr>
+<th style="padding:0.1em;background-color: wheat"><a href="/wiki/Electrical_code" title="Electrical code">Regulation of electrical installations</a></th>
+</tr>
+<tr>
+<td class="hlist" style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/BS_7671" title="BS 7671">BS 7671</a></li>
+<li><a href="/wiki/IEC_60364" title="IEC 60364">IEC 60364</a></li>
+<li><a href="/wiki/Canadian_Electrical_Code" title="Canadian Electrical Code">Canadian Electrical Code (CEC)</a></li>
+<li><a href="/wiki/National_Electrical_Code" title="National Electrical Code">National Electrical Code (NEC)</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background-color: wheat">Wiring methods</th>
+</tr>
+<tr>
+<td class="hlist" style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/Armored_cable" class="mw-redirect" title="Armored cable">Armored cable</a></li>
+<li><a href="/wiki/Cable_tray" title="Cable tray">Cable tray</a></li>
+<li><a href="/wiki/Electrical_conduit" title="Electrical conduit">Electrical conduit</a></li>
+<li><a href="/wiki/Knob-and-tube_wiring" title="Knob-and-tube wiring">Knob-and-tube wiring</a></li>
+<li><a href="/wiki/Multiway_switching" title="Multiway switching">Multiway switching</a></li>
+<li><a href="/wiki/Thermoplastic-sheathed_cable" title="Thermoplastic-sheathed cable">Thermoplastic-sheathed cable</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background-color: wheat"><a href="/wiki/Circuit_breaker" title="Circuit breaker">Circuit breakers</a> and devices</th>
+</tr>
+<tr>
+<td class="hlist" style="padding:0 0.1em 0.4em">
+<ul>
+<li><strong class="selflink">AFCI</strong></li>
+<li><a href="/wiki/Earth_leakage_circuit_breaker" title="Earth leakage circuit breaker">ELCB</a></li>
+<li><a href="/wiki/Residual-current_device" title="Residual-current device">GFCI / RCD</a></li>
+<li><a href="/wiki/AC_power_plugs_and_sockets" title="AC power plugs and sockets">Receptacles / Sockets</a></li>
+<li><a href="/wiki/Switch" title="Switch">Switch</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background-color: wheat"><a href="/wiki/Power_engineering" title="Power engineering">Power engineering</a></th>
+</tr>
+<tr>
+<td class="hlist" style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/Busbar" title="Busbar">Bus bar</a></li>
+<li><a href="/wiki/Distribution_board" title="Distribution board">Distribution board</a></li>
+<li><a href="/wiki/Digital_protective_relay" title="Digital protective relay">Digital protective relay</a></li>
+<li><a href="/wiki/Overhead_power_line" title="Overhead power line">Overhead power line</a></li>
+<li><a href="/wiki/Power-system_protection" title="Power-system protection">Power-system protection</a></li>
+<li><a href="/wiki/Protective_relay" title="Protective relay">Protective relay</a></li>
+<li><a href="/wiki/Switchgear" title="Switchgear">Switchgear</a></li>
+<li><a href="/wiki/Sulfur_hexafluoride_circuit_breaker" title="Sulfur hexafluoride circuit breaker">Sulfur hexafluoride circuit breaker</a></li>
+<li><a href="/wiki/Electric_switchboard" title="Electric switchboard">Switchboard</a></li>
+<li><a href="/wiki/Transformer" title="Transformer">Transformer</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background-color: wheat">Wiring by region or country</th>
+</tr>
+<tr>
+<td class="hlist" style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/Electrical_wiring_in_Hong_Kong" title="Electrical wiring in Hong Kong">Hong Kong</a></li>
+<li><a href="/wiki/Electrical_wiring_in_North_America" title="Electrical wiring in North America">North America</a></li>
+<li><a href="/wiki/Electrical_wiring_in_the_United_Kingdom" title="Electrical wiring in the United Kingdom">United Kingdom</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;font-size:115%">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Electrical_wiring_sidebar" title="Template:Electrical wiring sidebar"><abbr title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Electrical_wiring_sidebar" title="Template talk:Electrical wiring sidebar"><abbr title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Electrical_wiring_sidebar&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Arc_Fault_Circuit_Interrupter.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Arc_Fault_Circuit_Interrupter.jpg/220px-Arc_Fault_Circuit_Interrupter.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Arc_Fault_Circuit_Interrupter.jpg/330px-Arc_Fault_Circuit_Interrupter.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Arc_Fault_Circuit_Interrupter.jpg/440px-Arc_Fault_Circuit_Interrupter.jpg 2x" data-file-width="960" data-file-height="720" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Arc_Fault_Circuit_Interrupter.jpg" class="internal" title="Enlarge"></a></div>
+This AFCI (the circuit breaker with the yellow label) is an older generation AFCI circuit breaker. The current (as of 2013) devices are referred to as "combination type" and usually appear with a green label.</div>
+</div>
+</div>
+<p>An <b>Arc Fault Circuit Interrupter</b> (<b>AFCI</b>) is an advanced <a href="/wiki/Circuit_breaker" title="Circuit breaker">circuit breaker</a> that breaks the circuit when it detects a dangerous <a href="/wiki/Electric_arc" title="Electric arc">electric arc</a> in the circuit it protects to prevent electrical fires. An AFCI selectively distinguishes between a harmless arc incidental to normal operation of switches, plugs, and brushed motors, versus a potentially dangerous arc that can occur, for example, in a lamp cord which has a broken conductor.</p>
+<p>AFCI breakers have been required for circuits feeding electrical outlets in residential bedrooms by the electrical codes of <a href="/wiki/Canada" title="Canada">Canada</a> and the <a href="/wiki/United_States" title="United States">United States</a> since the beginning of the 21st century; the US <i><a href="/wiki/National_Electrical_Code" title="National Electrical Code">National Electrical Code</a></i> has required them to protect most residential outlets since 2014,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> and the <i><a href="/wiki/Canadian_Electrical_Code" title="Canadian Electrical Code">Canadian Electrical Code</a></i> has since 2015.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></p>
+<p>Arc faults are one of the leading causes for residential electrical fires.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Each year in the United States, over 40,000 fires are attributed to home electrical wiring. These fires result in over 350 deaths and over 1,400 injuries each year.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></p>
+<p>Conventional circuit breakers only respond to <a href="/wiki/Overcurrent" title="Overcurrent">overloads</a> and <a href="/wiki/Short_circuit" title="Short circuit">short circuits</a>, so they do not protect against arcing conditions that produce erratic, and often reduced current. An AFCI is selective so that normal arcs do not cause it to trip. The AFCI circuitry continuously monitors the current and discriminates between normal and unwanted arcing conditions. Once detected, the AFCI opens its internal contacts, thus de-energizing the circuit and reducing the potential for a fire to occur.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Operating_principle"><span class="tocnumber">1</span> <span class="toctext">Operating principle</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Electrical_code_requirements"><span class="tocnumber">2</span> <span class="toctext">Electrical code requirements</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Limitations"><span class="tocnumber">3</span> <span class="toctext">Limitations</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Interference_with_power_line_networking"><span class="tocnumber">4</span> <span class="toctext">Interference with power line networking</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Operating_principle">Operating principle</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arc-fault_circuit_interrupter&amp;action=edit&amp;section=1" title="Edit section: Operating principle">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The <a href="/wiki/Electronics" title="Electronics">electronics</a> inside an AFCI breaker detect electrical current alternating at characteristic frequencies, usually around 100 kHz, known to be associated with wire arcing, which are sustained for more than a few milliseconds. A <i>combination AFCI breaker</i> provides protection against parallel arcing (line to neutral), series arcing (a loose, broken, or otherwise high resistance segment in a single line), ground arcing (from line, or neutral, to ground), overload protection and short circuit protection.</p>
+<p>AFCI receptacles contain electronic components to monitor a circuit for the presence of dangerous arcing conditions. Based upon an established threshold in the sine wave, the AFCI can be triggered to quickly react and de-power a circuit if dangerous arcing is detected.</p>
+<p>When installed as the first outlet on a branch circuit, AFCI receptacles provide series arc protection for the entire branch circuit. They also provide parallel arc protection for the branch circuit starting at the AFCI receptacle. Unlike AFCI breakers, AFCI receptacles may be used on any wiring system regardless of the panel.</p>
+<h2><span class="mw-headline" id="Electrical_code_requirements">Electrical code requirements</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arc-fault_circuit_interrupter&amp;action=edit&amp;section=2" title="Edit section: Electrical code requirements">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Starting with the 1999 version of the <i>National Electrical Code</i> in the United States, and the 2002 version of the <i>Canadian Electrical Code</i> in Canada, the national codes require AFCIs in all circuits that feed outlets in bedrooms of dwelling units. As of the 2014 NEC, AFCI protection is required on all branch circuits supplying outlets or devices installed in dwelling unit kitchens, family rooms, dining rooms, living rooms, parlors, libraries, dens, bedrooms, sunrooms, recreation rooms, closets, hallways, laundry areas, and similar rooms and areas. They are also required in dormitory units. This requirement may be accomplished by using a "combination type" breaker—a specific kind of circuit-breaker defined by <a href="/wiki/Underwriters_Laboratories" class="mw-redirect" title="Underwriters Laboratories">UL</a> 1699—in the breaker panel that provides combined arc-fault and <a href="/wiki/Overcurrent" title="Overcurrent">overcurrent</a> protection or by using an AFCI receptacle for modifications/extensions, as replacement receptacles or in new construction, at the first outlet on the branch. Not all U. S. jurisdictions have adopted the NEC's AFCI requirements so it is important to check local code requirements.</p>
+<p>The AFCI is intended to prevent fire from arcs. AFCI circuit breakers are designed to meet one of two standards as specified by UL 1699: "branch" type or "combination" type (note: the Canadian Electrical Code uses different terminology but similar technical requirements). A branch type AFCI trips on 75 amperes of arcing current from the line wire to either the neutral or ground wire. A combination type adds series arcing detection to branch type performance. Combination type AFCIs trip on 5 amperes of series arcing.</p>
+<p>AFCI receptacles are an alternative solution to AFCI breakers. These receptacles are designed to address the dangers associated with both types of potentially hazardous arcing: parallel and series. AFCI receptacles offer the benefit of localized <i>test</i> and <i>reset</i> with such buttons located on the face of the device. This is very convenient and saves a journey to the breaker panel.</p>
+<p>In 2002, the NEC removed the word "receptacle", leaving "outlets", with the effect that lights and other wired-in devices such as ceiling fans within bedrooms were added to the requirement. The 2005 code made it clearer that all outlets must be protected despite discussion in the code-making panel about excluding bedroom smoke detectors from the requirement. "Outlets" as defined in the NEC includes receptacles, light fixtures and smoke alarms, among other things. Basically, any point where electricity is used to power something is an outlet.</p>
+<p>As of January 2008, only "combination type" AFCIs meet the NEC requirement. The 2008 NEC requires the installation of combination-type AFCIs in all 15 and 20 ampere residential circuits with the exception of laundries, kitchens, bathrooms, garages, and unfinished basements, though many of which require GFCI protection. The 2014 NEC adds kitchens and laundry rooms to the list of rooms requiring AFCI circuitry, as well as any devices (such as lighting) requiring protection.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></p>
+<h2><span class="mw-headline" id="Limitations">Limitations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arc-fault_circuit_interrupter&amp;action=edit&amp;section=3" title="Edit section: Limitations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="plainlinks metadata ambox ambox-content ambox-Unreferenced" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This section <b>does not <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">cite</a> any <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">sources</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Arc-fault_circuit_interrupter&amp;action=edit">improve this section</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and <a href="/wiki/Wikipedia:Verifiability#Burden_of_evidence" title="Wikipedia:Verifiability">removed</a>.</span> <small><i>(July 2010)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></span></td>
+</tr>
+</table>
+<p>AFCIs are designed to protect against fires caused by electrical arc faults. While the sensitivity of the AFCIs helps in the detection of arc faults, these breakers can also indicate false positives by identifying normal circuit behaviors as arc faults. For instance, lightning strikes provide voltage and current profiles that resemble arc faults. This nuisance tripping reduces the overall effectiveness of AFCIs. Research into advancements in this area is being pursued.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></p>
+<p>Also, AFCIs provide no specific protection against <i>glowing</i> connections also known as a <a href="/wiki/High_Resistance_Connection" title="High Resistance Connection">High Resistance Connection</a>, excess current, high line voltages or low line voltages. AFCI circuit breakers include a standard inverse-time circuit breaker. Glowing connections occur when relatively high current exists in a relatively large resistance object. Heat comes from power dissipation. This energy, when dissipated in a small junction area, can generate temperatures above 1000&#160;°C (1800&#160;°F) and can ignite most flammable materials.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></p>
+<p>Bad wiring junctions can occur in utilization equipment, cords, or in-situ wiring and especially in a defective switch, socket, plug, wiring connection and even at the circuit breaker or fuse panels. Terminal screws loosened by vibration, improper tightening or other causes offer increased resistance to the current, with consequent <a href="/wiki/Aluminum_wire#Coefficient_of_expansion_and_creep" class="mw-redirect" title="Aluminum wire">heating and potential thermal creep</a>, which will cause the termination to loosen further and exacerbate the heating effect. In North America, high resistance junctions are sometimes observed at the terminations of <a href="/wiki/Aluminum_wire" class="mw-redirect" title="Aluminum wire">aluminum wire</a> circuits, where oxidation has caused increased resistance, resulting in thermal creep. No technology located in a circuit breaker or fuse panel could detect a high-resistance wiring fault as no measurable characteristic exists that differentiates a glow fault from normal branch circuit operation. <b>Power Fault Circuit Interrupters</b> (<b>PFCI</b>) located in receptacles are designed to prevent fires caused by glowing connections in wiring or panels. From the receptacle a PFCI can detect the voltage drop when high current exists in a high resistance junction. In a properly designed and maintained circuit, substantial voltage drops should never occur. Proper wire terminations inside utilization equipment, such as appliances, and cords prevent high-resistance connections that could lead to fires.</p>
+<p>An AFCI does not detect high line voltage due to an open neutral in a <a href="/wiki/Multiwire_branch_circuit" class="mw-redirect" title="Multiwire branch circuit">multiwire branch circuit</a>. A multiwire branch circuit has both energized wires of a 120-240V <a href="/wiki/Split_phase" class="mw-redirect" title="Split phase">split phase</a> service. If the neutral is broken, devices connected from a 120 V leg to the neutral may experience excess voltage, up to twice normal.</p>
+<p>AFCIs do not detect low line voltage. Low line voltage can cause <a href="/wiki/Electromechanical_relay" class="mw-redirect" title="Electromechanical relay">electromechanical relays</a> to repeatedly turn off and on. If current is flowing through the load contacts it causes arcing across the contacts as they open. The arcing can oxidize, pit and melt the contacts. This process can increase the contact resistance, superheat the relay and lead to fires. Power fault circuit interrupters are designed to prevent fires from low voltage across loads.</p>
+<p>AFCIs are also known to be sensitive (false tripping) to the presence of radio frequency energy, especially within the so-called <i>high frequency</i> spectrum (3-30 MHz) which include legitimate <a href="/wiki/Citizens_Band" class="mw-redirect" title="Citizens Band">Citizens Band</a> and Amateur Radio operations. Sensitivities and mitigation have been known since 2013.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></p>
+<h2><span class="mw-headline" id="Interference_with_power_line_networking">Interference with power line networking</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arc-fault_circuit_interrupter&amp;action=edit&amp;section=4" title="Edit section: Interference with power line networking">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>AFCIs may interfere with the operation of some <a href="/wiki/Power_line_communication" class="mw-redirect" title="Power line communication">power line communication</a> technologies.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></p>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arc-fault_circuit_interrupter&amp;action=edit&amp;section=5" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20080415074108/http://ulstandardsinfonet.ul.com:80/scopes/1699.html">Underwriters Labs summary on UL 1699 standard on AFCIs</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.esfi.org/resource/arc-fault-circuit-interrupter-afci-190">The Electrical Safety Foundation International on AFCIs</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.AFCIsafety.org">www.AFCIsafety.org – AFCI Educational Web site</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.cpsc.gov//PageFiles/137798/5133.pdf">CPSC AFCI Fact Sheet</a></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20140413143838/http://www.iaei.org/blogpost/890108/159112/AFCIS-Emerging-Technology-Solutions-for-Fires-Resulting-from-Electrical-Arcing">AFCIs: Emerging Technology Solutions for Fires Resulting from Electrical Arcing</a> from <i>IAEI News: The Magazine</i></li>
+<li><a rel="nofollow" class="external text" href="http://www.popsci.com/scitech/article/2009-06/plugged-smartplugs-are-simple-way-save-energy">EFCI / OFCI on Popular Science</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.ul.com/global/documents/offerings/perspectives/regulators/electrical/afci/AFCI_scenarios020502.pdf">Arc Fault Testing and Arc Fault Scenarios</a>, <a href="/wiki/Underwriters_Laboratory" class="mw-redirect" title="Underwriters Laboratory">Underwriters Laboratory</a>. Six types of AFCIs are listed.</li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arc-fault_circuit_interrupter&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">2014 NEC(210.12)</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation book"><i>C22.1-15—Canadian Electrical Code, Part I: Safety Standard for Electrical Installations</i> (23rd ed.). Canadian Standards Association. 2015. Rules 24-724(f) &amp; (g). <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-77139-718-6" title="Special:BookSources/978-1-77139-718-6">978-1-77139-718-6</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArc-fault+circuit+interrupter&amp;rft.btitle=C22.1-15%94Canadian+Electrical+Code%2C+Part+I%3A+Safety+Standard+for+Electrical+Installations&amp;rft.date=2015&amp;rft.edition=23rd&amp;rft.genre=book&amp;rft.isbn=978-1-77139-718-6&amp;rft.pages=Rules+24-724%28f%29+%26+%28g%29&amp;rft.pub=Canadian+Standards+Association&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation journal">Lee, Douglas A.; Trotta, Andrew M.; King, William H. (Aug 2000). <a rel="nofollow" class="external text" href="http://www.cpsc.gov//PageFiles/108737/AFCIFireTechnology.pdf">"New Technology for Preventing Residential Electrical Fires: Arc-Fault Circuit Interrupters (AFCIs)"</a> <span style="font-size:85%;">(PDF)</span>. <i>Fire Technology</i>. Kluwer Academic Publishers. <b>36</b> (3): 145–162. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1023%2FA%3A1015410726786">10.1023/A:1015410726786</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/0015-2684">0015-2684</a><span class="reference-accessdate">. Retrieved <span class="nowrap">Feb 26,</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArc-fault+circuit+interrupter&amp;rft.atitle=New+Technology+for+Preventing+Residential+Electrical+Fires%3A+Arc-Fault+Circuit+Interrupters+%28AFCIs%29&amp;rft.aufirst=Douglas+A.&amp;rft.au=King%2C+William+H.&amp;rft.aulast=Lee&amp;rft.au=Trotta%2C+Andrew+M.&amp;rft.date=2000-08&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.cpsc.gov%2F%2FPageFiles%2F108737%2FAFCIFireTechnology.pdf&amp;rft_id=info%3Adoi%2F10.1023%2FA%3A1015410726786&amp;rft.issn=0015-2684&amp;rft.issue=3&amp;rft.jtitle=Fire+Technology&amp;rft.pages=145-162&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=36" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Ault, Singh, and Smith, "1996 Residential Fire Loss Estimates", October 1998, U.S. Consumer Product Safety Commission, Directorate for Epidemiology and Health Sciences.</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Source:"Arc Fault Circuit Interrupter (AFCI)FACT SHEET" accessed from <a rel="nofollow" class="external free" href="http://www.cpsc.gov/CPSCPUB/PUBS/afcifac8.PDF">http://www.cpsc.gov/CPSCPUB/PUBS/afcifac8.PDF</a>, July 22, 2010</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://iaeimagazine.org/magazine/2015/05/22/whats-new-about-afcis-in-the-2014-nec/">http://iaeimagazine.org/magazine/2015/05/22/whats-new-about-afcis-in-the-2014-nec/</a></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Stephenson, James, Ph.D. "<a rel="nofollow" class="external text" href="http://cdn.livewireinnovation.com/pdf/aas-conference-paper-upload.pdf">Eliminating False Positives in the Detection and Location of sub 3ms Faults on AC/DC Lines</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20150925205045/http://cdn.livewireinnovation.com/pdf/aas-conference-paper-upload.pdf">Archived</a> September 25, 2015, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>." presented at the 2011 Aircraft Airworthiness &amp; Sustainment Conference on April 19, 2011.</span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">J.J. Shea, "Glowing Contact Physics," IEEE Holm Conference on Electrical Contacts, Montreal, Canada, Sept. pp. 48-57, 2006.</span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.arrl.org/news/arrl-helps-manufacturer-to-resolve-arc-fault-circuit-interrupter-rfi-problems">http://www.arrl.org/news/arrl-helps-manufacturer-to-resolve-arc-fault-circuit-interrupter-rfi-problems</a></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">A Work in Progress: Belkin Gigabit Powerline HD available at <a rel="nofollow" class="external free" href="http://www.smallnetbuilder.com/lanwan/lanwan-reviews/30888-a-work-in-progress-belkin-gigabit-powerline-hd-starter-kit-reviewed?start=4">http://www.smallnetbuilder.com/lanwan/lanwan-reviews/30888-a-work-in-progress-belkin-gigabit-powerline-hd-starter-kit-reviewed?start=4</a></span></li>
+</ol>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Electricity_delivery" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Electricity_delivery" title="Template:Electricity delivery"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Electricity_delivery" title="Template talk:Electricity delivery"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Electricity_delivery&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Electricity_delivery" style="font-size:114%"><a href="/wiki/Electricity_delivery" title="Electricity delivery">Electricity delivery</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Concepts</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Availability_factor" title="Availability factor">Availability factor</a></li>
+<li><a href="/wiki/Automatic_generation_control" class="mw-redirect" title="Automatic generation control">Automatic generation control</a></li>
+<li><a href="/wiki/Base_load" title="Base load">Base load</a></li>
+<li><a href="/wiki/Black_start" title="Black start">Black start</a></li>
+<li><a href="/wiki/Capacity_factor" title="Capacity factor">Capacity factor</a></li>
+<li><a href="/wiki/Demand_factor" title="Demand factor">Demand factor</a></li>
+<li><a href="/wiki/Droop_speed_control" title="Droop speed control">Droop speed control</a></li>
+<li><a href="/wiki/Energy_demand_management" title="Energy demand management">Demand management</a></li>
+<li><a href="/wiki/Energy_returned_on_energy_invested" title="Energy returned on energy invested">EROEI</a></li>
+<li><a href="/wiki/Fault_(power_engineering)" title="Fault (power engineering)">Fault</a></li>
+<li><a href="/wiki/Grid_energy_storage" title="Grid energy storage">Grid storage</a></li>
+<li><a href="/wiki/Intermittent_energy_source" title="Intermittent energy source">Intermittency</a></li>
+<li><a href="/wiki/Load_factor_(electrical)" title="Load factor (electrical)">Load factor</a></li>
+<li><a href="/wiki/Load_following_power_plant" title="Load following power plant">Load following</a></li>
+<li><a href="/wiki/Nameplate_capacity" title="Nameplate capacity">Nameplate capacity</a></li>
+<li><a href="/wiki/Peak_demand" title="Peak demand">Peak demand</a></li>
+<li><a href="/wiki/Electric_power_quality" title="Electric power quality">Power quality</a></li>
+<li><a href="/wiki/Power-flow_study" title="Power-flow study">Power-flow study</a></li>
+<li><a href="/wiki/Repowering" title="Repowering">Repowering</a></li>
+<li><a href="/wiki/Variable_renewable_energy" title="Variable renewable energy">Variability</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Sources</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;width:7em;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Non-renewable_energy" class="mw-redirect" title="Non-renewable energy">Nonrenewable</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Coal" title="Coal">Coal</a></li>
+<li><a href="/wiki/Fossil_fuel_power_station" title="Fossil fuel power station">Fossil fuel power station</a></li>
+<li><a href="/wiki/Natural_gas" title="Natural gas">Natural gas</a></li>
+<li><a href="/wiki/Petroleum" title="Petroleum">Petroleum</a></li>
+<li><a href="/wiki/Nuclear_power" title="Nuclear power">Nuclear</a></li>
+<li><a href="/wiki/Oil_shale" title="Oil shale">Oil shale</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;width:7em;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Renewable_energy" title="Renewable energy">Renewable</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Biomass" title="Biomass">Biomass</a></li>
+<li><a href="/wiki/Biofuel" title="Biofuel">Biofuel</a></li>
+<li><a href="/wiki/Geothermal_power" title="Geothermal power">Geothermal</a></li>
+<li><a href="/wiki/Hydroelectricity" title="Hydroelectricity">Hydro</a></li>
+<li><a href="/wiki/Marine_energy" title="Marine energy">Marine</a>
+<ul>
+<li><a href="/wiki/Marine_current_power" title="Marine current power">Current</a></li>
+<li><a href="/wiki/Osmotic_power" title="Osmotic power">Osmotic</a></li>
+<li><a href="/wiki/Ocean_thermal_energy" class="mw-redirect" title="Ocean thermal energy">Thermal</a></li>
+<li><a href="/wiki/Tidal_power" title="Tidal power">Tidal</a></li>
+<li><a href="/wiki/Wave_power" title="Wave power">Wave</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Solar_power" title="Solar power">Solar</a></li>
+<li><a href="/wiki/Wind_power" title="Wind power">Wind</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Category:Power_station_technology" title="Category:Power station technology">Generation</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/AC_power" title="AC power">AC power</a></li>
+<li><a href="/wiki/Cogeneration" title="Cogeneration">Cogeneration</a></li>
+<li><a href="/wiki/Combined_cycle" title="Combined cycle">Combined cycle</a></li>
+<li><a href="/wiki/Cooling_tower" title="Cooling tower">Cooling tower</a></li>
+<li><a href="/wiki/Induction_generator" title="Induction generator">Induction generator</a></li>
+<li><a href="/wiki/Micro_combined_heat_and_power" title="Micro combined heat and power">Micro CHP</a></li>
+<li><a href="/wiki/Microgeneration" title="Microgeneration">Microgeneration</a></li>
+<li><a href="/wiki/Rankine_cycle" title="Rankine cycle">Rankine cycle</a></li>
+<li><a href="/wiki/Three-phase_electric_power" title="Three-phase electric power">Three-phase electric power</a></li>
+<li><a href="/wiki/Virtual_power_plant" title="Virtual power plant">Virtual power plant</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">
+<div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Electric_power_transmission" title="Electric power transmission">Transmission</a><br />
+and <a href="/wiki/Electric_power_distribution" title="Electric power distribution">distribution</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Power_outage" title="Power outage">Blackout</a> (<a href="/wiki/Rolling_blackout" title="Rolling blackout">Rolling blackout</a>)</li>
+<li><a href="/wiki/Brownout_(electricity)" title="Brownout (electricity)">Brownout</a></li>
+<li><a href="/wiki/Demand_response" title="Demand response">Demand response</a></li>
+<li><a href="/wiki/Distributed_generation" title="Distributed generation">Distributed generation</a></li>
+<li><a href="/wiki/Dynamic_demand_(electric_power)" title="Dynamic demand (electric power)">Dynamic demand</a></li>
+<li><a href="/wiki/Electric_power_distribution" title="Electric power distribution">Electric power distribution</a></li>
+<li><a href="/wiki/Electric_power_system" title="Electric power system">Electric power system</a></li>
+<li><a href="/wiki/Electric_power_transmission" title="Electric power transmission">Electric power transmission</a></li>
+<li><a href="/wiki/Electrical_grid" title="Electrical grid">Electrical grid</a></li>
+<li><a href="/wiki/High-voltage_direct_current" title="High-voltage direct current">High-voltage direct current</a></li>
+<li><a href="/wiki/Load_management" title="Load management">Load management</a></li>
+<li><a href="/wiki/Pumped-storage_hydroelectricity" title="Pumped-storage hydroelectricity">Pumped hydro</a></li>
+<li><a href="/wiki/Power_station" title="Power station">Power station</a></li>
+<li><a href="/wiki/Power_storage" class="mw-redirect" title="Power storage">Power storage</a></li>
+<li><a href="/wiki/Smart_grid" title="Smart grid">Smart grid</a></li>
+<li><a href="/wiki/Electrical_substation" title="Electrical substation">Substation</a></li>
+<li><a href="/wiki/Super_grid" title="Super grid">Super grid</a></li>
+<li><a href="/wiki/Transformer" title="Transformer">Transformer</a></li>
+<li><a href="/wiki/Transmission_system_operator" title="Transmission system operator">Transmission system operator</a> (TSO)</li>
+<li><a href="/wiki/Transmission_tower" title="Transmission tower">Transmission tower</a></li>
+<li><a href="/wiki/Utility_pole" title="Utility pole">Utility pole</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">
+<div style="padding:0.1em 0;line-height:1.2em;">Protective<br />
+devices</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><strong class="selflink">Arc-fault circuit interrupter</strong></li>
+<li><a href="/wiki/Earth_leakage_circuit_breaker" title="Earth leakage circuit breaker">Earth leakage circuit breaker</a></li>
+<li><a href="/wiki/Residual-current_device" title="Residual-current device">Residual-current device</a> (GFI)</li>
+<li><a href="/wiki/Power-system_protection" title="Power-system protection">Power-system protection</a></li>
+<li><a href="/wiki/Protective_relay" title="Protective relay">Protective relay</a></li>
+<li><a href="/wiki/Digital_protective_relay" title="Digital protective relay">Digital protective relay</a></li>
+<li><a href="/wiki/Sulfur_hexafluoride_circuit_breaker" title="Sulfur hexafluoride circuit breaker">Sulfur hexafluoride circuit breaker</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">
+<div style="padding:0.1em 0;line-height:1.2em;">Economics<br />
+and policies</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Carbon_offset" title="Carbon offset">Carbon offset</a></li>
+<li><a href="/wiki/Cost_of_electricity_by_source" title="Cost of electricity by source">Cost of electricity by source</a></li>
+<li><a href="/wiki/Ecotax" title="Ecotax">Ecotax</a></li>
+<li><a href="/wiki/Energy_subsidies" title="Energy subsidies">Energy subsidies</a></li>
+<li><a href="/wiki/Feed-in_tariff" title="Feed-in tariff">Feed-in tariff</a></li>
+<li><a href="/wiki/Fossil-fuel_phase-out" class="mw-redirect" title="Fossil-fuel phase-out">Fossil-fuel phase-out</a></li>
+<li><a href="/wiki/Net_metering" title="Net metering">Net metering</a></li>
+<li><a href="/wiki/Pigovian_tax" title="Pigovian tax">Pigovian tax</a></li>
+<li><a href="/wiki/Renewable_Energy_Certificates" class="mw-redirect" title="Renewable Energy Certificates">Renewable Energy Certificates</a></li>
+<li><a href="/wiki/Renewable_energy_payments" class="mw-redirect" title="Renewable energy payments">Renewable energy payments</a></li>
+<li><a href="/wiki/Renewable_energy_policy" class="mw-redirect" title="Renewable energy policy">Renewable energy policy</a></li>
+<li><a href="/wiki/Spark_spread" title="Spark spread">Spark spread</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<dl>
+<dt>Categories</dt>
+<dd><a href="/wiki/Category:Electric_power_distribution" title="Category:Electric power distribution">Electric power distribution</a></dd>
+<dd><a href="/wiki/Category:Electricity_economics" title="Category:Electricity economics">Electricity economics</a></dd>
+<dd><a href="/wiki/Category:Power_station_technology" title="Category:Power station technology">Power station technology</a></dd>
+<dt>Portals</dt>
+<dd><a href="/wiki/Portal:Energy" title="Portal:Energy">Energy</a></dd>
+<dd><a href="/wiki/Portal:Renewable_energy" title="Portal:Renewable energy">Renewable energy</a></dd>
+<dd><a href="/wiki/Portal:Sustainable_development" title="Portal:Sustainable development">Sustainable development</a></dd>
+</dl>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1257
+Cached time: 20170128122549
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.112 seconds
+Real time usage: 0.161 seconds
+Preprocessor visited node count: 897/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 43911/2097152 bytes
+Template argument size: 798/2097152 bytes
+Highest expansion depth: 9/40
+Expensive parser function count: 1/500
+Lua time usage: 0.040/10.000 seconds
+Lua memory usage: 2.49 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  118.567      1 -total
+ 38.07%   45.135      1 Template:Reflist
+ 22.65%   26.854      1 Template:Cite_book
+ 21.52%   25.513      1 Template:Unreferenced_section
+ 19.64%   23.289      1 Template:Electrical_Wiring_Sidebar
+ 18.91%   22.420      1 Template:Unreferenced
+ 18.42%   21.837      2 Template:Navbox
+ 17.52%   20.775      1 Template:Sidebar
+ 17.13%   20.309      1 Template:Ambox
+ 16.09%   19.075      1 Template:Electricity_delivery
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:897047-0!*!0!!en!4!* and timestamp 20170128122549 and revision id 761606669
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Arc-fault_circuit_interrupter&amp;oldid=761606669">https://en.wikipedia.org/w/index.php?title=Arc-fault_circuit_interrupter&amp;oldid=761606669</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Electric_power_systems_components" title="Category:Electric power systems components">Electric power systems components</a></li><li><a href="/wiki/Category:Safety_switches" title="Category:Safety switches">Safety switches</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_July_2010" title="Category:Articles needing additional references from July 2010">Articles needing additional references from July 2010</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Arc-fault+circuit+interrupter" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Arc-fault+circuit+interrupter" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Arc-fault_circuit_interrupter"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Arc-fault_circuit_interrupter"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Arc-fault_circuit_interrupter" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Arc-fault_circuit_interrupter&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Arc-fault_circuit_interrupter&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Arc-fault_circuit_interrupter" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Arc-fault_circuit_interrupter" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Arc-fault_circuit_interrupter&amp;oldid=761606669" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Arc-fault_circuit_interrupter&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q132172" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Arc-fault_circuit_interrupter&amp;id=761606669" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Arc-fault+circuit+interrupter">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Arc-fault+circuit+interrupter&amp;returnto=Arc-fault+circuit+interrupter&amp;oldid=761606669&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Arc-fault_circuit_interrupter&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Fehlerlichtbogen-Schutzeinrichtung" title="Fehlerlichtbogen-Schutzeinrichtung – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/D%C3%A9tecteur_d%27arc" title="Détecteur d'arc – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Arc_Fault_Detection_Devices" title="Arc Fault Detection Devices – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q132172#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 23 January 2017, at 21:25.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Arc-fault_circuit_interrupter&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.112","walltime":"0.161","ppvisitednodes":{"value":897,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":43911,"limit":2097152},"templateargumentsize":{"value":798,"limit":2097152},"expansiondepth":{"value":9,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  118.567      1 -total"," 38.07%   45.135      1 Template:Reflist"," 22.65%   26.854      1 Template:Cite_book"," 21.52%   25.513      1 Template:Unreferenced_section"," 19.64%   23.289      1 Template:Electrical_Wiring_Sidebar"," 18.91%   22.420      1 Template:Unreferenced"," 18.42%   21.837      2 Template:Navbox"," 17.52%   20.775      1 Template:Sidebar"," 17.13%   20.309      1 Template:Ambox"," 16.09%   19.075      1 Template:Electricity_delivery"]},"scribunto":{"limitreport-timeusage":{"value":"0.040","limit":"10.000"},"limitreport-memusage":{"value":2611794,"limit":52428800}},"cachereport":{"origin":"mw1257","timestamp":"20170128122549","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":53,"wgHostname":"mw1256"});});</script>
+	</body>
+</html>

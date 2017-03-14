@@ -1,0 +1,1206 @@
+url : https://en.wikipedia.org/wiki/Solid_oxide_fuel_cell
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Solid oxide fuel cell - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Solid_oxide_fuel_cell","wgTitle":"Solid oxide fuel cell","wgCurRevisionId":762079625,"wgRevisionId":762079625,"wgArticleId":1049636,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 errors: external links","CS1 maint: Multiple names: authors list","Webarchive template wayback links","Pages using citations with accessdate and no URL","Use dmy dates from November 2016","All articles with unsourced statements","Articles with unsourced statements from January 2015","Articles needing cleanup from October 2009","All pages needing cleanup","Articles with unsourced statements from August 2016","Fuel cells"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Solid_oxide_fuel_cell","wgRelevantArticleId":1049636,"wgRequestId":"WI6bIQpAMEoAACgMztYAAACB","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q899633","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","ext.math.scripts","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.9"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Solid_oxide_fuel_cell"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Solid_oxide_fuel_cell&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Solid_oxide_fuel_cell&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Solid_oxide_fuel_cell"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Solid_oxide_fuel_cell rootpage-Solid_oxide_fuel_cell skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Solid oxide fuel cell</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Solid_oxide_fuel_cell.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/Solid_oxide_fuel_cell.svg/220px-Solid_oxide_fuel_cell.svg.png" width="220" height="247" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/Solid_oxide_fuel_cell.svg/330px-Solid_oxide_fuel_cell.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/42/Solid_oxide_fuel_cell.svg/440px-Solid_oxide_fuel_cell.svg.png 2x" data-file-width="508" data-file-height="570" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Solid_oxide_fuel_cell.svg" class="internal" title="Enlarge"></a></div>
+Scheme of a solid-oxide fuel cell</div>
+</div>
+</div>
+<p>A <b>solid oxide fuel cell</b> (or <b>SOFC</b>) is an <a href="/wiki/Electrochemistry" title="Electrochemistry">electrochemical</a> conversion device that produces electricity directly from <a href="/wiki/Oxidizing" class="mw-redirect" title="Oxidizing">oxidizing</a> a <a href="/wiki/Fuel" title="Fuel">fuel</a>. <a href="/wiki/Fuel_cell" title="Fuel cell">Fuel cells</a> are characterized by their electrolyte material; the SOFC has a solid oxide or <a href="/wiki/Ceramic" title="Ceramic">ceramic</a> electrolyte. Advantages of this class of fuel cells include high efficiency, long-term stability, fuel flexibility, low emissions, and relatively low cost. The largest disadvantage is the high <a href="/wiki/Operating_temperature" title="Operating temperature">operating temperature</a> which results in longer start-up times and mechanical and chemical compatibility issues.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Introduction"><span class="tocnumber">1</span> <span class="toctext">Introduction</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Operation"><span class="tocnumber">2</span> <span class="toctext">Operation</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Balance_of_plant"><span class="tocnumber">2.1</span> <span class="toctext">Balance of plant</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Anode"><span class="tocnumber">2.2</span> <span class="toctext">Anode</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Electrolyte"><span class="tocnumber">2.3</span> <span class="toctext">Electrolyte</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Cathode"><span class="tocnumber">2.4</span> <span class="toctext">Cathode</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Interconnect"><span class="tocnumber">2.5</span> <span class="toctext">Interconnect</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Polarizations"><span class="tocnumber">3</span> <span class="toctext">Polarizations</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#Ohmic_polarization"><span class="tocnumber">3.1</span> <span class="toctext">Ohmic polarization</span></a>
+<ul>
+<li class="toclevel-3 tocsection-10"><a href="#Ionic_conductivity"><span class="tocnumber">3.1.1</span> <span class="toctext">Ionic conductivity</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-11"><a href="#Concentration_polarization"><span class="tocnumber">3.2</span> <span class="toctext">Concentration polarization</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Activation_polarization"><span class="tocnumber">3.3</span> <span class="toctext">Activation polarization</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-13"><a href="#Target"><span class="tocnumber">4</span> <span class="toctext">Target</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#Research"><span class="tocnumber">5</span> <span class="toctext">Research</span></a>
+<ul>
+<li class="toclevel-2 tocsection-15"><a href="#SOEC"><span class="tocnumber">5.1</span> <span class="toctext">SOEC</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#ITSOFC"><span class="tocnumber">5.2</span> <span class="toctext">ITSOFC</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#LT-SOFC"><span class="tocnumber">5.3</span> <span class="toctext">LT-SOFC</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#SOFC-GT"><span class="tocnumber">5.4</span> <span class="toctext">SOFC-GT</span></a></li>
+<li class="toclevel-2 tocsection-19"><a href="#DCFC"><span class="tocnumber">5.5</span> <span class="toctext">DCFC</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-20"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-21"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-22"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Introduction">Introduction</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Solid_oxide_fuel_cell&amp;action=edit&amp;section=1" title="Edit section: Introduction">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Solid oxide fuel cells are a class of fuel cells characterized by the use of a solid <a href="/wiki/Oxide" title="Oxide">oxide</a> material as the <a href="/wiki/Electrolyte" title="Electrolyte">electrolyte</a>. SOFCs use a solid oxide electrolyte to conduct negative oxygen ions from the cathode to the anode. The electrochemical oxidation of the oxygen ions with <a href="/wiki/Hydrogen" title="Hydrogen">hydrogen</a> or carbon monoxide thus occurs on the <a href="/wiki/Anode" title="Anode">anode</a> side. More recently, proton-conducting SOFCs (PC-SOFC) are being developed which transport protons instead of oxygen ions through the electrolyte with the advantage of being able to be run at lower temperatures than traditional SOFCs.</p>
+<p>They operate at very high temperatures, typically between 500 and 1,000&#160;°C. At these temperatures, SOFCs do not require expensive <a href="/wiki/Platinum" title="Platinum">platinum</a> <a href="/wiki/Catalysts" class="mw-redirect" title="Catalysts">catalyst</a> material, as is currently necessary for lower temperature fuel cells such as <a href="/wiki/Proton_exchange_membrane_fuel_cell" title="Proton exchange membrane fuel cell">PEMFCs</a>, and are not vulnerable to carbon monoxide catalyst poisoning. However, vulnerability to <a href="/wiki/Sulfur" title="Sulfur">sulfur</a> poisoning has been widely observed and the sulfur must be removed before entering the cell through the use of <a href="/wiki/Adsorption" title="Adsorption">adsorbent</a> beds or other means.</p>
+<p>Solid oxide fuel cells have a wide variety of applications, from use as auxiliary power units in vehicles to stationary power generation with outputs from 100 W to 2 MW. In 2009, Australian company, <a href="/wiki/Ceramic_Fuel_Cells" title="Ceramic Fuel Cells">Ceramic Fuel Cells</a> successfully achieved an efficiency of an SOFC device up to the previously theoretical mark of 60%.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-e-collection.ethbib.ethz.ch_3-0" class="reference"><a href="#cite_note-e-collection.ethbib.ethz.ch-3">[3]</a></sup> The higher operating temperature make SOFCs suitable candidates for application with <a href="/wiki/Heat_engine" title="Heat engine">heat engine</a> energy recovery devices or <a href="/wiki/Combined_heat_and_power" class="mw-redirect" title="Combined heat and power">combined heat and power</a>, which further increases overall fuel efficiency.</p>
+<p>Because of these high temperatures, light hydrocarbon fuels, such as methane, propane, and butane can be internally reformed within the anode. SOFCs can also be fueled by externally <a href="/wiki/Fossil_fuel_reforming" class="mw-redirect" title="Fossil fuel reforming">reforming</a> heavier hydrocarbons, such as gasoline, diesel, jet fuel (JP-8) or biofuels. Such reformates are mixtures of hydrogen, carbon monoxide, carbon dioxide, steam and methane, formed by reacting the hydrocarbon fuels with air or steam in a device upstream of the SOFC anode. SOFC power systems can increase efficiency by using the heat given off by the exothermic electrochemical oxidation within the fuel cell for endothermic steam reforming process. Additionally, solid fuels such as <a href="/wiki/Coal" title="Coal">coal</a> and <a href="/wiki/Biomass" title="Biomass">biomass</a> may be <a href="/wiki/Gasification" title="Gasification">gasified</a> to form <a href="/wiki/Syngas" title="Syngas">syngas</a> which is suitable for fueling SOFCs in <a href="/wiki/Integrated_Gasification_Fuel_Cell_Cycle" title="Integrated Gasification Fuel Cell Cycle">integrated gasification fuel cell power cycles</a>.</p>
+<p><a href="/wiki/Volumetric_thermal_expansion_coefficient" class="mw-redirect" title="Volumetric thermal expansion coefficient">Thermal expansion</a> demands a uniform and well-regulated heating process at startup. SOFC stacks with planar geometry require in the order of an hour to be heated to light-off temperature. <a href="/w/index.php?title=Micro-tubular_fuel_cell_design&amp;action=edit&amp;redlink=1" class="new" title="Micro-tubular fuel cell design (page does not exist)">Micro-tubular fuel cell design</a> geometries promise much faster start up times, typically in the order of minutes.</p>
+<p>Unlike most other types of <a href="/wiki/Fuel_cell" title="Fuel cell">fuel cells</a>, SOFCs can have multiple geometries. The <a href="/w/index.php?title=Planar_fuel_cell_design&amp;action=edit&amp;redlink=1" class="new" title="Planar fuel cell design (page does not exist)">planar fuel cell design</a> geometry is the typical sandwich type geometry employed by most types of fuel cells, where the electrolyte is sandwiched in between the electrodes. SOFCs can also be made in tubular geometries where either air or fuel is passed through the inside of the tube and the other gas is passed along the outside of the tube. The tubular design is advantageous because it is much easier to seal air from the fuel. The performance of the planar design is currently better than the performance of the tubular design, however, because the planar design has a lower resistance comparatively. Other geometries of SOFCs include <a href="/w/index.php?title=Modified_planar_fuel_cell_design&amp;action=edit&amp;redlink=1" class="new" title="Modified planar fuel cell design (page does not exist)">modified planar fuel cell designs</a> (MPC or MPSOFC), where a wave-like structure replaces the traditional flat configuration of the planar cell. Such designs are highly promising because they share the advantages of both planar cells (low resistance) and tubular cells.</p>
+<h2><span class="mw-headline" id="Operation">Operation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Solid_oxide_fuel_cell&amp;action=edit&amp;section=2" title="Edit section: Operation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:514px;"><a href="/wiki/File:SOFC-en.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/SOFC-en.svg/512px-SOFC-en.svg.png" width="512" height="512" class="thumbimage" data-file-width="512" data-file-height="512" /></a>
+<div class="thumbcaption">Cross section of three ceramic layers of a tubular SOFC. From left to right: porous cathode, dense electrolyte, porous anode</div>
+</div>
+</div>
+<p>A solid oxide fuel cell is made up of four layers, three of which are <a href="/wiki/Ceramic" title="Ceramic">ceramics</a> (hence the name). A single cell consisting of these four layers stacked together is typically only a few millimeters thick. Hundreds of these cells are then connected in series to form what most people refer to as an "SOFC stack". The ceramics used in SOFCs do not become electrically and <a href="/wiki/Ion" title="Ion">ionically</a> active until they reach very high temperature and as a consequence, the stacks have to run at temperatures ranging from 500 to 1,000&#160;°C. Reduction of oxygen into oxygen ions occurs at the cathode. These ions can then diffuse through the solid oxide electrolyte to the anode where they can electrochemically oxidize the fuel. In this reaction, a water byproduct is given off as well as two electrons. These electrons then flow through an external circuit where they can do work. The cycle then repeats as those electrons enter the cathode material again.</p>
+<h3><span class="mw-headline" id="Balance_of_plant">Balance of plant</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Solid_oxide_fuel_cell&amp;action=edit&amp;section=3" title="Edit section: Balance of plant">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Most of the downtime of a SOFC stems from the <a href="/w/index.php?title=Mechanical_balance_of_plant&amp;action=edit&amp;redlink=1" class="new" title="Mechanical balance of plant (page does not exist)">mechanical balance of plant</a>, the <a href="/wiki/Air_preheater" title="Air preheater">air preheater</a>, <a href="/w/index.php?title=Prereformer&amp;action=edit&amp;redlink=1" class="new" title="Prereformer (page does not exist)">prereformer</a>, <a href="/wiki/Afterburner" title="Afterburner">afterburner</a>, <a href="/w/index.php?title=Water_heat_exchanger&amp;action=edit&amp;redlink=1" class="new" title="Water heat exchanger (page does not exist)">water heat exchanger</a>, <a href="/w/index.php?title=Anode_tail_gas_oxidizer&amp;action=edit&amp;redlink=1" class="new" title="Anode tail gas oxidizer (page does not exist)">anode tail gas oxidizer</a>, and <a href="/w/index.php?title=Electrical_balance_of_plant&amp;action=edit&amp;redlink=1" class="new" title="Electrical balance of plant (page does not exist)">electrical balance of plant</a>, <a href="/wiki/Power_electronics" title="Power electronics">power electronics</a>, <a href="/wiki/Hydrogen_sulfide_sensor" title="Hydrogen sulfide sensor">hydrogen sulfide sensor</a> and fans. Internal reforming leads to a large decrease in the <a href="/wiki/Balance_of_plant" title="Balance of plant">balance of plant</a> costs in designing a full system.<sup id="cite_ref-e-collection.ethbib.ethz.ch_3-1" class="reference"><a href="#cite_note-e-collection.ethbib.ethz.ch-3">[3]</a></sup></p>
+<h3><span class="mw-headline" id="Anode">Anode</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Solid_oxide_fuel_cell&amp;action=edit&amp;section=4" title="Edit section: Anode">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The ceramic <a href="/wiki/Anode" title="Anode">anode</a> layer must be very porous to allow the fuel to flow towards the electrolyte. Consequently, granular matter is often selected for anode fabrication procedures.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Like the cathode, it must conduct electrons, with ionic conductivity a definite asset. The most common material used is a <a href="/wiki/Cermet" title="Cermet">cermet</a> made up of <a href="/wiki/Nickel" title="Nickel">nickel</a> mixed with the ceramic material that is used for the electrolyte in that particular cell, typically YSZ (yttria stabilized zirconia) <a href="/wiki/Nanomaterial-based_catalyst" title="Nanomaterial-based catalyst">nanomaterial-based catalysts</a>, this YSZ part helps stop the grain growth of nickel. Larger grains of nickel would reduce the contact area that ions can be conducted through, which would lower the cells efficiency. The anode is commonly the thickest and strongest layer in each individual cell, because it has the smallest polarization losses, and is often the layer that provides the mechanical support. <a href="/wiki/Electrochemistry" title="Electrochemistry">Electrochemically</a> speaking, the anode’s job is to use the oxygen ions that diffuse through the electrolyte to oxidize the hydrogen <a href="/wiki/Fuel" title="Fuel">fuel</a>. The <a href="/wiki/Redox" title="Redox">oxidation reaction</a> between the oxygen ions and the hydrogen produces heat as well as water and electricity. If the fuel is a light hydrocarbon, for example, methane, another function of the anode is to act as a catalyst for steam reforming the fuel into hydrogen. This provides another operational benefit to the fuel cell stack because the reforming reaction is endothermic, which cools the stack internally. Perovskite materials (mixed ionic/electronic conducting ceramics) have been shown to produce a power density of 0.6 W/cm2 at 0.7 V at 800&#160;°C which is possible because they have the ability to overcome a larger activation energy.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></p>
+<h3><span class="mw-headline" id="Electrolyte">Electrolyte</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Solid_oxide_fuel_cell&amp;action=edit&amp;section=5" title="Edit section: Electrolyte">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The electrolyte is a dense layer of ceramic that conducts oxygen ions. Its electronic conductivity must be kept as low as possible to prevent losses from leakage currents. The high operating temperatures of SOFCs allow the kinetics of oxygen ion transport to be sufficient for good performance. However, as the operating temperature approaches the lower limit for SOFCs at around <span class="nowrap">600 °C,</span> the electrolyte begins to have large ionic transport resistances and affect the performance. Popular electrolyte materials include <a href="/wiki/Yttria-stabilized_zirconia" title="Yttria-stabilized zirconia">yttria-stabilized zirconia</a> (YSZ) (often the 8% form 8YSZ), scandia stabilized zirconia (<a href="/w/index.php?title=ScSZ&amp;action=edit&amp;redlink=1" class="new" title="ScSZ (page does not exist)">ScSZ</a>) (usually 9&#160;mol%Sc2O3 – 9ScSZ) and <a href="/wiki/Gadolinium_doped_ceria" class="mw-redirect" title="Gadolinium doped ceria">gadolinium doped ceria</a> (GDC).<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> The electrolyte material has crucial influence on the cell performances.<sup id="cite_ref-elmater_7-0" class="reference"><a href="#cite_note-elmater-7">[7]</a></sup> Detrimental reactions between YSZ electrolytes and modern cathodes such as <a href="/wiki/Lanthanum_strontium_cobalt_ferrite" title="Lanthanum strontium cobalt ferrite">lanthanum strontium cobalt ferrite</a> (LSCF) have been found, and can be prevented by thin (&lt;100&#160;nm) <a href="/wiki/Ceria" class="mw-redirect" title="Ceria">ceria</a> diffusion barriers.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></p>
+<p>If the conductivity for oxygen ions in SOFC can remain high even at lower temperatures (current target in research ~500&#160;°C), material choices for SOFC will broaden and many existing problems can potentially be solved. Certain processing techniques such as thin film deposition<sup id="cite_ref-Charpentier2000_9-0" class="reference"><a href="#cite_note-Charpentier2000-9">[9]</a></sup> can help solve this problem with existing materials by:</p>
+<ul>
+<li>reducing the traveling distance of oxygen ions and electrolyte resistance as resistance is inversely proportional to conductor length;</li>
+<li>producing grain structures that are less resistive such as columnar grain structure;</li>
+<li>controlling the microstructural nano-crystalline fine grains to achieve "fine-tuning" of electrical properties;</li>
+<li>building composite possessing large interfacial areas as interfaces have been shown to have extraordinary electrical properties.</li>
+</ul>
+<h3><span class="mw-headline" id="Cathode">Cathode</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Solid_oxide_fuel_cell&amp;action=edit&amp;section=6" title="Edit section: Cathode">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The <a href="/wiki/Cathode" title="Cathode">cathode</a>, or air <a href="/wiki/Electrode" title="Electrode">electrode</a>, is a thin porous layer on the electrolyte where oxygen reduction takes place. The overall reaction is written in <a href="/wiki/Kr%C3%B6ger-Vink_Notation" class="mw-redirect" title="Kröger-Vink Notation">Kröger-Vink Notation</a> as follows:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mn>1</mn>
+            <mn>2</mn>
+          </mfrac>
+        </mrow>
+        <mrow class="MJX-TeXAtom-ORD">
+          <msub>
+            <mi mathvariant="normal">O</mi>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mn>2</mn>
+            </mrow>
+          </msub>
+          <mo stretchy="false">(</mo>
+          <mi mathvariant="normal">g</mi>
+          <mo stretchy="false">)</mo>
+        </mrow>
+        <mo>+</mo>
+        <mn>2</mn>
+        <mrow class="MJX-TeXAtom-ORD">
+          <msup>
+            <mi mathvariant="normal">e</mi>
+            <mo>&#x2032;</mo>
+          </msup>
+        </mrow>
+        <mo>+</mo>
+        <msubsup>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>V</mi>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>o</mi>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo>&#x2219;<!-- ∙ --></mo>
+            <mo>&#x2219;<!-- ∙ --></mo>
+          </mrow>
+        </msubsup>
+        <mo stretchy="false">&#x27F6;<!-- ⟶ --></mo>
+        <msubsup>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>O</mi>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>o</mi>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo>&#x00D7;<!-- × --></mo>
+          </mrow>
+        </msubsup>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\frac {1}{2}}\mathrm {O_{2}(g)} +2\mathrm {e'} +{V}_{o}^{\bullet \bullet }\longrightarrow {O}_{o}^{\times }}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0c161c5516d00731f8d1f7a940d2682df47f3612" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.838ex; width:28.729ex; height:5.176ex;" alt=" \frac{1}{2}\mathrm{O_2(g)} + 2\mathrm{e&#039;} + {V}^{\bullet\bullet}_o \longrightarrow {O}^{\times}_o " /></span></dd>
+</dl>
+<p>Cathode materials must be, at a minimum, electronically conductive. Currently, <a href="/wiki/Lanthanum_strontium_manganite" title="Lanthanum strontium manganite">lanthanum strontium manganite</a> (LSM) is the cathode material of choice for commercial use because of its compatibility with doped zirconia electrolytes. Mechanically, it has a similar coefficient of thermal expansion to YSZ and thus limits stress buildup because of CTE mismatch. Also, LSM has low levels of chemical reactivity with YSZ which extends the lifetime of the materials. Unfortunately, LSM is a poor ionic conductor, and so the electrochemically active reaction is limited to the <a href="/wiki/Triple_phase_boundary" title="Triple phase boundary">triple phase boundary</a> (TPB) where the electrolyte, air and electrode meet. LSM works well as a cathode at high temperatures, but its performance quickly falls as the operating temperature is lowered below 800&#160;°C. In order to increase the reaction zone beyond the TPB, a potential cathode material must be able to conduct both electrons and oxygen ions. Composite cathodes consisting of LSM YSZ have been used to increase this triple phase boundary length. Mixed ionic/electronic conducting (MIEC) ceramics, such as perovskite <a href="/wiki/LSCF" class="mw-redirect" title="LSCF">LSCF</a>, are also being researched for use in intermediate temperature SOFCs as they are more active and can make up for the increase in the activation energy of the reaction.</p>
+<h3><span class="mw-headline" id="Interconnect">Interconnect</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Solid_oxide_fuel_cell&amp;action=edit&amp;section=7" title="Edit section: Interconnect">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The interconnect can be either a metallic or ceramic layer that sits between each individual cell. Its purpose is to connect each cell in series, so that the electricity each cell generates can be combined. Because the interconnect is exposed to both the oxidizing and reducing side of the cell at high temperatures, it must be extremely stable. For this reason, ceramics have been more successful in the long term than metals as interconnect materials. However, these ceramic interconnect materials are very expensive as compared to metals. Nickel- and steel-based alloys are becoming more promising as lower temperature (600–800&#160;°C) SOFCs are developed. The material of choice for an interconnect in contact with Y8SZ is a metallic 95Cr-5Fe alloy. Ceramic-metal composites called 'cermet' are also under consideration, as they have demonstrated thermal stability at high temperatures and excellent electrical conductivity.</p>
+<h2><span class="mw-headline" id="Polarizations">Polarizations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Solid_oxide_fuel_cell&amp;action=edit&amp;section=8" title="Edit section: Polarizations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Polarizations, or overpotentials, are losses in voltage due to imperfections in materials, microstructure, and design of the fuel cell. Polarizations result from ohmic resistance of oxygen ions conducting through the electrolyte (iRΩ), electrochemical activation barriers at the anode and cathode, and finally concentration polarizations due to inability of gases to diffuse at high rates through the porous anode and cathode (shown as ηA for the anode and ηC for cathode).<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (January 2015)">citation needed</span></a></i>]</sup> The cell voltage can be calculated using the following equation:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi>V</mi>
+        </mrow>
+        <mo>=</mo>
+        <msub>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>E</mi>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>0</mn>
+          </mrow>
+        </msub>
+        <mo>&#x2212;<!-- − --></mo>
+        <msub>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>i</mi>
+            <mi>R</mi>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>&#x03C9;<!-- ω --></mi>
+          </mrow>
+        </msub>
+        <mo>&#x2212;<!-- − --></mo>
+        <msub>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>&#x03B7;<!-- η --></mi>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>c</mi>
+            <mi>a</mi>
+            <mi>t</mi>
+            <mi>h</mi>
+            <mi>o</mi>
+            <mi>d</mi>
+            <mi>e</mi>
+          </mrow>
+        </msub>
+        <mo>&#x2212;<!-- − --></mo>
+        <msub>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>&#x03B7;<!-- η --></mi>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>a</mi>
+            <mi>n</mi>
+            <mi>o</mi>
+            <mi>d</mi>
+            <mi>e</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {V}={E}_{0}-{iR}_{\omega }-{\eta }_{cathode}-{\eta }_{anode}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ca50267fab42c16a578b86e48f3e639e4afa6e07" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:32.805ex; height:2.676ex;" alt=" {V} = {E}_0 - {iR}_\omega - {\eta}_{cathode} - {\eta}_{anode} " /></span></dd>
+</dl>
+<p>where:</p>
+<ul>
+<li><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>E</mi>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>0</mn>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {E}_{0}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7e46475a2182268f6a2e3a3661940cea0d02a3de" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:2.787ex; height:2.509ex;" alt="{E}_0" /></span> = <a href="/wiki/Nernst_potential" class="mw-redirect" title="Nernst potential">Nernst potential</a> of the reactants</li>
+<li><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>R</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle R}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4b0bfb3769bf24d80e15374dc37b0441e2616e33" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.774ex; height:2.176ex;" alt="R" /></span> = <a href="/wiki/Th%C3%A9venin%27s_theorem" title="Thévenin's theorem">Thévenin equivalent</a> resistance value of the electrically conducting portions of the cell</li>
+<li><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>&#x03B7;<!-- η --></mi>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>c</mi>
+            <mi>a</mi>
+            <mi>t</mi>
+            <mi>h</mi>
+            <mi>o</mi>
+            <mi>d</mi>
+            <mi>e</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\eta }_{cathode}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c73f6f3b52dc5c0ec2d4a96d8ea670742d55ad77" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:6.995ex; height:2.176ex;" alt="{\eta}_{cathode}" /></span> = polarization losses in the cathode</li>
+<li><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>&#x03B7;<!-- η --></mi>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>a</mi>
+            <mi>n</mi>
+            <mi>o</mi>
+            <mi>d</mi>
+            <mi>e</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\eta }_{anode}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1774d32c3798d5dcbd05b77474b85fd16c50d579" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:5.714ex; height:2.176ex;" alt="{\eta}_{anode}" /></span> = polarization losses in the anode</li>
+</ul>
+<p>In SOFCs, it is often important to focus on the ohmic and concentration polarizations since high operating temperatures experience little activation polarization. However, as the lower limit of SOFC operating temperature is approached (~600&#160;°C), these polarizations do become important.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></p>
+<p>Above mentioned equation is used for determining the SOFC voltage (in fact for fuel cell voltage in general). This approach results in good agreement with particular experimental data (for which adequate factors were obtained) and poor agreement for other than original experimental working parameters. Moreover, most of the equations used require the addition of numerous factors which are difficult or impossible to determine. It makes very difficult any optimizing process of the SOFC working parameters as well as design architecture configuration selection. Because of those circumstances a few other equations were proposed:<sup id="cite_ref-Milewski_J.2C_Miller_A._2006_396-402_11-0" class="reference"><a href="#cite_note-Milewski_J.2C_Miller_A._2006_396-402-11">[11]</a></sup></p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>E</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>S</mi>
+            <mi>O</mi>
+            <mi>F</mi>
+            <mi>C</mi>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <msub>
+                <mi>E</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi>m</mi>
+                  <mi>a</mi>
+                  <mi>x</mi>
+                </mrow>
+              </msub>
+              <mo>&#x2212;<!-- − --></mo>
+              <msub>
+                <mi>i</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi>m</mi>
+                  <mi>a</mi>
+                  <mi>x</mi>
+                </mrow>
+              </msub>
+              <mo>&#x22C5;<!-- ⋅ --></mo>
+              <msub>
+                <mi>&#x03B7;<!-- η --></mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi>f</mi>
+                </mrow>
+              </msub>
+              <mo>&#x22C5;<!-- ⋅ --></mo>
+              <msub>
+                <mi>r</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mn>1</mn>
+                </mrow>
+              </msub>
+            </mrow>
+            <mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mfrac>
+                  <msub>
+                    <mi>r</mi>
+                    <mrow class="MJX-TeXAtom-ORD">
+                      <mn>1</mn>
+                    </mrow>
+                  </msub>
+                  <msub>
+                    <mi>r</mi>
+                    <mrow class="MJX-TeXAtom-ORD">
+                      <mn>2</mn>
+                    </mrow>
+                  </msub>
+                </mfrac>
+              </mrow>
+              <mo>&#x22C5;<!-- ⋅ --></mo>
+              <mrow>
+                <mo>(</mo>
+                <mn>1</mn>
+                <mo>&#x2212;<!-- − --></mo>
+                <msub>
+                  <mi>&#x03B7;<!-- η --></mi>
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mi>f</mi>
+                  </mrow>
+                </msub>
+                <mo>)</mo>
+              </mrow>
+              <mo>+</mo>
+              <mn>1</mn>
+            </mrow>
+          </mfrac>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle E_{SOFC}={\frac {E_{max}-i_{max}\cdot \eta _{f}\cdot r_{1}}{{\frac {r_{1}}{r_{2}}}\cdot \left(1-\eta _{f}\right)+1}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5ee785dd253bf3d05197d2bf7cba0e9d2cfdb992" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -3.505ex; width:30.94ex; height:7.343ex;" alt="E_{SOFC} = \frac{E_{max}-i_{max}\cdot\eta_f\cdot r_1}{\frac{r_1}{r_2}\cdot\left( 1-\eta_f \right) + 1}&#10;" /></span></dd>
+</dl>
+<p>where:</p>
+<ul>
+<li><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>E</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>S</mi>
+            <mi>O</mi>
+            <mi>F</mi>
+            <mi>C</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle E_{SOFC}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e949193d9ad15051609ff57d0b8de290f2ce83e5" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:6.781ex; height:2.509ex;" alt="E_{SOFC}" /></span> = cell voltage</li>
+<li><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>E</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>m</mi>
+            <mi>a</mi>
+            <mi>x</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle E_{max}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b49a8d426494f4ac0141e3d2d93467e218bb85b3" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:5.233ex; height:2.509ex;" alt="E_{max}" /></span> = maximum voltage given by the Nernst equation</li>
+<li><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>i</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>m</mi>
+            <mi>a</mi>
+            <mi>x</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle i_{max}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b534a71dc2f3845fd58617e13da355b8fe30116e" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:4.32ex; height:2.509ex;" alt="i_{max}" /></span> = maximum current density (for given fuel flow)</li>
+<li><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>&#x03B7;<!-- η --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>f</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \eta _{f}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/54e653b37247430f898d57b6c9021ea7827de668" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:2.31ex; height:2.343ex;" alt="\eta_f" /></span> = fuel utilization factor<sup id="cite_ref-Milewski_J.2C_Miller_A._2006_396-402_11-1" class="reference"><a href="#cite_note-Milewski_J.2C_Miller_A._2006_396-402-11">[11]</a></sup><sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup></li>
+<li><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>r</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>1</mn>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle r_{1}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ea214f2b31fb3869344bb9311da41c5cc38a99e1" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:2.121ex; height:2.009ex;" alt="r_{1}" /></span> = ionic specific resistance of the electrolyte</li>
+<li><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>r</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle r_{2}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4cbe9b0b294fdd6fadbf9a7249813f016dcbc44f" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:2.121ex; height:2.009ex;" alt="r_{2}" /></span> = electric specific resistance of the electrolyte.</li>
+</ul>
+<p>This method was validated and found to be suitable for optimization and sensitivity studies in plant-level modelling of various systems with solid oxide fuel cells.<sup id="cite_ref-Kupecki_J.2C_Milewski_J.2C_Jewulski_J_13-0" class="reference"><a href="#cite_note-Kupecki_J.2C_Milewski_J.2C_Jewulski_J-13">[13]</a></sup> With this mathematical description it is possible to account for different properties of the SOFC. There are many parameters which impact cell working conditions, e.g. electrolyte material, electrolyte thickness, cell temperature, inlet and outlet gas compositions at anode and cathode, and electrode porosity, just to name some. The flow in these systems is often calculated using the <a href="/wiki/Navier_Stokes" class="mw-redirect" title="Navier Stokes">Navier-stokes equation</a>.</p>
+<table class="plainlinks metadata ambox ambox-style" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px">
+<div class="floatnone"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/8/80/Camera-photo.svg/40px-Camera-photo.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/80/Camera-photo.svg/60px-Camera-photo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/80/Camera-photo.svg/80px-Camera-photo.svg.png 2x" data-file-width="48" data-file-height="48" /></div>
+</div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article's images <b>may require adjustment of image placement, formatting, and size.</b> <span class="hide-when-compact">Please see <a href="/wiki/Wikipedia:Picture_tutorial" title="Wikipedia:Picture tutorial">the picture tutorial</a> and <a href="/wiki/Wikipedia:Image_use_policy#Placement" title="Wikipedia:Image use policy">the image placement policy</a> for further information.</span> <small><i>(October 2009)</i></small></span></td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="Ohmic_polarization">Ohmic polarization</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Solid_oxide_fuel_cell&amp;action=edit&amp;section=9" title="Edit section: Ohmic polarization">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Ohmic losses in an SOFC result from ionic conductivity through the electrolyte. This is inherently a materials property of the crystal structure and atoms involved. However, to maximize the ionic conductivity, several methods can be done. Firstly, operating at higher temperatures can significantly decrease these ohmic losses. Substitutional doping methods to further refine the crystal structure and control defect concentrations can also play a significant role in increasing the conductivity. Another way to decrease ohmic resistance is to decrease the thickness of the electrolyte layer.</p>
+<h4><span class="mw-headline" id="Ionic_conductivity">Ionic conductivity</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Solid_oxide_fuel_cell&amp;action=edit&amp;section=10" title="Edit section: Ionic conductivity">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>An ionic specific resistance of the electrolyte as a function of temperature can be described by the following relationship:<sup id="cite_ref-Milewski_J.2C_Miller_A._2006_396-402_11-2" class="reference"><a href="#cite_note-Milewski_J.2C_Miller_A._2006_396-402-11">[11]</a></sup></p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>r</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>1</mn>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mi>&#x03B4;<!-- δ --></mi>
+            <mi>&#x03C3;<!-- σ --></mi>
+          </mfrac>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle r_{1}={\frac {\delta }{\sigma }}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7efaffa9a62ad048238afccef69cf123906ee892" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.838ex; width:7.406ex; height:5.343ex;" alt="r_1 = \frac{\delta}{\sigma}" /></span></dd>
+</dl>
+<p>where: <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>&#x03B4;<!-- δ --></mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \delta }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c5321cfa797202b3e1f8620663ff43c4660ea03a" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.059ex; height:2.343ex;" alt="\delta " /></span> – electrolyte thickness, and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>&#x03C3;<!-- σ --></mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \sigma }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/59f59b7c3e6fdb1d0365a494b81fb9a696138c36" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.34ex; height:1.676ex;" alt="\sigma " /></span> – ionic conductivity.</p>
+<p>The ionic conductivity of the solid oxide is defined as follows:<sup id="cite_ref-Milewski_J.2C_Miller_A._2006_396-402_11-3" class="reference"><a href="#cite_note-Milewski_J.2C_Miller_A._2006_396-402-11">[11]</a></sup></p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>&#x03C3;<!-- σ --></mi>
+        <mo>=</mo>
+        <msub>
+          <mi>&#x03C3;<!-- σ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>0</mn>
+          </mrow>
+        </msub>
+        <mo>&#x22C5;<!-- ⋅ --></mo>
+        <msup>
+          <mi>e</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mfrac>
+              <mrow>
+                <mo>&#x2212;<!-- − --></mo>
+                <mi>E</mi>
+              </mrow>
+              <mrow>
+                <mi>R</mi>
+                <mo>&#x22C5;<!-- ⋅ --></mo>
+                <mi>T</mi>
+              </mrow>
+            </mfrac>
+          </mrow>
+        </msup>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \sigma =\sigma _{0}\cdot e^{\frac {-E}{R\cdot T}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c369f67876f82eeff647a4534f980b440e074f02" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:13.042ex; height:4.009ex;" alt="\sigma = \sigma_0\cdot e^\frac{-E}{R\cdot T}" /></span></dd>
+</dl>
+<p>where: <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>&#x03C3;<!-- σ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>0</mn>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \sigma _{0}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b2f330c7d4a4ee92e5d43dfe3e23f0de3406ec78" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:2.399ex; height:2.009ex;" alt="\sigma _{0}" /></span> and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>E</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle E}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4232c9de2ee3eec0a9c0a19b15ab92daa6223f9b" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.786ex; height:2.176ex;" alt="E" /></span> – factors depended on electrolyte materials, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>T</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle T}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ec7200acd984a1d3a3d7dc455e262fbe54f7f6e0" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.647ex; height:2.176ex;" alt="T" /></span> – electrolyte temperature, and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>R</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle R}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4b0bfb3769bf24d80e15374dc37b0441e2616e33" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.774ex; height:2.176ex;" alt="R" /></span> – ideal gas constant.</p>
+<h3><span class="mw-headline" id="Concentration_polarization">Concentration polarization</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Solid_oxide_fuel_cell&amp;action=edit&amp;section=11" title="Edit section: Concentration polarization">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The concentration polarization is the result of practical limitations on mass transport within the cell and represents the voltage loss due to spatial variations in reactant concentration at the chemically active sites. This situation can be caused when the reactants are consumed by the electrochemical reaction faster than they can diffuse into the porous electrode, and can also be caused by variation in bulk flow composition. The latter is due to the fact that the consumption of reacting species in the reactant flows causes a drop in reactant concentration as it travels along the cell, which causes a drop in the local potential near the tail end of the cell.</p>
+<p>The concentration polarization occurs in both the anode and cathode. The anode can be particularly problematic, as the oxidation of the hydrogen produces steam, which further dilutes the fuel stream as it travels along the length of the cell. This polarization can be mitigated by reducing the reactant utilization fraction or increasing the electrode porosity, but these approaches each have significant design trade-offs.</p>
+<h3><span class="mw-headline" id="Activation_polarization">Activation polarization</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Solid_oxide_fuel_cell&amp;action=edit&amp;section=12" title="Edit section: Activation polarization">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The activation polarization is the result of the kinetics involved with the electrochemical reactions. Each reaction has a certain activation barrier that must be overcome in order to proceed and this barrier leads to the polarization. The activation barrier is the result of many complex electrochemical reaction steps where typically the rate limiting step is responsible for the polarization. The polarization equation shown below is found by solving the <a href="/wiki/Butler%E2%80%93Volmer_equation" title="Butler–Volmer equation">Butler–Volmer equation</a> in the high current density regime (where the cell typically operates), and can be used to estimate the activation polarization:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>&#x03B7;<!-- η --></mi>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>a</mi>
+            <mi>c</mi>
+            <mi>t</mi>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mi>R</mi>
+              <mi>T</mi>
+            </mrow>
+            <mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi>&#x03B2;<!-- β --></mi>
+              </mrow>
+              <mi>z</mi>
+              <mi>F</mi>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mo>&#x00D7;<!-- × --></mo>
+        <mi>l</mi>
+        <mi>n</mi>
+        <mrow>
+          <mo>(</mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mfrac>
+              <mi>i</mi>
+              <msub>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi>i</mi>
+                </mrow>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mn>0</mn>
+                </mrow>
+              </msub>
+            </mfrac>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\eta }_{act}={\frac {RT}{{\beta }zF}}\times ln\left({\frac {i}{{i}_{0}}}\right)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1e06a20aa123fc029d887542b8bfb2f4daff8c8f" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.505ex; width:23.233ex; height:6.176ex;" alt=" {\eta}_{act} = \frac {RT} {{\beta}zF} \times ln \left(\frac {i} {{i}_0} \right) " /></span></dd>
+</dl>
+<p>where:</p>
+<ul>
+<li><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>R</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle R}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4b0bfb3769bf24d80e15374dc37b0441e2616e33" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.774ex; height:2.176ex;" alt="R" /></span> = gas constant</li>
+<li><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>T</mi>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>0</mn>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {T}_{0}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a1847baf662ea7b9aeaaf96c0ed48d918137ae8e" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:2.43ex; height:2.509ex;" alt="{T}_0" /></span> = operating temperature</li>
+<li><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi>&#x03B2;<!-- β --></mi>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\beta }}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4f08e5bb6adcac8ac464df79e6a2e43779898ab7" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:1.342ex; height:2.509ex;" alt="{\beta }" /></span> = electron transfer coefficient</li>
+<li><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>z</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle z}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/bf368e72c009decd9b6686ee84a375632e11de98" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.099ex; height:1.676ex;" alt="z" /></span> = electrons associated with the electrochemical reaction</li>
+<li><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>F</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle F}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/545fd099af8541605f7ee55f08225526be88ce57" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.751ex; height:2.176ex;" alt="F" /></span> = Faraday's constant</li>
+<li><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>i</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle i}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/add78d8608ad86e54951b8c8bd6c8d8416533d20" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:0.813ex; height:2.176ex;" alt="i" /></span> = operating current</li>
+<li><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>i</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>0</mn>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle i_{0}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/91677c698b4d3f062d76d9e43ad3e914d243e758" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:1.875ex; height:2.509ex;" alt="i_{0}" /></span> = exchange current density.</li>
+</ul>
+<p>The polarization can be modified by microstructural optimization. The Triple Phase Boundary (TPB) length, which is the length where porous, ionic and electronically conducting pathways all meet, directly relates to the electrochemically active length in the cell. The larger the length, the more reactions can occur and thus the less the activation polarization. Optimization of TPB length can be done by processing conditions to affect microstructure or by materials selection to use a mixed ionic/electronic conductor to further increase TPB length.</p>
+<h2><span class="mw-headline" id="Target">Target</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Solid_oxide_fuel_cell&amp;action=edit&amp;section=13" title="Edit section: Target">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/United_States_Department_of_Energy" title="United States Department of Energy">DOE</a> target requirements are 40,000 hours of service for <a href="/wiki/Stationary_fuel_cell_applications" title="Stationary fuel cell applications">stationary fuel cell applications</a> and greater than 5,000 hours for transportation systems (<a href="/wiki/Fuel_cell_vehicle" title="Fuel cell vehicle">fuel cell vehicles</a>) at a factory cost of $40/kW for a 10&#160;kW <a href="/wiki/Coal" title="Coal">coal</a>-based system<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup> without additional requirements. Lifetime effects (phase stability, thermal expansion compatibility, element migration, conductivity and aging) must be addressed. The <a href="/w/index.php?title=Solid_State_Energy_Conversion_Alliance&amp;action=edit&amp;redlink=1" class="new" title="Solid State Energy Conversion Alliance (page does not exist)">Solid State Energy Conversion Alliance</a> 2008 (interim) target for overall degradation per 1,000 hours is 4.0%.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup></p>
+<h2><span class="mw-headline" id="Research">Research</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Solid_oxide_fuel_cell&amp;action=edit&amp;section=14" title="Edit section: Research">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Research is going now in the direction of lower-temperature SOFCs (600&#160;°C). Low temperature systems can reduce costs by reducing insulation, materials, start-up and degradation-related costs. With higher operating temperatures, the temperature gradient increases the severity of thermal stresses, which affects materials cost and life of the system.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup> An intermediate temperature system (650-800&#160;°C) would enable the use of cheaper metallic materials with better mechanical properties and <a href="/wiki/Thermal_conductivity" title="Thermal conductivity">thermal conductivity</a>. New developments in nano-scale electrolyte structures have been shown to bring down operating temperatures to around 350&#160;°C, which would enable the use of even cheaper steel and <a href="/wiki/Elastomer" title="Elastomer">elastomeric</a>/<a href="/wiki/Polymer" title="Polymer">polymeric</a> components.<sup id="cite_ref-ReferenceA_17-0" class="reference"><a href="#cite_note-ReferenceA-17">[17]</a></sup></p>
+<p>Lowering operating temperatures has the added benefit of increased efficiency. Theoretical fuel cell efficiency increases with decreasing temperature. For example, the efficiency of a SOFC using CO as fuel increases from 63% to 81% when decreasing the system temperature from 900&#160;°C to 350&#160;°C.<sup id="cite_ref-ReferenceA_17-1" class="reference"><a href="#cite_note-ReferenceA-17">[17]</a></sup></p>
+<p>Research is also under way to improve the fuel flexibility of SOFCs. While stable operation has been achieved on a variety of hydrocarbon fuels, these cells typically rely on external fuel processing. In the case of <a href="/wiki/Natural_gas" title="Natural gas">natural gas</a>, the fuel is either externally or internally reformed and the <a href="/wiki/Sulfur" title="Sulfur">sulfur</a> compounds are removed. These processes add to the cost and complexity of SOFC systems. Work is under way at a number of institutions to improve the stability of anode materials for hydrocarbon oxidation and, therefore, relax the requirements for fuel processing and decrease SOFC balance of plant costs.</p>
+<p>Research is also going on in reducing start-up time to be able to implement SOFCs in mobile applications.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup> This can be partially achieved by lowering operating temperatures, which is the case for <a href="/wiki/Proton_exchange_membrane_fuel_cell" title="Proton exchange membrane fuel cell">proton exchange membrane fuel cells (PEMFCs)</a>.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup> Due to their fuel flexibility, they may run on partially reformed <a href="/wiki/Diesel_fuel" title="Diesel fuel">diesel</a>, and this makes SOFCs interesting as auxiliary power units (APU) in refrigerated trucks.</p>
+<p>Specifically, <a href="/wiki/Delphi_Corporation" class="mw-redirect" title="Delphi Corporation">Delphi Automotive Systems</a> are developing an SOFC that will power auxiliary units in automobiles and tractor-trailers, while <a href="/wiki/BMW" title="BMW">BMW</a> has recently stopped a similar project. A high-temperature SOFC will generate all of the needed electricity to allow the engine to be smaller and more efficient. The SOFC would run on the same <a href="/wiki/Gasoline" title="Gasoline">gasoline</a> or diesel as the engine and would keep the air conditioning unit and other necessary electrical systems running while the engine shuts off when not needed (e.g., at a stop light or truck stop).<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (August 2016)">citation needed</span></a></i>]</sup></p>
+<p><a href="/wiki/Rolls-Royce_plc" class="mw-redirect" title="Rolls-Royce plc">Rolls-Royce</a> is developing solid-oxide fuel cells produced by <a href="/wiki/Screen_printing" title="Screen printing">screen printing</a> onto inexpensive ceramic materials. Rolls-Royce Fuel Cell Systems Ltd is developing an SOFC gas turbine hybrid system fueled by natural gas for power generation applications in the order of a megawatt (e.g. <a href="/wiki/Futuregen" class="mw-redirect" title="Futuregen">Futuregen</a>).<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (August 2016)">citation needed</span></a></i>]</sup></p>
+<p>3D printing is being explored as a possible manufacturing technique that could be used to make SOFC manufacturing easier by the Shah Lab at Northwestern University. This manufacturing technique would allow SOFC cell structure to be more flexible, which could lead to more efficient designs. This process could work in the production of any part of the cell. The 3D printing process works by combining about 80% ceramic particles with 20% binders and solvents, and then converting that slurry into an ink that can be fed into a 3D printer. Some of the solvent is very volatile, so the ceramic ink solidifies almost immediately. Not all of the solvent evaporates, so the ink maintains some flexibility before it is fired at high temperature to densify it. This flexibility allows the cells to be fired in a circular shape that would increase the surface area over which electrochemical reactions can occur, which increases the efficiency of the cell. Also, the 3D printing technique allows the cell layers to be printed on top of each other instead of having to go through separate manufacturing and stacking steps. The thickness is easy to control, and layers can be made in the exact size and shape that is needed, so waste is minimized.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup></p>
+<p><a href="/w/index.php?title=Ceres_Power&amp;action=edit&amp;redlink=1" class="new" title="Ceres Power (page does not exist)">Ceres Power</a> Ltd. has developed a low cost and low temperature (500–600 degrees) SOFC stack using cerium gadolinium oxide (CGO) in place of current industry standard ceramic, <a href="/wiki/Yttria" class="mw-redirect" title="Yttria">yttria</a> stabilized <a href="/wiki/Zirconia" class="mw-redirect" title="Zirconia">zirconia</a> (<a href="/wiki/YSZ" class="mw-redirect" title="YSZ">YSZ</a>), which allows the use of <a href="/wiki/Stainless_steel" title="Stainless steel">stainless steel</a> to support the ceramic.<sup id="cite_ref-ceres_21-0" class="reference"><a href="#cite_note-ceres-21">[21]</a></sup></p>
+<p>Solid Cell Inc. has developed a unique, low-cost cell architecture that combines properties of planar and tubular designs, along with a Cr-free <a href="/wiki/Cermet" title="Cermet">cermet</a> interconnect.</p>
+<p>The high temperature electrochemistry center (HITEC) at the University of Florida, Gainesville is focused on studying ionic transport, electrocatalytic phenomena and microstructural characterization of ion conducting materials.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup></p>
+<p>SiEnergy Systems, a Harvard spin-off company, has demonstrated the first macro-scale thin-film solid-oxide fuel cell that can operate at 500 degrees.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup></p>
+<h3><span class="mw-headline" id="SOEC">SOEC</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Solid_oxide_fuel_cell&amp;action=edit&amp;section=15" title="Edit section: SOEC">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A <a href="/wiki/Solid_oxide_electrolyser_cell" title="Solid oxide electrolyser cell">solid oxide electrolyser cell</a> (SOEC) is a solid oxide fuel cell set in <a href="/wiki/Regenerative_fuel_cell" title="Regenerative fuel cell">regenerative mode</a> for the <a href="/wiki/Electrolysis_of_water" title="Electrolysis of water">electrolysis of water</a> with a solid oxide, or <a href="/wiki/Ceramic" title="Ceramic">ceramic</a>, <a href="/wiki/Electrolyte" title="Electrolyte">electrolyte</a> to produce oxygen and <a href="/wiki/Hydrogen_gas" class="mw-redirect" title="Hydrogen gas">hydrogen gas</a>.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup></p>
+<h3><span class="mw-headline" id="ITSOFC">ITSOFC</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Solid_oxide_fuel_cell&amp;action=edit&amp;section=16" title="Edit section: ITSOFC">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>SOFCs that operate in an intermediate temperature (IT) range, meaning between 600 and 800&#160;°C, are named ITSOFCs. Because of the high degradation rates and materials costs incurred at temperatures in excess of 900&#160;°C, it is economically more favorable to operate SOFCs at lower temperatures. The push for high-performance ITSOFCs is currently the topic of much research and development. One area of focus is the cathode material. It is thought that the oxygen reduction reaction is responsible for much of the loss in performance so the catalytic activity of the cathode is being studied and enhanced through various techniques, including catalyst impregnation.</p>
+<h3><span class="mw-headline" id="LT-SOFC">LT-SOFC</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Solid_oxide_fuel_cell&amp;action=edit&amp;section=17" title="Edit section: LT-SOFC">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Low-temperature solid oxide fuel cells (LT-SOFCs), operating lower than 650&#160;°C, are of great interest for future research because the high operating temperature is currently what restricts the development and deployment of SOFCs. A low-temperature SOFC is more reliable due to smaller thermal mismatch and easier sealing. Additionally, a lower temperature requires less insulation and therefore has a lower cost. Cost is further lowered due to wider material choices for interconnects and compressive nonglass/ceramic seals. Perhaps most importantly, at a lower temperature, SOFCs can be started more rapidly and with less energy, which lends itself to uses in portable and transportable applications.</p>
+<p>Interestingly, as temperature decreases, the maximum theoretical fuel cell efficiency increases, in contrast to the Carnot cycle. For example, the maximum theoretical efficiency of an SOFC using CO as a fuel increases from 63% at 900&#160;°C to 81% at 350&#160;°C.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup></p>
+<p>This is a materials issue, particularly for the electrolyte in the SOFC. YSZ is the most commonly used electrolyte because of its superior stability, despite not having the highest conductivity. Currently, the thickness of YSZ electrolytes is a minimum of ~10 μm due to deposition methods, and this requires a temperature above 700&#160;°C. Therefore, low-temperature SOFCs are only possible with higher conductivity electrolytes. Various alternatives that could be successful at low temperature include gallium-doped ceria (GDC) and erbia-cation-stabilized bismuth (ERB). They have superior ionic conductivity at lower temperatures, but this comes at the expense of lower thermodynamic stability. CeO2 electrolytes become electronically conductive and Bi2O3 electrolytes decompose to metallic Bi under the reducing fuel environment.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup></p>
+<p>To combat this, researchers created a functionally graded ceria/bismuth-oxide bilayered electrolyte where the GDC layer on the anode side protects the ESB layer from decomposing while the ESB on the cathode side blocks the leakage current through the GDC layer. This leads to near-theoretical open-circuit potential (OPC) with two highly conductive electrolytes, that by themselves would not have been sufficiently stable for the application. This bilayer proved to be stable for 1400 hours of testing at 500&#160;°C and showed no indication of interfacial phase formation or thermal mismatch. While this makes strides towards lowering the operating temperature of SOFCs, it also opens doors for future research to try and understand this mechanism.<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[27]</a></sup></p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:283px;"><a href="/wiki/File:Ion_Conductivity.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/6/60/Ion_Conductivity.png" width="281" height="282" class="thumbimage" data-file-width="281" data-file-height="282" /></a>
+<div class="thumbcaption">Comparison of ionic conductivity of various solid oxide electrolytes</div>
+</div>
+</div>
+<p>Researchers at the Georgia Institute of Technology dealt with the instability of BaCeO3 differently. They replaced a desired fraction of Ce in BaCeO3 with Zr to form a solid solution that exhibits proton conductivity, but also chemical and thermal stability over the range of conditions relevant to fuel cell operation. A new specific composition, Ba(Zr0.1Ce0.7Y0.2)O3-δ (BZCY7) that displays the highest ionic conductivity of all known electrolyte materials for SOFC applications. This electrolyte was fabricated by dry-pressing powders, which allowed for the production of crack free films thinner than 15 μm. The implementation of this simple and cost-effective fabrication method may enable significant cost reductions in SOFC fabrication.<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[28]</a></sup> However, this electrolyte operates at higher temperatures than the bilayered electrolyte model, closer to 600&#160;°C rather than 500&#160;°C.</p>
+<p>Currently, given the state of the field for LT-SOFCs, progress in the electrolyte would reap the most benefits, but research into potential anode and cathode materials would also lead to useful results, and has started to be discussed more frequently in literature.</p>
+<h3><span class="mw-headline" id="SOFC-GT">SOFC-GT</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Solid_oxide_fuel_cell&amp;action=edit&amp;section=18" title="Edit section: SOFC-GT">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>An <a href="/w/index.php?title=SOFC-GT&amp;action=edit&amp;redlink=1" class="new" title="SOFC-GT (page does not exist)">SOFC-GT</a> system is one which comprises a solid oxide fuel cell combined with a gas turbine. Such systems have been evaluated by <a href="/wiki/Siemens_Westinghouse" class="mw-redirect" title="Siemens Westinghouse">Siemens Westinghouse</a> and <a href="/wiki/Rolls-Royce_plc" class="mw-redirect" title="Rolls-Royce plc">Rolls-Royce</a> as a means to achieve higher operating efficiencies by running the SOFC under pressure. <a href="/w/index.php?title=SOFC-GT&amp;action=edit&amp;redlink=1" class="new" title="SOFC-GT (page does not exist)">SOFC-GT</a> systems typically include anodic and/or cathodic atmosphere recirculation, thus increasing <a href="/wiki/Efficiency" title="Efficiency">efficiency</a>.</p>
+<p>Theoretically, the combination of the SOFC and gas turbine can give result in high overall (electrical and thermal) efficiency.<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">[29]</a></sup> Further combination of the SOFC-GT in a combined cooling, heat and power (or <a href="/wiki/Trigeneration" class="mw-redirect" title="Trigeneration">trigeneration</a>) configuration (via <a href="/wiki/HVAC" title="HVAC">HVAC</a>) also has the potential to yield even higher thermal efficiencies in some cases.<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">[30]</a></sup></p>
+<p>Moreover, another interesting feature of the introduced hybrid system is on the gain of 100% CO2 capturing at comparable high energy efficiency. These features like zero CO2 emission and high energy efficiency make the power plant performance noteworthy.<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">[31]</a></sup></p>
+<h3><span class="mw-headline" id="DCFC">DCFC</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Solid_oxide_fuel_cell&amp;action=edit&amp;section=19" title="Edit section: DCFC">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>For the direct use of solid coal fuel without additional gasification and reforming processes, a <a href="/wiki/Direct_carbon_fuel_cell" title="Direct carbon fuel cell">direct carbon fuel cell</a> (<a rel="nofollow" class="external text" href="http://www.materialsviews.com/direct-carbon-fuel-cells-ultra-low-emission-technology-power-generation/">DCFC</a>) has been developed as a promising novel concept of a high-temperature energy conversion system. The underlying progress in the development of a coal-based DCFC has been categorized mainly according to the electrolyte materials used, such as solid oxide, molten carbonate, and molten hydroxide, as well as hybrid systems consisting of solid oxide and molten carbonate binary electrolyte or of liquid anode (Fe, Ag, In, Sn, Sb, Pb, Bi, and its alloying and its metal/metal oxide) solid oxide electrolyte.<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">[32]</a></sup>&lt;</p>
+<p><b>SOFC operated on Landfill gas</b></p>
+<p>Every household produces waste/garbage on a daily basis. In 2009, Americans produced about 243 million tons of municipal solid waste, which is 4.3 pounds of waste per person per day. All that waste is sent to Landfill sites. Landfill gas which is produced from the decomposition of waste that gets accumulated at the landfills has the potential to be a valuable source of energy since methane is a major constituent. Currently, the majority of the landfills either burn away their gas in flares or combust it in mechanical engines to produce electricity. The issue with mechanical engines is that incomplete combustion of gasses can lead to pollution of the atmosphere and is also highly inefficient.</p>
+<p>The issue with using landfill gas to fuel an SOFC system is that landfill gas contains hydrogen sulfide. Any landfill accepting biological waste will contain about 50-60 ppm of hydrogen sulfide and around 1-2 ppm mercaptans. However, construction materials containing reducible sulfur species, principally sulfates found in gypsum-based wallboard, can cause considerably higher levels of sulfides in the hundreds of ppm. At operating temperatures of 750 ⁰C hydrogen sulfide concentrations of around 0.05 ppm begin to affect the performance of the SOFCs.</p>
+<p>Ni + H<sub>2</sub>S → NiS + H<sub>2</sub></p>
+<p>The above reaction controls the effect of sulfur on the anode.</p>
+<p>This can be prevented by having background hydrogen which is calculated below.</p>
+<p>At 453 K the equilibrium constant is 7.39 x 10<sup>−5</sup></p>
+<p>ΔG calculated at 453 K was 35.833 kJ/mol</p>
+<p>Using the standard heat of formation and entropy ΔG at room temperature (298 K) came out to be 45.904 kJ/mol</p>
+<p>On extrapolation to 1023 K, ΔG is -1.229 kJ/mol</p>
+<p>On substitution, K<sub>eq</sub> at 1023 K is 1.44 x 10<sup>−4</sup>. Hence theoretically we need 3.4% hydrogen to prevent the formation of NiS at 5 ppm H<sub>2</sub>S.<sup id="cite_ref-33" class="reference"><a href="#cite_note-33">[33]</a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Solid_oxide_fuel_cell&amp;action=edit&amp;section=20" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a href="/wiki/File:Nuvola_apps_ksim.png" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Nuvola_apps_ksim.png/28px-Nuvola_apps_ksim.png" width="28" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Nuvola_apps_ksim.png/42px-Nuvola_apps_ksim.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Nuvola_apps_ksim.png/56px-Nuvola_apps_ksim.png 2x" data-file-width="128" data-file-height="128" /></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Electronics" title="Portal:Electronics">Electronics portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a href="/wiki/File:Crystal_energy.svg" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/29px-Crystal_energy.svg.png" width="29" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/44px-Crystal_energy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/59px-Crystal_energy.svg.png 2x" data-file-width="130" data-file-height="124" /></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Energy" title="Portal:Energy">Energy portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a href="/wiki/File:Sustainable_development.svg" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/32px-Sustainable_development.svg.png" width="32" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/48px-Sustainable_development.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/64px-Sustainable_development.svg.png 2x" data-file-width="800" data-file-height="510" /></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Sustainable_development" title="Portal:Sustainable development">Sustainable development portal</a></span></li>
+</ul>
+</div>
+<ul>
+<li><a href="/wiki/Auxiliary_power_unit" title="Auxiliary power unit">Auxiliary power unit</a></li>
+<li><a href="/wiki/Bloom_Energy_Server" title="Bloom Energy Server">Bloom Energy Server</a> – SOFC product from an American company</li>
+<li><a href="/wiki/Ceramic_Fuel_Cells" title="Ceramic Fuel Cells">Ceramic Fuel Cells</a> Ltd – Australian company producing solid oxide fuel cells</li>
+<li><a href="/w/index.php?title=Ceres_Power&amp;action=edit&amp;redlink=1" class="new" title="Ceres Power (page does not exist)">Ceres Power</a> - A UK company producing solid oxide fuel cells</li>
+<li><a href="/wiki/Glossary_of_fuel_cell_terms" title="Glossary of fuel cell terms">Glossary of fuel cell terms</a></li>
+<li><a href="/wiki/Hydrogen_technologies" title="Hydrogen technologies">Hydrogen technologies</a></li>
+<li><a href="/wiki/Micro_combined_heat_and_power" title="Micro combined heat and power">Micro combined heat and power</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Solid_oxide_fuel_cell&amp;action=edit&amp;section=21" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 35em; -webkit-column-width: 35em; column-width: 35em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation journal">Badwal, SPS. <a rel="nofollow" class="external text" href="http://www.austceram.com/JAC-2014-1/ACS-Journal-2014-v1-23">"Review of Progress in High Temperature Solid Oxide Fuel Cells"</a>. <i>Journal of the Australian Ceramics society</i>. <b>50</b> (1).</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolid+oxide+fuel+cell&amp;rft.atitle=Review+of+Progress+in+High+Temperature+Solid+Oxide+Fuel+Cells&amp;rft.aufirst=SPS&amp;rft.aulast=Badwal&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.austceram.com%2FJAC-2014-1%2FACS-Journal-2014-v1-23&amp;rft.issue=1&amp;rft.jtitle=Journal+of+the+Australian+Ceramics+society&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=50" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.cfcl.com.au/Assets/Files/20090219_CFCL_Announcement_60_percent_Efficiency.pdf">Ceramic fuel cells achieves world-best 60% efficiency for its electricity generator units</a>. Ceramic Fuel Cells Limited. 19 February 2009</span></li>
+<li id="cite_note-e-collection.ethbib.ethz.ch-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-e-collection.ethbib.ethz.ch_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-e-collection.ethbib.ethz.ch_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://e-collection.ethbib.ethz.ch/view/eth:41553">Electricity from wood through the combination of gasification and solid oxide fuel cells</a>, Ph.D. Thesis by Florian Nagel, Swiss Federal Institute of Technology Zurich, 2008</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation journal">Ott, J; Gan, Y; McMeeking, R; Kamlah, M (2013). <a rel="nofollow" class="external text" href="http://www.heterofoam.com/UserFiles/hetfoam/Documents/Ott%20et%20al%20Granular%20Electrodes%20Acta%20Mechanica%20Sinica%202013.pdf">"A micromechanical model for effective conductivity in granular electrode structures"</a> <span style="font-size:85%;">(PDF)</span>. <i>Acta Mechanica Sinica</i>. <b>29</b> (5): 682–698. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1007%2Fs10409-013-0070-x">10.1007/s10409-013-0070-x</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolid+oxide+fuel+cell&amp;rft.atitle=A+micromechanical+model+for+effective+conductivity+in+granular+electrode+structures&amp;rft.aufirst=J&amp;rft.au=Gan%2C+Y&amp;rft.au=Kamlah%2C+M&amp;rft.aulast=Ott&amp;rft.au=McMeeking%2C+R&amp;rft.date=2013&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.heterofoam.com%2FUserFiles%2Fhetfoam%2FDocuments%2FOtt%2520et%2520al%2520Granular%2520Electrodes%2520Acta%2520Mechanica%2520Sinica%25202013.pdf&amp;rft_id=info%3Adoi%2F10.1007%2Fs10409-013-0070-x&amp;rft.issue=5&amp;rft.jtitle=Acta+Mechanica+Sinica.&amp;rft.pages=682-698&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=29" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://jes.ecsdl.org/content/163/8/F952.full">"Hydrogen Oxidation Mechanisms on Perovskite Solid Oxide Fuel Cell Anodes"</a>. <i><a rel="nofollow" class="external free" href="http://jes.ecsdl.org/">http://jes.ecsdl.org/</a></i>. Journel of the Electrochemical Society<span class="reference-accessdate">. Retrieved <span class="nowrap">8 November</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolid+oxide+fuel+cell&amp;rft.atitle=Hydrogen+Oxidation+Mechanisms+on+Perovskite+Solid+Oxide+Fuel+Cell+Anodes&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fjes.ecsdl.org%2Fcontent%2F163%2F8%2FF952.full&amp;rft.jtitle=http%3A%2F%2Fjes.ecsdl.org%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span> <span style="font-size:100%" class="error citation-comment">External link in <code style="color:inherit; border:inherit; padding:inherit;">|website=</code> (<a href="/wiki/Help:CS1_errors#param_has_ext_link" title="Help:CS1 errors">help</a>)</span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation journal">Nigel Sammes; Alevtina Smirnova; Oleksandr Vasylyev (2005). "Fuel Cell Technologies: State and Perspectives". <i>NATO Science Series, Mathematics, Physics and Chemistry</i>. <b>202</b>: 19–34. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1007%2F1-4020-3498-9_3">10.1007/1-4020-3498-9_3</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolid+oxide+fuel+cell&amp;rft.atitle=Fuel+Cell+Technologies%3A+State+and+Perspectives&amp;rft.au=Alevtina+Smirnova&amp;rft.au=Nigel+Sammes&amp;rft.au=Oleksandr+Vasylyev&amp;rft.date=2005&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1007%2F1-4020-3498-9_3&amp;rft.jtitle=NATO+Science+Series%2C+Mathematics%2C+Physics+and+Chemistry&amp;rft.pages=19-34&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=202" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-elmater-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-elmater_7-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Steele, B.C.H., Heinzel, A. (2001). "Materials for fuel-cell technologies". <i>Nature</i>. <b>414</b> (15 November): 345–352. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1038%2F35104620">10.1038/35104620</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/11713541">11713541</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolid+oxide+fuel+cell&amp;rft.atitle=Materials+for+fuel-cell+technologies&amp;rft.au=Steele%2C+B.C.H.%2C+Heinzel%2C+A.&amp;rft.date=2001&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1038%2F35104620&amp;rft_id=info%3Apmid%2F11713541&amp;rft.issue=15+November&amp;rft.jtitle=Nature&amp;rft.pages=345-352&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=414" class="Z3988"><span style="display:none;">&#160;</span></span> <span class="citation-comment" style="display:none; color:#33aa33">CS1 maint: Multiple names: authors list (<a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">link</a>)</span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation journal">Mohan Menon; Kent Kammer; et al. (2007). "Processing of Ce1-xGdxO2-δ (GDC) thin films from precursors for application in solid oxide fuel cells". <i>Advanced Materials Engineering</i>. 15–17: 293–298. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.4028%2Fwww.scientific.net%2FAMR.15-17.293">10.4028/www.scientific.net/AMR.15-17.293</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolid+oxide+fuel+cell&amp;rft.atitle=Processing+of+Ce1-xGdxO2-%CE%B4+%28GDC%29+thin+films+from+precursors+for+application+in+solid+oxide+fuel+cells&amp;rft.au=Kent+Kammer&amp;rft.au=Mohan+Menon&amp;rft.date=2007&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.4028%2Fwww.scientific.net%2FAMR.15-17.293&amp;rft.jtitle=Advanced+Materials+Engineering&amp;rft.pages=293-298&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=15%9317" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Charpentier2000-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-Charpentier2000_9-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Charpentier, P (2000). "Preparation of thin film SOFCs working at reduced temperature". <i>Solid State Ionics</i>. <b>135</b> (1–4): 373–380. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2FS0167-2738%2800%2900472-0">10.1016/S0167-2738(00)00472-0</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/0167-2738">0167-2738</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolid+oxide+fuel+cell&amp;rft.atitle=Preparation+of+thin+film+SOFCs+working+at+reduced+temperature&amp;rft.aufirst=P&amp;rft.aulast=Charpentier&amp;rft.date=2000&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2FS0167-2738%2800%2900472-0&amp;rft.issn=0167-2738&amp;rft.issue=1%934&amp;rft.jtitle=Solid+State+Ionics&amp;rft.pages=373-380&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=135" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation journal">Hai-Bo Huo; Xin-Jian Zhu; Guang-Yi Cao (2006). "Nonlinear modeling of a SOFC stack based on a least squares support vector machine". <i>Journal of Power Sources</i>. <b>162</b> (2): 1220–1225. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2Fj.jpowsour.2006.07.031">10.1016/j.jpowsour.2006.07.031</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolid+oxide+fuel+cell&amp;rft.atitle=Nonlinear+modeling+of+a+SOFC+stack+based+on+a+least+squares+support+vector+machine&amp;rft.au=Guang-Yi+Cao&amp;rft.au=Hai-Bo+Huo&amp;rft.au=Xin-Jian+Zhu&amp;rft.date=2006&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2Fj.jpowsour.2006.07.031&amp;rft.issue=2&amp;rft.jtitle=Journal+of+Power+Sources&amp;rft.pages=1220-1225&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=162" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Milewski_J.2C_Miller_A._2006_396-402-11"><span class="mw-cite-backlink">^ <a href="#cite_ref-Milewski_J.2C_Miller_A._2006_396-402_11-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Milewski_J.2C_Miller_A._2006_396-402_11-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Milewski_J.2C_Miller_A._2006_396-402_11-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Milewski_J.2C_Miller_A._2006_396-402_11-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Milewski J, Miller A (2006). "Influences of The Type and Thickness of Electrolyte on Solid Oxide Fuel Cell Hybrid System Performance". <i>Journal of Fuel Cell Science and Technology</i>. <b>3</b> (4): 396–402. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1115%2F1.2349519">10.1115/1.2349519</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolid+oxide+fuel+cell&amp;rft.atitle=Influences+of+The+Type+and+Thickness+of+Electrolyte+on+Solid+Oxide+Fuel+Cell+Hybrid+System+Performance&amp;rft.aufirst=J&amp;rft.aulast=Milewski&amp;rft.au=Miller%2C+A&amp;rft.date=2006&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1115%2F1.2349519&amp;rft.issue=4&amp;rft.jtitle=Journal+of+Fuel+Cell+Science+and+Technology&amp;rft.pages=396-402&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=3" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation journal">M. Santarelli; P. Leone; M. Calì; G. Orsello (2007). "Experimental evaluation of the sensitivity to fuel utilization and air management on a 100 kW SOFC system". <i>Journal of Power Sources</i>. <b>171</b> (2): 155–168. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2Fj.jpowsour.2006.12.032">10.1016/j.jpowsour.2006.12.032</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolid+oxide+fuel+cell&amp;rft.atitle=Experimental+evaluation+of+the+sensitivity+to+fuel+utilization+and+air+management+on+a+100+kW+SOFC+system&amp;rft.au=G.+Orsello&amp;rft.au=M.+Cal%C3%AC&amp;rft.au=M.+Santarelli&amp;rft.au=P.+Leone&amp;rft.date=2007&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2Fj.jpowsour.2006.12.032&amp;rft.issue=2&amp;rft.jtitle=Journal+of+Power+Sources&amp;rft.pages=155-168&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=171" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Kupecki_J.2C_Milewski_J.2C_Jewulski_J-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-Kupecki_J.2C_Milewski_J.2C_Jewulski_J_13-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Kupecki J.; Milewski J.; Jewulski J. (2013). "Investigation of SOFC material properties for plant-level modeling". <i>Central European Journal of Chemistry</i>. <b>11</b> (5): 664–671. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.2478%2Fs11532-013-0211-x">10.2478/s11532-013-0211-x</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolid+oxide+fuel+cell&amp;rft.atitle=Investigation+of+SOFC+material+properties+for+plant-level+modeling&amp;rft.au=Jewulski+J.&amp;rft.au=Kupecki+J.&amp;rft.au=Milewski+J.&amp;rft.date=2013&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.2478%2Fs11532-013-0211-x&amp;rft.issue=5&amp;rft.jtitle=Central+European+Journal+of+Chemistry&amp;rft.pages=664-671&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=11" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.netl.doe.gov/technologies/coalpower/fuelcells/index.html">SECA-Coal and Power Systems</a>. Netl.doe.gov. Retrieved on 27 November 2011.</span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.netl.doe.gov/publications/press/2009/09018-Fuel_Cell_Exceeds_Goals.html">Fuel Cell Stacks Still Going Strong After 5,000 Hours</a>. Netl.doe.gov (24 March 2009). Retrieved on 2011-11-27. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20091008091105/http://www.netl.doe.gov/publications/press/2009/09018-Fuel_Cell_Exceeds_Goals.html">Archived</a> 8 October 2009 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation book">Ishihara, Tatsumi (2009). <i>Perovskite Oxide for Solid Oxide Fuel Cells</i>. Springer. p.&#160;19. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-387-77708-5" title="Special:BookSources/978-0-387-77708-5">978-0-387-77708-5</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolid+oxide+fuel+cell&amp;rft.aufirst=Tatsumi&amp;rft.aulast=Ishihara&amp;rft.btitle=Perovskite+Oxide+for+Solid+Oxide+Fuel+Cells&amp;rft.date=2009&amp;rft.genre=book&amp;rft.isbn=978-0-387-77708-5&amp;rft.pages=19&amp;rft.pub=Springer&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-ReferenceA-17"><span class="mw-cite-backlink">^ <a href="#cite_ref-ReferenceA_17-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-ReferenceA_17-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Wachsman, Eric; Lee, Kang (18 November 2011). "Lowering the Temperature of Solid Oxide Fuel Cells". <i>Science</i>. <b>334</b> (6058): 935. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1126%2Fscience.1204090">10.1126/science.1204090</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolid+oxide+fuel+cell&amp;rft.atitle=Lowering+the+Temperature+of+Solid+Oxide+Fuel+Cells&amp;rft.aufirst=Eric&amp;rft.aulast=Wachsman&amp;rft.au=Lee%2C+Kang&amp;rft.date=2011-11-18&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1126%2Fscience.1204090&amp;rft.issue=6058&amp;rft.jtitle=Science&amp;rft.pages=935&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=334" class="Z3988"><span style="display:none;">&#160;</span></span> <span style="display:none;font-size:100%" class="error citation-comment"><code style="color:inherit; border:inherit; padding:inherit;">|access-date=</code> requires <code style="color:inherit; border:inherit; padding:inherit;">|url=</code> (<a href="/wiki/Help:CS1_errors#accessdate_missing_url" title="Help:CS1 errors">help</a>)</span></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation journal">Spivey, B. (2012). "Dynamic modeling, simulation, and MIMO predictive control of a tubular solid oxide fuel cell". <i>Journal of Process Control</i>. <b>22</b>: 1502–1520. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2Fj.jprocont.2012.01.015">10.1016/j.jprocont.2012.01.015</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolid+oxide+fuel+cell&amp;rft.atitle=Dynamic+modeling%2C+simulation%2C+and+MIMO+predictive+control+of+a+tubular+solid+oxide+fuel+cell&amp;rft.aufirst=B.&amp;rft.aulast=Spivey&amp;rft.date=2012&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2Fj.jprocont.2012.01.015&amp;rft.jtitle=Journal+of+Process+Control&amp;rft.pages=1502-1520&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=22" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.nedstack.com/technology/fuel-cell-comparison">"Fuel Cell Comparison"</a>. <i>Nedstack</i>. Nedstack<span class="reference-accessdate">. Retrieved <span class="nowrap">6 November</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolid+oxide+fuel+cell&amp;rft.atitle=Fuel+Cell+Comparison&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.nedstack.com%2Ftechnology%2Ffuel-cell-comparison&amp;rft.jtitle=Nedstack&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation journal"><a rel="nofollow" class="external text" href="http://www.sciencedirect.com/science/article/pii/S1464285915700246">"Northwestern group invent inks to make SOFCs by 3D printing"</a>. <i>Science Direct</i>. Fuel Cells Bulletin. <b>2015</b>: 11. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2FS1464-2859%2815%2970024-6">10.1016/S1464-2859(15)70024-6</a><span class="reference-accessdate">. Retrieved <span class="nowrap">8 November</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolid+oxide+fuel+cell&amp;rft.atitle=Northwestern+group+invent+inks+to+make+SOFCs+by+3D+printing&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS1464285915700246&amp;rft_id=info%3Adoi%2F10.1016%2FS1464-2859%2815%2970024-6&amp;rft.jtitle=Science+Direct&amp;rft.pages=11&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=2015" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-ceres-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-ceres_21-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.cerespower.com/Technology/TheCeresCell/">"The Ceres Cell"</a>. <i>Company Website</i>. Ceres Power<span class="reference-accessdate">. Retrieved <span class="nowrap">30 November</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolid+oxide+fuel+cell&amp;rft.atitle=The+Ceres+Cell&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.cerespower.com%2FTechnology%2FTheCeresCell%2F&amp;rft.jtitle=Company+Website&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20131213064702/http://www.cerespower.com/Technology/TheCeresCell/">Archived</a> 13 December 2013 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://hitec.mse.ufl.edu/">"HITEC"</a>. Hitec.mse.ufl.edu<span class="reference-accessdate">. Retrieved <span class="nowrap">8 December</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolid+oxide+fuel+cell&amp;rft.btitle=HITEC&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fhitec.mse.ufl.edu%2F&amp;rft.pub=Hitec.mse.ufl.edu&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.technologyreview.com/energy/37439/">Cooling Down Solid-Oxide Fuel Cells</a>. Technologyreview.com. 20 April 2011. Retrieved on 27 November 2011.</span></li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite class="citation journal">Anne Hauch; Søren Højgaard Jensen; Sune Dalgaard Ebbesen; Mogens Mogensen (2009). <a rel="nofollow" class="external text" href="http://www.risoe.dk/rispubl/reports/ris-r-1608_327-338.pdf">"Durability of solid oxide electrolysis cells for hydrogen production"</a> <span style="font-size:85%;">(PDF)</span>. <i>Risoe Reports</i>. <b>1608</b>: 327–338.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolid+oxide+fuel+cell&amp;rft.atitle=Durability+of+solid+oxide+electrolysis+cells+for+hydrogen+production&amp;rft.au=Anne+Hauch&amp;rft.au=Mogens+Mogensen&amp;rft.au=S%C3%B8ren+H%C3%B8jgaard+Jensen&amp;rft.au=Sune+Dalgaard+Ebbesen&amp;rft.date=2009&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.risoe.dk%2Frispubl%2Freports%2Fris-r-1608_327-338.pdf&amp;rft.jtitle=Risoe+Reports&amp;rft.pages=327-338&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=1608" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text">Choi, S.; Yoo, S.; Park, S.; Jun, A.; Sengodan, S.; Kim, J.; Shin, J. Highly efficient and robust cathode materials for low-temperature solid oxide fuel cells: PrBa0.5Sr0.5Co(2-x)Fe(x)O(5+δ). Sci Rep. 2013, 3, 2426-2428.</span></li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text">Hibini, T.; Hashimoto, A.; Inoue, T.; Tokuno, J.; Yoshida, S.; Sano, M. A Low-Operating-Temperature Solid Oxide Fuel Cell in Hydrocarbon-Air Mixtures. Science. 2000. 288, 2031-2033.</span></li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><cite class="citation journal">Wachsman, E.; Lee, Kang T. (2011). "Lowering the Temperature of Solid Oxide Fuel Cells". <i>Science</i>. <b>334</b>: 935–939. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1126%2Fscience.1204090">10.1126/science.1204090</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolid+oxide+fuel+cell&amp;rft.atitle=Lowering+the+Temperature+of+Solid+Oxide+Fuel+Cells&amp;rft.aufirst=E.&amp;rft.aulast=Wachsman&amp;rft.au=Lee%2C+Kang+T.&amp;rft.date=2011&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1126%2Fscience.1204090&amp;rft.jtitle=Science&amp;rft.pages=935-939&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=334" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text">Zuo, C.; Zha, S.; Liu, M.; Hatano, M.; Uchiyama, M. Ba(Zr0.1Ce0.7Y0.2)O3-δ as an Electrolyte for Low-Temperature Solid-Oxide Fuel Cells. Advanced Materials. 2006, 18, 3318-3320</span></li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><cite class="citation journal">S.H. Chan; H.K. Ho; Y. Tian (2003). "Multi-level modeling of SOFC-gas turbine hybrid system". <i>International Journal of Hydrogen Energy</i>. <b>28</b> (8): 889–900. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2FS0360-3199%2802%2900160-X">10.1016/S0360-3199(02)00160-X</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolid+oxide+fuel+cell&amp;rft.atitle=Multi-level+modeling+of+SOFC-gas+turbine+hybrid+system&amp;rft.au=H.K.+Ho&amp;rft.au=S.H.+Chan&amp;rft.au=Y.+Tian&amp;rft.date=2003&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2FS0360-3199%2802%2900160-X&amp;rft.issue=8&amp;rft.jtitle=International+Journal+of+Hydrogen+Energy&amp;rft.pages=889-900&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=28" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><cite class="citation journal">L. K. C. Tse; S. Wilkins; N. McGlashan; B. Urban; R. Martinez-Botas (2011). "Solid oxide fuel cell/gas turbine trigeneration system for marine applications". <i>Journal of Power Sources</i>. <b>196</b> (6): 3149–3162. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2Fj.jpowsour.2010.11.099">10.1016/j.jpowsour.2010.11.099</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolid+oxide+fuel+cell&amp;rft.atitle=Solid+oxide+fuel+cell%2Fgas+turbine+trigeneration+system+for+marine+applications&amp;rft.au=B.+Urban&amp;rft.au=L.+K.+C.+Tse&amp;rft.au=N.+McGlashan&amp;rft.au=R.+Martinez-Botas&amp;rft.au=S.+Wilkins&amp;rft.date=2011&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2Fj.jpowsour.2010.11.099&amp;rft.issue=6&amp;rft.jtitle=Journal+of+Power+Sources&amp;rft.pages=3149-3162&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=196" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><cite class="citation journal">Isfahani, SNR; Sedaghat, Ahmad (15 June 2016). <a rel="nofollow" class="external text" href="http://www.sciencedirect.com/science/article/pii/S0360319915313161">"A hybrid micro gas turbine and solid state fuel cell power plant with hydrogen production and CO2 capture"</a>. <i>International Journal of Hydrogen Energy</i>. <b>41</b> (22): 9490–9499. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2Fj.ijhydene.2016.04.065">10.1016/j.ijhydene.2016.04.065</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolid+oxide+fuel+cell&amp;rft.atitle=A+hybrid+micro+gas+turbine+and+solid+state+fuel+cell+power+plant+with+hydrogen+production+and+CO2+capture&amp;rft.aufirst=SNR&amp;rft.aulast=Isfahani&amp;rft.au=Sedaghat%2C+Ahmad&amp;rft.date=2016-06-15&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS0360319915313161&amp;rft_id=info%3Adoi%2F10.1016%2Fj.ijhydene.2016.04.065&amp;rft.issue=22&amp;rft.jtitle=International+Journal+of+Hydrogen+Energy&amp;rft.pages=9490-9499&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=41" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><cite class="citation journal">Giddey, S; Badwal, SPS; Kulkarni, A; Munnings, C (2012). "A comprehensive review of direct carbon fuel cell technology". <i>Progress in energy and combustion science</i>. <b>38</b> (3): 360–399. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2Fj.pecs.2012.01.003">10.1016/j.pecs.2012.01.003</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolid+oxide+fuel+cell&amp;rft.atitle=A+comprehensive+review+of+direct+carbon+fuel+cell+technology&amp;rft.au=Badwal%2C+SPS&amp;rft.aufirst=S&amp;rft.au=Kulkarni%2C+A&amp;rft.aulast=Giddey&amp;rft.au=Munnings%2C+C&amp;rft.date=2012&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2Fj.pecs.2012.01.003&amp;rft.issue=3&amp;rft.jtitle=Progress+in+energy+and+combustion+science&amp;rft.pages=360-399&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=38" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><cite class="citation journal">Khan, Feroze (1 January 2012). <a rel="nofollow" class="external text" href="http://rave.ohiolink.edu/etdc/view?acc_num=ysu1338838003">"Effect of Hydrogen Sulfide in Landfill Gas on Anode Poisoning of Solid Oxide Fuel Cells"</a>. Youngstown State University.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolid+oxide+fuel+cell&amp;rft.atitle=Effect+of+Hydrogen+Sulfide+in+Landfill+Gas+on+Anode+Poisoning+of+Solid+Oxide+Fuel+Cells&amp;rft.aufirst=Feroze&amp;rft.aulast=Khan&amp;rft.date=2012-01-01&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Frave.ohiolink.edu%2Fetdc%2Fview%3Facc_num%3Dysu1338838003&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Solid_oxide_fuel_cell&amp;action=edit&amp;section=22" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://energy.gov/fe/science-innovation/clean-coal-research/solid-oxide-fuel-cells">US Department of Energy page on SOFCs</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.netl.doe.gov/research/coal/energy-systems/fuel-cells/">National Energy Technology Laboratory website on SOFCs</a></li>
+<li><a rel="nofollow" class="external text" href="http://electrochem.cwru.edu/encycl/art-f02-sofc.htm">An article in Encyclopedia at YCES</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.iit.edu/~smart/garrear/fuelcells.htm">Illinois Institute of Technology page on SOFCs</a></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20130124034344/http://www.ecw.org/prod/207-R.pdf">Assessment of Solid Oxide Fuel Cells in Building Applications Phase 1: Modeling and Preliminary Analyses</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.csa.com/discoveryguides/fuecel/overview.php">CSA Overview of SOFCs</a></li>
+<li><a rel="nofollow" class="external text" href="http://glassproperties.com/sofc/">SOFC glass-ceramic sealing</a></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20090913090843/http://www.rsifibre.com/lightweightkiln.html">Refractory Specialties Inc.</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.msrihome.com/FuelCell.html">Materials &amp; Systems Research, Inc.'s (MSRI)</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.sofccanada.com/">Solid Oxide Fuel Cells Canada (SOFCC) Strategic Research Network</a></li>
+<li><a rel="nofollow" class="external text" href="http://apmonitor.com/wiki/index.php/Apps/FuelCell">SOFC Dynamics and Control Research</a></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20131023122647/http://www.netl.doe.gov/technologies/coalpower/fuelcells/seca/">Solid State Energy Conversion Alliance (SECA)</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.surplustek.com/zh-CN/technique/76-sofc">SOFC Production Equipment</a></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Fuel_cells" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Fuel_cells" title="Template:Fuel cells"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Fuel_cells" title="Template talk:Fuel cells"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Fuel_cells&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Fuel_cells" style="font-size:114%"><a href="/wiki/Fuel_cell" title="Fuel cell">Fuel cells</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">By electrolyte</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Alkaline_fuel_cell" title="Alkaline fuel cell">Alkaline fuel cell</a></li>
+<li><a href="/wiki/Molten_carbonate_fuel_cell" title="Molten carbonate fuel cell">Molten carbonate fuel cell</a></li>
+<li><a href="/wiki/Phosphoric_acid_fuel_cell" title="Phosphoric acid fuel cell">Phosphoric acid fuel cell</a></li>
+<li><a href="/wiki/Proton_exchange_membrane_fuel_cell" title="Proton exchange membrane fuel cell">Proton exchange membrane fuel cell</a></li>
+<li><strong class="selflink">Solid oxide fuel cell</strong></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">By fuel</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Direct-ethanol_fuel_cell" title="Direct-ethanol fuel cell">Direct-ethanol fuel cell</a></li>
+<li><a href="/wiki/Direct_methanol_fuel_cell" title="Direct methanol fuel cell">Direct methanol fuel cell</a></li>
+<li><a href="/wiki/Formic_acid_fuel_cell" title="Formic acid fuel cell">Formic acid fuel cell</a></li>
+<li><a href="/wiki/Reformed_methanol_fuel_cell" title="Reformed methanol fuel cell">Reformed methanol fuel cell</a></li>
+<li><a href="/wiki/Zinc%E2%80%93air_battery" title="Zinc–air battery">Zinc-air battery</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Biofuel cells</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Enzymatic_biofuel_cell" title="Enzymatic biofuel cell">Enzymatic biofuel cell</a></li>
+<li><a href="/wiki/Microbial_fuel_cell" title="Microbial fuel cell">Microbial fuel cell</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Others</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Osmotic_power" title="Osmotic power">Blue energy</a></li>
+<li><a href="/wiki/Direct_borohydride_fuel_cell" title="Direct borohydride fuel cell">Direct borohydride fuel cell</a></li>
+<li><a href="/wiki/Direct_carbon_fuel_cell" title="Direct carbon fuel cell">Direct carbon fuel cell</a></li>
+<li><a href="/wiki/Electro-galvanic_fuel_cell" title="Electro-galvanic fuel cell">Electro-galvanic fuel cell</a></li>
+<li><a href="/wiki/Flow_battery" title="Flow battery">Flow battery</a></li>
+<li><a href="/wiki/Membraneless_Fuel_Cells" title="Membraneless Fuel Cells">Membraneless Fuel Cells</a></li>
+<li><a href="/wiki/Metal_hydride_fuel_cell" title="Metal hydride fuel cell">Metal hydride fuel cell</a></li>
+<li><a href="/wiki/Photoelectrochemical_cell" title="Photoelectrochemical cell">Photoelectrochemical cell</a></li>
+<li><a href="/wiki/Protonic_ceramic_fuel_cell" title="Protonic ceramic fuel cell">Protonic ceramic fuel cell</a></li>
+<li><a href="/wiki/Regenerative_fuel_cell" title="Regenerative fuel cell">Regenerative fuel cell</a></li>
+<li><a href="/wiki/Solid_oxide_electrolyser_cell" title="Solid oxide electrolyser cell">Solid oxide electrolyser cell</a></li>
+<li><a href="/wiki/Unitized_regenerative_fuel_cell" title="Unitized regenerative fuel cell">Unitized regenerative fuel cell</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Hydrogen" title="Hydrogen">Hydrogen</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Hydrogen_economy" title="Hydrogen economy">Economy</a></li>
+<li><a href="/wiki/Hydrogen_storage" title="Hydrogen storage">Storage</a></li>
+<li><a href="/wiki/Hydrogen_station" title="Hydrogen station">Station</a></li>
+<li><a href="/wiki/Hydrogen_vehicle" title="Hydrogen vehicle">Vehicle</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><a href="/wiki/Glossary_of_fuel_cell_terms" title="Glossary of fuel cell terms">Glossary</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1239
+Cached time: 20170130014713
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.308 seconds
+Real time usage: 0.437 seconds
+Preprocessor visited node count: 2071/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 66561/2097152 bytes
+Template argument size: 1613/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 4/500
+Lua time usage: 0.136/10.000 seconds
+Lua memory usage: 5.22 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  273.815      1 -total
+ 53.46%  146.389      1 Template:Reflist
+ 33.83%   92.636     20 Template:Cite_journal
+ 20.33%   55.657      3 Template:Citation_needed
+ 18.89%   51.718      3 Template:Fix
+  9.41%   25.757      6 Template:Category_handler
+  8.44%   23.122      3 Template:Delink
+  7.72%   21.140      1 Template:Use_dmy_dates
+  4.45%   12.194      4 Template:Cite_web
+  3.88%   10.612      1 Template:Cleanup_images
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1049636-0!*!0!!en!4!*!math=5 and timestamp 20170130014713 and revision id 762079625
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Solid_oxide_fuel_cell&amp;oldid=762079625">https://en.wikipedia.org/w/index.php?title=Solid_oxide_fuel_cell&amp;oldid=762079625</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Fuel_cells" title="Category:Fuel cells">Fuel cells</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_errors:_external_links" title="Category:CS1 errors: external links">CS1 errors: external links</a></li><li><a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">CS1 maint: Multiple names: authors list</a></li><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:Pages_using_citations_with_accessdate_and_no_URL" title="Category:Pages using citations with accessdate and no URL">Pages using citations with accessdate and no URL</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_November_2016" title="Category:Use dmy dates from November 2016">Use dmy dates from November 2016</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_January_2015" title="Category:Articles with unsourced statements from January 2015">Articles with unsourced statements from January 2015</a></li><li><a href="/wiki/Category:Articles_needing_cleanup_from_October_2009" title="Category:Articles needing cleanup from October 2009">Articles needing cleanup from October 2009</a></li><li><a href="/wiki/Category:All_pages_needing_cleanup" title="Category:All pages needing cleanup">All pages needing cleanup</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_August_2016" title="Category:Articles with unsourced statements from August 2016">Articles with unsourced statements from August 2016</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Solid+oxide+fuel+cell" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Solid+oxide+fuel+cell" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Solid_oxide_fuel_cell"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Solid_oxide_fuel_cell"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Solid_oxide_fuel_cell" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Solid_oxide_fuel_cell&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Solid_oxide_fuel_cell&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Solid_oxide_fuel_cell" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Solid_oxide_fuel_cell" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Solid_oxide_fuel_cell&amp;oldid=762079625" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Solid_oxide_fuel_cell&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q899633" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Solid_oxide_fuel_cell&amp;id=762079625" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Solid+oxide+fuel+cell">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Solid+oxide+fuel+cell&amp;returnto=Solid+oxide+fuel+cell&amp;oldid=762079625&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Solid_oxide_fuel_cell&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%AE%D9%84%D9%8A%D8%A9_%D9%88%D9%82%D9%88%D8%AF_%D8%A7%D9%84%D8%A3%D9%83%D8%B3%D9%8A%D8%AF_%D8%A7%D9%84%D8%B5%D9%84%D8%A8" title="خلية وقود الأكسيد الصلب – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Festoxidbrennstoffzelle" title="Festoxidbrennstoffzelle – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Tahkeoksiidne_k%C3%BCtuseelement" title="Tahkeoksiidne kütuseelement – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Pile_%C3%A0_combustible_%C3%A0_oxyde_solide" title="Pile à combustible à oxyde solide – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%97%B0%EB%A3%8C%EC%A0%84%EC%A7%80#.EA.B3.A0.EC.B2.B4.EC.82.B0.ED.99.94.EB.AC.BC_.EC.97.B0.EB.A3.8C.EC.A0.84.EC.A7.80_.28Solid_Oxide_Fuel_Cell.2C_SOFC.29" title="연료전지 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Gorivi_%C4%8Dlanak_s_%C4%8Dvrstim_oksidima_kao_elektrolitom" title="Gorivi članak s čvrstim oksidima kao elektrolitom – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Pile_ad_ossido_solido" title="Pile ad ossido solido – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Solid_oxyde_fuel_cell" title="Solid oxyde fuel cell – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E7%87%83%E6%96%99%E9%9B%BB%E6%B1%A0#.E5.9B.BA.E4.BD.93.E9.85.B8.E5.8C.96.E7.89.A9.E5.BD.A2.E7.87.83.E6.96.99.E9.9B.BB.E6.B1.A0_.28SOFC.29" title="燃料電池 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/SOFC" title="SOFC – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk bokmål</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Ogniwo_paliwowe_ze_sta%C5%82ym_tlenkiem" title="Ogniwo paliwowe ze stałym tlenkiem – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A2%D0%B2%D0%B5%D1%80%D0%B4%D0%BE%D0%BE%D0%BA%D1%81%D0%B8%D0%B4%D0%BD%D1%8B%D0%B9_%D1%82%D0%BE%D0%BF%D0%BB%D0%B8%D0%B2%D0%BD%D1%8B%D0%B9_%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82" title="Твердооксидный топливный элемент – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Goriva_%C4%87elija_s_%C4%8Dvrstim_oksidima_kao_elektrolitom" title="Goriva ćelija s čvrstim oksidima kao elektrolitom – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Kiinte%C3%A4oksidipolttokenno" title="Kiinteäoksidipolttokenno – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Kat%C4%B1_oksit_yak%C4%B1t_h%C3%BCcresi" title="Katı oksit yakıt hücresi – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%A2%D0%B2%D0%B5%D1%80%D0%B4%D0%BE%D0%BE%D0%BA%D1%81%D0%B8%D0%B4%D0%BD%D0%B8%D0%B9_%D0%BF%D0%B0%D0%BB%D0%B8%D0%B2%D0%BD%D0%B8%D0%B9_%D0%B5%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82" title="Твердооксидний паливний елемент – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%9B%BA%E6%85%8B%E6%B0%A7%E5%8C%96%E7%89%A9%E7%87%83%E6%96%99%E9%9B%BB%E6%B1%A0" title="固態氧化物燃料電池 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q899633#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 26 January 2017, at 14:44.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Solid_oxide_fuel_cell&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.308","walltime":"0.437","ppvisitednodes":{"value":2071,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":66561,"limit":2097152},"templateargumentsize":{"value":1613,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  273.815      1 -total"," 53.46%  146.389      1 Template:Reflist"," 33.83%   92.636     20 Template:Cite_journal"," 20.33%   55.657      3 Template:Citation_needed"," 18.89%   51.718      3 Template:Fix","  9.41%   25.757      6 Template:Category_handler","  8.44%   23.122      3 Template:Delink","  7.72%   21.140      1 Template:Use_dmy_dates","  4.45%   12.194      4 Template:Cite_web","  3.88%   10.612      1 Template:Cleanup_images"]},"scribunto":{"limitreport-timeusage":{"value":"0.136","limit":"10.000"},"limitreport-memusage":{"value":5468797,"limit":52428800}},"cachereport":{"origin":"mw1239","timestamp":"20170130014713","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":519,"wgHostname":"mw1239"});});</script>
+	</body>
+</html>

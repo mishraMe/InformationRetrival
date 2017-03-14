@@ -1,0 +1,420 @@
+url : https://en.wikipedia.org/wiki/Earth_leakage_circuit_breaker
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Earth leakage circuit breaker - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Earth_leakage_circuit_breaker","wgTitle":"Earth leakage circuit breaker","wgCurRevisionId":742567414,"wgRevisionId":742567414,"wgArticleId":530768,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages using ISBN magic links","Articles needing additional references from February 2009","All articles needing additional references","Electric power distribution","Electric power systems components","Safety switches"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Earth_leakage_circuit_breaker","wgRelevantArticleId":530768,"wgRequestId":"WIzkSQpAMEkAAFErdkgAAABQ","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q277074","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.9"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Earth_leakage_circuit_breaker"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Earth_leakage_circuit_breaker&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Earth_leakage_circuit_breaker&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Earth_leakage_circuit_breaker"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Earth_leakage_circuit_breaker rootpage-Earth_leakage_circuit_breaker skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Earth leakage circuit breaker</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div role="note" class="hatnote">"ELCB" redirects here. For the company formerly known as ELCB, see <a href="/wiki/East_Lancashire_Coachbuilders" title="East Lancashire Coachbuilders">East Lancashire Coachbuilders</a>.</div>
+<table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Earth_leakage_circuit_breaker&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span> <small><i>(February 2009)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></span></td>
+</tr>
+</table>
+<table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%">
+<tr>
+<td style="padding-top:0.4em;line-height:1.2em;background-color: wheat">Part of a series on</td>
+</tr>
+<tr>
+<th style="padding:0.2em 0.4em 0.2em;padding-top:0;font-size:145%;line-height:1.2em;background-color: wheat"><a href="/wiki/Electrical_wiring" title="Electrical wiring">Electrical wiring</a></th>
+</tr>
+<tr>
+<th style="padding:0.1em;background-color: wheat"><a href="/wiki/Electrical_code" title="Electrical code">Regulation of electrical installations</a></th>
+</tr>
+<tr>
+<td class="hlist" style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/BS_7671" title="BS 7671">BS 7671</a></li>
+<li><a href="/wiki/IEC_60364" title="IEC 60364">IEC 60364</a></li>
+<li><a href="/wiki/Canadian_Electrical_Code" title="Canadian Electrical Code">Canadian Electrical Code (CEC)</a></li>
+<li><a href="/wiki/National_Electrical_Code" title="National Electrical Code">National Electrical Code (NEC)</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background-color: wheat">Wiring methods</th>
+</tr>
+<tr>
+<td class="hlist" style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/Armored_cable" class="mw-redirect" title="Armored cable">Armored cable</a></li>
+<li><a href="/wiki/Cable_tray" title="Cable tray">Cable tray</a></li>
+<li><a href="/wiki/Electrical_conduit" title="Electrical conduit">Electrical conduit</a></li>
+<li><a href="/wiki/Knob-and-tube_wiring" title="Knob-and-tube wiring">Knob-and-tube wiring</a></li>
+<li><a href="/wiki/Multiway_switching" title="Multiway switching">Multiway switching</a></li>
+<li><a href="/wiki/Thermoplastic-sheathed_cable" title="Thermoplastic-sheathed cable">Thermoplastic-sheathed cable</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background-color: wheat"><a href="/wiki/Circuit_breaker" title="Circuit breaker">Circuit breakers</a> and devices</th>
+</tr>
+<tr>
+<td class="hlist" style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/Arc-fault_circuit_interrupter" title="Arc-fault circuit interrupter">AFCI</a></li>
+<li><strong class="selflink">ELCB</strong></li>
+<li><a href="/wiki/Residual-current_device" title="Residual-current device">GFCI / RCD</a></li>
+<li><a href="/wiki/AC_power_plugs_and_sockets" title="AC power plugs and sockets">Receptacles / Sockets</a></li>
+<li><a href="/wiki/Switch" title="Switch">Switch</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background-color: wheat"><a href="/wiki/Power_engineering" title="Power engineering">Power engineering</a></th>
+</tr>
+<tr>
+<td class="hlist" style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/Busbar" title="Busbar">Bus bar</a></li>
+<li><a href="/wiki/Distribution_board" title="Distribution board">Distribution board</a></li>
+<li><a href="/wiki/Digital_protective_relay" title="Digital protective relay">Digital protective relay</a></li>
+<li><a href="/wiki/Overhead_power_line" title="Overhead power line">Overhead power line</a></li>
+<li><a href="/wiki/Power-system_protection" title="Power-system protection">Power-system protection</a></li>
+<li><a href="/wiki/Protective_relay" title="Protective relay">Protective relay</a></li>
+<li><a href="/wiki/Switchgear" title="Switchgear">Switchgear</a></li>
+<li><a href="/wiki/Sulfur_hexafluoride_circuit_breaker" title="Sulfur hexafluoride circuit breaker">Sulfur hexafluoride circuit breaker</a></li>
+<li><a href="/wiki/Electric_switchboard" title="Electric switchboard">Switchboard</a></li>
+<li><a href="/wiki/Transformer" title="Transformer">Transformer</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background-color: wheat">Wiring by region or country</th>
+</tr>
+<tr>
+<td class="hlist" style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/Electrical_wiring_in_Hong_Kong" title="Electrical wiring in Hong Kong">Hong Kong</a></li>
+<li><a href="/wiki/Electrical_wiring_in_North_America" title="Electrical wiring in North America">North America</a></li>
+<li><a href="/wiki/Electrical_wiring_in_the_United_Kingdom" title="Electrical wiring in the United Kingdom">United Kingdom</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;font-size:115%">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Electrical_wiring_sidebar" title="Template:Electrical wiring sidebar"><abbr title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Electrical_wiring_sidebar" title="Template talk:Electrical wiring sidebar"><abbr title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Electrical_wiring_sidebar&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:ELCB_Panasonic_30A_type_2P2E.jpg" class="image"><img alt="ELCB Panasonic 30A type 2P2E.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/ELCB_Panasonic_30A_type_2P2E.jpg/220px-ELCB_Panasonic_30A_type_2P2E.jpg" width="220" height="227" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/ELCB_Panasonic_30A_type_2P2E.jpg/330px-ELCB_Panasonic_30A_type_2P2E.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3f/ELCB_Panasonic_30A_type_2P2E.jpg/440px-ELCB_Panasonic_30A_type_2P2E.jpg 2x" data-file-width="800" data-file-height="825" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:ELCB_Panasonic_30A_type_2P2E.jpg" class="internal" title="Enlarge"></a></div>
+</div>
+</div>
+</div>
+<p>An <b>Earth-leakage circuit breaker</b> (<b>ELCB</b>) is a safety device used in electrical installations with high <a href="/wiki/Earthing_system" title="Earthing system">Earth impedance</a> to prevent shock. It detects small stray voltages on the metal enclosures of electrical equipment, and interrupts the circuit if a dangerous voltage is detected. Once widely used, more recent installations instead use <a href="/wiki/Residual_current_circuit_breaker" class="mw-redirect" title="Residual current circuit breaker">residual current circuit breakers</a> which instead detect leakage current directly.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Purpose"><span class="tocnumber">1</span> <span class="toctext">Purpose</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#History"><span class="tocnumber">2</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Operation"><span class="tocnumber">3</span> <span class="toctext">Operation</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Types"><span class="tocnumber">4</span> <span class="toctext">Types</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Voltage-operated"><span class="tocnumber">4.1</span> <span class="toctext">Voltage-operated</span></a>
+<ul>
+<li class="toclevel-3 tocsection-6"><a href="#Disadvantages"><span class="tocnumber">4.1.1</span> <span class="toctext">Disadvantages</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-7"><a href="#Current_sensing_devices_.28RCD.2FRCCB.29"><span class="tocnumber">4.2</span> <span class="toctext">Current sensing devices (RCD/RCCB)</span></a>
+<ul>
+<li class="toclevel-3 tocsection-8"><a href="#Advantages"><span class="tocnumber">4.2.1</span> <span class="toctext">Advantages</span></a></li>
+<li class="toclevel-3 tocsection-9"><a href="#Disadvantages_2"><span class="tocnumber">4.2.2</span> <span class="toctext">Disadvantages</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-10"><a href="#Earth_bypassing"><span class="tocnumber">4.3</span> <span class="toctext">Earth bypassing</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Nuisance_trips"><span class="tocnumber">4.4</span> <span class="toctext">Nuisance trips</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Failure_to_respond"><span class="tocnumber">4.5</span> <span class="toctext">Failure to respond</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-13"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Purpose">Purpose</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Earth_leakage_circuit_breaker&amp;action=edit&amp;section=1" title="Edit section: Purpose">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The main purpose of Earth leakage protectors is to prevent injury to humans and animals due to electric shock.</p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Earth_leakage_circuit_breaker&amp;action=edit&amp;section=2" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>This is a category of devices, which are used to protect instruments, circuits and operators, while Earth leakage. Early ELCBs are voltage sensing devices, which are now replaced by current sensing devices (RCD/RCCB). Usually voltage sensing devices termed as ELCB and Current sensing devices termed as RCCB.</p>
+<p>Voltage ELCBs were first introduced about sixty years ago and current ELCB was first introduced about forty years ago. For many years, the voltage operated ELCB and the differential current operated ELCB were both referred to as ELCBs because it was a simpler name to remember. But the use of a common name for two different devices gave rise to considerable confusion in the electrical industry.</p>
+<p>If the wrong type was used on an installation, the level of protection given could be substantially less than that intended.</p>
+<p>To eliminate this confusion, IEC decided to apply the term residual current device (RCD) to differential-current-operated ELCBs. Residual current refers to any current over and above the load current.</p>
+<p>ELCB manufacturers include: Major Tech, Fuji Electric, Schneider Electric, Legrand, Havells, <a href="/wiki/Asea_Brown_Boveri" class="mw-redirect" title="Asea Brown Boveri">ABB</a>, <a href="/wiki/Siemens_AG" class="mw-redirect" title="Siemens AG">Siemens AG</a>, <a href="/wiki/Areva" title="Areva">Areva T&amp;D</a>, Camsco, Telemecanique, Orion Italia, Crabtree, MEM, Terasaki,Vguard.</p>
+<h2><span class="mw-headline" id="Operation">Operation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Earth_leakage_circuit_breaker&amp;action=edit&amp;section=3" title="Edit section: Operation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>An ELCB is a specialised type of <a href="/wiki/Latching_relay" class="mw-redirect" title="Latching relay">latching relay</a> that has a building's incoming mains power connected through its <a href="/wiki/Relay" title="Relay">switching contacts</a> so that the ELCB disconnects the power in an Earth leakage (unsafe) condition.</p>
+<p>The ELCB detects <a href="/wiki/Fault_current" class="mw-redirect" title="Fault current">fault currents</a> from live to the Earth (ground) wire within the installation it protects. If sufficient <a href="/wiki/Voltage" title="Voltage">voltage</a> appears across the ELCB's sense coil, it will switch off the <a href="/wiki/Electric_power" title="Electric power">power</a>, and remain off until manually reset. A voltage-sensing ELCB does not sense fault currents from live to any other Earthed body.</p>
+<h2><span class="mw-headline" id="Types">Types</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Earth_leakage_circuit_breaker&amp;action=edit&amp;section=4" title="Edit section: Types">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>There are two types of ELCB:</p>
+<ul>
+<li><a href="/wiki/Voltage" title="Voltage">voltage</a> operated and,</li>
+<li><a href="/wiki/Electric_current" title="Electric current">current</a> operated.</li>
+</ul>
+<h3><span class="mw-headline" id="Voltage-operated">Voltage-operated</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Earth_leakage_circuit_breaker&amp;action=edit&amp;section=5" title="Edit section: Voltage-operated">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>These devices sense a voltage to decide the Earth leakage. A single-phase voltage ELCB will have six terminals. Line in and out, neutral in and out, Earth (E), and fault (F). Metal body of the load is connected to the fault terminal of ELCB and Earth terminal is connected to the ground. For normal working, voltage across the trip coil is zero, because, the body of the load is isolated from the supply line. When an Earth fault occur on the load, due to the contact of line wire to the metal body, a current will flow through F to the ground. This current will set up a voltage across the trip coil, which is connected between E and F. The energized trip coil will trip the circuit to protect the load device and the user.</p>
+<p>Voltage ELCBs have been in widespread use since then, and many are still in operation but are no longer installed in new construction. A voltage-operated ELCB detects a rise in potential between the protected interconnected metalwork (equipment frames, conduits, enclosures) and a distant isolated Earth reference electrode. They operate at a detected potential of around 50 volts to open a main breaker and isolate the supply from the protected premises.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></p>
+<p>A voltage-operated ELCB has a second terminal for connecting to the remote reference Earth connection.</p>
+<p>The <a href="/wiki/Earthing_system" title="Earthing system">Earth circuit</a> is modified when an ELCB is used; the connection to the <a href="/wiki/Earthing" class="mw-redirect" title="Earthing">Earth rod</a> is passed through the ELCB by connecting to its two Earth terminals. One terminal goes to the installation Earth <a href="/wiki/Earthing_system" title="Earthing system">CPC</a> (<a href="/wiki/Electrical_network" title="Electrical network">circuit</a> <a href="/wiki/Power_system_protection" class="mw-redirect" title="Power system protection">protective</a> conductor, aka Earth wire), and the other to the <a href="/wiki/Earthing_system" title="Earthing system">Earth rod</a> (or sometimes other type of Earth connection).</p>
+<h4><span class="mw-headline" id="Disadvantages">Disadvantages</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Earth_leakage_circuit_breaker&amp;action=edit&amp;section=6" title="Edit section: Disadvantages">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>This voltage sensing system has a lot of disadvantages, which include.</p>
+<ul>
+<li>Wire break in the fault to load section or Earth to ground section will results, a failure in operation of ELCB, and user may get severe electric shock, during Earth fault.</li>
+<li>Requirement of an additional third wire from the load to the ELCB.</li>
+<li>Separate devices cannot be grounded individually.</li>
+<li>The voltage-operated ELCB are the requirement for a second connection, and the possibility that any additional connection to Earth on the protected system can disable the detector.</li>
+</ul>
+<h3><span class="mw-headline" id="Current_sensing_devices_.28RCD.2FRCCB.29">Current sensing devices (RCD/RCCB)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Earth_leakage_circuit_breaker&amp;action=edit&amp;section=7" title="Edit section: Current sensing devices (RCD/RCCB)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>RCCB is the commonly used ELCB. An RCCB consists of a 3-winding transformer, which has 2 primary windings and 1 secondary winding. Neutral and line wires act as the two primary windings. A wire wound coil is the secondary winding. The current through the secondary winding is zero at the balanced condition. In balance condition, the flux due to the current through the phase wire will be neutralized by the current through the neutral wire, since the current, which flows from the phase will be returned to the neutral. When a fault occurs, a small current will flow to the ground also. This makes an unbalance between line and netural current and that creates an unbalanced magnetic field. This induces a current through the secondary winding, which is connected to the sensing circuit. This will sense the leakage and send signal to tripping system.</p>
+<h4><span class="mw-headline" id="Advantages">Advantages</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Earth_leakage_circuit_breaker&amp;action=edit&amp;section=8" title="Edit section: Advantages">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>ELCBs have one advantage over RCDs: they are less sensitive to fault conditions, and therefore have fewer nuisance trips. (This does not mean they always do, as practical performance depends on installation details and the discrimination enhancing filtering in the ELCB.) Therefore, by electrically separating cable armour from the cable circuit protective conductor, an ELCB can be arranged to protect against cable damage only, and not trip on faults in downline installations.</p>
+<h4><span class="mw-headline" id="Disadvantages_2">Disadvantages</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Earth_leakage_circuit_breaker&amp;action=edit&amp;section=9" title="Edit section: Disadvantages">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>ELCBs have some disadvantages:</p>
+<ul>
+<li>They do not detect faults that don't pass <a href="/wiki/Electric_current" title="Electric current">current</a> through the CPC to the <a href="/wiki/Earthing_system" title="Earthing system">Earth rod</a>.</li>
+<li>They do not allow a single <a href="/wiki/Building" title="Building">building</a> system to be easily split into multiple sections with independent fault protection, because <a href="/wiki/Earthing_system" title="Earthing system">Earthing systems</a> are usually bonded to <a href="/wiki/Pipework" class="mw-redirect" title="Pipework">pipework</a>.</li>
+<li>They may be tripped by external voltages from something connected to the Earthing system such as metal pipes, a <a href="/wiki/TN-S" class="mw-redirect" title="TN-S">TN-S</a> Earth or a TN-C-S combined neutral and Earth.</li>
+<li>As with RCDs, electrically leaky appliances such as some <a href="/wiki/Water_heater" class="mw-redirect" title="Water heater">water heaters</a>, <a href="/wiki/Washing_machine" title="Washing machine">washing machines</a> and <a href="/wiki/Electric_cooker" title="Electric cooker">cookers</a> may cause the ELCB to trip.</li>
+<li>ELCBs introduce additional <a href="/wiki/Resistor" title="Resistor">resistance</a> and an additional point of <a href="/wiki/Failure" title="Failure">failure</a> into the <a href="/wiki/Earthing_system" title="Earthing system">Earthing system</a>.</li>
+</ul>
+<h3><span class="mw-headline" id="Earth_bypassing">Earth bypassing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Earth_leakage_circuit_breaker&amp;action=edit&amp;section=10" title="Edit section: Earth bypassing">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>It is not unusual for ELCB protected installation to have a second unintentional connection to Earth somewhere, one that does not pass through the ELCB sense coil. This can occur via metal pipework in contact with the ground, <a href="/wiki/Metal" title="Metal">metal</a> structural framework, outdoor <a href="/wiki/Home_appliance" title="Home appliance">home appliances</a> in contact with <a href="/wiki/Soil" title="Soil">soil</a>, and so on.</p>
+<p>When this occurs, fault current may pass to <a href="/wiki/Earthing_system" title="Earthing system">Earth</a> without being sensed by the ELCB. Despite this, perhaps counterintuitively, the operation of the ELCB is not compromised. The purpose of the ELCB is to prevent Earthed <a href="/wiki/Metalwork" class="mw-redirect" title="Metalwork">metalwork</a> rising to a dangerous <a href="/wiki/Voltage" title="Voltage">voltage</a> during fault conditions, and the ELCB continues to do this just the same, the ELCB will still cut the power at the same CPC voltage level. (The difference is that higher fault current is then needed to reach this voltage.)</p>
+<h3><span class="mw-headline" id="Nuisance_trips">Nuisance trips</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Earth_leakage_circuit_breaker&amp;action=edit&amp;section=11" title="Edit section: Nuisance trips">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>While voltage and current on the earth line is usually fault current from a live wire, this is not always the case, thus there are situations in which an ELCB can nuisance trip.</p>
+<p>When an installation has two connections to Earth, a nearby high current <a href="/wiki/Lightning" title="Lightning">lightning</a> strike will cause a voltage gradient in the soil, presenting the ELCB sense coil with enough voltage to cause it to trip.</p>
+<p>If the installation's <a href="/wiki/Earthing_system" title="Earthing system">Earth rod</a> is placed close to the Earth rod of a neighbouring building, a high Earth leakage current in the other building can raise the local ground potential and cause a voltage difference across the two Earths, again tripping the ELCB. Close <a href="/wiki/Earthing_system" title="Earthing system">Earth rods</a> are unsuitable for ELCB use for this reason, but in real life such installations are sometimes encountered.</p>
+<p>Both RCDs and ELCBs are prone to <a href="/wiki/Nuisance" title="Nuisance">nuisance</a> trips from normal harmless <a href="/wiki/Earthing_system" title="Earthing system">Earth leakage</a> to some degree. On one hand ELCBs are on average older, and hence tend to have less well developed filtering against nuisance trips, and on the other hand ELCBs are inherently immune to some of the causes of false trips RCDs suffer, and are generally less sensitive than RCDs. In practice RCD nuisance trips are much more common.</p>
+<p>Another cause of nuisance tripping is due to accumulated or burden currents caused by items with lowered insulation resistance. This may occur due to older equipment, or equipment with heating elements, or even wiring in buildings in the tropics where prolonged damp and rain conditions can cause the insulation resistance to lower due to moisture tracking. If there is a 30 mA protective device in use and there is a 10&#160;mA burden from various sources then the unit will trip at 20&#160;mA. The individual items may each be electrically safe but a large number of small burden currents accumulates and reduces the tripping level. This was more a problem in past installations where multiple circuits were protected by a single ELCB.</p>
+<p>Heating elements of the tubular form are filled with a very fine powder that can absorb moisture if the element has not be used for some time. In the tropics, this may occur, for example if a clothes drier has not been used for a year or a large water boiler used for coffee, etc. has been in storage. In such cases, if the unit is allowed to power up without RCD protection then it will normally dry out and successfully pass inspection. This type of problem can be seen even with brand new equipment.</p>
+<h3><span class="mw-headline" id="Failure_to_respond">Failure to respond</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Earth_leakage_circuit_breaker&amp;action=edit&amp;section=12" title="Edit section: Failure to respond">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Some ELCBs do not respond to rectified fault current. This issue is the same in principle with ELCBs and RCDs, but ELCBs are on average much older and specifications have improved considerably over the years, so an old ELCB is more likely to have some fault current waveform that it will not respond to.</p>
+<p>With any mechanical device, failures occur, and ELCBs should ideally be tested periodically to ensure they still work.</p>
+<p>If either of the Earth wires become disconnected from the ELCB, it will no longer trip and the installation will often no longer be properly Earthed.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Earth_leakage_circuit_breaker&amp;action=edit&amp;section=13" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Residual-current_device" title="Residual-current device">Residual-current device</a></li>
+<li><a href="/wiki/Earthing_system" title="Earthing system">Earthing system</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Earth_leakage_circuit_breaker&amp;action=edit&amp;section=14" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Christopher Shelton, <i>Electrical installations third edition</i>, Nelson Thornes, 2004 <a href="/wiki/Special:BookSources/0748779795" class="internal mw-magiclink-isbn">ISBN 0-7487-7979-5</a> page 233</span></li>
+</ol>
+</div>
+<p><a href="/w/index.php?title=Template:See_IEC_website&amp;action=edit&amp;redlink=1" class="new" title="Template:See IEC website (page does not exist)">Template:See IEC website</a></p>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1182
+Cached time: 20161230174441
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.056 seconds
+Real time usage: 0.090 seconds
+Preprocessor visited node count: 270/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 12582/2097152 bytes
+Template argument size: 13/2097152 bytes
+Highest expansion depth: 6/40
+Expensive parser function count: 2/500
+Lua time usage: 0.021/10.000 seconds
+Lua memory usage: 1.04 MB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   63.673      1 - -total
+ 39.04%   24.857      1 - Template:Refimprove
+ 35.79%   22.789      1 - Template:Redirect
+ 33.52%   21.340      1 - Template:Ambox
+ 13.46%    8.571      1 - Template:Electrical_Wiring_Sidebar
+  9.61%    6.120      1 - Template:Sidebar
+  5.07%    3.231      1 - Template:Reflist
+  4.30%    2.741      1 - Template:See_IEC_website
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:530768-0!*!0!!en!4!* and timestamp 20161230174441 and revision id 742567414
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Earth_leakage_circuit_breaker&amp;oldid=742567414">https://en.wikipedia.org/w/index.php?title=Earth_leakage_circuit_breaker&amp;oldid=742567414</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Electric_power_distribution" title="Category:Electric power distribution">Electric power distribution</a></li><li><a href="/wiki/Category:Electric_power_systems_components" title="Category:Electric power systems components">Electric power systems components</a></li><li><a href="/wiki/Category:Safety_switches" title="Category:Safety switches">Safety switches</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Pages_using_ISBN_magic_links" title="Category:Pages using ISBN magic links">Pages using ISBN magic links</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_February_2009" title="Category:Articles needing additional references from February 2009">Articles needing additional references from February 2009</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Earth+leakage+circuit+breaker" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Earth+leakage+circuit+breaker" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Earth_leakage_circuit_breaker"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Earth_leakage_circuit_breaker"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Earth_leakage_circuit_breaker" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Earth_leakage_circuit_breaker&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Earth_leakage_circuit_breaker&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Earth_leakage_circuit_breaker" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Earth_leakage_circuit_breaker" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Earth_leakage_circuit_breaker&amp;oldid=742567414" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Earth_leakage_circuit_breaker&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q277074" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Earth_leakage_circuit_breaker&amp;id=742567414" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Earth+leakage+circuit+breaker">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Earth+leakage+circuit+breaker&amp;returnto=Earth+leakage+circuit+breaker&amp;oldid=742567414&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Earth_leakage_circuit_breaker&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%B7%D8%B9_%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D8%A9_%D8%B0%D9%88_%D8%A7%D9%84%D8%AA%D8%B3%D8%B1%D8%A8_%D8%A7%D9%84%D8%A3%D8%B1%D8%B6%D9%8A" title="قاطع الدورة ذو التسرب الأرضي – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Fehlerspannungsschutzschalter" title="Fehlerspannungsschutzschalter – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%AD%E0%A5%82-%E0%A4%B8%E0%A4%82%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%95%E0%A4%A8_%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%B0%E0%A4%A3_%E0%A4%AA%E0%A4%B0%E0%A4%BF%E0%A4%AA%E0%A4%A5_%E0%A4%B5%E0%A4%BF%E0%A4%9A%E0%A5%8D%E0%A4%9B%E0%A5%87%E0%A4%A6%E0%A4%95" title="भू-संपर्कन क्षरण परिपथ विच्छेदक – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Stop_kontak" title="Stop kontak – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Pemutus_litar_bocor_ke_bumi" title="Pemutus litar bocor ke bumi – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E9%85%8D%E7%B7%9A%E7%94%A8%E9%81%AE%E6%96%AD%E5%99%A8#.E6.BC.8F.E9.9B.BB.E9.81.AE.E6.96.AD.E5.99.A8" title="配線用遮断器 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Jordfeilbryter" title="Jordfeilbryter – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk bokmål</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%95%E0%B8%B1%E0%B8%94%E0%B9%84%E0%B8%9F%E0%B8%A3%E0%B8%B1%E0%B9%88%E0%B8%A7" title="เครื่องตัดไฟรั่ว – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%A0%D0%B5%D0%BB%D0%B5_%D0%B2%D0%B8%D1%82%D0%BE%D0%BA%D1%83" title="Реле витоку – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/C%E1%BA%A7u_dao_ch%E1%BB%91ng_r%C3%B2_%C4%91i%E1%BB%87n_%C4%91%E1%BA%A5t" title="Cầu dao chống rò điện đất – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q277074#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 4 October 2016, at 13:22.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Earth_leakage_circuit_breaker&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":55,"wgHostname":"mw1238"});});</script>
+	</body>
+</html>

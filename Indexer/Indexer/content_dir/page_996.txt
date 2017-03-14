@@ -1,0 +1,434 @@
+url : https://en.wikipedia.org/wiki/Standby_power
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Standby power - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Standby_power","wgTitle":"Standby power","wgCurRevisionId":750053591,"wgRevisionId":750053591,"wgArticleId":4739163,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","All articles with unsourced statements","Articles with unsourced statements from November 2016","Articles containing potentially dated statements from 2011","All articles containing potentially dated statements","Electricity","Energy conservation","Environmental impact of the energy industry","Electronics and the environment","Electric power"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Standby_power","wgRelevantArticleId":4739163,"wgRequestId":"WI64bgpAMCYAAAj38UgAAAAL","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q1366402","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.page.gallery.styles%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.9"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Standby_power"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Standby_power&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Standby_power&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Standby_power"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Standby_power rootpage-Standby_power skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Standby power</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div role="note" class="hatnote">For systems that provide auxiliary power, see <a href="/wiki/Emergency_power_system" title="Emergency power system">Emergency power system</a>.</div>
+<div role="note" class="hatnote">"Phantom load" redirects here. For microphone powering technique, see <a href="/wiki/Phantom_power" title="Phantom power">Phantom power</a>.</div>
+<div role="note" class="hatnote">"Idling current" redirects here. For transistor quiescent current, see <a href="/wiki/Biasing" title="Biasing">Biasing</a>.</div>
+<p><b>Standby power</b>, also called <b>vampire power</b>, <b>vampire draw</b>, <b>phantom load</b>, or <b>leaking <a href="/wiki/Electricity" title="Electricity">electricity</a></b> ("phantom load" and "<a href="/wiki/Leakage_(electronics)" title="Leakage (electronics)">leaking electricity</a>" are defined technical terms with other meanings, adopted for this different purpose), refers to the way <a href="/wiki/Electric_power" title="Electric power">electric power</a> consumed by electronic and electrical appliances while they are switched off (but are designed to draw some power) or in a <a href="/wiki/Sleep_mode" title="Sleep mode">standby mode</a>. This only occurs because some devices claimed to be "switched off" on the electronic interface, but are in a different state from switching off at the plug, or disconnecting from the power point, which can solve the problem of standby power completely. In fact, switching off at the power point is effective enough, there is no need to disconnect all devices from the power point. Some such devices offer <a href="/wiki/Remote_control" title="Remote control">remote controls</a> and <a href="/wiki/Digital_clock" title="Digital clock">digital clock</a> features to the user, while other devices, such as <a href="/wiki/Power_supply" title="Power supply">power adapters</a> for disconnected electronic devices, consume power without offering any features (sometimes called <a href="/wiki/No-load_power" class="mw-redirect" title="No-load power">no-load power</a>). All of the above examples, such as the remote control, digital clock functions and—in the case of adapters, no-load power—are switched off just by switching off at the power point. However, for some devices with built-in internal battery, such as a phone, the standby functions can be stopped by removing the battery instead.</p>
+<p>In the past, standby power was largely a non-issue for users, electricity providers, manufacturers, and government regulators. In the first decade of the twenty-first century, awareness of the issue grew and it became an important consideration for all parties. Up to the middle of the decade, standby power was often several watts or even tens of watts per appliance. By 2010, regulations were in place in most developed countries restricting standby power of devices sold to one watt (and half that from 2013).</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Definition"><span class="tocnumber">1</span> <span class="toctext">Definition</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Advantages_and_disadvantages"><span class="tocnumber">2</span> <span class="toctext">Advantages and disadvantages</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Advantages"><span class="tocnumber">2.1</span> <span class="toctext">Advantages</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Disadvantages"><span class="tocnumber">2.2</span> <span class="toctext">Disadvantages</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Magnitude"><span class="tocnumber">3</span> <span class="toctext">Magnitude</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Fire_risks"><span class="tocnumber">4</span> <span class="toctext">Fire risks</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Policy"><span class="tocnumber">5</span> <span class="toctext">Policy</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Determining_standby_power"><span class="tocnumber">6</span> <span class="toctext">Determining standby power</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#Identifying_devices"><span class="tocnumber">6.1</span> <span class="toctext">Identifying devices</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Estimating_standby_power"><span class="tocnumber">6.2</span> <span class="toctext">Estimating standby power</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Measuring_standby_power"><span class="tocnumber">6.3</span> <span class="toctext">Measuring standby power</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#Reducing_standby_consumption"><span class="tocnumber">7</span> <span class="toctext">Reducing standby consumption</span></a>
+<ul>
+<li class="toclevel-2 tocsection-13"><a href="#Operating_practices"><span class="tocnumber">7.1</span> <span class="toctext">Operating practices</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Equipment_efficiency"><span class="tocnumber">7.2</span> <span class="toctext">Equipment efficiency</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-15"><a href="#See_also"><span class="tocnumber">8</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#References"><span class="tocnumber">9</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#External_links"><span class="tocnumber">10</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Definition">Definition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Standby_power&amp;action=edit&amp;section=1" title="Edit section: Definition">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Standby power is electrical power used by appliances and equipment while switched off or not performing their primary function, often waiting to be activated by a <a href="/wiki/Remote_control" title="Remote control">remote controller</a>. That power is consumed by internal or external power supplies, remote control receivers, text or light displays, circuits energized when the device is plugged in even when switched off, etc.<sup id="cite_ref-lblfaq_1-0" class="reference"><a href="#cite_note-lblfaq-1">[1]</a></sup> Power can be saved by disconnecting such devices, causing at worst only inconvenience.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (November 2016)">citation needed</span></a></i>]</sup></p>
+<p>While this definition is inadequate for technical purposes, there is as yet no formal definition; an international standards committee is developing a definition and test procedure.<sup id="cite_ref-lblfaq_1-1" class="reference"><a href="#cite_note-lblfaq-1">[1]</a></sup></p>
+<p>The term is often used more loosely for any device that continuously must use a small amount of power even when not active; for example a telephone answering machine must be available at all times to receive calls, switching off to save power is not an option. Timers, powered thermostats, and the like are other examples. An uninterruptible power supply could be considered to be wasting standby power only when the computer it protects is off. Disconnecting standby power proper is at worst inconvenient; powering down completely, for example an answering machine not dealing with a call, renders it useless.</p>
+<h2><span class="mw-headline" id="Advantages_and_disadvantages">Advantages and disadvantages</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Standby_power&amp;action=edit&amp;section=2" title="Edit section: Advantages and disadvantages">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Advantages">Advantages</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Standby_power&amp;action=edit&amp;section=3" title="Edit section: Advantages">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Standby power is often consumed for a purpose, although in the past there was little effort to minimize power used.</p>
+<ul>
+<li>It may enable a device to switch on very quickly without delays that might otherwise occur ("instant-on"). This was used, for example, with <a href="/wiki/Cathode-ray_tube" class="mw-redirect" title="Cathode-ray tube">CRT</a> television receivers (now largely supplanted by thin solid-state screens), where a small current was passed through the tube heater, avoiding a delay of many seconds in starting up.</li>
+<li>It may be used to power a remote control receiver, so that when infrared or radio-frequency signals are sent by a remote control device, the equipment is able to respond, typically by changing from standby to fully on mode.</li>
+<li>Standby power may be used to power a display, operate a clock, etc., without switching on the equipment to full power.</li>
+<li>Battery-powered equipment connected to <a href="/wiki/Mains_electricity" title="Mains electricity">mains electricity</a> can be kept fully charged although switched on; for example, a mobile telephone can be ready to receive calls without depleting its battery charge.</li>
+</ul>
+<h3><span class="mw-headline" id="Disadvantages">Disadvantages</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Standby_power&amp;action=edit&amp;section=4" title="Edit section: Disadvantages">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The disadvantages of standby power all relate to the energy used. As standby power is reduced, the disadvantages become less. Older devices often used ten watts or more; with the adoption of the <a href="/wiki/One_Watt_Initiative" title="One Watt Initiative">One Watt Initiative</a> by many countries, standby energy use is much diminished.</p>
+<ul>
+<li>Devices on standby consume electricity which must be paid for. The total energy consumed may be of the <a href="/wiki/Order_of_magnitude" title="Order of magnitude">order</a> of 10% of the electrical energy used by a typical household, as discussed below. The cost of standby energy is easily estimated—each watt of continuous standby consumes about 9 kWh of electricity per year, and the price per kWh is shown on electricity bills.</li>
+<li><a href="/wiki/Electricity_generation" title="Electricity generation">Electricity is very often generated</a> by combustion of hydrocarbons (oil, coal, gas) or other substances, which releases substantial amounts of <a href="/wiki/Carbon_dioxide" title="Carbon dioxide">carbon dioxide</a>, implicated in <a href="/wiki/Global_warming" title="Global warming">global warming</a>, and other pollutants such as <a href="/wiki/Sulphur_dioxide" class="mw-redirect" title="Sulphur dioxide">sulphur dioxide</a>, which produces <a href="/wiki/Acid_rain" title="Acid rain">acid rain</a>. Standby power is a significant contributor to electricity usage.</li>
+<li>As electricity consumption increases, more <a href="/wiki/Power_station" title="Power station">power stations</a> are needed, with associated capital and running costs.</li>
+</ul>
+<h2><span class="mw-headline" id="Magnitude">Magnitude</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Standby_power&amp;action=edit&amp;section=5" title="Edit section: Magnitude">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Standby power makes up a portion of homes' <a href="/wiki/Miscellaneous_electric_load" title="Miscellaneous electric load">miscellaneous electric load</a>, which also includes small appliances, security systems, and other small power draws. The U.S. Department of Energy said in 2008:</p>
+<blockquote>
+<p>"Many appliances continue to draw a small amount of power when they are switched off. These "phantom" loads occur in most appliances that use electricity, such as VCRs, televisions, stereos, computers, and kitchen appliances. This can be avoided by unplugging the appliance or using a power strip and using the switch on the power strip to cut all power to the appliance."<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></p>
+</blockquote>
+<p>Standby power used by older devices can be as high as 10–15&#160;W per device,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> while a modern <a href="/wiki/High-definition_television" title="High-definition television">HD</a> <a href="/wiki/LCD_television" title="LCD television">LCD television</a> may use less than 1&#160;W in standby mode. Some appliances use no energy when turned off. Many countries adopting the <a href="/wiki/One_Watt_Initiative" title="One Watt Initiative">One Watt Initiative</a> now require new devices to use no more than 1&#160;W starting in 2010, and 0.5&#160;W in 2013.</p>
+<p>Although the power needed for functions such as displays, indicators, and remote control functions is relatively small, the large number of such devices and their being continuously plugged in resulted in energy usage before the One Watt regulations of 8 to 22 percent of all appliance consumption in different countries, 32 to 87 W,<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> and around 3–10 percent of total residential consumption. In Britain in 2004 standby modes on electronic devices accounted for 8% of all British residential power consumption.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> A similar study in France in 2000 found that standby power accounted for 7% of total residential consumption.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></p>
+<p>In 2004, the California Energy Commission produced a report containing typical standby and operational power consumption for 280 different household devices, including baby monitors and toothbrush chargers.<sup id="cite_ref-devtest_7-0" class="reference"><a href="#cite_note-devtest-7">[7]</a></sup></p>
+<p>Over a decade ago some electronics, such as microwaves, CRTs and VHS players used more standby power than appliances manufactured in the last 5 years. For a historical reference please see this article from the Economist.<sup id="cite_ref-econ_8-0" class="reference"><a href="#cite_note-econ-8">[8]</a></sup></p>
+<p>In the US the average home used an average of 11,040&#160;kWh of electricity per year in 2010.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> Each watt of power consumed by a device running continuously consumes about 9kWh (1&#160;W × 365.25&#160;days/year × 24&#160;hours/day) per year, a little less than one thousandth of the annual US household consumption. Unplugging a device constantly consuming standby power saves a yearly 9&#160;kWh for each watt of continuous consumption (saving $1 per year at average US rates<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>).</p>
+<p>Devices such as security systems, fire alarms, and <a href="/wiki/Digital_video_recorders" class="mw-redirect" title="Digital video recorders">digital video recorders</a> require continuous power to operate properly (though in the case of electric timers used to disconnect other devices on standby, they actually reduce total energy usage). The <a href="#Reducing_standby_consumption">Reducing Consumption section below</a> provides information on reducing standby power.</p>
+<h2><span class="mw-headline" id="Fire_risks">Fire risks</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Standby_power&amp;action=edit&amp;section=6" title="Edit section: Fire risks">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>There is a risk of fire from devices in standby mode. There are reports of televisions, in particular, catching fire in standby mode.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></p>
+<p>Before the development of modern semiconductor electronics it was not uncommon for devices, typically television receivers, to catch fire when plugged in but switched off,<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> sometimes when fully switched off rather than on standby. This is much less likely with modern equipment, but not impossible. Older <a href="/wiki/Cathode-ray_tube" class="mw-redirect" title="Cathode-ray tube">cathode-ray tube</a> display equipment (television and computer displays) had high voltages and currents, and were far more of a fire risk than thin panel LCD and other displays.</p>
+<p>Contributing factors for electrical fires include:</p>
+<ul>
+<li>Damp environments</li>
+<li><a href="/wiki/Lightning" title="Lightning">Lightning</a> strikes affecting building wiring</li>
+<li>Age of the appliance—older appliances are less well designed for safety, and may have deteriorated</li>
+</ul>
+<h2><span class="mw-headline" id="Policy">Policy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Standby_power&amp;action=edit&amp;section=7" title="Edit section: Policy">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote">For more details on this topic, see <a href="/wiki/One_Watt_Initiative" title="One Watt Initiative">One Watt Initiative</a>.</div>
+<p>The <a href="/wiki/One_Watt_Initiative" title="One Watt Initiative">One Watt Initiative</a> was launched by the <a href="/wiki/International_Energy_Agency" title="International Energy Agency">IEA</a> in 1999 to ensure through international cooperation that by 2010 all new appliances sold in the world only use one watt in standby mode. This would reduce CO<sub>2</sub> emissions by 50 million tons in the OECD countries alone by 2010.</p>
+<p>In July 2001 <a href="/wiki/United_States" title="United States">U.S.</a> President <a href="/wiki/George_W._Bush" title="George W. Bush">George W. Bush</a> signed an <a href="/wiki/Executive_order_(United_States)" class="mw-redirect" title="Executive order (United States)">Executive Order</a> directing federal agencies to "purchase products that use no more than one watt in their standby power consuming mode".<sup id="cite_ref-USExecutiveOrder_13-0" class="reference"><a href="#cite_note-USExecutiveOrder-13">[13]</a></sup></p>
+<p>In July 2007 California's 2005 appliance standards came into effect, limiting external power supply standby power to 0.5 watts.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup></p>
+<p>On 6 January 2010 the <a href="/wiki/European_Commission" title="European Commission">European Commission</a> (EC) <a href="/wiki/Regulation_No_1275/2008" class="mw-redirect" title="Regulation No 1275/2008">Regulation No 1275/2008</a> came into force. The regulations mandate that from 6 January 2010 "off mode" and standby power for electrical and electronic household and ofﬁce equipment shall not exceed 1W, "standby plus" power (providing information or status display in addition to possible reactivation function) shall not exceed 2W. Equipment must where appropriate provide off mode and/or standby mode when the equipment is connected to the mains power source. These figures were halved on 6 January 2013.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup></p>
+<h2><span class="mw-headline" id="Determining_standby_power">Determining standby power</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Standby_power&amp;action=edit&amp;section=8" title="Edit section: Determining standby power">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Identifying_devices">Identifying devices</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Standby_power&amp;action=edit&amp;section=9" title="Edit section: Identifying devices">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The following types of devices consume standby power.</p>
+<ul>
+<li><a href="/wiki/Transformer" title="Transformer">Transformers</a> for voltage conversion.</li>
+<li><a href="/wiki/Wall_wart" class="mw-redirect" title="Wall wart">Wall wart</a> power supplies powering devices that are switched off.</li>
+<li>Many devices with "instant-on" functions that respond immediately to user action without warm-up delay.</li>
+<li>Electronic and electrical devices in standby mode that can be woken by a remote control, e.g. some air conditioners, audio-visual equipment such as a <a href="/wiki/Television" title="Television">television</a> receiver</li>
+<li>Electronic and electrical devices that can carry out some functions even when switched off, e.g. with an electrically powered timer. Most modern <a href="/wiki/Computer" title="Computer">computers</a> consume standby power, allowing them to be woken remotely (by <a href="/wiki/Wake_on_LAN" class="mw-redirect" title="Wake on LAN">Wake on LAN</a>, etc.) or at a specified time. These functions are always enabled even if not needed; power can be saved by disconnecting from mains (sometimes by a switch on the back), but only if functionality is not needed.</li>
+<li><a href="/wiki/Uninterruptible_power_supplies" class="mw-redirect" title="Uninterruptible power supplies">Uninterruptible power supplies</a> (UPS)</li>
+</ul>
+<p>Other devices consume standby power which is required for normal functioning that cannot be saved by switching off when not in use. For these devices electricity can only be saved by choosing units with minimal permanent power consumption:</p>
+<ul>
+<li>Cordless telephones and answering machines</li>
+<li>Timers that operate devices</li>
+<li>Security systems and fire alarms</li>
+<li>Transformer-powered doorbells</li>
+<li>Programmable thermostats</li>
+<li>Motion sensors, light sensors, built-in timers and automatic sprinklers</li>
+</ul>
+<h3><span class="mw-headline" id="Estimating_standby_power">Estimating standby power</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Standby_power&amp;action=edit&amp;section=10" title="Edit section: Estimating standby power">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Standby power consumption can be estimated using tables of standby power used by typical devices,<sup id="cite_ref-LBLMeasureHome_16-0" class="reference"><a href="#cite_note-LBLMeasureHome-16">[16]</a></sup> although standby power used by appliances of the same class vary extremely widely (for a CRT computer display standby power is listed at a minimum of 1.6&#160;W, maximum 74.5&#160;W). Total standby power can be estimated by measuring total house power with all devices standing by, then disconnected,<sup id="cite_ref-LBLMeasureHome_16-1" class="reference"><a href="#cite_note-LBLMeasureHome-16">[16]</a></sup><sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup> but this method is inaccurate and subject to large errors and uncertainties.<sup id="cite_ref-devtest_7-1" class="reference"><a href="#cite_note-devtest-7">[7]</a></sup></p>
+<h3><span class="mw-headline" id="Measuring_standby_power">Measuring standby power</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Standby_power&amp;action=edit&amp;section=11" title="Edit section: Measuring standby power">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The power wasted in standby must go somewhere; it is dissipated as heat. The temperature, or simply perceived warmth, of a device on standby long enough to reach a stable temperature gives some idea of power wasted.</p>
+<p>For most home applications, wattmeters give a good indication of energy used, and some indication of standby consumption.</p>
+<p>A <a href="/wiki/Wattmeter" title="Wattmeter">wattmeter</a> is used to measure electrical power. Inexpensive plugin wattmeters, sometimes described as energy monitors, are available from prices of around <a href="/wiki/US$" class="mw-redirect" title="US$">US$</a>10. Some more expensive models for home use have remote display units. In the USA wattmeters can often also be borrowed from local power authorities<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup> or a local public library.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup><sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup> Although accuracy of measurement of low AC current and quantities derived from it, such as power, is often poor, these devices are nevertheless indicative of standby power,<sup id="cite_ref-ll_21-0" class="reference"><a href="#cite_note-ll-21">[21]</a></sup> if sensitive enough to register it. Some home power monitors simply specify an error figure such as 0.2%, without specifying the parameter subject to this error (e.g., voltage, easy to measure), and without qualification.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup> Errors of measurement at the low standby powers used from about 2010 (i.e., less than a few watts) may be a very large percentage of the actual value—accuracy is poor.<sup id="cite_ref-ll_21-1" class="reference"><a href="#cite_note-ll-21">[21]</a></sup> Modification of such meters to read standby power has been described and discussed in detail (with <a href="/wiki/Oscilloscope" title="Oscilloscope">oscilloscope</a> waveforms and measurements).<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup> Essentially, the meter's shunt <a href="/wiki/Resistor" title="Resistor">resistor</a>, used to generate a voltage proportional to load current, is replaced by one of value typically 100 times larger, with protective diodes. Readings of the modified meter have to be multiplied by the resistance factor (e.g. 100), and maximum measurable power is reduced by the same factor.</p>
+<p>Professional equipment capable of but not specifically designed for low-power measurements clarifies typically that the error is a percentage of <i>full-scale</i> value, or a percentage of reading plus a fixed amount, and valid only within certain limits.</p>
+<p>In practice, accuracy of measurements by meters with poor performance at low power levels can be improved by measuring the power drawn by a fixed load such as an incandescent light bulb, adding the standby device, and calculating the difference in power consumption.<sup id="cite_ref-ll_21-2" class="reference"><a href="#cite_note-ll-21">[21]</a></sup></p>
+<p>Less expensive wattmeters may be subject to significant inaccuracy at low current (power). They are often subject to other errors due to their mode of operation:</p>
+<ul>
+<li>If the load is highly <a href="/wiki/Electrical_reactance" title="Electrical reactance">reactive</a>, the power shown by some meters may be inaccurate. Meters capable of displaying power factor do not have this problem.</li>
+<li>Many AC meters are designed to give readings that are only meaningful for the sinusoidal waveforms of normal ac power. Waveforms for <a href="/wiki/Switched-mode_power_supplies" class="mw-redirect" title="Switched-mode power supplies">switched-mode power supplies</a> as used in much <a href="/wiki/Electronic_equipment" class="mw-redirect" title="Electronic equipment">electronic equipment</a> may be very far from sinusoidal, causing power readings of such meters to be meaningless. Meters specified to read "RMS power" do not have this problem.</li>
+</ul>
+<p>Laboratory-grade equipment designed for low power measurement, which costs from several hundreds of <a href="/wiki/US_dollar" class="mw-redirect" title="US dollar">US dollars</a> and is much larger than simple domestic meters, can measure power down to very low values without any of these effects. The US <a href="/wiki/Independent_Electrical_Contractors" title="Independent Electrical Contractors">IEC</a> 62301 recommendation for measurements of active power is that power of 0.5&#160;W or greater shall be made with an uncertainty of 2%. Measurements of less than 0.5&#160;W shall be made with an uncertainty of 0.01&#160;W. The power measurement instrument shall have a resolution of 0.01&#160;W or better.<sup id="cite_ref-devtest_7-2" class="reference"><a href="#cite_note-devtest-7">[7]</a></sup><sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup></p>
+<p>Even with laboratory-grade equipment measurement of standby power has its problems. There are two basic ways of connecting equipment to measure power; one measures the correct voltage, but the current is wrong; the error is negligibly small for relatively high currents, but becomes large for the small currents typical of standby—in a typical case a standby power of 100&#160;mW would be overestimated by over 50%. The other connection gives a small error in the voltage but accurate current, and reduces the error at low power by a factor of 5000. A laboratory meter intended for measurement of higher powers may be susceptible to this error.<sup id="cite_ref-appnote102_25-0" class="reference"><a href="#cite_note-appnote102-25">[25]</a></sup> Another issue is the possibility of measuring equipment damage if in a very sensitive range capable of measuring a few milliamps; if the device being measured comes out of standby and draws several amps, the meter can be damaged unless it is protected.<sup id="cite_ref-appnote102_25-1" class="reference"><a href="#cite_note-appnote102-25">[25]</a></sup></p>
+<ul class="gallery mw-gallery-traditional">
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:32.5px auto;"><a href="/wiki/File:Standby_indicator.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Standby_indicator.jpg/120px-Standby_indicator.jpg" width="120" height="85" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Standby_indicator.jpg/180px-Standby_indicator.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Standby_indicator.jpg/240px-Standby_indicator.jpg 2x" data-file-width="1225" data-file-height="872" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Standby Indicator</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:30px auto;"><a href="/wiki/File:Power_supply1.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Power_supply1.jpg/120px-Power_supply1.jpg" width="120" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Power_supply1.jpg/180px-Power_supply1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Power_supply1.jpg/240px-Power_supply1.jpg 2x" data-file-width="2592" data-file-height="1944" /></a></div>
+</div>
+<div class="gallerytext">
+<p>DC Power adaptor</p>
+</div>
+</div>
+</li>
+</ul>
+<h2><span class="mw-headline" id="Reducing_standby_consumption">Reducing standby consumption</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Standby_power&amp;action=edit&amp;section=12" title="Edit section: Reducing standby consumption">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Operating_practices">Operating practices</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Standby_power&amp;action=edit&amp;section=13" title="Edit section: Operating practices">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Some equipment has a quick-start mode; standby power is eliminated if this mode is not used. Video game consoles often use power when they are turned off, but the standby power can be further reduced if the correct options are set. For example, a <a href="/wiki/Wii" title="Wii">Wii</a> console can go from 18 watts to 8 watts to 1 watt by turning off the WiiConnect24 and Standby Connection options.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup><sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[27]</a></sup></p>
+<p>Devices that have rechargeable batteries and are always plugged in use standby power even if the battery is fully charged. Corded appliances such as vacuum cleaners, <a href="/wiki/Electric_razor" title="Electric razor">electric razors</a>, and simple telephones do not need a standby mode and do not consume the standby power that cordless equivalents do.</p>
+<p>Older devices with power adapters that are large and are warm to the touch use several watts of power. Newer power adapters that are lightweight and are not warm to the touch may use less than one watt.</p>
+<p>Standby power consumption can be reduced by unplugging or totally switching off, if possible, devices with a standby mode not currently in use; if several devices are used together or only when a room is occupied, they can be connected to a single <a href="/wiki/Power_strip" title="Power strip">power strip</a> that is switched off when not needed. This may cause some electronic devices, particularly older ones, to lose their configuration settings.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Socket_5.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Socket_5.jpg/220px-Socket_5.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Socket_5.jpg/330px-Socket_5.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Socket_5.jpg/440px-Socket_5.jpg 2x" data-file-width="2592" data-file-height="1944" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Socket_5.jpg" class="internal" title="Enlarge"></a></div>
+A switchable power strip or power bar</div>
+</div>
+</div>
+<p>Timers can be used to turn off standby power to devices that are unused on a regular schedule. Switches that turn the power off when the connected device goes into standby,<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[28]</a></sup> or that turn other outlets on or off when a device is turned on or off are also available. Switches can be activated by sensors. <a href="/wiki/Home_automation" title="Home automation">Home automation</a> sensors, switches and controllers can be used to handle more complex sensing and switching. This produces a net saving of power so long as the control devices themselves use less power than the controlled equipment in standby mode.<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">[29]</a></sup><sup id="cite_ref-30" class="reference"><a href="#cite_note-30">[30]</a></sup></p>
+<p>Standby power consumption of some computers can be reduced by turning off components that use power in standby mode. For instance, disabling <a href="/wiki/Wake-on-LAN" title="Wake-on-LAN">Wake-on-LAN</a> (WoL),<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">[31]</a></sup> "wake on modem", "wake on keyboard" or "wake on USB" may reduce power when in standby. Unused features may be disabled in the computer's <a href="/wiki/BIOS" title="BIOS">BIOS</a> setup to save power.</p>
+<p>Devices were introduced in 2010 that allow the remote controller for equipment to be used to totally switch off power to everything plugged into a power strip. It was claimed in the UK that this could save £30, more than the price of the device, in one year.<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">[32]</a></sup></p>
+<h3><span class="mw-headline" id="Equipment_efficiency">Equipment efficiency</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Standby_power&amp;action=edit&amp;section=14" title="Edit section: Equipment efficiency">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>As users of energy and government authorities have become aware of the need not to waste energy, more attention is being paid to the electrical <a href="/wiki/Efficiency" title="Efficiency">efficiency</a> of devices (fraction of power consumed that achieves functionality, rather than waste heat); this affects all aspects of equipment, including standby power. Standby power use can be decreased both by attention to circuit design and by improved technology. Programs directed at consumer electronics have stimulated manufacturers to cut standby power use in many products. It is probably technically feasible to reduce standby power by 75% overall; most savings will be less than a watt, but other cases will be as large as 10 watts.<sup id="cite_ref-33" class="reference"><a href="#cite_note-33">[33]</a></sup></p>
+<p>For example, a commercially available computer in Wake on LAN standby typically consumed 2 to 8 watts of standby power as of 2011<sup class="plainlinks noprint asof-tag update" style="display:none;"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Standby_power&amp;action=edit">[update]</a></sup>, but it was possible to design much more efficient circuitry: a purpose-designed microcontroller can reduce total system power to under 0.5W, with the microcontroller itself contributing 42&#160;mW.<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">[34]</a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Standby_power&amp;action=edit&amp;section=15" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a href="/wiki/File:Crystal_energy.svg" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/29px-Crystal_energy.svg.png" width="29" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/44px-Crystal_energy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/59px-Crystal_energy.svg.png 2x" data-file-width="130" data-file-height="124" /></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Energy" title="Portal:Energy">Energy portal</a></span></li>
+</ul>
+</div>
+<ul>
+<li><a href="/wiki/Green_computing" title="Green computing">Green computing</a></li>
+<li><a href="/wiki/List_of_energy_storage_projects" title="List of energy storage projects">List of energy storage projects</a></li>
+<li><a href="/wiki/Low-power_electronics" title="Low-power electronics">Low-power electronics</a></li>
+<li><a href="/wiki/Miscellaneous_electric_load" title="Miscellaneous electric load">Miscellaneous electric load</a></li>
+<li><a href="/wiki/AC_adapter" title="AC adapter">AC adapter</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Standby_power&amp;action=edit&amp;section=16" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-lblfaq-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-lblfaq_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-lblfaq_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://standby.lbl.gov/faq.html">US Lawrence Livermore laboratory, Frequently-asked questions</a></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">US Department of Energy, <a rel="nofollow" class="external text" href="http://www1.eere.energy.gov/consumer/tips/home_office.html">"Home Office and Home Electronics,"</a> 15 Jan 2008, Accessed on: 7 May 2008.</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation journal"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/1/hi/programmes/click_online/4929594.stm">"Energy cost of PCs on standby"</a>. London: BBC 7. April 2006<span class="reference-accessdate">. Retrieved <span class="nowrap">2006-08-09</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStandby+power&amp;rft.atitle=Energy+cost+of+PCs+on+standby&amp;rft.date=2006-04&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2F1%2Fhi%2Fprogrammes%2Fclick_online%2F4929594.stm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.energy.unsw.edu.au/NewsInfoStandbyPower.shtml">accessed 18.08.2008</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20080720174525/http://www.energy.unsw.edu.au/NewsInfoStandbyPower.shtml">Archived</a> July 20, 2008, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://webarchive.nationalarchives.gov.uk/20090609003228/http://www.berr.gov.uk/files/file31890.pdf">"Energy review 2006, Department of Trade and Industry, UK"</a> <span style="font-size:85%;">(PDF)</span>. Archived from <a rel="nofollow" class="external text" href="http://www.berr.gov.uk/files/file31890.pdf">the original</a> <span style="font-size:85%;">(PDF)</span> on 2009-06-09.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStandby+power&amp;rft.btitle=Energy+review+2006%2C+Department+of+Trade+and+Industry%2C+UK&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.berr.gov.uk%2Ffiles%2Ffile31890.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20070706120640/http://standby.lbl.gov/ACEEE/StandbyPaper.pdf">"Standby Power Use: How Big is the Problem? What Policies and Technical Solutions Can Address It?"</a> <span style="font-size:85%;">(PDF)</span>. Archived from <a rel="nofollow" class="external text" href="http://standby.lbl.gov/ACEEE/StandbyPaper.pdf">the original</a> <span style="font-size:85%;">(PDF)</span> on 2007-07-06.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStandby+power&amp;rft.btitle=Standby+Power+Use%3A+How+Big+is+the+Problem%3F+What+Policies+and+Technical+Solutions+Can+Address+It%3F&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fstandby.lbl.gov%2FACEEE%2FStandbyPaper.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-devtest-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-devtest_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-devtest_7-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-devtest_7-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.energy.ca.gov/reports/2004-10-13_500-04-057.PDF">Developing and Testing Low Power Mode Measurement Methods, prepared by Lawrence Berkeley National Laboratory for California Energy Commission Public Interest Energy Research Program, 2004</a></span></li>
+<li id="cite_note-econ-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-econ_8-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.economist.com/displaystory.cfm?story_id=5571582">Pulling the plug on standby power</a>, Mar 9, 2006, <a href="/wiki/The_Economist" title="The Economist">The Economist</a></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation journal"><a rel="nofollow" class="external text" href="http://www.eia.doe.gov/ask/electricity_faqs.asp#electricity_use_home">"Frequently Asked Questions – Electricity"</a>. U.S. Energy Information Administration. July 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">Jan 6,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStandby+power&amp;rft.atitle=Frequently+Asked+Questions+%93+Electricity&amp;rft.date=2010-07&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.eia.doe.gov%2Fask%2Felectricity_faqs.asp%23electricity_use_home&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.npr.org/sections/money/2011/10/27/141766341/the-price-of-electricity-in-your-state">"The Price Of Electricity In Your State"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2015-08-01</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStandby+power&amp;rft.btitle=The+Price+Of+Electricity+In+Your+State&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.npr.org%2Fsections%2Fmoney%2F2011%2F10%2F27%2F141766341%2Fthe-price-of-electricity-in-your-state&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation journal"><a rel="nofollow" class="external text" href="https://web.archive.org/web/*/http://www.dti.gov.uk/homesafetynetwork/pdf/tvdetail.pdf">"Causes of fires involving television sets in dwellings."</a> <span style="font-size:85%;">(PDF)</span>. London: Department of Trade and Industry. April 2001<span class="reference-accessdate">. Retrieved <span class="nowrap">2006-08-09</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStandby+power&amp;rft.atitle=Causes+of+fires+involving+television+sets+in+dwellings.&amp;rft.date=2001-04&amp;rft.genre=article&amp;rft_id=https%3A%2F%2Fweb.archive.org%2Fweb%2F%2A%2Fhttp%3A%2F%2Fwww.dti.gov.uk%2Fhomesafetynetwork%2Fpdf%2Ftvdetail.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://news.google.com/newspapers?nid=1298&amp;dat=19740429&amp;id=3N9NAAAAIBAJ&amp;sjid=CIsDAAAAIBAJ&amp;pg=1886,256339">Free Lance-Start newspaper, 29 April 1974</a>"Unplug the TV set before going to bed"</span></li>
+<li id="cite_note-USExecutiveOrder-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-USExecutiveOrder_13-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://georgewbush-whitehouse.archives.gov/news/releases/2001/07/20010731-10.html">Executive Order – Energy Efficient Standby Power Devices</a>, July 2001, <a href="/wiki/The_White_House" class="mw-redirect" title="The White House">The White House</a></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.fypower.org/news/?p=1386">http://www.fypower.org/news/?p=1386</a></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.bis.gov.uk/assets/bispartners/nmo/docs/eup/leaflets//standby-and-off-leaflet.pdf">BIS department, UK: Standby and off leaflet</a></span></li>
+<li id="cite_note-LBLMeasureHome-16"><span class="mw-cite-backlink">^ <a href="#cite_ref-LBLMeasureHome_16-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-LBLMeasureHome_16-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://standby.lbl.gov/summary-table.html">"Measuring Standby Power in Your Home"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2008-09-20</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStandby+power&amp;rft.btitle=Measuring+Standby+Power+in+Your+Home&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fstandby.lbl.gov%2Fsummary-table.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.kouba-cavallo.com/phantom.html">http://www.kouba-cavallo.com/phantom.html</a></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.austinutilities.com/pages/residential_audit_watts.asp">Austin Utilities – Residential – Home Energy Audit – Watts Up</a></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.mge.com/home/saving/energymeter.htm">Portable Energy Meter</a></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://wattsupmeters.com/secure/support.php?pn=12#q21">Watts up? Support: FAQs</a></span></li>
+<li id="cite_note-ll-21"><span class="mw-cite-backlink">^ <a href="#cite_ref-ll_21-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-ll_21-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-ll_21-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://standby.lbl.gov/measure.html">US Lawrence Livermore laboratory, Standby Power, measuring standby</a></span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://www.p3international.com/products/special/P4400/P4400-CE.html">[1]</a></span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.eevblog.com/forum/projects/measuring-standby-power/">Measuring standby power</a></span></li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.energystar.gov/ia/partners/prod_development/downloads/power_supplies/EPSupplyEffic_TestMethod_0804.pdf">Test Method for Calculating the Energy Efficiency of Single-Voltage External Ac-Dc and Ac-Ac Power Supplies, funded by California Energy Commission, 2004</a></span></li>
+<li id="cite_note-appnote102-25"><span class="mw-cite-backlink">^ <a href="#cite_ref-appnote102_25-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-appnote102_25-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.merestechnika.com/pdf-docs/zes_applicat_102_standby_power_e.pdf">ZES Zimmer Application Note 102: Measurement of standby power and energy efficiency</a></span></li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><cite class="citation journal"><a rel="nofollow" class="external text" href="https://www.nintendo.com/consumer/systems/wii/en_na/settingsWiiConnect24.jsp#standby">"WiiConnect24"</a>. Nintendo. 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">Jan 6,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStandby+power&amp;rft.atitle=WiiConnect24&amp;rft.date=2010&amp;rft.genre=article&amp;rft_id=https%3A%2F%2Fwww.nintendo.com%2Fconsumer%2Fsystems%2Fwii%2Fen_na%2FsettingsWiiConnect24.jsp%23standby&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><cite class="citation journal"><a rel="nofollow" class="external text" href="http://techforums.nintendo.com/message/1997#1997">"Having the Wii turned off but in Standby Mode"</a>. Nintendo Discussions. April 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">Jan 6,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStandby+power&amp;rft.atitle=Having+the+Wii+turned+off+but+in+Standby+Mode&amp;rft.date=2010-04&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Ftechforums.nintendo.com%2Fmessage%2F1997%231997&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.nomorestandby.com">no the Standby Plug, a standby cut off switch from Scotland</a></span></li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://bitsltd.net/SalesCD/Site/Smart%20Strip%20vs%20Others.htm">http://bitsltd.net/SalesCD/Site/Smart%20Strip%20vs%20Others.htm</a> Energy Saving Power Strips Comparison by a vendor of SmartStrip, accessed January 26, 2009</span></li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.nomorestandby.com/faq.htm">the Standby Plug FAQ, accessed January 26, 2009</a></span></li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.lesswatts.org/tips/ethernet.php">LessWatts.org – Saving Power on Intel systems with Linux</a></span></li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.britishgas.co.uk/products-and-services/energy-savers/standby-power-savers/TV.html">Standby power saver—uses device remote control to power down equipment</a></span></li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://standby.lbl.gov/faq.html">US Lawrence Berkeley National Laboratory, Frequently Asked Questions on Standby Power</a></span></li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.silabs.com/products/mcu/Pages/Wake-on-LAN.aspx">Silicon Labs: Low Power Wake-on-LAN Challenges and Solutions</a></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Standby_power&amp;action=edit&amp;section=17" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://standby.lbl.gov/">Standby Power Home Page</a>, <a href="/wiki/Lawrence_Berkeley_National_Laboratory" title="Lawrence Berkeley National Laboratory">Lawrence Berkeley National Laboratory</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.energystar.gov/">Official Energy Star Website</a>, <a href="/wiki/Energy_Star" title="Energy Star">Energy Star</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.energymanagertraining.com/StandbyPower/main.htm">International Conference on Standby Power, New Delhi INDIA</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.wagonmaker.com/chapter_3.html">“Phantom Loads”</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.stretcher.com/stories/990913l.cfm">“Is a Phantom Stealing Your Electricity?”</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.planetark.com/dailynewsstory.cfm/newsid/49257/story.htm">EU States Endorse Steps to Cut Standby Power Use</a></li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1210
+Cached time: 20170130035214
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.184 seconds
+Real time usage: 0.244 seconds
+Preprocessor visited node count: 1057/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 18711/2097152 bytes
+Template argument size: 877/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 4/500
+Lua time usage: 0.070/10.000 seconds
+Lua memory usage: 3.62 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  207.834      1 -total
+ 41.60%   86.451      1 Template:Reflist
+ 20.30%   42.193      5 Template:Cite_journal
+ 15.57%   32.357      1 Template:Citation_needed
+ 13.87%   28.832      1 Template:Fix
+  9.78%   20.333      1 Template:For
+  7.46%   15.499      2 Template:Category_handler
+  6.62%   13.766      4 Template:Cite_web
+  5.98%   12.426      1 Template:As_of
+  5.37%   11.167      1 Template:Delink
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:4739163-0!*!0!!en!4!* and timestamp 20170130035214 and revision id 750053591
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Standby_power&amp;oldid=750053591">https://en.wikipedia.org/w/index.php?title=Standby_power&amp;oldid=750053591</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Electricity" title="Category:Electricity">Electricity</a></li><li><a href="/wiki/Category:Energy_conservation" title="Category:Energy conservation">Energy conservation</a></li><li><a href="/wiki/Category:Environmental_impact_of_the_energy_industry" title="Category:Environmental impact of the energy industry">Environmental impact of the energy industry</a></li><li><a href="/wiki/Category:Electronics_and_the_environment" title="Category:Electronics and the environment">Electronics and the environment</a></li><li><a href="/wiki/Category:Electric_power" title="Category:Electric power">Electric power</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_November_2016" title="Category:Articles with unsourced statements from November 2016">Articles with unsourced statements from November 2016</a></li><li><a href="/wiki/Category:Articles_containing_potentially_dated_statements_from_2011" title="Category:Articles containing potentially dated statements from 2011">Articles containing potentially dated statements from 2011</a></li><li><a href="/wiki/Category:All_articles_containing_potentially_dated_statements" title="Category:All articles containing potentially dated statements">All articles containing potentially dated statements</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Standby+power" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Standby+power" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Standby_power"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Standby_power"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Standby_power" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Standby_power&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Standby_power&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Standby_power" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Standby_power" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Standby_power&amp;oldid=750053591" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Standby_power&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q1366402" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Standby_power&amp;id=750053591" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Standby+power">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Standby+power&amp;returnto=Standby+power&amp;oldid=750053591&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Standby_power&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%B7%D8%A7%D9%82%D8%A9_%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%B9%D8%AF%D8%A7%D8%AF" title="طاقة الاستعداد – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Leerlaufverlust" title="Leerlaufverlust – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Stand_by" title="Stand by – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EB%8C%80%EA%B8%B0%EC%A0%84%EB%A0%A5" title="대기전력 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Sluipverbruik" title="Sluipverbruik – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E5%BE%85%E6%A9%9F%E9%9B%BB%E5%8A%9B" title="待機電力 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Stand_by" title="Stand by – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/S%C3%A4hk%C3%B6laitteiden_valmiustila" title="Sähkölaitteiden valmiustila – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q1366402#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 17 November 2016, at 16:07.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Standby_power&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.184","walltime":"0.244","ppvisitednodes":{"value":1057,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":18711,"limit":2097152},"templateargumentsize":{"value":877,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  207.834      1 -total"," 41.60%   86.451      1 Template:Reflist"," 20.30%   42.193      5 Template:Cite_journal"," 15.57%   32.357      1 Template:Citation_needed"," 13.87%   28.832      1 Template:Fix","  9.78%   20.333      1 Template:For","  7.46%   15.499      2 Template:Category_handler","  6.62%   13.766      4 Template:Cite_web","  5.98%   12.426      1 Template:As_of","  5.37%   11.167      1 Template:Delink"]},"scribunto":{"limitreport-timeusage":{"value":"0.070","limit":"10.000"},"limitreport-memusage":{"value":3794190,"limit":52428800}},"cachereport":{"origin":"mw1210","timestamp":"20170130035214","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":316,"wgHostname":"mw1210"});});</script>
+	</body>
+</html>

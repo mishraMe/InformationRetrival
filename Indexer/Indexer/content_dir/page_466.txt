@@ -1,0 +1,1017 @@
+url : https://en.wikipedia.org/wiki/Green_computing
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Green computing - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Green_computing","wgTitle":"Green computing","wgCurRevisionId":760666386,"wgRevisionId":760666386,"wgArticleId":1661475,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 errors: dates","All articles with dead external links","Articles with dead external links from November 2016","Articles with permanently dead external links","Articles with dead external links from June 2016","Pages using ISBN magic links","Articles to be merged from January 2015","All articles to be merged","All articles with unsourced statements","Articles with unsourced statements from May 2010","Articles with unsourced statements from May 2008","Sustainable technologies","Computers and the environment"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Green_computing","wgRelevantArticleId":1661475,"wgRequestId":"WI7Z5QpAME4AAB3ytRcAAABV","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q1064746","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.9"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Green_computing"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Green_computing&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Green_computing&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Green_computing"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Green_computing rootpage-Green_computing skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Green computing</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><table class="plainlinks metadata ambox ambox-move" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Mergefrom.svg/50px-Mergefrom.svg.png" width="50" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Mergefrom.svg/75px-Mergefrom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Mergefrom.svg/100px-Mergefrom.svg.png 2x" data-file-width="50" data-file-height="20" /></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">It has been suggested that <i><a href="/wiki/Green_information_system" title="Green information system">Green information system</a></i> be <a href="/wiki/Wikipedia:Merging" title="Wikipedia:Merging">merged</a> into this article. (<a href="/wiki/Talk:Green_computing#Proposed_merge_with_Green_information_system" title="Talk:Green computing">Discuss</a>) <small><i>Proposed since January 2015.</i></small></span></td>
+</tr>
+</table>
+<p><b>Green computing</b>, <b>Green ICT</b> as per IFG International Federation of Green ICT and IFG Standard, <b>green IT</b>, or <b>ICT sustainability</b>, is the study and practice of environmentally sustainable computing or IT.</p>
+<p>The goals of green computing are similar to <a href="/wiki/Green_chemistry" title="Green chemistry">green chemistry</a>: reduce the use of hazardous materials, maximize <a href="/wiki/Efficient_energy_use" title="Efficient energy use">energy efficiency</a> during the product's lifetime, and promote the <a href="/wiki/Recycling" title="Recycling">recyclability</a> or <a href="/wiki/Biodegradation" title="Biodegradation">biodegradability</a> of defunct products and factory waste. Green computing is important for all classes of systems, ranging from handheld systems<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> to large-scale data centers.<sup id="cite_ref-ReferenceGCS9_2-0" class="reference"><a href="#cite_note-ReferenceGCS9-2">[2]</a></sup></p>
+<p>Many corporate IT departments have green computing initiatives to reduce the environmental effect of their IT operations.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></p>
+<div class="toclimit-3">
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Origins"><span class="tocnumber">1</span> <span class="toctext">Origins</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Regulations_and_industry_initiatives"><span class="tocnumber">2</span> <span class="toctext">Regulations and industry initiatives</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Government"><span class="tocnumber">2.1</span> <span class="toctext">Government</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Industry"><span class="tocnumber">2.2</span> <span class="toctext">Industry</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Approaches"><span class="tocnumber">3</span> <span class="toctext">Approaches</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Product_longevity"><span class="tocnumber">3.1</span> <span class="toctext">Product longevity</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Data_center_design"><span class="tocnumber">3.2</span> <span class="toctext">Data center design</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Software_and_deployment_optimization"><span class="tocnumber">3.3</span> <span class="toctext">Software and deployment optimization</span></a>
+<ul>
+<li class="toclevel-3 tocsection-9"><a href="#Algorithmic_efficiency"><span class="tocnumber">3.3.1</span> <span class="toctext">Algorithmic efficiency</span></a></li>
+<li class="toclevel-3 tocsection-10"><a href="#Resource_allocation"><span class="tocnumber">3.3.2</span> <span class="toctext">Resource allocation</span></a></li>
+<li class="toclevel-3 tocsection-11"><a href="#Virtualizing"><span class="tocnumber">3.3.3</span> <span class="toctext">Virtualizing</span></a></li>
+<li class="toclevel-3 tocsection-12"><a href="#Terminal_servers"><span class="tocnumber">3.3.4</span> <span class="toctext">Terminal servers</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-13"><a href="#Power_management"><span class="tocnumber">3.4</span> <span class="toctext">Power management</span></a>
+<ul>
+<li class="toclevel-3 tocsection-14"><a href="#Data_center_power"><span class="tocnumber">3.4.1</span> <span class="toctext">Data center power</span></a></li>
+<li class="toclevel-3 tocsection-15"><a href="#Operating_system_support"><span class="tocnumber">3.4.2</span> <span class="toctext">Operating system support</span></a></li>
+<li class="toclevel-3 tocsection-16"><a href="#Power_supply"><span class="tocnumber">3.4.3</span> <span class="toctext">Power supply</span></a></li>
+<li class="toclevel-3 tocsection-17"><a href="#Storage"><span class="tocnumber">3.4.4</span> <span class="toctext">Storage</span></a></li>
+<li class="toclevel-3 tocsection-18"><a href="#Video_card"><span class="tocnumber">3.4.5</span> <span class="toctext">Video card</span></a></li>
+<li class="toclevel-3 tocsection-19"><a href="#Display"><span class="tocnumber">3.4.6</span> <span class="toctext">Display</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-20"><a href="#Materials_recycling"><span class="tocnumber">3.5</span> <span class="toctext">Materials recycling</span></a></li>
+<li class="toclevel-2 tocsection-21"><a href="#Cloud_computing"><span class="tocnumber">3.6</span> <span class="toctext">Cloud computing</span></a></li>
+<li class="toclevel-2 tocsection-22"><a href="#Telecommuting"><span class="tocnumber">3.7</span> <span class="toctext">Telecommuting</span></a></li>
+<li class="toclevel-2 tocsection-23"><a href="#Telecommunication_network_devices_energy_indices"><span class="tocnumber">3.8</span> <span class="toctext">Telecommunication network devices energy indices</span></a></li>
+<li class="toclevel-2 tocsection-24"><a href="#Supercomputers"><span class="tocnumber">3.9</span> <span class="toctext">Supercomputers</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-25"><a href="#Education_and_certification"><span class="tocnumber">4</span> <span class="toctext">Education and certification</span></a>
+<ul>
+<li class="toclevel-2 tocsection-26"><a href="#Green_computing_programs"><span class="tocnumber">4.1</span> <span class="toctext">Green computing programs</span></a></li>
+<li class="toclevel-2 tocsection-27"><a href="#Green_computing_certifications"><span class="tocnumber">4.2</span> <span class="toctext">Green computing certifications</span></a></li>
+<li class="toclevel-2 tocsection-28"><a href="#Blogs_and_Web_2.0_resources"><span class="tocnumber">4.3</span> <span class="toctext">Blogs and Web 2.0 resources</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-29"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-30"><a href="#Further_reading"><span class="tocnumber">6</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-31"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+</div>
+<h2><span class="mw-headline" id="Origins">Origins</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_computing&amp;action=edit&amp;section=1" title="Edit section: Origins">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:102px;"><a href="/wiki/File:Energy_Star_logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Energy_Star_logo.svg/100px-Energy_Star_logo.svg.png" width="100" height="102" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Energy_Star_logo.svg/150px-Energy_Star_logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Energy_Star_logo.svg/200px-Energy_Star_logo.svg.png 2x" data-file-width="1237" data-file-height="1266" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Energy_Star_logo.svg" class="internal" title="Enlarge"></a></div>
+Energy Star logo</div>
+</div>
+</div>
+<p>In 1992, the <a href="/wiki/United_States_Environmental_Protection_Agency" title="United States Environmental Protection Agency">U.S. Environmental Protection Agency</a> launched <a href="/wiki/Energy_Star" title="Energy Star">Energy Star</a>, a voluntary labeling program that is designed to promote and recognize energy-efficiency in monitors, climate control equipment, and other technologies. This resulted in the widespread adoption of <a href="/wiki/Sleep_mode" title="Sleep mode">sleep mode</a> among consumer electronics. Concurrently, the Swedish organization TCO Development launched the <a href="/wiki/TCO_Certification" class="mw-redirect" title="TCO Certification">TCO Certification</a> program to promote low magnetic and electrical emissions from <a href="/wiki/Cathode_ray_tube" title="Cathode ray tube">CRT</a>-based <a href="/wiki/Computer_display" class="mw-redirect" title="Computer display">computer displays</a>; this program was later expanded to include criteria on energy consumption, <a href="/wiki/Ergonomics" class="mw-redirect" title="Ergonomics">ergonomics</a>, and the use of hazardous materials in construction.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></p>
+<h2><span class="mw-headline" id="Regulations_and_industry_initiatives">Regulations and industry initiatives</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_computing&amp;action=edit&amp;section=2" title="Edit section: Regulations and industry initiatives">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The <a href="/wiki/Organisation_for_Economic_Co-operation_and_Development" title="Organisation for Economic Co-operation and Development">Organisation for Economic Co-operation and Development</a> (OECD) has published a survey of over 90 government and industry initiatives on "Green ICTs", i.e. information and communication technologies, the environment and climate change. The report concludes that initiatives tend to concentrate on the greening ICTs themselves rather than on their actual implementation to tackle global warming and environmental degradation. In general, only 20% of initiatives have measurable targets, with government programs tending to include targets more frequently than business associations.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></p>
+<h3><span class="mw-headline" id="Government">Government</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_computing&amp;action=edit&amp;section=3" title="Edit section: Government">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Many <a href="/wiki/Governmental" class="mw-redirect" title="Governmental">governmental</a> agencies have continued to implement standards and regulations that encourage green computing. The <a href="/wiki/Energy_Star" title="Energy Star">Energy Star</a> program was revised in October 2006 to include stricter efficiency requirements for computer equipment, along with a tiered ranking system for approved products.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></p>
+<p>By 2008, 26 US states established statewide recycling programs for obsolete computers and consumer electronics equipment.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> The statutes either impose an "advance recovery fee" for each unit sold at retail or require the manufacturers to reclaim the equipment at disposal.</p>
+<p>In 2010, the <a href="/wiki/American_Recovery_and_Reinvestment_Act" class="mw-redirect" title="American Recovery and Reinvestment Act">American Recovery and Reinvestment Act</a> (ARRA) was signed into legislation by President Obama. The bill allocated over $90 billion to be invested in green initiatives (renewable energy, smart grids, energy efficiency, etc.) In January 2010, the U.S. Energy Department granted $47 million of the ARRA money towards projects that aim to improve the energy efficiency of data centers. The projects provided research to optimize data center hardware and software, improve power supply chain, and <a href="/wiki/Computer_cooling" title="Computer cooling">data center cooling technologies</a>.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></p>
+<h3><span class="mw-headline" id="Industry">Industry</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_computing&amp;action=edit&amp;section=4" title="Edit section: Industry">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/wiki/Climate_Savers_Computing_Initiative" title="Climate Savers Computing Initiative">Climate Savers Computing Initiative</a> (CSCI) is an effort to reduce the electric power consumption of PCs in active and inactive states.<sup id="cite_ref-CSCI_pressrel_launch_10-0" class="reference"><a href="#cite_note-CSCI_pressrel_launch-10">[10]</a></sup> The CSCI provides a catalog of green products from its member organizations, and information for reducing PC power consumption. It was started on 2007-06-12. The name stems from the <a href="/wiki/World_Wildlife_Fund" class="mw-redirect" title="World Wildlife Fund">World Wildlife Fund</a>'s Climate Savers program, which was launched in 1999.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> The WWF is also a member of the Computing Initiative.<sup id="cite_ref-CSCI_pressrel_launch_10-1" class="reference"><a href="#cite_note-CSCI_pressrel_launch-10">[10]</a></sup></li>
+<li>The <a href="/wiki/Green_Electronics_Council" title="Green Electronics Council">Green Electronics Council</a> offers the <a href="/wiki/Electronic_Product_Environmental_Assessment_Tool" title="Electronic Product Environmental Assessment Tool">Electronic Product Environmental Assessment Tool</a> (EPEAT) to assist in the purchase of "greener" computing systems. The Council evaluates computing equipment on 51 criteria - 23 required and 28 optional - that measure a product's efficiency and sustainability attributes. Products are rated Gold, Silver, or Bronze, depending on how many optional criteria they meet. On 2007-01-24, President <a href="/wiki/George_W._Bush" title="George W. Bush">George W. Bush</a> issued Executive Order 13423, which requires all United States Federal agencies to use EPEAT when purchasing computer systems.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup><sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup></li>
+<li><a href="/wiki/The_Green_Grid" title="The Green Grid">The Green Grid</a> is a global consortium dedicated to advancing energy efficiency in data centers and business computing ecosystems. It was founded in February 2007 by several key companies in the industry&#160;– <a href="/wiki/AMD" class="mw-redirect" title="AMD">AMD</a>, <a href="/wiki/American_Power_Conversion" class="mw-redirect" title="American Power Conversion">APC</a>, <a href="/wiki/Dell" title="Dell">Dell</a>, <a href="/wiki/Hewlett-Packard" title="Hewlett-Packard">HP</a>, <a href="/wiki/IBM" title="IBM">IBM</a>, <a href="/wiki/Intel" title="Intel">Intel</a>, <a href="/wiki/Microsoft" title="Microsoft">Microsoft</a>, <a href="/wiki/Rackable_Systems" class="mw-redirect" title="Rackable Systems">Rackable Systems</a>, <a href="/w/index.php?title=SprayCool&amp;action=edit&amp;redlink=1" class="new" title="SprayCool (page does not exist)">SprayCool</a> (purchased in 2010 by <a rel="nofollow" class="external text" href="http://www.parker.com/portal/site/Market-Tech/menuitem.e9f921bc8ae21676de92b210237ad1ca/?vgnextoid=e7bfa7bee4a70310VgnVCM10000048021dacRCRD&amp;vgnextfmt=default">Parker</a>), <a href="/wiki/Sun_Microsystems" title="Sun Microsystems">Sun Microsystems</a> and <a href="/wiki/VMware" title="VMware">VMware</a>. The Green Grid has since grown to hundreds of members, including end-users and government organizations, all focused on improving <a href="/wiki/Data_center_infrastructure_efficiency" title="Data center infrastructure efficiency">data center infrastructure efficiency</a> (DCIE).</li>
+<li>The <a href="/wiki/Green500" class="mw-redirect" title="Green500">Green500</a> list rates supercomputers by energy efficiency (<a href="/wiki/Megaflops" class="mw-redirect" title="Megaflops">megaflops</a>/<a href="/wiki/Watt" title="Watt">watt</a>), encouraging a focus on efficiency rather than absolute performance.</li>
+<li><a href="/wiki/Green_Comm_Challenge" title="Green Comm Challenge">Green Comm Challenge</a> is an organization that promotes the development of energy conservation technology and practices in the field of Information and Communications Technology (ICT).</li>
+<li>The <a href="/wiki/Transaction_Processing_Performance_Council" title="Transaction Processing Performance Council">Transaction Processing Performance Council</a> (TPC) Energy specification augments existing TPC benchmarks by allowing optional publications of energy metrics alongside performance results.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup></li>
+<li><a href="/wiki/SPECpower" title="SPECpower">SPECpower</a> is the first industry standard benchmark that measures power consumption in relation to performance of satveer for server-class computers. Other benchmarks which measure energy efficiency include <a href="/w/index.php?title=SPECweb&amp;action=edit&amp;redlink=1" class="new" title="SPECweb (page does not exist)">SPECweb</a>, <a href="/wiki/SPECvirt" title="SPECvirt">SPECvirt</a>,<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup> and <a href="/wiki/VMmark" title="VMmark">VMmark</a>.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup></li>
+</ul>
+<h2><span class="mw-headline" id="Approaches">Approaches</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_computing&amp;action=edit&amp;section=5" title="Edit section: Approaches">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Modern <a href="/wiki/Information_technology" title="Information technology">IT</a> systems rely upon a complicated mix of people, networks, and hardware; as such, a green computing initiative must cover all of these areas as well. A solution may also need to address end user satisfaction, management restructuring, regulatory compliance, and return on investment (ROI). There are also considerable fiscal motivations for companies to take control of their own power consumption; "of the power management tools available, one of the most powerful may still be simple, plain, common sense."<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup></p>
+<h3><span class="mw-headline" id="Product_longevity">Product longevity</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_computing&amp;action=edit&amp;section=6" title="Edit section: Product longevity">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Gartner" title="Gartner">Gartner</a> maintains that the PC manufacturing process accounts for 70% of the natural resources used in the life cycle of a PC.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup> More recently, Fujitsu released a Life Cycle Assessment (LCA) of a desktop that show that manufacturing and end of life accounts for the majority of this desktop's ecological footprint.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup> Therefore, the biggest contribution to green computing usually is to prolong the equipment's lifetime. Another report from Gartner recommends to "Look for product longevity, including upgradability and modularity." <sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup> For instance, manufacturing a new PC makes a far bigger <a href="/wiki/Ecological_footprint" title="Ecological footprint">ecological footprint</a> than manufacturing a new <a href="/wiki/RAM" class="mw-redirect" title="RAM">RAM</a> module to upgrade an existing one.</p>
+<h3><span class="mw-headline" id="Data_center_design">Data center design</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_computing&amp;action=edit&amp;section=7" title="Edit section: Data center design">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Data center facilities are heavy consumers of energy, accounting for between 1.1% and 1.5% of the world’s total energy use in 2010 [1]. The U.S. Department of Energy estimates that data center facilities consume up to 100 to 200 times more energy than standard office buildings.<sup id="cite_ref-https:.2F.2Fenergy.gov_21-0" class="reference"><a href="#cite_note-https:.2F.2Fenergy.gov-21">[21]</a></sup></p>
+<p>Energy efficient data center design should address all of the energy use aspects included in a data center: from the IT equipment to the HVAC equipment to the actual location, configuration and construction of the building.</p>
+<p>The U.S. Department of Energy specifies five primary areas on which to focus energy efficient data center design best practices:<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup></p>
+<ul>
+<li>Information technology (IT) systems</li>
+<li>Environmental conditions</li>
+<li>Air management</li>
+<li>Cooling systems</li>
+<li>Electrical systems</li>
+</ul>
+<p>Additional energy efficient design opportunities specified by the U.S. Department of Energy include on-site electrical generation and recycling of waste heat.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup></p>
+<p>Energy efficient data center design should help to better utilize a data center’s space, and increase performance and efficiency.</p>
+<h3><span class="mw-headline" id="Software_and_deployment_optimization">Software and deployment optimization</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_computing&amp;action=edit&amp;section=8" title="Edit section: Software and deployment optimization">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="Algorithmic_efficiency">Algorithmic efficiency</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_computing&amp;action=edit&amp;section=9" title="Edit section: Algorithmic efficiency">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div role="note" class="hatnote">Main article: <a href="/wiki/Algorithmic_efficiency" title="Algorithmic efficiency">Algorithmic efficiency</a></div>
+<div role="note" class="hatnote">Further information: <a href="/wiki/Analysis_of_algorithms" title="Analysis of algorithms">Analysis of algorithms</a></div>
+<p>The efficiency of algorithms affects the amount of computer resources required for any given computing function and there are many efficiency trade-offs in writing programs. Algorithm changes, such as switching from a slow (e.g. linear) search algorithm to a fast (e.g. hashed or indexed) search algorithm can reduce resource usage for a given task from substantial to close to zero. In 2009, a study by a physicist at <a href="/wiki/Harvard" class="mw-redirect" title="Harvard">Harvard</a> estimated that the average Google search released 7&#160;grams of carbon dioxide (CO₂).<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup> However, Google disputed this figure, arguing instead that a typical search produced only 0.2&#160;grams of CO₂.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup></p>
+<h4><span class="mw-headline" id="Resource_allocation">Resource allocation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_computing&amp;action=edit&amp;section=10" title="Edit section: Resource allocation">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div role="note" class="hatnote">Main article: <a href="/wiki/Resource_allocation" title="Resource allocation">Resource allocation</a></div>
+<p>Algorithms can also be used to route data to data centers where electricity is less expensive. Researchers from MIT, Carnegie Mellon University, and Akamai have tested an energy allocation algorithm that successfully routes traffic to the location with the cheapest energy costs. The researchers project up to a 40 percent savings on energy costs if their proposed algorithm were to be deployed. However, this approach does not actually reduce the amount of energy being used; it reduces only the cost to the company using it. Nonetheless, a similar strategy could be used to direct traffic to rely on energy that is produced in a more environmentally friendly or efficient way. A similar approach has also been used to cut energy usage by routing traffic away from data centers experiencing warm weather; this allows computers to be shut down to avoid using air conditioning.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup></p>
+<p>Larger server centers are sometimes located where energy and land are inexpensive and readily available. Local availability of renewable energy, climate that allows outside air to be used for cooling, or locating them where the heat they produce may be used for other purposes could be factors in green siting decisions.</p>
+<p>Approaches to actually reduce the energy consumption of network devices by proper network/device management techniques are surveyed in.<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[27]</a></sup> The authors grouped the approaches into 4 main strategies, namely (i) Adaptive Link Rate (ALR), (ii) Interface Proxying, (iii) Energy Aware Infrastructure, and (iv) Energy Aware Applications.</p>
+<h4><span class="mw-headline" id="Virtualizing">Virtualizing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_computing&amp;action=edit&amp;section=11" title="Edit section: Virtualizing">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div role="note" class="hatnote">Main article: <a href="/wiki/Platform_virtualization" class="mw-redirect" title="Platform virtualization">Platform virtualization</a></div>
+<div role="note" class="hatnote">See also: <a href="/wiki/Comparison_of_platform_virtualization_software" title="Comparison of platform virtualization software">Comparison of platform virtualization software</a></div>
+<p>Computer virtualization refers to the abstraction of computer resources, such as the process of running two or more logical computer systems on one set of physical hardware. The concept originated with the IBM <a href="/wiki/Mainframe_computer" title="Mainframe computer">mainframe</a> operating systems of the 1960s, but was commercialized for <a href="/wiki/X86_architecture" class="mw-redirect" title="X86 architecture">x86</a>-compatible computers only in the 1990s. With virtualization, a system administrator could combine several physical systems into virtual machines on one single, powerful system, thereby unplugging the original hardware and reducing power and cooling consumption. Virtualization can assist in distributing work so that servers are either busy or put in a low-power sleep state. Several commercial companies and open-source projects now offer software packages to enable a transition to virtual computing. <a href="/wiki/Intel_Corporation" class="mw-redirect" title="Intel Corporation">Intel Corporation</a> and <a href="/wiki/Advanced_Micro_Devices" title="Advanced Micro Devices">AMD</a> have also built proprietary <a href="/wiki/X86_virtualization#Hardware_support" title="X86 virtualization">virtualization enhancements</a> to the x86 <a href="/wiki/Instruction_set" title="Instruction set">instruction set</a> into each of their CPU product lines, in order to facilitate virtual computing.</p>
+<h4><span class="mw-headline" id="Terminal_servers">Terminal servers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_computing&amp;action=edit&amp;section=12" title="Edit section: Terminal servers">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div role="note" class="hatnote">Main article: <a href="/wiki/Terminal_server" title="Terminal server">Terminal server</a></div>
+<p>Terminal servers have also been used in green computing. When using the system, users at a terminal connect to a central server; all of the actual computing is done on the server, but the end user experiences the operating system on the terminal. These can be combined with <a href="/wiki/Thin_client" title="Thin client">thin clients</a>, which use up to 1/8 the amount of energy of a normal workstation, resulting in a decrease of energy costs and consumption.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (May 2010)">citation needed</span></a></i>]</sup> There has been an increase in using terminal services with thin clients to create virtual labs. Examples of terminal server software include <a href="/wiki/Terminal_Services" class="mw-redirect" title="Terminal Services">Terminal Services</a> for Windows and the <a href="/wiki/Linux_Terminal_Server_Project" title="Linux Terminal Server Project">Linux Terminal Server Project</a> (LTSP) for the <a href="/wiki/Linux_operating_system" class="mw-redirect" title="Linux operating system">Linux operating system</a>.</p>
+<h3><span class="mw-headline" id="Power_management">Power management</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_computing&amp;action=edit&amp;section=13" title="Edit section: Power management">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote">Main article: <a href="/wiki/Power_management" title="Power management">Power management</a></div>
+<p>The <a href="/wiki/Advanced_Configuration_and_Power_Interface" title="Advanced Configuration and Power Interface">Advanced Configuration and Power Interface</a> (ACPI), an open industry standard, allows an operating system to directly control the power-saving aspects of its underlying hardware. This allows a system to automatically turn off components such as <a href="/wiki/Computer_display" class="mw-redirect" title="Computer display">monitors</a> and <a href="/wiki/Hard_drive" class="mw-redirect" title="Hard drive">hard drives</a> after set periods of inactivity. In addition, a system may <a href="/wiki/Hibernation_(computing)" title="Hibernation (computing)">hibernate</a>, when most components (including the <a href="/wiki/Central_processing_unit" title="Central processing unit">CPU</a> and the system RAM) are turned off. ACPI is a successor to an earlier Intel-Microsoft standard called <a href="/wiki/Advanced_Power_Management" title="Advanced Power Management">Advanced Power Management</a>, which allows a computer's <a href="/wiki/BIOS" title="BIOS">BIOS</a> to control power management functions.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (May 2008)">citation needed</span></a></i>]</sup></p>
+<p>Some programs allow the user to manually adjust the voltages supplied to the CPU, which reduces both the amount of heat produced and electricity consumed. This process is called <a href="/wiki/Undervolting" class="mw-redirect" title="Undervolting">undervolting</a>. Some CPUs can automatically undervolt the processor, depending on the workload; this technology is called "<a href="/wiki/SpeedStep" title="SpeedStep">SpeedStep</a>" on Intel processors, "<a href="/wiki/PowerNow!" title="PowerNow!">PowerNow!</a>"/"<a href="/wiki/Cool%27n%27Quiet" title="Cool'n'Quiet">Cool'n'Quiet</a>" on AMD chips, <a href="/wiki/LongHaul" title="LongHaul">LongHaul</a> on <a href="/wiki/VIA_Technologies" title="VIA Technologies">VIA</a> CPUs, and <a href="/wiki/LongRun" title="LongRun">LongRun</a> with <a href="/wiki/Transmeta" title="Transmeta">Transmeta</a> processors.</p>
+<h4><span class="mw-headline" id="Data_center_power">Data center power</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_computing&amp;action=edit&amp;section=14" title="Edit section: Data center power">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Data centers, which have been criticized for their extraordinarily high energy demand, are a primary focus for proponents of green computing.<sup id="cite_ref-ReferenceGCS9_2-1" class="reference"><a href="#cite_note-ReferenceGCS9-2">[2]</a></sup><sup id="cite_ref-ReferenceA_28-0" class="reference"><a href="#cite_note-ReferenceA-28">[28]</a></sup> Data centers can potentially improve their energy and space efficiency through techniques such as storage consolidation and virtualization. Many organizations are aiming to eliminate underutilized servers, which results in lower energy usage.<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">[29]</a></sup> The first step toward this aim will be training of data center administrators.<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">[30]</a></sup> The U.S. federal government has set a minimum 10% reduction target for data center energy usage by 2011.<sup id="cite_ref-ReferenceA_28-1" class="reference"><a href="#cite_note-ReferenceA-28">[28]</a></sup> With the aid of a self-styled ultraefficient evaporative cooling technology, Google Inc. has been able to reduce its energy consumption to 50% of that of the industry average.<sup id="cite_ref-ReferenceA_28-2" class="reference"><a href="#cite_note-ReferenceA-28">[28]</a></sup></p>
+<h4><span class="mw-headline" id="Operating_system_support">Operating system support</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_computing&amp;action=edit&amp;section=15" title="Edit section: Operating system support">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Microsoft Windows, has included limited <a href="/wiki/PC_power_management" title="PC power management">PC power management</a> features since Windows 95.<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">[31]</a></sup> These initially provided for stand-by (suspend-to-RAM) and a monitor low power state. Further iterations of Windows added hibernate (suspend-to-disk) and support for the <a href="/wiki/Advanced_Configuration_and_Power_Interface" title="Advanced Configuration and Power Interface">ACPI</a> standard. Windows 2000 was the first NT-based operating system to include power management. This required major changes to the underlying operating system architecture and a new hardware driver model. Windows 2000 also introduced <a href="/wiki/Group_Policy" title="Group Policy">Group Policy</a>, a technology that allowed administrators to centrally configure most Windows features. However, power management was not one of those features. This is probably because the power management settings design relied upon a connected set of per-user and per-machine binary registry values,<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">[32]</a></sup> effectively leaving it up to each user to configure their own power management settings.</p>
+<p>This approach, which is not compatible with Windows Group Policy, was repeated in Windows XP. The reasons for this design decision by Microsoft are not known, and it has resulted in heavy criticism.<sup id="cite_ref-33" class="reference"><a href="#cite_note-33">[33]</a></sup> Microsoft significantly improved this in Windows Vista<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">[34]</a></sup> by redesigning the power management system to allow basic configuration by Group Policy. The support offered is limited to a single per-computer policy. The most recent release, Windows 7 retains these limitations but does include refinements for <a href="/wiki/Timer_coalescing" title="Timer coalescing">timer coalescing</a>, <a href="/w/index.php?title=Processor_power_management&amp;action=edit&amp;redlink=1" class="new" title="Processor power management (page does not exist)">processor power management</a>,<sup id="cite_ref-35" class="reference"><a href="#cite_note-35">[35]</a></sup><sup id="cite_ref-36" class="reference"><a href="#cite_note-36">[36]</a></sup> and display panel brightness. The most significant change in Windows 7 is in the user experience. The prominence of the default High Performance power plan has been reduced with the aim of encouraging users to save power.</p>
+<p>There is a significant market in third-party <a href="/wiki/PC_power_management" title="PC power management">PC power management</a> software offering features beyond those present in the Windows operating system.<sup id="cite_ref-37" class="reference"><a href="#cite_note-37">[37]</a></sup><sup id="cite_ref-38" class="reference"><a href="#cite_note-38">[38]</a></sup><sup id="cite_ref-39" class="reference"><a href="#cite_note-39">[39]</a></sup> available. Most products offer <a href="/wiki/Active_Directory" title="Active Directory">Active Directory</a> integration and per-user/per-machine settings with the more advanced offering multiple power plans, scheduled power plans, anti-insomnia features and enterprise power usage reporting. Notable vendors include <a href="/wiki/1E" title="1E">1E</a> NightWatchman,<sup id="cite_ref-40" class="reference"><a href="#cite_note-40">[40]</a></sup><sup id="cite_ref-41" class="reference"><a href="#cite_note-41">[41]</a></sup> Data Synergy <a href="/wiki/PowerMAN_(Software)" class="mw-redirect" title="PowerMAN (Software)">PowerMAN (Software)</a>,<sup id="cite_ref-42" class="reference"><a href="#cite_note-42">[42]</a></sup><sup id="cite_ref-43" class="reference"><a href="#cite_note-43">[43]</a></sup> <a href="/wiki/Faronics" title="Faronics">Faronics</a> Power Save,<sup id="cite_ref-44" class="reference"><a href="#cite_note-44">[44]</a></sup> <a href="/wiki/Verdiem" title="Verdiem">Verdiem</a> SURVEYOR and EnviProt Auto Shutdown Manager<sup id="cite_ref-45" class="reference"><a href="#cite_note-45">[45]</a></sup></p>
+<h4><span class="mw-headline" id="Power_supply">Power supply</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_computing&amp;action=edit&amp;section=16" title="Edit section: Power supply">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Desktop <a href="/wiki/Computer_power_supply" class="mw-redirect" title="Computer power supply">computer power supplies</a> are in general 70–75% efficient,<sup id="cite_ref-46" class="reference"><a href="#cite_note-46">[46]</a></sup> dissipating the remaining energy as heat. A certification program called <a href="/wiki/80_Plus" title="80 Plus">80 Plus</a> certifies PSUs that are at least 80% efficient; typically these models are drop-in replacements for older, less efficient PSUs of the same form factor. As of July 20, 2007, all new Energy Star 4.0-certified desktop PSUs must be at least 80% efficient.<sup id="cite_ref-47" class="reference"><a href="#cite_note-47">[47]</a></sup></p>
+<h4><span class="mw-headline" id="Storage">Storage</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_computing&amp;action=edit&amp;section=17" title="Edit section: Storage">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Smaller form factor (e.g., 2.5&#160;inch) <a href="/wiki/Hard_disk_drives" class="mw-redirect" title="Hard disk drives">hard disk drives</a> often consume less power per gigabyte than physically larger drives.<sup id="cite_ref-48" class="reference"><a href="#cite_note-48">[48]</a></sup><sup id="cite_ref-49" class="reference"><a href="#cite_note-49">[49]</a></sup> Unlike hard disk drives, <a href="/wiki/Solid-state_drive" title="Solid-state drive">solid-state drives</a> store data in flash memory or <a href="/wiki/DRAM" class="mw-redirect" title="DRAM">DRAM</a>. With no moving parts, power consumption may be reduced somewhat for low-capacity flash-based devices.<sup id="cite_ref-50" class="reference"><a href="#cite_note-50">[50]</a></sup><sup id="cite_ref-51" class="reference"><a href="#cite_note-51">[51]</a></sup></p>
+<p>In a recent case study, <a href="/wiki/Fusion-io" title="Fusion-io">Fusion-io</a>, manufacturer of solid state storage devices, managed to reduce the energy use and operating costs of <a href="/wiki/MySpace" class="mw-redirect" title="MySpace">MySpace</a> data centers by 80% while increasing performance speeds beyond that which had been attainable via multiple hard disk drives in Raid 0.<sup id="cite_ref-52" class="reference"><a href="#cite_note-52">[52]</a></sup><sup id="cite_ref-53" class="reference"><a href="#cite_note-53">[53]</a></sup> In response, MySpace was able to retire several of their servers.</p>
+<p>As hard drive prices have fallen, storage farms have tended to increase in capacity to make more data available online. This includes archival and backup data that would formerly have been saved on tape or other offline storage. The increase in online storage has increased power consumption. Reducing the power consumed by large storage arrays, while still providing the benefits of online storage, is a subject of ongoing research.<sup id="cite_ref-54" class="reference"><a href="#cite_note-54">[54]</a></sup></p>
+<h4><span class="mw-headline" id="Video_card">Video card</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_computing&amp;action=edit&amp;section=18" title="Edit section: Video card">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>A fast <a href="/wiki/Graphics_processing_unit" title="Graphics processing unit">GPU</a> may be the largest power consumer in a computer.<sup id="cite_ref-55" class="reference"><a href="#cite_note-55">[55]</a></sup></p>
+<p>Energy-efficient <a href="/wiki/Video_card" title="Video card">display</a> options include:</p>
+<ul>
+<li>No video card - use a shared terminal, shared <a href="/wiki/Thin_client" title="Thin client">thin client</a>, or <a href="/wiki/Desktop_sharing" title="Desktop sharing">desktop sharing</a> software if display required.</li>
+<li>Use motherboard video output - typically low 3D performance and low power.</li>
+<li>Select a GPU based on low idle power, average wattage, or <a href="/wiki/Performance_per_watt" title="Performance per watt">performance per watt</a>.</li>
+</ul>
+<h4><span class="mw-headline" id="Display">Display</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_computing&amp;action=edit&amp;section=19" title="Edit section: Display">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p><a href="/wiki/CRT_monitor" class="mw-redirect" title="CRT monitor">CRT monitors</a> typically use more power than LCD monitors. They also contain significant amounts of lead. <a href="/wiki/LCD_monitor" class="mw-redirect" title="LCD monitor">LCD monitors</a> typically use a <a href="/wiki/Cold_cathode" title="Cold cathode">cold-cathode fluorescent bulb</a> to provide light for the display. Some newer displays use an array of <a href="/wiki/Light-emitting_diode" title="Light-emitting diode">light-emitting diodes</a> (LEDs) in place of the fluorescent bulb, which reduces the amount of electricity used by the display.<sup id="cite_ref-56" class="reference"><a href="#cite_note-56">[56]</a></sup> Fluorescent back-lights also contain mercury, whereas LED back-lights do not.</p>
+<h3><span class="mw-headline" id="Materials_recycling">Materials recycling</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_computing&amp;action=edit&amp;section=20" title="Edit section: Materials recycling">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote">Main articles: <a href="/wiki/Electronic_waste" title="Electronic waste">Electronic waste</a>, <a href="/wiki/Computer_recycling" title="Computer recycling">computer recycling</a>, and <a href="/wiki/Waste_Electrical_and_Electronic_Equipment_Directive" title="Waste Electrical and Electronic Equipment Directive">Waste Electrical and Electronic Equipment Directive</a></div>
+<p>Recycling computing equipment can keep harmful materials such as lead, mercury, and hexavalent chromium out of <a href="/wiki/Landfill" title="Landfill">landfills</a>, and can also replace equipment that otherwise would need to be manufactured, saving further energy and emissions. Computer systems that have outlived their particular function can be re-purposed, or donated to various charities and non-profit organizations.<sup id="cite_ref-57" class="reference"><a href="#cite_note-57">[57]</a></sup> However, many charities have recently imposed minimum system requirements for donated equipment.<sup id="cite_ref-58" class="reference"><a href="#cite_note-58">[58]</a></sup> Additionally, parts from outdated systems may be salvaged and recycled through certain retail outlets<sup id="cite_ref-59" class="reference"><a href="#cite_note-59">[59]</a></sup><sup id="cite_ref-60" class="reference"><a href="#cite_note-60">[60]</a></sup> and municipal or private recycling centers. Computing supplies, such as <a href="/wiki/Ink_cartridges" class="mw-redirect" title="Ink cartridges">printer cartridges</a>, <a href="/wiki/Paper_recycling" title="Paper recycling">paper</a>, and <a href="/wiki/Battery_recycling" title="Battery recycling">batteries</a> may be recycled as well.<sup id="cite_ref-61" class="reference"><a href="#cite_note-61">[61]</a></sup></p>
+<p>A drawback to many of these schemes is that computers gathered through recycling drives are often shipped to <a href="/wiki/Developing_countries" class="mw-redirect" title="Developing countries">developing countries</a> where environmental standards are less strict than in North America and Europe.<sup id="cite_ref-62" class="reference"><a href="#cite_note-62">[62]</a></sup> The <a href="/wiki/Silicon_Valley_Toxics_Coalition" title="Silicon Valley Toxics Coalition">Silicon Valley Toxics Coalition</a> estimates that 80% of the post-consumer e-waste collected for recycling is shipped abroad to countries such as <a href="/wiki/China" title="China">China</a> and <a href="/wiki/Pakistan" title="Pakistan">Pakistan</a>.<sup id="cite_ref-63" class="reference"><a href="#cite_note-63">[63]</a></sup></p>
+<p>In 2011, the collection rate of e-waste is still very low, even in the most ecology-responsible countries like France. In this country, e-waste collection is still at a 14% annual rate between electronic equipment sold and e-waste collected for 2006 to 2009.<sup id="cite_ref-64" class="reference"><a href="#cite_note-64">[64]</a></sup></p>
+<p>The recycling of old computers raises an important privacy issue. The old storage devices still hold private information, such as emails, passwords, and credit card numbers, which can be recovered simply by someone's using software available freely on the Internet. Deletion of a file does not actually remove the file from the hard drive. Before recycling a computer, users should remove the hard drive, or hard drives if there is more than one, and physically destroy it or store it somewhere safe. There are some authorized hardware recycling companies to whom the computer may be given for recycling, and they typically sign a non-disclosure agreement.<sup id="cite_ref-65" class="reference"><a href="#cite_note-65">[65]</a></sup></p>
+<h3><span class="mw-headline" id="Cloud_computing">Cloud computing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_computing&amp;action=edit&amp;section=21" title="Edit section: Cloud computing">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote">Main article: <a href="/wiki/Cloud_computing" title="Cloud computing">Cloud computing</a></div>
+<p>Cloud computing addresses two major ICT challenges related to Green computing – energy usage and resource consumption. <a href="/wiki/Virtualization" title="Virtualization">Virtualization</a>, <a href="/wiki/Dynamic_provisioning_environment" title="Dynamic provisioning environment">Dynamic provisioning environment</a>, multi-tenancy, green data center approaches are enabling cloud computing to lower carbon emissions and energy usage up to a great extent. Large enterprises and small businesses can reduce their direct energy consumption and carbon emissions by up to 30% and 90% respectively by moving certain on-premises applications into the cloud.<sup id="cite_ref-66" class="reference"><a href="#cite_note-66">[66]</a></sup> One common example includes <a href="/wiki/Online_shopping" title="Online shopping">Online shopping</a> that helps people purchase products and services over the Internet without requiring them to drive and waste fuel to reach out to the physical shop, which, in turn, reduces greenhouse gas emission related to travel.<sup id="cite_ref-Google_Scholar_Citations_67-0" class="reference"><a href="#cite_note-Google_Scholar_Citations-67">[67]</a></sup></p>
+<h3><span class="mw-headline" id="Telecommuting">Telecommuting</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_computing&amp;action=edit&amp;section=22" title="Edit section: Telecommuting">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote">Main article: <a href="/wiki/Telecommuting" title="Telecommuting">Telecommuting</a></div>
+<p><a href="/wiki/Teleconference" title="Teleconference">Teleconferencing</a> and <a href="/wiki/Telepresence" title="Telepresence">telepresence</a> technologies are often implemented in green computing initiatives. The advantages are many; increased worker satisfaction, reduction of greenhouse gas emissions related to travel, and increased profit margins as a result of lower overhead costs for office space, heat, lighting, etc.<sup id="cite_ref-68" class="reference"><a href="#cite_note-68">[68]</a></sup> The savings are significant; the average annual energy consumption for U.S. office buildings is over 23 kilowatt hours per square foot, with heat, air conditioning and lighting accounting for 70% of all energy consumed.<sup id="cite_ref-69" class="reference"><a href="#cite_note-69">[69]</a></sup> Other related initiatives, such as <a href="/wiki/Hoteling" title="Hoteling">Hoteling</a>, reduce the square footage per employee as workers reserve space only when they need it.<sup id="cite_ref-70" class="reference"><a href="#cite_note-70">[70]</a></sup> Many types of jobs, such as sales, consulting, and field service, integrate well with this technique.</p>
+<p><a href="/wiki/Voice_over_Internet_Protocol" class="mw-redirect" title="Voice over Internet Protocol">Voice over IP (VoIP)</a> reduces the telephony wiring infrastructure by sharing the existing Ethernet copper. VoIP and phone extension mobility also made <a href="/wiki/Hot_desking" title="Hot desking">hot desking</a> more practical.</p>
+<h3><span class="mw-headline" id="Telecommunication_network_devices_energy_indices">Telecommunication network devices energy indices</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_computing&amp;action=edit&amp;section=23" title="Edit section: Telecommunication network devices energy indices">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The information and communication technologies (ICTs) energy consumption, in the USA and worldwide, has been estimated respectively at 9.4% and 5.3% of the total electricity produced.<sup id="cite_ref-71" class="reference"><a href="#cite_note-71">[71]</a></sup> The energy consumption of ICTs is today significant even when compared with other industries. Some study tried to identify the key energy indices that allow a relevant comparison between different devices (network elements).<sup id="cite_ref-72" class="reference"><a href="#cite_note-72">[72]</a></sup> This analysis was focused on how to optimise device and network consumption for carrier telecommunication by itself. The target was to allow an immediate perception of the relationship between the network technology and the environmental effect. These studies are at the start and the gap to fill in this sector is still huge and further research will be necessary.</p>
+<h3><span class="mw-headline" id="Supercomputers">Supercomputers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_computing&amp;action=edit&amp;section=24" title="Edit section: Supercomputers">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The inaugural Green500 list was announced on November 15, 2007 at SC|07. As a complement to the TOP500, the unveiling of the Green500 ushered in a new era where supercomputers can be compared by performance-per-watt. <a rel="nofollow" class="external free" href="http://www.green500.org/">http://www.green500.org/</a></p>
+<p>The <a href="/wiki/Tsubame_(supercomputer)" title="Tsubame (supercomputer)">TSUBAME-KFC-GSIC Center</a> by Tokyo Institute of Technology, Made in Japan was with a great advantage to the second, the Top 1 Supercomputer in the World with 4,503.17 MFLOPS/W and 27.78 Total Power (kW)++</p>
+<p>Today a new supercomputer, <a href="/w/index.php?title=L-CSC&amp;action=edit&amp;redlink=1" class="new" title="L-CSC (page does not exist)">L-CSC</a> from the <a href="/w/index.php?title=GSI_Helmholtz_Center&amp;action=edit&amp;redlink=1" class="new" title="GSI Helmholtz Center (page does not exist)">GSI Helmholtz Center</a>, Made in Germany emerged as the most energy-efficient (or greenest) supercomputer in the world. The L-CSC cluster was the first and only supercomputer on the list to surpass 5 gigaflops/watt (billions of operations per second per watt). L-CSC is a heterogeneous supercomputer that is powered by Dual Intel Xeon E5-260 and GPU accelerators, namely AMD FirePro™ S9150 GPUs. It marks the first time that a supercomputer using AMD GPUs has held the top spot. Each server has a memory of 256 gigabytes. Connected, the server via an Infiniband FDR network.</p>
+<h2><span class="mw-headline" id="Education_and_certification">Education and certification</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_computing&amp;action=edit&amp;section=25" title="Edit section: Education and certification">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Green_computing_programs">Green computing programs</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_computing&amp;action=edit&amp;section=26" title="Edit section: Green computing programs">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Degree and postgraduate programs that provide training in a range of information technology concentrations along with sustainable strategies in an effort to educate students how to build and maintain systems while reducing its harm to the environment. The <a href="/wiki/Australian_National_University" title="Australian National University">Australian National University</a> (ANU) offers "ICT Sustainability" as part of its information technology and engineering masters programs.<sup id="cite_ref-73" class="reference"><a href="#cite_note-73">[73]</a></sup> <a href="/wiki/Athabasca_University" title="Athabasca University">Athabasca University</a> offer a similar course "Green ICT Strategies",<sup id="cite_ref-74" class="reference"><a href="#cite_note-74">[74]</a></sup> adapted from the ANU course notes by Tom Worthington.<sup id="cite_ref-75" class="reference"><a href="#cite_note-75">[75]</a></sup> In the UK, <a href="/wiki/Leeds_Beckett_University" title="Leeds Beckett University">Leeds Beckett University</a> offers an MSc Sustainable Computing program in both full and part-time access modes.<sup id="cite_ref-76" class="reference"><a href="#cite_note-76">[76]</a></sup></p>
+<h3><span class="mw-headline" id="Green_computing_certifications">Green computing certifications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_computing&amp;action=edit&amp;section=27" title="Edit section: Green computing certifications">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Some certifications demonstrate that an individual has specific green computing knowledge, including:</p>
+<ul>
+<li>Green Computing Initiative - GCI offers the Certified Green Computing User Specialist (CGCUS), Certified Green Computing Architect (CGCA) and Certified Green Computing Professional (CGCP) certifications.<sup id="cite_ref-77" class="reference"><a href="#cite_note-77">[77]</a></sup></li>
+<li><a href="/wiki/CompTIA" title="CompTIA">CompTIA</a> Strata Green IT is designed for IT managers to show that they have good knowledge of green IT practices and methods and why it is important to incorporate them into an organization.</li>
+<li><a href="/wiki/Information_Systems_Examination_Board" title="Information Systems Examination Board">Information Systems Examination Board</a> (ISEB) Foundation Certificate in Green IT is appropriate for showing an overall understanding and awareness of green computing and where its implementation can be beneficial.</li>
+<li><a href="/w/index.php?title=Singapore_Infocomm_Technology_Federation&amp;action=edit&amp;redlink=1" class="new" title="Singapore Infocomm Technology Federation (page does not exist)">Singapore Infocomm Technology Federation</a> (SiTF) Singapore Certified Green IT Professional is an industry endorsed professional level certification offered with SiTF authorized training partners. Certification requires completion of a four-day instructor-led core course, plus a one-day elective from an authorized vendor.<sup id="cite_ref-78" class="reference"><a href="#cite_note-78">[78]</a></sup></li>
+<li><a href="/wiki/Australian_Computer_Society" title="Australian Computer Society">Australian Computer Society</a> (ACS) The ACS offers a certificate for "Green Technology Strategies" as part of the Computer Professional Education Program (CPEP). Award of a certificate requires completion of a 12-week e-learning course designed by Tom Worthington, with written assignments.<sup id="cite_ref-79" class="reference"><a href="#cite_note-79">[79]</a></sup></li>
+<li>International Federation of Green ICT and IFG Standard - promotes two basic green programs, IFG standard towards Green business and Green Government, and a program designed for professional Green IT certification by IFG.</li>
+</ul>
+<h3><span class="mw-headline" id="Blogs_and_Web_2.0_resources">Blogs and Web 2.0 resources</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_computing&amp;action=edit&amp;section=28" title="Edit section: Blogs and Web 2.0 resources">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>There are a lot of blogs and other user created references that can be used to gain more insights on green computing strategies, technologies and business benefits. A lot of students in Management and Engineering courses have helped in raising higher awareness about green computing.<sup id="cite_ref-80" class="reference"><a href="#cite_note-80">[80]</a></sup><sup id="cite_ref-81" class="reference"><a href="#cite_note-81">[81]</a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_computing&amp;action=edit&amp;section=29" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Computational_sustainability" title="Computational sustainability">Computational sustainability</a></li>
+<li><a href="/wiki/Green_information_system" title="Green information system">Green information system</a></li>
+</ul>
+<div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a href="/wiki/File:Sustainable_development.svg" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/32px-Sustainable_development.svg.png" width="32" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/48px-Sustainable_development.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/64px-Sustainable_development.svg.png 2x" data-file-width="800" data-file-height="510" /></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Sustainable_development" title="Portal:Sustainable development">Sustainable development portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a href="/wiki/File:Crystal_energy.svg" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/29px-Crystal_energy.svg.png" width="29" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/44px-Crystal_energy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/59px-Crystal_energy.svg.png 2x" data-file-width="130" data-file-height="124" /></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Energy" title="Portal:Energy">Energy portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a href="/wiki/File:Aegopodium_podagraria1_ies.jpg" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aegopodium_podagraria1_ies.jpg/32px-Aegopodium_podagraria1_ies.jpg" width="32" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aegopodium_podagraria1_ies.jpg/48px-Aegopodium_podagraria1_ies.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aegopodium_podagraria1_ies.jpg/64px-Aegopodium_podagraria1_ies.jpg 2x" data-file-width="800" data-file-height="700" /></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Environment" title="Portal:Environment">Environment portal</a></span></li>
+</ul>
+</div>
+<div class="div-col columns column-count column-count-3" style="-moz-column-count: 3; -webkit-column-count: 3; column-count: 3;">
+<ul>
+<li><a href="/wiki/Camara_(charity)" class="mw-redirect" title="Camara (charity)">Camara (charity)</a> (Ireland)</li>
+<li><i><a href="/wiki/Challenging_the_Chip" title="Challenging the Chip">Challenging the Chip</a></i>, a book about labor rights and environmental justice in the global electronics industry</li>
+<li><a href="/wiki/Desktop_virtualization" title="Desktop virtualization">Desktop virtualization</a></li>
+<li><a href="/wiki/Data_migration" title="Data migration">Data migration</a></li>
+<li><a href="/wiki/Digger_gold" title="Digger gold">Digger gold</a></li>
+<li><a href="/wiki/E-cycling" class="mw-redirect" title="E-cycling">e-cycling</a></li>
+<li><a href="/wiki/EDay" title="EDay">eDay</a>, an electronic waste collection day in New Zealand</li>
+<li><a href="/wiki/California_Electronic_Waste_Recycling_Act" title="California Electronic Waste Recycling Act">California Electronic Waste Recycling Act</a></li>
+<li><a href="/wiki/Energy_Efficient_Ethernet" class="mw-redirect" title="Energy Efficient Ethernet">Energy Efficient Ethernet</a></li>
+<li><a href="/wiki/Energy_use_in_the_United_States#Energy_consumption_of_computers_in_the_USA" class="mw-redirect" title="Energy use in the United States">Energy consumption of computers in the USA</a></li>
+<li><a href="/wiki/IEEE_1680" title="IEEE 1680">IEEE 1680</a></li>
+<li><a href="/wiki/Interconnect_bottleneck" title="Interconnect bottleneck">Interconnect bottleneck</a></li>
+<li><a href="/wiki/IT_energy_management" title="IT energy management">IT energy management</a></li>
+<li><a href="/wiki/Minimalism_(computing)" title="Minimalism (computing)">Minimalism (computing)</a></li>
+<li><a href="/wiki/Optical_communication" title="Optical communication">Optical communication</a></li>
+<li><a href="/wiki/Optical_fiber_cable" title="Optical fiber cable">Optical fiber cable</a></li>
+<li><a href="/wiki/Optical_interconnect" title="Optical interconnect">Optical interconnect</a></li>
+<li><a href="/wiki/Parallel_optical_interface" title="Parallel optical interface">Parallel optical interface</a></li>
+<li><a href="/wiki/Plug_computer" title="Plug computer">Plug computer</a></li>
+<li><a href="/wiki/Power_factor" title="Power factor">Power factor</a></li>
+<li><a href="/wiki/Power_usage_effectiveness" title="Power usage effectiveness">Power usage effectiveness</a> (PUE)</li>
+<li><a href="/wiki/Rebound_effect_(conservation)" title="Rebound effect (conservation)">Rebound effect</a> (paradoxical negative effect)</li>
+<li><a href="/wiki/Restriction_of_Hazardous_Substances_Directive" title="Restriction of Hazardous Substances Directive">Restriction of Hazardous Substances Directive</a> (RoHS)</li>
+<li><a href="/wiki/Standby_power" title="Standby power">Standby power</a></li>
+<li><a href="/wiki/Sustainable_Electronics_Initiative" title="Sustainable Electronics Initiative">Sustainable Electronics Initiative</a> (SEI)</li>
+<li><a href="/wiki/Time-sharing" title="Time-sharing">Time-sharing</a></li>
+<li><a href="/wiki/Thunderbolt_(interface)" title="Thunderbolt (interface)">Thunderbolt (interface)</a></li>
+<li><a href="/wiki/Virtual_application" title="Virtual application">Virtual application</a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_computing&amp;action=edit&amp;section=30" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://css.snre.umich.edu/css_doc/CSS09-07.pdf">Green IT Factsheet</a> by the <a href="/wiki/University_of_Michigan" title="University of Michigan">University of Michigan</a>'s <a rel="nofollow" class="external text" href="http://www.css.snre.umich.edu/">Center for Sustainable Systems</a></li>
+<li><a rel="nofollow" class="external text" href="http://practicas.comunidadesfomin.org/sites/practicas.comunidadesfomin.org/files/documents/Green_IT_RAEE_FOMIN_2012.pdf">WEEE:Electrical and electronic waste. A problem for every solution (in Spanish)</a> by <a href="/w/index.php?title=Mauro_D._R%C3%ADos&amp;action=edit&amp;redlink=1" class="new" title="Mauro D. Ríos (page does not exist)">Mauro D. Ríos</a> <a rel="nofollow" class="external text" href="http://practicas.comunidadesfomin.org/documentos/423">BID/FOMIN</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.ifgict.org">IFG International Federation of Green ICT Standard</a></li>
+<li>Sustainable Cloud Data Centers: A Survey of Enabling Techniques and Technologies <sup id="cite_ref-Google_Scholar_Citations_67-1" class="reference"><a href="#cite_note-Google_Scholar_Citations-67">[67]</a></sup></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_computing&amp;action=edit&amp;section=31" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">S. Mittal, "<a rel="nofollow" class="external text" href="https://www.academia.edu/4186102/A_survey_of_techniques_for_improving_energy_efficiency_in_embedded_computing_systems">A survey of techniques for improving energy efficiency in embedded computing systems</a>", IJCAET, 6(4), 440–459, 2014.</span></li>
+<li id="cite_note-ReferenceGCS9-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-ReferenceGCS9_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-ReferenceGCS9_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://www.academia.edu/6982393/Power_Management_Techniques_for_Data_Centers_A_Survey">Power Management Techniques for Data Centers: A Survey</a>", 2014.</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">E. Curry, B. Guyon, C. Sheridan, and B. Donnellan, <a rel="nofollow" class="external text" href="http://www.edwardcurry.org/publications/MISQE_SustainableIT_Intel_2012.pdf">“Developing a Sustainable IT Capability: Lessons From Intel’s Journey,”</a> <i><a href="/wiki/MIS_Quarterly_Executive" title="MIS Quarterly Executive">MIS Quarterly Executive</a></i>, vol. 11, no. 2, pp. 61–74, 2012.</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.boivie.se/index.php?page=2&amp;lang=eng">"TCO takes the initiative in comparative product testing"</a>. 2008-05-03<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-05-03</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+computing&amp;rft.atitle=TCO+takes+the+initiative+in+comparative+product+testing&amp;rft.date=2008-05-03&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.boivie.se%2Findex.php%3Fpage%3D2%26lang%3Deng&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Full report: <cite class="citation web">OECD Working Party on the Information Economy. <a rel="nofollow" class="external text" href="http://www.oecd.org/dataoecd/47/12/42825130.pdf">"Towards Green ICT strategies: Assessing Policies and Programmes on ICTs and the Environment"</a> <span style="font-size:85%;">(PDF)</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+computing&amp;rft.au=OECD+Working+Party+on+the+Information+Economy&amp;rft.btitle=Towards+Green+ICT+strategies%3A+Assessing+Policies+and+Programmes+on+ICTs+and+the+Environment&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.oecd.org%2Fdataoecd%2F47%2F12%2F42825130.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span> Summary: <cite class="citation web">OECD Working Party on the Information Economy. <a rel="nofollow" class="external text" href="http://www.oecd.org/dataoecd/46/18/43044065.pdf">"Executive summary of OECD report"</a> <span style="font-size:85%;">(PDF)</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+computing&amp;rft.au=OECD+Working+Party+on+the+Information+Economy&amp;rft.btitle=Executive+summary+of+OECD+report&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.oecd.org%2Fdataoecd%2F46%2F18%2F43044065.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web">Jones, Ernesta (2006-10-23). <a rel="nofollow" class="external text" href="http://yosemite.epa.gov/opa/admpress.nsf/a8f952395381d3968525701c005e65b5/113b0c0647fee41585257210006474f1!OpenDocument">"EPA Announces New Computer Efficiency Requirements"</a>. U.S. EPA<span class="reference-accessdate">. Retrieved <span class="nowrap">2007-09-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+computing&amp;rft.aufirst=Ernesta&amp;rft.aulast=Jones&amp;rft.btitle=EPA+Announces+New+Computer+Efficiency+Requirements&amp;rft.date=2006-10-23&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fyosemite.epa.gov%2Fopa%2Fadmpress.nsf%2Fa8f952395381d3968525701c005e65b5%2F113b0c0647fee41585257210006474f1%21OpenDocument&amp;rft.pub=U.S.+EPA&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web">Gardiner, Bryan (2007-02-22). <a rel="nofollow" class="external text" href="http://www.pcmag.com/article2/0,1759,2097558,00.asp">"How Important Will New Energy Star Be for PC Makers?"</a>. PC Magazine<span class="reference-accessdate">. Retrieved <span class="nowrap">2007-09-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+computing&amp;rft.aufirst=Bryan&amp;rft.aulast=Gardiner&amp;rft.btitle=How+Important+Will+New+Energy+Star+Be+for+PC+Makers%3F&amp;rft.date=2007-02-22&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.pcmag.com%2Farticle2%2F0%2C1759%2C2097558%2C00.asp&amp;rft.pub=PC+Magazine&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20090306222713/http://www.e-takeback.org/docs%20open/Toolkit_Legislators/state%20legislation/state_leg_main.htm">"State Legislation on E-Waste"</a>. Electronics Take Back Coalition. 2008-03-20. Archived from <a rel="nofollow" class="external text" href="http://www.e-takeback.org/docs%20open/Toolkit_Legislators/state%20legislation/state_leg_main.htm">the original</a> on 2009-03-06<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-03-08</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+computing&amp;rft.btitle=State+Legislation+on+E-Waste&amp;rft.date=2008-03-20&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.e-takeback.org%2Fdocs%2520open%2FToolkit_Legislators%2Fstate%2520legislation%2Fstate_leg_main.htm&amp;rft.pub=Electronics+Take+Back+Coalition&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation pressrelease"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20100527141406/http://www.energy.gov/news2009/8491.htm">"Secretary Chu Announces $47 Million to Improve Efficiency in Information Technology and Communications Sectors"</a> (Press release). U.S. Department of Energy. 2010-01-06. Archived from <a rel="nofollow" class="external text" href="http://www.energy.gov/news2009/8491.htm">the original</a> on 2010-05-27<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-10-30</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+computing&amp;rft.btitle=Secretary+Chu+Announces+%2447+Million+to+Improve+Efficiency+in+Information+Technology+and+Communications+Sectors&amp;rft.date=2010-01-06&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.energy.gov%2Fnews2009%2F8491.htm&amp;rft.pub=U.S.+Department+of+Energy&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-CSCI_pressrel_launch-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-CSCI_pressrel_launch_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-CSCI_pressrel_launch_10-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation pressrelease"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20080214140754/http://www.climatesaverscomputing.org/program/press.html">"Intel and Google Join with Dell, EDS, EPA, HP, IBM, Lenovo, Microsoft, PG&amp;E, World Wildlife Fund and Others to Launch Climate Savers Computing Initiative"</a> (Press release). Business Wire. 2007-06-12. Archived from <a rel="nofollow" class="external text" href="http://www.climatesaverscomputing.org/program/press.html">the original</a> on 2008-02-14<span class="reference-accessdate">. Retrieved <span class="nowrap">2007-12-11</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+computing&amp;rft.btitle=Intel+and+Google+Join+with+Dell%2C+EDS%2C+EPA%2C+HP%2C+IBM%2C+Lenovo%2C+Microsoft%2C+PG%26E%2C+World+Wildlife+Fund+and+Others+to+Launch+Climate+Savers+Computing+Initiative&amp;rft.date=2007-06-12&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.climatesaverscomputing.org%2Fprogram%2Fpress.html&amp;rft.pub=Business+Wire&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20071215151042/http://www.climatesaverscomputing.org/program/index.html">"What exactly is the Climate Savers Computing Initiative?"</a>. Climate Savers Computing Initiative. 2007. Archived from <a rel="nofollow" class="external text" href="http://www.climatesaverscomputing.org/program/index.html">the original</a> on 2007-12-15<span class="reference-accessdate">. Retrieved <span class="nowrap">2007-12-11</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+computing&amp;rft.btitle=What+exactly+is+the+Climate+Savers+Computing+Initiative%3F&amp;rft.date=2007&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.climatesaverscomputing.org%2Fprogram%2Findex.html&amp;rft.pub=Climate+Savers+Computing+Initiative&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation pressrelease"><a rel="nofollow" class="external text" href="http://www.webcitation.org/5qCuJd6am?url=http://www.epeat.net/Docs/Bush%20Requires%20EPEAT%20(1-24-07).pdf">"President Bush Requires Federal Agencies to Buy EPEAT Registered Green Electronic Products"</a> <span style="font-size:85%;">(PDF)</span> (Press release). Green Electronics Council. 2007-01-24. Archived from <a rel="nofollow" class="external text" href="http://www.epeat.net/Docs/Bush%20Requires%20EPEAT%20(1-24-07).pdf">the original</a> <span style="font-size:85%;">(PDF)</span> on 2010-06-03<span class="reference-accessdate">. Retrieved <span class="nowrap">2007-09-20</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+computing&amp;rft.btitle=President+Bush+Requires+Federal+Agencies+to+Buy+EPEAT+Registered+Green+Electronic+Products&amp;rft.date=2007-01-24&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.epeat.net%2FDocs%2FBush%2520Requires%2520EPEAT%2520%281-24-07%29.pdf&amp;rft.pub=Green+Electronics+Council&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation pressrelease"><a rel="nofollow" class="external text" href="http://georgewbush-whitehouse.archives.gov/news/releases/2007/01/20070124-2.html">"Executive Order: Strengthening Federal Environmental, Energy, and Transportation Management"</a> (Press release). The White House: Office of the Press Secretary. 2007-01-24<span class="reference-accessdate">. Retrieved <span class="nowrap">2007-09-20</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+computing&amp;rft.btitle=Executive+Order%3A+Strengthening+Federal+Environmental%2C+Energy%2C+and+Transportation+Management&amp;rft.date=2007-01-24&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fgeorgewbush-whitehouse.archives.gov%2Fnews%2Freleases%2F2007%2F01%2F20070124-2.html&amp;rft.pub=The+White+House%3A+Office+of+the+Press+Secretary&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://portal.acm.org/citation.cfm?doid=1791314.1791336">"Energy benchmarks: a detailed analysis (e-Energy 2006)"</a>. ACM. <a href="/wiki/Special:BookSources/9781450300421" class="internal mw-magiclink-isbn">ISBN 978-1-4503-0042-1</a>. Meikel Poess, Raghunath Nambiar, Kushagra Vaid, John M. Stephens, Jr., Karl Huppler, Evan Haines.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+computing&amp;rft.btitle=Energy+benchmarks%3A+a+detailed+analysis+%28e-Energy+2006%29&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fportal.acm.org%2Fcitation.cfm%3Fdoid%3D1791314.1791336&amp;rft.pub=ACM.+ISBN+978-1-4503-0042-1.+Meikel+Poess%2C+Raghunath+Nambiar%2C+Kushagra+Vaid%2C+John+M.+Stephens%2C+Jr.%2C+Karl+Huppler%2C+Evan+Haines&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20130412195835/http://www.spec.org/power/">"SPEC Power and Performance Committee"</a>. SPEC. 2013. Archived from <a rel="nofollow" class="external text" href="http://www.spec.org/power/">the original</a> on 2013-04-12<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-05-15</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+computing&amp;rft.btitle=SPEC+Power+and+Performance+Committee&amp;rft.date=2013&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.spec.org%2Fpower%2F&amp;rft.pub=SPEC&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.vmmark.com">"www.vmmark.com"</a>. VMware. 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-05-15</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+computing&amp;rft.btitle=www.vmmark.com&amp;rft.date=2013&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.vmmark.com&amp;rft.pub=VMware&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20100706131340/http://www.deloitte.co.uk/TMTPredictions/technology/Green-and-lean-it-data-centre-efficiency.cfm">"The common sense of lean and green IT"</a>. <i>Deloitte Technology Predictions</i>. Archived from <a rel="nofollow" class="external text" href="http://www.deloitte.co.uk/TMTPredictions/technology/Green-and-lean-it-data-centre-efficiency.cfm">the original</a> on 2010-07-06.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+computing&amp;rft.atitle=The+common+sense+of+lean+and+green+IT&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.deloitte.co.uk%2FTMTPredictions%2Ftechnology%2FGreen-and-lean-it-data-centre-efficiency.cfm&amp;rft.jtitle=Deloitte+Technology+Predictions&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text">InfoWorld July 06, 2009; <a rel="nofollow" class="external free" href="http://www.infoworld.com/d/green-it/used-pc-strategy-passes-toxic-buck-300?_kip_ipx=1053322433-1267784052&amp;_pxn=0">http://www.infoworld.com/d/green-it/used-pc-strategy-passes-toxic-buck-300?_kip_ipx=1053322433-1267784052&amp;_pxn=0</a></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text">GreenIT.fr Feb. 2011; <a rel="nofollow" class="external free" href="http://www.greenit.fr/article/materiel/pc-de-bureau/quelle-est-l-empreinte-carbone-d-un-ordinateur-3478">http://www.greenit.fr/article/materiel/pc-de-bureau/quelle-est-l-empreinte-carbone-d-un-ordinateur-3478</a></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text">Simon Mingay, Gartner: 10 Key Elements of a 'Green IT' Strategy; <a rel="nofollow" class="external free" href="http://www.onsitelasermedic.com/pdf/10_key_elements_greenIT.pdf">http://www.onsitelasermedic.com/pdf/10_key_elements_greenIT.pdf</a>.</span></li>
+<li id="cite_note-https:.2F.2Fenergy.gov-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-https:.2F.2Fenergy.gov_21-0">^</a></b></span> <span class="reference-text">“Best Practices Guide for Energy-Efficient Data Center Design”, prepared by the National Renewable Energy Laboratory for the U.S. Department of Energy, Federal Energy Management Program, March 2011.<a rel="nofollow" class="external autonumber" href="https://energy.gov/sites/prod/files/2013/10/f3/eedatacenterbestpractices.pdf">[1]</a></span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text">Koomey, Jonathon. “Growth in data center electricity use 2005 to 2010,” Oakland, CA: Analytics Press. August 1. <a rel="nofollow" class="external autonumber" href="http://www.analyticspress.com/datacenters.html">[2]</a></span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text">Junaid Shuja, Abdullah Gani, Shahaboddin Shamshirband, Raja Wasim Ahmad, Kashif Bilal, Sustainable Cloud Data Centers: A survey of enabling techniques and technologies, Renewable and Sustainable Energy Reviews, Volume 62, September 2016, Pages 195-214, ISSN 1364-0321, <a rel="nofollow" class="external free" href="http://dx.doi.org/10.1016/j.rser.2016.04.034">http://dx.doi.org/10.1016/j.rser.2016.04.034</a></span></li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.foxnews.com/story/0,2933,479127,00.html">"Research reveals environmental impact of Google searches."</a>. <i>Fox News</i>. 2009-01-12<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-01-15</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+computing&amp;rft.atitle=Research+reveals+environmental+impact+of+Google+searches.&amp;rft.date=2009-01-12&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.foxnews.com%2Fstory%2F0%2C2933%2C479127%2C00.html&amp;rft.jtitle=Fox+News&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://googleblog.blogspot.com/2009/01/powering-google-search.html">"Powering a Google search"</a>. <i>Official Google Blog</i>. Google<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-10-01</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+computing&amp;rft.atitle=Powering+a+Google+search&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fgoogleblog.blogspot.com%2F2009%2F01%2Fpowering-google-search.html&amp;rft.jtitle=Official+Google+Blog&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><cite class="citation web">Rear don, Marguerite (August 18, 2009). <a rel="nofollow" class="external text" href="http://news.cnet.com/8301-11128_3-10312408-54.html">"Energy-aware Internet routing coming soon"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">August 19,</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+computing&amp;rft.aufirst=Marguerite&amp;rft.aulast=Rear+don&amp;rft.btitle=Energy-aware+Internet+routing+coming+soon&amp;rft.date=2009-08-18&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fnews.cnet.com%2F8301-11128_3-10312408-54.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><cite class="citation arxiv">Aruna Prem Bianzino; Claude Chaudet; Dario Rossi; Jean-Louis Rougier (October 19, 2010). "A Survey of Green Networking Research". <a href="/wiki/ArXiv" title="ArXiv">arXiv</a>:<span class="plainlinks"><a rel="nofollow" class="external text" href="//arxiv.org/abs/1010.3880">1010.3880</a><span style="margin-left:0.1em"><img alt="Freely accessible" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" title="Freely accessible" width="9" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" data-file-width="512" data-file-height="813" /></span></span> [<a rel="nofollow" class="external text" href="//arxiv.org/archive/cs.NI">cs.NI</a>].</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+computing&amp;rft.atitle=A+Survey+of+Green+Networking+Research&amp;rft.au=Aruna+Prem+Bianzino&amp;rft.au=Claude+Chaudet&amp;rft.au=Dario+Rossi&amp;rft.au=Jean-Louis+Rougier&amp;rft.date=2010-10-19&amp;rft.genre=preprint&amp;rft_id=info%3Aarxiv%2F1010.3880&amp;rft.jtitle=arXiv&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-ReferenceA-28"><span class="mw-cite-backlink">^ <a href="#cite_ref-ReferenceA_28-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-ReferenceA_28-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-ReferenceA_28-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">Kurp, Patrick."Green Computing," <i>Communications of the ACM</i>51(10):11.</span></li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://content.dell.com/us/en/enterprise/d/large-business/green-it-over.aspx">"Is Green IT Over?"</a>. Dell.com<span class="reference-accessdate">. Retrieved 07-11-21</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+computing&amp;rft.btitle=Is+Green+IT+Over%3F&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fcontent.dell.com%2Fus%2Fen%2Fenterprise%2Fd%2Flarge-business%2Fgreen-it-over.aspx&amp;rft.pub=Dell.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span> <span style="font-size:100%" class="error citation-comment">Check date values in: <code style="color:inherit; border:inherit; padding:inherit;">|access-date=</code> (<a href="/wiki/Help:CS1_errors#bad_date" title="Help:CS1 errors">help</a>)</span></span></li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://sdiwc.net/digital-library/towards-green-computing-application-for-measuring-the-sustainability-of-data-centers-an-analytical-survey.html">"Towards Green Computing Application for Measuring the Sustainability of Data Centers: An Analytical Survey, Zohreh Gandomi, Salmiah Amin"</a>. SDIWC Digital Library<span class="reference-accessdate">. Retrieved Nov 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+computing&amp;rft.btitle=Towards+Green+Computing+Application+for+Measuring+the+Sustainability+of+Data+Centers%3A+An+Analytical+Survey%2C+Zohreh+Gandomi%2C+Salmiah+Amin&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fsdiwc.net%2Fdigital-library%2Ftowards-green-computing-application-for-measuring-the-sustainability-of-data-centers-an-analytical-survey.html&amp;rft.pub=SDIWC+Digital+Library&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span> <span style="font-size:100%" class="error citation-comment">Check date values in: <code style="color:inherit; border:inherit; padding:inherit;">|access-date=</code> (<a href="/wiki/Help:CS1_errors#bad_date" title="Help:CS1 errors">help</a>)</span></span></li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://msdn.microsoft.com/en-us/library/ms810046.aspx">"Windows 95 Power Management"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+computing&amp;rft.btitle=Windows+95+Power+Management&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fmsdn.microsoft.com%2Fen-us%2Flibrary%2Fms810046.aspx&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.liv.ac.uk/csd/greenit/powerdown">"Windows power-saving options are, bizarrely, stored in HKEY_CURRENT_USER"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+computing&amp;rft.btitle=Windows+power-saving+options+are%2C+bizarrely%2C+stored+in+HKEY_CURRENT_USER&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.liv.ac.uk%2Fcsd%2Fgreenit%2Fpowerdown&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.treehugger.com/files/2006/11/how_windows_xp.php">"How Windows XP Wasted $25 Billion of Energy"</a>. 2006-11-21<span class="reference-accessdate">. Retrieved <span class="nowrap">2005-11-21</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+computing&amp;rft.btitle=How+Windows+XP+Wasted+%2425+Billion+of+Energy&amp;rft.date=2006-11-21&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.treehugger.com%2Ffiles%2F2006%2F11%2Fhow_windows_xp.php&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://download.microsoft.com/download/5/b/9/5b97017b-e28a-4bae-ba48-174cf47d23cd/CPA075_WH06.ppt">"Windows Vista Power Management Changes"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+computing&amp;rft.btitle=Windows+Vista+Power+Management+Changes&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fdownload.microsoft.com%2Fdownload%2F5%2Fb%2F9%2F5b97017b-e28a-4bae-ba48-174cf47d23cd%2FCPA075_WH06.ppt&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.microsoft.com/whdc/system/pnppwr/powermgmt/ProcPowerMgmtWin7.mspx">"Windows 7 Processor Power Management"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+computing&amp;rft.btitle=Windows+7+Processor+Power+Management&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.microsoft.com%2Fwhdc%2Fsystem%2Fpnppwr%2Fpowermgmt%2FProcPowerMgmtWin7.mspx&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-36">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.microsoft.com/whdc/system/pnppwr/powermgmt/TimerCoal.mspx">"Windows 7 Timer Coalescing"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+computing&amp;rft.btitle=Windows+7+Timer+Coalescing&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.microsoft.com%2Fwhdc%2Fsystem%2Fpnppwr%2Fpowermgmt%2FTimerCoal.mspx&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-37">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.windowsitpro.com/article/buyers-guide/Power-Management-Software-for-Windows-Workstations-Buyers-Guide">"Power Management Software for Windows Workstations"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+computing&amp;rft.btitle=Power+Management+Software+for+Windows+Workstations&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.windowsitpro.com%2Farticle%2Fbuyers-guide%2FPower-Management-Software-for-Windows-Workstations-Buyers-Guide&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-38">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.energystar.gov/index.cfm?c=power_mgt.pr_power_mgt_comm_packages">"Energy Star Commercial Packages List"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+computing&amp;rft.btitle=Energy+Star+Commercial+Packages+List&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.energystar.gov%2Findex.cfm%3Fc%3Dpower_mgt.pr_power_mgt_comm_packages&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-39">^</a></b></span> <span class="reference-text"><cite class="citation web">The Headmasters'; Headmistresses' Conference. <a rel="nofollow" class="external text" href="http://www.hmcsustainability.org.uk/energy.html">"HMC: A Practical Guide to Sustainable Building for Schools"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+computing&amp;rft.au=Headmistresses%27+Conference&amp;rft.au=The+Headmasters%27&amp;rft.btitle=HMC%3A+A+Practical+Guide+to+Sustainable+Building+for+Schools&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.hmcsustainability.org.uk%2Fenergy.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-40"><span class="mw-cite-backlink"><b><a href="#cite_ref-40">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://itmanagersinbox.com/1399/pc-power-management-solutions">"PC Power Management Solutions"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+computing&amp;rft.btitle=PC+Power+Management+Solutions&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fitmanagersinbox.com%2F1399%2Fpc-power-management-solutions&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-41"><span class="mw-cite-backlink"><b><a href="#cite_ref-41">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://features.techworld.com/green-it/3546/why-use-software-nightwatchman-to-turn-your-pcs-off/">"Why use software NightWatchman to turn your PCs off?"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+computing&amp;rft.btitle=Why+use+software+NightWatchman+to+turn+your+PCs+off%3F&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Ffeatures.techworld.com%2Fgreen-it%2F3546%2Fwhy-use-software-nightwatchman-to-turn-your-pcs-off%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-42"><span class="mw-cite-backlink"><b><a href="#cite_ref-42">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://projects.oucs.ox.ac.uk/lowcarbonict/conferences/conf-2.htm#providers">"University of Oxford Low Carbon Project: Energy and the networked computing environment"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+computing&amp;rft.btitle=University+of+Oxford+Low+Carbon+Project%3A+Energy+and+the+networked+computing+environment&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fprojects.oucs.ox.ac.uk%2Flowcarbonict%2Fconferences%2Fconf-2.htm%23providers&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-43"><span class="mw-cite-backlink"><b><a href="#cite_ref-43">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.1e.com/Downloads/Articles/Published/451%20-%201E%20-%20Market%20Development-020309.pdf">"1E upgrades NightWatchman, seeks to bring powermanagement to SMEs: Competitive landscape"</a> <span style="font-size:85%;">(PDF)</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+computing&amp;rft.btitle=1E+upgrades+NightWatchman%2C+seeks+to+bring+powermanagement+to+SMEs%3A+Competitive+landscape&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.1e.com%2FDownloads%2FArticles%2FPublished%2F451%2520-%25201E%2520-%2520Market%2520Development-020309.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-44"><span class="mw-cite-backlink"><b><a href="#cite_ref-44">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.faronics.com/Faronics/Documents/Study_PowerSave_Forrester_TEI_EN.pdf">"Forrester Study: Total Economic Impact of Faronics Power Save"</a> <span style="font-size:85%;">(PDF)</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+computing&amp;rft.btitle=Forrester+Study%3A+Total+Economic+Impact+of+Faronics+Power+Save&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.faronics.com%2FFaronics%2FDocuments%2FStudy_PowerSave_Forrester_TEI_EN.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-45"><span class="mw-cite-backlink"><b><a href="#cite_ref-45">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.energystar.gov/ia/products/power_mgt/downloads/Auto_Shutdown_Manager_UC_Berkeley_Case_Study.pdf">"Going Green: University of California, Berkeley"</a> <span style="font-size:85%;">(PDF)</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+computing&amp;rft.btitle=Going+Green%3A+University+of+California%2C+Berkeley&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.energystar.gov%2Fia%2Fproducts%2Fpower_mgt%2Fdownloads%2FAuto_Shutdown_Manager_UC_Berkeley_Case_Study.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-46"><span class="mw-cite-backlink"><b><a href="#cite_ref-46">^</a></b></span> <span class="reference-text"><cite class="citation web">Schuhmann, Daniel (2005-02-28). <a rel="nofollow" class="external text" href="http://www.tomshardware.com/2005/02/28/strong_showing/page38.html">"Strong Showing: High-Performance Power Supply Units"</a>. Tom's Hardware<span class="reference-accessdate">. Retrieved <span class="nowrap">2007-09-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+computing&amp;rft.aufirst=Daniel&amp;rft.aulast=Schuhmann&amp;rft.btitle=Strong+Showing%3A+High-Performance+Power+Supply+Units&amp;rft.date=2005-02-28&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.tomshardware.com%2F2005%2F02%2F28%2Fstrong_showing%2Fpage38.html&amp;rft.pub=Tom%27s+Hardware&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span><sup class="noprint Inline-Template"><span style="white-space: nowrap;">[<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title="&#160;Dead link since November 2016">permanent dead link</span></a></i>]</span></sup></span></li>
+<li id="cite_note-47"><span class="mw-cite-backlink"><b><a href="#cite_ref-47">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.energystar.gov/index.cfm?c=computers.pr_crit_computers">"Computer Key Product Criteria"</a>. Energy Star. 2007-07-20<span class="reference-accessdate">. Retrieved <span class="nowrap">2007-09-17</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+computing&amp;rft.btitle=Computer+Key+Product+Criteria&amp;rft.date=2007-07-20&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.energystar.gov%2Findex.cfm%3Fc%3Dcomputers.pr_crit_computers&amp;rft.pub=Energy+Star&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-48"><span class="mw-cite-backlink"><b><a href="#cite_ref-48">^</a></b></span> <span class="reference-text"><cite class="citation web">Mike Chin (8 March 2004). <a rel="nofollow" class="external text" href="http://www.silentpcreview.com/article145-page1.html">"IS the Silent PC Future 2.5-inches wide?"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2008-08-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+computing&amp;rft.au=Mike+Chin&amp;rft.btitle=IS+the+Silent+PC+Future+2.5-inches+wide%3F&amp;rft.date=2004-03-08&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.silentpcreview.com%2Farticle145-page1.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-49"><span class="mw-cite-backlink"><b><a href="#cite_ref-49">^</a></b></span> <span class="reference-text"><cite class="citation web">Mike Chin (2002-09-18). <a rel="nofollow" class="external text" href="http://www.silentpcreview.com/article29-page2.html">"Recommended Hard Drives"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2008-08-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+computing&amp;rft.au=Mike+Chin&amp;rft.btitle=Recommended+Hard+Drives&amp;rft.date=2002-09-18&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.silentpcreview.com%2Farticle29-page2.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-50"><span class="mw-cite-backlink"><b><a href="#cite_ref-50">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://techreport.com/articles.x/10334/13">"Super Talent's 2.5" IDE Flash hard drive - The Tech Report - Page 13"</a>. The Tech Report<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-09-25</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+computing&amp;rft.btitle=Super+Talent%27s+2.5%22+IDE+Flash+hard+drive+-+The+Tech+Report+-+Page+13&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Ftechreport.com%2Farticles.x%2F10334%2F13&amp;rft.pub=The+Tech+Report&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-51"><span class="mw-cite-backlink"><b><a href="#cite_ref-51">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.tomshardware.com/reviews/conventional-hard-drive-obsoletism,1324-5.html">"Power Consumption - Tom's Hardware: Conventional Hard Drive Obsoletism? Samsung's 32 GB Flash Drive Previewed"</a>. Tomshardware.com. 2006-09-20<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-09-25</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+computing&amp;rft.btitle=Power+Consumption+-+Tom%27s+Hardware%3A+Conventional+Hard+Drive+Obsoletism%3F+Samsung%27s+32+GB+Flash+Drive+Previewed&amp;rft.date=2006-09-20&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.tomshardware.com%2Freviews%2Fconventional-hard-drive-obsoletism%2C1324-5.html&amp;rft.pub=Tomshardware.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-52"><span class="mw-cite-backlink"><b><a href="#cite_ref-52">^</a></b></span> <span class="reference-text"><cite class="citation web">Media Galleries Temporarily Disabled. <a rel="nofollow" class="external text" href="http://community.fusionio.com/media/p/458/download.aspx">"Media Galleries Temporarily Disabled - Fusion-io Community Forum"</a>. Community.fusionio.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-09-25</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+computing&amp;rft.au=Media+Galleries+Temporarily+Disabled&amp;rft.btitle=Media+Galleries+Temporarily+Disabled+-+Fusion-io+Community+Forum&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fcommunity.fusionio.com%2Fmedia%2Fp%2F458%2Fdownload.aspx&amp;rft.pub=Community.fusionio.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-53"><span class="mw-cite-backlink"><b><a href="#cite_ref-53">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.forbes.com/feeds/businesswire/2009/10/13/businesswire130131961.html">"Dead"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">October 23,</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+computing&amp;rft.btitle=Dead&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.forbes.com%2Ffeeds%2Fbusinesswire%2F2009%2F10%2F13%2Fbusinesswire130131961.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span><sup class="noprint Inline-Template"><span style="white-space: nowrap;">[<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title="&#160;Dead link since June 2016">dead link</span></a></i>]</span></sup></span></li>
+<li id="cite_note-54"><span class="mw-cite-backlink"><b><a href="#cite_ref-54">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://searchstorage.techtarget.com/news/1255635/IBM-chief-engineer-talks-green-storage">IBM chief engineer talks green storage</a>, SearchStorage - TechTarget</span></li>
+<li id="cite_note-55"><span class="mw-cite-backlink"><b><a href="#cite_ref-55">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.xbitlabs.com/articles/video/display/power-noise.html">"Faster, Quieter, Lower: Power Consumption and Noise Level of Contemporary Graphics Cards"</a>. X-bit labs. 2006-07-30<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-09-25</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+computing&amp;rft.btitle=Faster%2C+Quieter%2C+Lower%3A+Power+Consumption+and+Noise+Level+of+Contemporary+Graphics+Cards&amp;rft.date=2006-07-30&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.xbitlabs.com%2Farticles%2Fvideo%2Fdisplay%2Fpower-noise.html&amp;rft.pub=X-bit+labs&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-56"><span class="mw-cite-backlink"><b><a href="#cite_ref-56">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://news.thomasnet.com/fullstory/464080">"Cree LED Backlight Solution Lowers Power Consumption of LCD Displays"</a>. 2005-05-23<span class="reference-accessdate">. Retrieved <span class="nowrap">2007-09-17</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+computing&amp;rft.btitle=Cree+LED+Backlight+Solution+Lowers+Power+Consumption+of+LCD+Displays&amp;rft.date=2005-05-23&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fnews.thomasnet.com%2Ffullstory%2F464080&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-57"><span class="mw-cite-backlink"><b><a href="#cite_ref-57">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20080503011722/http://earth911.org/blog/2007/04/12/reuse-your-electronics-through-donation-to-schools-charities-and-nonprofit-organizations/">"Reuse your electronics through donation&#160;» Earth 911"</a>. Web.archive.org. 2010-04-13. Archived from <a rel="nofollow" class="external text" href="http://earth911.org/blog/2007/04/12/reuse-your-electronics-through-donation-to-schools-charities-and-nonprofit-organizations/">the original</a> on May 3, 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-09-25</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+computing&amp;rft.btitle=Reuse+your+electronics+through+donation+%BB+Earth+911&amp;rft.date=2010-04-13&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fearth911.org%2Fblog%2F2007%2F04%2F12%2Freuse-your-electronics-through-donation-to-schools-charities-and-nonprofit-organizations%2F&amp;rft.pub=Web.archive.org&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-58"><span class="mw-cite-backlink"><b><a href="#cite_ref-58">^</a></b></span> <span class="reference-text"><cite class="citation journal">Delaney, John (2007-09-04). <a rel="nofollow" class="external text" href="http://www.pcmag.com/article2/0,1895,2170255,00.asp">"15 Ways to Reinvent Your PC"</a>. <i>PC Magazine</i>. <b>26</b> (17).</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+computing&amp;rft.atitle=15+Ways+to+Reinvent+Your+PC&amp;rft.aufirst=John&amp;rft.aulast=Delaney&amp;rft.date=2007-09-04&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.pcmag.com%2Farticle2%2F0%2C1895%2C2170255%2C00.asp&amp;rft.issue=17&amp;rft.jtitle=PC+Magazine&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=26" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-59"><span class="mw-cite-backlink"><b><a href="#cite_ref-59">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://investor.staples.com/phoenix.zhtml?c=96244&amp;p=irol-newsArticle&amp;ID=1004542&amp;highlight=">"Staples Launches Nationwide Computer and Office Technology Recycling Program"</a>. Staples, Inc. 2007-05-21<span class="reference-accessdate">. Retrieved <span class="nowrap">2007-09-17</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+computing&amp;rft.btitle=Staples+Launches+Nationwide+Computer+and+Office+Technology+Recycling+Program&amp;rft.date=2007-05-21&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Finvestor.staples.com%2Fphoenix.zhtml%3Fc%3D96244%26p%3Dirol-newsArticle%26ID%3D1004542%26highlight%3D&amp;rft.pub=Staples%2C+Inc.&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-60"><span class="mw-cite-backlink"><b><a href="#cite_ref-60">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20080725070137/http://earth911.org/blog/2007/08/15/goodwill-teams-with-electronic-recyclers-to-recycle-ewaste/">"Goodwill Teams with Electronic Recyclers to Recycle eWaste"</a>. Earth 911. 2007-08-15. Archived from <a rel="nofollow" class="external text" href="http://earth911.org/blog/2007/08/15/goodwill-teams-with-electronic-recyclers-to-recycle-ewaste/">the original</a> on 2008-07-25<span class="reference-accessdate">. Retrieved <span class="nowrap">2007-09-17</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+computing&amp;rft.btitle=Goodwill+Teams+with+Electronic+Recyclers+to+Recycle+eWaste&amp;rft.date=2007-08-15&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fearth911.org%2Fblog%2F2007%2F08%2F15%2Fgoodwill-teams-with-electronic-recyclers-to-recycle-ewaste%2F&amp;rft.pub=Earth+911&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-61"><span class="mw-cite-backlink"><b><a href="#cite_ref-61">^</a></b></span> <span class="reference-text"><a href="/wiki/Ink_cartridges#Refilled_and_3rd_party_ink_cartridges" class="mw-redirect" title="Ink cartridges">Refilled ink cartridges</a>, <a href="/wiki/Paper_recycling" title="Paper recycling">paper recycling</a>, <a href="/wiki/Battery_recycling" title="Battery recycling">battery recycling</a></span></li>
+<li id="cite_note-62"><span class="mw-cite-backlink"><b><a href="#cite_ref-62">^</a></b></span> <span class="reference-text"><cite class="citation journal">Segan, Sascha (2007-10-02). <a rel="nofollow" class="external text" href="http://www.pcmag.com/article2/0,2704,2183977,00.asp">"Green Tech: Reduce, Reuse, That's It"</a>. <i>PC Magazine</i>. <b>26</b> (19): 56<span class="reference-accessdate">. Retrieved <span class="nowrap">2007-11-07</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+computing&amp;rft.atitle=Green+Tech%3A+Reduce%2C+Reuse%2C+That%27s+It&amp;rft.aufirst=Sascha&amp;rft.aulast=Segan&amp;rft.date=2007-10-02&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.pcmag.com%2Farticle2%2F0%2C2704%2C2183977%2C00.asp&amp;rft.issue=19&amp;rft.jtitle=PC+Magazine&amp;rft.pages=56&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=26" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-63"><span class="mw-cite-backlink"><b><a href="#cite_ref-63">^</a></b></span> <span class="reference-text"><cite class="citation book">Royte, Elizabeth (2006). <i>Garbage Land: On the Secret Trail of Trash</i>. Back Bay Books. pp.&#160;169–170. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-316-73826-3" title="Special:BookSources/0-316-73826-3">0-316-73826-3</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+computing&amp;rft.aufirst=Elizabeth&amp;rft.aulast=Royte&amp;rft.btitle=Garbage+Land%3A+On+the+Secret+Trail+of+Trash&amp;rft.date=2006&amp;rft.genre=book&amp;rft.isbn=0-316-73826-3&amp;rft.pages=169-170&amp;rft.pub=Back+Bay+Books&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-64"><span class="mw-cite-backlink"><b><a href="#cite_ref-64">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.greenit.fr/article/materiel/recyclage/deee-l-europe-revoit-ses-objectifs-a-la-hausse-3482">"e-waste take-back still very low"</a>. GreenIT.fr. 2011-02-09<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-02-09</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+computing&amp;rft.btitle=e-waste+take-back+still+very+low&amp;rft.date=2011-02-09&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.greenit.fr%2Farticle%2Fmateriel%2Frecyclage%2Fdeee-l-europe-revoit-ses-objectifs-a-la-hausse-3482&amp;rft.pub=GreenIT.fr&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-65"><span class="mw-cite-backlink"><b><a href="#cite_ref-65">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.mysecurecyberspace.com/articles/features/green-computing-and-privacy-issues.html">"Green Computing and Privacy Issues"</a>. MySecureCyberspace<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-09-25</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+computing&amp;rft.btitle=Green+Computing+and+Privacy+Issues&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.mysecurecyberspace.com%2Farticles%2Ffeatures%2Fgreen-computing-and-privacy-issues.html&amp;rft.pub=MySecureCyberspace&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-66"><span class="mw-cite-backlink"><b><a href="#cite_ref-66">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.zdnet.com/article/microsoft-backed-research-suggests-big-energy-reductions-from-cloud/">"Microsoft-backed research suggests big energy reductions from cloud"</a>. ZDNet. 2010-11-04<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-09-03</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+computing&amp;rft.btitle=Microsoft-backed+research+suggests+big+energy+reductions+from+cloud&amp;rft.date=2010-11-04&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.zdnet.com%2Farticle%2Fmicrosoft-backed-research-suggests-big-energy-reductions-from-cloud%2F&amp;rft.pub=ZDNet&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Google_Scholar_Citations-67"><span class="mw-cite-backlink">^ <a href="#cite_ref-Google_Scholar_Citations_67-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Google_Scholar_Citations_67-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://scholar.google.com.pk/citations?view_op=view_citation&amp;hl=en&amp;user=tWRIBtoAAAAJ&amp;sortby=pubdate&amp;citation_for_view=tWRIBtoAAAAJ:rO6llkc54NcC">"Google Scholar Citations"</a>. <i>scholar.google.com.pk</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-05-05</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+computing&amp;rft.atitle=Google+Scholar+Citations&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fscholar.google.com.pk%2Fcitations%3Fview_op%3Dview_citation%26hl%3Den%26user%3DtWRIBtoAAAAJ%26sortby%3Dpubdate%26citation_for_view%3DtWRIBtoAAAAJ%3ArO6llkc54NcC&amp;rft.jtitle=scholar.google.com.pk&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-68"><span class="mw-cite-backlink"><b><a href="#cite_ref-68">^</a></b></span> <span class="reference-text">E. Curry, B. Guyon, C. Sheridan, and B. Donnellan, <a rel="nofollow" class="external text" href="http://www.edwardcurry.org/publications/MISQE_SustainableIT_Intel_2012.pdf">“Developing an Sustainable IT Capability: Lessons From Intel’s Journey,”</a> MIS Quarterly Executive, vol. 11, no. 2, pp. 61–74, 2012.</span></li>
+<li id="cite_note-69"><span class="mw-cite-backlink"><b><a href="#cite_ref-69">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20090306130237/http://www.epa.gov/cleanenergy/documents/sector-meeting/4bi_officebuilding.pdf">"EPA Office Building Energy Use Profile"</a> <span style="font-size:85%;">(PDF)</span>. EPA. 2007-08-15. Archived from <a rel="nofollow" class="external text" href="http://www.epa.gov/cleanenergy/documents/sector-meeting/4bi_officebuilding.pdf">the original</a> <span style="font-size:85%;">(PDF)</span> on 2009-03-06<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-03-17</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+computing&amp;rft.btitle=EPA+Office+Building+Energy+Use+Profile&amp;rft.date=2007-08-15&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.epa.gov%2Fcleanenergy%2Fdocuments%2Fsector-meeting%2F4bi_officebuilding.pdf&amp;rft.pub=EPA&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-70"><span class="mw-cite-backlink"><b><a href="#cite_ref-70">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://energypriorities.com/entries/2007/06/what_is_green_it_data_centers.php">"What Is Green IT?"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+computing&amp;rft.btitle=What+Is+Green+IT%3F&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fenergypriorities.com%2Fentries%2F2007%2F06%2Fwhat_is_green_it_data_centers.php&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-71"><span class="mw-cite-backlink"><b><a href="#cite_ref-71">^</a></b></span> <span class="reference-text"><a href="/w/index.php?title=Template:Url%3Dhttp://www.itu.int/ITU-D/cyb/app/docs/itu-icts-for-e-environment.pdf&amp;action=edit&amp;redlink=1" class="new" title="Template:Url=http://www.itu.int/ITU-D/cyb/app/docs/itu-icts-for-e-environment.pdf (page does not exist)">Template:Url=http://www.itu.int/ITU-D/cyb/app/docs/itu-icts-for-e-environment.pdf</a></span></li>
+<li id="cite_note-72"><span class="mw-cite-backlink"><b><a href="#cite_ref-72">^</a></b></span> <span class="reference-text"><cite class="citation journal">Puglia, Virgilio (January 2013). <a rel="nofollow" class="external text" href="http://inderscience.metapress.com/content/n2w5530544110065/">"Energy indices for environmental sustainability"</a>. <i>International Journal of Technology Marketing</i>. <b>8</b> (1/2013).</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+computing&amp;rft.atitle=Energy+indices+for+environmental+sustainability&amp;rft.aufirst=Virgilio&amp;rft.aulast=Puglia&amp;rft.date=2013-01&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Finderscience.metapress.com%2Fcontent%2Fn2w5530544110065%2F&amp;rft.issue=1%2F2013&amp;rft.jtitle=International+Journal+of+Technology+Marketing&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=8" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-73"><span class="mw-cite-backlink"><b><a href="#cite_ref-73">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://studyat.anu.edu.au/courses/COMP7310;details.html">"ICT Sustainability Course"</a>. Australian National University. 2012-01-01<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-02-05</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+computing&amp;rft.btitle=ICT+Sustainability+Course&amp;rft.date=2012-01-01&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fstudyat.anu.edu.au%2Fcourses%2FCOMP7310%3Bdetails.html&amp;rft.pub=Australian+National+University&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-74"><span class="mw-cite-backlink"><b><a href="#cite_ref-74">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://scis.athabascau.ca/graduate/comp635syllabus.php">"Green ICT Strategies (Revision 1)"</a>. Athabasca University. 2011-09-06<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-02-05</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+computing&amp;rft.btitle=Green+ICT+Strategies+%28Revision+1%29&amp;rft.date=2011-09-06&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fscis.athabascau.ca%2Fgraduate%2Fcomp635syllabus.php&amp;rft.pub=Athabasca+University&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-75"><span class="mw-cite-backlink"><b><a href="#cite_ref-75">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.tomw.net.au/ict_sustainability/">"ICT Sustainability: Assessment and Strategies for a Low Carbon Future"</a>. Tomw Communications Pty, Limited. 2011-09-06<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-02-05</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+computing&amp;rft.btitle=ICT+Sustainability%3A+Assessment+and+Strategies+for+a+Low+Carbon+Future&amp;rft.date=2011-09-06&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.tomw.net.au%2Fict_sustainability%2F&amp;rft.pub=Tomw+Communications+Pty%2C+Limited&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-76"><span class="mw-cite-backlink"><b><a href="#cite_ref-76">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://courses.leedsbeckett.ac.uk/sustainablecomputing_msc">"MSc Sustainable Computing Course"</a>. Leeds Beckett University. 2012-01-01<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-04-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+computing&amp;rft.btitle=MSc+Sustainable+Computing+Course&amp;rft.date=2012-01-01&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fcourses.leedsbeckett.ac.uk%2Fsustainablecomputing_msc&amp;rft.pub=Leeds+Beckett+University&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-77"><span class="mw-cite-backlink"><b><a href="#cite_ref-77">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.sgauge.com/greenci/">"Green Computing Initiative Certification"</a>. Green Computing Initiative<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-02-05</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+computing&amp;rft.btitle=Green+Computing+Initiative+Certification&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.sgauge.com%2Fgreenci%2F&amp;rft.pub=Green+Computing+Initiative&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-78"><span class="mw-cite-backlink"><b><a href="#cite_ref-78">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.sitf.org.sg/sitfacademy/Programme_SCGP.html">"Singapore Certified Green IT Professional"</a>. Singapore Infocomm Technology Federation. 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-02-05</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+computing&amp;rft.btitle=Singapore+Certified+Green+IT+Professional&amp;rft.date=2012&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.sitf.org.sg%2Fsitfacademy%2FProgramme_SCGP.html&amp;rft.pub=Singapore+Infocomm+Technology+Federation&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-79"><span class="mw-cite-backlink"><b><a href="#cite_ref-79">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20110302073226/http://www.acs.org.au/cpeprogram/index.cfm?action=show&amp;conID=greenict">"Green Technology Strategies Course"</a>. Australian Computer Society. 2011-11-29. Archived from <a rel="nofollow" class="external text" href="http://www.acs.org.au/cpeprogram/index.cfm?action=show&amp;conID=greenict">the original</a> on 2011-03-02<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-02-05</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+computing&amp;rft.btitle=Green+Technology+Strategies+Course&amp;rft.date=2011-11-29&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.acs.org.au%2Fcpeprogram%2Findex.cfm%3Faction%3Dshow%26conID%3Dgreenict&amp;rft.pub=Australian+Computer+Society&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-80"><span class="mw-cite-backlink"><b><a href="#cite_ref-80">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://ygreenit.wordpress.com/about/">"Green Computing Blog by students of IE Business School"</a>. Wordpress<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-06-12</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+computing&amp;rft.btitle=Green+Computing+Blog+by+students+of+IE+Business+School&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fygreenit.wordpress.com%2Fabout%2F&amp;rft.pub=Wordpress&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-81"><span class="mw-cite-backlink"><b><a href="#cite_ref-81">^</a></b></span> <span class="reference-text">"<a rel="nofollow" class="external free" href="http://greenteamforgreenit.blogspot.com.es/">http://greenteamforgreenit.blogspot.com.es/</a>" - Green Team for Green IT&#160;: A blog by MBA students from IE Business School to spread an understanding on the importance, effects, and implications of Green IT for Business</span></li>
+</ol>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Environmental_technology" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Environmental_technology" title="Template:Environmental technology"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Environmental_technology" title="Template talk:Environmental technology"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Environmental_technology&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Environmental_technology" style="font-size:114%"><a href="/wiki/Environmental_technology" title="Environmental technology">Environmental technology</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Appropriate_technology" title="Appropriate technology">Appropriate technology</a></li>
+<li><a href="/wiki/Clean_technology" title="Clean technology">Clean technology</a></li>
+<li><a href="/wiki/Environmental_design" title="Environmental design">Environmental design</a></li>
+<li><a href="/wiki/Environmental_impact_assessment" title="Environmental impact assessment">Environmental impact assessment</a></li>
+<li><a href="/wiki/Sustainable_development" title="Sustainable development">Sustainable development</a></li>
+<li><a href="/wiki/Sustainable_design" title="Sustainable design">Sustainable technology</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="7" style="width:0%;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:Windmills_D1-D4_-_Thornton_Bank.jpg" class="image"><img alt="Windmills D1-D4 - Thornton Bank.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Windmills_D1-D4_-_Thornton_Bank.jpg/100px-Windmills_D1-D4_-_Thornton_Bank.jpg" width="100" height="158" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Windmills_D1-D4_-_Thornton_Bank.jpg/150px-Windmills_D1-D4_-_Thornton_Bank.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Windmills_D1-D4_-_Thornton_Bank.jpg/200px-Windmills_D1-D4_-_Thornton_Bank.jpg 2x" data-file-width="2421" data-file-height="3831" /></a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Pollution" title="Pollution">Pollution</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li>Air pollution (<a href="/wiki/Emission_standard" title="Emission standard">control</a></li>
+<li><a href="/wiki/Atmospheric_dispersion_modeling" title="Atmospheric dispersion modeling">dispersion modeling</a>)</li>
+<li><a href="/wiki/Industrial_ecology" title="Industrial ecology">Industrial ecology</a></li>
+<li><a href="/wiki/List_of_solid_waste_treatment_technologies" title="List of solid waste treatment technologies">Solid waste treatment</a></li>
+<li><a href="/wiki/Waste_management" title="Waste management">Waste management</a></li>
+<li>Water (<a href="/wiki/Agricultural_wastewater_treatment" title="Agricultural wastewater treatment">agricultural wastewater treatment</a></li>
+<li><a href="/wiki/Industrial_wastewater_treatment" title="Industrial wastewater treatment">industrial wastewater treatment</a></li>
+<li><a href="/wiki/Sewage_treatment" title="Sewage treatment">sewage treatment</a></li>
+<li><a href="/wiki/List_of_waste-water_treatment_technologies" title="List of waste-water treatment technologies">waste-water treatment technologies</a></li>
+<li><a href="/wiki/Water_purification" title="Water purification">water purification</a>)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Renewable_energy" title="Renewable energy">Renewable energy</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Alternative_energy" title="Alternative energy">Alternative energy</a></li>
+<li><a href="/wiki/Efficient_energy_use" title="Efficient energy use">Efficient energy use</a></li>
+<li><a href="/wiki/Energy_development" title="Energy development">Energy development</a></li>
+<li><a href="/wiki/Energy_recovery" title="Energy recovery">Energy recovery</a></li>
+<li>Fuel (<a href="/wiki/Alternative_fuel" title="Alternative fuel">alternative fuel</a></li>
+<li><a href="/wiki/Biofuel" title="Biofuel">biofuel</a></li>
+<li><a href="/wiki/Carbon_negative_fuel" class="mw-redirect" title="Carbon negative fuel">carbon negative fuel</a></li>
+<li><a href="/wiki/Hydrogen_technologies" title="Hydrogen technologies">hydrogen technologies</a>)</li>
+<li><a href="/wiki/List_of_energy_storage_projects" title="List of energy storage projects">List of energy storage projects</a></li>
+<li><a href="/wiki/Renewable_energy" title="Renewable energy">Renewable energy</a> (<a href="/wiki/Renewable_energy_commercialization" title="Renewable energy commercialization">commercialization</a>)</li>
+<li><a href="/wiki/Sustainable_energy" title="Sustainable energy">Sustainable energy</a></li>
+<li><a href="/wiki/Sustainable_transport" title="Sustainable transport">Transportation</a> (<a href="/wiki/Electric_vehicle" title="Electric vehicle">electric vehicle</a></li>
+<li><a href="/wiki/Hybrid_vehicle" title="Hybrid vehicle">hybrid vehicle</a>)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Conservation</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Birth_control" title="Birth control">Birth control</a></li>
+<li>Building (<a href="/wiki/Green_building" title="Green building">green</a></li>
+<li><a href="/wiki/Natural_building" title="Natural building">natural</a></li>
+<li><a href="/wiki/Sustainable_architecture" title="Sustainable architecture">sustainable architecture</a></li>
+<li><a href="/wiki/New_Urbanism" title="New Urbanism">New Urbanism</a></li>
+<li><a href="/wiki/New_Classical_Architecture" class="mw-redirect" title="New Classical Architecture">New Classical</a>)</li>
+<li><a href="/wiki/Conservation_biology" title="Conservation biology">Conservation biology</a></li>
+<li><a href="/wiki/Conservation_(ethic)" title="Conservation (ethic)">Conservation ethic</a></li>
+<li><a href="/wiki/Ecoforestry" title="Ecoforestry">Ecoforestry</a></li>
+<li><a href="/wiki/Environmental_preservation" class="mw-redirect" title="Environmental preservation">Environmental preservation</a></li>
+<li><a href="/wiki/Environmental_remediation" title="Environmental remediation">Environmental remediation</a></li>
+<li><strong class="selflink">Green computing</strong></li>
+<li><a href="/wiki/Permaculture" title="Permaculture">Permaculture</a></li>
+<li><a href="/wiki/Recycling" title="Recycling">Recycling</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Major_fields_of_computer_science" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Computer_science" title="Template:Computer science"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Computer_science" title="Template talk:Computer science"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Computer_science&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Major_fields_of_computer_science" style="font-size:114%">Major fields of <a href="/wiki/Computer_science" title="Computer science">computer science</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>Note: This template roughly follows the 2012 <a href="/wiki/ACM_Computing_Classification_System" title="ACM Computing Classification System">ACM Computing classification</a>.</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Computer_hardware" title="Computer hardware">Hardware</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Printed_circuit_board" title="Printed circuit board">Printed circuit board</a></li>
+<li><a href="/wiki/Peripheral" title="Peripheral">Peripheral</a></li>
+<li><a href="/wiki/Integrated_circuit" title="Integrated circuit">Integrated circuit</a></li>
+<li><a href="/wiki/Very-large-scale_integration" title="Very-large-scale integration">Very-large-scale integration</a></li>
+<li><strong class="selflink">Energy consumption</strong></li>
+<li><a href="/wiki/Electronic_design_automation" title="Electronic design automation">Electronic design automation</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Computer systems<br />
+organization</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Computer_architecture" title="Computer architecture">Computer architecture</a></li>
+<li><a href="/wiki/Embedded_system" title="Embedded system">Embedded system</a></li>
+<li><a href="/wiki/Real-time_computing" title="Real-time computing">Real-time computing</a></li>
+<li><a href="/wiki/Dependability" title="Dependability">Dependability</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Computer_network" title="Computer network">Networks</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Network_architecture" title="Network architecture">Network architecture</a></li>
+<li><a href="/wiki/Network_protocol" class="mw-redirect" title="Network protocol">Network protocol</a></li>
+<li><a href="/wiki/Networking_hardware" title="Networking hardware">Network components</a></li>
+<li><a href="/wiki/Network_scheduler" title="Network scheduler">Network scheduler</a></li>
+<li><a href="/wiki/Network_performance" title="Network performance">Network performance evaluation</a></li>
+<li><a href="/wiki/Network_service" title="Network service">Network service</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Software organization</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Interpreter_(computing)" title="Interpreter (computing)">Interpreter</a></li>
+<li><a href="/wiki/Middleware" title="Middleware">Middleware</a></li>
+<li><a href="/wiki/Virtual_machine" title="Virtual machine">Virtual machine</a></li>
+<li><a href="/wiki/Operating_system" title="Operating system">Operating system</a></li>
+<li><a href="/wiki/Software_quality" title="Software quality">Software quality</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Programming_language_theory" title="Programming language theory">Software notations</a><br />
+and <a href="/wiki/Programming_tool" title="Programming tool">tools</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Programming_paradigm" title="Programming paradigm">Programming paradigm</a></li>
+<li><a href="/wiki/Programming_language" title="Programming language">Programming language</a></li>
+<li><a href="/wiki/Compiler_construction" class="mw-redirect" title="Compiler construction">Compiler</a></li>
+<li><a href="/wiki/Domain-specific_language" title="Domain-specific language">Domain-specific language</a></li>
+<li><a href="/wiki/Modeling_language" title="Modeling language">Modeling language</a></li>
+<li><a href="/wiki/Software_framework" title="Software framework">Software framework</a></li>
+<li><a href="/wiki/Integrated_development_environment" title="Integrated development environment">Integrated development environment</a></li>
+<li><a href="/wiki/Software_configuration_management" title="Software configuration management">Software configuration management</a></li>
+<li><a href="/wiki/Library_(computing)" title="Library (computing)">Software library</a></li>
+<li><a href="/wiki/Software_repository" title="Software repository">Software repository</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Software_development" title="Software development">Software development</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Software_development_process" title="Software development process">Software development process</a></li>
+<li><a href="/wiki/Requirements_analysis" title="Requirements analysis">Requirements analysis</a></li>
+<li><a href="/wiki/Software_design" title="Software design">Software design</a></li>
+<li><a href="/wiki/Software_construction" title="Software construction">Software construction</a></li>
+<li><a href="/wiki/Software_deployment" title="Software deployment">Software deployment</a></li>
+<li><a href="/wiki/Software_maintenance" title="Software maintenance">Software maintenance</a></li>
+<li><a href="/wiki/Programming_team" title="Programming team">Programming team</a></li>
+<li><a href="/wiki/Open-source_software" title="Open-source software">Open-source model</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Theory_of_computation" title="Theory of computation">Theory of computation</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Model_of_computation" title="Model of computation">Model of computation</a></li>
+<li><a href="/wiki/Formal_language" title="Formal language">Formal language</a></li>
+<li><a href="/wiki/Automata_theory" title="Automata theory">Automata theory</a></li>
+<li><a href="/wiki/Computational_complexity_theory" title="Computational complexity theory">Computational complexity theory</a></li>
+<li><a href="/wiki/Logic_in_computer_science" title="Logic in computer science">Logic</a></li>
+<li><a href="/wiki/Semantics_(computer_science)" title="Semantics (computer science)">Semantics</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Algorithm" title="Algorithm">Algorithms</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Algorithm_design" title="Algorithm design">Algorithm design</a></li>
+<li><a href="/wiki/Analysis_of_algorithms" title="Analysis of algorithms">Analysis of algorithms</a></li>
+<li><a href="/wiki/Randomized_algorithm" title="Randomized algorithm">Randomized algorithm</a></li>
+<li><a href="/wiki/Computational_geometry" title="Computational geometry">Computational geometry</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Mathematics<br />
+of computing</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Discrete_mathematics" title="Discrete mathematics">Discrete mathematics</a></li>
+<li><a href="/wiki/Probability" title="Probability">Probability</a></li>
+<li><a href="/wiki/Statistics" title="Statistics">Statistics</a></li>
+<li><a href="/wiki/Mathematical_software" title="Mathematical software">Mathematical software</a></li>
+<li><a href="/wiki/Information_theory" title="Information theory">Information theory</a></li>
+<li><a href="/wiki/Mathematical_analysis" title="Mathematical analysis">Mathematical analysis</a></li>
+<li><a href="/wiki/Numerical_analysis" title="Numerical analysis">Numerical analysis</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Information_system" title="Information system">Information<br />
+systems</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Database_management_system" class="mw-redirect" title="Database management system">Database management system</a></li>
+<li><a href="/wiki/Computer_data_storage" title="Computer data storage">Information storage systems</a></li>
+<li><a href="/wiki/Enterprise_information_system" title="Enterprise information system">Enterprise information system</a></li>
+<li><a href="/wiki/Social_software" title="Social software">Social information systems</a></li>
+<li><a href="/wiki/Geographic_information_system" title="Geographic information system">Geographic information system</a></li>
+<li><a href="/wiki/Decision_support_system" title="Decision support system">Decision support system</a></li>
+<li><a href="/wiki/Process_control" title="Process control">Process control system</a></li>
+<li><a href="/wiki/Multimedia_database" title="Multimedia database">Multimedia information system</a></li>
+<li><a href="/wiki/Data_mining" title="Data mining">Data mining</a></li>
+<li><a href="/wiki/Digital_library" title="Digital library">Digital library</a></li>
+<li><a href="/wiki/Computing_platform" title="Computing platform">Computing platform</a></li>
+<li><a href="/wiki/Digital_marketing" title="Digital marketing">Digital marketing</a></li>
+<li><a href="/wiki/World_Wide_Web" title="World Wide Web">World Wide Web</a></li>
+<li><a href="/wiki/Information_retrieval" title="Information retrieval">Information retrieval</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Computer_security" title="Computer security">Security</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Cryptography" title="Cryptography">Cryptography</a></li>
+<li><a href="/wiki/Formal_methods" title="Formal methods">Formal methods</a></li>
+<li><a href="/wiki/Security_service_(telecommunication)" title="Security service (telecommunication)">Security services</a></li>
+<li><a href="/wiki/Intrusion_detection_system" title="Intrusion detection system">Intrusion detection system</a></li>
+<li><a href="/wiki/Computer_security_compromised_by_hardware_failure" title="Computer security compromised by hardware failure">Hardware security</a></li>
+<li><a href="/wiki/Network_security" title="Network security">Network security</a></li>
+<li><a href="/wiki/Information_security" title="Information security">Information security</a></li>
+<li><a href="/wiki/Application_security" title="Application security">Application security</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Human%E2%80%93computer_interaction" title="Human–computer interaction">Human–computer<br />
+interaction</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Interaction_design" title="Interaction design">Interaction design</a></li>
+<li><a href="/wiki/Social_computing" title="Social computing">Social computing</a></li>
+<li><a href="/wiki/Ubiquitous_computing" title="Ubiquitous computing">Ubiquitous computing</a></li>
+<li><a href="/wiki/Visualization_(computer_graphics)" class="mw-redirect" title="Visualization (computer graphics)">Visualization</a></li>
+<li><a href="/wiki/Computer_accessibility" title="Computer accessibility">Accessibility</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Concurrency_(computer_science)" title="Concurrency (computer science)">Concurrency</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Concurrent_computing" title="Concurrent computing">Concurrent computing</a></li>
+<li><a href="/wiki/Parallel_computing" title="Parallel computing">Parallel computing</a></li>
+<li><a href="/wiki/Distributed_computing" title="Distributed computing">Distributed computing</a></li>
+<li><a href="/wiki/Multithreading_(computer_architecture)" title="Multithreading (computer architecture)">Multithreading</a></li>
+<li><a href="/wiki/Multiprocessing" title="Multiprocessing">Multiprocessing</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Artificial_intelligence" title="Artificial intelligence">Artificial<br />
+intelligence</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Natural_language_processing" title="Natural language processing">Natural language processing</a></li>
+<li><a href="/wiki/Knowledge_representation_and_reasoning" title="Knowledge representation and reasoning">Knowledge representation and reasoning</a></li>
+<li><a href="/wiki/Computer_vision" title="Computer vision">Computer vision</a></li>
+<li><a href="/wiki/Automated_planning_and_scheduling" title="Automated planning and scheduling">Automated planning and scheduling</a></li>
+<li><a href="/wiki/Mathematical_optimization" title="Mathematical optimization">Search methodology</a></li>
+<li><a href="/wiki/Control_theory" title="Control theory">Control method</a></li>
+<li><a href="/wiki/Philosophy_of_artificial_intelligence" title="Philosophy of artificial intelligence">Philosophy of artificial intelligence</a></li>
+<li><a href="/wiki/Distributed_artificial_intelligence" title="Distributed artificial intelligence">Distributed artificial intelligence</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Machine_learning" title="Machine learning">Machine learning</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Supervised_learning" title="Supervised learning">Supervised learning</a></li>
+<li><a href="/wiki/Unsupervised_learning" title="Unsupervised learning">Unsupervised learning</a></li>
+<li><a href="/wiki/Reinforcement_learning" title="Reinforcement learning">Reinforcement learning</a></li>
+<li><a href="/wiki/Multi-task_learning" title="Multi-task learning">Multi-task learning</a></li>
+<li><a href="/wiki/List_of_machine_learning_concepts" title="List of machine learning concepts">Machine learning algorithms</a></li>
+<li><a href="/wiki/Cross-validation_(statistics)" title="Cross-validation (statistics)">Cross-validation</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Computer_graphics" title="Computer graphics">Graphics</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Computer_animation" title="Computer animation">Animation</a></li>
+<li><a href="/wiki/Rendering_(computer_graphics)" title="Rendering (computer graphics)">Rendering</a></li>
+<li><a href="/wiki/Photo_manipulation" title="Photo manipulation">Image manipulation</a></li>
+<li><a href="/wiki/Graphics_processing_unit" title="Graphics processing unit">Graphics processing unit</a></li>
+<li><a href="/wiki/Mixed_reality" title="Mixed reality">Mixed reality</a></li>
+<li><a href="/wiki/Virtual_reality" title="Virtual reality">Virtual reality</a></li>
+<li><a href="/wiki/Image_compression" title="Image compression">Image compression</a></li>
+<li><a href="/wiki/Solid_modeling" title="Solid modeling">Solid modeling</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Applied<br />
+computing</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/E-commerce" title="E-commerce">E-commerce</a></li>
+<li><a href="/wiki/Enterprise_software" title="Enterprise software">Enterprise software</a></li>
+<li><a href="/wiki/Computational_mathematics" title="Computational mathematics">Computational mathematics</a></li>
+<li><a href="/wiki/Computational_physics" title="Computational physics">Computational physics</a></li>
+<li><a href="/wiki/Computational_chemistry" title="Computational chemistry">Computational chemistry</a></li>
+<li><a href="/wiki/Computational_biology" title="Computational biology">Computational biology</a></li>
+<li><a href="/wiki/Computational_social_science" title="Computational social science">Computational social science</a></li>
+<li><a href="/wiki/Computational_engineering" title="Computational engineering">Computational engineering</a></li>
+<li><a href="/wiki/Health_informatics" title="Health informatics">Computational healthcare</a></li>
+<li><a href="/wiki/Digital_art" title="Digital art">Digital art</a></li>
+<li><a href="/wiki/Electronic_publishing" title="Electronic publishing">Electronic publishing</a></li>
+<li><a href="/wiki/Cyberwarfare" title="Cyberwarfare">Cyberwarfare</a></li>
+<li><a href="/wiki/Electronic_voting" title="Electronic voting">Electronic voting</a></li>
+<li><a href="/wiki/Video_game" title="Video game">Video game</a></li>
+<li><a href="/wiki/Word_processor" title="Word processor">Word processing</a></li>
+<li><a href="/wiki/Operations_research" title="Operations research">Operations research</a></li>
+<li><a href="/wiki/Educational_technology" title="Educational technology">Educational technology</a></li>
+<li><a href="/wiki/Document_management_system" title="Document management system">Document management</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><b><a href="/wiki/File:Internet_map_1024.jpg" class="image"><img alt="Internet map 1024.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Internet_map_1024.jpg/16px-Internet_map_1024.jpg" width="16" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Internet_map_1024.jpg/24px-Internet_map_1024.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Internet_map_1024.jpg/32px-Internet_map_1024.jpg 2x" data-file-width="1280" data-file-height="1280" /></a> <a href="/wiki/Portal:Computer_science" title="Portal:Computer science">Computer science portal</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1270
+Cached time: 20170130061440
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.520 seconds
+Real time usage: 0.614 seconds
+Preprocessor visited node count: 3592/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 154759/2097152 bytes
+Template argument size: 2468/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 5/500
+Lua time usage: 0.250/10.000 seconds
+Lua memory usage: 5.94 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  508.440      1 -total
+ 57.77%  293.723      1 Template:Reflist
+ 29.98%  152.411     56 Template:Cite_web
+ 12.47%   63.412      1 Template:Merge_from
+  7.39%   37.572      4 Template:Fix
+  6.77%   34.407      2 Template:Citation_needed
+  6.38%   32.438      1 Template:Mbox
+  5.95%   30.258      2 Template:Cite_news
+  4.02%   20.414      2 Template:Navbox
+  3.57%   18.134      8 Template:Category_handler
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1661475-0!*!0!!en!4!* and timestamp 20170130061439 and revision id 760666386
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Green_computing&amp;oldid=760666386">https://en.wikipedia.org/w/index.php?title=Green_computing&amp;oldid=760666386</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Sustainable_technologies" title="Category:Sustainable technologies">Sustainable technologies</a></li><li><a href="/wiki/Category:Computers_and_the_environment" title="Category:Computers and the environment">Computers and the environment</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_errors:_dates" title="Category:CS1 errors: dates">CS1 errors: dates</a></li><li><a href="/wiki/Category:All_articles_with_dead_external_links" title="Category:All articles with dead external links">All articles with dead external links</a></li><li><a href="/wiki/Category:Articles_with_dead_external_links_from_November_2016" title="Category:Articles with dead external links from November 2016">Articles with dead external links from November 2016</a></li><li><a href="/wiki/Category:Articles_with_permanently_dead_external_links" title="Category:Articles with permanently dead external links">Articles with permanently dead external links</a></li><li><a href="/wiki/Category:Articles_with_dead_external_links_from_June_2016" title="Category:Articles with dead external links from June 2016">Articles with dead external links from June 2016</a></li><li><a href="/wiki/Category:Pages_using_ISBN_magic_links" title="Category:Pages using ISBN magic links">Pages using ISBN magic links</a></li><li><a href="/wiki/Category:Articles_to_be_merged_from_January_2015" title="Category:Articles to be merged from January 2015">Articles to be merged from January 2015</a></li><li><a href="/wiki/Category:All_articles_to_be_merged" title="Category:All articles to be merged">All articles to be merged</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_May_2010" title="Category:Articles with unsourced statements from May 2010">Articles with unsourced statements from May 2010</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_May_2008" title="Category:Articles with unsourced statements from May 2008">Articles with unsourced statements from May 2008</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Green+computing" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Green+computing" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Green_computing"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Green_computing"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Green_computing" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Green_computing&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Green_computing&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Green_computing" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Green_computing" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Green_computing&amp;oldid=760666386" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Green_computing&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q1064746" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Green_computing&amp;id=760666386" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Green+computing">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Green+computing&amp;returnto=Green+computing&amp;oldid=760666386&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Green_computing&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%AD%D9%88%D8%B3%D8%A8%D8%A9_%D8%AE%D8%B6%D8%B1%D8%A7%D8%A1" title="حوسبة خضراء – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Green_IT" title="Green IT – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Green_computing" title="Green computing – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%B1%D8%A7%DB%8C%D8%A7%D9%86%D8%B4_%D8%B3%D8%A8%D8%B2" title="رایانش سبز – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Informatique_durable" title="Informatique durable – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EA%B7%B8%EB%A6%B0_%EC%BB%B4%ED%93%A8%ED%8C%85" title="그린 컴퓨팅 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Komputasi_hijau" title="Komputasi hijau – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Green_computing" title="Green computing – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-kn"><a href="https://kn.wikipedia.org/wiki/%E0%B2%97%E0%B3%8D%E0%B2%B0%E0%B3%80%E0%B2%A8%E0%B3%8D_%E0%B2%95%E0%B2%82%E0%B2%AA%E0%B3%8D%E0%B2%AF%E0%B3%82%E0%B2%9F%E0%B2%BF%E0%B2%82%E0%B2%97%E0%B3%8D" title="ಗ್ರೀನ್ ಕಂಪ್ಯೂಟಿಂಗ್ – Kannada" lang="kn" hreflang="kn" class="interlanguage-link-target">ಕನ್ನಡ</a></li><li class="interlanguage-link interwiki-ml"><a href="https://ml.wikipedia.org/wiki/%E0%B4%97%E0%B5%8D%E0%B4%B0%E0%B5%80%E0%B5%BB_%E0%B4%95%E0%B4%AE%E0%B5%8D%E0%B4%AA%E0%B5%8D%E0%B4%AF%E0%B5%82%E0%B4%9F%E0%B5%8D%E0%B4%9F%E0%B4%BF%E0%B4%99%E0%B5%8D" title="ഗ്രീൻ കമ്പ്യൂട്ടിങ് – Malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target">മലയാളം</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3IT" title="グリーンIT – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Gr%C3%B8nn_databehandling" title="Grønn databehandling – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk bokmål</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/TI_verde" title="TI verde – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Green_IT" title="Green IT – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-si"><a href="https://si.wikipedia.org/wiki/%E0%B7%84%E0%B6%BB%E0%B7%92%E0%B6%AD_%E0%B6%B4%E0%B6%BB%E0%B7%92%E0%B6%9C%E0%B6%AB%E0%B6%9A" title="හරිත පරිගණක – Sinhala" lang="si" hreflang="si" class="interlanguage-link-target">සිංහල</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Gr%C3%B6n_IT" title="Grön IT – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%AA%E0%AE%9A%E0%AF%81%E0%AE%AE%E0%AF%88%E0%AE%95%E0%AF%8D_%E0%AE%95%E0%AE%A3%E0%AE%BF%E0%AE%AE%E0%AF%88" title="பசுமைக் கணிமை – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li><li class="interlanguage-link interwiki-te"><a href="https://te.wikipedia.org/wiki/%E0%B0%97%E0%B1%8D%E0%B0%B0%E0%B1%80%E0%B0%A8%E0%B1%8D_%E0%B0%95%E0%B0%82%E0%B0%AA%E0%B1%8D%E0%B0%AF%E0%B1%82%E0%B0%9F%E0%B0%BF%E0%B0%82%E0%B0%97%E0%B1%8D" title="గ్రీన్ కంప్యూటింగ్ – Telugu" lang="te" hreflang="te" class="interlanguage-link-target">తెలుగు</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%97%D0%B5%D0%BB%D0%B5%D0%BD%D1%96_%D1%96%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D1%96%D0%B9%D0%BD%D1%96_%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D1%96%D1%97" title="Зелені інформаційні технології – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E7%BB%BF%E8%89%B2%E8%AE%A1%E7%AE%97" title="绿色计算 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q1064746#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 18 January 2017, at 10:20.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Green_computing&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.520","walltime":"0.614","ppvisitednodes":{"value":3592,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":154759,"limit":2097152},"templateargumentsize":{"value":2468,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":5,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  508.440      1 -total"," 57.77%  293.723      1 Template:Reflist"," 29.98%  152.411     56 Template:Cite_web"," 12.47%   63.412      1 Template:Merge_from","  7.39%   37.572      4 Template:Fix","  6.77%   34.407      2 Template:Citation_needed","  6.38%   32.438      1 Template:Mbox","  5.95%   30.258      2 Template:Cite_news","  4.02%   20.414      2 Template:Navbox","  3.57%   18.134      8 Template:Category_handler"]},"scribunto":{"limitreport-timeusage":{"value":"0.250","limit":"10.000"},"limitreport-memusage":{"value":6227830,"limit":52428800}},"cachereport":{"origin":"mw1270","timestamp":"20170130061440","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":85,"wgHostname":"mw1243"});});</script>
+	</body>
+</html>

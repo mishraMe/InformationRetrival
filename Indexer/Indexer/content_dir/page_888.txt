@@ -1,0 +1,1109 @@
+url : https://en.wikipedia.org/wiki/Wireless_sensor_networks
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Wireless sensor network - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Wireless_sensor_network","wgTitle":"Wireless sensor network","wgCurRevisionId":758405169,"wgRevisionId":758405169,"wgArticleId":1076662,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: Uses authors parameter","Articles to be merged from April 2014","All articles to be merged","Articles needing additional references from May 2011","All articles needing additional references","All articles with unsourced statements","Articles with unsourced statements from January 2016","Commons category with local link same as on Wikidata","Wikipedia articles with GND identifiers","Wireless sensor network","Wireless networking"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Wireless_sensor_network","wgRelevantArticleId":1076662,"wgRequestId":"WIY3OQpAAD0AAb9tkv4AAACD","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Wireless_sensor_networks","wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgInternalRedirectTargetUrl":"/wiki/Wireless_sensor_network","wgWikibaseItemId":"Q336038","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.action.view.redirect","ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.8"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Wireless_sensor_network"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Wireless_sensor_network&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Wireless_sensor_network&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Wireless_sensor_network"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Wireless_sensor_network rootpage-Wireless_sensor_network skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Wireless sensor network</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"><span class="mw-redirectedfrom">  (Redirected from <a href="/w/index.php?title=Wireless_sensor_networks&amp;redirect=no" class="mw-redirect" title="Wireless sensor networks">Wireless sensor networks</a>)</span></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div role="note" class="hatnote">"WSN" redirects here. For other uses, see <a href="/wiki/WSN_(disambiguation)" class="mw-disambig" title="WSN (disambiguation)">WSN (disambiguation)</a>.</div>
+<table class="plainlinks metadata ambox ambox-move" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Mergefrom.svg/50px-Mergefrom.svg.png" width="50" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Mergefrom.svg/75px-Mergefrom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Mergefrom.svg/100px-Mergefrom.svg.png 2x" data-file-width="50" data-file-height="20" /></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">It has been suggested that <i><a href="/wiki/Secure_Data_Aggregation_in_WSN" class="mw-redirect" title="Secure Data Aggregation in WSN">Secure Data Aggregation in WSN</a></i> be <a href="/wiki/Wikipedia:Merging" title="Wikipedia:Merging">merged</a> into this article. (<a href="/wiki/Talk:Wireless_sensor_network#Proposed_merge_with_Secure_Data_Aggregation_in_WSN" title="Talk:Wireless sensor network">Discuss</a>) <small><i>Proposed since April 2014.</i></small></span></td>
+</tr>
+</table>
+<table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Wireless_sensor_network&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span> <small><i>(May 2011)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></span></td>
+</tr>
+</table>
+<div class="thumb tright">
+<div class="thumbinner" style="width:502px;"><a href="/wiki/File:WSN.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/WSN.svg/500px-WSN.svg.png" width="500" height="235" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/WSN.svg/750px-WSN.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/21/WSN.svg/1000px-WSN.svg.png 2x" data-file-width="537" data-file-height="252" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:WSN.svg" class="internal" title="Enlarge"></a></div>
+Typical multi-hop wireless sensor network architecture</div>
+</div>
+</div>
+<p><b>Wireless sensor networks</b> (<b>WSN</b>), sometimes called <b>wireless sensor and actuator networks</b> (<b>WSAN</b>),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> are spatially distributed <a href="/wiki/Autonomous" class="mw-redirect" title="Autonomous">autonomous</a> <a href="/wiki/Sensor" title="Sensor">sensors</a> to <i>monitor</i> physical or environmental conditions, such as <a href="/wiki/Temperature" title="Temperature">temperature</a>, <a href="/wiki/Sound" title="Sound">sound</a>, <a href="/wiki/Pressure" title="Pressure">pressure</a>, etc. and to cooperatively pass their data through the network to a main location. The more modern networks are bi-directional, also enabling <i>control</i> of sensor activity. The development of wireless sensor networks was motivated by military applications such as battlefield surveillance; today such networks are used in many industrial and consumer applications, such as industrial process monitoring and control, machine health monitoring, and so on.</p>
+<p>The WSN is built of "nodes" – from a few to several hundreds or even thousands, where each node is connected to one (or sometimes several) sensors. Each such sensor network node has typically several parts: a <a href="/wiki/Radio" title="Radio">radio</a> <a href="/wiki/Transceiver" title="Transceiver">transceiver</a> with an internal <a href="/wiki/Antenna_(radio)" title="Antenna (radio)">antenna</a> or connection to an external antenna, a <a href="/wiki/Microcontroller" title="Microcontroller">microcontroller</a>, an electronic circuit for interfacing with the sensors and an energy source, usually a <a href="/wiki/Battery_(electricity)" title="Battery (electricity)">battery</a> or an <a href="/wiki/Embedded_system" title="Embedded system">embedded</a> form of <a href="/wiki/Energy_harvesting" title="Energy harvesting">energy harvesting</a>. A <a href="/wiki/Sensor_node" title="Sensor node">sensor node</a> might vary in size from that of a shoebox down to the size of a grain of dust, although functioning "motes" of genuine microscopic dimensions have yet to be created. The cost of sensor nodes is similarly variable, ranging from a few to hundreds of dollars, depending on the complexity of the individual sensor nodes. Size and cost constraints on sensor nodes result in corresponding constraints on resources such as energy, memory, computational speed and communications bandwidth. The topology of the WSNs can vary from a simple <a href="/wiki/Star_network" title="Star network">star network</a> to an advanced <a href="/wiki/Mesh_networking" title="Mesh networking">multi-hop</a> <a href="/wiki/Wireless_mesh_network" title="Wireless mesh network">wireless mesh network</a>. The propagation technique between the hops of the network can be <a href="/wiki/Routing" title="Routing">routing</a> or <a href="/wiki/Flooding_algorithm" title="Flooding algorithm">flooding</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></p>
+<p>In <a href="/wiki/Computer_science" title="Computer science">computer science</a> and <a href="/wiki/Telecommunications" class="mw-redirect" title="Telecommunications">telecommunications</a>, wireless sensor networks are an active research area with numerous workshops and conferences arranged each year, for example <a href="/wiki/International_Conference_on_Information_Processing_in_Sensor_Networks" title="International Conference on Information Processing in Sensor Networks">IPSN</a>, <a href="/wiki/Conference_on_Embedded_Networked_Sensor_Systems" title="Conference on Embedded Networked Sensor Systems">SenSys</a>, and <a href="/wiki/European_Conference_on_Wireless_Sensor_Networks" title="European Conference on Wireless Sensor Networks">EWSN</a>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Application"><span class="tocnumber">1</span> <span class="toctext">Application</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Area_monitoring"><span class="tocnumber">1.1</span> <span class="toctext">Area monitoring</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Health_care_monitoring"><span class="tocnumber">1.2</span> <span class="toctext">Health care monitoring</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Environmental.2FEarth_sensing"><span class="tocnumber">1.3</span> <span class="toctext">Environmental/Earth sensing</span></a>
+<ul>
+<li class="toclevel-3 tocsection-5"><a href="#Air_pollution_monitoring"><span class="tocnumber">1.3.1</span> <span class="toctext">Air pollution monitoring</span></a></li>
+<li class="toclevel-3 tocsection-6"><a href="#Forest_fire_detection"><span class="tocnumber">1.3.2</span> <span class="toctext">Forest fire detection</span></a></li>
+<li class="toclevel-3 tocsection-7"><a href="#Landslide_detection"><span class="tocnumber">1.3.3</span> <span class="toctext">Landslide detection</span></a></li>
+<li class="toclevel-3 tocsection-8"><a href="#Water_quality_monitoring"><span class="tocnumber">1.3.4</span> <span class="toctext">Water quality monitoring</span></a></li>
+<li class="toclevel-3 tocsection-9"><a href="#Natural_disaster_prevention"><span class="tocnumber">1.3.5</span> <span class="toctext">Natural disaster prevention</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-10"><a href="#Industrial_monitoring"><span class="tocnumber">1.4</span> <span class="toctext">Industrial monitoring</span></a>
+<ul>
+<li class="toclevel-3 tocsection-11"><a href="#Machine_health_monitoring"><span class="tocnumber">1.4.1</span> <span class="toctext">Machine health monitoring</span></a></li>
+<li class="toclevel-3 tocsection-12"><a href="#Data_center_monitoring"><span class="tocnumber">1.4.2</span> <span class="toctext">Data center monitoring</span></a></li>
+<li class="toclevel-3 tocsection-13"><a href="#Data_logging"><span class="tocnumber">1.4.3</span> <span class="toctext">Data logging</span></a></li>
+<li class="toclevel-3 tocsection-14"><a href="#Water.2Fwaste_water_monitoring"><span class="tocnumber">1.4.4</span> <span class="toctext">Water/waste water monitoring</span></a></li>
+<li class="toclevel-3 tocsection-15"><a href="#Structural_health_monitoring"><span class="tocnumber">1.4.5</span> <span class="toctext">Structural health monitoring</span></a></li>
+<li class="toclevel-3 tocsection-16"><a href="#Wine_production"><span class="tocnumber">1.4.6</span> <span class="toctext">Wine production</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-17"><a href="#Characteristics"><span class="tocnumber">2</span> <span class="toctext">Characteristics</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#Platforms"><span class="tocnumber">3</span> <span class="toctext">Platforms</span></a>
+<ul>
+<li class="toclevel-2 tocsection-19"><a href="#Hardware"><span class="tocnumber">3.1</span> <span class="toctext">Hardware</span></a></li>
+<li class="toclevel-2 tocsection-20"><a href="#Software"><span class="tocnumber">3.2</span> <span class="toctext">Software</span></a>
+<ul>
+<li class="toclevel-3 tocsection-21"><a href="#Operating_systems"><span class="tocnumber">3.2.1</span> <span class="toctext">Operating systems</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-22"><a href="#Online_collaborative_sensor_data_management_platforms"><span class="tocnumber">3.3</span> <span class="toctext">Online collaborative sensor data management platforms</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-23"><a href="#Simulation_of_WSNs"><span class="tocnumber">4</span> <span class="toctext">Simulation of WSNs</span></a></li>
+<li class="toclevel-1 tocsection-24"><a href="#Other_concepts"><span class="tocnumber">5</span> <span class="toctext">Other concepts</span></a>
+<ul>
+<li class="toclevel-2 tocsection-25"><a href="#Distributed_sensor_network"><span class="tocnumber">5.1</span> <span class="toctext">Distributed sensor network</span></a></li>
+<li class="toclevel-2 tocsection-26"><a href="#Data_integration_and_sensor_web"><span class="tocnumber">5.2</span> <span class="toctext">Data integration and sensor web</span></a></li>
+<li class="toclevel-2 tocsection-27"><a href="#In-network_processing"><span class="tocnumber">5.3</span> <span class="toctext">In-network processing</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-28"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-29"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-30"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Application">Application</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wireless_sensor_network&amp;action=edit&amp;section=1" title="Edit section: Application">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Area_monitoring">Area monitoring</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wireless_sensor_network&amp;action=edit&amp;section=2" title="Edit section: Area monitoring">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Area monitoring is a common application of WSNs. In area monitoring, the WSN is deployed over a region where some phenomenon is to be monitored. A military example is the use of sensors detect enemy intrusion; a civilian example is the <a href="/wiki/Geo-fence" title="Geo-fence">geo-fencing</a> of gas or oil pipelines.</p>
+<h3><span class="mw-headline" id="Health_care_monitoring">Health care monitoring</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wireless_sensor_network&amp;action=edit&amp;section=3" title="Edit section: Health care monitoring">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The medical applications can be of two types: wearable and implanted. Wearable devices are used on the body surface of a human or just at close proximity of the user. The implantable medical devices are those that are inserted inside human body. There are many other applications too e.g. body position measurement and location of the person, overall monitoring of ill patients in hospitals and at homes. Body-area networks can collect information about an individual's health, fitness, and energy expenditure.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></p>
+<h3><span class="mw-headline" id="Environmental.2FEarth_sensing">Environmental/Earth sensing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wireless_sensor_network&amp;action=edit&amp;section=4" title="Edit section: Environmental/Earth sensing">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>There are many applications in monitoring environmental parameters,<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> examples of which are given below. They share the extra challenges of harsh environments and reduced power supply.</p>
+<h4><span class="mw-headline" id="Air_pollution_monitoring">Air pollution monitoring</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wireless_sensor_network&amp;action=edit&amp;section=5" title="Edit section: Air pollution monitoring">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Wireless sensor networks have been deployed in several cities (<a href="/wiki/Stockholm" title="Stockholm">Stockholm</a>, <a href="/wiki/London" title="London">London</a>, and <a href="/wiki/Brisbane" title="Brisbane">Brisbane</a>) to monitor the concentration of <a href="/wiki/Air_pollution" title="Air pollution">dangerous gases for citizens</a>. These can take advantage of the ad hoc wireless links rather than wired installations, which also make them more mobile for testing readings in different areas.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (January 2016)">citation needed</span></a></i>]</sup></p>
+<h4><span class="mw-headline" id="Forest_fire_detection">Forest fire detection</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wireless_sensor_network&amp;action=edit&amp;section=6" title="Edit section: Forest fire detection">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>A network of Sensor Nodes can be installed in a forest to detect when a <a href="/wiki/Forest_fire" class="mw-redirect" title="Forest fire">fire</a> has started. The nodes can be equipped with sensors to measure temperature, humidity and gases which are produced by fire in the trees or vegetation. The early detection is crucial for a successful action of the firefighters; thanks to Wireless Sensor Networks, the fire brigade will be able to know when a fire is started and how it is spreading.</p>
+<h4><span class="mw-headline" id="Landslide_detection">Landslide detection</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wireless_sensor_network&amp;action=edit&amp;section=7" title="Edit section: Landslide detection">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>A <a href="/wiki/Landslide" title="Landslide">landslide</a> detection system makes use of a wireless sensor network to detect the slight movements of soil and changes in various parameters that may occur before or during a landslide. Through the data gathered it may be possible to know the impending occurrence of landslides long before it actually happens.</p>
+<h4><span class="mw-headline" id="Water_quality_monitoring">Water quality monitoring</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wireless_sensor_network&amp;action=edit&amp;section=8" title="Edit section: Water quality monitoring">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p><a href="/wiki/Water_quality" title="Water quality">Water quality</a> monitoring involves analyzing water properties in dams, rivers, lakes and oceans, as well as underground water reserves. The use of many wireless distributed sensors enables the creation of a more accurate map of the water status, and allows the permanent deployment of monitoring stations in locations of difficult access, without the need of manual data retrieval.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></p>
+<h4><span class="mw-headline" id="Natural_disaster_prevention">Natural disaster prevention</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wireless_sensor_network&amp;action=edit&amp;section=9" title="Edit section: Natural disaster prevention">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Wireless sensor networks can effectively act to prevent the consequences of <a href="/wiki/Natural_disaster" title="Natural disaster">natural disasters</a>, like floods. Wireless nodes have successfully been deployed in rivers where changes of the water levels have to be monitored in real time.</p>
+<h3><span class="mw-headline" id="Industrial_monitoring">Industrial monitoring</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wireless_sensor_network&amp;action=edit&amp;section=10" title="Edit section: Industrial monitoring">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="Machine_health_monitoring">Machine health monitoring</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wireless_sensor_network&amp;action=edit&amp;section=11" title="Edit section: Machine health monitoring">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Wireless sensor networks have been developed for machinery condition-based maintenance (CBM) as they offer significant cost savings and enable new functionality.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></p>
+<p>Wireless sensors can be placed in locations difficult or impossible to reach with a wired system, such as rotating machinery and untethered vehicles.</p>
+<h4><span class="mw-headline" id="Data_center_monitoring">Data center monitoring</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wireless_sensor_network&amp;action=edit&amp;section=12" title="Edit section: Data center monitoring">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Due to the high density of servers racks in a data center, often cabling and IP addresses are an issue. To overcome that problem more and more racks are fitted out with wireless temperature sensors to monitor the intake and outtake temperatures of racks. As <a href="/wiki/ASHRAE" title="ASHRAE">ASHRAE</a> recommends up to 6 temperature sensors per rack, meshed wireless temperature technology gives an advantage compared to traditional cabled sensors.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></p>
+<h4><span class="mw-headline" id="Data_logging">Data logging</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wireless_sensor_network&amp;action=edit&amp;section=13" title="Edit section: Data logging">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div role="note" class="hatnote">Main article: <a href="/wiki/Data_logging" class="mw-redirect" title="Data logging">Data logging</a></div>
+<p>Wireless sensor networks are also used for the collection of data for monitoring of environmental information,<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> this can be as simple as the monitoring of the temperature in a fridge to the level of water in overflow tanks in nuclear power plants. The statistical information can then be used to show how systems have been working. The advantage of WSNs over conventional loggers is the "live" data feed that is possible.</p>
+<h4><span class="mw-headline" id="Water.2Fwaste_water_monitoring">Water/waste water monitoring</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wireless_sensor_network&amp;action=edit&amp;section=14" title="Edit section: Water/waste water monitoring">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Monitoring the quality and level of water includes many activities such as checking the quality of underground or surface water and ensuring a country’s water infrastructure for the benefit of both human and animal. It may be used to protect the wastage of water.</p>
+<h4><span class="mw-headline" id="Structural_health_monitoring">Structural health monitoring</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wireless_sensor_network&amp;action=edit&amp;section=15" title="Edit section: Structural health monitoring">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div role="note" class="hatnote">Main article: <a href="/wiki/Structural_health_monitoring" title="Structural health monitoring">Structural health monitoring</a></div>
+<p>Wireless sensor networks can be used to monitor the condition of civil infrastructure and related geo-physical processes close to real time, and over long periods through data logging, using appropriately interfaced sensors.</p>
+<h4><span class="mw-headline" id="Wine_production">Wine production</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wireless_sensor_network&amp;action=edit&amp;section=16" title="Edit section: Wine production">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Wireless sensor networks are used to monitor wine production, both in the field and the cellar.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup></p>
+<h2><span class="mw-headline" id="Characteristics">Characteristics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wireless_sensor_network&amp;action=edit&amp;section=17" title="Edit section: Characteristics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The main characteristics of a WSN include:</p>
+<ul>
+<li>Power consumption constraints for nodes using batteries or <a href="/wiki/Energy_harvesting" title="Energy harvesting">energy harvesting</a></li>
+<li>Ability to cope with node failures (<a href="/wiki/Resilience_(network)" title="Resilience (network)">resilience</a>)</li>
+<li>Some mobility of nodes (for highly mobile nodes see <a href="/wiki/MWSN" class="mw-redirect" title="MWSN">MWSNs</a>)</li>
+<li>Heterogeneity of nodes</li>
+<li><a href="/wiki/Scalability" title="Scalability">Scalability</a> to large scale of deployment</li>
+<li>Ability to withstand harsh environmental conditions</li>
+<li>Ease of use</li>
+<li><a href="/w/index.php?title=Cross-layer&amp;action=edit&amp;redlink=1" class="new" title="Cross-layer (page does not exist)">Cross-layer</a> design <sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup></li>
+</ul>
+<p>Cross-layer is becoming an important studying area for wireless communications. In addition, the traditional layered approach presents three main problems:</p>
+<ol>
+<li>Traditional layered approach cannot share different information among different layers ， which leads to each layer not having complete information. The traditional layered approach cannot guarantee the optimization of the entire network.</li>
+<li>The traditional layered approach does not have the ability to adapt to the environmental change.</li>
+<li>Because of the interference between the different users, access conflicts, fading, and the change of environment in the wireless sensor networks, traditional layered approach for wired networks is not applicable to wireless networks.</li>
+</ol>
+<p>So the cross-layer can be used to make the optimal modulation to improve the transmission performance, such as <a href="/wiki/Bit_rate" title="Bit rate">data rate</a>, energy efficiency, QoS (<a href="/wiki/Quality_of_Service" class="mw-redirect" title="Quality of Service">Quality of Service</a>), etc.. Sensor nodes can be imagined as small computers which are extremely basic in terms of their interfaces and their components. They usually consist of a <i>processing unit</i> with limited computational power and limited memory, <i>sensors</i> or <a href="/wiki/Microelectromechanical_systems" title="Microelectromechanical systems">MEMS</a> (including specific conditioning circuitry), a <i>communication device</i> (usually radio transceivers or alternatively <a href="/wiki/Smart_dust" class="mw-redirect" title="Smart dust">optical</a>), and a power source usually in the form of a battery. Other possible inclusions are <a href="/wiki/Energy_harvesting" title="Energy harvesting">energy harvesting</a> modules,<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup> secondary <a href="/wiki/Application-specific_integrated_circuit" title="Application-specific integrated circuit">ASICs</a>, and possibly secondary communication interface (e.g. <a href="/wiki/RS-232" title="RS-232">RS-232</a> or <a href="/wiki/Universal_Serial_Bus" class="mw-redirect" title="Universal Serial Bus">USB</a>).</p>
+<p>The base stations are one or more components of the WSN with much more computational, energy and communication resources. They act as a gateway between sensor nodes and the end user as they typically forward data from the WSN on to a server. Other special components in <a href="/wiki/Routing" title="Routing">routing</a> based networks are routers, designed to compute, calculate and distribute the routing tables.</p>
+<h2><span class="mw-headline" id="Platforms">Platforms</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wireless_sensor_network&amp;action=edit&amp;section=18" title="Edit section: Platforms">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Hardware">Hardware</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wireless_sensor_network&amp;action=edit&amp;section=19" title="Edit section: Hardware">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote">Main article: <a href="/wiki/Sensor_node" title="Sensor node">sensor node</a></div>
+<p>One major challenge in a WSN is to produce <i>low cost</i> and <i>tiny</i> sensor nodes. There are an increasing number of small companies producing WSN hardware and the commercial situation can be compared to home computing in the 1970s. Many of the nodes are still in the research and development stage, particularly their software. Also inherent to sensor network adoption is the use of very low power methods for radio communication and data acquisition.</p>
+<p>In many applications, a WSN communicates with a <a href="/wiki/Local_Area_Network" class="mw-redirect" title="Local Area Network">Local Area Network</a> or <a href="/wiki/Wide_Area_Network" class="mw-redirect" title="Wide Area Network">Wide Area Network</a> through a gateway. The Gateway acts as a bridge between the WSN and the other network. This enables data to be stored and processed by devices with more resources, for example, in a remotely located <a href="/wiki/Server_(computing)" title="Server (computing)">server</a>.</p>
+<h3><span class="mw-headline" id="Software">Software</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wireless_sensor_network&amp;action=edit&amp;section=20" title="Edit section: Software">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Energy is the scarcest resource of WSN nodes, and it determines the lifetime of WSNs. WSNs may be deployed in large numbers in various environments, including remote and hostile regions, where ad hoc communications are a key component. For this reason, algorithms and protocols need to address the following issues:</p>
+<ul>
+<li>Increased lifespan</li>
+<li>Robustness and fault tolerance</li>
+<li>Self-configuration</li>
+</ul>
+<p>Lifetime maximization: Energy/Power Consumption of the sensing device should be minimized and sensor nodes should be energy efficient since their limited energy resource determines their lifetime. To conserve power, wireless sensor nodes normally power off both the radio transmitter and the radio receiver when not in use.</p>
+<h4><span class="mw-headline" id="Operating_systems">Operating systems</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wireless_sensor_network&amp;action=edit&amp;section=21" title="Edit section: Operating systems">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p><a href="/wiki/Operating_system" title="Operating system">Operating systems</a> for wireless sensor network nodes are typically less complex than general-purpose operating systems. They more strongly resemble <a href="/wiki/Embedded_system" title="Embedded system">embedded systems</a>, for two reasons. First, wireless sensor networks are typically deployed with a particular application in mind, rather than as a general platform. Second, a need for low costs and low power leads most wireless sensor nodes to have low-power microcontrollers ensuring that mechanisms such as virtual memory are either unnecessary or too expensive to implement.</p>
+<p>It is therefore possible to use embedded operating systems such as <a href="/wiki/ECos" title="ECos">eCos</a> or <a href="/wiki/UC/OS" class="mw-redirect" title="UC/OS">uC/OS</a> for sensor networks. However, such operating systems are often designed with real-time properties.</p>
+<p><a href="/wiki/TinyOS" title="TinyOS">TinyOS</a> is perhaps the first<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup> operating system specifically designed for wireless sensor networks. TinyOS is based on an <a href="/wiki/Event-driven_programming" title="Event-driven programming">event-driven programming</a> model instead of <a href="/wiki/Thread_(computer_science)" class="mw-redirect" title="Thread (computer science)">multithreading</a>. TinyOS programs are composed of <i>event handlers</i> and <i>tasks</i> with run-to-completion semantics. When an external event occurs, such as an incoming data packet or a sensor reading, TinyOS signals the appropriate event handler to handle the event. Event handlers can post tasks that are scheduled by the TinyOS kernel some time later.</p>
+<p><a href="/wiki/LiteOS" title="LiteOS">LiteOS</a> is a newly developed OS for wireless sensor networks, which provides UNIX-like abstraction and support for the C programming language.</p>
+<p><a href="/wiki/Contiki" title="Contiki">Contiki</a> is an OS which uses a simpler programming style in C while providing advances such as <a href="/wiki/6LoWPAN" title="6LoWPAN">6LoWPAN</a> and <a href="/wiki/Protothreads" title="Protothreads">Protothreads</a>.</p>
+<h3><span class="mw-headline" id="Online_collaborative_sensor_data_management_platforms">Online collaborative sensor data management platforms</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wireless_sensor_network&amp;action=edit&amp;section=22" title="Edit section: Online collaborative sensor data management platforms">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Online collaborative sensor data management platforms are on-line database services that allow sensor owners to register and connect their devices to feed data into an online database for storage and also allow developers to connect to the database and build their own applications based on that data. Examples include <a href="/wiki/Xively" title="Xively">Xively</a> and the <a rel="nofollow" class="external text" href="http://wikisensing.org">Wikisensing platform</a>. Such platforms simplify online collaboration between users over diverse data sets ranging from energy and environment data to that collected from transport services. Other services include allowing developers to embed real-time graphs &amp; widgets in websites; analyse and process historical data pulled from the data feeds; send real-time alerts from any datastream to control scripts, devices and environments.</p>
+<p>The architecture of the Wikisensing system<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup> describes the key components of such systems to include APIs and interfaces for online collaborators, a middleware containing the business logic needed for the sensor data management and processing and a storage model suitable for the efficient storage and retrieval of large volumes of data. 0525162632</p>
+<h2><span class="mw-headline" id="Simulation_of_WSNs">Simulation of WSNs</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wireless_sensor_network&amp;action=edit&amp;section=23" title="Edit section: Simulation of WSNs">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>At present, agent-based modeling and simulation is the only paradigm which allows the simulation of complex behavior in the environments of wireless sensors (such as flocking).<sup id="cite_ref-Paper_17-0" class="reference"><a href="#cite_note-Paper-17">[17]</a></sup> Agent-based simulation of wireless sensor and ad hoc networks is a relatively new paradigm. <a href="/wiki/Agent-based_model" title="Agent-based model">Agent-based modelling</a> was originally based on social simulation.</p>
+<p>Network simulators like <a href="/wiki/OPNET" title="OPNET">OPNET</a>, <a href="/wiki/NetSim" title="NetSim">NetSim</a> and <a href="/wiki/NS2" class="mw-redirect" title="NS2">NS2</a> can be used to simulate a wireless sensor network.</p>
+<h2><span class="mw-headline" id="Other_concepts">Other concepts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wireless_sensor_network&amp;action=edit&amp;section=24" title="Edit section: Other concepts">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Distributed_sensor_network">Distributed sensor network</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wireless_sensor_network&amp;action=edit&amp;section=25" title="Edit section: Distributed sensor network">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>If a centralised architecture is used in a sensor network and the central node fails, then the entire network will collapse, however the reliability of the sensor network can be increased by using a distributed control architecture. Distributed control is used in WSNs for the following reasons:</p>
+<ol>
+<li>Sensor nodes are prone to failure,</li>
+<li>For better collection of data,</li>
+<li>To provide nodes with backup in case of failure of the central node.</li>
+</ol>
+<p>There is also no centralised body to allocate the resources and they have to be self organized.</p>
+<h3><span class="mw-headline" id="Data_integration_and_sensor_web">Data integration and sensor web</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wireless_sensor_network&amp;action=edit&amp;section=26" title="Edit section: Data integration and sensor web">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The data gathered from wireless sensor networks is usually saved in the form of numerical data in a central base station. Additionally, the <a href="/wiki/Open_Geospatial_Consortium" title="Open Geospatial Consortium">Open Geospatial Consortium</a> (OGC) is specifying standards for interoperability interfaces and metadata encodings that enable real time integration of heterogeneous sensor webs into the Internet, allowing any individual to monitor or control wireless sensor networks through a web browser.</p>
+<h3><span class="mw-headline" id="In-network_processing">In-network processing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wireless_sensor_network&amp;action=edit&amp;section=27" title="Edit section: In-network processing">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>To reduce communication costs some algorithms remove or reduce nodes' redundant sensor information and avoid forwarding data that is of no use. As nodes can inspect the data they forward, they can measure averages or directionality for example of readings from other nodes. For example, in sensing and monitoring applications, it is generally the case that neighboring sensor nodes monitoring an environmental feature typically register similar values. This kind of data redundancy due to the spatial correlation between sensor observations inspires techniques for in-network data aggregation and mining</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wireless_sensor_network&amp;action=edit&amp;section=28" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Autonomous_system_(Internet)" title="Autonomous system (Internet)">Autonomous system</a></li>
+<li><a href="/wiki/Center_for_Embedded_Network_Sensing" title="Center for Embedded Network Sensing">Center for Embedded Network Sensing</a></li>
+<li><a href="/wiki/Internet_of_Things" class="mw-redirect" title="Internet of Things">Internet of Things</a></li>
+<li><a href="/wiki/List_of_ad_hoc_routing_protocols" title="List of ad hoc routing protocols">List of ad hoc routing protocols</a></li>
+<li><a href="/wiki/Mobile_wireless_sensor_network" title="Mobile wireless sensor network">Mobile wireless sensor networks</a></li>
+<li><a href="/wiki/OpenWSN" title="OpenWSN">OpenWSN</a></li>
+<li><a href="/wiki/Optical_wireless_communications" title="Optical wireless communications">Optical wireless communications</a></li>
+<li><a href="/wiki/Smart,_connected_products" title="Smart, connected products">Smart, connected products</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wireless_sensor_network&amp;action=edit&amp;section=29" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation conference"><a rel="nofollow" class="external text" href="https://www.researchgate.net/profile/Morteza_Mohammadi_Zanjireh/publication/274638337_A_Survey_on_Centralised_and_Distributed_Clustering_Routing_Algorithms_for_WSNs/links/552444b80cf2b123c5173968.pdf?origin=publication_detail&amp;ev=pub_int_prw_xdl&amp;msrp=Y1fgH56E_g3U1GLlQvUbwrbc1-vcnaidTSiGU6QBs4fr4DV1c5uh8_R7OjkCr0bsCvNJHXNhrz6nYCcT1v4bcg.UYERjWaiiOKRIDzgdB6M6Ql_4IFlAQqHYVmhzQprFoc4n6mfvgSiiQFkjxMa48W8-7WFx_72Z2X-oquRYtzBPA.OOzfToiIbWno52nbE5R4LQuulDzPE_WpAk4Ytlb-6qkgiwyWoRKz1PdadWj7QvyF1TBS4VQtc4wfC__rbxpZqg"><i>A Survey on Centralised and Distributed Clustering Routing Algorithms for WSNs</i></a> <span style="font-size:85%;">(PDF)</span>. IEEE 81st Vehicular Technology Conference. Glasgow, Scotland: IEEE. Spring 2015. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1109%2FVTCSpring.2015.7145650">10.1109/VTCSpring.2015.7145650</a><span class="reference-accessdate">. Retrieved <span class="nowrap">March 4,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWireless+sensor+network&amp;rft.btitle=A+Survey+on+Centralised+and+Distributed+Clustering+Routing+Algorithms+for+WSNs&amp;rft.date=2015&amp;rft.genre=conference&amp;rft_id=https%3A%2F%2Fwww.researchgate.net%2Fprofile%2FMorteza_Mohammadi_Zanjireh%2Fpublication%2F274638337_A_Survey_on_Centralised_and_Distributed_Clustering_Routing_Algorithms_for_WSNs%2Flinks%2F552444b80cf2b123c5173968.pdf%3Forigin%3Dpublication_detail%26ev%3Dpub_int_prw_xdl%26msrp%3DY1fgH56E_g3U1GLlQvUbwrbc1-vcnaidTSiGU6QBs4fr4DV1c5uh8_R7OjkCr0bsCvNJHXNhrz6nYCcT1v4bcg.UYERjWaiiOKRIDzgdB6M6Ql_4IFlAQqHYVmhzQprFoc4n6mfvgSiiQFkjxMa48W8-7WFx_72Z2X-oquRYtzBPA.OOzfToiIbWno52nbE5R4LQuulDzPE_WpAk4Ytlb-6qkgiwyWoRKz1PdadWj7QvyF1TBS4VQtc4wfC__rbxpZqg&amp;rft_id=info%3Adoi%2F10.1109%2FVTCSpring.2015.7145650&amp;rft.place=Glasgow%2C+Scotland&amp;rft.pub=IEEE&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation journal">I. F. Akyildiz and I.H. Kasimoglu (2004). <a rel="nofollow" class="external text" href="http://libra.msra.cn/Publication/1749989/wireless-sensor-and-actor-networks-research-challenges">"Wireless Sensor and Actor Networks: Research Challenges"</a>. <i>Ad Hoc Networks</i>. <b>2</b> (4): 351–367. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2Fj.adhoc.2004.04.003">10.1016/j.adhoc.2004.04.003</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWireless+sensor+network&amp;rft.atitle=Wireless+Sensor+and+Actor+Networks%3A+Research+Challenges&amp;rft.date=2004&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Flibra.msra.cn%2FPublication%2F1749989%2Fwireless-sensor-and-actor-networks-research-challenges&amp;rft_id=info%3Adoi%2F10.1016%2Fj.adhoc.2004.04.003&amp;rft.issue=4&amp;rft.jtitle=Ad+Hoc+Networks&amp;rft.pages=351-367&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=2" class="Z3988"><span style="display:none;">&#160;</span></span> <span class="citation-comment" style="display:none; color:#33aa33">CS1 maint: Uses authors parameter (<a href="/wiki/Category:CS1_maint:_Uses_authors_parameter" title="Category:CS1 maint: Uses authors parameter">link</a>)</span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation book">Dargie, W. and Poellabauer, C. (2010). <i>Fundamentals of wireless sensor networks: theory and practice</i>. John Wiley and Sons. pp.&#160;168–183, 191–192. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-470-99765-9" title="Special:BookSources/978-0-470-99765-9">978-0-470-99765-9</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWireless+sensor+network&amp;rft.btitle=Fundamentals+of+wireless+sensor+networks%3A+theory+and+practice&amp;rft.date=2010&amp;rft.genre=book&amp;rft.isbn=978-0-470-99765-9&amp;rft.pages=168-183%2C+191-192&amp;rft.pub=John+Wiley+and+Sons&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span> <span class="citation-comment" style="display:none; color:#33aa33">CS1 maint: Uses authors parameter (<a href="/wiki/Category:CS1_maint:_Uses_authors_parameter" title="Category:CS1 maint: Uses authors parameter">link</a>)</span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation book">Sohraby, K., Minoli, D., Znati, T. (2007). <i>Wireless sensor networks: technology, protocols, and applications</i>. John Wiley and Sons. pp.&#160;203–209. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-471-74300-2" title="Special:BookSources/978-0-471-74300-2">978-0-471-74300-2</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWireless+sensor+network&amp;rft.btitle=Wireless+sensor+networks%3A+technology%2C+protocols%2C+and+applications&amp;rft.date=2007&amp;rft.genre=book&amp;rft.isbn=978-0-471-74300-2&amp;rft.pages=203-209&amp;rft.pub=John+Wiley+and+Sons&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span> <span class="citation-comment" style="display:none; color:#33aa33">CS1 maint: Uses authors parameter (<a href="/wiki/Category:CS1_maint:_Uses_authors_parameter" title="Category:CS1 maint: Uses authors parameter">link</a>)</span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation journal">Peiris, V. (2013). "Highly integrated wireless sensing for body area network applications". <i>SPIE Newsroom</i>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1117%2F2.1201312.005120">10.1117/2.1201312.005120</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWireless+sensor+network&amp;rft.atitle=Highly+integrated+wireless+sensing+for+body+area+network+applications&amp;rft.aufirst=V.&amp;rft.aulast=Peiris&amp;rft.date=2013&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1117%2F2.1201312.005120&amp;rft.jtitle=SPIE+Newsroom&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation conference">Tony O'Donovan; John O'Donoghue; Cormac Sreenan; David Sammon; Philip O'Reilly; Kieran A. O'Connor (2009). <a rel="nofollow" class="external text" href="https://www.ucc.ie/en/media/research/misl/2009publications/pervasive09.pdf"><i>A Context Aware Wireless Body Area Network (BAN)</i></a> <span style="font-size:85%;">(PDF)</span>. Pervasive Computing Technologies for Healthcare, 2009. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.4108%2FICST.PERVASIVEHEALTH2009.5987">10.4108/ICST.PERVASIVEHEALTH2009.5987</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWireless+sensor+network&amp;rft.au=Cormac+Sreenan&amp;rft.au=David+Sammon&amp;rft.au=John+O%27Donoghue&amp;rft.au=Kieran+A.+O%27Connor&amp;rft.au=Philip+O%27Reilly&amp;rft.au=Tony+O%27Donovan&amp;rft.btitle=A+Context+Aware+Wireless+Body+Area+Network+%28BAN%29&amp;rft.date=2009&amp;rft.genre=conference&amp;rft_id=https%3A%2F%2Fwww.ucc.ie%2Fen%2Fmedia%2Fresearch%2Fmisl%2F2009publications%2Fpervasive09.pdf&amp;rft_id=info%3Adoi%2F10.4108%2FICST.PERVASIVEHEALTH2009.5987&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://eprints.soton.ac.uk/263093/1/esn.pdf">J.K.Hart and K.Martinez, "Environmental Sensor Networks: A revolution in the earth system science?", Earth Science Reviews, 2006</a></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation journal">Spie (2013). "Vassili Karanassios: Energy scavenging to power remote sensors". <i>SPIE Newsroom</i>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1117%2F2.3201305.05">10.1117/2.3201305.05</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWireless+sensor+network&amp;rft.atitle=Vassili+Karanassios%3A+Energy+scavenging+to+power+remote+sensors&amp;rft.au=Spie&amp;rft.date=2013&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1117%2F2.3201305.05&amp;rft.jtitle=SPIE+Newsroom&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation journal">Tiwari, Ankit; et al. <a rel="nofollow" class="external text" href="http://portal.acm.org/citation.cfm?id=1210670">"Energy-efficient wireless sensor network design and implementation for condition-based maintenance"</a>. <i>ACM Transactions on Sensor Networks (TOSN)</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWireless+sensor+network&amp;rft.atitle=Energy-efficient+wireless+sensor+network+design+and+implementation+for+condition-based+maintenance&amp;rft.au=Tiwari%2C+Ankit&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fportal.acm.org%2Fcitation.cfm%3Fid%3D1210670&amp;rft.jtitle=ACM+Transactions+on+Sensor+Networks+%28TOSN%29&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://serverscheck.com/sensors/sensor_wireless_temperature_humidity.asp/">"Wireless temperature sensor for Data Centers"</a>. ServersCheck<span class="reference-accessdate">. Retrieved <span class="nowrap">2016-10-09</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWireless+sensor+network&amp;rft.btitle=Wireless+temperature+sensor+for+Data+Centers&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fserverscheck.com%2Fsensors%2Fsensor_wireless_temperature_humidity.asp%2F&amp;rft.pub=ServersCheck&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation journal">K. Saleem; N. Fisal &amp; J. Al-Muhtadi (2014). <a rel="nofollow" class="external text" href="http://ieeexplore.ieee.org/document/6749271/">"Empirical studies of bio-inspired self-organized secure autonomousRouting protocol"</a>. <i>Sensors Journal IEEE</i>: 1–8. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1109%2FJSEN.2014.2308725">10.1109/JSEN.2014.2308725</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWireless+sensor+network&amp;rft.atitle=Empirical+studies+of+bio-inspired+self-organized+secure+autonomousRouting+protocol&amp;rft.au=J.+Al-Muhtadi&amp;rft.au=K.+Saleem&amp;rft.au=N.+Fisal&amp;rft.date=2014&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fieeexplore.ieee.org%2Fdocument%2F6749271%2F&amp;rft_id=info%3Adoi%2F10.1109%2FJSEN.2014.2308725&amp;rft.jtitle=Sensors+Journal+IEEE&amp;rft.pages=1-8&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">Anastasi, G.,Farruggia, 0., Lo Re, G., Ortolani, M. (2009) Monitoring High-Quality Wine Production using Wireless Sensor Networks, HICSS 2009</span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">Saleem, K., Fisal, N., Hafizah, S., Kamilah, S., Rashid, R. and Baguda, Y., 2009, January. Cross layer based biological inspired self-organized routing protocol for wireless sensor network. In TENCON 2009-2009 IEEE Region 10 Conference (pp. 1-6). IEEE. <a rel="nofollow" class="external autonumber" href="http://ieeexplore.ieee.org/document/5395945/">[1]</a></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation journal">Magno, M.; Boyle, D.; Brunelli, D.; O'Flynn, B.; Popovici, E.; Benini, L. (2014). "Extended Wireless Monitoring Through Intelligent Hybrid Energy Supply". <i>IEEE Transactions on Industrial Electronics</i>. <b>61</b> (4): 1871. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1109%2FTIE.2013.2267694">10.1109/TIE.2013.2267694</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWireless+sensor+network&amp;rft.atitle=Extended+Wireless+Monitoring+Through+Intelligent+Hybrid+Energy+Supply&amp;rft.au=Benini%2C+L.&amp;rft.au=Boyle%2C+D.&amp;rft.au=Brunelli%2C+D.&amp;rft.aufirst=M.&amp;rft.aulast=Magno&amp;rft.au=O%27Flynn%2C+B.&amp;rft.au=Popovici%2C+E.&amp;rft.date=2014&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1109%2FTIE.2013.2267694&amp;rft.issue=4&amp;rft.jtitle=IEEE+Transactions+on+Industrial+Electronics&amp;rft.pages=1871&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=61" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://forum.manetlab.com/threads/tinyos-programming.25">TinyOS Programming, Philip Levis, Cambridge University Press, 2009</a></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation journal">Silva, D.; Ghanem, M.; Guo, Y. (2012). "WikiSensing: An Online Collaborative Approach for Sensor Data Management". <i>Sensors</i>. <b>12</b> (12): 13295. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.3390%2Fs121013295">10.3390/s121013295</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWireless+sensor+network&amp;rft.atitle=WikiSensing%3A+An+Online+Collaborative+Approach+for+Sensor+Data+Management&amp;rft.aufirst=D.&amp;rft.au=Ghanem%2C+M.&amp;rft.au=Guo%2C+Y.&amp;rft.aulast=Silva&amp;rft.date=2012&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.3390%2Fs121013295&amp;rft.issue=12&amp;rft.jtitle=Sensors&amp;rft.pages=13295&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=12" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Paper-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-Paper_17-0">^</a></b></span> <span class="reference-text">Muaz Niazi, Amir Hussain (2011). A Novel Agent-Based Simulation Framework for Sensing in Complex Adaptive Environments. IEEE Sensors Journal, Vol.11 No. 2, 404–412. <a rel="nofollow" class="external text" href="http://cs.stir.ac.uk/~man/papers/Accepted_IEEESensorsAug2010.pdf">Paper</a></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wireless_sensor_network&amp;action=edit&amp;section=30" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tr>
+<td class="mbox-image"><a href="/wiki/File:Commons-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Wireless_sensor_networks" class="extiw" title="commons:Category:Wireless sensor networks">Wireless sensor networks</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.ieee802.org/15">IEEE 802.15.4 Standardization Committee</a></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Wireless_sensor_network" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Wireless_Sensor_Network" title="Template:Wireless Sensor Network"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Wireless_Sensor_Network" title="Template talk:Wireless Sensor Network"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Wireless_Sensor_Network&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Wireless_sensor_network" style="font-size:114%"><strong class="selflink">Wireless sensor network</strong></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Operating_system" title="Operating system">Operating<br />
+systems</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Contiki" title="Contiki">Contiki</a></li>
+<li><a href="/wiki/ERIKA_Enterprise" title="ERIKA Enterprise">ERIKA Enterprise</a></li>
+<li><a href="/wiki/LiteOS" title="LiteOS">LiteOS</a></li>
+<li>NanoQplus</li>
+<li><a href="/wiki/Nano-RK" title="Nano-RK">Nano-RK</a></li>
+<li><a href="/wiki/OpenTag" title="OpenTag">OpenTag</a></li>
+<li><a href="/wiki/RIOT_(operating_system)" title="RIOT (operating system)">RIOT</a></li>
+<li><a href="/wiki/TinyOS" title="TinyOS">TinyOS</a></li>
+<li><a href="/wiki/OpenWSN" title="OpenWSN">OpenWSN</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Communications_protocol" title="Communications protocol">Communications<br />
+protocols</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/6LoWPAN" title="6LoWPAN">6LoWPAN</a></li>
+<li><a href="/wiki/802.15.4" class="mw-redirect" title="802.15.4">802.15.4</a></li>
+<li><a href="/wiki/ANT_(network)" title="ANT (network)">ANT</a></li>
+<li><a href="/wiki/Bluetooth" title="Bluetooth">Bluetooth</a></li>
+<li><a href="/wiki/Bluetooth_low_energy" title="Bluetooth low energy">Bluetooth low energy</a> (Wibree)</li>
+<li><a href="/wiki/DASH7" title="DASH7">DASH7</a></li>
+<li><a href="/wiki/ISA100.11a" title="ISA100.11a">ISA100.11a</a></li>
+<li><a href="/wiki/MiWi" title="MiWi">MiWi</a></li>
+<li><a href="/wiki/Near_field_communication" title="Near field communication">Near field communication</a></li>
+<li><a href="/wiki/OCARI" title="OCARI">OCARI</a></li>
+<li><a href="/wiki/ONE-NET" class="mw-redirect" title="ONE-NET">ONE-NET</a></li>
+<li><a href="/wiki/OSIAN" title="OSIAN">OSIAN</a></li>
+<li><a href="/wiki/Thread_(network_protocol)" title="Thread (network protocol)">Thread</a></li>
+<li>TIBUMAC</li>
+<li><a href="/wiki/TSMP" title="TSMP">TSMP</a></li>
+<li><a href="/wiki/WirelessHART" title="WirelessHART">WirelessHART</a></li>
+<li><a href="/wiki/ZigBee" title="ZigBee">ZigBee</a></li>
+<li><a href="/wiki/Z-Wave" title="Z-Wave">Z-Wave</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Programming_language" title="Programming language">Programming<br />
+languages</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/C_(programming_language)" title="C (programming language)">C</a></li>
+<li><a href="/wiki/LabVIEW" title="LabVIEW">LabVIEW</a></li>
+<li><a href="/wiki/NesC" title="NesC">nesC</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Computer_hardware" title="Computer hardware">Hardware</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Arduino" title="Arduino">Arduino</a></li>
+<li><a href="/wiki/Iris_Mote" class="mw-redirect" title="Iris Mote">Iris Mote</a></li>
+<li><a href="/wiki/Sun_SPOT" title="Sun SPOT">Sun SPOT</a></li>
+<li><a href="/wiki/Xbee" class="mw-redirect" title="Xbee">Xbee</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Software" title="Software">Software</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ns_(simulator)" title="Ns (simulator)">NS-2</a></li>
+<li><a href="/wiki/LinuxMCE" title="LinuxMCE">LinuxMCE</a></li>
+<li><a href="/wiki/NetSim" title="NetSim">NetSim</a></li>
+<li><a href="/wiki/OPNET" title="OPNET">OPNET</a></li>
+<li><a href="/wiki/TinyOS" title="TinyOS">TinyDB-TOSSIM</a></li>
+<li><a href="/w/index.php?title=JiST&amp;action=edit&amp;redlink=1" class="new" title="JiST (page does not exist)">SWANS</a></li>
+<li><a href="/w/index.php?title=Avrora_(software)&amp;action=edit&amp;redlink=1" class="new" title="Avrora (software) (page does not exist)">Avrora</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Application_software" title="Application software">Applications</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Key_distribution_in_wireless_sensor_networks" title="Key distribution in wireless sensor networks">Key distribution</a></li>
+<li><a href="/wiki/Location_estimation_in_sensor_networks" title="Location estimation in sensor networks">Location estimation</a></li>
+<li><a href="/wiki/Sensor_network_queries_processor" class="mw-redirect" title="Sensor network queries processor">Sensor network queries processor</a></li>
+<li><a href="/wiki/Sensor_web" title="Sensor web">Sensor web</a></li>
+<li><a href="/wiki/Wireless_powerline_sensor" title="Wireless powerline sensor">Wireless powerline sensor</a></li>
+<li><a href="/wiki/Telemetry" title="Telemetry">Telemetry</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Routing_protocol" title="Routing protocol">Routing<br />
+protocols</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ad_hoc_On-Demand_Distance_Vector_Routing" title="Ad hoc On-Demand Distance Vector Routing">Ad hoc On-Demand Distance Vector Routing</a> (AODV)</li>
+<li><a href="/wiki/Dynamic_Source_Routing" title="Dynamic Source Routing">Dynamic Source Routing</a> (DSR)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Academic_conference" title="Academic conference">Conferences</a>,<br />
+<a href="/wiki/Academic_journal" title="Academic journal">journals</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/European_Conference_on_Wireless_Sensor_Networks" title="European Conference on Wireless Sensor Networks">European Conference on Wireless Sensor Networks</a> (EWSN)</li>
+<li><a href="/wiki/International_Conference_on_Information_Processing_in_Sensor_Networks" title="International Conference on Information Processing in Sensor Networks">International Conference on Information Processing in Sensor Networks</a> (IPSN)</li>
+<li><a href="/wiki/Conference_on_Embedded_Networked_Sensor_Systems" title="Conference on Embedded Networked Sensor Systems">Conference on Embedded Networked Sensor Systems</a> (SenSys)</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Sensors" style="padding:3px">
+<table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Sensors" title="Template:Sensors"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Sensors" title="Template talk:Sensors"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Sensors&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Sensors" style="font-size:114%"><a href="/wiki/Sensor" title="Sensor">Sensors</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Acoustic, sound, vibration</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Geophone" title="Geophone">Geophone</a></li>
+<li><a href="/wiki/Hydrophone" title="Hydrophone">Hydrophone</a></li>
+<li><a href="/wiki/Microphone" title="Microphone">Microphone</a></li>
+<li><a href="/wiki/Seismometer" title="Seismometer">Seismometer</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Automotive, transportation</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Air%E2%80%93fuel_ratio_meter" title="Air–fuel ratio meter">Air–fuel ratio meter</a></li>
+<li><a href="/wiki/Blind_spot_monitor" title="Blind spot monitor">Blind spot monitor</a></li>
+<li><a href="/wiki/Crankshaft_position_sensor" title="Crankshaft position sensor">Crankshaft position sensor</a></li>
+<li><a href="/wiki/Curb_feeler" title="Curb feeler">Curb feeler</a></li>
+<li><a href="/wiki/Defect_detector" title="Defect detector">Defect detector</a></li>
+<li><a href="/wiki/Engine_coolant_temperature_sensor" title="Engine coolant temperature sensor">Engine coolant temperature sensor</a></li>
+<li><a href="/wiki/Hall_effect_sensor" title="Hall effect sensor">Hall effect sensor</a></li>
+<li><a href="/wiki/MAP_sensor" title="MAP sensor">MAP sensor</a></li>
+<li><a href="/wiki/Mass_flow_sensor" title="Mass flow sensor">Mass flow sensor</a></li>
+<li><a href="/wiki/Omniview_technology" title="Omniview technology">Omniview technology</a></li>
+<li><a href="/wiki/Oxygen_sensor" title="Oxygen sensor">Oxygen sensor</a></li>
+<li><a href="/wiki/Parking_sensors" class="mw-redirect" title="Parking sensors">Parking sensors</a></li>
+<li><a href="/wiki/Radar_gun" title="Radar gun">Radar gun</a></li>
+<li><a href="/wiki/Speed_sensor" title="Speed sensor">Speed sensor</a></li>
+<li><a href="/wiki/Speedometer" title="Speedometer">Speedometer</a></li>
+<li><a href="/wiki/Throttle_position_sensor" title="Throttle position sensor">Throttle position sensor</a></li>
+<li><a href="/wiki/Tire-pressure_monitoring_system" title="Tire-pressure monitoring system">Tire-pressure monitoring system</a></li>
+<li><a href="/wiki/Torque_sensor" title="Torque sensor">Torque sensor</a></li>
+<li><a href="/wiki/Transmission_control_unit#Transmission_fluid_Temperature_sensor_.28TFT.29" title="Transmission control unit">Transmission fluid temperature sensor</a></li>
+<li><a href="/wiki/Transmission_control_unit#Turbine_speed_sensor_.28TSS.29" title="Transmission control unit">Turbine speed sensor</a></li>
+<li><a href="/wiki/Variable_reluctance_sensor" title="Variable reluctance sensor">Variable reluctance sensor</a></li>
+<li><a href="/wiki/Transmission_control_unit#Vehicle_speed_sensor_.28VSS.29" title="Transmission control unit">Vehicle speed sensor</a></li>
+<li><a href="/wiki/Water_sensor" title="Water sensor">Water sensor</a></li>
+<li><a href="/wiki/Wheel_speed_sensor" title="Wheel speed sensor">Wheel speed sensor</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Chemical</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Breathalyzer" title="Breathalyzer">Breathalyzer</a></li>
+<li><a href="/wiki/Carbon_dioxide_sensor" title="Carbon dioxide sensor">Carbon dioxide sensor</a></li>
+<li><a href="/wiki/Carbon_monoxide_detector" title="Carbon monoxide detector">Carbon monoxide detector</a></li>
+<li><a href="/wiki/Catalytic_bead_sensor" title="Catalytic bead sensor">Catalytic bead sensor</a></li>
+<li><a href="/wiki/Chemical_field-effect_transistor" title="Chemical field-effect transistor">Chemical field-effect transistor</a></li>
+<li><a href="/wiki/Electrochemical_gas_sensor" title="Electrochemical gas sensor">Electrochemical gas sensor</a></li>
+<li><a href="/wiki/Electrolyte%E2%80%93insulator%E2%80%93semiconductor_sensor" title="Electrolyte–insulator–semiconductor sensor">Electrolyte–insulator–semiconductor sensor</a></li>
+<li><a href="/wiki/Electronic_nose" title="Electronic nose">Electronic nose</a></li>
+<li><a href="/wiki/Fluorescent_chloride_sensors" title="Fluorescent chloride sensors">Fluorescent chloride sensors</a></li>
+<li><a href="/wiki/Holographic_sensor" title="Holographic sensor">Holographic sensor</a></li>
+<li><a href="/wiki/Hydrocarbon_dew_point" title="Hydrocarbon dew point">Hydrocarbon dew point</a> analyzer</li>
+<li><a href="/wiki/Hydrogen_sensor" title="Hydrogen sensor">Hydrogen sensor</a></li>
+<li><a href="/wiki/Hydrogen_sulfide_sensor" title="Hydrogen sulfide sensor">Hydrogen sulfide sensor</a></li>
+<li><a href="/wiki/Infrared_point_sensor" title="Infrared point sensor">Infrared point sensor</a></li>
+<li><a href="/wiki/Ion_selective_electrode" title="Ion selective electrode">Ion selective electrode</a></li>
+<li><a href="/wiki/Microwave_chemistry_sensor" title="Microwave chemistry sensor">Microwave chemistry sensor</a></li>
+<li><a href="/wiki/Nitrogen_oxide_sensor" title="Nitrogen oxide sensor">Nitrogen oxide sensor</a></li>
+<li><a href="/wiki/Nondispersive_infrared_sensor" title="Nondispersive infrared sensor">Nondispersive infrared sensor</a></li>
+<li><a href="/wiki/Olfactometer" title="Olfactometer">Olfactometer</a></li>
+<li><a href="/wiki/Optode" title="Optode">Optode</a></li>
+<li><a href="/wiki/Oxygen_sensor" title="Oxygen sensor">Oxygen sensor</a></li>
+<li><a href="/wiki/Pellistor" title="Pellistor">Pellistor</a></li>
+<li><a href="/wiki/PH_glass_electrode" class="mw-redirect" title="PH glass electrode">pH glass electrode</a></li>
+<li><a href="/wiki/Potentiometric_sensor" title="Potentiometric sensor">Potentiometric sensor</a></li>
+<li><a href="/wiki/Redox_electrode" class="mw-redirect" title="Redox electrode">Redox electrode</a></li>
+<li><a href="/wiki/Smoke_detector" title="Smoke detector">Smoke detector</a></li>
+<li><a href="/wiki/Zinc_oxide_nanorod_sensor" title="Zinc oxide nanorod sensor">Zinc oxide nanorod sensor</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Electric, magnetic, radio</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Current_sensor" title="Current sensor">Current sensor</a></li>
+<li><a href="/wiki/Electroscope" title="Electroscope">Electroscope</a></li>
+<li><a href="/wiki/Galvanometer" title="Galvanometer">Galvanometer</a></li>
+<li><a href="/wiki/Hall_effect_sensor" title="Hall effect sensor">Hall effect sensor</a></li>
+<li><a href="/wiki/Hall_probe" class="mw-redirect" title="Hall probe">Hall probe</a></li>
+<li><a href="/wiki/Magnetic_anomaly_detector" title="Magnetic anomaly detector">Magnetic anomaly detector</a></li>
+<li><a href="/wiki/Magnetometer" title="Magnetometer">Magnetometer</a></li>
+<li><a href="/wiki/MEMS_magnetic_field_sensor" title="MEMS magnetic field sensor">MEMS magnetic field sensor</a></li>
+<li><a href="/wiki/Metal_detector" title="Metal detector">Metal detector</a></li>
+<li><a href="/wiki/Planar_Hall_sensor" title="Planar Hall sensor">Planar Hall sensor</a></li>
+<li><a href="/wiki/Radio_direction_finder" title="Radio direction finder">Radio direction finder</a></li>
+<li><a href="/wiki/Test_light" title="Test light">Test light</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Environment, weather,<br />
+moisture</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Actinometer" title="Actinometer">Actinometer</a></li>
+<li><a href="/wiki/Bedwetting_alarm" title="Bedwetting alarm">Bedwetting alarm</a></li>
+<li><a href="/wiki/Ceilometer" title="Ceilometer">Ceilometer</a></li>
+<li><a href="/wiki/Dew_warning" title="Dew warning">Dew warning</a></li>
+<li><a href="/wiki/Electrochemical_gas_sensor" title="Electrochemical gas sensor">Electrochemical gas sensor</a></li>
+<li><a href="/wiki/Fish_counter" title="Fish counter">Fish counter</a></li>
+<li><a href="/wiki/Frequency_domain_sensor" title="Frequency domain sensor">Frequency domain sensor</a></li>
+<li><a href="/wiki/Gas_detector" title="Gas detector">Gas detector</a></li>
+<li><a href="/wiki/Hook_gauge_evaporimeter" title="Hook gauge evaporimeter">Hook gauge evaporimeter</a></li>
+<li><a href="/wiki/Humistor" title="Humistor">Humistor</a></li>
+<li><a href="/wiki/Hygrometer" title="Hygrometer">Hygrometer</a></li>
+<li><a href="/wiki/Leaf_sensor" title="Leaf sensor">Leaf sensor</a></li>
+<li><a href="/wiki/Psychrometer" class="mw-redirect" title="Psychrometer">Psychrometer</a></li>
+<li><a href="/wiki/Pyranometer" title="Pyranometer">Pyranometer</a></li>
+<li><a href="/wiki/Pyrgeometer" title="Pyrgeometer">Pyrgeometer</a></li>
+<li><a href="/wiki/Rain_gauge" title="Rain gauge">Rain gauge</a></li>
+<li><a href="/wiki/Rain_sensor" title="Rain sensor">Rain sensor</a></li>
+<li><a href="/wiki/SNOTEL" title="SNOTEL">SNOTEL</a></li>
+<li><a href="/wiki/Snow_gauge" title="Snow gauge">Snow gauge</a></li>
+<li><a href="/wiki/Soil_moisture_sensor" title="Soil moisture sensor">Soil moisture sensor</a></li>
+<li><a href="/wiki/Stream_gauge" title="Stream gauge">Stream gauge</a></li>
+<li><a href="/wiki/Tide_gauge" title="Tide gauge">Tide gauge</a></li>
+<li><a href="/wiki/Weather_radar" title="Weather radar">Weather radar</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Flow, fluid velocity</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Air_flow_meter" title="Air flow meter">Air flow meter</a></li>
+<li><a href="/wiki/Anemometer" title="Anemometer">Anemometer</a></li>
+<li><a href="/wiki/Flow_sensor" class="mw-redirect" title="Flow sensor">Flow sensor</a></li>
+<li><a href="/wiki/Gas_meter" title="Gas meter">Gas meter</a></li>
+<li><a href="/wiki/Mass_flow_sensor" title="Mass flow sensor">Mass flow sensor</a></li>
+<li><a href="/wiki/Water_metering" title="Water metering">Water metering</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Ionising radiation,<br />
+subatomic particles</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bubble_chamber" title="Bubble chamber">Bubble chamber</a></li>
+<li><a href="/wiki/Cloud_chamber" title="Cloud chamber">Cloud chamber</a></li>
+<li><a href="/wiki/Geiger_counter" title="Geiger counter">Geiger counter</a></li>
+<li><a href="/wiki/Neutron_detection" title="Neutron detection">Neutron detection</a></li>
+<li><a href="/wiki/Particle_detector" title="Particle detector">Particle detector</a></li>
+<li><a href="/wiki/Scintillation_counter" title="Scintillation counter">Scintillation counter</a></li>
+<li><a href="/wiki/Scintillator" title="Scintillator">Scintillator</a></li>
+<li><a href="/wiki/Wire_chamber" title="Wire chamber">Wire chamber</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Navigation instruments</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Airspeed_indicator" title="Airspeed indicator">Airspeed indicator</a></li>
+<li><a href="/wiki/Machmeter" title="Machmeter">Machmeter</a></li>
+<li><a href="/wiki/Altimeter" title="Altimeter">Altimeter</a></li>
+<li><a href="/wiki/Attitude_indicator" title="Attitude indicator">Attitude indicator</a></li>
+<li><a href="/wiki/Depth_gauge" title="Depth gauge">Depth gauge</a></li>
+<li><a href="/wiki/Fluxgate_compass" class="mw-redirect" title="Fluxgate compass">Fluxgate compass</a></li>
+<li><a href="/wiki/Gyroscope" title="Gyroscope">Gyroscope</a></li>
+<li><a href="/wiki/Inertial_navigation_system" title="Inertial navigation system">Inertial navigation system</a></li>
+<li><a href="/wiki/Inertial_reference_unit" title="Inertial reference unit">Inertial reference unit</a></li>
+<li><a href="/wiki/Magnetic_compass" class="mw-redirect" title="Magnetic compass">Magnetic compass</a></li>
+<li><a href="/wiki/MHD_sensor" class="mw-redirect" title="MHD sensor">MHD sensor</a></li>
+<li><a href="/wiki/Ring_laser_gyroscope" title="Ring laser gyroscope">Ring laser gyroscope</a></li>
+<li><a href="/wiki/Turn_coordinator" class="mw-redirect" title="Turn coordinator">Turn coordinator</a></li>
+<li><a href="/wiki/Variometer" title="Variometer">Variometer</a></li>
+<li><a href="/wiki/Vibrating_structure_gyroscope" title="Vibrating structure gyroscope">Vibrating structure gyroscope</a></li>
+<li><a href="/wiki/Yaw-rate_sensor" title="Yaw-rate sensor">Yaw-rate sensor</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Position, angle,<br />
+displacement</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Accelerometer" title="Accelerometer">Accelerometer</a></li>
+<li><a href="/wiki/Auxanometer" title="Auxanometer">Auxanometer</a></li>
+<li><a href="/wiki/Capacitive_displacement_sensor" title="Capacitive displacement sensor">Capacitive displacement sensor</a></li>
+<li><a href="/wiki/Capacitive_sensing" title="Capacitive sensing">Capacitive sensing</a></li>
+<li><a href="/wiki/Gravimeter" title="Gravimeter">Gravimeter</a></li>
+<li><a href="/wiki/Inclinometer" title="Inclinometer">Inclinometer</a></li>
+<li><a href="/wiki/Integrated_circuit_piezoelectric_sensor" title="Integrated circuit piezoelectric sensor">Integrated circuit piezoelectric sensor</a></li>
+<li><a href="/wiki/Laser_rangefinder" title="Laser rangefinder">Laser rangefinder</a></li>
+<li><a href="/wiki/Laser_surface_velocimeter" title="Laser surface velocimeter">Laser surface velocimeter</a></li>
+<li><a href="/wiki/Lidar" title="Lidar">Lidar</a></li>
+<li><a href="/wiki/Linear_encoder" title="Linear encoder">Linear encoder</a></li>
+<li><a href="/wiki/Linear_variable_differential_transformer" title="Linear variable differential transformer">Linear variable differential transformer</a></li>
+<li><a href="/wiki/Liquid_capacitive_inclinometers" title="Liquid capacitive inclinometers">Liquid capacitive inclinometers</a></li>
+<li><a href="/wiki/Odometer" title="Odometer">Odometer</a></li>
+<li><a href="/wiki/Photoelectric_sensor" title="Photoelectric sensor">Photoelectric sensor</a></li>
+<li><a href="/wiki/Piezoelectric_accelerometer" title="Piezoelectric accelerometer">Piezoelectric accelerometer</a></li>
+<li><a href="/wiki/Position_sensor" title="Position sensor">Position sensor</a></li>
+<li><a href="/wiki/Rate_sensor" class="mw-redirect" title="Rate sensor">Rate sensor</a></li>
+<li><a href="/wiki/Rotary_encoder" title="Rotary encoder">Rotary encoder</a></li>
+<li><a href="/wiki/Rotary_variable_differential_transformer" title="Rotary variable differential transformer">Rotary variable differential transformer</a></li>
+<li><a href="/wiki/Selsyn" class="mw-redirect" title="Selsyn">Selsyn</a></li>
+<li><a href="/wiki/Sudden_Motion_Sensor" title="Sudden Motion Sensor">Sudden Motion Sensor</a></li>
+<li><a href="/wiki/Tachometer" title="Tachometer">Tachometer</a></li>
+<li><a href="/wiki/Tilt_sensor" title="Tilt sensor">Tilt sensor</a></li>
+<li><a href="/wiki/Ultrasonic_thickness_gauge" title="Ultrasonic thickness gauge">Ultrasonic thickness gauge</a></li>
+<li><a href="/wiki/Variable_reluctance_sensor" title="Variable reluctance sensor">Variable reluctance sensor</a></li>
+<li><a href="/wiki/Velocity_receiver" title="Velocity receiver">Velocity receiver</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Optical, light, imaging</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Charge-coupled_device" title="Charge-coupled device">Charge-coupled device</a></li>
+<li><a href="/wiki/Contact_image_sensor" title="Contact image sensor">Contact image sensor</a></li>
+<li><a href="/wiki/Electro-optical_sensor" title="Electro-optical sensor">Electro-optical sensor</a></li>
+<li><a href="/wiki/Flame_detector" title="Flame detector">Flame detector</a></li>
+<li><a href="/wiki/Infrared" title="Infrared">Infrared</a></li>
+<li><a href="/wiki/Kinetic_inductance_detector" title="Kinetic inductance detector">Kinetic inductance detector</a></li>
+<li><a href="/wiki/LED_as_light_sensor" class="mw-redirect" title="LED as light sensor">LED as light sensor</a></li>
+<li><a href="/wiki/Light-addressable_potentiometric_sensor" title="Light-addressable potentiometric sensor">Light-addressable potentiometric sensor</a></li>
+<li><a href="/wiki/Nichols_radiometer" title="Nichols radiometer">Nichols radiometer</a></li>
+<li><a href="/wiki/Optical_fiber" title="Optical fiber">Optical fiber</a></li>
+<li><a href="/wiki/Photodetector" title="Photodetector">Photodetector</a></li>
+<li><a href="/wiki/Photodiode" title="Photodiode">Photodiode</a></li>
+<li><a href="/wiki/Photoelectric_sensor" title="Photoelectric sensor">Photoelectric sensor</a></li>
+<li><a href="/wiki/Photoionization_detector" title="Photoionization detector">Photoionization detector</a></li>
+<li><a href="/wiki/Photomultiplier" title="Photomultiplier">Photomultiplier</a></li>
+<li><a href="/wiki/Photoresistor" title="Photoresistor">Photoresistor</a></li>
+<li><a href="/wiki/Photoswitch" title="Photoswitch">Photoswitch</a></li>
+<li><a href="/wiki/Phototransistor" class="mw-redirect" title="Phototransistor">Phototransistor</a></li>
+<li><a href="/wiki/Phototube" title="Phototube">Phototube</a></li>
+<li><a href="/wiki/Position_sensitive_device" title="Position sensitive device">Position sensitive device</a></li>
+<li><a href="/wiki/Scintillometer" title="Scintillometer">Scintillometer</a></li>
+<li><a href="/wiki/Shack%E2%80%93Hartmann_wavefront_sensor" title="Shack–Hartmann wavefront sensor">Shack–Hartmann wavefront sensor</a></li>
+<li><a href="/wiki/Single-photon_avalanche_diode" title="Single-photon avalanche diode">Single-photon avalanche diode</a></li>
+<li><a href="/wiki/Superconducting_nanowire_single-photon_detector" title="Superconducting nanowire single-photon detector">Superconducting nanowire single-photon detector</a></li>
+<li><a href="/wiki/Transition_edge_sensor" title="Transition edge sensor">Transition edge sensor</a></li>
+<li><a href="/wiki/Tristimulus_colorimeter" title="Tristimulus colorimeter">Tristimulus colorimeter</a></li>
+<li><a href="/wiki/Visible-light_photon_counter" title="Visible-light photon counter">Visible-light photon counter</a></li>
+<li><a href="/wiki/Wavefront_sensor" title="Wavefront sensor">Wavefront sensor</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Pressure</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Barograph" title="Barograph">Barograph</a></li>
+<li><a href="/wiki/Barometer" title="Barometer">Barometer</a></li>
+<li><a href="/wiki/Boost_gauge" title="Boost gauge">Boost gauge</a></li>
+<li><a href="/wiki/Bourdon_gauge" class="mw-redirect" title="Bourdon gauge">Bourdon gauge</a></li>
+<li><a href="/wiki/Hot-filament_ionization_gauge" title="Hot-filament ionization gauge">Hot-filament ionization gauge</a></li>
+<li><a href="/wiki/Ionization_gauge" class="mw-redirect" title="Ionization gauge">Ionization gauge</a></li>
+<li><a href="/wiki/McLeod_gauge" title="McLeod gauge">McLeod gauge</a></li>
+<li><a href="/wiki/Oscillating_U-tube" title="Oscillating U-tube">Oscillating U-tube</a></li>
+<li><a href="/wiki/Permanent_Downhole_Gauge" title="Permanent Downhole Gauge">Permanent Downhole Gauge</a></li>
+<li><a href="/wiki/Piezometer" title="Piezometer">Piezometer</a></li>
+<li><a href="/wiki/Pirani_gauge" title="Pirani gauge">Pirani gauge</a></li>
+<li><a href="/wiki/Pressure_gauge" class="mw-redirect" title="Pressure gauge">Pressure gauge</a></li>
+<li><a href="/wiki/Pressure_sensor" title="Pressure sensor">Pressure sensor</a></li>
+<li><a href="/wiki/Tactile_sensor" title="Tactile sensor">Tactile sensor</a></li>
+<li><a href="/wiki/Time_pressure_gauge" title="Time pressure gauge">Time pressure gauge</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Force, density, level</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bhangmeter" title="Bhangmeter">Bhangmeter</a></li>
+<li><a href="/wiki/Force_gauge" title="Force gauge">Force gauge</a></li>
+<li><a href="/wiki/Hydrometer" title="Hydrometer">Hydrometer</a></li>
+<li><a href="/wiki/Level_sensor" title="Level sensor">Level sensor</a></li>
+<li><a href="/wiki/Load_cell" title="Load cell">Load cell</a></li>
+<li><a href="/wiki/Magnetic_level_gauge" title="Magnetic level gauge">Magnetic level gauge</a></li>
+<li><a href="/wiki/Nuclear_density_gauge" title="Nuclear density gauge">Nuclear density gauge</a></li>
+<li><a href="/wiki/Piezoelectric_sensor" title="Piezoelectric sensor">Piezoelectric sensor</a></li>
+<li><a href="/wiki/Strain_gauge" title="Strain gauge">Strain gauge</a></li>
+<li><a href="/wiki/Torque_sensor" title="Torque sensor">Torque sensor</a></li>
+<li><a href="/wiki/Viscometer" title="Viscometer">Viscometer</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Thermal, heat,<br />
+temperature</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bimetallic_strip" title="Bimetallic strip">Bimetallic strip</a></li>
+<li><a href="/wiki/Bolometer" title="Bolometer">Bolometer</a></li>
+<li><a href="/wiki/Calorimeter" title="Calorimeter">Calorimeter</a></li>
+<li><a href="/wiki/Exhaust_gas_temperature_gauge" title="Exhaust gas temperature gauge">Exhaust gas temperature gauge</a></li>
+<li><a href="/wiki/Flame_detection" title="Flame detection">Flame detection</a></li>
+<li><a href="/wiki/Gardon_gauge" title="Gardon gauge">Gardon gauge</a></li>
+<li><a href="/wiki/Golay_cell" title="Golay cell">Golay cell</a></li>
+<li><a href="/wiki/Heat_flux_sensor" title="Heat flux sensor">Heat flux sensor</a></li>
+<li><a href="/wiki/Infrared_thermometer" title="Infrared thermometer">Infrared thermometer</a></li>
+<li><a href="/wiki/Microbolometer" title="Microbolometer">Microbolometer</a></li>
+<li><a href="/wiki/Microwave_radiometer" title="Microwave radiometer">Microwave radiometer</a></li>
+<li><a href="/wiki/Net_radiometer" title="Net radiometer">Net radiometer</a></li>
+<li><a href="/wiki/Quartz_thermometer" title="Quartz thermometer">Quartz thermometer</a></li>
+<li><a href="/wiki/Resistance_thermometer" title="Resistance thermometer">Resistance thermometer</a></li>
+<li><a href="/wiki/Silicon_bandgap_temperature_sensor" title="Silicon bandgap temperature sensor">Silicon bandgap temperature sensor</a></li>
+<li><a href="/wiki/Special_sensor_microwave/imager" title="Special sensor microwave/imager">Special sensor microwave/imager</a></li>
+<li><a href="/wiki/Thermistor" title="Thermistor">Thermistor</a></li>
+<li><a href="/wiki/Thermocouple" title="Thermocouple">Thermocouple</a></li>
+<li><a href="/wiki/Thermometer" title="Thermometer">Thermometer</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Proximity, presence</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Alarm_sensor" title="Alarm sensor">Alarm sensor</a></li>
+<li><a href="/wiki/Doppler_radar" title="Doppler radar">Doppler radar</a></li>
+<li><a href="/wiki/Motion_detector" title="Motion detector">Motion detector</a></li>
+<li><a href="/wiki/Occupancy_sensor" title="Occupancy sensor">Occupancy sensor</a></li>
+<li><a href="/wiki/Passive_infrared_sensor" title="Passive infrared sensor">Passive infrared sensor</a></li>
+<li><a href="/wiki/Proximity_sensor" title="Proximity sensor">Proximity sensor</a></li>
+<li><a href="/wiki/Reed_switch" title="Reed switch">Reed switch</a></li>
+<li><a href="/wiki/Stud_finder" title="Stud finder">Stud finder</a></li>
+<li><a href="/wiki/Touch_switch" title="Touch switch">Touch switch</a></li>
+<li><a href="/wiki/Triangulation_sensor" title="Triangulation sensor">Triangulation sensor</a></li>
+<li><a href="/wiki/Wired_glove" title="Wired glove">Wired glove</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Sensor technology</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Active_pixel_sensor" title="Active pixel sensor">Active pixel sensor</a></li>
+<li><a href="/wiki/Back-illuminated_sensor" title="Back-illuminated sensor">Back-illuminated sensor</a></li>
+<li><a href="/wiki/Biochip" title="Biochip">Biochip</a></li>
+<li><a href="/wiki/Biosensor" title="Biosensor">Biosensor</a></li>
+<li><a href="/wiki/Capacitance_probe" title="Capacitance probe">Capacitance probe</a></li>
+<li><a href="/wiki/Carbon_paste_electrode" title="Carbon paste electrode">Carbon paste electrode</a></li>
+<li><a href="/wiki/Catadioptric_sensor" title="Catadioptric sensor">Catadioptric sensor</a></li>
+<li><a href="/wiki/Digital_sensors" title="Digital sensors">Digital sensors</a></li>
+<li><a href="/wiki/Displacement_receiver" title="Displacement receiver">Displacement receiver</a></li>
+<li><a href="/wiki/Electromechanical_film" title="Electromechanical film">Electromechanical film</a></li>
+<li><a href="/wiki/Electro-optical_sensor" title="Electro-optical sensor">Electro-optical sensor</a></li>
+<li><a href="/wiki/Fabry%E2%80%93P%C3%A9rot_interferometer" title="Fabry–Pérot interferometer">Fabry–Pérot interferometer</a></li>
+<li><a href="/wiki/Fisheries_acoustics" title="Fisheries acoustics">Fisheries acoustics</a></li>
+<li><a href="/wiki/Image_sensor" title="Image sensor">Image sensor</a></li>
+<li><a href="/wiki/Image_sensor_format" title="Image sensor format">Image sensor format</a></li>
+<li><a href="/wiki/Inductive_sensor" title="Inductive sensor">Inductive sensor</a></li>
+<li><a href="/wiki/Intelligent_sensor" title="Intelligent sensor">Intelligent sensor</a></li>
+<li><a href="/wiki/Lab-on-a-chip" title="Lab-on-a-chip">Lab-on-a-chip</a></li>
+<li><a href="/wiki/Leaf_sensor" title="Leaf sensor">Leaf sensor</a></li>
+<li><a href="/wiki/Machine_vision" title="Machine vision">Machine vision</a></li>
+<li><a href="/wiki/Microelectromechanical_systems" title="Microelectromechanical systems">Microelectromechanical systems</a></li>
+<li><a href="/wiki/Photoelasticity" title="Photoelasticity">Photoelasticity</a></li>
+<li><a href="/wiki/Quantum_sensor" title="Quantum sensor">Quantum sensor</a></li>
+<li><a href="/wiki/Radar" title="Radar">Radar</a>
+<ul>
+<li><a href="/wiki/Ground-penetrating_radar" title="Ground-penetrating radar">Ground-penetrating radar</a></li>
+<li><a href="/wiki/Synthetic_aperture_radar" title="Synthetic aperture radar">Synthetic aperture radar</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Radar_tracker" title="Radar tracker">Radar tracker</a></li>
+<li><a href="/wiki/Sensor_array" title="Sensor array">Sensor array</a></li>
+<li><a href="/wiki/Sensor_fusion" title="Sensor fusion">Sensor fusion</a></li>
+<li><a href="/wiki/Sensor_grid" title="Sensor grid">Sensor grid</a></li>
+<li><a href="/wiki/Sensor_node" title="Sensor node">Sensor node</a></li>
+<li><a href="/wiki/Soft_sensor" title="Soft sensor">Soft sensor</a></li>
+<li><a href="/wiki/Sonar" title="Sonar">Sonar</a></li>
+<li><a href="/wiki/Staring_array" title="Staring array">Staring array</a></li>
+<li><a href="/wiki/Transducer" title="Transducer">Transducer</a></li>
+<li><a href="/wiki/Ultrasonic_sensor" class="mw-redirect" title="Ultrasonic sensor">Ultrasonic sensor</a></li>
+<li><a href="/wiki/Video_sensor_technology" title="Video sensor technology">Video sensor technology</a></li>
+<li><a href="/wiki/Visual_sensor_network" title="Visual sensor network">Visual sensor network</a></li>
+<li><a href="/wiki/Wheatstone_bridge" title="Wheatstone bridge">Wheatstone bridge</a></li>
+<li><strong class="selflink">Wireless sensor network</strong></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Related</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/List_of_sensors" title="List of sensors">List of sensors</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-label="Navbox" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span style="white-space:nowrap;"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/4789222-5">4789222-5</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/National_Diet_Library" title="National Diet Library">NDL</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.ndl.go.jp/auth/ndlna/01164161">01164161</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1269
+Cached time: 20170116105031
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.236 seconds
+Real time usage: 0.315 seconds
+Preprocessor visited node count: 1503/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 87232/2097152 bytes
+Template argument size: 1187/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 4/500
+Lua time usage: 0.094/10.000 seconds
+Lua memory usage: 4.75 MB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  241.140      1 - -total
+ 29.49%   71.110      1 - Template:Reflist
+ 19.77%   47.668      1 - Template:Merge_from
+ 13.49%   32.537      1 - Template:Mbox
+ 12.22%   29.472      1 - Template:Redirect
+ 11.56%   27.876      1 - Template:Commons_category
+ 11.24%   27.099      2 - Template:Cite_conference
+  8.52%   20.545      7 - Template:Cite_journal
+  7.99%   19.270      1 - Template:Fact
+  6.85%   16.507      1 - Template:Fix
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1076662-0!*!0!!en!4!* and timestamp 20170116105031 and revision id 758405169
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Wireless_sensor_network&amp;oldid=758405169">https://en.wikipedia.org/w/index.php?title=Wireless_sensor_network&amp;oldid=758405169</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Wireless_sensor_network" title="Category:Wireless sensor network">Wireless sensor network</a></li><li><a href="/wiki/Category:Wireless_networking" title="Category:Wireless networking">Wireless networking</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_Uses_authors_parameter" title="Category:CS1 maint: Uses authors parameter">CS1 maint: Uses authors parameter</a></li><li><a href="/wiki/Category:Articles_to_be_merged_from_April_2014" title="Category:Articles to be merged from April 2014">Articles to be merged from April 2014</a></li><li><a href="/wiki/Category:All_articles_to_be_merged" title="Category:All articles to be merged">All articles to be merged</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_May_2011" title="Category:Articles needing additional references from May 2011">Articles needing additional references from May 2011</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_January_2016" title="Category:Articles with unsourced statements from January 2016">Articles with unsourced statements from January 2016</a></li><li><a href="/wiki/Category:Commons_category_with_local_link_same_as_on_Wikidata" title="Category:Commons category with local link same as on Wikidata">Commons category with local link same as on Wikidata</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Wireless+sensor+network" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Wireless+sensor+network" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Wireless_sensor_network"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Wireless_sensor_network"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Wireless_sensor_network" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Wireless_sensor_network&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Wireless_sensor_network&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Wireless_sensor_network" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Wireless_sensor_network" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Wireless_sensor_network&amp;oldid=758405169" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Wireless_sensor_network&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q336038" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Wireless_sensor_network&amp;id=758405169" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Wireless+sensor+network">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Wireless+sensor+network&amp;returnto=Wireless+sensor+network&amp;oldid=758405169&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Wireless_sensor_network&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Wireless_sensor_networks" hreflang="en">Wikimedia Commons</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%B4%D8%A8%D9%83%D8%A7%D8%AA_%D8%A7%D8%B3%D8%AA%D8%B4%D8%B9%D8%A7%D8%B1_%D9%84%D8%A7%D8%B3%D9%84%D9%83%D9%8A%D8%A9" title="شبكات استشعار لاسلكية – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%91%D0%B5%D0%B7%D0%B6%D0%B8%D1%87%D0%BD%D0%B0_%D1%81%D0%B5%D0%BD%D0%B7%D0%BE%D1%80%D0%BD%D0%B0_%D0%BC%D1%80%D0%B5%D0%B6%D0%B0" title="Безжична сензорна мрежа – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Xarxa_de_sensors_sense_fils" title="Xarxa de sensors sense fils – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Tr%C3%A5dl%C3%B8st_sensornetv%C3%A6rk" title="Trådløst sensornetværk – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Sensornetz" title="Sensornetz – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%91%CF%83%CF%8D%CF%81%CE%BC%CE%B1%CF%84%CE%BF_%CE%B4%CE%AF%CE%BA%CF%84%CF%85%CE%BF_%CE%B1%CE%B9%CF%83%CE%B8%CE%B7%CF%84%CE%AE%CF%81%CF%89%CE%BD" title="Ασύρματο δίκτυο αισθητήρων – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Red_de_sensores" title="Red de sensores – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%AD%D8%B3%DA%AF%D8%B1_%D8%B4%D8%A8%DA%A9%D9%87_%D8%A8%DB%8C%E2%80%8C%D8%B3%DB%8C%D9%85" title="حسگر شبکه بی‌سیم – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/R%C3%A9seau_de_capteurs_sans_fil" title="Réseau de capteurs sans fil – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EB%AC%B4%EC%84%A0_%EC%84%BC%EC%84%9C_%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC" title="무선 센서 네트워크 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Be%C5%BEi%C4%8Dne_mre%C5%BEe_osjetila" title="Bežične mreže osjetila – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Wireless_sensor_network" title="Wireless sensor network – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%91%D0%B5%D0%B7%D0%B6%D0%B8%D1%87%D0%BD%D0%B0_%D1%81%D0%B5%D0%BD%D0%B7%D0%BE%D1%80%D0%BD%D0%B0_%D0%BC%D1%80%D0%B5%D0%B6%D0%B0" title="Безжична сензорна мрежа – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li><li class="interlanguage-link interwiki-mn"><a href="https://mn.wikipedia.org/wiki/%D0%A3%D1%82%D0%B0%D1%81%D0%B3%D2%AF%D0%B9_%D0%BC%D1%8D%D0%B4%D1%80%D1%8D%D0%B3%D1%87_%D1%81%D2%AF%D0%BB%D0%B6%D1%8D%D1%8D(WSN)" title="Утасгүй мэдрэгч сүлжээ(WSN) – Mongolian" lang="mn" hreflang="mn" class="interlanguage-link-target">Монгол</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Wireless_sensor_network" title="Wireless sensor network – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF" title="センサネットワーク – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Tr%C3%A5dl%C3%B8st_sensornettverk" title="Trådløst sensornettverk – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk bokmål</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Bezprzewodowa_sie%C4%87_czujnikowa" title="Bezprzewodowa sieć czujnikowa – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/RSSF" title="RSSF – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D1%81%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D0%B4%D0%BD%D0%B0%D1%8F_%D1%81%D0%B5%D0%BD%D1%81%D0%BE%D1%80%D0%BD%D0%B0%D1%8F_%D1%81%D0%B5%D1%82%D1%8C" title="Беспроводная сенсорная сеть – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Tr%C3%A5dl%C3%B6st_sensorn%C3%A4tverk" title="Trådlöst sensornätverk – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E7%84%A1%E7%B7%9A%E6%84%9F%E6%B8%AC%E7%B6%B2%E8%B7%AF" title="無線感測網路 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q336038#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 5 January 2017, at 06:17.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Wireless_sensor_network&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":74,"wgHostname":"mw1266"});});</script>
+	</body>
+</html>

@@ -1,0 +1,319 @@
+url : https://en.wikipedia.org/wiki/Voltage_optimisation
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Voltage optimisation - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Voltage_optimisation","wgTitle":"Voltage optimisation","wgCurRevisionId":751375335,"wgRevisionId":751375335,"wgArticleId":19972643,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages with citations lacking titles","All articles with unsourced statements","Articles with unsourced statements from May 2011","Articles with unsourced statements from December 2013","Use dmy dates from May 2011","Electrical power control","Energy conservation","Low-energy building"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Voltage_optimisation","wgRelevantArticleId":19972643,"wgRequestId":"WIhnsQpAEKkAACewglkAAAAK","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q7940750","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.8"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Voltage_optimisation"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Voltage_optimisation&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Voltage_optimisation&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Voltage_optimisation"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Voltage_optimisation rootpage-Voltage_optimisation skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Voltage optimisation</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><p><b>Voltage optimisation</b> is a term given to the systematic controlled reduction in the voltages received by an energy consumer to reduce energy use, power demand and reactive power demand. While some voltage 'optimisation' devices have a fixed voltage adjustment, others electronically regulate the voltage automatically.</p>
+<p>Voltage optimisation systems are typically installed in series with the mains electrical supply to a building, allowing all its electrical equipment to benefit from an optimised supply.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Background"><span class="tocnumber">1</span> <span class="toctext">Background</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#United_Kingdom"><span class="tocnumber">1.1</span> <span class="toctext">United Kingdom</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#Common_power_quality_problems"><span class="tocnumber">2</span> <span class="toctext">Common power quality problems</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Overvoltage"><span class="tocnumber">2.1</span> <span class="toctext">Overvoltage</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Harmonics"><span class="tocnumber">2.2</span> <span class="toctext">Harmonics</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Transients"><span class="tocnumber">2.3</span> <span class="toctext">Transients</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Phase_voltage_imbalance"><span class="tocnumber">2.4</span> <span class="toctext">Phase voltage imbalance</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Power_dips"><span class="tocnumber">2.5</span> <span class="toctext">Power dips</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Power_factor_and_reactive_power"><span class="tocnumber">2.6</span> <span class="toctext">Power factor and reactive power</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#Effects_on_electrical_loads"><span class="tocnumber">3</span> <span class="toctext">Effects on electrical loads</span></a>
+<ul>
+<li class="toclevel-2 tocsection-11"><a href="#Three_phase_motors"><span class="tocnumber">3.1</span> <span class="toctext">Three phase motors</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Lighting"><span class="tocnumber">3.2</span> <span class="toctext">Lighting</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Heating"><span class="tocnumber">3.3</span> <span class="toctext">Heating</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Switched_mode_power_supplies"><span class="tocnumber">3.4</span> <span class="toctext">Switched mode power supplies</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-15"><a href="#Energy_savings"><span class="tocnumber">4</span> <span class="toctext">Energy savings</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Background">Background</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Voltage_optimisation&amp;action=edit&amp;section=1" title="Edit section: Background">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Voltage optimisation is an electrical energy saving technique which is mainly installed in series with the mains electricity supply to provide a reduced supply voltage for the site's equipment. Typically, voltage optimisation can improve power quality by balancing phase voltages and filtering harmonics and transients from the supply, although not always. Voltage optimisers are essentially <a href="/wiki/Transformer" title="Transformer">transformers</a> used to deliver power at a reduced voltage from the raw mains supply.</p>
+<p>The term voltage optimisation is frequently misused, as the term implies some form of selective voltage reduction, which will improve the energy consumption within a building, whereas generally these units consists of a transformer within a box, offering no selectivity and dropping voltage on all supplies, whether this would offer a commercial benefit or not. Some VO units have been installed on high frequency lighting circuits, offering little or no commercial benefit, therefore one must be careful when the term is used.</p>
+<p>Most VO units are installed in commercial premises, in between the raw mains transformer and main low voltage distribution board. However, this provides for no selectivity and in electrical engineering terms is considered a poor solution. A full study should be undertaken by the facilities manager and VO company, to select which supplies could benefit the owner by reducing the voltage and which supplies would give no commercial benefit. This way the owner only purchases a VO of the correct size and not one that's for all supplies. Installing a VO unit to 'optimise' all supplies would give a longer return on investment, a higher capital outlay and makes little commercial sense.</p>
+<h3><span class="mw-headline" id="United_Kingdom">United Kingdom</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Voltage_optimisation&amp;action=edit&amp;section=2" title="Edit section: United Kingdom">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The declared low voltage electricity supply in the United Kingdom as per the Electrical Safety, Quality and Continuity Regulations 2002, is now 230V with a tolerance of +10% to -6%. This means that supply voltage can theoretically be anywhere between 216V and 253V depending on local conditions. However, the average voltage supplied from the national grid (in mainland UK) is 242V,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> compared to the nominal European voltage of 230V. (The average supply voltage in Northern Ireland is around 239V, and 235V in the Republic of Ireland.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>)</p>
+<p>Older electrical equipment manufactured for the UK was rated at 240 V, and older equipment manufactured for Continental Europe was rated at 220V (see <a href="/wiki/Mains_power_around_the_world" class="mw-redirect" title="Mains power around the world">Worldwide Mains Voltages</a>). New equipment should be designed for 230 V. A mixture of equipment is likely to be found in older premises. All equipment placed on the market within the E.U. since voltage harmonisation in 1995 should operate satisfactorily at voltages within the range 230 V +/-10%. Equipment rated at 220 V should operate satisfactorily down to 200 V.<sup id="cite_ref-Chen_3-0" class="reference"><a href="#cite_note-Chen-3">[3]</a></sup> By efficiently bringing supply voltages to the lower end of the statutory voltage range, voltage optimisation technology could yield average energy savings of around 13%<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (May 2011)">citation needed</span></a></i>]</sup>.</p>
+<p>The higher the voltage the higher the power consumption in the case of a pure resistance load. A reduction in voltage does not affect the energy used by the domestic appliances which use resistive loads except in devices such as kettles and toasters which will take longer to do their job due to atmospheric losses. The main commercial benefit when installing VO units, is on inductive loads, like motors which run pumps, fans and the like.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (December 2013)">citation needed</span></a></i>]</sup> In the home, the potential energy saving can be up to 12% on electricity bills. A VO device will lower the voltage to the most efficient level to maximise the savings on electricity consumption, so you may notice certain things taking a little longer, such as a kettle may take a little longer to boil.<sup id="cite_ref-Hood_2004_4-0" class="reference"><a href="#cite_note-Hood_2004-4">[4]</a></sup></p>
+<p>It is a common misconception that fridges and freezers do not provide savings through voltage optimisation because they are fitted with a thermostat. Fridges and freezers operate completely differently from resistive heating devices. If a resistive heating device is driven from a higher voltage the result is heat which is helpful in its intended purpose (heating). If a fridge or freezer is driven from a higher voltage the result is also heat however this is not helpful in its intended purpose (cooling). The compressor motor power output is reduced slightly by voltage optimisation so the fridge/freezer thermostat will keep the motor on a little longer however overall the effect is for the motor to run slightly longer at much lower losses. Tests at Manchester university showed a 10&#160;°C reduction in motor temperature under voltage optimisation due to the reduced losses in the motor.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (December 2013)">citation needed</span></a></i>]</sup></p>
+<h2><span class="mw-headline" id="Common_power_quality_problems">Common power quality problems</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Voltage_optimisation&amp;action=edit&amp;section=3" title="Edit section: Common power quality problems">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Overvoltage">Overvoltage</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Voltage_optimisation&amp;action=edit&amp;section=4" title="Edit section: Overvoltage">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Overvoltage" title="Overvoltage">Overvoltage</a> refers to voltage higher than the voltage at which equipment is designed to operate most effectively. It causes a reduction in equipment lifetime and increases in energy consumed with no improvement in performance. A commentary on the Wiring Regulations BS7671 makes the following statements in relation to overvoltage: “A 230V rated lamp used at 240 will achieve only 55% of its rated life” (referring to <a href="/wiki/Incandescent_lamp" class="mw-redirect" title="Incandescent lamp">incandescent lamps</a>) and “A 230V linear appliance used on a 240V supply will take 4.3% more current and will consume almost 9% more energy.”</p>
+<p>Various technologies can be used to avoid overvoltage, but it must be done so efficiently so that energy savings resulting from using the correct voltage are not offset by energy wasted within the device used to do so. Reliability is also important, and there are potential problems inherent in running full incoming power through electro-mechanical devices such as servo-controlled variable autotransformers.</p>
+<p><a href="/wiki/Undervoltage" class="mw-redirect" title="Undervoltage">Undervoltage</a> refers to voltage lower than the voltage at which equipment is designed to operate most effectively. If the design of the VO does not take into consideration voltage drop over distance to remote power users, then this may lead to premature equipment failure, failure to start up, increased temperature in the case of motor windings and loss of service.</p>
+<h3><span class="mw-headline" id="Harmonics">Harmonics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Voltage_optimisation&amp;action=edit&amp;section=5" title="Edit section: Harmonics">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Harmonics_(electrical_power)" title="Harmonics (electrical power)">Harmonics</a> are current and voltage waveforms at multiples of the fundamental frequency of the 50&#160;Hz (or 60&#160;Hz) main supply. Harmonics are caused by non-linear loads, which include power supplies for computer equipment, variable speed drives, and discharge lighting. “Triplen” harmonics (odd multiples of the third harmonic) result when phase voltages are not balanced in a <a href="/wiki/Three-phase" title="Three-phase">three phase</a> <a href="/wiki/Electric_power_system" title="Electric power system">power systems</a> and add in the neutral, causing wasteful currents to flow.<sup id="cite_ref-ReferenceA_5-0" class="reference"><a href="#cite_note-ReferenceA-5">[5]</a></sup></p>
+<p>The possible effects if the level of harmonics, known as <a href="/wiki/Total_harmonic_distortion" title="Total harmonic distortion">total harmonic distortion</a> becomes too high include damage to sensitive electronic equipment<sup id="cite_ref-ReferenceA_5-1" class="reference"><a href="#cite_note-ReferenceA-5">[5]</a></sup> and reduction in the efficiency of the HV transformer.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> The efficiency of electrical loads can be improved by attenuating harmonics at the supply, or by preventing their generation. Some voltage optimisation devices also mitigate harmonics, reducing losses associated with harmonic content on the electrical system.</p>
+<h3><span class="mw-headline" id="Transients">Transients</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Voltage_optimisation&amp;action=edit&amp;section=6" title="Edit section: Transients">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Transient_(oscillation)" title="Transient (oscillation)">Transients</a> are large, very brief and potentially destructive increases in voltage. Their causes include lightning strikes, switching of large electrical loads such as motors, transformers and electrical drives, and by switching between power generation sources to balance supply and demand. Although they typically only last thousandths or millionths of a second, transients can damage electronic systems causing data loss, degrading equipment components and shortening equipment life. Some voltage optimisation devices include transient protection.</p>
+<h3><span class="mw-headline" id="Phase_voltage_imbalance">Phase voltage imbalance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Voltage_optimisation&amp;action=edit&amp;section=7" title="Edit section: Phase voltage imbalance">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Industrial and commercial sites are supplied with <a href="/wiki/Three-phase_electric_power" title="Three-phase electric power">3-phase electricity</a>. Imbalance between the phases causes problems such as heating in motors and existing wiring, leading to wasteful energy consumption.<sup id="cite_ref-Energy_7-0" class="reference"><a href="#cite_note-Energy-7">[7]</a></sup> Some voltage optimisation devices are able to improve balance on the building's electrical supply, reducing losses and improving the longevity of three phase induction motors.</p>
+<h3><span class="mw-headline" id="Power_dips">Power dips</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Voltage_optimisation&amp;action=edit&amp;section=8" title="Edit section: Power dips">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Power_dips" title="Power dips">Power dips</a> are reductions in voltage, mostly of short duration (&lt;300 ms) but sometimes longer. They may cause a number of problems with equipment, for example contactors and relays may drop out causing machinery to stop. There are a number of <a href="/wiki/Low_voltage_ride_through" title="Low voltage ride through">low voltage ride through</a> techniques including Uninterruptible Power Supplies, the use of capacitors on low voltage DC control circuits, the use of capacitors on the DC bus of Variable Speed Drives. Care must be taken that Voltage Optimisation measures do not reduce the voltage to an extent that equipment is more vulnerable to power dips.</p>
+<h3><span class="mw-headline" id="Power_factor_and_reactive_power">Power factor and reactive power</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Voltage_optimisation&amp;action=edit&amp;section=9" title="Edit section: Power factor and reactive power">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote">Main article: <a href="/wiki/Power_factor" title="Power factor">power factor</a></div>
+<p>The <a href="/wiki/Power_factor" title="Power factor">power factor</a> of an electrical supply is the ratio of the <a href="/wiki/AC_power" title="AC power">real power</a> to the <a href="/wiki/AC_power" title="AC power">apparent power</a> of the supply. It is the useful power used by the site divided by the total power that is drawn. The latter includes power that is unusable, so a power factor of 1 is desirable. A low power factor would mean that the electricity supplier would effectively supply more energy than the consumer’s bill would indicate, and suppliers are allowed to charge for low power factors.</p>
+<p><a href="/wiki/AC_power" title="AC power">Reactive power</a> is the name given to unusable power. It does no work in the electrical system, but is used to charge capacitors or produce a magnetic field around the field of an inductor. Reactive power needs to be generated and distributed through a circuit to provide sufficient real power to enable processes to run. Reactive power increases significantly with increasing voltage as the <a href="/wiki/Reactance_(electronics)" class="mw-redirect" title="Reactance (electronics)">reactance</a> of equipment increases. Correcting this with voltage optimisation will therefore lead to a reduction in reactive power and improvement in power factor.</p>
+<h2><span class="mw-headline" id="Effects_on_electrical_loads">Effects on electrical loads</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Voltage_optimisation&amp;action=edit&amp;section=10" title="Edit section: Effects on electrical loads">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A common misconception as far as Voltage Optimisation is concerned is to assume that a reduction in voltage will result in an increase in current and therefore constant power. Whilst this is true for certain fixed-power loads, most sites have a diversity of loads that will benefit to a greater or lesser extent with energy savings aggregating across a site as a whole. The benefit to typical equipment at three phase sites is discussed below.</p>
+<h3><span class="mw-headline" id="Three_phase_motors">Three phase motors</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Voltage_optimisation&amp;action=edit&amp;section=11" title="Edit section: Three phase motors">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Three phase induction motors are probably the most common type of three phase load and are used in a variety of equipment including refrigeration, pumps, air conditioning, conveyor drives as well as their more obvious applications. The de-rating effects of overvoltage and three phase imbalance on AC motors are well known.<sup id="cite_ref-Energy_7-1" class="reference"><a href="#cite_note-Energy-7">[7]</a></sup> Excessive overvoltage results in saturation of the iron core, wasting energy through eddy currents and increased hysteresis losses. Drawing excessive current results in excess heat output due to copper losses. The additional stress of overvoltage on motors will decrease motor lifetime.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></p>
+<p>Avoiding overvoltage high enough to cause saturation does not reduce efficiency<sup id="cite_ref-IEEE_9-0" class="reference"><a href="#cite_note-IEEE-9">[9]</a></sup> so substantial energy savings can be made through reducing iron and copper losses. However, motors designed for the nominal voltage (e.g. 400V) should be able to cope with normal variation in voltage within the supply limits(+/-10%) without saturation, so this is unlikely to be a significant problem.</p>
+<p>Reducing voltage to an induction motor will slightly affect the motor speed as slip will increase, but speed is mainly a function of the supply frequency and the number of poles. Motor efficiency is optimum at reasonable load (typically 75%) and at the designed voltage, and will fall off slightly with small variations either side of this voltage. Larger variations affect efficiency more.</p>
+<p>Very lightly loaded motors (&lt;25%) and small motors benefit most from reducing voltage.<sup id="cite_ref-IEEE_9-1" class="reference"><a href="#cite_note-IEEE-9">[9]</a></sup></p>
+<p>For the case of motors driven by Variable Speed Drives, when the input voltage is reduced, there will be a proportionate reduction of the output voltage from the VSD and the motor will draw less current and eventually consume less power. However, if the motor is running on high load (&gt;80%), the reduction in voltage will result in reduced torque and motor will end up drawing more current and power.</p>
+<h3><span class="mw-headline" id="Lighting">Lighting</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Voltage_optimisation&amp;action=edit&amp;section=12" title="Edit section: Lighting">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>When lighting loads are in use for a high proportion of the time, energy savings on lighting equipment are extremely valuable. When voltage is reduced, incandescent lighting will see a large decrease in power drawn, a large decrease in light output and an increase in lifetime, as the previous extracts from the Electricians Guide illustrate. Since the decrease in light output will exceed the decrease in power drawn, the energy efficiency - <a href="/wiki/Luminous_efficacy" title="Luminous efficacy">luminous efficacy</a> - of the lighting will drop.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></p>
+<p>However, other types of lighting can also benefit from improved power quality, including systems with resistive or reactive ballasts. Fluorescent &amp; discharge lighting is more efficient than incandescent lighting. Fluorescent lighting with conventional magnetic ballasts will see a reduced power consumption, but also a reduced lumen output from the lamp. Fluorescent lamps on modern electronic ballasts will use approximately the same power and give the same light.<sup id="cite_ref-Chen_3-1" class="reference"><a href="#cite_note-Chen-3">[3]</a></sup></p>
+<p>To provide the same wattage at the reduced voltage will require a greater current and increase cable losses. However, lighting controllers and ballasts are responsible for generating high levels of harmonic distortion, which can be filtered with some types of voltage optimiser, in addition reducing the need for lighting controllers.<sup id="cite_ref-Chen_3-2" class="reference"><a href="#cite_note-Chen-3">[3]</a></sup> A common concern is that some lighting will fail to strike at lower voltages. However, this should not occur since the aim of voltage optimisation is not simply to reduce the voltage as far as possible, but to bring it to the service level voltage at which it was designed to operate most efficiently.</p>
+<h3><span class="mw-headline" id="Heating">Heating</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Voltage_optimisation&amp;action=edit&amp;section=13" title="Edit section: Heating">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Heaters will consume less power, but give less heat. Thermostatically controlled space or water heaters will consume less power while running, but will have to run for longer in each hour to produce the required output, resulting in no saving.</p>
+<h3><span class="mw-headline" id="Switched_mode_power_supplies">Switched mode power supplies</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Voltage_optimisation&amp;action=edit&amp;section=14" title="Edit section: Switched mode power supplies">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Switched mode power supplies will use the same power as before, but will draw a slightly greater current to achieve this, with slightly increased cable losses, and slight risk of the increased current tripping <a href="/wiki/Miniature_circuit_breaker" class="mw-redirect" title="Miniature circuit breaker">MCBs</a>.</p>
+<h2><span class="mw-headline" id="Energy_savings">Energy savings</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Voltage_optimisation&amp;action=edit&amp;section=15" title="Edit section: Energy savings">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The energy savings achieved by Voltage Optimization are an aggregation of the improved efficiency of all equipment across a site in response to the improvements in the power quality problems outlined above. It has been and continues to be a key technique for savings in energy consumption.</p>
+<p>Research in Taiwan<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> suggested that, for an industrial supply, for voltage reduction upstream of the transformer, there is a 0.241% decrease of energy consumption when the voltage is decreased by 1%, and an increase of 0.297% when the voltage is increased by 1%. This assumed a mixture of loads including 7% fluorescent lighting, 0.5% incandescent lighting, 12.5% three phase air conditioners, 5% motors, 22.5% small 3-phase motors, 52.5% large 3-phase motors.</p>
+<p>It is likely that a modern installation would have less opportunity: almost no incandescent lighting, partly high-frequency fluorescent lighting (no saving), some variable speed drives (no saving), higher motor efficiencies (so less waste to save). A northern European installation would not have the large number of small single phase motors for air conditioning.</p>
+<p>The best potential for saving is probably with older lighting (incandescent or fluorescent and discharge lighting with conventional control gear. Therefore, older commercial and office premises are likely to have a better saving potential than modern buildings or industrial sites.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Voltage_optimisation&amp;action=edit&amp;section=16" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Energy_conservation" title="Energy conservation">Energy conservation</a></li>
+<li><a href="/wiki/Efficient_energy_use" title="Efficient energy use">Efficient energy use</a></li>
+<li><a href="/wiki/Power_conditioner" title="Power conditioner">Power conditioner</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Voltage_optimisation&amp;action=edit&amp;section=17" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.elexon.co.uk/documents/Participating_in_the_Market/Unmetered_Supplies_-_UMSUG/Draft_UMSUG_Minutes_November_v1.0.pdf">"Elexon Unmetered Supplies User Group"</a> <span style="font-size:85%;">(PDF)</span>. 2007-11-14.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVoltage+optimisation&amp;rft.btitle=Elexon+Unmetered+Supplies+User+Group&amp;rft.date=2007-11-14&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.elexon.co.uk%2Fdocuments%2FParticipating_in_the_Market%2FUnmetered_Supplies_-_UMSUG%2FDraft_UMSUG_Minutes_November_v1.0.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.voltageoptimisation.com/SiteVoltages.aspx">"Measured site voltages in Ireland"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVoltage+optimisation&amp;rft.btitle=Measured+site+voltages+in+Ireland&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.voltageoptimisation.com%2FSiteVoltages.aspx&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Chen-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-Chen_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Chen_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Chen_3-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Chen, M.S.; R.R. Shoults; J. Fitzer (1981). <i>Effects of Reduced Voltage on the Operation and Efficiency of Electric Loads</i>. EPRI, Arlington, University of Texas.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVoltage+optimisation&amp;rft.aufirst=M.S.&amp;rft.au=J.+Fitzer&amp;rft.aulast=Chen&amp;rft.au=R.R.+Shoults&amp;rft.btitle=Effects+of+Reduced+Voltage+on+the+Operation+and+Efficiency+of+Electric+Loads&amp;rft.date=1981&amp;rft.genre=book&amp;rft.pub=EPRI%2C+Arlington%2C+University+of+Texas&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Hood_2004-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-Hood_2004_4-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a href="/w/index.php?title=The_effects_of_voltage_variation_on_the_power_consumption_and_energy_cost_of_a_domestic_household&amp;action=edit&amp;redlink=1" class="new" title="The effects of voltage variation on the power consumption and energy cost of a domestic household (page does not exist)">Hood, G.K.</a> (26–29 September 2004). <a rel="nofollow" class="external text" href="http://itee.uq.edu.au/~aupec/aupec04/papers/PaperID77.pdf">"The effects of voltage variation on the power consumption and energy cost of a domestic household"</a> <span style="font-size:85%;">(PDF)</span>. <i>Paper presented to the Australasian Universities' Power Engineering Conference (AUPEC 2004)</i>. School of Science and Engineering, University of Ballarat<span class="reference-accessdate">. Retrieved <span class="nowrap">13 May</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVoltage+optimisation&amp;rft.atitle=The+effects+of+voltage+variation+on+the+power+consumption+and+energy+cost+of+a+domestic+household&amp;rft.aufirst=G.K.&amp;rft.aulast=Hood&amp;rft.date=2004-09-26%2F2004-09-29&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fitee.uq.edu.au%2F~aupec%2Faupec04%2Fpapers%2FPaperID77.pdf&amp;rft.jtitle=Paper+presented+to+the+Australasian+Universities%27+Power+Engineering+Conference+%28AUPEC+2004%29&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-ReferenceA-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-ReferenceA_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-ReferenceA_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">"Proceedings of the 8th International Conference on Harmonics and Power Quality". 1998-10-14.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVoltage+optimisation&amp;rft.atitle=Proceedings+of+the+8th+International+Conference+on+Harmonics+and+Power+Quality&amp;rft.date=1998-10-14&amp;rft.genre=article&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">IEEE recommended practise for establishing transformer capability when supplying nonsinusoidal load currents ANSI/IEEE Standard C57.110–1986, 1986</span></li>
+<li id="cite_note-Energy-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-Energy_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Energy_7-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Faiz, J; Ebrahimpour, H (September 2007). "Precise derating of three phase induction motors with unbalanced voltages". <i>Energy Conversion and Management</i>. <b>48</b> (9): 2579–2586. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2Fj.enconman.2007.03.023">10.1016/j.enconman.2007.03.023</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVoltage+optimisation&amp;rft.atitle=Precise+derating+of+three+phase+induction+motors+with+unbalanced+voltages&amp;rft.au=Ebrahimpour%2C+H&amp;rft.aufirst=J&amp;rft.aulast=Faiz&amp;rft.date=2007-09&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2Fj.enconman.2007.03.023&amp;rft.issue=9&amp;rft.jtitle=Energy+Conversion+and+Management&amp;rft.pages=2579-2586&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=48" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation journal">"Thirty-Second IAS Annual Meeting". <i>Industry Applications Conference</i>. <b>1</b>: 196–200. 1997-10-05.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVoltage+optimisation&amp;rft.atitle=Thirty-Second+IAS+Annual+Meeting&amp;rft.date=1997-10-05&amp;rft.genre=article&amp;rft.jtitle=Industry+Applications+Conference&amp;rft.pages=196-200&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=1" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-IEEE-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-IEEE_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-IEEE_9-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal"><i>IEEE Transactions on Industry Applications</i>. 1A-8, No. 4. July 1972.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVoltage+optimisation&amp;rft.date=1972-07&amp;rft.genre=article&amp;rft.jtitle=IEEE+Transactions+on+Industry+Applications&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=1A-8%2C+No.+4" class="Z3988"><span style="display:none;">&#160;</span></span> <span style="font-size:100%" class="error citation-comment">Missing or empty <code style="color:inherit; border:inherit; padding:inherit;">|title=</code> (<a href="/wiki/Help:CS1_errors#citation_missing_title" title="Help:CS1 errors">help</a>)</span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.osram.com/osram_com/Tools_%26_Services/Training_%26_Knowledge/Encyclopedia_of_Light/popups/pop_Incandescent_lamps.jsp">http://www.osram.com/osram_com/Tools_%26_Services/Training_%26_Knowledge/Encyclopedia_of_Light/popups/pop_Incandescent_lamps.jsp</a></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation journal">Chen, Chao-Shun; Chan, Shun-Yu (1987). "Effects of Voltage Reduction on Distribution Systems". <i>Electric Power Systems Research</i>. <b>12</b>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVoltage+optimisation&amp;rft.atitle=Effects+of+Voltage+Reduction+on+Distribution+Systems&amp;rft.au=Chan%2C+Shun-Yu&amp;rft.aufirst=Chao-Shun&amp;rft.aulast=Chen&amp;rft.date=1987&amp;rft.genre=article&amp;rft.jtitle=Electric+Power+Systems+Research&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=12" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1261
+Cached time: 20161231094410
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.172 seconds
+Real time usage: 0.208 seconds
+Preprocessor visited node count: 915/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 19276/2097152 bytes
+Template argument size: 1536/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 3/500
+Lua time usage: 0.090/10.000 seconds
+Lua memory usage: 3.62 MB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  185.605      1 - -total
+ 46.06%   85.496      3 - Template:Citation_needed
+ 39.44%   73.203      1 - Template:Reflist
+ 34.69%   64.387      3 - Template:Fix
+ 20.17%   37.445      3 - Template:Cite_web
+ 17.91%   33.246      6 - Template:Category_handler
+ 14.63%   27.159      3 - Template:Delink
+  9.11%   16.901      5 - Template:Cite_journal
+  5.58%   10.355      1 - Template:Use_dmy_dates
+  4.36%    8.088      1 - Template:DMCA
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:19972643-0!*!0!!en!*!* and timestamp 20161231094410 and revision id 751375335
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Voltage_optimisation&amp;oldid=751375335">https://en.wikipedia.org/w/index.php?title=Voltage_optimisation&amp;oldid=751375335</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Electrical_power_control" title="Category:Electrical power control">Electrical power control</a></li><li><a href="/wiki/Category:Energy_conservation" title="Category:Energy conservation">Energy conservation</a></li><li><a href="/wiki/Category:Low-energy_building" title="Category:Low-energy building">Low-energy building</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Pages_with_citations_lacking_titles" title="Category:Pages with citations lacking titles">Pages with citations lacking titles</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_May_2011" title="Category:Articles with unsourced statements from May 2011">Articles with unsourced statements from May 2011</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_December_2013" title="Category:Articles with unsourced statements from December 2013">Articles with unsourced statements from December 2013</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_May_2011" title="Category:Use dmy dates from May 2011">Use dmy dates from May 2011</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Voltage+optimisation" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Voltage+optimisation" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Voltage_optimisation"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Voltage_optimisation"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Voltage_optimisation" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Voltage_optimisation&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Voltage_optimisation&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Voltage_optimisation" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Voltage_optimisation" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Voltage_optimisation&amp;oldid=751375335" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Voltage_optimisation&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q7940750" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Voltage_optimisation&amp;id=751375335" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Voltage+optimisation">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Voltage+optimisation&amp;returnto=Voltage+optimisation&amp;oldid=751375335&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Voltage_optimisation&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%A8%D9%87%DB%8C%D9%86%D9%87%E2%80%8C%D8%B3%D8%A7%D8%B2%DB%8C_%D9%88%D9%84%D8%AA%D8%A7%DA%98" title="بهینه‌سازی ولتاژ – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q7940750#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 25 November 2016, at 07:13.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Voltage_optimisation&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":56,"wgHostname":"mw1214"});});</script>
+	</body>
+</html>

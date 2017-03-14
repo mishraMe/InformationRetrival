@@ -1,0 +1,1131 @@
+url : https://en.wikipedia.org/wiki/Coefficient_of_performance
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Coefficient of performance - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Coefficient_of_performance","wgTitle":"Coefficient of performance","wgCurRevisionId":759373250,"wgRevisionId":759373250,"wgArticleId":542054,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles that may contain original research from September 2012","All articles that may contain original research","Articles needing additional references from January 2011","All articles needing additional references","Articles needing additional references from September 2012","All articles with unsourced statements","Articles with unsourced statements from February 2011","Commons category without a link on Wikidata","Heat pumps","Heating, ventilating, and air conditioning","Mechanical engineering","Dimensionless numbers of thermodynamics"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Coefficient_of_performance","wgRelevantArticleId":542054,"wgRequestId":"WItbKQpAMFUAAFyOde8AAACX","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q902090","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","ext.math.scripts","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.8"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Coefficient_of_performance"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Coefficient_of_performance&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Coefficient_of_performance&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Coefficient_of_performance"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Coefficient_of_performance rootpage-Coefficient_of_performance skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Coefficient of performance</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><table class="plainlinks metadata ambox ambox-content ambox-Original_research" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" data-file-width="40" data-file-height="40" /></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article <b>possibly contains <a href="/wiki/Wikipedia:No_original_research" title="Wikipedia:No original research">original research</a></b>. <span class="hide-when-compact">Please <a class="external text" href="//en.wikipedia.org/w/index.php?title=Coefficient_of_performance&amp;action=edit">improve it</a> by <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verifying</a> the claims made and adding <a href="/wiki/Wikipedia:Citing_sources#Inline_citations" title="Wikipedia:Citing sources">inline citations</a>. Statements consisting only of original research should be removed.</span> <small><i>(September 2012)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></span></td>
+</tr>
+</table>
+<p>The <b>coefficient of performance</b> or <b>COP</b> (sometimes CP or CoP) of a <a href="/wiki/Heat_pump_and_refrigeration_cycle" title="Heat pump and refrigeration cycle">heat pump, refrigerator or air conditioning system</a> is a ratio of useful heating or cooling provided to work required.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Higher COPs equate to lower operating costs. The COP usually exceeds 1, especially in heat pumps, because, instead of just converting work to heat (which, if 100% efficient, would be a COP_hp of 1), it pumps additional heat from a heat source to where the heat is required. For complete systems, COP calculations should include energy consumption of all power consuming auxiliaries. COP is highly dependent on operating conditions, especially absolute temperature and relative temperature between sink and system, and is often graphed or averaged against expected conditions.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Equation"><span class="tocnumber">1</span> <span class="toctext">Equation</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Derivation"><span class="tocnumber">2</span> <span class="toctext">Derivation</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Improving_COP"><span class="tocnumber">3</span> <span class="toctext">Improving COP</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Example"><span class="tocnumber">4</span> <span class="toctext">Example</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Conditions_of_use"><span class="tocnumber">5</span> <span class="toctext">Conditions of use</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Seasonal_efficiency"><span class="tocnumber">6</span> <span class="toctext">Seasonal efficiency</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#See_also"><span class="tocnumber">7</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Notes"><span class="tocnumber">8</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Equation">Equation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Coefficient_of_performance&amp;action=edit&amp;section=1" title="Edit section: Equation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The equation is:</p>
+<dl>
+<dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>C</mi>
+        <mi>O</mi>
+        <mi>P</mi>
+        <mo>&gt;</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mi>Q</mi>
+            <mi>W</mi>
+          </mfrac>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle COP&gt;{\frac {Q}{W}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e7c79b0e7f0beeaee7dc0de57c4ab572a85386d9" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.005ex; width:11.707ex; height:5.676ex;" alt="{\displaystyle COP&gt;{\frac {Q}{W}}}" /></span></dd>
+</dl>
+<p>where</p>
+<ul>
+<li><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>Q</mi>
+        <mtext>&#xA0;</mtext>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle Q\ }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0e4dc3216bf03cfbe8df7e469620d6f8f91dae01" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:2.429ex; height:2.509ex;" alt="Q\ " /></span> is the useful <a href="/wiki/Heat" title="Heat">heat</a> supplied by the considered system.</li>
+<li><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>W</mi>
+        <mtext>&#xA0;</mtext>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle W\ }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/52cbab990073de2d0f40b4f597833ff71db1ab2a" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:3.026ex; height:2.176ex;" alt="W\ " /></span> is the <a href="/wiki/Mechanical_work" class="mw-redirect" title="Mechanical work">work</a> required by the considered system.</li>
+</ul>
+<p>The COP for heating and cooling are thus different, because the heat reservoir of interest is different. When one is interested in how well a machine cools, the COP is the ratio of the heat removed from the cold reservoir to input work. However, for heating, the COP is the ratio of the heat removed from the cold reservoir plus the input work to the input work:</p>
+<dl>
+<dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>C</mi>
+        <mi>O</mi>
+        <msub>
+          <mi>P</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>h</mi>
+            <mi>e</mi>
+            <mi>a</mi>
+            <mi>t</mi>
+            <mi>i</mi>
+            <mi>n</mi>
+            <mi>g</mi>
+          </mrow>
+        </msub>
+        <mo>&gt;</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mo stretchy="false">|</mo>
+              </mrow>
+              <msub>
+                <mi>Q</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi>H</mi>
+                </mrow>
+              </msub>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mo stretchy="false">|</mo>
+              </mrow>
+            </mrow>
+            <mi>W</mi>
+          </mfrac>
+        </mrow>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mo stretchy="false">|</mo>
+              </mrow>
+              <msub>
+                <mi>Q</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi>C</mi>
+                </mrow>
+              </msub>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mo stretchy="false">|</mo>
+              </mrow>
+              <mo>+</mo>
+              <mi>W</mi>
+            </mrow>
+            <mi>W</mi>
+          </mfrac>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle COP_{heating}&gt;{\frac {|Q_{H}|}{W}}={\frac {|Q_{C}|+W}{W}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/14c4cd86bf23022c3d7c02ccbc61236fd4d415f2" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.005ex; width:33.567ex; height:5.843ex;" alt="{\displaystyle COP_{heating}&gt;{\frac {|Q_{H}|}{W}}={\frac {|Q_{C}|+W}{W}}}" /></span></dd>
+<dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>C</mi>
+        <mi>O</mi>
+        <msub>
+          <mi>P</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>c</mi>
+            <mi>o</mi>
+            <mi>o</mi>
+            <mi>l</mi>
+            <mi>i</mi>
+            <mi>n</mi>
+            <mi>g</mi>
+          </mrow>
+        </msub>
+        <mo>&gt;</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mo stretchy="false">|</mo>
+              </mrow>
+              <msub>
+                <mi>Q</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi>C</mi>
+                </mrow>
+              </msub>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mo stretchy="false">|</mo>
+              </mrow>
+            </mrow>
+            <mi>W</mi>
+          </mfrac>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle COP_{cooling}&gt;{\frac {|Q_{C}|}{W}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/fd4f09a86e3e7c7afd0604d1e29b810e7747986f" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.005ex; width:19.084ex; height:5.843ex;" alt="{\displaystyle COP_{cooling}&gt;{\frac {|Q_{C}|}{W}}}" /></span></dd>
+</dl>
+<p>where</p>
+<ul>
+<li><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>Q</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>C</mi>
+          </mrow>
+        </msub>
+        <mtext>&#xA0;</mtext>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle Q_{C}\ }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e202a03ab9832269c7d9514acc3f6041d58557b5" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:3.918ex; height:2.509ex;" alt="Q_{C}\ " /></span> is the heat removed from the hot reservoir.</li>
+<li><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>Q</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>H</mi>
+          </mrow>
+        </msub>
+        <mtext>&#xA0;</mtext>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle Q_{H}\ }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5d2771782d93ee4f325c8a1804a6626e547bee5f" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:4.128ex; height:2.509ex;" alt="Q_{H}\ " /></span> is the heat supplied to the cold reservoir.</li>
+</ul>
+<p>Both means the same for understanding.</p>
+<h2><span class="mw-headline" id="Derivation">Derivation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Coefficient_of_performance&amp;action=edit&amp;section=2" title="Edit section: Derivation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="plainlinks metadata ambox ambox-content ambox-Unreferenced" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This section <b>does not <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">cite</a> any <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">sources</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Coefficient_of_performance&amp;action=edit">improve this section</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and <a href="/wiki/Wikipedia:Verifiability#Burden_of_evidence" title="Wikipedia:Verifiability">removed</a>.</span> <small><i>(January 2011)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></span></td>
+</tr>
+</table>
+<p>According to the <a href="/wiki/First_law_of_thermodynamics" title="First law of thermodynamics">first law of thermodynamics</a>, in a reversible system we can show that <span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>Q</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>h</mi>
+            <mi>o</mi>
+            <mi>t</mi>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <msub>
+          <mi>Q</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>c</mi>
+            <mi>o</mi>
+            <mi>l</mi>
+            <mi>d</mi>
+          </mrow>
+        </msub>
+        <mo>+</mo>
+        <mi>W</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle Q_{hot}=Q_{cold}+W}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/326907385f0c9285ea7c013870f2c5b4358faf9e" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:17.816ex; height:2.509ex;" alt="Q_{hot}=Q_{cold}+W" /></span> and <span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>W</mi>
+        <mo>=</mo>
+        <msub>
+          <mi>Q</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>h</mi>
+            <mi>o</mi>
+            <mi>t</mi>
+          </mrow>
+        </msub>
+        <mo>&#x2212;<!-- − --></mo>
+        <msub>
+          <mi>Q</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>c</mi>
+            <mi>o</mi>
+            <mi>l</mi>
+            <mi>d</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle W=Q_{hot}-Q_{cold}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/69dade4a278bd7b2af1df36d698b5feffa8ffa95" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:17.816ex; height:2.509ex;" alt="W=Q_{hot}-Q_{cold}" /></span>, where <span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>Q</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>h</mi>
+            <mi>o</mi>
+            <mi>t</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle Q_{hot}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/240a54755a6205618bace05036fc36d4c65d72c0" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:4.441ex; height:2.509ex;" alt="Q_{hot}" /></span> is the heat transferred to the hot reservoir and <span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>Q</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>c</mi>
+            <mi>o</mi>
+            <mi>l</mi>
+            <mi>d</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle Q_{cold}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9f7f421dfdb0023567d5caeafe058b2027d0716a" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:4.97ex; height:2.509ex;" alt="Q_{cold}" /></span> is the heat collected from the cold reservoir.<br />
+Therefore, by substituting for W,<br /></p>
+<dl>
+<dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>C</mi>
+        <mi>O</mi>
+        <msub>
+          <mi>P</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>h</mi>
+            <mi>e</mi>
+            <mi>a</mi>
+            <mi>t</mi>
+            <mi>i</mi>
+            <mi>n</mi>
+            <mi>g</mi>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <msub>
+              <mi>Q</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi>h</mi>
+                <mi>o</mi>
+                <mi>t</mi>
+              </mrow>
+            </msub>
+            <mrow>
+              <msub>
+                <mi>Q</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi>h</mi>
+                  <mi>o</mi>
+                  <mi>t</mi>
+                </mrow>
+              </msub>
+              <mo>&#x2212;<!-- − --></mo>
+              <msub>
+                <mi>Q</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi>c</mi>
+                  <mi>o</mi>
+                  <mi>l</mi>
+                  <mi>d</mi>
+                </mrow>
+              </msub>
+            </mrow>
+          </mfrac>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle COP_{heating}={\frac {Q_{hot}}{Q_{hot}-Q_{cold}}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/54538f0370c3d6d15a29be99193cabf704490736" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.505ex; width:27.073ex; height:6.176ex;" alt="COP_{heating}={\frac {Q_{hot}}{Q_{hot}-Q_{cold}}}" /></span></dd>
+</dl>
+<p>For a heat pump operating at maximum theoretical efficiency (i.e. Carnot efficiency), it can be shown that</p>
+<dl>
+<dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <msub>
+              <mi>Q</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi>h</mi>
+                <mi>o</mi>
+                <mi>t</mi>
+              </mrow>
+            </msub>
+            <msub>
+              <mi>T</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi>h</mi>
+                <mi>o</mi>
+                <mi>t</mi>
+              </mrow>
+            </msub>
+          </mfrac>
+        </mrow>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <msub>
+              <mi>Q</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi>c</mi>
+                <mi>o</mi>
+                <mi>l</mi>
+                <mi>d</mi>
+              </mrow>
+            </msub>
+            <msub>
+              <mi>T</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi>c</mi>
+                <mi>o</mi>
+                <mi>l</mi>
+                <mi>d</mi>
+              </mrow>
+            </msub>
+          </mfrac>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\frac {Q_{hot}}{T_{hot}}}={\frac {Q_{cold}}{T_{cold}}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c8141f3fc2f3cc46a804853dfc986c55767ef03a" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.338ex; width:14.192ex; height:6.009ex;" alt="{\frac {Q_{hot}}{T_{hot}}}={\frac {Q_{cold}}{T_{cold}}}" /></span> and <span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>Q</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>c</mi>
+            <mi>o</mi>
+            <mi>l</mi>
+            <mi>d</mi>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <msub>
+                <mi>Q</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi>h</mi>
+                  <mi>o</mi>
+                  <mi>t</mi>
+                </mrow>
+              </msub>
+              <msub>
+                <mi>T</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi>c</mi>
+                  <mi>o</mi>
+                  <mi>l</mi>
+                  <mi>d</mi>
+                </mrow>
+              </msub>
+            </mrow>
+            <msub>
+              <mi>T</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi>h</mi>
+                <mi>o</mi>
+                <mi>t</mi>
+              </mrow>
+            </msub>
+          </mfrac>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle Q_{cold}={\frac {Q_{hot}T_{cold}}{T_{hot}}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3846db861c240e5eb80d813c311029f1bdffe438" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.338ex; width:17.845ex; height:6.009ex;" alt="Q_{cold}={\frac {Q_{hot}T_{cold}}{T_{hot}}}" /></span></dd>
+</dl>
+<p>where <span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>T</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>h</mi>
+            <mi>o</mi>
+            <mi>t</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle T_{hot}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4f774a9ba4d799133fa90666379fc9cd8564fec0" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:3.96ex; height:2.509ex;" alt="T_{hot}" /></span> and <span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>T</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>c</mi>
+            <mi>o</mi>
+            <mi>l</mi>
+            <mi>d</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle T_{cold}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0e36a9628b7a1df85a73921c9d3c2af157c423bf" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:4.489ex; height:2.509ex;" alt="T_{cold}" /></span> are the temperatures of the hot and cold heat reservoirs respectively. <b>Note:</b> these equations must <b>use an absolute temperature scale</b>, for example, <b>K</b>elvin or <b>R</b>ankine.</p>
+<p>At maximum theoretical efficiency,<br /></p>
+<dl>
+<dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>C</mi>
+        <mi>O</mi>
+        <msub>
+          <mi>P</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>h</mi>
+            <mi>e</mi>
+            <mi>a</mi>
+            <mi>t</mi>
+            <mi>i</mi>
+            <mi>n</mi>
+            <mi>g</mi>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <msub>
+              <mi>T</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi>h</mi>
+                <mi>o</mi>
+                <mi>t</mi>
+              </mrow>
+            </msub>
+            <mrow>
+              <msub>
+                <mi>T</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi>h</mi>
+                  <mi>o</mi>
+                  <mi>t</mi>
+                </mrow>
+              </msub>
+              <mo>&#x2212;<!-- − --></mo>
+              <msub>
+                <mi>T</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi>c</mi>
+                  <mi>o</mi>
+                  <mi>l</mi>
+                  <mi>d</mi>
+                </mrow>
+              </msub>
+            </mrow>
+          </mfrac>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle COP_{heating}={\frac {T_{hot}}{T_{hot}-T_{cold}}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f1f39f03daee1867fc9730ff4221aa70c538384b" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.338ex; width:26.112ex; height:5.843ex;" alt="COP_{heating}={\frac {T_{hot}}{T_{hot}-T_{cold}}}" /></span></dd>
+</dl>
+<p>which is equal to the reciprocal of the ideal efficiency for a heat engine, because a heat pump is a heat engine operating in reverse. Similarly,<br /></p>
+<dl>
+<dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>C</mi>
+        <mi>O</mi>
+        <msub>
+          <mi>P</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>c</mi>
+            <mi>o</mi>
+            <mi>o</mi>
+            <mi>l</mi>
+            <mi>i</mi>
+            <mi>n</mi>
+            <mi>g</mi>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <msub>
+              <mi>Q</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi>c</mi>
+                <mi>o</mi>
+                <mi>l</mi>
+                <mi>d</mi>
+              </mrow>
+            </msub>
+            <mrow>
+              <msub>
+                <mi>Q</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi>h</mi>
+                  <mi>o</mi>
+                  <mi>t</mi>
+                </mrow>
+              </msub>
+              <mo>&#x2212;<!-- − --></mo>
+              <msub>
+                <mi>Q</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi>c</mi>
+                  <mi>o</mi>
+                  <mi>l</mi>
+                  <mi>d</mi>
+                </mrow>
+              </msub>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <msub>
+              <mi>T</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi>c</mi>
+                <mi>o</mi>
+                <mi>l</mi>
+                <mi>d</mi>
+              </mrow>
+            </msub>
+            <mrow>
+              <msub>
+                <mi>T</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi>h</mi>
+                  <mi>o</mi>
+                  <mi>t</mi>
+                </mrow>
+              </msub>
+              <mo>&#x2212;<!-- − --></mo>
+              <msub>
+                <mi>T</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi>c</mi>
+                  <mi>o</mi>
+                  <mi>l</mi>
+                  <mi>d</mi>
+                </mrow>
+              </msub>
+            </mrow>
+          </mfrac>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle COP_{cooling}={\frac {Q_{cold}}{Q_{hot}-Q_{cold}}}={\frac {T_{cold}}{T_{hot}-T_{cold}}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/506c1aea9a10df743f0ba86e1f5fa07c0a11396c" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.505ex; width:41.939ex; height:6.176ex;" alt="COP_{cooling}={\frac {Q_{cold}}{Q_{hot}-Q_{cold}}}={\frac {T_{cold}}{T_{hot}-T_{cold}}}" /></span></dd>
+</dl>
+<p>Note that the COP of a heat pump depends on its duty. The heat rejected to the hot sink is greater than the heat absorbed from the cold source, so the heating COP is 1 greater than the cooling COP.</p>
+<p><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>C</mi>
+        <mi>O</mi>
+        <msub>
+          <mi>P</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>h</mi>
+            <mi>e</mi>
+            <mi>a</mi>
+            <mi>t</mi>
+            <mi>i</mi>
+            <mi>n</mi>
+            <mi>g</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle COP_{heating}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ee3235a6837a13af21ca3640febb1c964cf59951" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:10.866ex; height:2.843ex;" alt="COP_{heating}" /></span> applies to heat pumps and <span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>C</mi>
+        <mi>O</mi>
+        <msub>
+          <mi>P</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>c</mi>
+            <mi>o</mi>
+            <mi>o</mi>
+            <mi>l</mi>
+            <mi>i</mi>
+            <mi>n</mi>
+            <mi>g</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle COP_{cooling}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/112916f62619cecf123c51ac236424ae0343fa10" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:10.487ex; height:2.843ex;" alt="COP_{cooling}" /></span> applies to air conditioners or refrigerators. For heat engines, see <a href="/wiki/Thermodynamic_efficiency" class="mw-redirect" title="Thermodynamic efficiency">Efficiency</a>. Values for actual systems will always be less than these theoretical maximums. In Europe, the standard tests for ground source heat pump units use 35&#160;°C (95&#160;°F) for <span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <msub>
+            <mi>T</mi>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mi>h</mi>
+              <mi>o</mi>
+              <mi>t</mi>
+            </mrow>
+          </msub>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {T_{hot}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/357fa20db9fd4407f737a3d17eb0e83e1252d8fc" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:3.96ex; height:2.509ex;" alt="{T_{hot}}" /></span> and 0&#160;°C (32&#160;°F) for <span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <msub>
+            <mi>T</mi>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mi>c</mi>
+              <mi>o</mi>
+              <mi>l</mi>
+              <mi>d</mi>
+            </mrow>
+          </msub>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {T_{cold}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/737da5cc8c28c6c2f03bb68ef94173b98c5f5bca" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:4.489ex; height:2.509ex;" alt="{T_{cold}}" /></span>. According to the above formula, the maximum achievable COP would be 8.8. Test results of the best systems are around 4.5. When measuring installed units over a whole season and accounting for the energy needed to pump water through the piping systems, seasonal COP's are around 3.5 or less. This indicates room for improvement.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></p>
+<h2><span class="mw-headline" id="Improving_COP">Improving COP</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Coefficient_of_performance&amp;action=edit&amp;section=3" title="Edit section: Improving COP">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>As the formula shows, the COP of a heat pump system can be improved by reducing the temperature gap <span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>T</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>h</mi>
+            <mi>o</mi>
+            <mi>t</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle T_{hot}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4f774a9ba4d799133fa90666379fc9cd8564fec0" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:3.96ex; height:2.509ex;" alt="T_{hot}" /></span> minus <span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>T</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>c</mi>
+            <mi>o</mi>
+            <mi>l</mi>
+            <mi>d</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle T_{cold}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0e36a9628b7a1df85a73921c9d3c2af157c423bf" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:4.489ex; height:2.509ex;" alt="T_{cold}" /></span> at which the system works. For a heating system this would mean two things: 1) reducing the output temperature to around 30&#160;°C (86&#160;°F) which requires piped floor, wall or ceiling heating, or oversized water to air heaters and 2) increasing the input temperature (e.g. by using an oversized ground source or by access to a solar-assisted thermal bank <sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> ). Accurately determining thermal conductivity will allow for much more precise ground loop <sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> or borehole sizing,<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> resulting in higher return temperatures and a more efficient system. For an air cooler, COP could be improved by using ground water as an input instead of air, and by reducing temperature drop on output side through increasing air flow. For both systems, also increasing the size of pipes and air canals would help to reduce noise and the energy consumption of pumps (and ventilators) by decreasing the speed of fluid which in turn lower the Re number and hence the turbulence (and noise) and the head loss (see <a href="/wiki/Hydraulic_head" title="Hydraulic head">hydraulic head</a>). The heat pump itself can be improved by increasing the size of the internal heat exchangers which in turn increase the <a href="/wiki/Heat_pump#Efficiency" title="Heat pump">efficiency</a> (and the price) relative to the power of the compressor, and also by reducing the system's internal temperature gap over the compressor. Obviously, this latter measure makes such heat pumps unsuitable to produce high temperatures which means that a separate machine is needed for producing hot tap water.</p>
+<h2><span class="mw-headline" id="Example">Example</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Coefficient_of_performance&amp;action=edit&amp;section=4" title="Edit section: Example">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="plainlinks metadata ambox ambox-content ambox-Unreferenced" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This section <b>does not <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">cite</a> any <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">sources</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Coefficient_of_performance&amp;action=edit">improve this section</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and <a href="/wiki/Wikipedia:Verifiability#Burden_of_evidence" title="Wikipedia:Verifiability">removed</a>.</span> <small><i>(September 2012)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></span></td>
+</tr>
+</table>
+<p>A <a href="/wiki/Geothermal_heat_pump" title="Geothermal heat pump">geothermal heat pump</a> operating at <span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>C</mi>
+        <mi>O</mi>
+        <msub>
+          <mi>P</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>h</mi>
+            <mi>e</mi>
+            <mi>a</mi>
+            <mi>t</mi>
+            <mi>i</mi>
+            <mi>n</mi>
+            <mi>g</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle COP_{heating}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ee3235a6837a13af21ca3640febb1c964cf59951" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:10.866ex; height:2.843ex;" alt="COP_{heating}" /></span> 3.5 provides 3.5 units of heat for each unit of energy consumed (i.e. 1&#160;kWh consumed would provide 3.5&#160;kWh of output heat). The output heat comes from both the heat source and 1&#160;kWh of input energy, so the heat-source is cooled by 2.5&#160;kWh, not 3.5&#160;kWh.</p>
+<p>A heat pump of <span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>C</mi>
+        <mi>O</mi>
+        <msub>
+          <mi>P</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>h</mi>
+            <mi>e</mi>
+            <mi>a</mi>
+            <mi>t</mi>
+            <mi>i</mi>
+            <mi>n</mi>
+            <mi>g</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle COP_{heating}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ee3235a6837a13af21ca3640febb1c964cf59951" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:10.866ex; height:2.843ex;" alt="COP_{heating}" /></span> 3.5, such as in the example above, could be less expensive to use than even the most efficient gas furnace except in areas where the electricity cost per unit is higher than 3.5 times the cost of natural gas (e.g. <a href="/wiki/Connecticut" title="Connecticut">Connecticut</a> or <a href="/wiki/New_York_City" title="New York City">New York City</a>).</p>
+<p>A heat pump cooler operating at <span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>C</mi>
+        <mi>O</mi>
+        <msub>
+          <mi>P</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>c</mi>
+            <mi>o</mi>
+            <mi>o</mi>
+            <mi>l</mi>
+            <mi>i</mi>
+            <mi>n</mi>
+            <mi>g</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle COP_{cooling}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/112916f62619cecf123c51ac236424ae0343fa10" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:10.487ex; height:2.843ex;" alt="COP_{cooling}" /></span> 2.0 removes 2 units of heat for each unit of energy consumed (e.g. an <a href="/wiki/Air_conditioner" class="mw-redirect" title="Air conditioner">air conditioner</a> consuming 1&#160;kWh would remove 2&#160;kWh of heat from a building's air).</p>
+<p>Given the same energy source and operating conditions, a higher COP heat pump will consume less purchased energy than one with a lower COP. The overall environmental impact of a heating or air conditioning installation depends on the source of energy used as well as the COP of the equipment. The operating cost to the consumer depends on the cost of energy as well as the COP or efficiency of the unit. Some areas provide two or more sources of energy, for example, natural gas and electricity. A high COP of a heat pump may not entirely overcome a relatively high cost for electricity compared with the same heating value from natural gas.</p>
+<p>For example, the 2009 US average price per therm (100,000 BTU) of electricity was $3.38 while the average price per therm of natural gas was $1.16.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> Using these prices, a heat pump with a COP of 3.5 in moderate climate would cost $0.97<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> to provide one therm of heat, while a high efficiency gas furnace with 95% efficiency would cost $1.22<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> to provide one therm of heat. With these average prices, the heat pump costs 20% less<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> to provide the same amount of heat. At 0&#160;°F (-18&#160;°C) COP is much lower. Then, the same system costs as much to operate as an efficient gas heater. The yearly savings will depend on the actual cost of electricity and natural gas, which can both vary widely.</p>
+<p>However, a COP may help make a determination of system choice based on carbon contribution. Although a heat pump may cost more to operate than a conventional natural gas or electric heater, depending on the source of <a href="/wiki/Electricity_generation" title="Electricity generation">electricity generation</a> in one's area, it may contribute less net <a href="/wiki/Carbon_dioxide" title="Carbon dioxide">carbon dioxide</a> to the atmosphere than burning natural gas or heating fuel. If locally no green electricity is available, then carbon-wise the best option would be to drive a heat pump on piped gas or oil, to store excess heat in the ground source for use in winter, while using the same machine also for producing electricity with a built-in <a href="/wiki/Stirling_engine" title="Stirling engine">Stirling engine</a>.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (February 2011)">citation needed</span></a></i>]</sup></p>
+<h2><span class="mw-headline" id="Conditions_of_use">Conditions of use</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Coefficient_of_performance&amp;action=edit&amp;section=5" title="Edit section: Conditions of use">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="plainlinks metadata ambox ambox-content ambox-Unreferenced" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This section <b>does not <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">cite</a> any <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">sources</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Coefficient_of_performance&amp;action=edit">improve this section</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and <a href="/wiki/Wikipedia:Verifiability#Burden_of_evidence" title="Wikipedia:Verifiability">removed</a>.</span> <small><i>(September 2012)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></span></td>
+</tr>
+</table>
+<p>While the COP is partly a measure of the efficiency of a heat pump, it is also a measure of the conditions under which it is operating: the COP of a given heat pump will rise as the input temperature increases or the output temperature decreases because it is linked to a warm temperature distribution system like <a href="/wiki/Underfloor_heating" title="Underfloor heating">underfloor heating</a>.</p>
+<h2><span class="mw-headline" id="Seasonal_efficiency">Seasonal efficiency</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Coefficient_of_performance&amp;action=edit&amp;section=6" title="Edit section: Seasonal efficiency">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A realistic indication of energy efficiency over an entire year can be archived by using Seasonal COP or Seasonal Coefficient of Performance (SCOP) for heat. <a href="/wiki/Seasonal_energy_efficiency_ratio" title="Seasonal energy efficiency ratio">Seasonal energy efficiency ratio (SEER)</a> is mostly used for air conditioning. SCOP is a new methodology that gives a better indication of expected real-life performance, using COP can be considered using the "old" scale. Seasonal efficiency gives an indication on how efficient a heat pump operates over an entire cooling or heating season.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Coefficient_of_performance&amp;action=edit&amp;section=7" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Seasonal_energy_efficiency_ratio" title="Seasonal energy efficiency ratio">Seasonal energy efficiency ratio</a> (SEER)</li>
+<li><a href="/wiki/Seasonal_thermal_energy_storage" title="Seasonal thermal energy storage">Seasonal thermal energy storage</a> (STES)</li>
+<li><a href="/wiki/Heating_seasonal_performance_factor" class="mw-redirect" title="Heating seasonal performance factor">Heating seasonal performance factor</a> (HSPF)</li>
+<li><a href="/wiki/Thermal_efficiency" title="Thermal efficiency">Thermal efficiency</a></li>
+<li><a href="/wiki/Vapor-compression_refrigeration" title="Vapor-compression refrigeration">Vapor-compression refrigeration</a></li>
+<li><a href="/wiki/Air_conditioner" class="mw-redirect" title="Air conditioner">Air conditioner</a></li>
+<li><a href="/wiki/HVAC" title="HVAC">HVAC</a></li>
+</ul>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Coefficient_of_performance&amp;action=edit&amp;section=8" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.tetech.com/temodules/graphs/instructions.pdf">http://www.tetech.com/temodules/graphs/instructions.pdf</a></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://us.grundfos.com/service-support/encyclopedia-search/cop-coefficient-ofperformance.html">http://us.grundfos.com/service-support/encyclopedia-search/cop-coefficient-ofperformance.html</a></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.tetech.com/temodules/graphs/HP-199-1.4-0.8.pdf">http://www.tetech.com/temodules/graphs/HP-199-1.4-0.8.pdf</a></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Borgnakke, C., &amp; Sonntag, R. (2013). The Second Law of Thermodynamics. In Fundamentals of Thermodynamics (8th ed., pp. 244-245). Wiley.</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Thermal banks and Thermal Energy Storage, <a rel="nofollow" class="external free" href="http://www.icax.co.uk/ThermalBanks.html">http://www.icax.co.uk/ThermalBanks.html</a></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Soil Thermal Conductivity Survey, <a rel="nofollow" class="external free" href="http://www.carbonzeroco.com/field-services/soil-thermal-conductivity-testing/">http://www.carbonzeroco.com/field-services/soil-thermal-conductivity-testing/</a></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Vertical Borehole Sizing, <a rel="nofollow" class="external free" href="http://www.carbonzeroco.com/ground-source-heat-pumps/ground-source-heating-cooling/">http://www.carbonzeroco.com/ground-source-heat-pumps/ground-source-heating-cooling/</a></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Based on average prices of 11.55 cents per kWh for electricity <a rel="nofollow" class="external autonumber" href="http://www.eia.doe.gov/cneaf/electricity/epm/table5_3.html">[1]</a> and $13.68 per thousand cubic feet for natural gas <a rel="nofollow" class="external autonumber" href="http://tonto.eia.doe.gov/dnav/ng/hist/n3010us3a.htm">[2]</a>, and conversion factors of 29.308 kWh per therm and 97.2763 cubic feet per therm <a rel="nofollow" class="external autonumber" href="http://www.eia.doe.gov/kids/energyfacts/science/energy_calculator.html">[3]</a>.</span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">$3.38/3.5~$0.97</span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">$1.16/.95~$1.22</span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">($1.16-$0.95)/$1.16~20%</span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.daikin.co.uk/binaries/Seer%20fact%20sheet%20stg2_tcm511-261046.pdf?quoteId=">"A new era of Seasonal Efficiency has begun"</a> <span style="font-size:85%;">(PDF)</span>. <i>Daikin.co.uk</i>. Daikin<span class="reference-accessdate">. Retrieved <span class="nowrap">31 March</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoefficient+of+performance&amp;rft.atitle=A+new+era+of+Seasonal+Efficiency+has+begun&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.daikin.co.uk%2Fbinaries%2FSeer%2520fact%2520sheet%2520stg2_tcm511-261046.pdf%3FquoteId%3D&amp;rft.jtitle=Daikin.co.uk&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Coefficient_of_performance&amp;action=edit&amp;section=9" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tr>
+<td class="mbox-image"><a href="/wiki/File:Commons-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Coefficient_of_performance" class="extiw" title="commons:Category:Coefficient of performance">Coefficient of performance</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.icax.co.uk/gshp.html">Discussion on changes to COP of a heat pump depending on input and output temperatures</a></li>
+<li><a rel="nofollow" class="external text" href="http://www-3.unipv.it/energy/web/Libro%20petrecca/pdf/capitolododicesimo.pdf">See COP definition in Cap XII of the book Industrial Energy Management - Principles and Applications</a></li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1258
+Cached time: 20170127142309
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.148 seconds
+Real time usage: 0.247 seconds
+Preprocessor visited node count: 923/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 29487/2097152 bytes
+Template argument size: 1037/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 4/500
+Lua time usage: 0.059/10.000 seconds
+Lua memory usage: 3.37 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  149.271      1 -total
+ 23.60%   35.235      1 Template:Original_research
+ 22.19%   33.117      1 Template:Reflist
+ 20.71%   30.914      4 Template:Ambox
+ 16.44%   24.543      1 Template:Cite_web
+ 15.36%   22.922      1 Template:Convert
+ 13.12%   19.582      1 Template:Citation_needed
+ 11.78%   17.588      1 Template:Fix
+ 10.42%   15.548      3 Template:Unreferenced_section
+  9.88%   14.741      1 Template:Commons_category
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:542054-0!*!0!!en!4!*!math=5 and timestamp 20170127142309 and revision id 759373250
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Coefficient_of_performance&amp;oldid=759373250">https://en.wikipedia.org/w/index.php?title=Coefficient_of_performance&amp;oldid=759373250</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Heat_pumps" title="Category:Heat pumps">Heat pumps</a></li><li><a href="/wiki/Category:Heating,_ventilating,_and_air_conditioning" title="Category:Heating, ventilating, and air conditioning">Heating, ventilating, and air conditioning</a></li><li><a href="/wiki/Category:Mechanical_engineering" title="Category:Mechanical engineering">Mechanical engineering</a></li><li><a href="/wiki/Category:Dimensionless_numbers_of_thermodynamics" title="Category:Dimensionless numbers of thermodynamics">Dimensionless numbers of thermodynamics</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_that_may_contain_original_research_from_September_2012" title="Category:Articles that may contain original research from September 2012">Articles that may contain original research from September 2012</a></li><li><a href="/wiki/Category:All_articles_that_may_contain_original_research" title="Category:All articles that may contain original research">All articles that may contain original research</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_January_2011" title="Category:Articles needing additional references from January 2011">Articles needing additional references from January 2011</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_September_2012" title="Category:Articles needing additional references from September 2012">Articles needing additional references from September 2012</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_February_2011" title="Category:Articles with unsourced statements from February 2011">Articles with unsourced statements from February 2011</a></li><li><a href="/wiki/Category:Commons_category_without_a_link_on_Wikidata" title="Category:Commons category without a link on Wikidata">Commons category without a link on Wikidata</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Coefficient+of+performance" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Coefficient+of+performance" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Coefficient_of_performance"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Coefficient_of_performance"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Coefficient_of_performance" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Coefficient_of_performance&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Coefficient_of_performance&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Coefficient_of_performance" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Coefficient_of_performance" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Coefficient_of_performance&amp;oldid=759373250" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Coefficient_of_performance&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q902090" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Coefficient_of_performance&amp;id=759373250" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Coefficient+of+performance">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Coefficient+of+performance&amp;returnto=Coefficient+of+performance&amp;oldid=759373250&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Coefficient_of_performance&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%85%D8%B9%D8%A7%D9%85%D9%84_%D8%A7%D9%84%D8%A3%D8%AF%D8%A7%D8%A1" title="معامل الأداء – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Topn%C3%BD_faktor" title="Topný faktor – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Leistungszahl" title="Leistungszahl – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/COP_(t%C3%A9rmico)" title="COP (térmico) – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%B6%D8%B1%DB%8C%D8%A8_%D8%B9%D9%85%D9%84%DA%A9%D8%B1%D8%AF" title="ضریب عملکرد – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Coefficient_de_performance" title="Coefficient de performance – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Coefficiente_di_prestazione" title="Coefficiente di prestazione – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E6%88%90%E7%B8%BE%E4%BF%82%E6%95%B0" title="成績係数 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Wsp%C3%B3%C5%82czynnik_wydajno%C5%9Bci_ch%C5%82odniczej" title="Współczynnik wydajności chłodniczej – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q902090#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 10 January 2017, at 19:54.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Coefficient_of_performance&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.148","walltime":"0.247","ppvisitednodes":{"value":923,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":29487,"limit":2097152},"templateargumentsize":{"value":1037,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  149.271      1 -total"," 23.60%   35.235      1 Template:Original_research"," 22.19%   33.117      1 Template:Reflist"," 20.71%   30.914      4 Template:Ambox"," 16.44%   24.543      1 Template:Cite_web"," 15.36%   22.922      1 Template:Convert"," 13.12%   19.582      1 Template:Citation_needed"," 11.78%   17.588      1 Template:Fix"," 10.42%   15.548      3 Template:Unreferenced_section","  9.88%   14.741      1 Template:Commons_category"]},"scribunto":{"limitreport-timeusage":{"value":"0.059","limit":"10.000"},"limitreport-memusage":{"value":3532912,"limit":52428800}},"cachereport":{"origin":"mw1258","timestamp":"20170127142309","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":54,"wgHostname":"mw1250"});});</script>
+	</body>
+</html>

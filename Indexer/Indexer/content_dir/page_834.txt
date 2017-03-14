@@ -1,0 +1,619 @@
+url : https://en.wikipedia.org/wiki/Electric_power_system
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Electric power system - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Electric_power_system","wgTitle":"Electric power system","wgCurRevisionId":756132651,"wgRevisionId":756132651,"wgArticleId":14105333,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use dmy dates from March 2016","Power engineering","Electric power"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Electric_power_system","wgRelevantArticleId":14105333,"wgRequestId":"WJHZEApAMFYAAIODzs8AAAGX","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q2388981","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.9"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Electric_power_system"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Electric_power_system&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Electric_power_system&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Electric_power_system"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Electric_power_system rootpage-Electric_power_system skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Electric power system</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div class="thumb tright">
+<div class="thumbinner" style="width:202px;"><a href="/wiki/File:Dampfturbine_Montage01.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Dampfturbine_Montage01.jpg/200px-Dampfturbine_Montage01.jpg" width="200" height="239" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Dampfturbine_Montage01.jpg/300px-Dampfturbine_Montage01.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/79/Dampfturbine_Montage01.jpg/400px-Dampfturbine_Montage01.jpg 2x" data-file-width="1779" data-file-height="2126" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Dampfturbine_Montage01.jpg" class="internal" title="Enlarge"></a></div>
+A steam turbine used to provide electric power</div>
+</div>
+</div>
+<p>An <b>electric power system</b> is a network of electrical components deployed to supply, transfer, and use electric power. An example of an electric power system is the network that supplies a region's homes and industry with power—for sizeable regions, this power system is known as <i><a href="/wiki/Electrical_grid" title="Electrical grid">the grid</a></i> and can be broadly divided into the <a href="/wiki/Electric_generator" title="Electric generator">generators</a> that supply the power, the <a href="/wiki/Electric_power_transmission" title="Electric power transmission">transmission system</a> that carries the power from the generating centres to the load centres and the <a href="/wiki/Electric_power_distribution" title="Electric power distribution">distribution system</a> that feeds the power to nearby homes and industries. Smaller power systems are also found in industry, hospitals, commercial buildings and homes. The majority of these systems rely upon <a href="/wiki/Three-phase_electric_power" title="Three-phase electric power">three-phase AC power</a>—the standard for large-scale power transmission and distribution across the modern world. Specialised power systems that do not always rely upon three-phase AC power are found in aircraft, electric rail systems, ocean liners and automobiles.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Basics_of_electric_power"><span class="tocnumber">2</span> <span class="toctext">Basics of electric power</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Balancing_the_grid"><span class="tocnumber">3</span> <span class="toctext">Balancing the grid</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Components_of_power_systems"><span class="tocnumber">4</span> <span class="toctext">Components of power systems</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Supplies"><span class="tocnumber">4.1</span> <span class="toctext">Supplies</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Loads"><span class="tocnumber">4.2</span> <span class="toctext">Loads</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Conductors"><span class="tocnumber">4.3</span> <span class="toctext">Conductors</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Capacitors_and_reactors"><span class="tocnumber">4.4</span> <span class="toctext">Capacitors and reactors</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Power_electronics"><span class="tocnumber">4.5</span> <span class="toctext">Power electronics</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Protective_devices"><span class="tocnumber">4.6</span> <span class="toctext">Protective devices</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#SCADA_systems"><span class="tocnumber">4.7</span> <span class="toctext">SCADA systems</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#Power_systems_in_practice"><span class="tocnumber">5</span> <span class="toctext">Power systems in practice</span></a>
+<ul>
+<li class="toclevel-2 tocsection-13"><a href="#Residential_power_systems"><span class="tocnumber">5.1</span> <span class="toctext">Residential power systems</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Commercial_power_systems"><span class="tocnumber">5.2</span> <span class="toctext">Commercial power systems</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-15"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Electric_power_system&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:202px;"><a href="/wiki/File:PearlStreetStation.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/58/PearlStreetStation.jpg/200px-PearlStreetStation.jpg" width="200" height="306" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/5/58/PearlStreetStation.jpg 1.5x" data-file-width="250" data-file-height="383" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:PearlStreetStation.jpg" class="internal" title="Enlarge"></a></div>
+A sketch of the Pearl Street Station</div>
+</div>
+</div>
+<p>In 1881 two electricians built the world's first power system at <a href="/wiki/Godalming" title="Godalming">Godalming</a> in England. It was powered by a power station consisting of two waterwheels that produced an alternating current that in turn supplied seven Siemens <a href="/wiki/Arc_lamp" title="Arc lamp">arc lamps</a> at 250 volts and 34 <a href="/wiki/Incandescent_lamp" class="mw-redirect" title="Incandescent lamp">incandescent lamps</a> at 40 volts.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> However supply to the lamps was intermittent and in 1882 <a href="/wiki/Thomas_Edison" title="Thomas Edison">Thomas Edison</a> and his company, The Edison Electric Light Company, developed the first steam powered electric power station on Pearl Street in New York City. The <a href="/wiki/Pearl_Street_Station" title="Pearl Street Station">Pearl Street Station</a> initially powered around 3,000 lamps for 59 customers.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> The power station used <a href="/wiki/Direct_current" title="Direct current">direct current</a> and operated at a single voltage. Direct current power could not be easily transformed to the higher voltages necessary to minimise power loss during long-distance transmission, so the maximum economic distance between the generators and load was limited to around half-a-mile (800 m).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></p>
+<p>That same year in London <a href="/wiki/Lucien_Gaulard" title="Lucien Gaulard">Lucien Gaulard</a> and <a href="/wiki/John_Dixon_Gibbs" title="John Dixon Gibbs">John Dixon Gibbs</a> demonstrated the first transformer suitable for use in a real power system. The practical value of Gaulard and Gibbs' transformer was demonstrated in 1884 at <a href="/wiki/Turin" title="Turin">Turin</a> where the transformer was used to light up forty kilometres (25 miles) of railway from a single <a href="/wiki/Alternating_current" title="Alternating current">alternating current</a> generator.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Despite the success of the system, the pair made some fundamental mistakes. Perhaps the most serious was connecting the primaries of the transformers in <a href="/wiki/Series_and_parallel_circuits" title="Series and parallel circuits">series</a> so that active lamps would affect the brightness of other lamps further down the line.</p>
+<p>In 1885 <a href="/wiki/George_Westinghouse" title="George Westinghouse">George Westinghouse</a>, an American entrepreneur, obtained the patent rights to the Gaulard Gibbs transformer and imported a number of them along with a <a href="/wiki/Siemens" title="Siemens">Siemens</a> generator and set his engineers to experimenting with them in the hopes of improving them for use in a commercial power system. One of Westinghouse's engineers, <a href="/wiki/William_Stanley,_Jr." class="mw-redirect" title="William Stanley, Jr.">William Stanley</a>, recognised the problem with connecting transformers in series as opposed to <a href="/wiki/Series_and_parallel_circuits" title="Series and parallel circuits">parallel</a> and also realised that making the iron core of a transformer a fully enclosed loop would improve the <a href="/wiki/Voltage_regulation" title="Voltage regulation">voltage regulation</a> of the secondary winding. Using this knowledge he built the first practical transformer based alternating current power system at <a href="/wiki/Great_Barrington,_Massachusetts" title="Great Barrington, Massachusetts">Great Barrington, Massachusetts</a> in 1886.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> Westinghouse would begin installing multi-voltage AC transformer systems in competition with the Edison company later that year. In 1888 Westinghouse would also licensed <a href="/wiki/Nikola_Tesla" title="Nikola Tesla">Nikola Tesla</a>'s US patents for a polyphase AC induction motor and transformer designs and hired Tesla for one year to be a consultant at the <a href="/wiki/Westinghouse_Electric_Corporation" title="Westinghouse Electric Corporation">Westinghouse Electric &amp; Manufacturing Company's</a> <a href="/wiki/Pittsburgh" title="Pittsburgh">Pittsburgh</a> labs.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></p>
+<p>By 1888 the electric power industry was flourishing, and power companies had built thousands of power systems (both direct and alternating current) in the United States and Europe. These networks were effectively dedicated to providing electric lighting. During this time the rivalry between Thomas Edison and George Westinghouse's companies had grown into propaganda campaign over which form of transmission (direct or alternating current) was superior, a searies of events known as the "<a href="/wiki/War_of_Currents" title="War of Currents">War of Currents</a>".<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> In 1891, Westinghouse installed the first major power system that was designed to drive a 100 horsepower (75&#160;kW) synchronous electric motor, not just provide electric lighting, at <a href="/wiki/Telluride,_Colorado" title="Telluride, Colorado">Telluride, Colorado</a>.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> On the other side of the Atlantic, <a href="/wiki/Mikhail_Dolivo-Dobrovolsky" title="Mikhail Dolivo-Dobrovolsky">Mikhail Dolivo-Dobrovolsky</a> built a 20 kV 176&#160;km three-phase transmission line from <a href="/wiki/Lauffen_am_Neckar" title="Lauffen am Neckar">Lauffen am Neckar</a> to <a href="/wiki/Frankfurt_am_Main" class="mw-redirect" title="Frankfurt am Main">Frankfurt am Main</a> for the Electrical Engineering Exhibition in Frankfurt.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> In the US the AC/DC competition came to the end when Edison General Electric was taken over by their chief AC rival, the <a href="/wiki/Thomson-Houston_Electric_Company" title="Thomson-Houston Electric Company">Thomson-Houston Electric Company</a>, forming <a href="/wiki/General_Electric" title="General Electric">General Electric</a>. In 1895, after a protracted decision-making process, <a href="/wiki/Alternating_current" title="Alternating current">alternating current</a> was chosen as the transmission standard with Westinghouse building the Adams No. 1 generating station at <a href="/wiki/Niagara_Falls" title="Niagara Falls">Niagara Falls</a> and General Electric building the three-phase alternating current power system to supply Buffalo at 11 kV.</p>
+<p>Developments in power systems continued beyond the nineteenth century. In 1936 the first experimental <a href="/wiki/HVDC" class="mw-redirect" title="HVDC">HVDC</a> (high voltage direct current) line using <a href="/wiki/Mercury_arc_valve" class="mw-redirect" title="Mercury arc valve">mercury arc valves</a> was built between <a href="/wiki/Schenectady,_New_York" title="Schenectady, New York">Schenectady</a> and <a href="/wiki/Mechanicville,_New_York" title="Mechanicville, New York">Mechanicville, New York</a>. HVDC had previously been achieved by series-connected direct current generators and motors (the <a href="/wiki/Thury_system" class="mw-redirect" title="Thury system">Thury system</a>) although this suffered from serious reliability issues.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> In 1957 <a href="/wiki/Siemens" title="Siemens">Siemens</a> demonstrated the first solid-state rectifier, but it was not until the early 1970s that solid-state devices became the standard in HVDC.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> In recent times, many important developments have come from extending innovations in the <a href="/wiki/Information_and_communications_technology" title="Information and communications technology">ICT</a> field to the power engineering field. For example, the development of computers meant <a href="/wiki/Load_flow_study" class="mw-redirect" title="Load flow study">load flow studies</a> could be run more efficiently allowing for much better planning of power systems. Advances in information technology and telecommunication also allowed for remote control of a power system's switchgear and generators.</p>
+<h2><span class="mw-headline" id="Basics_of_electric_power">Basics of electric power</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Electric_power_system&amp;action=edit&amp;section=2" title="Edit section: Basics of electric power">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Switched_mode_power_adapter.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Switched_mode_power_adapter.jpg/220px-Switched_mode_power_adapter.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Switched_mode_power_adapter.jpg/330px-Switched_mode_power_adapter.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Switched_mode_power_adapter.jpg/440px-Switched_mode_power_adapter.jpg 2x" data-file-width="640" data-file-height="480" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Switched_mode_power_adapter.jpg" class="internal" title="Enlarge"></a></div>
+An external AC to DC power adapter used for household appliances</div>
+</div>
+</div>
+<p>Electric power is the product of two quantities: <a href="/wiki/Electric_current" title="Electric current">current</a> and <a href="/wiki/Electric_potential" title="Electric potential">voltage</a>. These two quantities can vary with respect to time (<a href="/wiki/AC_power" title="AC power">AC power</a>) or can be kept at constant levels (<a href="/wiki/Direct_current" title="Direct current">DC power</a>).</p>
+<p>Most refrigerators, air conditioners, pumps and industrial machinery use AC power whereas most computers and digital equipment use DC power (the digital devices you plug into the mains typically have an internal or external power adapter to convert from AC to DC power). AC power has the advantage of being easy to transform between voltages and is able to be generated and utilised by brushless machinery. DC power remains the only practical choice in digital systems and can be more economical to transmit over long distances at very high voltages (see <a href="/wiki/HVDC" class="mw-redirect" title="HVDC">HVDC</a>).<sup id="cite_ref-allabout_13-0" class="reference"><a href="#cite_note-allabout-13">[13]</a></sup><sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup></p>
+<p>The ability to easily transform the voltage of AC power is important for two reasons: Firstly, power can be transmitted over long distances with less loss at higher voltages. So in power systems where generation is distant from the load, it is desirable to step-up (increase) the voltage of power at the generation point and then step-down (decrease) the voltage near the load. Secondly, it is often more economical to install turbines that produce higher voltages than would be used by most appliances, so the ability to easily transform voltages means this mismatch between voltages can be easily managed.<sup id="cite_ref-allabout_13-1" class="reference"><a href="#cite_note-allabout-13">[13]</a></sup></p>
+<p><a href="/wiki/Solid_state_(electronics)" class="mw-redirect" title="Solid state (electronics)">Solid state devices</a>, which are products of the semiconductor revolution, make it possible to transform <a href="/wiki/DC_to_DC_converter" class="mw-redirect" title="DC to DC converter">DC power to different voltages</a>, build <a href="/wiki/Brushless_DC_electric_motor" title="Brushless DC electric motor">brushless DC machines</a> and <a href="/wiki/Switched-mode_power_supply" title="Switched-mode power supply">convert between AC and DC power</a>. Nevertheless, devices utilising solid state technology are often more expensive than their traditional counterparts, so AC power remains in widespread use.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup></p>
+<h2><span class="mw-headline" id="Balancing_the_grid">Balancing the grid</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Electric_power_system&amp;action=edit&amp;section=3" title="Edit section: Balancing the grid">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>One of the main difficulties in power systems is that the amount of active power consumed plus losses should always equal the active power produced. If more power would be produced than consumed the frequency would rise and vice versa. Even small deviations from the nominal frequency value would damage synchronous machines and other appliances. Making sure the frequency is constant is usually the task of a <a href="/wiki/Transmission_system_operator" title="Transmission system operator">transmission system operator</a>. In some countries (for example in the <a href="/wiki/European_Union" title="European Union">European Union</a>) this is achieved through a <a href="/w/index.php?title=Balancing_market&amp;action=edit&amp;redlink=1" class="new" title="Balancing market (page does not exist)">balancing market</a> using <a href="/wiki/Ancillary_services_(electric_power)" title="Ancillary services (electric power)">ancillary services</a>.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup></p>
+<h2><span class="mw-headline" id="Components_of_power_systems">Components of power systems</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Electric_power_system&amp;action=edit&amp;section=4" title="Edit section: Components of power systems">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Supplies">Supplies</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Electric_power_system&amp;action=edit&amp;section=5" title="Edit section: Supplies">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:252px;"><a href="/wiki/File:Big_Bend_Power_Station.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Big_Bend_Power_Station.jpg/250px-Big_Bend_Power_Station.jpg" width="250" height="190" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Big_Bend_Power_Station.jpg/375px-Big_Bend_Power_Station.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/da/Big_Bend_Power_Station.jpg/500px-Big_Bend_Power_Station.jpg 2x" data-file-width="4256" data-file-height="3232" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Big_Bend_Power_Station.jpg" class="internal" title="Enlarge"></a></div>
+The majority of the world's power still comes from <a href="/wiki/Coal_power" class="mw-redirect" title="Coal power">coal-fired power stations</a> like this</div>
+</div>
+</div>
+<p>All power systems have one or more sources of power. For some power systems, the source of power is external to the system but for others it is part of the system itself—it is these internal power sources that are discussed in the remainder of this section. Direct current power can be supplied by <a href="/wiki/Battery_(electricity)" title="Battery (electricity)">batteries</a>, <a href="/wiki/Fuel_cell" title="Fuel cell">fuel cells</a> or <a href="/wiki/Photovoltaic_cell" class="mw-redirect" title="Photovoltaic cell">photovoltaic cells</a>. Alternating current power is typically supplied by a rotor that spins in a magnetic field in a device known as a <a href="/wiki/Turbo_generator" title="Turbo generator">turbo generator</a>. There have been a wide range of techniques used to spin a turbine's rotor, from steam heated using <a href="/wiki/Fossil_fuel" title="Fossil fuel">fossil fuel</a> (including coal, gas and oil) or <a href="/wiki/Nuclear_power" title="Nuclear power">nuclear energy</a>, falling water (<a href="/wiki/Hydroelectric_power" class="mw-redirect" title="Hydroelectric power">hydroelectric power</a>) and wind (<a href="/wiki/Wind_power" title="Wind power">wind power</a>).</p>
+<p>The speed at which the rotor spins in combination with the number of generator poles determines the frequency of the alternating current produced by the generator. All generators on a single synchronous system, for example the <a href="/wiki/National_Grid_(UK)" class="mw-redirect" title="National Grid (UK)">national grid</a>, rotate at sub-multiples of the same speed and so generate electric current at the same frequency. If the load on the system increases, the generators will require more torque to spin at that speed and, in a typical power station, more steam must be supplied to the turbines driving them. Thus the steam used and the fuel expended are directly dependent on the quantity of electrical energy supplied. An exception exists for generators incorporating power electronics such as <a href="/wiki/Wind_turbine_design#Gearless_wind_turbine" title="Wind turbine design">gearless wind turbines</a> or linked to a grid through an asynchronous tie such as a <a href="/wiki/HVDC" class="mw-redirect" title="HVDC">HVDC</a> link — these can operate at frequencies independent of the power system frequency.</p>
+<p>Depending on how the poles are fed, alternating current generators can produce a variable number of phases of power. A higher number of phases leads to more efficient power system operation but also increases the infrastructure requirements of the system.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup></p>
+<p>Electricity grid systems connect multiple generators and loads operating at the same frequency and number of phases, the commonest being three-phase at 50 or 60&#160;Hz. However, there are other considerations. These range from the obvious: How much power should the generator be able to supply? What is an acceptable length of time for starting the generator (some generators can take hours to start)? Is the availability of the power source acceptable (some renewables are only available when the sun is shining or the wind is blowing)? To the more technical: How should the generator start (some turbines act like a motor to bring themselves up to speed in which case they need an appropriate starting circuit)? What is the mechanical speed of operation for the turbine and consequently what are the number of poles required? What type of generator is suitable (<a href="/wiki/Synchronous_generator" class="mw-redirect" title="Synchronous generator">synchronous</a> or <a href="/wiki/Induction_generator" title="Induction generator">asynchronous</a>) and what type of rotor (squirrel-cage rotor, wound rotor, salient pole rotor or cylindrical rotor)?<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup></p>
+<h3><span class="mw-headline" id="Loads">Loads</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Electric_power_system&amp;action=edit&amp;section=6" title="Edit section: Loads">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:202px;"><a href="/wiki/File:Toaster.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Toaster.jpg/200px-Toaster.jpg" width="200" height="170" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Toaster.jpg/300px-Toaster.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Toaster.jpg/400px-Toaster.jpg 2x" data-file-width="1938" data-file-height="1644" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Toaster.jpg" class="internal" title="Enlarge"></a></div>
+A <a href="/wiki/Toaster" title="Toaster">toaster</a> is great example of a single-phase load that might appear in a residence. Toasters typically draw 2 to 10 amps at 110 to 260 volts consuming around 600 to 1200 watts of power.</div>
+</div>
+</div>
+<p>Power systems deliver energy to loads that perform a function. These loads range from household appliances to industrial machinery. Most loads expect a certain voltage and, for alternating current devices, a certain frequency and number of phases. The appliances found in your home, for example, will typically be single-phase operating at 50 or 60&#160;Hz with a voltage between 110 and 260 volts (depending on national standards). An exception exists for centralized air conditioning systems as these are now typically three-phase because this allows them to operate more efficiently. All devices in your house will also have a wattage, this specifies the amount of power the device consumes. At any one time, the net amount of power consumed by the loads on a power system must equal the net amount of power produced by the supplies less the power lost in transmission.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup><sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup></p>
+<p>Making sure that the voltage, frequency and amount of power supplied to the loads is in line with expectations is one of the great challenges of power system engineering. However it is not the only challenge, in addition to the power used by a load to do useful work (termed <a href="/wiki/Real_power" class="mw-redirect" title="Real power">real power</a>) many alternating current devices also use an additional amount of power because they cause the alternating voltage and alternating current to become slightly out-of-sync (termed <a href="/wiki/Reactive_power" class="mw-redirect" title="Reactive power">reactive power</a>). The reactive power like the real power must balance (that is the reactive power produced on a system must equal the reactive power consumed) and can be supplied from the generators, however it is often more economical to supply such power from capacitors (see "Capacitors and reactors" below for more details).<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup></p>
+<p>A final consideration with loads is to do with power quality. In addition to sustained overvoltages and undervoltages (voltage regulation issues) as well as sustained deviations from the system frequency (frequency regulation issues), power system loads can be adversely affected by a range of temporal issues. These include voltage sags, dips and swells, transient overvoltages, flicker, high frequency noise, phase imbalance and poor power factor.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup> Power quality issues occur when the power supply to a load deviates from the ideal: For an AC supply, the ideal is the current and voltage in-sync fluctuating as a perfect sine wave at a prescribed frequency with the voltage at a prescribed amplitude. For DC supply, the ideal is the voltage not varying from a prescribed level. Power quality issues can be especially important when it comes to specialist industrial machinery or hospital equipment.</p>
+<h3><span class="mw-headline" id="Conductors">Conductors</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Electric_power_system&amp;action=edit&amp;section=7" title="Edit section: Conductors">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Conductors carry power from the generators to the load. In a <a href="/wiki/Electrical_grid" title="Electrical grid">grid</a>, conductors may be classified as belonging to the <a href="/wiki/Electric_power_transmission" title="Electric power transmission">transmission system</a>, which carries large amounts of power at high voltages (typically more than 69 kV) from the generating centres to the load centres, or the <a href="/wiki/Electricity_distribution" class="mw-redirect" title="Electricity distribution">distribution system</a>, which feeds smaller amounts of power at lower voltages (typically less than 69 kV) from the load centres to nearby homes and industry.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup></p>
+<p>Choice of conductors is based upon considerations such as cost, transmission losses and other desirable characteristics of the metal like tensile strength. <a href="/wiki/Copper" title="Copper">Copper</a>, with lower resistivity than <a href="/wiki/Aluminium" title="Aluminium">Aluminum</a>, was the conductor of choice for most power systems. However, Aluminum has lower cost for the same current carrying capacity and is the primary metal used for transmission line conductors. <a href="/wiki/Overhead_line" title="Overhead line">Overhead line</a> conductors may be reinforced with steel or aluminum alloys.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup></p>
+<p>Conductors in exterior power systems may be placed overhead or underground. Overhead conductors are usually air insulated and supported on porcelain, glass or polymer insulators. Cables used for underground transmission or <a href="/wiki/Building_wiring" class="mw-redirect" title="Building wiring">building wiring</a> are insulated with <a href="/wiki/Cross-linked_polyethylene" title="Cross-linked polyethylene">cross-linked polyethylene</a> or other flexible insulation. Large conductors are stranded for ease of handling; small conductors used for building wiring are often solid, especially in light commercial or residential construction.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup></p>
+<p>Conductors are typically rated for the maximum current that they can carry at a given temperature rise over ambient conditions. As current flow increases through a conductor it heats up. For insulated conductors, the rating is determined by the insulation.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup> For overhead conductors, the rating is determined by the point at which the sag of the conductors would become unacceptable.<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[27]</a></sup></p>
+<h3><span class="mw-headline" id="Capacitors_and_reactors">Capacitors and reactors</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Electric_power_system&amp;action=edit&amp;section=8" title="Edit section: Capacitors and reactors">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The majority of the load in a typical AC power system is inductive; the current lags behind the voltage. Since the voltage and current are out-of-phase, this leads to the emergence of an "imaginary" form of power known as <a href="/wiki/Reactive_power" class="mw-redirect" title="Reactive power">reactive power</a>. Reactive power does no measurable work but is transmitted back and forth between the reactive power source and load every cycle. This reactive power can be provided by the generators themselves, through the adjustment of generator excitation, but it is often cheaper to provide it through capacitors, hence capacitors are often placed near inductive loads to reduce current demand on the power system (i.e., increase the <a href="/wiki/Power_factor" title="Power factor">power factor</a>), which may never exceed 1.0, and which represents a purely resistive load. Power factor correction may be applied at a central substation, through the use of so-called "synchronous condensers" (synchronous machines which act as condensers which are variable in <a href="/wiki/Volt-ampere_reactive" title="Volt-ampere reactive">VAR</a> value, through the adjustment of machine excitation) or adjacent to large loads, through the use of so-called "static condensers" (condensers which are fixed in VAR value).</p>
+<p>Reactors consume reactive power and are used to regulate voltage on long transmission lines. In light load conditions, where the loading on transmission lines is well below the <a href="/wiki/Surge_impedance_loading" class="mw-redirect" title="Surge impedance loading">surge impedance loading</a>, the efficiency of the power system may actually be improved by switching in reactors. Reactors installed in series in a power system also limit rushes of current flow, small reactors are therefore almost always installed in series with capacitors to limit the current rush associated with switching in a capacitor. Series reactors can also be used to limit fault currents.</p>
+<p>Capacitors and reactors are switched by circuit breakers, which results in moderately large steps in reactive power. A solution comes in the form of <a href="/wiki/Static_VAR_compensator" title="Static VAR compensator">static VAR compensators</a> and <a href="/wiki/STATCOM" class="mw-redirect" title="STATCOM">static synchronous compensators</a>. Briefly, static VAR compensators work by switching in capacitors using thyristors as opposed to circuit breakers allowing capacitors to be switched-in and switched-out within a single cycle. This provides a far more refined response than circuit breaker switched capacitors. Static synchronous compensators take a step further by achieving reactive power adjustments using only <a href="/wiki/Power_electronics" title="Power electronics">power electronics</a>.</p>
+<h3><span class="mw-headline" id="Power_electronics">Power electronics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Electric_power_system&amp;action=edit&amp;section=9" title="Edit section: Power electronics">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Power electronics are semi-conductor based devices that are able to switch quantities of power ranging from a few hundred watts to several hundred megawatts. Despite their relatively simple function, their speed of operation (typically in the order of nanoseconds<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[28]</a></sup>) means they are capable of a wide range of tasks that would be difficult or impossible with conventional technology. The classic function of power electronics is <a href="/wiki/Rectifier" title="Rectifier">rectification</a>, or the conversion of AC-to-DC power, power electronics are therefore found in almost every digital device that is supplied from an AC source either as an adapter that plugs into the wall (see photo in <i>Basics of Electric Power</i> section) or as component internal to the device. High-powered power electronics can also be used to convert AC power to DC power for long distance transmission in a system known as <a href="/wiki/HVDC" class="mw-redirect" title="HVDC">HVDC</a>. HVDC is used because it proves to be more economical than similar high voltage AC systems for very long distances (hundreds to thousands of kilometres). HVDC is also desirable for interconnects because it allows frequency independence thus improving system stability. Power electronics are also essential for any power source that is required to produce an AC output but that by its nature produces a DC output. They are therefore used by many photovoltaic installations both industrial and residential.</p>
+<p>Power electronics also feature in a wide range of more exotic uses. They are at the heart of all modern electric and hybrid vehicles—where they are used for both motor control and as part of the <a href="/wiki/Brushless_DC_motor" class="mw-redirect" title="Brushless DC motor">brushless DC motor</a>. Power electronics are also found in practically all modern petrol-powered vehicles, this is because the power provided by the car's batteries alone is insufficient to provide ignition, air-conditioning, internal lighting, radio and dashboard displays for the life of the car. So the batteries must be recharged while driving using DC power from the engine—a feat that is typically accomplished using power electronics. Whereas conventional technology would be unsuitable for a modern electric car, commutators can and have been used in petrol-powered cars, the switch to <a href="/wiki/Alternator" title="Alternator">alternators</a> in combination with power electronics has occurred because of the improved durability of brushless machinery.<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">[29]</a></sup></p>
+<p>Some electric railway systems also use DC power and thus make use of power electronics to feed grid power to the locomotives and often for speed control of the locomotive's motor. In the middle twentieth century, <a href="/wiki/Rectifier_locomotive" class="mw-redirect" title="Rectifier locomotive">rectifier locomotives</a> were popular, these used power electronics to convert AC power from the railway network for use by a DC motor.<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">[30]</a></sup> Today most electric locomotives are supplied with AC power and run using AC motors, but still use power electronics to provide suitable motor control. The use of power electronics to assist with motor control and with starter circuits cannot be underestimated and, in addition to rectification, is responsible for power electronics appearing in a wide range of industrial machinery. Power electronics even appear in modern residential air conditioners.</p>
+<p>Power electronics are also at the heart of the <a href="/wiki/Variable_speed_wind_turbine" title="Variable speed wind turbine">variable speed wind turbine</a>. Conventional wind turbines require significant engineering to ensure they operate at some ratio of the system frequency, however by using power electronics this requirement can be eliminated leading to quieter, more flexible and (at the moment) more costly wind turbines. A final example of one of the more exotic uses of power electronics comes from the previous section where the fast-switching times of power electronics were used to provide more refined reactive compensation to the power system.</p>
+<h3><span class="mw-headline" id="Protective_devices">Protective devices</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Electric_power_system&amp;action=edit&amp;section=10" title="Edit section: Protective devices">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote">Main article: <a href="/wiki/Power_system_protection" class="mw-redirect" title="Power system protection">power system protection</a></div>
+<p>Power systems contain protective devices to prevent injury or damage during failures. The quintessential protective device is the fuse. When the current through a fuse exceeds a certain threshold, the fuse element melts, producing an arc across the resulting gap that is then extinguished, interrupting the circuit. Given that fuses can be built as the weak point of a system, fuses are ideal for protecting circuitry from damage. Fuses however have two problems: First, after they have functioned, fuses must be replaced as they cannot be reset. This can prove inconvenient if the fuse is at a remote site or a spare fuse is not on hand. And second, fuses are typically inadequate as the sole safety device in most power systems as they allow current flows well in excess of that that would prove lethal to a human or animal.</p>
+<p>The first problem is resolved by the use of <a href="/wiki/Circuit_breaker" title="Circuit breaker">circuit breakers</a>—devices that can be reset after they have broken current flow. In modern systems that use less than about 10&#160;kW, miniature circuit breakers are typically used. These devices combine the mechanism that initiates the trip (by sensing excess current) as well as the mechanism that breaks the current flow in a single unit. Some miniature circuit breakers operate solely on the basis of electromagnetism. In these miniature circuit breakers, the current is run through a solenoid, and, in the event of excess current flow, the magnetic pull of the solenoid is sufficient to force open the circuit breaker's contacts (often indirectly through a tripping mechanism). A better design however arises by inserting a bimetallic strip before the solenoid—this means that instead of always producing a magnetic force, the solenoid only produces a magnetic force when the current is strong enough to deform the bimetallic strip and complete the solenoid's circuit.</p>
+<p>In higher powered applications, the <a href="/wiki/Protective_relay" title="Protective relay">protective relays</a> that detect a fault and initiate a trip are separate from the circuit breaker. Early relays worked based upon electromagnetic principles similar to those mentioned in the previous paragraph, <a href="/wiki/Digital_protective_relay" title="Digital protective relay">modern relays</a> are application-specific computers that determine whether to trip based upon readings from the power system. Different relays will initiate trips depending upon different <a href="/wiki/Power_system_protection" class="mw-redirect" title="Power system protection">protection schemes</a>. For example, an overcurrent relay might initiate a trip if the current on any phase exceeds a certain threshold whereas a set of differential relays might initiate a trip if the sum of currents between them indicates there may be current leaking to earth. The circuit breakers in higher powered applications are different too. Air is typically no longer sufficient to quench the arc that forms when the contacts are forced open so a variety of techniques are used. One of the most popular techniques is to keep the chamber enclosing the contacts flooded with <a href="/wiki/Sulfur_hexafluoride" title="Sulfur hexafluoride">sulfur hexafluoride</a> (SF<sub>6</sub>)—a non-toxic gas that has sound arc-quenching properties. Other techniques are discussed in the reference.<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">[31]</a></sup></p>
+<p>The second problem, the inadequacy of fuses to act as the sole safety device in most power systems, is probably best resolved by the use of residual current devices (RCDs). In any properly functioning electrical appliance the current flowing into the appliance on the active line should equal the current flowing out of the appliance on the neutral line. A residual current device works by monitoring the active and neutral lines and tripping the active line if it notices a difference.<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">[32]</a></sup> Residual current devices require a separate neutral line for each phase and to be able to trip within a time frame before harm occurs. This is typically not a problem in most residential applications where standard wiring provides an active and neutral line for each appliance (that's why your power plugs always have at least two tongs) and the voltages are relatively low however these issues do limit the effectiveness of RCDs in other applications such as industry. Even with the installation of an RCD, exposure to electricity can still prove lethal.</p>
+<h3><span class="mw-headline" id="SCADA_systems">SCADA systems</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Electric_power_system&amp;action=edit&amp;section=11" title="Edit section: SCADA systems">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In large electric power systems, <a href="/wiki/SCADA" title="SCADA">Supervisory Control And Data Acquisition</a> (SCADA) is used for tasks such as switching on generators, controlling generator output and switching in or out system elements for maintenance. The first supervisory control systems implemented consisted of a panel of lamps and switches at a central console near the controlled plant. The lamps provided feedback on the state of plant (the data acquisition function) and the switches allowed adjustments to the plant to be made (the supervisory control function). Today, SCADA systems are much more sophisticated and, due to advances in communication systems, the consoles controlling the plant no longer need to be near the plant itself. Instead it is now common for plants to be controlled with equipment similar (if not identical) to a desktop computer. The ability to control such plants through computers has increased the need for security—there have already been reports of cyber-attacks on such systems causing significant disruptions to power systems.<sup id="cite_ref-33" class="reference"><a href="#cite_note-33">[33]</a></sup></p>
+<h2><span class="mw-headline" id="Power_systems_in_practice">Power systems in practice</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Electric_power_system&amp;action=edit&amp;section=12" title="Edit section: Power systems in practice">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Despite their common components, power systems vary widely both with respect to their design and how they operate. This section introduces some common power system types and briefly explains their operation.</p>
+<h3><span class="mw-headline" id="Residential_power_systems">Residential power systems</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Electric_power_system&amp;action=edit&amp;section=13" title="Edit section: Residential power systems">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Residential dwellings almost always take supply from the low voltage distribution lines or cables that run past the dwelling. These operate at voltages of between 110 and 260 volts (phase-to-earth) depending upon national standards. A few decades ago small dwellings would be fed a single phase using a dedicated two-core service cable (one core for the active phase and one core for the neutral return). The active line would then be run through a main isolating switch in the <a href="/wiki/Distribution_board" title="Distribution board">fuse box</a> and then split into one or more circuits to feed lighting and appliances inside the house. By convention, the lighting and appliance circuits are kept separate so the failure of an appliance does not leave the dwelling's occupants in the dark. All circuits would be fused with an appropriate fuse based upon the wire size used for that circuit. Circuits would have both an active and neutral wire with both the lighting and power sockets being connected in parallel. Sockets would also be provided with a protective earth. This would be made available to appliances to connect to any metallic casing. If this casing were to become live, the theory is the connection to earth would cause an RCD or fuse to trip—thus preventing the future electrocution of an occupant handling the appliance. <a href="/wiki/Earthing_system" title="Earthing system">Earthing systems</a> vary between regions, but in countries such as the United Kingdom and Australia both the protective earth and neutral line would be earthed together near the fuse box before the main isolating switch and the neutral earthed once again back at the distribution transformer.<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">[34]</a></sup></p>
+<p>There have been a number of minor changes over the year to practice of residential wiring. Some of the most significant ways modern residential power systems tend to vary from older ones include:</p>
+<ul>
+<li>For convenience, miniature circuit breakers are now almost always used in the fuse box instead of fuses as these can easily be reset by occupants.</li>
+<li>For safety reasons, RCDs are now installed on appliance circuits and, increasingly, even on lighting circuits.</li>
+<li>Dwellings are typically connected to all three-phases of the distribution system with the phases being arbitrarily allocated to the house's single-phase circuits.</li>
+<li>Whereas air conditioners of the past might have been fed from a dedicated circuit attached to a single phase, centralised air conditioners that require three-phase power are now becoming common.</li>
+<li>Protective earths are now run with lighting circuits to allow for metallic lamp holders to be earthed.</li>
+<li>Increasingly residential power systems are incorporating <a href="/wiki/Microgeneration" title="Microgeneration">microgenerators</a>, most notably, photovoltaic cells.</li>
+</ul>
+<h3><span class="mw-headline" id="Commercial_power_systems">Commercial power systems</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Electric_power_system&amp;action=edit&amp;section=14" title="Edit section: Commercial power systems">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Commercial power systems such as shopping centers or high-rise buildings are larger in scale than residential systems. Electrical designs for larger commercial systems are usually studied for load flow, short-circuit fault levels, and voltage drop for steady-state loads and during starting of large motors. The objectives of the studies are to assure proper equipment and conductor sizing, and to coordinate protective devices so that minimal disruption is cause when a fault is cleared. Large commercial installations will have an orderly system of sub-panels, separate from the main distribution board to allow for better system protection and more efficient electrical installation.</p>
+<p>Typically one of the largest appliances connected to a commercial power system is the HVAC unit, and ensuring this unit is adequately supplied is an important consideration in commercial power systems. Regulations for commercial establishments place other requirements on commercial systems that are not placed on residential systems. For example, in Australia, commercial systems must comply with AS 2293, the standard for emergency lighting, which requires emergency lighting be maintained for at least 90 minutes in the event of loss of mains supply.<sup id="cite_ref-35" class="reference"><a href="#cite_note-35">[35]</a></sup> In the United States, the <a href="/wiki/National_Electrical_Code" title="National Electrical Code">National Electrical Code</a> requires commercial systems to be built with at least one 20A sign outlet in order to light outdoor signage.<sup id="cite_ref-36" class="reference"><a href="#cite_note-36">[36]</a></sup> Building code regulations may place special requirements on the electrical system for emergency lighting, evacuation, emergency power, smoke control and fire protection.</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Electric_power_system&amp;action=edit&amp;section=15" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.engineering-timelines.com/scripts/engineeringItem.asp?id=744">"Godalming Power Station"</a>. Engineering Timelines<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-05-03</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AElectric+power+system&amp;rft.btitle=Godalming+Power+Station&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.engineering-timelines.com%2Fscripts%2FengineeringItem.asp%3Fid%3D744&amp;rft.pub=Engineering+Timelines&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation news">Williams, Jasmin (2007-11-30). <a rel="nofollow" class="external text" href="http://www.nypost.com/seven/11302007/news/cextra/edison_lights_the_city_514905.htm">"Edison Lights The City"</a>. New York Post<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-03-31</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AElectric+power+system&amp;rft.atitle=Edison+Lights+The+City&amp;rft.aufirst=Jasmin&amp;rft.aulast=Williams&amp;rft.date=2007-11-30&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.nypost.com%2Fseven%2F11302007%2Fnews%2Fcextra%2Fedison_lights_the_city_514905.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web">Grant, Casey. <a rel="nofollow" class="external text" href="http://www.nfpa.org/itemDetail.asp?categoryID=500&amp;itemID=18020&amp;URL=About%20Us/History&amp;cookie%5Ftest=1">"The Birth of NFPA"</a>. National Fire Protection Association<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-03-31</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AElectric+power+system&amp;rft.aufirst=Casey&amp;rft.aulast=Grant&amp;rft.btitle=The+Birth+of+NFPA&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.nfpa.org%2FitemDetail.asp%3FcategoryID%3D500%26itemID%3D18020%26URL%3DAbout%2520Us%2FHistory%26cookie%255Ftest%3D1&amp;rft.pub=National+Fire+Protection+Association&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation pressrelease"><a rel="nofollow" class="external text" href="http://www.pearlstreetinc.com/NYISO_bulk_elect_beginnings.pdf">"Bulk Electricity Grid Beginnings"</a> <span style="font-size:85%;">(PDF)</span> (Press release). New York Independent System Operator<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-05-25</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AElectric+power+system&amp;rft.btitle=Bulk+Electricity+Grid+Beginnings&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.pearlstreetinc.com%2FNYISO_bulk_elect_beginnings.pdf&amp;rft.pub=New+York+Independent+System+Operator&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web">Katz, Evgeny (2007-04-08). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20080422072336/http://people.clarkson.edu/~ekatz/scientists/gaulard.html">"Lucien Gaulard"</a>. Archived from <a rel="nofollow" class="external text" href="http://people.clarkson.edu/~ekatz/scientists/gaulard.html">the original</a> on 2008-04-22<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-05-25</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AElectric+power+system&amp;rft.aufirst=Evgeny&amp;rft.aulast=Katz&amp;rft.btitle=Lucien+Gaulard&amp;rft.date=2007-04-08&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fpeople.clarkson.edu%2F~ekatz%2Fscientists%2Fgaulard.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web">Blalock, Thomas (2004-10-02). <a rel="nofollow" class="external text" href="http://www.ieee.org/web/aboutus/history_center/stanley.html">"Alternating Current Electrification, 1886"</a>. IEEE<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-05-25</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AElectric+power+system&amp;rft.aufirst=Thomas&amp;rft.aulast=Blalock&amp;rft.btitle=Alternating+Current+Electrification%2C+1886&amp;rft.date=2004-10-02&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.ieee.org%2Fweb%2Faboutus%2Fhistory_center%2Fstanley.html&amp;rft.pub=IEEE&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://books.google.com/books?id=WKuG-VIwID8C&amp;pg=PA305&amp;lpg=PA305&amp;dq=tesla+hired+by+westinghouse&amp;source=bl&amp;ots=KDI0aTz0EK&amp;sig=oct2jnPyWkQ3qvUR-JmstK9F0FI&amp;hl=en&amp;sa=X&amp;ei=jRwxUKK3LtS80QHjxoGYAg&amp;sqi=2&amp;ved=0CEEQ6AEwAw#v=onepage&amp;q=tesla%20hired%20by%20westinghouse&amp;f=false">John W. Klooster, Icons of Invention: The Makers of the Modern World from Gutenberg to Gates, page 305</a></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://books.google.com/books?id=2kc69qrid9oC&amp;pg=PA85&amp;dq=%22war+of+the+currents%22&amp;hl=en&amp;sa=X&amp;ei=D2TGUKmVIa6G0QGJw4DgCw&amp;sqi=2&amp;ved=0CDkQ6AEwBA#v=onepage&amp;q=%22war%20of%20the%20currents%22&amp;f=false">Quentin R. Skrabec Jr, The 100 Most Significant Events in American Business – 2012, Page 85</a></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web">Foran, Jack. <a rel="nofollow" class="external text" href="http://ublib.buffalo.edu/libraries/projects/cases/niagara.htm">"The Day They Turned The Falls On"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2008-05-25</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AElectric+power+system&amp;rft.aufirst=Jack&amp;rft.aulast=Foran&amp;rft.btitle=The+Day+They+Turned+The+Falls+On&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fublib.buffalo.edu%2Flibraries%2Fprojects%2Fcases%2Fniagara.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.edisontechcenter.org/LauffenFrankfurt.html">http://www.edisontechcenter.org/LauffenFrankfurt.html</a></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20070625114547/http://www.ieee.org/organizations/pes/public/2005/may/peshistory.html">"A Novel but Short-Lived Power Distribution System"</a>. IEEE. 1 May 2005. Archived from <a rel="nofollow" class="external text" href="http://www.ieee.org/organizations/pes/public/2005/may/peshistory.html">the original</a> on 25 June 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-05-25</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AElectric+power+system&amp;rft.btitle=A+Novel+but+Short-Lived+Power+Distribution+System&amp;rft.date=2005-05-01&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.ieee.org%2Forganizations%2Fpes%2Fpublic%2F2005%2Fmay%2Fpeshistory.html&amp;rft.pub=IEEE&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation news">Gene Wolf (2000-12-01). <a rel="nofollow" class="external text" href="http://tdworld.com/mag/power_electricity_ages/">"Electricity Through the Ages"</a>. <i>Transmission &amp; Distribution World</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AElectric+power+system&amp;rft.atitle=Electricity+Through+the+Ages&amp;rft.au=Gene+Wolf&amp;rft.date=2000-12-01&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Ftdworld.com%2Fmag%2Fpower_electricity_ages%2F&amp;rft.jtitle=Transmission+%26+Distribution+World&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-allabout-13"><span class="mw-cite-backlink">^ <a href="#cite_ref-allabout_13-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-allabout_13-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.allaboutcircuits.com/">All About Circuits</a> [Online textbook], Tony R. Kuphaldt et al., last accessed on 17 May 2009.</span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation journal">Roberto Rudervall; J.P. Charpentier; Raghuveer Sharma (March 7–8, 2000). <a rel="nofollow" class="external text" href="http://library.abb.com/GLOBAL/SCOT/scot221.nsf/VerityDisplay/9E64DAB39F71129BC1256FDA004F7783/$File/Energyweek00.pdf">"High Voltage Direct Current (HVDC) Transmission Systems Technology Review Paper"</a> <span style="font-size:85%;">(PDF)</span>. World Bank.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AElectric+power+system&amp;rft.atitle=High+Voltage+Direct+Current+%28HVDC%29+Transmission+Systems+Technology+Review+Paper&amp;rft.au=J.P.+Charpentier&amp;rft.au=Raghuveer+Sharma&amp;rft.au=Roberto+Rudervall&amp;rft.date=2000-03-07%2F2000-03-08&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Flibrary.abb.com%2FGLOBAL%2FSCOT%2Fscot221.nsf%2FVerityDisplay%2F9E64DAB39F71129BC1256FDA004F7783%2F%24File%2FEnergyweek00.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span> (also <a rel="nofollow" class="external text" href="http://www.trec-uk.org.uk/elec_eng/world_bank_hvdc.pdf">here</a>)</span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation book">Ned Mohan; T. M. Undeland; William P. Robbins (2003). <i>Power Electronics: Converters, Applications, and Design</i>. United States of America: John Wiley &amp; Sons, Inc. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-471-22693-9" title="Special:BookSources/0-471-22693-9">0-471-22693-9</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AElectric+power+system&amp;rft.au=Ned+Mohan&amp;rft.au=T.+M.+Undeland&amp;rft.au=William+P.+Robbins&amp;rft.btitle=Power+Electronics%3A+Converters%2C+Applications%2C+and+Design&amp;rft.date=2003&amp;rft.genre=book&amp;rft.isbn=0-471-22693-9&amp;rft.place=United+States+of+America&amp;rft.pub=John+Wiley+%26+Sons%2C+Inc.&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text">S. Stoft. Power System Economics. IEEE Press, 2002.</span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation book">Chapman, Stephen (2002). <i>Electric Machinery and Power System Fundamentals</i>. Boston: McGraw-Hill. pp.&#160;Chapter 4. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-07-229135-4" title="Special:BookSources/0-07-229135-4">0-07-229135-4</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AElectric+power+system&amp;rft.aufirst=Stephen&amp;rft.aulast=Chapman&amp;rft.btitle=Electric+Machinery+and+Power+System+Fundamentals&amp;rft.date=2002&amp;rft.genre=book&amp;rft.isbn=0-07-229135-4&amp;rft.pages=Chapter+4&amp;rft.place=Boston&amp;rft.pub=McGraw-Hill&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation book">Chapman, Stephen (2002). <i>Electric Machinery and Power System Fundamentals</i>. Boston: McGraw-Hill. pp.&#160;Chapters 6 and 7. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-07-229135-4" title="Special:BookSources/0-07-229135-4">0-07-229135-4</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AElectric+power+system&amp;rft.aufirst=Stephen&amp;rft.aulast=Chapman&amp;rft.btitle=Electric+Machinery+and+Power+System+Fundamentals&amp;rft.date=2002&amp;rft.genre=book&amp;rft.isbn=0-07-229135-4&amp;rft.pages=Chapters+6+and+7&amp;rft.place=Boston&amp;rft.pub=McGraw-Hill&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://users.telenet.be/worldstandards/electricity.htm">Electricity around the world</a>, Conrad H. McGregor, April 2010.</span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://science.howstuffworks.com/question501.htm">What are amps, watts, volts and ohms?</a>, HowStuffWorks.com, 31 October 2000. Last accessed: 27 June 2010.</span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation book">Chapman, Stephen (2002). <i>Electric Machinery and Power System Fundamentals</i>. Boston: McGraw-Hill. pp.&#160;Chapter 11. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-07-229135-4" title="Special:BookSources/0-07-229135-4">0-07-229135-4</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AElectric+power+system&amp;rft.aufirst=Stephen&amp;rft.aulast=Chapman&amp;rft.btitle=Electric+Machinery+and+Power+System+Fundamentals&amp;rft.date=2002&amp;rft.genre=book&amp;rft.isbn=0-07-229135-4&amp;rft.pages=Chapter+11&amp;rft.place=Boston&amp;rft.pub=McGraw-Hill&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><i><a rel="nofollow" class="external text" href="http://www.powerstandards.com/tutor.htm">Brief power quality tutorials for engineers</a></i>, PSL, accessed 21 August 2010.</span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text">Marshall Brain, "<a rel="nofollow" class="external text" href="http://science.howstuffworks.com/environmental/energy/power.htm">How Power Grids Work</a>", howstuffworks.com, 1 April 2000.</span></li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.scribd.com/doc/26247685/Practical-Applications-of-Electrical-Conductors">Practical Applications of Electrical Conductors</a>, Stefan Fassbinder, Deutsches Kupferinstitut, January 2010.</span></li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><i><a rel="nofollow" class="external text" href="http://www.tpub.com/content/neets/14176/css/14176_22.htm">Naval Engineering Training Series</a></i> (Figure 1.6), U.S. Navy (republished by tpub.com), 2007.</span></li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.allaboutcircuits.com/vol_1/chpt_12/3.html">Conductor ampacity</a>, All About Circuits, Tony R. Kuphaldt et al., 2000.</span></li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><cite class="citation book">Grigsby, Leonard (2007). <i>Electric Power Generation, Transmission, and Distribution</i>. CRC Press 2007. pp.&#160;Chapter 14. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-8493-9292-4" title="Special:BookSources/978-0-8493-9292-4">978-0-8493-9292-4</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AElectric+power+system&amp;rft.aufirst=Leonard&amp;rft.aulast=Grigsby&amp;rft.btitle=Electric+Power+Generation%2C+Transmission%2C+and+Distribution&amp;rft.date=2007&amp;rft.genre=book&amp;rft.isbn=978-0-8493-9292-4&amp;rft.pages=Chapter+14&amp;rft.pub=CRC+Press+2007&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://electricalandelectronics.org/2009/04/09/switching-characteristics-of-thyristors-during-turn-on/">Switching Characteristics of Thyristors During Turn-On</a>, <i>[electricalandelectronics.org]</i>, April 9, 2009.</span></li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://powerelectronics.com/news/air-conditioner-modules/">"Air-conditioner Manufacturer Chooses Smart Power Modules"</a>. <i>Power Electronics Technology</i>. 31 August 2005<span class="reference-accessdate">. Retrieved <span class="nowrap">30 March</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AElectric+power+system&amp;rft.atitle=Air-conditioner+Manufacturer+Chooses+Smart+Power+Modules&amp;rft.date=2005-08-31&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fpowerelectronics.com%2Fnews%2Fair-conditioner-modules%2F&amp;rft.jtitle=Power+Electronics+Technology&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><cite class="citation journal">Calverley, H.B.; Jarvis, E.A.K.; Williams, E. (October 1957). <a rel="nofollow" class="external text" href="http://ieeexplore.ieee.org/xpl/freeabs_all.jsp?arnumber=5242078b">"Electrical equipment for rectifier locomotives"</a>. <i>Proceedings of the IEEE – Part A: Power Engineering</i>: 341–354.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AElectric+power+system&amp;rft.atitle=Electrical+equipment+for+rectifier+locomotives&amp;rft.au=Calverley%2C+H.B.&amp;rft.au=Jarvis%2C+E.A.K.&amp;rft.au=Williams%2C+E.&amp;rft.date=1957-10&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fieeexplore.ieee.org%2Fxpl%2Ffreeabs_all.jsp%3Farnumber%3D5242078b&amp;rft.jtitle=Proceedings+of+the+IEEE+%93+Part+A%3A+Power+Engineering&amp;rft.pages=341-354&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://ocw.kfupm.edu.sa/user/EE46603/Circuit%20Breakers.pdf">http://ocw.kfupm.edu.sa/user/EE46603/Circuit%20Breakers.pdf</a></span></li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.greenbrook.co.uk/pdf/pbcatpg21-22.pdf">How does an RCD work?</a>, PowerBreaker, accessed on 14-Mar-10.</span></li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.wired.com/2016/03/inside-cunning-unprecedented-hack-ukraines-power-grid/">Report: hack on Ukraine's power grid</a> , Kim Zetter, WIRED, March 3, 2016.</span></li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><cite class="citation journal"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20110310180723/http://www.docep.wa.gov.au/EnergySafety/PDF/Newsletters/electricians_newslet.pdf">"The MEN System of Earthing"</a> <span style="font-size:85%;">(PDF)</span>. <i>Electricians Newsletter No. 1</i>. Office of Energy (WA): 2. May 2001. Archived from <a rel="nofollow" class="external text" href="http://www.docep.wa.gov.au/energysafety/PDF/Newsletters/electricians_newslet.pdf">the original</a> <span style="font-size:85%;">(PDF)</span> on 10 March 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">30 Dec</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AElectric+power+system&amp;rft.atitle=The+MEN+System+of+Earthing&amp;rft.date=2001-05&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.docep.wa.gov.au%2Fenergysafety%2FPDF%2FNewsletters%2Felectricians_newslet.pdf&amp;rft.jtitle=Electricians+Newsletter+No.+1&amp;rft.pages=2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.electricalsolutions.net.au/articles/1546-Emergency-lighting-an-essential-service">http://www.electricalsolutions.net.au/articles/1546-Emergency-lighting-an-essential-service</a></span></li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-36">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://ecmweb.com/nec/code-basics/nec-commercial-loads-2-20100201/">http://ecmweb.com/nec/code-basics/nec-commercial-loads-2-20100201/</a></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Electric_power_system&amp;action=edit&amp;section=16" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.ieee.org/portal/site/pes">IEEE Power Engineering Society</a></li>
+<li><a rel="nofollow" class="external text" href="http://pepei.pennnet.com/articles/print_toc.cfm?Section=ARTCL&amp;p=17">Power Engineering International Magazine Articles</a></li>
+<li><a rel="nofollow" class="external text" href="http://pepei.pennnet.com/articles/print_toc.cfm?Section=ARTCL&amp;p=6">Power Engineering Magazine Articles</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.asope.org/">American Society of Power Engineers, Inc.</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.niulpe.org/">National Institute for the Uniform Licensing of Power Engineer Inc.</a></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Electricity_delivery" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Electricity_delivery" title="Template:Electricity delivery"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Electricity_delivery" title="Template talk:Electricity delivery"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Electricity_delivery&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Electricity_delivery" style="font-size:114%"><a href="/wiki/Electricity_delivery" title="Electricity delivery">Electricity delivery</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Concepts</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Availability_factor" title="Availability factor">Availability factor</a></li>
+<li><a href="/wiki/Automatic_generation_control" class="mw-redirect" title="Automatic generation control">Automatic generation control</a></li>
+<li><a href="/wiki/Base_load" title="Base load">Base load</a></li>
+<li><a href="/wiki/Black_start" title="Black start">Black start</a></li>
+<li><a href="/wiki/Capacity_factor" title="Capacity factor">Capacity factor</a></li>
+<li><a href="/wiki/Demand_factor" title="Demand factor">Demand factor</a></li>
+<li><a href="/wiki/Droop_speed_control" title="Droop speed control">Droop speed control</a></li>
+<li><a href="/wiki/Energy_demand_management" title="Energy demand management">Demand management</a></li>
+<li><a href="/wiki/Energy_returned_on_energy_invested" title="Energy returned on energy invested">EROEI</a></li>
+<li><a href="/wiki/Fault_(power_engineering)" title="Fault (power engineering)">Fault</a></li>
+<li><a href="/wiki/Grid_energy_storage" title="Grid energy storage">Grid storage</a></li>
+<li><a href="/wiki/Intermittent_energy_source" title="Intermittent energy source">Intermittency</a></li>
+<li><a href="/wiki/Load_factor_(electrical)" title="Load factor (electrical)">Load factor</a></li>
+<li><a href="/wiki/Load_following_power_plant" title="Load following power plant">Load following</a></li>
+<li><a href="/wiki/Nameplate_capacity" title="Nameplate capacity">Nameplate capacity</a></li>
+<li><a href="/wiki/Peak_demand" title="Peak demand">Peak demand</a></li>
+<li><a href="/wiki/Electric_power_quality" title="Electric power quality">Power quality</a></li>
+<li><a href="/wiki/Power-flow_study" title="Power-flow study">Power-flow study</a></li>
+<li><a href="/wiki/Repowering" title="Repowering">Repowering</a></li>
+<li><a href="/wiki/Variable_renewable_energy" title="Variable renewable energy">Variability</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Sources</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;width:7em;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Non-renewable_energy" class="mw-redirect" title="Non-renewable energy">Nonrenewable</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Coal" title="Coal">Coal</a></li>
+<li><a href="/wiki/Fossil_fuel_power_station" title="Fossil fuel power station">Fossil fuel power station</a></li>
+<li><a href="/wiki/Natural_gas" title="Natural gas">Natural gas</a></li>
+<li><a href="/wiki/Petroleum" title="Petroleum">Petroleum</a></li>
+<li><a href="/wiki/Nuclear_power" title="Nuclear power">Nuclear</a></li>
+<li><a href="/wiki/Oil_shale" title="Oil shale">Oil shale</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;width:7em;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Renewable_energy" title="Renewable energy">Renewable</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Biomass" title="Biomass">Biomass</a></li>
+<li><a href="/wiki/Biofuel" title="Biofuel">Biofuel</a></li>
+<li><a href="/wiki/Geothermal_power" title="Geothermal power">Geothermal</a></li>
+<li><a href="/wiki/Hydroelectricity" title="Hydroelectricity">Hydro</a></li>
+<li><a href="/wiki/Marine_energy" title="Marine energy">Marine</a>
+<ul>
+<li><a href="/wiki/Marine_current_power" title="Marine current power">Current</a></li>
+<li><a href="/wiki/Osmotic_power" title="Osmotic power">Osmotic</a></li>
+<li><a href="/wiki/Ocean_thermal_energy" class="mw-redirect" title="Ocean thermal energy">Thermal</a></li>
+<li><a href="/wiki/Tidal_power" title="Tidal power">Tidal</a></li>
+<li><a href="/wiki/Wave_power" title="Wave power">Wave</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Solar_power" title="Solar power">Solar</a></li>
+<li><a href="/wiki/Wind_power" title="Wind power">Wind</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Category:Power_station_technology" title="Category:Power station technology">Generation</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/AC_power" title="AC power">AC power</a></li>
+<li><a href="/wiki/Cogeneration" title="Cogeneration">Cogeneration</a></li>
+<li><a href="/wiki/Combined_cycle" title="Combined cycle">Combined cycle</a></li>
+<li><a href="/wiki/Cooling_tower" title="Cooling tower">Cooling tower</a></li>
+<li><a href="/wiki/Induction_generator" title="Induction generator">Induction generator</a></li>
+<li><a href="/wiki/Micro_combined_heat_and_power" title="Micro combined heat and power">Micro CHP</a></li>
+<li><a href="/wiki/Microgeneration" title="Microgeneration">Microgeneration</a></li>
+<li><a href="/wiki/Rankine_cycle" title="Rankine cycle">Rankine cycle</a></li>
+<li><a href="/wiki/Three-phase_electric_power" title="Three-phase electric power">Three-phase electric power</a></li>
+<li><a href="/wiki/Virtual_power_plant" title="Virtual power plant">Virtual power plant</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">
+<div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Electric_power_transmission" title="Electric power transmission">Transmission</a><br />
+and <a href="/wiki/Electric_power_distribution" title="Electric power distribution">distribution</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Power_outage" title="Power outage">Blackout</a> (<a href="/wiki/Rolling_blackout" title="Rolling blackout">Rolling blackout</a>)</li>
+<li><a href="/wiki/Brownout_(electricity)" title="Brownout (electricity)">Brownout</a></li>
+<li><a href="/wiki/Demand_response" title="Demand response">Demand response</a></li>
+<li><a href="/wiki/Distributed_generation" title="Distributed generation">Distributed generation</a></li>
+<li><a href="/wiki/Dynamic_demand_(electric_power)" title="Dynamic demand (electric power)">Dynamic demand</a></li>
+<li><a href="/wiki/Electric_power_distribution" title="Electric power distribution">Electric power distribution</a></li>
+<li><strong class="selflink">Electric power system</strong></li>
+<li><a href="/wiki/Electric_power_transmission" title="Electric power transmission">Electric power transmission</a></li>
+<li><a href="/wiki/Electrical_grid" title="Electrical grid">Electrical grid</a></li>
+<li><a href="/wiki/High-voltage_direct_current" title="High-voltage direct current">High-voltage direct current</a></li>
+<li><a href="/wiki/Load_management" title="Load management">Load management</a></li>
+<li><a href="/wiki/Pumped-storage_hydroelectricity" title="Pumped-storage hydroelectricity">Pumped hydro</a></li>
+<li><a href="/wiki/Power_station" title="Power station">Power station</a></li>
+<li><a href="/wiki/Power_storage" class="mw-redirect" title="Power storage">Power storage</a></li>
+<li><a href="/wiki/Smart_grid" title="Smart grid">Smart grid</a></li>
+<li><a href="/wiki/Electrical_substation" title="Electrical substation">Substation</a></li>
+<li><a href="/wiki/Super_grid" title="Super grid">Super grid</a></li>
+<li><a href="/wiki/Transformer" title="Transformer">Transformer</a></li>
+<li><a href="/wiki/Transmission_system_operator" title="Transmission system operator">Transmission system operator</a> (TSO)</li>
+<li><a href="/wiki/Transmission_tower" title="Transmission tower">Transmission tower</a></li>
+<li><a href="/wiki/Utility_pole" title="Utility pole">Utility pole</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">
+<div style="padding:0.1em 0;line-height:1.2em;">Protective<br />
+devices</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Arc-fault_circuit_interrupter" title="Arc-fault circuit interrupter">Arc-fault circuit interrupter</a></li>
+<li><a href="/wiki/Earth_leakage_circuit_breaker" title="Earth leakage circuit breaker">Earth leakage circuit breaker</a></li>
+<li><a href="/wiki/Residual-current_device" title="Residual-current device">Residual-current device</a> (GFI)</li>
+<li><a href="/wiki/Power-system_protection" title="Power-system protection">Power-system protection</a></li>
+<li><a href="/wiki/Protective_relay" title="Protective relay">Protective relay</a></li>
+<li><a href="/wiki/Digital_protective_relay" title="Digital protective relay">Digital protective relay</a></li>
+<li><a href="/wiki/Sulfur_hexafluoride_circuit_breaker" title="Sulfur hexafluoride circuit breaker">Sulfur hexafluoride circuit breaker</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">
+<div style="padding:0.1em 0;line-height:1.2em;">Economics<br />
+and policies</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Carbon_offset" title="Carbon offset">Carbon offset</a></li>
+<li><a href="/wiki/Cost_of_electricity_by_source" title="Cost of electricity by source">Cost of electricity by source</a></li>
+<li><a href="/wiki/Ecotax" title="Ecotax">Ecotax</a></li>
+<li><a href="/wiki/Energy_subsidies" title="Energy subsidies">Energy subsidies</a></li>
+<li><a href="/wiki/Feed-in_tariff" title="Feed-in tariff">Feed-in tariff</a></li>
+<li><a href="/wiki/Fossil-fuel_phase-out" class="mw-redirect" title="Fossil-fuel phase-out">Fossil-fuel phase-out</a></li>
+<li><a href="/wiki/Net_metering" title="Net metering">Net metering</a></li>
+<li><a href="/wiki/Pigovian_tax" title="Pigovian tax">Pigovian tax</a></li>
+<li><a href="/wiki/Renewable_Energy_Certificates" class="mw-redirect" title="Renewable Energy Certificates">Renewable Energy Certificates</a></li>
+<li><a href="/wiki/Renewable_energy_payments" class="mw-redirect" title="Renewable energy payments">Renewable energy payments</a></li>
+<li><a href="/wiki/Renewable_energy_policy" class="mw-redirect" title="Renewable energy policy">Renewable energy policy</a></li>
+<li><a href="/wiki/Spark_spread" title="Spark spread">Spark spread</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<dl>
+<dt>Categories</dt>
+<dd><a href="/wiki/Category:Electric_power_distribution" title="Category:Electric power distribution">Electric power distribution</a></dd>
+<dd><a href="/wiki/Category:Electricity_economics" title="Category:Electricity economics">Electricity economics</a></dd>
+<dd><a href="/wiki/Category:Power_station_technology" title="Category:Power station technology">Power station technology</a></dd>
+<dt>Portals</dt>
+<dd><a href="/wiki/Portal:Energy" title="Portal:Energy">Energy</a></dd>
+<dd><a href="/wiki/Portal:Renewable_energy" title="Portal:Renewable energy">Renewable energy</a></dd>
+<dd><a href="/wiki/Portal:Sustainable_development" title="Portal:Sustainable development">Sustainable development</a></dd>
+</dl>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1262
+Cached time: 20170201115701
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.244 seconds
+Real time usage: 0.286 seconds
+Preprocessor visited node count: 1607/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 52573/2097152 bytes
+Template argument size: 845/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 1/500
+Lua time usage: 0.097/10.000 seconds
+Lua memory usage: 5.31 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  226.298      1 -total
+ 48.27%  109.233      1 Template:Reflist
+ 18.43%   41.712      6 Template:Cite_web
+ 14.39%   32.570      1 Template:Convert
+ 13.82%   31.281      1 Template:Use_dmy_dates
+  9.23%   20.892      2 Template:Navbox
+  8.61%   19.491      1 Template:Electricity_generation
+  7.80%   17.646      5 Template:Cite_book
+  5.24%   11.856      1 Template:DMCA
+  4.91%   11.120      1 Template:Main
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:14105333-0!*!0!!en!4!* and timestamp 20170201115701 and revision id 756132651
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Electric_power_system&amp;oldid=756132651">https://en.wikipedia.org/w/index.php?title=Electric_power_system&amp;oldid=756132651</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Power_engineering" title="Category:Power engineering">Power engineering</a></li><li><a href="/wiki/Category:Electric_power" title="Category:Electric power">Electric power</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Use_dmy_dates_from_March_2016" title="Category:Use dmy dates from March 2016">Use dmy dates from March 2016</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Electric+power+system" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Electric+power+system" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Electric_power_system"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Electric_power_system"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Electric_power_system" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Electric_power_system&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Electric_power_system&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Electric_power_system" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Electric_power_system" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Electric_power_system&amp;oldid=756132651" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Electric_power_system&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q2388981" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Electric_power_system&amp;id=756132651" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Electric+power+system">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Electric+power+system&amp;returnto=Electric+power+system&amp;oldid=756132651&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Electric_power_system&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%86%D8%B8%D9%85_%D8%A7%D9%84%D9%82%D9%88%D9%89_%D8%A7%D9%84%D9%83%D9%87%D8%B1%D8%A8%D9%8A%D8%A9" title="نظم القوى الكهربية – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%B3%DB%8C%D8%B3%D8%AA%D9%85_%D9%82%D8%AF%D8%B1%D8%AA" title="سیستم قدرت – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A5%81%E0%A4%A4_%E0%A4%B6%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%BF_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A3%E0%A4%BE%E0%A4%B2%E0%A5%80" title="विद्युत शक्ति प्रणाली – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Sistemas_el%C3%A9tricos_de_pot%C3%AAncia" title="Sistemas elétricos de potência – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Sistem_energetic" title="Sistem energetic – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0" title="Электроэнергетическая система – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/H%E1%BB%87_th%E1%BB%91ng_l%C6%B0%E1%BB%9Bi_%C4%91i%E1%BB%87n" title="Hệ thống lưới điện – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E9%9B%BB%E5%8A%9B%E7%B3%BB%E7%B5%B1" title="電力系統 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q2388981#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 22 December 2016, at 05:39.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Electric_power_system&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.244","walltime":"0.286","ppvisitednodes":{"value":1607,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":52573,"limit":2097152},"templateargumentsize":{"value":845,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  226.298      1 -total"," 48.27%  109.233      1 Template:Reflist"," 18.43%   41.712      6 Template:Cite_web"," 14.39%   32.570      1 Template:Convert"," 13.82%   31.281      1 Template:Use_dmy_dates","  9.23%   20.892      2 Template:Navbox","  8.61%   19.491      1 Template:Electricity_generation","  7.80%   17.646      5 Template:Cite_book","  5.24%   11.856      1 Template:DMCA","  4.91%   11.120      1 Template:Main"]},"scribunto":{"limitreport-timeusage":{"value":"0.097","limit":"10.000"},"limitreport-memusage":{"value":5566895,"limit":52428800}},"cachereport":{"origin":"mw1262","timestamp":"20170201115701","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":76,"wgHostname":"mw1251"});});</script>
+	</body>
+</html>
