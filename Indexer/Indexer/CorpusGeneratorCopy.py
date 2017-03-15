@@ -23,6 +23,7 @@ def generate_corpus():
 
 head = "url : https://en.wikipedia.org/wiki/"
 
+
 def clean_page(unclean_page):
     global new_page
     title_text = unclean_page.readline()
@@ -71,11 +72,9 @@ def clean_page(unclean_page):
     text = re.sub('(?<![A-Za-z])[-]|[-](?![A-Za-z])', '', text)
     cleaned_page = text
     return cleaned_page, title
-#
-# i = 1
+
 
 def store_page(page, title):
-    global i
     print title
     if title is "":
         return
@@ -84,6 +83,7 @@ def store_page(page, title):
     cleaned_page_file.close()
 
     return
+
 
 def main():
     page, title = generate_corpus()
