@@ -56,6 +56,7 @@ def create_term_freq_table(word_dic, n_gram_val):
             doc_val += word_dic[word][doc]
         term_freq[word] = doc_val
     sorted_dict = list(sorted(term_freq.items(), key=lambda i: (i[1], i[0]), reverse=True))
+
     for each in sorted_dict:
         file_name.writelines("term -> " + str(each[0])
                              + ", freq -> " + str(each[1]) + '\n')
@@ -66,11 +67,13 @@ def create_term_freq_table(word_dic, n_gram_val):
 def create_doc_freq_table(word_dic, n_grams):
     file_name = open(corpus_dir + "document_frequency_table_for_"
                      + str(n_grams) + "_ngrams", "w+")
+
+    word_dic = OrderedDict(sorted(word_dic.items()))
     for word in word_dic:
         docs = word_dic[word]
         doc_total = len(docs)
         file_name.writelines("word -> " + str(word) + ", docs -> "
-                             + str(docs.keys()) + ", doc_frequency "
+                             + str(docs.keys()) + ",b doc_frequency "
                              + str(doc_total) + '\n')
     file_name.close()
     return 0
